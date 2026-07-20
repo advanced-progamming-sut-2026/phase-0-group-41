@@ -6,6 +6,9 @@ import model.game.Board;
 import model.plant.Plant;
 import model.zombie.Zombie;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class TroglobiteZombie extends Zombie {
 
     public TroglobiteZombie() {
@@ -31,13 +34,19 @@ public class TroglobiteZombie extends Zombie {
             // اگر کاشی جلویی وجود داشته باشد
             if (nextTile != null) {
                 Plant targetPlant = nextTile.getPlant();
-                Zombie targetZombie = nextTile.getZombie(); // زامبی‌های مستقر در کاشی جلو
-
+                List<Zombie> targetZombies = nextTile.getZombies(); // زامبی‌های مستقر در کاشی جلو
+                Zombie hitHypnotizedZombie = null;
                 // شرط برخورد یخ با گیاه یا زامبی هیپنوتیزم شده (Hypnotized)
                 boolean hitPlant = (targetPlant != null && !targetPlant.isDead());
-                boolean hitHypnotizedZombie = (targetZombie != null && targetZombie.isHypnotized());
+                for (Zombie zombie : targetZombies) {
+                    if (zombie.isHypnotized() && !zombie.isDead()) {
+                        hitHypnotizedZombie = zombie;
+                        break;
+                    }
+                }
+                boolean hitZombie = (hitHypnotizedZombie != null);
 
-                if (hitPlant || hitHypnotizedZombie) {
+                if (hitPlant || hitZombie) {
                     // الف) یخ درجا از بین می‌رود
                     currentTile.removeIceBlock();
 
@@ -46,7 +55,7 @@ public class TroglobiteZombie extends Zombie {
                         targetPlant.takeDamage(500); // یخ خرد می‌شود و دمیج بالایی می‌زند
                         if (targetPlant.isDead()) nextTile.setPlant(null);
                     } else {
-                        targetZombie.takeDamage(500);
+                        hitHypnotizedZombie.takeDamage(500);
                     }
                 } else if (!nextTile.hasIceBlock()) {
                     // ج) اگر راه باز بود و یخ دیگری جلو نبود، یخ فعلی یک خانه به جلو هل داده می‌شود

@@ -21,6 +21,7 @@ public abstract class Plant {
     private int feedEffectTicksRemaining = 0;
     private boolean octopused = false;
     private int octopusHealth = 0;
+    private boolean greenhouseBoosted = false;
     // === متدهای موقت برای پشتیبانی از زامبی جادوگر ===
     private boolean isCat = false;
 
@@ -65,6 +66,15 @@ public abstract class Plant {
         this.row = row;
         this.col = col;
     }
+
+    public boolean isGreenhouseBoosted() {
+        return greenhouseBoosted;
+    }
+
+    public void setGreenhouseBoosted(boolean greenhouseBoosted) {
+        this.greenhouseBoosted = greenhouseBoosted;
+    }
+
     // داخل کلاس Plant
     private int iceHitsReceived = 0;
     private boolean isFrozenSolid = false;

@@ -1,5 +1,6 @@
 package controller;
 
+import model.greenhouse.Greenhouse;
 import model.menu.MenuType;
 import model.user.SecurityQuestions;
 import model.user.User;
@@ -8,8 +9,10 @@ import util.CommandLine;
 import util.Validator;
 import view.ConsoleView;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 
 /** پیاده‌سازی منوهای ثبت‌نام/ورود/اصلی/تنظیمات/پروفایل/کالکشن مطابق داک فاز صفر و یک. */
 public class MenuController {
@@ -39,10 +42,17 @@ public class MenuController {
     }
 
     /** @return true اگر دستور پردازش شد */
+    private final Random random = new Random();
+
     public boolean handle(String rawLine, CommandLine cmd) {
         List<String> t = cmd.getTokens();
         if (t.isEmpty()) {
             return false;
+        }
+
+        if (t.get(0).equals("show") && t.size() >= 2 && t.get(1).equals("greenhouse")) {
+            showGreenhouse();
+            return true;
         }
 
         if (t.get(0).equals("menu")) {
@@ -60,6 +70,8 @@ public class MenuController {
                 return handleProfileMenu(t, cmd);
             case COLLECTION:
                 return handleCollectionMenu(t, cmd);
+            case GREENHOUSE:
+                return handleGreenhouseMenu(t, cmd);
             default:
                 return false;
         }
@@ -92,7 +104,16 @@ public class MenuController {
         if (t.size() >= 3 && t.get(1).equals("collection")) {
             return handleCollectionSubcommand(t, cmd);
         }
-        if (t.size() >= 2 && (t.get(1).equals("greenhouse") || t.get(1).equals("travel-log")
+        if (t.size() >= 2 && t.get(1).equals("greenhouse")) {
+            if (t.size() >= 3 && t.get(2).equals("enter")) {
+                currentMenu = MenuType.GREENHOUSE;
+                view.printMessage("وارد گلخانه شدید.");
+            } else {
+                showGreenhouse();
+            }
+            return true;
+        }
+        if (t.size() >= 2 && (t.get(1).equals("travel-log")
                 || t.get(1).equals("leaderboard") || t.get(1).equals("coin-wallet") || t.get(1).equals("gem-wallet"))) {
             view.printMessage("[stub] این بخش (" + t.get(1) + ") در این اسکلت به صورت کامل پیاده نشده؛ نقطه‌ی شروع در پکیج‌های greenhouse/quest/shop آماده است.");
             return true;
@@ -365,6 +386,198 @@ public class MenuController {
 
     private boolean handleProfileMenu(List<String> t, CommandLine cmd) {
         return false;
+    }
+
+    private boolean handleGreenhouseMenu(List<String> t, CommandLine cmd) {
+        if (!isLoggedIn()) {
+            view.printError("ابتدا وارد شوید.");
+            return true;
+        }
+        if (t.get(0).equals("plant") && t.size() >= 4 && t.get(1).equals("pot") && t.get(2).equals("at")) {
+            plantGreenhousePot(t);
+            return true;
+        }
+        if (t.get(0).equals("collect")) {
+            collectGreenhousePot(t);
+            return true;
+        }
+        if (t.get(0).equals("grow")) {
+            growGreenhousePot(t);
+            return true;
+        }
+        if (t.get(0).equals("unlock") && t.size() >= 4 && t.get(1).equals("pot") && t.get(2).equals("at")) {
+            unlockGreenhousePot(t);
+            return true;
+        }
+        return false;
+    }
+
+    private void showGreenhouse() {
+        if (!isLoggedIn()) {
+            view.printError("ابتدا وارد شوید.");
+            return;
+        }
+        view.printGreenhouse(loggedInUser);
+    }
+
+    private void plantGreenhousePot(List<String> t) {
+        int[] coords = parseCoordinates(t, 3);
+        if (coords == null) {
+            view.printError("فرمت مکان اشتباه است. نمونه: plant pot at (2, 1)");
+            return;
+        }
+        int col = coords[0] - 1;
+        int row = coords[1] - 1;
+        Greenhouse greenhouse = loggedInUser.getGreenhouse();
+        if (!greenhouse.isValidCoordinate(row, col)) {
+            view.printError("مختصات گلدان نامعتبر است.");
+            return;
+        }
+        if (greenhouse.isLocked(row, col)) {
+            view.printError("این گلدان قفل است. ابتدا آن را باز کنید.");
+            return;
+        }
+        if (!greenhouse.isEmpty(row, col)) {
+            view.printError("این گلدان قبلا پر شده است.");
+            return;
+        }
+
+        boolean isMarigold = random.nextBoolean();
+        String plantName;
+        long durationMillis;
+        if (isMarigold) {
+            plantName = "marigold";
+            durationMillis = 2 * 60 * 60 * 1000L;
+        } else {
+            ArrayList<String> unlocked = new ArrayList<>(loggedInUser.getUnlockedPlants());
+            if (unlocked.isEmpty()) {
+                plantName = "marigold";
+                durationMillis = 2 * 60 * 60 * 1000L;
+            } else {
+                plantName = unlocked.get(random.nextInt(unlocked.size()));
+                durationMillis = 8 * 60 * 60 * 1000L;
+            }
+        }
+        greenhouse.plantAt(row, col, plantName, durationMillis);
+        userManager.save();
+        view.printMessage("گیاه " + plantName + " در گلدان (" + coords[0] + ", " + coords[1] + ") کاشته شد و پس از "
+                + Greenhouse.formatDuration(durationMillis) + " آماده می‌شود.");
+    }
+
+    private void collectGreenhousePot(List<String> t) {
+        int[] coords = parseCoordinates(t, 1);
+        if (coords == null) {
+            view.printError("فرمت مکان اشتباه است. نمونه: collect (2, 1)");
+            return;
+        }
+        int col = coords[0] - 1;
+        int row = coords[1] - 1;
+        Greenhouse greenhouse = loggedInUser.getGreenhouse();
+        if (!greenhouse.isValidCoordinate(row, col)) {
+            view.printError("مختصات گلدان نامعتبر است.");
+            return;
+        }
+        if (!greenhouse.hasPlant(row, col)) {
+            view.printError("گیاه مستقیمی در این گلدان وجود ندارد.");
+            return;
+        }
+        if (!greenhouse.isReady(row, col)) {
+            view.printError("این گیاه هنوز آماده برداشت نیست.");
+            return;
+        }
+        String plantName = greenhouse.getPlantName(row, col);
+        loggedInUser.addCoins(500);
+        if (!plantName.equals("marigold")) {
+            if (!loggedInUser.hasGreenhouseBoost(plantName)) {
+                loggedInUser.addGreenhouseBoost(plantName);
+                view.printMessage("500 سکه دریافت شد و بوست گیاه " + plantName + " ذخیره شد.");
+            } else {
+                view.printMessage("500 سکه دریافت شد. بوست این گیاه از قبل ذخیره شده بود.");
+            }
+        } else {
+            view.printMessage("500 سکه دریافت شد.");
+        }
+        greenhouse.clearPot(row, col);
+        userManager.save();
+    }
+
+    private void growGreenhousePot(List<String> t) {
+        int[] coords = parseCoordinates(t, 1);
+        if (coords == null) {
+            view.printError("فرمت مکان اشتباه است. نمونه: grow (2, 1)");
+            return;
+        }
+        int col = coords[0] - 1;
+        int row = coords[1] - 1;
+        Greenhouse greenhouse = loggedInUser.getGreenhouse();
+        if (!greenhouse.isValidCoordinate(row, col)) {
+            view.printError("مختصات گلدان نامعتبر است.");
+            return;
+        }
+        if (!greenhouse.hasPlant(row, col)) {
+            view.printError("گیاه مستقیمی در این گلدان وجود ندارد.");
+            return;
+        }
+        if (greenhouse.isReady(row, col)) {
+            view.printError("این گیاه هم‌اکنون آماده است.");
+            return;
+        }
+        long remaining = greenhouse.getRemainingMillis(row, col);
+        int cost = (int) ((remaining + 3600_000L - 1) / 3600_000L);
+        if (!loggedInUser.spendDiamonds(cost)) {
+            view.printError("الماس کافی برای تسریع رشد ندارید.");
+            return;
+        }
+        greenhouse.acceleratePot(row, col);
+        userManager.save();
+        view.printMessage(cost + " الماس مصرف شد و رشد گیاه کامل شد.");
+    }
+
+    private void unlockGreenhousePot(List<String> t) {
+        int[] coords = parseCoordinates(t, 3);
+        if (coords == null) {
+            view.printError("فرمت مکان اشتباه است. نمونه: unlock pot at (2, 1)");
+            return;
+        }
+        int col = coords[0] - 1;
+        int row = coords[1] - 1;
+        Greenhouse greenhouse = loggedInUser.getGreenhouse();
+        if (!greenhouse.isValidCoordinate(row, col)) {
+            view.printError("مختصات گلدان نامعتبر است.");
+            return;
+        }
+        if (!greenhouse.isLocked(row, col)) {
+            view.printError("این گلدان قبلا باز شده است.");
+            return;
+        }
+        int cost = 2000;
+        if (!loggedInUser.spendCoins(cost)) {
+            view.printError("سکه کافی برای باز کردن گلدان ندارید.");
+            return;
+        }
+        greenhouse.unlock(row, col);
+        userManager.save();
+        view.printMessage("گلدان باز شد.");
+    }
+
+    private int[] parseCoordinates(List<String> t, int startIndex) {
+        if (t.size() <= startIndex) {
+            return null;
+        }
+        String joined = String.join(" ", t.subList(startIndex, t.size()));
+        String cleaned = joined.replaceAll("[^0-9\\-]+", " ").trim();
+        if (cleaned.isEmpty()) {
+            return null;
+        }
+        String[] parts = cleaned.split("\\s+");
+        if (parts.length < 2) {
+            return null;
+        }
+        try {
+            return new int[]{Integer.parseInt(parts[0]), Integer.parseInt(parts[1])};
+        } catch (NumberFormatException e) {
+            return null;
+        }
     }
 
     private boolean handleProfileSubcommand(List<String> t, CommandLine cmd) {

@@ -7,6 +7,7 @@ import model.plant.Plant;
 import model.plant.PlantFactory;
 import model.plant.plants.Sunflower;
 import model.sun.FallingSun;
+import model.user.User;
 import model.zombie.Zombie;
 import model.zombie.ZombieFactory;
 import util.CommandLine;
@@ -177,6 +178,12 @@ public class GameController {
             return;
         }
         Plant plant = PlantFactory.create(type);
+        User user = session.getUser();
+        if (user.hasGreenhouseBoost(type)) {
+            plant.setGreenhouseBoosted(true);
+            user.consumeGreenhouseBoost(type);
+            view.printMessage("بوست گلخانه برای گیاه " + type + " فعال شد.");
+        }
         if (!session.getSunManager().spendSun(plant.getSunCost())) {
             view.printError("خورشید کافی برای کاشت این گیاه ندارید.");
             return;

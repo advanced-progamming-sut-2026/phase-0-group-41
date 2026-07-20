@@ -1,7 +1,11 @@
 package model.user;
 
+import model.greenhouse.Greenhouse;
+
 import java.io.Serializable;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 
 public class User implements Serializable {
@@ -24,6 +28,9 @@ public class User implements Serializable {
     private int levelsCompleted = 0;
     private int maxMowPoints = 0;
 
+    private Greenhouse greenhouse;
+    private Map<String, Boolean> greenhouseBoosts;
+
     private final Set<String> unlockedPlants = new HashSet<>();
     private final Set<String> seenZombies = new HashSet<>();
 
@@ -37,6 +44,8 @@ public class User implements Serializable {
         unlockedPlants.add("peashooter");
         unlockedPlants.add("sunflower");
         unlockedPlants.add("wallnut");
+        this.greenhouse = new Greenhouse();
+        this.greenhouseBoosts = new HashMap<>();
     }
 
     public String getUsername() {
@@ -159,5 +168,31 @@ public class User implements Serializable {
 
     public Set<String> getSeenZombies() {
         return seenZombies;
+    }
+
+    public Greenhouse getGreenhouse() {
+        if (greenhouse == null) {
+            greenhouse = new Greenhouse();
+        }
+        return greenhouse;
+    }
+
+    public boolean hasGreenhouseBoost(String plantName) {
+        return getGreenhouseBoosts().getOrDefault(plantName, false);
+    }
+
+    public void addGreenhouseBoost(String plantName) {
+        getGreenhouseBoosts().putIfAbsent(plantName, true);
+    }
+
+    public void consumeGreenhouseBoost(String plantName) {
+        getGreenhouseBoosts().remove(plantName);
+    }
+
+    public Map<String, Boolean> getGreenhouseBoosts() {
+        if (greenhouseBoosts == null) {
+            greenhouseBoosts = new HashMap<>();
+        }
+        return greenhouseBoosts;
     }
 }

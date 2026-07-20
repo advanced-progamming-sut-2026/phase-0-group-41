@@ -3,8 +3,12 @@ package view;
 import model.game.Board;
 import model.game.GameSession;
 import model.game.Tile;
+import model.greenhouse.Greenhouse;
 import model.plant.Plant;
+import model.user.User;
 import model.zombie.Zombie;
+
+import java.util.Map;
 
 public class ConsoleView {
 
@@ -62,6 +66,31 @@ public class ConsoleView {
     }
 
     // ✨ اینجا کار رو می‌سپریم به کلاس ZombieView ✨
+    public void printGreenhouse(User user) {
+        Greenhouse greenhouse = user.getGreenhouse();
+        System.out.println("---- Greenhouse ----");
+        System.out.println("   Col 1   Col 2   Col 3   Col 4   Col 5");
+        for (int r = 0; r < Greenhouse.ROWS; r++) {
+            StringBuilder rowBuilder = new StringBuilder();
+            rowBuilder.append("Row ").append(r + 1).append(" ");
+            for (int c = 0; c < Greenhouse.COLS; c++) {
+                String status;
+                if (greenhouse.isLocked(r, c)) {
+                    status = "LOCKED";
+                } else if (greenhouse.isEmpty(r, c)) {
+                    status = "EMPTY";
+                } else if (greenhouse.isReady(r, c)) {
+                    status = "READY:" + greenhouse.getPlantName(r, c);
+                } else {
+                    status = greenhouse.getPlantName(r, c) + "(" + Greenhouse.formatDuration(greenhouse.getRemainingMillis(r, c)) + ")";
+                }
+                rowBuilder.append(String.format("%-8s", status)).append(" ");
+            }
+            System.out.println(rowBuilder.toString().trim());
+        }
+        System.out.println("---------------------");
+    }
+
     public void printZombieInfo(Zombie z) {
         zombieView.displayInfo(z);
     }

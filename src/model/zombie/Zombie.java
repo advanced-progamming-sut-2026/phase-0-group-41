@@ -15,11 +15,19 @@ public abstract class Zombie {
     private double xPosition;
     private boolean eating = false;
     private boolean dead = false;
+    private boolean isHypnotized = false; // متغیر برای بررسی وضعیت هیپنوتیزم
     // === متغیرها و متدهای مربوط به ارتقای شوالیه در کلاس Zombie یا NormalZombie ===
     private boolean isKnight = false;
 
+
     public boolean isKnight() {
         return this.isKnight;
+    }
+    public boolean isHypnotized() {
+        return this.isHypnotized;
+    }
+    public void setHypnotized(boolean state) {
+        this.isHypnotized = state;
     }
     public void setHealth(int health) {
         // اگر اسم متغیر جان در کلاس شما چیز دیگری است (مثل hp)، آن را جایگزین health کن
