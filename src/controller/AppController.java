@@ -1,7 +1,6 @@
 package controller;
 
 import model.game.GameSession;
-import model.menu.MenuType;
 import model.user.User;
 import model.user.UserManager;
 import util.CommandLine;

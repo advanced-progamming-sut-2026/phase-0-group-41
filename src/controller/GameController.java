@@ -32,7 +32,7 @@ public class GameController {
             return false;
         }
         String first = t.get(0);
-
+//salam
         if (first.equals("advance") && t.size() >= 3 && t.get(1).equals("time")) {
             int count = Integer.parseInt(cmd.get("t"));
             session.advanceTicks(count);
