@@ -12,6 +12,10 @@ public class User implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
+    // === متغیرهای سیستم ارتقاء گیاهان ===
+    private Map<String, Integer> plantLevels;
+    private Map<String, Integer> seedPackets;
+
     private String username;
     private String passwordHash;
     private String nickname;
@@ -40,6 +44,18 @@ public class User implements Serializable {
         this.nickname = nickname;
         this.email = email;
         this.gender = gender;
+
+        // مقداردهی اولیه سیستم ارتقاء
+        this.plantLevels = new HashMap<>();
+        this.seedPackets = new HashMap<>();
+        // گیاهان پایه از لول ۱ شروع می‌کنند
+        this.plantLevels.put("peashooter", 1);
+        this.plantLevels.put("sunflower", 1);
+        this.plantLevels.put("wallnut", 1);
+
+
+
+
         // گیاهان پایه‌ای که از ابتدا در دسترس‌اند
         unlockedPlants.add("peashooter");
         unlockedPlants.add("sunflower");
@@ -195,4 +211,41 @@ public class User implements Serializable {
         }
         return greenhouseBoosts;
     }
+
+    // ==========================================
+    // متدهای مدیریت ارتقاء گیاهان (Seed Packets و Level)
+    // ==========================================
+
+    public int getPlantLevel(String plantName) {
+        if (plantLevels == null) plantLevels = new HashMap<>();
+        return plantLevels.getOrDefault(plantName, 1);
+    }
+
+    public int getSeedPackets(String plantName) {
+        if (seedPackets == null) seedPackets = new HashMap<>();
+        return seedPackets.getOrDefault(plantName, 0);
+    }
+
+    public void addSeedPackets(String plantName, int amount) {
+        if (seedPackets == null) seedPackets = new HashMap<>();
+        seedPackets.put(plantName, getSeedPackets(plantName) + amount);
+    }
+
+    public boolean upgradePlant(String plantName, int costInCoins, int requiredPackets) {
+        int currentPackets = getSeedPackets(plantName);
+
+        if (this.coins >= costInCoins && currentPackets >= requiredPackets) {
+            this.coins -= costInCoins; // کسر سکه‌ها
+            this.seedPackets.put(plantName, currentPackets - requiredPackets); // کسر بذرها
+
+            int newLevel = getPlantLevel(plantName) + 1;
+            this.plantLevels.put(plantName, newLevel); // ثبت لول جدید
+            return true;
+        }
+        return false; // سکه یا بذر کافی نیست
+    }
+
+
+
+
 }

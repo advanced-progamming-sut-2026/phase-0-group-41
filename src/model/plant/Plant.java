@@ -21,9 +21,20 @@ public abstract class Plant {
     private int feedEffectTicksRemaining = 0;
     private boolean octopused = false;
     private int octopusHealth = 0;
-    private boolean greenhouseBoosted = false;
     // === متدهای موقت برای پشتیبانی از زامبی جادوگر ===
     private boolean isCat = false;
+
+    // === متغیرها و متدهای اضافه شده برای سیستم "ارتقاء گیاهان" ===
+    protected int level = 1;
+
+    public int getLevel() {
+        return this.level;
+    }
+
+    public void upgrade() {
+        this.level++;
+        // هنگام ارتقاء می‌توانید منطق افزایش جان پایه یا کاهش هزینه را در کلاس‌های فرزند اعمال کنید
+    }
 
     public boolean isTransformedToCat() {
         return this.isCat;
@@ -66,15 +77,6 @@ public abstract class Plant {
         this.row = row;
         this.col = col;
     }
-
-    public boolean isGreenhouseBoosted() {
-        return greenhouseBoosted;
-    }
-
-    public void setGreenhouseBoosted(boolean greenhouseBoosted) {
-        this.greenhouseBoosted = greenhouseBoosted;
-    }
-
     // داخل کلاس Plant
     private int iceHitsReceived = 0;
     private boolean isFrozenSolid = false;
@@ -90,13 +92,21 @@ public abstract class Plant {
             // اینجا می‌توانید انیمیشن یا وضعیت گیاه را به حالت یخی تغییر دهید
         }
     }
+
     /** هر تیک بازی یک بار روی این گیاه صدا زده می‌شود. */
     public abstract void onTick(GameSession session);
+
+    /**
+     * قابلیت ویژه‌ی مربوط به "غذای گیاه" (Plant Food).
+     * هر گیاه فرزند باید منطق اختصاصی خود را در این متد پیاده‌سازی کند.
+     */
+    public abstract void applyPlantFoodEffect(GameSession session);
 
     /** وقتی «غذای گیاه» به این گیاه داده می‌شود صدا زده می‌شود. */
     public void feed(GameSession session) {
         fed = true;
         feedEffectTicksRemaining = 50; // اثر موقت برای مدت کوتاهی فعال است
+        applyPlantFoodEffect(session); // فراخوانی و اجرای فوری قابلیت ویژه
     }
 
     protected boolean isFeedActive() {

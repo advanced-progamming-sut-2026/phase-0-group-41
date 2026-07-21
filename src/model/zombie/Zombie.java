@@ -19,6 +19,16 @@ public abstract class Zombie {
     // === متغیرها و متدهای مربوط به ارتقای شوالیه در کلاس Zombie یا NormalZombie ===
     private boolean isKnight = false;
 
+    // === متغیرهای اضافه شده برای مکانیزم "غذای گیاه" ===
+    private boolean carriesPlantFood = false;
+
+    public boolean isCarriesPlantFood() {
+        return this.carriesPlantFood;
+    }
+
+    public void setCarriesPlantFood(boolean carries) {
+        this.carriesPlantFood = carries;
+    }
 
     public boolean isKnight() {
         return this.isKnight;
