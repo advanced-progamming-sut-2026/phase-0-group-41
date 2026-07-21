@@ -2,6 +2,10 @@ package model.plant;
 
 import model.game.GameSession;
 
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * پایه مشترک همه‌ی گیاهان. هر گیاه مشخص (Peashooter، Sunflower و ...) این کلاس را
  * extend کرده و رفتار مخصوص خودش را در onTick/onFeed پیاده می‌کند.
@@ -12,29 +16,24 @@ public abstract class Plant {
     private final PlantType type;
     private final int sunCost;
     private final int cooldownTicks;
-    private final int maxHealth;
 
+    // کلمه final برداشته شد تا در ارتقاء (لول 3) بتوانیم جان ماکزیمم را افزایش دهیم
+    private int maxHealth;
     private int health;
+
     private int row;
     private int col;
     private boolean fed = false;
     private int feedEffectTicksRemaining = 0;
+
     private boolean octopused = false;
     private int octopusHealth = 0;
+
     // === متدهای موقت برای پشتیبانی از زامبی جادوگر ===
     private boolean isCat = false;
 
-    // === متغیرها و متدهای اضافه شده برای سیستم "ارتقاء گیاهان" ===
-    protected int level = 1;
-
-    public int getLevel() {
-        return this.level;
-    }
-
-    public void upgrade() {
-        this.level++;
-        // هنگام ارتقاء می‌توانید منطق افزایش جان پایه یا کاهش هزینه را در کلاس‌های فرزند اعمال کنید
-    }
+    // لیست نگهداری تگ‌های گیاه
+    private final Set<PlantTag> tags = new HashSet<>();
 
     public boolean isTransformedToCat() {
         return this.isCat;
@@ -44,6 +43,7 @@ public abstract class Plant {
         this.isCat = state;
         // بعداً اینجا منطقی می‌نویسیم که اگر true شد، شلیک گیاه قطع شود
     }
+
     public boolean isOctopused() {
         return this.octopused;
     }
@@ -64,19 +64,32 @@ public abstract class Plant {
             this.octopusHealth = 0; // اختاپوس نابود شد و گیاه آزاد می‌شود!
         }
     }
-    protected Plant(String name, PlantType type, int sunCost, int cooldownTicks, int maxHealth) {
+
+    // سازنده اصلی به همراه دریافت تگ‌ها (Varargs)
+    protected Plant(String name, PlantType type, int sunCost, int cooldownTicks, int maxHealth, PlantTag... initialTags) {
         this.name = name;
         this.type = type;
         this.sunCost = sunCost;
         this.cooldownTicks = cooldownTicks;
         this.maxHealth = maxHealth;
         this.health = maxHealth;
+
+        // اضافه کردن تگ‌های ورودی به لیست
+        if (initialTags != null) {
+            this.tags.addAll(Arrays.asList(initialTags));
+        }
+    }
+
+    // متد بررسی وجود یک تگ خاص در گیاه
+    public boolean hasTag(PlantTag tag) {
+        return tags.contains(tag);
     }
 
     public void place(int row, int col) {
         this.row = row;
         this.col = col;
     }
+
     // داخل کلاس Plant
     private int iceHitsReceived = 0;
     private boolean isFrozenSolid = false;
@@ -96,17 +109,10 @@ public abstract class Plant {
     /** هر تیک بازی یک بار روی این گیاه صدا زده می‌شود. */
     public abstract void onTick(GameSession session);
 
-    /**
-     * قابلیت ویژه‌ی مربوط به "غذای گیاه" (Plant Food).
-     * هر گیاه فرزند باید منطق اختصاصی خود را در این متد پیاده‌سازی کند.
-     */
-    public abstract void applyPlantFoodEffect(GameSession session);
-
     /** وقتی «غذای گیاه» به این گیاه داده می‌شود صدا زده می‌شود. */
     public void feed(GameSession session) {
         fed = true;
         feedEffectTicksRemaining = 50; // اثر موقت برای مدت کوتاهی فعال است
-        applyPlantFoodEffect(session); // فراخوانی و اجرای فوری قابلیت ویژه
     }
 
     protected boolean isFeedActive() {
@@ -165,4 +171,21 @@ public abstract class Plant {
     public boolean isFed() {
         return fed;
     }
+
+    // === متدهای اضافه شده برای پشتیبانی از سیستم ارتقاء گیاهان ===
+
+    public void setMaxHealth(int maxHealth) {
+        this.maxHealth = maxHealth;
+    }
+
+    public void setHealth(int health) {
+        this.health = health;
+    }
+
+    public boolean isFrozenSolid() {
+        return this.isFrozenSolid;
+    }
+
+
 }
+
