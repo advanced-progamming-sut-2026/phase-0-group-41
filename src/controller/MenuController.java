@@ -72,6 +72,8 @@ public class MenuController {
                 return handleCollectionMenu(t, cmd);
             case GREENHOUSE:
                 return handleGreenhouseMenu(t, cmd);
+            case SHOP:                                 
+                return handleShopMenu(t, cmd);
             default:
                 return false;
         }
@@ -167,6 +169,10 @@ public class MenuController {
                 return MenuType.PROFILE;
             case "collection":
                 return MenuType.COLLECTION;
+            case "greenhouse":
+                return MenuType.GREENHOUSE;
+            case "shop":
+                return MenuType.SHOP;    
             default:
                 return null;
         }
@@ -190,6 +196,8 @@ public class MenuController {
             case COLLECTION:
                 currentMenu = MenuType.GAME;
                 break;
+            case SHOP: currentMenu = MenuType.GREENHOUSE;
+                break;    
             case MAIN:
                 view.printError("برای خروج از منوی اصلی از دستور 'menu logout' استفاده کنید.");
                 break;
@@ -705,5 +713,43 @@ public class MenuController {
                 view.printMessage("[stub] این زیربخش کالکشن (" + sub + ") در اسکلت به صورت خلاصه پیاده شده است.");
                 return true;
         }
+    }
+     // ---------------- SHOP ----------------
+    private boolean handleShopMenu(List<String> t, CommandLine cmd) {
+        // ۱. دستور show shop
+        if (t.get(0).equals("show") && t.size() >= 2 && t.get(1).equals("shop")) {
+            view.printMessage("=== فروشگاه ===");
+            view.printMessage("-- با سکه --");
+            for (String item : Shop.PERMANENT_ITEM_COIN_PRICES.keySet()) {
+                view.printMessage("- " + item + " : " + Shop.PERMANENT_ITEM_COIN_PRICES.get(item));
+            }
+            view.printMessage("-- با الماس --");
+            for (String item : Shop.PERMANENT_ITEM_DIAMOND_PRICES.keySet()) {
+                view.printMessage("- " + item + " : " + Shop.PERMANENT_ITEM_DIAMOND_PRICES.get(item));
+            }
+            view.printMessage("-- پیشنهاد روزانه (۲۰٪ تخفیف) --");
+            if (loggedInUser.isDailyOfferPurchased()) {
+                view.printMessage("پیشنهاد امروز خریداری شده است!");
+            } else {
+                view.printMessage("- " + loggedInUser.getDailyOfferPlant() + " : 1600 سکه");}
+            return true;
+        }
+        // ۲. دستور خرید (مثال: buy pot یا buy plant-food)
+        if (t.get(0).equals("buy") && t.size() >= 2) {
+            String itemName = t.get(1); // گرفتن نام کالا از دستور کاربر
+
+            // باید تشخیص دهیم کاربر می‌خواهد با سکه بخرد یا الماس؟
+            // ساده‌ترین راه: اگر کالا در لیست الماس‌ها بود، یعنی الماسی است!
+            boolean useDiamonds = Shop.PERMANENT_ITEM_DIAMOND_PRICES.containsKey(itemName);
+            boolean success = Shop.CanBuy(loggedInUser, itemName, useDiamonds);
+            if (success) {
+                userManager.save();
+                view.printMessage("خرید " + itemName + " با موفقیت انجام شد!");
+            } else {
+                view.printError("خرید ناموفق بود. یا موجودی کافی نیست یا نام کالا اشتباه است.");
+            }
+            return true;
+        }
+        return false;
     }
 }
