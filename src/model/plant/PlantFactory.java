@@ -44,7 +44,7 @@ public final class PlantFactory {
         if (plantName == null) {
             throw new IllegalArgumentException("نام گیاه نمی‌تواند null باشد.");
         }
-
+//salam
         switch (plantName.toLowerCase()) {
             case "appeasemint": return new AppeaseMint();
             case "armamint": return new ArmaMint();
