@@ -79,4 +79,13 @@ public final class ZombieFactory {
         String type = BASIC_ZOMBIE_TYPES.get(RANDOM.nextInt(BASIC_ZOMBIE_TYPES.size()));
         return create(type);
     }
+    public static java.util.List<String> allZombieNames() {
+        return Arrays.asList(
+                "normal", "conehead", "buckethead", "blockhead", "knight",
+                "explorer", "hunter", "troglobite", "snorkel", "octopus",
+                "jester", "wizard", "king", "imp_dragon", "imp",
+                "gargantuar", "newspaper", "prospector", "ra", "tombraiser",
+                "turquoise", "dodorider", "pianist"
+        );
+    }
 }

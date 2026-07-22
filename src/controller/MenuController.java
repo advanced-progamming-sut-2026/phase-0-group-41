@@ -16,7 +16,7 @@ import java.util.Random;
 
 /** پیاده‌سازی منوهای ثبت‌نام/ورود/اصلی/تنظیمات/پروفایل/کالکشن مطابق داک فاز صفر و یک. */
 public class MenuController {
-
+    private final CollectionController collectionController;
     private final UserManager userManager;
     private final ConsoleView view;
 
@@ -27,6 +27,8 @@ public class MenuController {
     public MenuController(UserManager userManager, ConsoleView view) {
         this.userManager = userManager;
         this.view = view;
+        this.collectionController = new CollectionController(userManager); // اضافه کردن این خط
+
     }
 
     public MenuType getCurrentMenu() {
@@ -69,7 +71,9 @@ public class MenuController {
             case PROFILE:
                 return handleProfileMenu(t, cmd);
             case COLLECTION:
-                return handleCollectionMenu(t, cmd);
+                // === تغییر مهم در این خط اتفاق افتاده است ===
+                // به جای فراخوانی متد پاک شده، از کنترلر جدید استفاده می‌کنیم
+                return collectionController.handle(loggedInUser, t, cmd);
             case GREENHOUSE:
                 return handleGreenhouseMenu(t, cmd);
             default:
@@ -135,20 +139,55 @@ public class MenuController {
             view.printError("منوی ناشناخته: " + target);
             return true;
         }
-        // قوانین دسترسی مطابق داک
-        if (currentMenu == MenuType.REGISTER && requested != MenuType.LOGIN) {
-            view.printError("از منوی ثبت‌نام فقط می‌توانید به منوی ورود بروید.");
+
+        // === بررسی قوانین دسترسی ورود به منوها طبق داکیومنت ===
+        boolean isAllowed = false;
+
+        switch (currentMenu) {
+            case REGISTER:
+                // از منوی ثبت‌نام فقط به منوی ورود
+                if (requested == MenuType.LOGIN) isAllowed = true;
+                break;
+
+            case LOGIN:
+                // از منوی ورود فقط به منوی اصلی (به شرط لاگین بودن)
+                if (requested == MenuType.MAIN && isLoggedIn()) isAllowed = true;
+                else if (requested == MenuType.MAIN && !isLoggedIn()) {
+                    view.printError("برای رفتن به منوی اصلی ابتدا باید وارد حساب کاربری شوید.");
+                    return true;
+                }
+                break;
+
+            case MAIN:
+                // از منوی اصلی به منوی بازی، تنظیمات، اخبار، شبکه و پروفایل
+                // (منوی شبکه فعلا در Enum شما نیست ولی بقیه هستند)
+                if (requested == MenuType.GAME || requested == MenuType.SETTINGS ||
+                        requested == MenuType.NEWS || requested == MenuType.PROFILE) {
+                    isAllowed = true;
+                }
+                break;
+
+            case GAME:
+                // از منوی بازی فقط به منوی کلکسیون
+                if (requested == MenuType.COLLECTION) isAllowed = true;
+                break;
+
+            default:
+                // از داخل منوهایی مثل کلکسیون یا پروفایل نمی‌توان با enter به جای دیگری رفت.
+                // بلکه باید اول exit کرد تا به منوی پدر برگشت.
+                isAllowed = false;
+                break;
+        }
+
+        if (!isAllowed) {
+            view.printError("امکان ورود به منوی " + requested + " از منوی فعلی (" + currentMenu + ") وجود ندارد.");
             return true;
         }
-        if (currentMenu == MenuType.LOGIN && requested == MenuType.MAIN && !isLoggedIn()) {
-            view.printError("برای رفتن به منوی اصلی ابتدا باید وارد حساب کاربری شوید.");
-            return true;
-        }
+
         currentMenu = requested;
         view.printMessage("وارد منوی " + requested + " شدید.");
         return true;
     }
-
     private MenuType mapMenuName(String name) {
         switch (name.toLowerCase()) {
             case "register":
@@ -666,44 +705,12 @@ public class MenuController {
 
     // ---------------- COLLECTION ----------------
 
-    private boolean handleCollectionMenu(List<String> t, CommandLine cmd) {
-        return false;
-    }
-
     private boolean handleCollectionSubcommand(List<String> t, CommandLine cmd) {
         if (!isLoggedIn()) {
             view.printError("ابتدا وارد شوید.");
             return true;
         }
-        if (t.size() < 3) {
-            return false;
-        }
-        String sub = t.get(2);
-        switch (sub) {
-            case "show-plants":
-                view.printMessage("گیاهان کسب‌شده: " + loggedInUser.getUnlockedPlants());
-                return true;
-            case "show-all-plants":
-                view.printMessage("همه گیاهان تعریف‌شده: "
-                        + model.plant.PlantFactory.allPlantNames());
-                return true;
-            case "show-zombies":
-                view.printMessage("زامبی‌های مشاهده‌شده: " + loggedInUser.getSeenZombies());
-                return true;
-            case "purchase-plant": {
-                String plantName = cmd.get("p");
-                if (!loggedInUser.spendCoins(2000)) {
-                    view.printError("سکه کافی برای خرید این گیاه ندارید.");
-                    return true;
-                }
-                loggedInUser.getUnlockedPlants().add(plantName);
-                userManager.save();
-                view.printMessage("گیاه " + plantName + " خریداری شد.");
-                return true;
-            }
-            default:
-                view.printMessage("[stub] این زیربخش کالکشن (" + sub + ") در اسکلت به صورت خلاصه پیاده شده است.");
-                return true;
-        }
+        // سپردن تمام وظایف کلکسیون به کنترلر تخصصی خودش
+        return collectionController.handle(loggedInUser, t, cmd);
     }
 }
