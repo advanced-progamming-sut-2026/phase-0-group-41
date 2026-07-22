@@ -28,11 +28,7 @@ public abstract class Plant {
 
     private boolean octopused = false;
     private int octopusHealth = 0;
-<<<<<<< HEAD
     private boolean greenhouseBoosted = false;
-=======
-
->>>>>>> 79c87b5f695a26771ede28534a99256740f423eb
     // === متدهای موقت برای پشتیبانی از زامبی جادوگر ===
     private boolean isCat = false;
 
@@ -68,6 +64,14 @@ public abstract class Plant {
             this.octopusHealth = 0; // اختاپوس نابود شد و گیاه آزاد می‌شود!
         }
     }
+    public boolean isGreenhouseBoosted() {
+        return greenhouseBoosted;
+    }
+
+    public void setGreenhouseBoosted(boolean greenhouseBoosted) {
+        this.greenhouseBoosted = greenhouseBoosted;
+    }
+
 
     // سازنده اصلی به همراه دریافت تگ‌ها (Varargs)
     protected Plant(String name, PlantType type, int sunCost, int cooldownTicks, int maxHealth, PlantTag... initialTags) {

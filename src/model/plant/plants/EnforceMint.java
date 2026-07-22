@@ -11,7 +11,7 @@ public class EnforceMint extends Plant implements IExplosive {
     private int level = 1;
 
     public EnforceMint() {
-        super("enforcemint", PlantType.MELEE, 0, 85, 0);
+        super("enforcemint", PlantType.MELEE_ATTACKER, 0, 85, 0);
     }
 
     @Override
