@@ -21,6 +21,7 @@ public abstract class Plant {
     private int feedEffectTicksRemaining = 0;
     private boolean octopused = false;
     private int octopusHealth = 0;
+    private boolean greenhouseBoosted = false;
     // === متدهای موقت برای پشتیبانی از زامبی جادوگر ===
     private boolean isCat = false;
 
