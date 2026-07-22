@@ -331,8 +331,12 @@ public class MenuController {
         if (user == null || !userManager.checkPassword(user, password)) {
             view.printError("نام کاربری یا رمز عبور اشتباه است.");
             return;
+        } loggedInUser = user;
+        java.time.LocalDate today = java.time.LocalDate.now();
+        if (user.getLastLoginDate() == null || !user.getLastLoginDate().equals(today)) {
+            user.getQuestManager().resetDailyQuests();
         }
-        loggedInUser = user;
+        user.updateLastLoginDate(); // آپدیت تاریخ آخرین ورود به امروز
         currentMenu = MenuType.MAIN;
         view.printMessage("خوش آمدید " + user.getNickname() + "!");
     }

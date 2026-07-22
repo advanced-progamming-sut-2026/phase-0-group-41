@@ -1,6 +1,7 @@
 package model.zombie;
 
 import model.game.GameSession;
+import model.user.User;
 
 public abstract class Zombie {
 
@@ -71,11 +72,12 @@ public abstract class Zombie {
 
     public abstract void onTick(GameSession session);
 
-    public void takeDamage(int amount) {
+    public void takeDamage(int amount,User user) {
         health -= amount;
         if (health <= 0) {
             health = 0;
             dead = true;
+            user.getQuestManager().recordZombieKill(user.getQuestContext());
         }
     }
 

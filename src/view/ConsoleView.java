@@ -15,7 +15,7 @@ public class ConsoleView {
     // ساخت یک نمونه از ZombieView که نمایش زامبی‌ها رو بهش بسپریم
     private final ZombieView zombieView = new ZombieView();
 
-    public void printMessage(String message) {
+    public static void printMessage(String message) {
         System.out.println(message);
     }
 

@@ -1,17 +1,22 @@
 package model.user;
 
+import java.time.LocalDate;
 import model.greenhouse.Greenhouse;
-
+import model.quest.PlayerProfile;
+import model.quest.QuestManager;
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
+import model.quest.QuestFactory;
+import model.quest.QuestContext;
+import view.ConsoleView;
 
-public class User implements Serializable {
+public class User implements Serializable, PlayerProfile {
 
     private static final long serialVersionUID = 1L;
-
+    private LocalDate lastLoginDate;
     private String username;
     private String passwordHash;
     private String nickname;
@@ -19,7 +24,7 @@ public class User implements Serializable {
     private String gender;
     private int securityQuestionId;
     private String securityAnswer;
-
+    private QuestContext questContext = new QuestContext();
     private int coins = 0;
     private int diamonds = 0;
     private int difficultyLevel = 3;
@@ -30,6 +35,7 @@ public class User implements Serializable {
 
     private Greenhouse greenhouse;
     private Map<String, Boolean> greenhouseBoosts;
+    private QuestManager questManager;
 
     private final Set<String> unlockedPlants = new HashSet<>();
     private final Set<String> seenZombies = new HashSet<>();
@@ -46,6 +52,43 @@ public class User implements Serializable {
         unlockedPlants.add("wallnut");
         this.greenhouse = new Greenhouse();
         this.greenhouseBoosts = new HashMap<>();
+    }
+    @Override
+    public void addCoins(int amount) {
+        this.coins += amount;
+        // --- اتصال سیستم کوئست ---
+        // ۱. آمار کل سکه‌های به دست آمده را آپدیت می‌کنیم
+        QuestContext context = getQuestContext();
+        context.setCoinsEarned(context.getCoinsEarned() + amount);
+
+        // ۲. به منیجر می‌گوییم چک کند آیا کوئستی مربوط به سکه تکمیل شده یا نه
+        getQuestManager().refreshCompletionStatus(context);
+        ConsoleView.printMessage(amount + " سکه به کاربر اضافه شد.");
+    }
+
+    @Override
+    public void addGems(int amount) {
+        this.diamonds += amount;
+        // --- اتصال سیستم کوئست ---
+        // ۱. آمار کل سکه‌های به دست آمده را آپدیت می‌کنیم
+        QuestContext context = getQuestContext();
+        context.setCoinsEarned(context.getCoinsEarned() + amount);
+
+        // ۲. به منیجر می‌گوییم چک کند آیا کوئستی مربوط به سکه تکمیل شده یا نه
+        getQuestManager().refreshCompletionStatus(context);
+        ConsoleView.printMessage(amount + " الماس به کاربر اضافه شد.");
+
+    }
+
+    @Override
+    public void unlock(String unlockableId) {
+        this.unlockedPlants.add(unlockableId);
+        ConsoleView.printMessage("گیاه " + unlockableId + " آنلاک شد!");
+    }
+
+    @Override
+    public void addItemToInventory(String itemId, int count) {
+
     }
 
     public String getUsername() {
@@ -100,9 +143,6 @@ public class User implements Serializable {
         return coins;
     }
 
-    public void addCoins(int amount) {
-        this.coins += amount;
-    }
 
     public boolean spendCoins(int amount) {
         if (coins < amount) {
@@ -194,5 +234,31 @@ public class User implements Serializable {
             greenhouseBoosts = new HashMap<>();
         }
         return greenhouseBoosts;
+    }
+
+    public QuestManager getQuestManager() {
+        // اگر کاربر هنوز کوئست منیجر نداشت، برایش یکی می‌سازیم
+        if (this.questManager == null) {
+            this.questManager = new QuestManager(QuestFactory.createDefaultQuests());
+        }
+        return this.questManager;
+    }
+
+    public void setQuestManager(QuestManager questManager) {
+        this.questManager = questManager;
+    }
+
+    public LocalDate getLastLoginDate() {
+        return this.lastLoginDate;
+    }
+
+    public void updateLastLoginDate() {
+        this.lastLoginDate = LocalDate.now(); // تاریخ امروز را ذخیره می‌کند
+    }
+    public QuestContext getQuestContext() {
+        if (this.questContext == null) {
+            this.questContext = new QuestContext();
+        }
+        return this.questContext;
     }
 }
