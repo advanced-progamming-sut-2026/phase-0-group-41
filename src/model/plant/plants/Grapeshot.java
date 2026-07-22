@@ -5,16 +5,17 @@ import model.plant.Plant;
 import model.plant.PlantType;
 import model.plant.interfaces.IExplosive;
 
-public class CherryBomb extends Plant implements IExplosive {
+public class Grapeshot extends Plant implements IExplosive {
 
     private int damage = 1800;
     private int currentSunCost = 150;
     private int currentCooldown = 35;
+    private int bounceCount = 3;
     private boolean hasExploded = false;
     private int level = 1;
 
-    public CherryBomb() {
-        super("cherrybomb", PlantType.EXPLOSIVE, 150, 35, 0);
+    public Grapeshot() {
+        super("grapeshot", PlantType.EXPLOSIVE, 150, 35, 0);
     }
 
     @Override
@@ -29,7 +30,8 @@ public class CherryBomb extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " انفجار فوری در مساحت ۳x۳ با دمیج " + damage + " انجام داد!");
+        System.out.println(getName() + " منفجر شد! (مساحت ۳x۳، دمیج: " + damage + ")");
+        System.out.println("پرتاب حبه‌های کمانه‌کننده (تعداد کمانه: " + bounceCount + ") که پس از ۵ ثانیه نابود می‌شوند.");
         this.takeDamage(9999);
     }
 
@@ -40,8 +42,8 @@ public class CherryBomb extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 5);
-        if (level >= 3) this.damage += 600;
+        if (level >= 2) this.damage += 600;
+        if (level >= 3) this.bounceCount += 1;
         if (level >= 4) this.currentSunCost -= 25;
     }
 

@@ -4,14 +4,14 @@ import model.game.GameSession;
 import model.plant.Plant;
 import model.plant.PlantType;
 
-public class WallNut extends Plant {
+public class TallNut extends Plant {
 
     private int armorHP = 0;
     private int currentCooldown = 20;
     private int level = 1;
 
-    public WallNut() {
-        super("wallnut", PlantType.WALL_NUT, 50, 20, 4000);
+    public TallNut() {
+        super("tallnut", PlantType.WALL_NUT, 125, 20, 8000);
     }
 
     @Override
@@ -19,14 +19,16 @@ public class WallNut extends Plant {
         if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
 
         if (isFeedActive()) {
-            System.out.println("Plant Food: " + getName() + " زره دائمی به اندازه ۴۰۰۰ جان اضافه‌تر دریافت کرد!");
-            this.armorHP = 4000;
+            System.out.println("Plant Food: " + getName() + " زره دائمی ۸۰۰۰ تایی دریافت کرد!");
+            this.armorHP = 8000;
             decayFeedEffect();
             return;
         }
     }
 
-    // متدی برای دریافت دمیج که اول زره را کم می‌کند
+    // برای استفاده سیستم حرکت پرشی زامبی‌ها
+    public boolean isTall() { return true; }
+
     @Override
     public void takeDamage(int amount) {
         if (armorHP > 0) {
@@ -43,12 +45,12 @@ public class WallNut extends Plant {
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
         if (level >= 2) {
-            this.setMaxHealth(this.getMaxHealth() + 1000);
+            this.setMaxHealth(this.getMaxHealth() + 2000);
             this.setHealth(this.getMaxHealth());
         }
         if (level >= 3) this.currentCooldown -= 5;
         if (level >= 4) {
-            this.setMaxHealth(this.getMaxHealth() + 1500);
+            this.setMaxHealth(this.getMaxHealth() + 3000);
             this.setHealth(this.getMaxHealth());
         }
     }

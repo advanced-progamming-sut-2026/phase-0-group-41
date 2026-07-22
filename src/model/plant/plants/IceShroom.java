@@ -2,19 +2,21 @@ package model.plant.plants;
 
 import model.game.GameSession;
 import model.plant.Plant;
+import model.plant.PlantTag;
 import model.plant.PlantType;
 import model.plant.interfaces.IExplosive;
 
-public class CherryBomb extends Plant implements IExplosive {
+public class IceShroom extends Plant implements IExplosive {
 
-    private int damage = 1800;
-    private int currentSunCost = 150;
-    private int currentCooldown = 35;
+    private int freezeTimeTicks = 100; // فرض پایه
+    private int damage = 0;
+    private int currentSunCost = 75;
+    private int currentCooldown = 50;
     private boolean hasExploded = false;
     private int level = 1;
 
-    public CherryBomb() {
-        super("cherrybomb", PlantType.EXPLOSIVE, 150, 35, 0);
+    public IceShroom() {
+        super("iceshroom", PlantType.EXPLOSIVE, 75, 50, 0, PlantTag.SHROOM, PlantTag.ICE);
     }
 
     @Override
@@ -29,7 +31,7 @@ public class CherryBomb extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " انفجار فوری در مساحت ۳x۳ با دمیج " + damage + " انجام داد!");
+        System.out.println(getName() + " منفجر شد و تمام زامبی‌های کل نقشه را فریز کرد! (مدت: " + (freezeTimeTicks/10) + " ثانیه)");
         this.takeDamage(9999);
     }
 
@@ -40,9 +42,9 @@ public class CherryBomb extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 5);
-        if (level >= 3) this.damage += 600;
-        if (level >= 4) this.currentSunCost -= 25;
+        if (level >= 2) this.freezeTimeTicks += 20; // Freeze Time +2s
+        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 4) this.damage += 50;
     }
 
     @Override

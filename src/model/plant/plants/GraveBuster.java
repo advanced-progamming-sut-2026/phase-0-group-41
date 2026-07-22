@@ -5,31 +5,30 @@ import model.plant.Plant;
 import model.plant.PlantType;
 import model.plant.interfaces.IExplosive;
 
-public class CherryBomb extends Plant implements IExplosive {
+public class GraveBuster extends Plant implements IExplosive {
 
-    private int damage = 1800;
-    private int currentSunCost = 150;
-    private int currentCooldown = 35;
-    private boolean hasExploded = false;
+    private int currentSunCost = 0;
+    private int currentCooldown = 10;
+    private boolean hasDestroyedGrave = false;
     private int level = 1;
 
-    public CherryBomb() {
-        super("cherrybomb", PlantType.EXPLOSIVE, 150, 35, 0);
+    public GraveBuster() {
+        super("gravebuster", PlantType.EXPLOSIVE, 0, 10, 0);
     }
 
     @Override
     public void onTick(GameSession session) {
         if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
 
-        if (!hasExploded) {
+        if (!hasDestroyedGrave) {
             explode(session);
-            hasExploded = true;
+            hasDestroyedGrave = true;
         }
     }
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " انفجار فوری در مساحت ۳x۳ با دمیج " + damage + " انجام داد!");
+        System.out.println(getName() + " قبر موجود روی تایل را به طور کامل از بین برد (Insta-kill قبر).");
         this.takeDamage(9999);
     }
 
@@ -40,9 +39,14 @@ public class CherryBomb extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 5);
-        if (level >= 3) this.damage += 600;
-        if (level >= 4) this.currentSunCost -= 25;
+        if (level >= 2) {
+            // کاهش زمان جویدن قبر
+            System.out.println("Eat Time -1s");
+        }
+        if (level >= 3) this.currentCooldown -= 2;
+        if (level >= 4) {
+            System.out.println("Explode on Finish فعال شد.");
+        }
     }
 
     @Override
