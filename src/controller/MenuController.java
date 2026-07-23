@@ -21,7 +21,7 @@ public class MenuController {
     private final MainView mainView;
     private final PlayView playView;
     private final SettingsView settingsView;
-
+    private final LeaderboardView leaderboardView;
     // === ویوهای قدیمی شما که هنوز بازنویسی نشده‌اند ===
     private final ProfileView profileView;
     private final GreenhouseView greenhouseView;
@@ -42,6 +42,7 @@ public class MenuController {
         this.profileView = new ProfileView(new ProfileController(userManager), consoleView);
         this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
         this.collectionView = new CollectionView(new CollectionController(userManager));
+        this.leaderboardView = new LeaderboardView(new LeaderboardController(userManager), consoleView);
     }
 
     public boolean handle(String rawLine, CommandLine cmd) {
@@ -85,6 +86,8 @@ public class MenuController {
                 return greenhouseView.checkCommand(loggedInUser, t, cmd);
             case COLLECTION:
                 return collectionView.checkCommand(loggedInUser, cmd);
+            case LEADERBOARD:
+                return leaderboardView.checkCommand(cmd);
             default:
                 return false;
         }
@@ -110,7 +113,7 @@ public class MenuController {
                 break;
             case MAIN:
                 if (target == MenuType.PLAY || target == MenuType.SETTINGS ||
-                        target == MenuType.NEWS || target == MenuType.NETWORK || target == MenuType.PROFILE) {
+                        target == MenuType.NEWS || target == MenuType.NETWORK || target == MenuType.PROFILE || target == MenuType.LEADERBOARD) {
                     canEnter = true;
                 }
                 break;
@@ -154,6 +157,10 @@ public class MenuController {
             case COLLECTION:
                 setCurrentMenu(MenuType.PLAY);
                 consoleView.printMessage("به منوی بازی بازگشتید.");
+                break;
+            case LEADERBOARD:
+                setCurrentMenu(MenuType.MAIN);
+                consoleView.printMessage("به منوی اصلی بازگشتید.");
                 break;
         }
         return true;

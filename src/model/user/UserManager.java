@@ -75,4 +75,8 @@ public class UserManager {
             System.err.println("خطا در بازیابی اطلاعات کاربران: " + e.getMessage());
         }
     }
+    
+    public java.util.List<User> getAllUsers() {
+        return new java.util.ArrayList<>(usersByUsername.values());
+    }
 }
