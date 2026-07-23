@@ -31,7 +31,7 @@ public class CollectionView {
 
     public void printZombieDetails(Zombie zombie) {
         System.out.println("--- مشخصات زامبی ---");
-        System.out.println("نام: " + zombie.getName());
+        System.out.println("نام: " + zombie.getTypeName());
         System.out.println("میزان سلامتی: " + zombie.getMaxHealth());
         System.out.println("سرعت: " + zombie.getSpeed());
     }

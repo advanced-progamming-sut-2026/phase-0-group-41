@@ -8,6 +8,8 @@ public abstract class Zombie {
     private final int waveCost;
     private final double baseSpeed; // خانه بر ثانیه
     private final int damagePerTick;
+    private final int maxHealth; // حداکثر سلامتی زامبی
+    
     private int chilledTicks = 0;
     private int frozenTicks = 0;
     private int health;
@@ -66,12 +68,16 @@ public abstract class Zombie {
     public int getBaseHealth() {
         return this.health;
     }
+    public int getMaxHealth() {
+        return this.maxHealth;
+    }
     protected Zombie(String typeName, int health, double baseSpeed, int waveCost, int damagePerTick) {
         this.typeName = typeName;
         this.health = health;
         this.baseSpeed = baseSpeed;
         this.waveCost = waveCost;
         this.damagePerTick = damagePerTick;
+        this.maxHealth = health;
     }
 
     public void spawn(int row, double xPosition) {
