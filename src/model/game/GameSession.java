@@ -22,7 +22,7 @@ public class GameSession {
 
     private final User user;
     private final Board board = new Board();
-    private final SunManager sunManager = new SunManager();
+    private final SunManager sunManager ;
     private final WaveManager waveManager;
     private final List<Zombie> aliveZombies = new ArrayList<>();
     private final List<FallingSun> fallingSuns = new ArrayList<>();
@@ -39,6 +39,9 @@ public class GameSession {
     public GameSession(User user, int totalWaves) {
         this.user = user;
         this.waveManager = new WaveManager(totalWaves, 50);
+        // <--- تغییر دوم: مقداردهی خورشیدها بر اساس سختی در اینجا انجام می‌شود --->
+        int userDifficulty = user.getDifficultyLevel();
+        this.sunManager = new SunManager(userDifficulty);
     }
 
     public Board getBoard() {

@@ -6,7 +6,6 @@ import model.game.Board;
 import model.plant.Plant;
 import model.zombie.Zombie;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class TroglobiteZombie extends Zombie {
