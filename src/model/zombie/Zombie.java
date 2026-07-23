@@ -5,9 +5,10 @@ import model.game.GameSession;
 public abstract class Zombie {
 
     private final String typeName;
-    private  int waveCost;
-    private  double baseSpeed; // خانه بر ثانیه
-    private  int damagePerTick;
+    private final int maxHealth;
+    private int waveCost;
+    private double baseSpeed; // خانه بر ثانیه
+    private int damagePerTick;
     private int chilledTicks = 0;
     private int frozenTicks = 0;
     private int health;
@@ -75,6 +76,11 @@ public abstract class Zombie {
         this.baseSpeed = baseSpeed;
         this.waveCost = waveCost;
         this.damagePerTick = damagePerTick;
+        this.maxHealth = health;
+    }
+
+    public int getMaxHealth() {
+        return this.maxHealth;
     }
 
     // <--- این متد حتماً باید اضافه شود تا CollectionView ارور ندهد

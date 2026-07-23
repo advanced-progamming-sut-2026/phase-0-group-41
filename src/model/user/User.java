@@ -21,6 +21,13 @@ public class User implements Serializable {
     private int securityQuestionId;
     private String securityAnswer;
 
+    private int lastCompletedChapter = 0;
+    private int lastCompletedLevel = 0;
+    private int miniGamesCompleted = 0;
+    private int dailyQuestsCompleted = 0;
+    private int nonDailyQuestsCompleted = 0;
+    private int highScore = 0;
+
     private int coins = 0;
     private int diamonds = 0;
     private int difficultyLevel = 3;
@@ -267,7 +274,60 @@ public class User implements Serializable {
         return false;
     }
 
+    public int getLastCompletedChapter() {
+        return lastCompletedChapter;
+    }
 
+    public void setLastCompletedChapter(int lastCompletedChapter) {
+        this.lastCompletedChapter = lastCompletedChapter;
+    }
+
+    public int getLastCompletedLevel() {
+        return lastCompletedLevel;
+    }
+
+    public void setLastCompletedLevel(int lastCompletedLevel) {
+        this.lastCompletedLevel = lastCompletedLevel;
+    }
+
+    // === گتر و سترهای مینی‌گیم ===
+    public int getMiniGamesCompleted() {
+        return miniGamesCompleted;
+    }
+
+    public void setMiniGamesCompleted(int miniGamesCompleted) {
+        this.miniGamesCompleted = miniGamesCompleted;
+    }
+
+    // === گتر و سترهای کوئست روزانه ===
+    public int getDailyQuestsCompleted() {
+        return dailyQuestsCompleted;
+    }
+
+    public void setDailyQuestsCompleted(int dailyQuestsCompleted) {
+        this.dailyQuestsCompleted = dailyQuestsCompleted;
+    }
+
+    // === گتر و سترهای کوئست غیرروزانه ===
+    public int getNonDailyQuestsCompleted() {
+        return nonDailyQuestsCompleted;
+    }
+
+    public void setNonDailyQuestsCompleted(int nonDailyQuestsCompleted) {
+        this.nonDailyQuestsCompleted = nonDailyQuestsCompleted;
+    }
+
+    // === گتر و ستر بالاترین امتیاز ===
+    public int getHighScore() {
+        return highScore;
+    }
+
+    public void setHighScore(int highScore) {
+        // امتیاز فقط در صورتی آپدیت می‌شود که رکورد قبلی شکسته شده باشد
+        if (highScore > this.highScore) {
+            this.highScore = highScore;
+        }
+    }
 
 
 }

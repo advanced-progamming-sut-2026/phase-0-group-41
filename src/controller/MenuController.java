@@ -8,6 +8,8 @@ import view.*;
 
 import java.util.List;
 
+import static sun.awt.shell.Win32ShellFolder2.NETWORK;
+
 public class MenuController {
     private final UserManager userManager;
     private final ConsoleView consoleView;
@@ -21,7 +23,12 @@ public class MenuController {
     private final MainView mainView;
     private final PlayView playView;
     private final SettingsView settingsView;
+<<<<<<< HEAD
     private final NewsView newsView;
+=======
+    private final LeaderboardView leaderboardView;
+    // === ویوهای قدیمی شما که هنوز بازنویسی نشده‌اند ===
+>>>>>>> bed8d6d32fa8ac6bd51d2689d92f93fa7b575bc0
     private final ProfileView profileView;
 
     // === ویوهای قدیمی شما که هنوز بازنویسی نشده‌اند (موقتاً غیرفعال شدند تا ارور ندهند) ===
@@ -40,11 +47,17 @@ public class MenuController {
         this.settingsView = new SettingsView(new SettingsController(userManager), consoleView, this);
         this.newsView = new NewsView(new NewsController(), consoleView);
         this.profileView = new ProfileView(new ProfileController(userManager), consoleView);
+<<<<<<< HEAD
 // خط قبلی را پاک کن و این را بنویس:
         this.collectionController = new CollectionController(userManager);
         // مقداردهی کلاس‌های قدیمی (کامنت شدند تا ارور برطرف شود)
         // this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
         // this.collectionView = new CollectionView(new CollectionController(userManager));
+=======
+        this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
+        this.collectionView = new CollectionView(new CollectionController(userManager));
+        this.leaderboardView = new LeaderboardView(new LeaderboardController(userManager), consoleView);
+>>>>>>> bed8d6d32fa8ac6bd51d2689d92f93fa7b575bc0
     }
 
     public boolean handle(String rawLine, CommandLine cmd) {
@@ -86,10 +99,19 @@ public class MenuController {
                 return newsView.checkCommand(loggedInUser, t, cmd);
             case PROFILE:
                 return profileView.checkCommand(loggedInUser, t, cmd);
+<<<<<<< HEAD
             // case GREENHOUSE:
             //     return greenhouseView.checkCommand(loggedInUser, t, cmd);
             // case COLLECTION:
             //     return collectionView.checkCommand(loggedInUser, cmd);
+=======
+            case GREENHOUSE:
+                return greenhouseView.checkCommand(loggedInUser, t, cmd);
+            case COLLECTION:
+                return collectionView.checkCommand(loggedInUser, cmd);
+            case LEADERBOARD:
+                return leaderboardView.checkCommand(cmd);
+>>>>>>> bed8d6d32fa8ac6bd51d2689d92f93fa7b575bc0
             default:
                 return false;
         }
@@ -114,8 +136,13 @@ public class MenuController {
                 // انتقال از لاگین به اصلی به صورت خودکار در کلاس LoginView انجام می‌شود
                 break;
             case MAIN:
+<<<<<<< HEAD
                 if (target == MenuType.GAME || target == MenuType.SETTINGS ||
                         target == MenuType.NEWS || target == MenuType.NETWORK || target == MenuType.PROFILE) {
+=======
+                if (target == MenuType.PLAY || target == MenuType.SETTINGS ||
+                        target == MenuType.NEWS || target == MenuType.NETWORK || target == MenuType.PROFILE || target == MenuType.LEADERBOARD) {
+>>>>>>> bed8d6d32fa8ac6bd51d2689d92f93fa7b575bc0
                     canEnter = true;
                 }
                 break;
@@ -159,6 +186,10 @@ public class MenuController {
             case COLLECTION:
                 setCurrentMenu(MenuType.GAME);
                 consoleView.printMessage("به منوی بازی بازگشتید.");
+                break;
+            case LEADERBOARD:
+                setCurrentMenu(MenuType.MAIN);
+                consoleView.printMessage("به منوی اصلی بازگشتید.");
                 break;
         }
         return true;
