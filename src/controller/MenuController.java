@@ -1,59 +1,51 @@
 package controller;
 
-import model.greenhouse.Greenhouse;
 import model.menu.MenuType;
-import model.user.SecurityQuestions;
 import model.user.User;
 import model.user.UserManager;
 import util.CommandLine;
-import util.Validator;
-import view.ConsoleView;
+import view.*;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
-import java.util.Random;
 
-/** پیاده‌سازی منوهای ثبت‌نام/ورود/اصلی/تنظیمات/پروفایل/کالکشن مطابق داک فاز صفر و یک. */
 public class MenuController {
-    private final CollectionController collectionController;
     private final UserManager userManager;
     private final ConsoleView view;
 
     private MenuType currentMenu = MenuType.REGISTER;
     private User loggedInUser;
-    private User pendingForgetPasswordUser; // کاربری که در حال پاسخ به سوال امنیتی است
+
+    // ویوهای اختصاصی
+    private final RegisterView registerView;
+    private final LoginView loginView;
+    private final ProfileView profileView;
+    private final GreenhouseView greenhouseView;
+    private final CollectionView collectionView;
 
     public MenuController(UserManager userManager, ConsoleView view) {
         this.userManager = userManager;
         this.view = view;
-        this.collectionController = new CollectionController(userManager); // اضافه کردن این خط
 
+        // ساخت کنترلرها و ویوهای مجزا
+        this.registerView = new RegisterView(new RegisterController(userManager), view, this);
+        this.loginView = new LoginView(new LoginController(userManager), view, this);
+        this.profileView = new ProfileView(new ProfileController(userManager), view);
+        this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), view);
+        this.collectionView = new CollectionView(new CollectionController(userManager));
     }
 
-    public MenuType getCurrentMenu() {
-        return currentMenu;
-    }
-
-    public User getLoggedInUser() {
-        return loggedInUser;
-    }
-
-    public boolean isLoggedIn() {
-        return loggedInUser != null;
-    }
-
-    /** @return true اگر دستور پردازش شد */
-    private final Random random = new Random();
+    public MenuType getCurrentMenu() { return currentMenu; }
+    public void setCurrentMenu(MenuType menu) { this.currentMenu = menu; }
+    public User getLoggedInUser() { return loggedInUser; }
+    public void setLoggedInUser(User user) { this.loggedInUser = user; }
+    public boolean isLoggedIn() { return loggedInUser != null; }
 
     public boolean handle(String rawLine, CommandLine cmd) {
         List<String> t = cmd.getTokens();
-        if (t.isEmpty()) {
-            return false;
-        }
+        if (t.isEmpty()) return false;
 
         if (t.get(0).equals("show") && t.size() >= 2 && t.get(1).equals("greenhouse")) {
-            showGreenhouse();
+            greenhouseView.showGreenhouse(loggedInUser);
             return true;
         }
 
@@ -63,19 +55,15 @@ public class MenuController {
 
         switch (currentMenu) {
             case REGISTER:
-                return handleRegisterMenu(t, cmd);
+                return registerView.checkCommand(t, cmd);
             case LOGIN:
-                return handleLoginMenu(t, cmd);
-            case SETTINGS:
-                return handleSettingsMenu(t, cmd);
+                return loginView.checkCommand(t, cmd);
             case PROFILE:
-                return handleProfileMenu(t, cmd);
-            case COLLECTION:
-                // === تغییر مهم در این خط اتفاق افتاده است ===
-                // به جای فراخوانی متد پاک شده، از کنترلر جدید استفاده می‌کنیم
-                return collectionController.handle(loggedInUser, t, cmd);
+                return profileView.checkCommand(loggedInUser, t, cmd);
             case GREENHOUSE:
-                return handleGreenhouseMenu(t, cmd);
+                return greenhouseView.checkCommand(loggedInUser, t, cmd);
+            case COLLECTION:
+                return collectionView.checkCommand(loggedInUser, cmd);
             default:
                 return false;
         }
@@ -103,23 +91,22 @@ public class MenuController {
             return true;
         }
         if (t.size() >= 3 && t.get(1).equals("profile")) {
-            return handleProfileSubcommand(t, cmd);
+            return profileView.checkCommand(loggedInUser, t, cmd);
         }
         if (t.size() >= 3 && t.get(1).equals("collection")) {
-            return handleCollectionSubcommand(t, cmd);
+            return collectionView.checkCommand(loggedInUser, cmd);
         }
         if (t.size() >= 2 && t.get(1).equals("greenhouse")) {
             if (t.size() >= 3 && t.get(2).equals("enter")) {
                 currentMenu = MenuType.GREENHOUSE;
                 view.printMessage("وارد گلخانه شدید.");
             } else {
-                showGreenhouse();
+                greenhouseView.showGreenhouse(loggedInUser);
             }
             return true;
         }
-        if (t.size() >= 2 && (t.get(1).equals("travel-log")
-                || t.get(1).equals("leaderboard") || t.get(1).equals("coin-wallet") || t.get(1).equals("gem-wallet"))) {
-            view.printMessage("[stub] این بخش (" + t.get(1) + ") در این اسکلت به صورت کامل پیاده نشده؛ نقطه‌ی شروع در پکیج‌های greenhouse/quest/shop آماده است.");
+        if (t.size() >= 2 && (t.get(1).equals("travel-log") || t.get(1).equals("leaderboard") || t.get(1).equals("coin-wallet") || t.get(1).equals("gem-wallet"))) {
+            view.printMessage("[stub] این بخش در این اسکلت به صورت کامل پیاده نشده...");
             return true;
         }
         if (t.size() >= 3 && t.get(1).equals("news")) {
@@ -130,51 +117,31 @@ public class MenuController {
     }
 
     private boolean enterMenu(String target) {
-        if (target == null) {
-            view.printError("نام منو مشخص نشده است.");
-            return true;
-        }
+        if (target == null) { view.printError("نام منو مشخص نشده است."); return true; }
         MenuType requested = mapMenuName(target);
-        if (requested == null) {
-            view.printError("منوی ناشناخته: " + target);
-            return true;
-        }
+        if (requested == null) { view.printError("منوی ناشناخته: " + target); return true; }
 
-        // === بررسی قوانین دسترسی ورود به منوها طبق داکیومنت ===
         boolean isAllowed = false;
-
         switch (currentMenu) {
             case REGISTER:
-                // از منوی ثبت‌نام فقط به منوی ورود
                 if (requested == MenuType.LOGIN) isAllowed = true;
                 break;
-
             case LOGIN:
-                // از منوی ورود فقط به منوی اصلی (به شرط لاگین بودن)
                 if (requested == MenuType.MAIN && isLoggedIn()) isAllowed = true;
                 else if (requested == MenuType.MAIN && !isLoggedIn()) {
                     view.printError("برای رفتن به منوی اصلی ابتدا باید وارد حساب کاربری شوید.");
                     return true;
                 }
                 break;
-
             case MAIN:
-                // از منوی اصلی به منوی بازی، تنظیمات، اخبار، شبکه و پروفایل
-                // (منوی شبکه فعلا در Enum شما نیست ولی بقیه هستند)
-                if (requested == MenuType.GAME || requested == MenuType.SETTINGS ||
-                        requested == MenuType.NEWS || requested == MenuType.PROFILE) {
+                if (requested == MenuType.GAME || requested == MenuType.SETTINGS || requested == MenuType.NEWS || requested == MenuType.PROFILE) {
                     isAllowed = true;
                 }
                 break;
-
             case GAME:
-                // از منوی بازی فقط به منوی کلکسیون
                 if (requested == MenuType.COLLECTION) isAllowed = true;
                 break;
-
             default:
-                // از داخل منوهایی مثل کلکسیون یا پروفایل نمی‌توان با enter به جای دیگری رفت.
-                // بلکه باید اول exit کرد تا به منوی پدر برگشت.
                 isAllowed = false;
                 break;
         }
@@ -183,57 +150,33 @@ public class MenuController {
             view.printError("امکان ورود به منوی " + requested + " از منوی فعلی (" + currentMenu + ") وجود ندارد.");
             return true;
         }
-
         currentMenu = requested;
         view.printMessage("وارد منوی " + requested + " شدید.");
         return true;
     }
+
     private MenuType mapMenuName(String name) {
         switch (name.toLowerCase()) {
-            case "register":
-                return MenuType.REGISTER;
-            case "login":
-                return MenuType.LOGIN;
-            case "main":
-                return MenuType.MAIN;
-            case "game":
-                return MenuType.GAME;
-            case "settings":
-                return MenuType.SETTINGS;
-            case "news":
-                return MenuType.NEWS;
-            case "profile":
-                return MenuType.PROFILE;
-            case "collection":
-                return MenuType.COLLECTION;
-            default:
-                return null;
+            case "register": return MenuType.REGISTER;
+            case "login": return MenuType.LOGIN;
+            case "main": return MenuType.MAIN;
+            case "game": return MenuType.GAME;
+            case "settings": return MenuType.SETTINGS;
+            case "news": return MenuType.NEWS;
+            case "profile": return MenuType.PROFILE;
+            case "collection": return MenuType.COLLECTION;
+            default: return null;
         }
     }
 
     private void exitMenu() {
         switch (currentMenu) {
-            case REGISTER:
-                view.printMessage("پایان برنامه.");
-                System.exit(0);
-                break;
-            case LOGIN:
-                currentMenu = MenuType.REGISTER;
-                break;
-            case GAME:
-            case SETTINGS:
-            case NEWS:
-            case PROFILE:
-                currentMenu = MenuType.MAIN;
-                break;
-            case COLLECTION:
-                currentMenu = MenuType.GAME;
-                break;
-            case MAIN:
-                view.printError("برای خروج از منوی اصلی از دستور 'menu logout' استفاده کنید.");
-                break;
-            default:
-                break;
+            case REGISTER: view.printMessage("پایان برنامه."); System.exit(0); break;
+            case LOGIN: currentMenu = MenuType.REGISTER; break;
+            case GAME: case SETTINGS: case NEWS: case PROFILE: currentMenu = MenuType.MAIN; break;
+            case COLLECTION: currentMenu = MenuType.GAME; break;
+            case MAIN: view.printError("برای خروج از منوی اصلی از دستور 'menu logout' استفاده کنید."); break;
+            default: break;
         }
     }
 
@@ -245,472 +188,16 @@ public class MenuController {
         }
     }
 
-    // ---------------- REGISTER ----------------
-
-    private boolean handleRegisterMenu(List<String> t, CommandLine cmd) {
-        if (t.get(0).equals("register")) {
-            doRegister(cmd);
-            return true;
-        }
-        if (t.get(0).equals("pick") && t.size() >= 2 && t.get(1).equals("question")) {
-            pickQuestion(cmd);
-            return true;
-        }
-        return false;
-    }
-
-    private User pendingRegisteredUser;
-
-    private void doRegister(CommandLine cmd) {
-        String username = cmd.get("u");
-        List<String> passwordParts = cmd.getMulti("p");
-        String password = passwordParts.isEmpty() ? null : passwordParts.get(0);
-        String passwordConfirm = passwordParts.size() > 1 ? passwordParts.get(1) : null;
-        String nickname = cmd.get("n");
-        String email = cmd.get("e");
-        String gender = cmd.get("g");
-
-        if (!Validator.isValidUsername(username)) {
-            view.printError("نام کاربری نامعتبر است (فقط حروف، اعداد و -).");
-            return;
-        }
-        if (userManager.usernameExists(username)) {
-            view.printError("این نام کاربری قبلا استفاده شده است.");
-            return;
-        }
-        String weakness = Validator.passwordWeaknessReason(password);
-        if (weakness != null) {
-            view.printError(weakness);
-            return;
-        }
-        if (!password.equals(passwordConfirm)) {
-            view.printError("رمز عبور و تکرار آن یکسان نیستند.");
-            return;
-        }
-        if (!Validator.isValidNickname(nickname)) {
-            view.printError("نام مستعار باید بین ۳ تا ۳۰ کاراکتر باشد.");
-            return;
-        }
-        if (!Validator.isValidEmail(email)) {
-            view.printError("ایمیل نامعتبر است.");
-            return;
-        }
-        if (gender == null || !(gender.equalsIgnoreCase("male") || gender.equalsIgnoreCase("female"))) {
-            view.printError("جنسیت باید male یا female باشد.");
-            return;
-        }
-        pendingRegisteredUser = userManager.register(username, password, nickname, email, gender);
-        StringBuilder qList = new StringBuilder("سوالات امنیتی:\n");
-        for (Map.Entry<Integer, String> e : SecurityQuestions.all().entrySet()) {
-            qList.append(e.getKey()).append(") ").append(e.getValue()).append('\n');
-        }
-        view.printMessage(qList.toString());
-        view.printMessage("لطفا با دستور 'pick question -q <شماره> -a <پاسخ> -c <تکرار پاسخ>' یک سوال انتخاب کنید.");
-    }
-
-    private void pickQuestion(CommandLine cmd) {
-        if (pendingRegisteredUser == null) {
-            view.printError("ابتدا باید ثبت‌نام کنید.");
-            return;
-        }
-        int qId;
-        try {
-            qId = Integer.parseInt(cmd.get("q"));
-        } catch (Exception e) {
-            view.printError("شماره سوال نامعتبر است.");
-            return;
-        }
-        if (!SecurityQuestions.exists(qId)) {
-            view.printError("سوال امنیتی با این شماره وجود ندارد.");
-            return;
-        }
-        String answer = cmd.get("a");
-        String confirm = cmd.get("c");
-        if (answer == null || !answer.equals(confirm)) {
-            view.printError("پاسخ و تکرار آن یکسان نیستند.");
-            return;
-        }
-        pendingRegisteredUser.setSecurityQuestionId(qId);
-        pendingRegisteredUser.setSecurityAnswer(answer);
-        userManager.save();
-        view.printMessage("ثبت‌نام با موفقیت انجام شد. اکنون به منوی ورود بروید: menu enter login");
-        pendingRegisteredUser = null;
-    }
-
-    // ---------------- LOGIN ----------------
-
-    private boolean handleLoginMenu(List<String> t, CommandLine cmd) {
-        if (t.get(0).equals("login")) {
-            doLogin(cmd);
-            return true;
-        }
-        if (t.get(0).equals("forget") && t.size() >= 2 && t.get(1).equals("password")) {
-            doForgetPassword(cmd);
-            return true;
-        }
-        if (t.get(0).equals("answer")) {
-            doAnswerSecurityQuestion(cmd);
-            return true;
-        }
-        return false;
-    }
-
-    private void doLogin(CommandLine cmd) {
-        String username = cmd.get("u");
-        String password = cmd.get("p");
-        User user = userManager.findByUsername(username);
-        if (user == null || !userManager.checkPassword(user, password)) {
-            view.printError("نام کاربری یا رمز عبور اشتباه است.");
-            return;
-        }
-        loggedInUser = user;
-        currentMenu = MenuType.MAIN;
-        view.printMessage("خوش آمدید " + user.getNickname() + "!");
-    }
-
-    private void doForgetPassword(CommandLine cmd) {
-        String username = cmd.get("u");
-        String email = cmd.get("e");
-        User user = userManager.findByUsername(username);
-        if (user == null || !user.getEmail().equalsIgnoreCase(email)) {
-            view.printError("کاربر با این نام کاربری/ایمیل یافت نشد.");
-            return;
-        }
-        pendingForgetPasswordUser = user;
-        view.printMessage(SecurityQuestions.get(user.getSecurityQuestionId()));
-        view.printMessage("پاسخ را با دستور 'answer -a <پاسخ>' وارد کنید.");
-    }
-
-    private void doAnswerSecurityQuestion(CommandLine cmd) {
-        if (pendingForgetPasswordUser == null) {
-            view.printError("ابتدا 'forget password' را اجرا کنید.");
-            return;
-        }
-        String answer = cmd.get("a");
-        if (answer != null && answer.equals(pendingForgetPasswordUser.getSecurityAnswer())) {
-            view.printMessage("پاسخ صحیح بود. لطفا رمز عبور جدید را با 'menu profile change-password ...' تنظیم کنید"
-                    + " (یا در این اسکلت با ورود مجدد رمز فعلی را نگه دارید).");
-        } else {
-            view.printError("پاسخ نادرست بود.");
-        }
-        pendingForgetPasswordUser = null;
-    }
-
-    // ---------------- SETTINGS ----------------
-
-    private boolean handleSettingsMenu(List<String> t, CommandLine cmd) {
-        return false; // فعلا دستورات تنظیمات فقط از طریق "menu settings change-difficulty" است
-    }
-
     private void changeDifficulty(CommandLine cmd) {
-        if (!isLoggedIn()) {
-            view.printError("ابتدا وارد شوید.");
-            return;
-        }
+        if (!isLoggedIn()) { view.printError("ابتدا وارد شوید."); return; }
         try {
             int level = Integer.parseInt(cmd.get("l"));
-            if (level < 1 || level > 5) {
-                view.printError("سطح سختی باید بین ۱ تا ۵ باشد.");
-                return;
-            }
+            if (level < 1 || level > 5) { view.printError("سطح سختی باید بین ۱ تا ۵ باشد."); return; }
             loggedInUser.setDifficultyLevel(level);
             userManager.save();
             view.printMessage("سطح سختی به " + level + " تغییر کرد.");
         } catch (Exception e) {
             view.printError("مقدار سطح سختی نامعتبر است.");
         }
-    }
-
-    // ---------------- PROFILE ----------------
-
-    private boolean handleProfileMenu(List<String> t, CommandLine cmd) {
-        return false;
-    }
-
-    private boolean handleGreenhouseMenu(List<String> t, CommandLine cmd) {
-        if (!isLoggedIn()) {
-            view.printError("ابتدا وارد شوید.");
-            return true;
-        }
-        if (t.get(0).equals("plant") && t.size() >= 4 && t.get(1).equals("pot") && t.get(2).equals("at")) {
-            plantGreenhousePot(t);
-            return true;
-        }
-        if (t.get(0).equals("collect")) {
-            collectGreenhousePot(t);
-            return true;
-        }
-        if (t.get(0).equals("grow")) {
-            growGreenhousePot(t);
-            return true;
-        }
-        if (t.get(0).equals("unlock") && t.size() >= 4 && t.get(1).equals("pot") && t.get(2).equals("at")) {
-            unlockGreenhousePot(t);
-            return true;
-        }
-        return false;
-    }
-
-    private void showGreenhouse() {
-        if (!isLoggedIn()) {
-            view.printError("ابتدا وارد شوید.");
-            return;
-        }
-        view.printGreenhouse(loggedInUser);
-    }
-
-    private void plantGreenhousePot(List<String> t) {
-        int[] coords = parseCoordinates(t, 3);
-        if (coords == null) {
-            view.printError("فرمت مکان اشتباه است. نمونه: plant pot at (2, 1)");
-            return;
-        }
-        int col = coords[0] - 1;
-        int row = coords[1] - 1;
-        Greenhouse greenhouse = loggedInUser.getGreenhouse();
-        if (!greenhouse.isValidCoordinate(row, col)) {
-            view.printError("مختصات گلدان نامعتبر است.");
-            return;
-        }
-        if (greenhouse.isLocked(row, col)) {
-            view.printError("این گلدان قفل است. ابتدا آن را باز کنید.");
-            return;
-        }
-        if (!greenhouse.isEmpty(row, col)) {
-            view.printError("این گلدان قبلا پر شده است.");
-            return;
-        }
-
-        boolean isMarigold = random.nextBoolean();
-        String plantName;
-        long durationMillis;
-        if (isMarigold) {
-            plantName = "marigold";
-            durationMillis = 2 * 60 * 60 * 1000L;
-        } else {
-            ArrayList<String> unlocked = new ArrayList<>(loggedInUser.getUnlockedPlants());
-            if (unlocked.isEmpty()) {
-                plantName = "marigold";
-                durationMillis = 2 * 60 * 60 * 1000L;
-            } else {
-                plantName = unlocked.get(random.nextInt(unlocked.size()));
-                durationMillis = 8 * 60 * 60 * 1000L;
-            }
-        }
-        greenhouse.plantAt(row, col, plantName, durationMillis);
-        userManager.save();
-        view.printMessage("گیاه " + plantName + " در گلدان (" + coords[0] + ", " + coords[1] + ") کاشته شد و پس از "
-                + Greenhouse.formatDuration(durationMillis) + " آماده می‌شود.");
-    }
-
-    private void collectGreenhousePot(List<String> t) {
-        int[] coords = parseCoordinates(t, 1);
-        if (coords == null) {
-            view.printError("فرمت مکان اشتباه است. نمونه: collect (2, 1)");
-            return;
-        }
-        int col = coords[0] - 1;
-        int row = coords[1] - 1;
-        Greenhouse greenhouse = loggedInUser.getGreenhouse();
-        if (!greenhouse.isValidCoordinate(row, col)) {
-            view.printError("مختصات گلدان نامعتبر است.");
-            return;
-        }
-        if (!greenhouse.hasPlant(row, col)) {
-            view.printError("گیاه مستقیمی در این گلدان وجود ندارد.");
-            return;
-        }
-        if (!greenhouse.isReady(row, col)) {
-            view.printError("این گیاه هنوز آماده برداشت نیست.");
-            return;
-        }
-        String plantName = greenhouse.getPlantName(row, col);
-        loggedInUser.addCoins(500);
-        if (!plantName.equals("marigold")) {
-            if (!loggedInUser.hasGreenhouseBoost(plantName)) {
-                loggedInUser.addGreenhouseBoost(plantName);
-                view.printMessage("500 سکه دریافت شد و بوست گیاه " + plantName + " ذخیره شد.");
-            } else {
-                view.printMessage("500 سکه دریافت شد. بوست این گیاه از قبل ذخیره شده بود.");
-            }
-        } else {
-            view.printMessage("500 سکه دریافت شد.");
-        }
-        greenhouse.clearPot(row, col);
-        userManager.save();
-    }
-
-    private void growGreenhousePot(List<String> t) {
-        int[] coords = parseCoordinates(t, 1);
-        if (coords == null) {
-            view.printError("فرمت مکان اشتباه است. نمونه: grow (2, 1)");
-            return;
-        }
-        int col = coords[0] - 1;
-        int row = coords[1] - 1;
-        Greenhouse greenhouse = loggedInUser.getGreenhouse();
-        if (!greenhouse.isValidCoordinate(row, col)) {
-            view.printError("مختصات گلدان نامعتبر است.");
-            return;
-        }
-        if (!greenhouse.hasPlant(row, col)) {
-            view.printError("گیاه مستقیمی در این گلدان وجود ندارد.");
-            return;
-        }
-        if (greenhouse.isReady(row, col)) {
-            view.printError("این گیاه هم‌اکنون آماده است.");
-            return;
-        }
-        long remaining = greenhouse.getRemainingMillis(row, col);
-        int cost = (int) ((remaining + 3600_000L - 1) / 3600_000L);
-        if (!loggedInUser.spendDiamonds(cost)) {
-            view.printError("الماس کافی برای تسریع رشد ندارید.");
-            return;
-        }
-        greenhouse.acceleratePot(row, col);
-        userManager.save();
-        view.printMessage(cost + " الماس مصرف شد و رشد گیاه کامل شد.");
-    }
-
-    private void unlockGreenhousePot(List<String> t) {
-        int[] coords = parseCoordinates(t, 3);
-        if (coords == null) {
-            view.printError("فرمت مکان اشتباه است. نمونه: unlock pot at (2, 1)");
-            return;
-        }
-        int col = coords[0] - 1;
-        int row = coords[1] - 1;
-        Greenhouse greenhouse = loggedInUser.getGreenhouse();
-        if (!greenhouse.isValidCoordinate(row, col)) {
-            view.printError("مختصات گلدان نامعتبر است.");
-            return;
-        }
-        if (!greenhouse.isLocked(row, col)) {
-            view.printError("این گلدان قبلا باز شده است.");
-            return;
-        }
-        int cost = 2000;
-        if (!loggedInUser.spendCoins(cost)) {
-            view.printError("سکه کافی برای باز کردن گلدان ندارید.");
-            return;
-        }
-        greenhouse.unlock(row, col);
-        userManager.save();
-        view.printMessage("گلدان باز شد.");
-    }
-
-    private int[] parseCoordinates(List<String> t, int startIndex) {
-        if (t.size() <= startIndex) {
-            return null;
-        }
-        String joined = String.join(" ", t.subList(startIndex, t.size()));
-        String cleaned = joined.replaceAll("[^0-9\\-]+", " ").trim();
-        if (cleaned.isEmpty()) {
-            return null;
-        }
-        String[] parts = cleaned.split("\\s+");
-        if (parts.length < 2) {
-            return null;
-        }
-        try {
-            return new int[]{Integer.parseInt(parts[0]), Integer.parseInt(parts[1])};
-        } catch (NumberFormatException e) {
-            return null;
-        }
-    }
-
-    private boolean handleProfileSubcommand(List<String> t, CommandLine cmd) {
-        if (!isLoggedIn()) {
-            view.printError("ابتدا وارد شوید.");
-           return true;
-        }
-        if (t.size() < 3) {
-            return false;
-        }
-        String sub = t.get(2);
-        switch (sub) {
-            case "change-username": {
-                String newUsername = cmd.get("u");
-                if (newUsername.equals(loggedInUser.getUsername())) {
-                    view.printError("نام کاربری جدید با نام فعلی یکسان است.");
-                    return true;
-                }
-                if (userManager.usernameExists(newUsername)) {
-                    view.printError("این نام کاربری قبلا گرفته شده.");
-                    return true;
-                }
-                view.printMessage("[محدودیت اسکلت] تغییر username به دلیل استفاده از آن به عنوان کلید نگاشت پیاده نشده؛ می‌توانید در UserManager افزودن متد rename پیاده‌سازی کنید.");
-                return true;
-            }
-            case "change-nickname": {
-                String newNickname = cmd.get("u");
-                if (newNickname.equals(loggedInUser.getNickname())) {
-                    view.printError("نام مستعار جدید با نام فعلی یکسان است.");
-                    return true;
-                }
-                loggedInUser.setNickname(newNickname);
-                userManager.save();
-                view.printMessage("نام مستعار تغییر کرد.");
-                return true;
-            }
-            case "change-email": {
-                String newEmail = cmd.get("e");
-                if (newEmail.equalsIgnoreCase(loggedInUser.getEmail())) {
-                    view.printError("ایمیل جدید با ایمیل فعلی یکسان است.");
-                    return true;
-                }
-                if (!Validator.isValidEmail(newEmail)) {
-                    view.printError("ایمیل نامعتبر است.");
-                    return true;
-                }
-                loggedInUser.setEmail(newEmail);
-                userManager.save();
-                view.printMessage("ایمیل تغییر کرد.");
-                return true;
-            }
-            case "change-password": {
-                String newPassword = cmd.get("p");
-                String oldPassword = cmd.get("o");
-                if (!userManager.checkPassword(loggedInUser, oldPassword)) {
-                    view.printError("رمز عبور فعلی اشتباه است.");
-                    return true;
-                }
-                if (newPassword.equals(oldPassword)) {
-                    view.printError("رمز جدید نباید با رمز فعلی یکسان باشد.");
-                    return true;
-                }
-                String weakness = Validator.passwordWeaknessReason(newPassword);
-                if (weakness != null) {
-                    view.printError(weakness);
-                    return true;
-                }
-                userManager.changePassword(loggedInUser, newPassword);
-                view.printMessage("رمز عبور تغییر کرد.");
-                return true;
-            }
-            case "show-info": {
-                view.printMessage("Username: " + loggedInUser.getUsername());
-                view.printMessage("Nickname: " + loggedInUser.getNickname());
-                view.printMessage("GamesPlayed: " + loggedInUser.getGamesPlayed());
-                view.printMessage("Coins: " + loggedInUser.getCoins());
-                view.printMessage("Diamonds: " + loggedInUser.getDiamonds());
-                view.printMessage("LevelsCompleted: " + loggedInUser.getLevelsCompleted());
-                view.printMessage("MaxMowPoints: " + loggedInUser.getMaxMowPoints());
-                return true;
-            }
-            default:
-                return false;
-        }
-    }
-
-    // ---------------- COLLECTION ----------------
-
-    private boolean handleCollectionSubcommand(List<String> t, CommandLine cmd) {
-        if (!isLoggedIn()) {
-            view.printError("ابتدا وارد شوید.");
-            return true;
-        }
-        // سپردن تمام وظایف کلکسیون به کنترلر تخصصی خودش
-        return collectionController.handle(loggedInUser, t, cmd);
     }
 }
