@@ -21,12 +21,13 @@ public class MenuController {
     private final MainView mainView;
     private final PlayView playView;
     private final SettingsView settingsView;
-
-    // === ویوهای قدیمی شما که هنوز بازنویسی نشده‌اند ===
+    private final NewsView newsView;
     private final ProfileView profileView;
-    private final GreenhouseView greenhouseView;
-    private final CollectionView collectionView;
 
+    // === ویوهای قدیمی شما که هنوز بازنویسی نشده‌اند (موقتاً غیرفعال شدند تا ارور ندهند) ===
+     private final GreenhouseView greenhouseView;
+    // خط قبلی را پاک کن و این را بنویس:
+    private final CollectionController collectionController;
     public MenuController(UserManager userManager, ConsoleView consoleView) {
         this.userManager = userManager;
         this.consoleView = consoleView;
@@ -37,11 +38,13 @@ public class MenuController {
         this.mainView = new MainView(new MainController(userManager), consoleView, this);
         this.playView = new PlayView(new PlayController(userManager), consoleView, this);
         this.settingsView = new SettingsView(new SettingsController(userManager), consoleView, this);
-
-        // مقداردهی کلاس‌های قدیمی (تا زمانی که طبق داکیومنت بازنویسی شوند کار می‌کنند)
+        this.newsView = new NewsView(new NewsController(), consoleView);
         this.profileView = new ProfileView(new ProfileController(userManager), consoleView);
-        this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
-        this.collectionView = new CollectionView(new CollectionController(userManager));
+// خط قبلی را پاک کن و این را بنویس:
+        this.collectionController = new CollectionController(userManager);
+        // مقداردهی کلاس‌های قدیمی (کامنت شدند تا ارور برطرف شود)
+        // this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
+        // this.collectionView = new CollectionView(new CollectionController(userManager));
     }
 
     public boolean handle(String rawLine, CommandLine cmd) {
@@ -75,16 +78,18 @@ public class MenuController {
                 return loginView.checkCommand(t, cmd);
             case MAIN:
                 return mainView.checkCommand(t, cmd);
-            case PLAY:
+            case GAME:
                 return playView.checkCommand(t, cmd);
             case SETTINGS:
                 return settingsView.checkCommand(t, cmd);
+            case NEWS: // <--- این بخش که پاک شده بود را برگرداندم
+                return newsView.checkCommand(loggedInUser, t, cmd);
             case PROFILE:
                 return profileView.checkCommand(loggedInUser, t, cmd);
-            case GREENHOUSE:
-                return greenhouseView.checkCommand(loggedInUser, t, cmd);
-            case COLLECTION:
-                return collectionView.checkCommand(loggedInUser, cmd);
+            // case GREENHOUSE:
+            //     return greenhouseView.checkCommand(loggedInUser, t, cmd);
+            // case COLLECTION:
+            //     return collectionView.checkCommand(loggedInUser, cmd);
             default:
                 return false;
         }
@@ -109,12 +114,12 @@ public class MenuController {
                 // انتقال از لاگین به اصلی به صورت خودکار در کلاس LoginView انجام می‌شود
                 break;
             case MAIN:
-                if (target == MenuType.PLAY || target == MenuType.SETTINGS ||
+                if (target == MenuType.GAME || target == MenuType.SETTINGS ||
                         target == MenuType.NEWS || target == MenuType.NETWORK || target == MenuType.PROFILE) {
                     canEnter = true;
                 }
                 break;
-            case PLAY:
+            case GAME:
                 if (target == MenuType.COLLECTION) canEnter = true;
                 break;
         }
@@ -143,7 +148,7 @@ public class MenuController {
             case MAIN:
                 consoleView.printError("برای خروج از منوی اصلی باید از طریق دستور logout که در ادامه توضیح داده می‌شود، اقدام شود.");
                 break;
-            case PLAY:
+            case GAME:
             case SETTINGS:
             case NEWS:
             case PROFILE:
@@ -152,7 +157,7 @@ public class MenuController {
                 consoleView.printMessage("به منوی اصلی بازگشتید.");
                 break;
             case COLLECTION:
-                setCurrentMenu(MenuType.PLAY);
+                setCurrentMenu(MenuType.GAME);
                 consoleView.printMessage("به منوی بازی بازگشتید.");
                 break;
         }

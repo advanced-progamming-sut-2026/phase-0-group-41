@@ -3,10 +3,7 @@ package model.user;
 import model.greenhouse.Greenhouse;
 
 import java.io.Serializable;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class User implements Serializable {
 
@@ -37,7 +34,14 @@ public class User implements Serializable {
 
     private final Set<String> unlockedPlants = new HashSet<>();
     private final Set<String> seenZombies = new HashSet<>();
+    // این متغیرها و متدها را به کلاس User خودت اضافه کن:
+    private List<NewsMessage> newsList = new ArrayList<>();
 
+
+
+    public List<NewsMessage> getNewsList() {
+        return newsList;
+    }
     public User(String username, String passwordHash, String nickname, String email, String gender) {
         this.username = username;
         this.passwordHash = passwordHash;
@@ -75,7 +79,9 @@ public class User implements Serializable {
     public void setPasswordHash(String passwordHash) {
         this.passwordHash = passwordHash;
     }
-
+    public void setUsername(String username) {
+        this.username = username;
+    }
     public String getNickname() {
         return nickname;
     }
@@ -115,7 +121,9 @@ public class User implements Serializable {
     public int getCoins() {
         return coins;
     }
-
+    public void setCoins(int coins) {
+        this.coins = coins;
+    }
     public void addCoins(int amount) {
         this.coins += amount;
     }
@@ -131,7 +139,9 @@ public class User implements Serializable {
     public int getDiamonds() {
         return diamonds;
     }
-
+    public void setDiamonds(int diamonds) {
+        this.diamonds = diamonds;
+    }
     public void addDiamonds(int amount) {
         this.diamonds += amount;
     }
@@ -243,6 +253,18 @@ public class User implements Serializable {
             return true;
         }
         return false; // سکه یا بذر کافی نیست
+    }
+    public void addNews(String content) {
+        newsList.add(new NewsMessage(content));
+    }
+
+    public boolean hasUnreadNews() {
+        for (NewsMessage msg : newsList) {
+            if (!msg.isRead()) {
+                return true;
+            }
+        }
+        return false;
     }
 
 

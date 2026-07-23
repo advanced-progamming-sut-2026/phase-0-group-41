@@ -11,6 +11,7 @@ public abstract class Zombie {
     private int chilledTicks = 0;
     private int frozenTicks = 0;
     private int health;
+    private int maxHealth;
     private int row;
     private double xPosition;
     private boolean eating = false;
@@ -66,14 +67,20 @@ public abstract class Zombie {
     public int getBaseHealth() {
         return this.health;
     }
+
     protected Zombie(String typeName, int health, double baseSpeed, int waveCost, int damagePerTick) {
         this.typeName = typeName;
         this.health = health;
+        this.maxHealth = health; // <--- این خط حتماً باید اضافه شود
         this.baseSpeed = baseSpeed;
         this.waveCost = waveCost;
         this.damagePerTick = damagePerTick;
     }
 
+    // <--- این متد حتماً باید اضافه شود تا CollectionView ارور ندهد
+    public int getMaxHealth() {
+        return maxHealth;
+    }
     public void spawn(int row, double xPosition) {
         this.row = row;
         this.xPosition = xPosition;
@@ -139,6 +146,7 @@ public abstract class Zombie {
 
         // جان زامبی‌ها افزایش می‌یابد
         this.health = (int) (this.health * increaseMultiplier);
+        this.maxHealth = (int) (this.maxHealth * increaseMultiplier); // <--- این خط را اضافه کنید
 
         // دمیج زامبی‌ها افزایش می‌یابد
         this.damagePerTick = (int) (this.damagePerTick * increaseMultiplier);

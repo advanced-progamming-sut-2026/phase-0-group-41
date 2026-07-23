@@ -75,4 +75,11 @@ public class UserManager {
             System.err.println("خطا در بازیابی اطلاعات کاربران: " + e.getMessage());
         }
     }
+    public void updateUsernameKey(String oldUsername, String newUsername) {
+        if (usersByUsername.containsKey(oldUsername)) {
+            User user = usersByUsername.remove(oldUsername); // حذف کاربر با کلید قدیمی
+            usersByUsername.put(newUsername, user);          // اضافه کردن همان کاربر با کلید جدید
+            save();                                          // ذخیره تغییرات در فایل
+        }
+    }
 }

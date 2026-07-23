@@ -3,6 +3,7 @@ package view;
 import controller.MainController;
 import controller.MenuController;
 import model.menu.MenuType;
+import model.user.User;
 import util.CommandLine;
 
 import java.util.List;
@@ -19,6 +20,12 @@ public class MainView {
     }
 
     public boolean checkCommand(List<String> t, CommandLine cmd) {
+        // --- اضافه کردن دستور نمایش لیست منوها ---
+        if (t.size() == 2 && t.get(0).equals("show") && t.get(1).equals("menu")) {
+            printMainMenuOptions();
+            return true;
+        }
+
         // ۱. بررسی دستور خروج
         if (t.size() == 2 && t.get(0).equals("menu") && t.get(1).equals("logout")) {
             doLogout();
@@ -73,5 +80,22 @@ public class MainView {
                 consoleView.printError("نام منو نامعتبر است. منوهای مجاز: play, settings, news, profile");
                 return true;
         }
+    }
+
+    // --- این متد جدید برای نمایش گزینه‌های منو است ---
+    private void printMainMenuOptions() {
+        User user = menuController.getLoggedInUser();
+        if (user == null) return;
+
+        boolean hasNews = user.hasUnreadNews();
+        // اگر خبر جدید داشت علامت قرمز، اگر نه هیچی
+        String newsNotification = hasNews ? " (❗️ شما پیام نخوانده دارید)" : "";
+
+        consoleView.printMessage("--- Main Menu ---");
+        consoleView.printMessage("1. Play");
+        consoleView.printMessage("2. Profile");
+        consoleView.printMessage("3. News" + newsNotification);
+        consoleView.printMessage("4. Settings");
+        consoleView.printMessage("-----------------");
     }
 }
