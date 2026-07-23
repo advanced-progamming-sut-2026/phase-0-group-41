@@ -4,11 +4,6 @@ import model.user.SecurityQuestions;
 import model.user.User;
 import model.user.UserManager;
 
-import java.nio.charset.StandardCharsets;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-import java.util.regex.Pattern;
-
 public class RegisterController {
     private final UserManager userManager;
     private User pendingRegisteredUser;
@@ -39,7 +34,7 @@ public class RegisterController {
             return "ERR_INVALID_NICKNAME";
         }
 
-        // ۴. بررسی ایمیل (دقیقاً طبق قوانین داکیومنت تصویر image_dd3080.png)
+        // ۴. بررسی ایمیل
         if (email == null || !isValidEmail(email)) {
             return "ERR_INVALID_EMAIL";
         }
@@ -49,11 +44,11 @@ public class RegisterController {
             return "ERR_INVALID_GENDER";
         }
 
-        // هش کردن رمز عبور با SHA-256 قبل از ذخیره‌سازی
-        String hashedPassword = hashSHA256(password);
-
-        // ساخت کاربر موقت (هنوز سوال امنیتی جواب داده نشده)
-        pendingRegisteredUser = userManager.register(username, hashedPassword, nickname, email, gender);
+        // ==========================================
+        // نکته مهم: ما پسورد خام را می‌فرستیم،
+        // چون UserManager.register خودش زحمت Hash کردن را می‌کشد.
+        // ==========================================
+        pendingRegisteredUser = userManager.register(username, password, nickname, email, gender);
         return "SUCCESS";
     }
 
@@ -71,41 +66,19 @@ public class RegisterController {
         pendingRegisteredUser.setSecurityQuestionId(qId);
         pendingRegisteredUser.setSecurityAnswer(answer);
 
-        // ذخیره اطلاعات پس از تکمیل موفقیت‌آمیز ثبت‌نام
         userManager.save();
         pendingRegisteredUser = null;
         return "SUCCESS";
     }
 
-    // ================= متدهای کمکی (Helper Methods) =================
-
+    // متدهای کمکی بدون تغییر باقی می‌مانند
     private boolean isPasswordStrong(String password) {
-        // حداقل ۸ کاراکتر، شامل حروف کوچک، بزرگ، عدد و نماد خاص
         String regex = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[!@#$%^&*()_+\\-=\\[\\]{}|;':\",./<>?]).{8,}$";
         return password.matches(regex);
     }
 
     private boolean isValidEmail(String email) {
-        // دقیق‌ترین Regex ممکن برای پوشش تمام قوانین داکیومنت شما
         String emailRegex = "^[a-zA-Z0-9](?!.*\\.\\.)[a-zA-Z0-9._-]*[a-zA-Z0-9]@[a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]\\.[a-zA-Z]{2,}$";
         return email.matches(emailRegex);
-    }
-
-    private String hashSHA256(String input) {
-        try {
-            MessageDigest digest = MessageDigest.getInstance("SHA-256");
-            byte[] encodedhash = digest.digest(input.getBytes(StandardCharsets.UTF_8));
-            StringBuilder hexString = new StringBuilder(2 * encodedhash.length);
-            for (byte b : encodedhash) {
-                String hex = Integer.toHexString(0xff & b);
-                if (hex.length() == 1) {
-                    hexString.append('0');
-                }
-                hexString.append(hex);
-            }
-            return hexString.toString();
-        } catch (NoSuchAlgorithmException e) {
-            throw new RuntimeException("SHA-256 algorithm not found", e);
-        }
     }
 }

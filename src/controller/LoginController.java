@@ -7,35 +7,87 @@ import model.user.UserManager;
 public class LoginController {
     private final UserManager userManager;
     private User pendingForgetPasswordUser;
+    private boolean isAwaitingNewPassword = false;
 
     public LoginController(UserManager userManager) {
         this.userManager = userManager;
     }
 
-    public User authenticate(String username, String password) {
+    public String authenticate(String username, String password, boolean stayLoggedIn) {
         User user = userManager.findByUsername(username);
+
+        // ==========================================
+        // نکته مهم: برای چک کردن پسورد از متد آماده‌ی
+        // checkPassword در UserManager استفاده می‌کنیم
+        // ==========================================
         if (user == null || !userManager.checkPassword(user, password)) {
-            return null;
+            return "ERR_INVALID_CREDENTIALS";
         }
-        return user;
+
+        // قابلیت Stay Logged In (در صورت نیاز بعداً تکمیل می‌شود)
+        if (stayLoggedIn) {
+            // e.g., userManager.setStayLoggedIn(user);
+        }
+
+        return "SUCCESS";
+    }
+
+    public User getAuthenticatedUser(String username) {
+        return userManager.findByUsername(username);
     }
 
     public String initiateForgetPassword(String username, String email) {
         User user = userManager.findByUsername(username);
         if (user == null || !user.getEmail().equalsIgnoreCase(email)) {
-            return "NOT_FOUND";
+            return "ERR_NOT_FOUND";
         }
         pendingForgetPasswordUser = user;
-        return SecurityQuestions.get(user.getSecurityQuestionId());
+        return "SUCCESS";
+    }
+
+    public String getPendingQuestion() {
+        if (pendingForgetPasswordUser == null) return null;
+        return SecurityQuestions.get(pendingForgetPasswordUser.getSecurityQuestionId());
     }
 
     public String answerSecurityQuestion(String answer) {
-        if (pendingForgetPasswordUser == null) return "NO_PENDING_USER";
+        if (pendingForgetPasswordUser == null) {
+            return "ERR_NO_PENDING_USER";
+        }
 
         if (answer != null && answer.equals(pendingForgetPasswordUser.getSecurityAnswer())) {
-            pendingForgetPasswordUser = null;
+            isAwaitingNewPassword = true;
             return "SUCCESS";
         }
-        return "WRONG_ANSWER";
+
+        pendingForgetPasswordUser = null;
+        isAwaitingNewPassword = false;
+        return "ERR_WRONG_ANSWER";
+    }
+
+    public String resetPassword(String newPassword, String confirmPassword) {
+        if (!isAwaitingNewPassword || pendingForgetPasswordUser == null) {
+            return "ERR_NOT_AWAITING_RESET";
+        }
+        if (!newPassword.equals(confirmPassword)) {
+            return "ERR_PASSWORD_MISMATCH";
+        }
+        if (!isPasswordStrong(newPassword)) {
+            return "ERR_WEAK_PASSWORD";
+        }
+
+        // ==========================================
+        // استفاده از متد changePassword که هم‌تیمی‌ات نوشته
+        // ==========================================
+        userManager.changePassword(pendingForgetPasswordUser, newPassword);
+
+        pendingForgetPasswordUser = null;
+        isAwaitingNewPassword = false;
+        return "SUCCESS";
+    }
+
+    private boolean isPasswordStrong(String password) {
+        String regex = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[!@#$%^&*()_+\\-=\\[\\]{}|;':\",./<>?]).{8,}$";
+        return password.matches(regex);
     }
 }

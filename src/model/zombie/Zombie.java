@@ -5,9 +5,9 @@ import model.game.GameSession;
 public abstract class Zombie {
 
     private final String typeName;
-    private final int waveCost;
-    private final double baseSpeed; // خانه بر ثانیه
-    private final int damagePerTick;
+    private  int waveCost;
+    private  double baseSpeed; // خانه بر ثانیه
+    private  int damagePerTick;
     private int chilledTicks = 0;
     private int frozenTicks = 0;
     private int health;
@@ -131,5 +131,19 @@ public abstract class Zombie {
 
     public void setEating(boolean eating) {
         this.eating = eating;
+    }
+    // این متد را داخل کلاس Zombie کپی کنید
+    public void applyDifficultyModifiers(int dl) {
+        double increaseMultiplier = dl / 3.0;
+        double decreaseMultiplier = 3.0 / dl;
+
+        // جان زامبی‌ها افزایش می‌یابد
+        this.health = (int) (this.health * increaseMultiplier);
+
+        // دمیج زامبی‌ها افزایش می‌یابد
+        this.damagePerTick = (int) (this.damagePerTick * increaseMultiplier);
+
+        // هزینه موج زامبی‌ها کاهش می‌یابد
+        this.waveCost = (int) (this.waveCost * decreaseMultiplier);
     }
 }

@@ -13,10 +13,14 @@ public class SunManager {
     private double secondsUntilNextSun;
     private int nextSunId = 1;
 
-    public SunManager() {
+    // === متغیر جدید برای ذخیره درجه سختی ===
+    private final int difficultyLevel;
+
+    // سازنده کلاس حالا درجه سختی را دریافت می‌کند
+    public SunManager(int difficultyLevel) {
+        this.difficultyLevel = difficultyLevel;
         recomputeNextInterval();
     }
-
     public int getCurrentSun() {
         return currentSun;
     }
@@ -34,9 +38,15 @@ public class SunManager {
     }
 
     private void recomputeNextInterval() {
-        // طبق فرمول داک: هرچه بازی جلوتر می‌رود، فاصله سقوط خورشید کمتر می‌شود (حداقل ۱۲ ثانیه? طبق فرمول
-        // max(6+0.05t, 12) در واقع با افزایش t به سمت بالا می‌رود؛ اینجا دقیقا طبق فرمول داک عمل می‌کنیم)
-        secondsUntilNextSun = Math.max(6 + 0.05 * secondsSinceStart, 12);
+        // ۱. محاسبه فاصله زمانی پایه طبق فرمول اولیه
+        double baseInterval = Math.max(6 + 0.05 * secondsSinceStart, 12);
+
+        // ۲. اعمال ضریب سختی:
+        // چون نرخ ظاهر شدن باید کاهش یابد، پس زمانِ انتظار باید "افزایش" یابد.
+        // طبق داکیومنت، ضریب افزایش برابر است با (dl / 3)
+        double difficultyMultiplier = this.difficultyLevel / 3.0;
+
+        this.secondsUntilNextSun = baseInterval * difficultyMultiplier;
     }
 
     /**

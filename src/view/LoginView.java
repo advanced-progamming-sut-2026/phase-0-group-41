@@ -32,6 +32,10 @@ public class LoginView {
             doAnswerSecurityQuestion(cmd);
             return true;
         }
+        if (t.get(0).equals("reset-password")) {
+            doResetPassword(cmd);
+            return true;
+        }
         return false;
     }
 
@@ -39,13 +43,21 @@ public class LoginView {
         String username = cmd.get("u");
         String password = cmd.get("p");
 
-        User user = controller.authenticate(username, password);
-        if (user == null) {
-            consoleView.printError("نام کاربری یا رمز عبور اشتباه است.");
-        } else {
+        // بررسی وجود تگ stay-logged-in در دستور کاربر
+        boolean stayLoggedIn = cmd.getTokens().contains("-stay-logged-in");
+
+        String result = controller.authenticate(username, password, stayLoggedIn);
+
+        if (result.equals("SUCCESS")) {
+            User user = controller.getAuthenticatedUser(username);
             menuController.setLoggedInUser(user);
-            menuController.setCurrentMenu(MenuType.MAIN);
-            consoleView.printMessage("خوش آمدید " + user.getNickname() + "!");
+            menuController.setCurrentMenu(MenuType.MAIN); // هدایت به منوی اصلی
+            consoleView.printMessage("ورود موفقیت‌آمیز بود. به منوی اصلی خوش آمدید، " + user.getNickname() + "!");
+            if (stayLoggedIn) {
+                consoleView.printMessage("[سیستم]: حالت Stay Logged In فعال شد.");
+            }
+        } else {
+            consoleView.printError("نام کاربری یا رمز عبور اشتباه است.");
         }
     }
 
@@ -53,12 +65,13 @@ public class LoginView {
         String username = cmd.get("u");
         String email = cmd.get("e");
 
-        String question = controller.initiateForgetPassword(username, email);
-        if (question.equals("NOT_FOUND")) {
-            consoleView.printError("کاربر با این نام کاربری/ایمیل یافت نشد.");
+        String result = controller.initiateForgetPassword(username, email);
+        if (result.equals("SUCCESS")) {
+            String question = controller.getPendingQuestion();
+            consoleView.printMessage("سوال امنیتی شما: " + question);
+            consoleView.printMessage("لطفاً با دستور 'answer -a <answer>' پاسخ دهید.");
         } else {
-            consoleView.printMessage(question);
-            consoleView.printMessage("پاسخ را با دستور 'answer -a <پاسخ>' وارد کنید.");
+            consoleView.printError("کاربری با این نام کاربری و ایمیل در سیستم یافت نشد.");
         }
     }
 
@@ -66,12 +79,40 @@ public class LoginView {
         String answer = cmd.get("a");
         String result = controller.answerSecurityQuestion(answer);
 
-        if (result.equals("NO_PENDING_USER")) {
-            consoleView.printError("ابتدا 'forget password' را اجرا کنید.");
-        } else if (result.equals("SUCCESS")) {
-            consoleView.printMessage("پاسخ صحیح بود. لطفا رمز عبور جدید را با 'menu profile change-password ...' تنظیم کنید (یا در این اسکلت با ورود مجدد رمز فعلی را نگه دارید).");
-        } else {
-            consoleView.printError("پاسخ نادرست بود.");
+        switch (result) {
+            case "SUCCESS":
+                consoleView.printMessage("پاسخ صحیح بود!");
+                consoleView.printMessage("لطفاً رمز عبور جدید خود را با این فرمت وارد کنید: reset-password -p <new_password> <confirm_password>");
+                break;
+            case "ERR_WRONG_ANSWER":
+                consoleView.printError("پاسخ امنیتی نادرست بود. فرآیند لغو شد و به اول منو بازگشتید.");
+                break;
+            case "ERR_NO_PENDING_USER":
+                consoleView.printError("شما در فرآیند بازیابی رمز عبور نیستید. ابتدا از دستور forget password استفاده کنید.");
+                break;
+        }
+    }
+
+    private void doResetPassword(CommandLine cmd) {
+        List<String> passwordParts = cmd.getMulti("p");
+        String newPassword = passwordParts.isEmpty() ? null : passwordParts.get(0);
+        String confirmPassword = passwordParts.size() > 1 ? passwordParts.get(1) : null;
+
+        String result = controller.resetPassword(newPassword, confirmPassword);
+
+        switch (result) {
+            case "SUCCESS":
+                consoleView.printMessage("رمز عبور با موفقیت تغییر کرد! حالا می‌توانید با رمز جدید login کنید.");
+                break;
+            case "ERR_PASSWORD_MISMATCH":
+                consoleView.printError("عدم تطابق رمز عبور و تکرار آن.");
+                break;
+            case "ERR_WEAK_PASSWORD":
+                consoleView.printError("رمز عبور ضعیف: طول آن حداقل ۸ حرف باشد، از حروف کوچک و بزرگ، اعداد و نمادهای خاص نیز در آن استفاده شده باشد.");
+                break;
+            case "ERR_NOT_AWAITING_RESET":
+                consoleView.printError("شما مجوز تغییر رمز را ندارید. باید ابتدا به سوال امنیتی پاسخ دهید.");
+                break;
         }
     }
 }
