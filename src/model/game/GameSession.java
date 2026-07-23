@@ -203,7 +203,7 @@ public class GameSession {
         double remainingCost = cost;
         double totalHealth = 0;
         while (remainingCost > 0) {
-            Zombie z = ZombieFactory.randomBasicZombie();
+            Zombie z = ZombieFactory.randomBasicZombie(user.getDifficultyLevel());
             int lane = random.nextInt(Board.ROWS);
             z.spawn(lane, Board.COLS - 1);
             aliveZombies.add(z);

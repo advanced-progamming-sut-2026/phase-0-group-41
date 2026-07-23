@@ -32,10 +32,17 @@ public class GameController {
             return false;
         }
         String first = t.get(0);
-//salam
+
         if (first.equals("advance") && t.size() >= 3 && t.get(1).equals("time")) {
-            int count = Integer.parseInt(cmd.get("t"));
-            session.advanceTicks(count);
+            int baseCount = Integer.parseInt(cmd.get("t"));
+
+            // === اعمال ضریب سختی برای سرعت پیش‌روی بازی ===
+            int dl = session.getUser().getDifficultyLevel();
+            int actualCount = (int) (baseCount * (dl / 3.0));
+
+            // حالا بازی به جای مقدار پایه، با سرعتِ محاسبه شده جلو می‌رود
+            session.advanceTicks(actualCount);
+
             if (session.isGameOver()) {
                 view.printMessage(session.isWon() ? "شما بردید!" : "شما باختید.");
             }
@@ -132,8 +139,9 @@ public class GameController {
             }
 
             try {
-                // درخواست ساخت زامبی از کارخانه
-                Zombie z = ZombieFactory.create(type);
+                // ---> تغییر مهم: ارسال درجه سختی کاربر به کارخانه زامبی‌سازی <---
+                int dl = session.getUser().getDifficultyLevel();
+                Zombie z = ZombieFactory.create(type, dl);
 
                 // قرار دادن زامبی در مختصات درخواستی (loc[1] سطر و loc[0] ستون است)
                 z.spawn(loc[1], loc[0]);
@@ -141,7 +149,7 @@ public class GameController {
 
                 view.printMessage("زامبی " + type + " با موفقیت در مختصات (" + loc[0] + ", " + loc[1] + ") ظاهر شد.");
             } catch (IllegalArgumentException e) {
-                view.printError(e.getMessage()); // اگر اسم زامبی اشتباه بود، ارور چاپ می‌شود
+                view.printError(e.getMessage());
             }
             return true;
         }

@@ -54,7 +54,7 @@ public class MainView {
         // طبق لیست داکیومنت، کاربر فقط می‌تواند به این ۴ منو برود
         switch (menuName.toLowerCase()) {
             case "play":
-                menuController.setCurrentMenu(MenuType.PLAY);
+                menuController.setCurrentMenu(MenuType.GAME);
                 consoleView.printMessage("وارد منوی بازی شدید.");
                 return true;
             case "settings":

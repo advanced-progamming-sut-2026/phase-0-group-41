@@ -12,8 +12,16 @@ public final class ZombieFactory {
     private static final Random RANDOM = new Random();
 
     private ZombieFactory() {}
+    public static Zombie create(String type, int difficultyLevel) {
+        // ساخت زامبی خام
+        Zombie zombie = buildBaseZombie(type);
 
-    public static Zombie create(String type) {
+        // اعمال ضرایب سختی
+        zombie.applyDifficultyModifiers(difficultyLevel);
+
+        return zombie;
+    }
+    private static Zombie buildBaseZombie(String type) {
         switch (type.toLowerCase()) {
             // === زامبی‌های پایه و قدیمی ===
             case "normal":
@@ -75,9 +83,9 @@ public final class ZombieFactory {
         }
     }
 
-    public static Zombie randomBasicZombie() {
+    public static Zombie randomBasicZombie(int difficultyLevel) {
         String type = BASIC_ZOMBIE_TYPES.get(RANDOM.nextInt(BASIC_ZOMBIE_TYPES.size()));
-        return create(type);
+        return create(type, difficultyLevel);
     }
     public static java.util.List<String> allZombieNames() {
         return Arrays.asList(
