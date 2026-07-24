@@ -13,5 +13,6 @@ public enum MenuType {
     TRAVEL_LOG,
     LEADERBOARD,
     PLANT_SELECTION,
-    IN_GAME
+    IN_GAME,
+    SHOP
 }

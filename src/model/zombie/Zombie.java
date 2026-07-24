@@ -6,12 +6,13 @@ public abstract class Zombie {
 
     private final String typeName;
     private int waveCost;
+    private int maxHealth;
+    private int spawnTick = 0;
     private double baseSpeed; // خانه بر ثانیه
     private int damagePerTick;
     private int chilledTicks = 0;
     private int frozenTicks = 0;
     private int health;
-    private int maxHealth;
     private int row;
     private double xPosition;
     private boolean eating = false;
@@ -23,6 +24,14 @@ public abstract class Zombie {
     // === متغیرهای اضافه شده برای مکانیزم "غذای گیاه" ===
     private boolean carriesPlantFood = false;
 
+    public void setSpawnTick(int tick) {
+        this.spawnTick = tick;
+    }
+
+    public int getSpawnTick() {
+        return this.spawnTick;
+    }
+    
     public boolean isCarriesPlantFood() {
         return this.carriesPlantFood;
     }
@@ -71,7 +80,6 @@ public abstract class Zombie {
     protected Zombie(String typeName, int health, double baseSpeed, int waveCost, int damagePerTick) {
         this.typeName = typeName;
         this.health = health;
-        this.maxHealth = health; // <--- این خط حتماً باید اضافه شود
         this.baseSpeed = baseSpeed;
         this.waveCost = waveCost;
         this.damagePerTick = damagePerTick;
@@ -80,10 +88,6 @@ public abstract class Zombie {
 
 
 
-    // <--- این متد حتماً باید اضافه شود تا CollectionView ارور ندهد
-    public int getMaxHealth() {
-        return maxHealth;
-    }
     public void spawn(int row, double xPosition) {
         this.row = row;
         this.xPosition = xPosition;

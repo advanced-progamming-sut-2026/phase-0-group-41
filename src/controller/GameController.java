@@ -145,7 +145,9 @@ public class GameController {
 
                 // قرار دادن زامبی در مختصات درخواستی (loc[1] سطر و loc[0] ستون است)
                 z.spawn(loc[1], loc[0]);
+                z.setSpawnTick((int) session.getCurrentTick());
                 session.getAliveZombies().add(z);
+
 
                 view.printMessage("زامبی " + type + " با موفقیت در مختصات (" + loc[0] + ", " + loc[1] + ") ظاهر شد.");
             } catch (IllegalArgumentException e) {

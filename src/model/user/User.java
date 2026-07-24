@@ -1,18 +1,21 @@
 package model.user;
 
 import model.greenhouse.Greenhouse;
-
 import java.io.Serializable;
 import java.util.*;
 
-public class User implements Serializable {
+import java.time.LocalDate;
+import model.quest.PlayerProfile;
+import model.quest.QuestManager;
+import model.quest.QuestFactory;
+import model.quest.QuestContext;
+
+// اضافه شدن implements PlayerProfile
+public class User implements Serializable, PlayerProfile {
 
     private static final long serialVersionUID = 1L;
 
-    // === متغیرهای سیستم ارتقاء گیاهان ===
-    private Map<String, Integer> plantLevels;
-    private Map<String, Integer> seedPackets;
-
+    // === متغیرهای پایه ===
     private String username;
     private String passwordHash;
     private String nickname;
@@ -21,6 +24,11 @@ public class User implements Serializable {
     private int securityQuestionId;
     private String securityAnswer;
 
+    // === متغیرهای سیستم ارتقاء گیاهان ===
+    private Map<String, Integer> plantLevels;
+    private Map<String, Integer> seedPackets;
+
+    // === متغیرهای لیدربورد ===
     private int lastCompletedChapter = 0;
     private int lastCompletedLevel = 0;
     private int miniGamesCompleted = 0;
@@ -28,27 +36,36 @@ public class User implements Serializable {
     private int nonDailyQuestsCompleted = 0;
     private int highScore = 0;
 
+    // === متغیرهای مالی و پیشرفت ===
     private int coins = 0;
     private int diamonds = 0;
     private int difficultyLevel = 3;
-
     private int gamesPlayed = 0;
     private int levelsCompleted = 0;
     private int maxMowPoints = 0;
 
+    // === متغیرهای گلخانه و کالکشن ===
     private Greenhouse greenhouse;
     private Map<String, Boolean> greenhouseBoosts;
-
     private final Set<String> unlockedPlants = new HashSet<>();
     private final Set<String> seenZombies = new HashSet<>();
-    // این متغیرها و متدها را به کلاس User خودت اضافه کن:
+    
+    // === اخبار ===
     private List<NewsMessage> newsList = new ArrayList<>();
 
+    // ==========================================
+    // === متغیرهای اضافه شده برای فروشگاه و کوئست ===
+    // ==========================================
+    private LocalDate lastLoginDate;
+    private QuestContext questContext = new QuestContext();
+    private QuestManager questManager;
+    private String dailyOfferPlant;
+    private String dailyOfferDate; 
+    private boolean dailyOfferPurchased;
+    private int storedPlantFood = 0; 
+    private int pendingGreenhousePots = 0;
 
 
-    public List<NewsMessage> getNewsList() {
-        return newsList;
-    }
     public User(String username, String passwordHash, String nickname, String email, String gender) {
         this.username = username;
         this.passwordHash = passwordHash;
@@ -64,9 +81,6 @@ public class User implements Serializable {
         this.plantLevels.put("sunflower", 1);
         this.plantLevels.put("wallnut", 1);
 
-
-
-
         // گیاهان پایه‌ای که از ابتدا در دسترس‌اند
         unlockedPlants.add("peashooter");
         unlockedPlants.add("sunflower");
@@ -75,138 +89,164 @@ public class User implements Serializable {
         this.greenhouseBoosts = new HashMap<>();
     }
 
-    public String getUsername() {
-        return username;
-    }
-
-    public String getPasswordHash() {
-        return passwordHash;
-    }
-
-    public void setPasswordHash(String passwordHash) {
-        this.passwordHash = passwordHash;
-    }
-    public void setUsername(String username) {
-        this.username = username;
-    }
-    public String getNickname() {
-        return nickname;
-    }
-
-    public void setNickname(String nickname) {
-        this.nickname = nickname;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public String getGender() {
-        return gender;
-    }
-
-    public int getSecurityQuestionId() {
-        return securityQuestionId;
-    }
-
-    public void setSecurityQuestionId(int securityQuestionId) {
-        this.securityQuestionId = securityQuestionId;
-    }
-
-    public String getSecurityAnswer() {
-        return securityAnswer;
-    }
-
-    public void setSecurityAnswer(String securityAnswer) {
-        this.securityAnswer = securityAnswer;
-    }
-
-    public int getCoins() {
-        return coins;
-    }
-    public void setCoins(int coins) {
-        this.coins = coins;
-    }
+    // ==========================================
+    // پیاده‌سازی متدهای PlayerProfile
+    // ==========================================
+    
+    @Override
     public void addCoins(int amount) {
         this.coins += amount;
+        // --- اتصال سیستم کوئست ---
+        QuestContext context = getQuestContext();
+        context.setCoinsEarned(context.getCoinsEarned() + amount);
+        getQuestManager().refreshCompletionStatus(context);
+        // (پرینت گرفتن حذف شد و باید در لایه View انجام شود)
     }
 
-    public boolean spendCoins(int amount) {
-        if (coins < amount) {
-            return false;
+    @Override
+    public void addGems(int amount) {
+        this.diamonds += amount;
+        // --- اتصال سیستم کوئست ---
+        QuestContext context = getQuestContext();
+        context.setCoinsEarned(context.getCoinsEarned() + amount);
+        getQuestManager().refreshCompletionStatus(context);
+    }
+
+    public void addDiamonds(int amount) {
+        // برای یکپارچگی، متد قبلی شما متد جدید رفیقت را صدا می‌زند
+        addGems(amount);
+    }
+
+    @Override
+    public void unlock(String unlockableId) {
+        this.unlockedPlants.add(unlockableId);
+    }
+
+    @Override
+    public void addItemToInventory(String itemId, int count) {
+        // در صورت نیاز پیاده‌سازی شود
+    }
+
+    // ==========================================
+    // متدهای فروشگاه و کوئست (اضافه شده از کد رفیقت)
+    // ==========================================
+    public QuestManager getQuestManager() {
+        if (this.questManager == null) {
+            this.questManager = new QuestManager(QuestFactory.createDefaultQuests());
         }
+        return this.questManager;
+    }
+
+    public void setQuestManager(QuestManager questManager) {
+        this.questManager = questManager;
+    }
+
+    public LocalDate getLastLoginDate() {
+        return this.lastLoginDate;
+    }
+
+    public void updateLastLoginDate() {
+        this.lastLoginDate = LocalDate.now();
+    }
+
+    public QuestContext getQuestContext() {
+        if (this.questContext == null) {
+            this.questContext = new QuestContext();
+        }
+        return this.questContext;
+    }
+
+    public String getDailyOfferPlant() { return dailyOfferPlant; }
+    public void setDailyOfferPlant(String dailyOfferPlant) { this.dailyOfferPlant = dailyOfferPlant; }
+    
+    public String getDailyOfferDate() { return dailyOfferDate; }
+    public void setDailyOfferDate(String dailyOfferDate) { this.dailyOfferDate = dailyOfferDate; }
+    
+    public boolean isDailyOfferPurchased() { return dailyOfferPurchased; }
+    public void setDailyOfferPurchased(boolean dailyOfferPurchased) { this.dailyOfferPurchased = dailyOfferPurchased; }
+    
+    public void addStoredPlantFood(int amount) { this.storedPlantFood = Math.min(3, storedPlantFood + amount); }
+    public void addPendingGreenhousePots(int amount) { this.pendingGreenhousePots += amount; }
+
+
+    // ==========================================
+    // گترها و سترهای پایه کلاس خودت
+    // ==========================================
+
+    public List<NewsMessage> getNewsList() {
+        return newsList;
+    }
+
+    public void addNews(String content) {
+        newsList.add(new NewsMessage(content));
+    }
+
+    public boolean hasUnreadNews() {
+        for (NewsMessage msg : newsList) {
+            if (!msg.isRead()) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public String getUsername() { return username; }
+    public void setUsername(String username) { this.username = username; }
+
+    public String getPasswordHash() { return passwordHash; }
+    public void setPasswordHash(String passwordHash) { this.passwordHash = passwordHash; }
+
+    public String getNickname() { return nickname; }
+    public void setNickname(String nickname) { this.nickname = nickname; }
+
+    public String getEmail() { return email; }
+    public void setEmail(String email) { this.email = email; }
+
+    public String getGender() { return gender; }
+
+    public int getSecurityQuestionId() { return securityQuestionId; }
+    public void setSecurityQuestionId(int securityQuestionId) { this.securityQuestionId = securityQuestionId; }
+
+    public String getSecurityAnswer() { return securityAnswer; }
+    public void setSecurityAnswer(String securityAnswer) { this.securityAnswer = securityAnswer; }
+
+    public int getCoins() { return coins; }
+    public void setCoins(int coins) { this.coins = coins; }
+    
+    public boolean spendCoins(int amount) {
+        if (coins < amount) return false;
         coins -= amount;
         return true;
     }
 
-    public int getDiamonds() {
-        return diamonds;
-    }
-    public void setDiamonds(int diamonds) {
-        this.diamonds = diamonds;
-    }
-    public void addDiamonds(int amount) {
-        this.diamonds += amount;
-    }
-
+    public int getDiamonds() { return diamonds; }
+    public void setDiamonds(int diamonds) { this.diamonds = diamonds; }
+    
     public boolean spendDiamonds(int amount) {
-        if (diamonds < amount) {
-            return false;
-        }
+        if (diamonds < amount) return false;
         diamonds -= amount;
         return true;
     }
 
-    public int getDifficultyLevel() {
-        return difficultyLevel;
-    }
+    public int getDifficultyLevel() { return difficultyLevel; }
+    public void setDifficultyLevel(int difficultyLevel) { this.difficultyLevel = difficultyLevel; }
 
-    public void setDifficultyLevel(int difficultyLevel) {
-        this.difficultyLevel = difficultyLevel;
-    }
+    public int getGamesPlayed() { return gamesPlayed; }
+    public void incrementGamesPlayed() { gamesPlayed++; }
 
-    public int getGamesPlayed() {
-        return gamesPlayed;
-    }
+    public int getLevelsCompleted() { return levelsCompleted; }
+    public void incrementLevelsCompleted() { levelsCompleted++; }
 
-    public void incrementGamesPlayed() {
-        gamesPlayed++;
-    }
-
-    public int getLevelsCompleted() {
-        return levelsCompleted;
-    }
-
-    public void incrementLevelsCompleted() {
-        levelsCompleted++;
-    }
-
-    public int getMaxMowPoints() {
-        return maxMowPoints;
-    }
-
+    public int getMaxMowPoints() { return maxMowPoints; }
     public void updateMaxMowPoints(int points) {
-        if (points > maxMowPoints) {
-            maxMowPoints = points;
-        }
+        if (points > maxMowPoints) maxMowPoints = points;
     }
 
-    public Set<String> getUnlockedPlants() {
-        return unlockedPlants;
-    }
-
-    public Set<String> getSeenZombies() {
-        return seenZombies;
-    }
+    public Set<String> getUnlockedPlants() { return unlockedPlants; }
+    public Set<String> getSeenZombies() { return seenZombies; }
 
     public Greenhouse getGreenhouse() {
-        if (greenhouse == null) {
-            greenhouse = new Greenhouse();
-        }
+        if (greenhouse == null) greenhouse = new Greenhouse();
         return greenhouse;
     }
 
@@ -223,14 +263,12 @@ public class User implements Serializable {
     }
 
     public Map<String, Boolean> getGreenhouseBoosts() {
-        if (greenhouseBoosts == null) {
-            greenhouseBoosts = new HashMap<>();
-        }
+        if (greenhouseBoosts == null) greenhouseBoosts = new HashMap<>();
         return greenhouseBoosts;
     }
 
     // ==========================================
-    // متدهای مدیریت ارتقاء گیاهان (Seed Packets و Level)
+    // متدهای مدیریت ارتقاء و لیدربورد (کدهای خودت)
     // ==========================================
 
     public int getPlantLevel(String plantName) {
@@ -252,82 +290,34 @@ public class User implements Serializable {
         int currentPackets = getSeedPackets(plantName);
 
         if (this.coins >= costInCoins && currentPackets >= requiredPackets) {
-            this.coins -= costInCoins; // کسر سکه‌ها
-            this.seedPackets.put(plantName, currentPackets - requiredPackets); // کسر بذرها
-
+            this.coins -= costInCoins;
+            this.seedPackets.put(plantName, currentPackets - requiredPackets);
             int newLevel = getPlantLevel(plantName) + 1;
-            this.plantLevels.put(plantName, newLevel); // ثبت لول جدید
+            this.plantLevels.put(plantName, newLevel);
             return true;
-        }
-        return false; // سکه یا بذر کافی نیست
-    }
-    public void addNews(String content) {
-        newsList.add(new NewsMessage(content));
-    }
-
-    public boolean hasUnreadNews() {
-        for (NewsMessage msg : newsList) {
-            if (!msg.isRead()) {
-                return true;
-            }
         }
         return false;
     }
 
-    public int getLastCompletedChapter() {
-        return lastCompletedChapter;
-    }
+    public int getLastCompletedChapter() { return lastCompletedChapter; }
+    public void setLastCompletedChapter(int lastCompletedChapter) { this.lastCompletedChapter = lastCompletedChapter; }
 
-    public void setLastCompletedChapter(int lastCompletedChapter) {
-        this.lastCompletedChapter = lastCompletedChapter;
-    }
+    public int getLastCompletedLevel() { return lastCompletedLevel; }
+    public void setLastCompletedLevel(int lastCompletedLevel) { this.lastCompletedLevel = lastCompletedLevel; }
 
-    public int getLastCompletedLevel() {
-        return lastCompletedLevel;
-    }
+    public int getMiniGamesCompleted() { return miniGamesCompleted; }
+    public void setMiniGamesCompleted(int miniGamesCompleted) { this.miniGamesCompleted = miniGamesCompleted; }
 
-    public void setLastCompletedLevel(int lastCompletedLevel) {
-        this.lastCompletedLevel = lastCompletedLevel;
-    }
+    public int getDailyQuestsCompleted() { return dailyQuestsCompleted; }
+    public void setDailyQuestsCompleted(int dailyQuestsCompleted) { this.dailyQuestsCompleted = dailyQuestsCompleted; }
 
-    // === گتر و سترهای مینی‌گیم ===
-    public int getMiniGamesCompleted() {
-        return miniGamesCompleted;
-    }
+    public int getNonDailyQuestsCompleted() { return nonDailyQuestsCompleted; }
+    public void setNonDailyQuestsCompleted(int nonDailyQuestsCompleted) { this.nonDailyQuestsCompleted = nonDailyQuestsCompleted; }
 
-    public void setMiniGamesCompleted(int miniGamesCompleted) {
-        this.miniGamesCompleted = miniGamesCompleted;
-    }
-
-    // === گتر و سترهای کوئست روزانه ===
-    public int getDailyQuestsCompleted() {
-        return dailyQuestsCompleted;
-    }
-
-    public void setDailyQuestsCompleted(int dailyQuestsCompleted) {
-        this.dailyQuestsCompleted = dailyQuestsCompleted;
-    }
-
-    // === گتر و سترهای کوئست غیرروزانه ===
-    public int getNonDailyQuestsCompleted() {
-        return nonDailyQuestsCompleted;
-    }
-
-    public void setNonDailyQuestsCompleted(int nonDailyQuestsCompleted) {
-        this.nonDailyQuestsCompleted = nonDailyQuestsCompleted;
-    }
-
-    // === گتر و ستر بالاترین امتیاز ===
-    public int getHighScore() {
-        return highScore;
-    }
-
+    public int getHighScore() { return highScore; }
     public void setHighScore(int highScore) {
-        // امتیاز فقط در صورتی آپدیت می‌شود که رکورد قبلی شکسته شده باشد
         if (highScore > this.highScore) {
             this.highScore = highScore;
         }
     }
-
-
 }
