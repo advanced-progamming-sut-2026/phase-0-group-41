@@ -140,6 +140,22 @@ public class GameSession {
         for (Zombie z : deadZombies) {
             aliveZombies.remove(z);
             System.out.println("Zombie of type " + z.getTypeName() + " is dead at (" + (int) z.getXPosition() + ", " + z.getRow() + ")");
+            if (user.getQuestManager() != null) {
+                // ۱. ثبت کیل عادی برای کوئست‌ها
+                user.getQuestManager().recordZombieKill(user.getQuestContext());
+            }
+
+            // ۲. محاسبه زمان زنده بودن زامبی بر حسب میلی‌ثانیه
+            int ticksLived = (int)this.tickCount - z.getSpawnTick();
+            double timeLivedMs = ticksLived * 1000.0; // فرض: هر تیک ۱۰۰۰ میلی‌ثانیه است
+
+            // ۳. ساخت رویداد کشته شدن سریع و ارسال به سشن
+            // حتما کلاس MeowPoint ایمپورت شده باشد
+            model.quest.MeowPoint.GameEvent fastKillEvent = new model.quest.MeowPoint.GameEvent(
+                    model.quest.MeowPoint.EventType.ZOMBIE_KILLED_FAST,
+                    1,
+                    timeLivedMs
+            );
             dropRandomReward();
         }
 

@@ -75,17 +75,11 @@ public class UserManager {
             System.err.println("خطا در بازیابی اطلاعات کاربران: " + e.getMessage());
         }
     }
-<<<<<<< HEAD
     public void updateUsernameKey(String oldUsername, String newUsername) {
         if (usersByUsername.containsKey(oldUsername)) {
             User user = usersByUsername.remove(oldUsername); // حذف کاربر با کلید قدیمی
             usersByUsername.put(newUsername, user);          // اضافه کردن همان کاربر با کلید جدید
             save();                                          // ذخیره تغییرات در فایل
         }
-=======
-    
-    public java.util.List<User> getAllUsers() {
-        return new java.util.ArrayList<>(usersByUsername.values());
->>>>>>> bed8d6d32fa8ac6bd51d2689d92f93fa7b575bc0
     }
 }

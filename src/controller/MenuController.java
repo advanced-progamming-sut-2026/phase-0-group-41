@@ -23,6 +23,8 @@ public class MenuController {
     private final SettingsView settingsView;
     private final NewsView newsView;
     private final ProfileView profileView;
+    private final ShopView shopView;
+    private final QuestView questView;
 
     // === کلاس‌های مربوط به کالکشن ===
     private final CollectionController collectionController;
@@ -45,6 +47,8 @@ public class MenuController {
 
         // مقداردهی کالکشن
         this.collectionController = new CollectionController(userManager);
+        this.shopView = new ShopView(new ShopController(userManager), consoleView);
+        this.questView = new QuestView(new QuestController(userManager), consoleView);
 
         // مقداردهی کلاس‌های قدیمی (کامنت شدند تا ارور برطرف شود)
         // this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
@@ -89,6 +93,10 @@ public class MenuController {
                 return newsView.checkCommand(loggedInUser, t, cmd);
             case PROFILE:
                 return profileView.checkCommand(loggedInUser, t, cmd);
+            case SHOP:
+                return shopView.checkCommand(loggedInUser, cmd);
+            case TRAVEL_LOG:
+                return questView.checkCommand(loggedInUser, cmd);
             case COLLECTION:
                 return collectionController.handle(loggedInUser, t, cmd);
             case GREENHOUSE:
@@ -126,7 +134,7 @@ public class MenuController {
                 // کلمه NETWORK از اینجا حذف شد و GREENHOUSE اضافه شد
                 if (target == MenuType.GAME || target == MenuType.SETTINGS ||
                         target == MenuType.NEWS || target == MenuType.PROFILE ||
-                        target == MenuType.GREENHOUSE) {
+                        target == MenuType.GREENHOUSE || target == MenuType.SHOP || target == MenuType.TRAVEL_LOG) {
                     canEnter = true;
                 }
                 break;

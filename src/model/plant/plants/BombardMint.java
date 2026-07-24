@@ -45,6 +45,9 @@ public class BombardMint extends Plant implements IExplosive {
         this.level = newLevel;
         if (level >= 3) this.currentCooldown -= 5;
     }
+
     @Override
-    public int getCooldownTicks() { return currentCooldown; }
+    public int getCooldownTicks() {
+        return currentCooldown;
+    }
 }

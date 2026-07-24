@@ -29,6 +29,17 @@ public class LoginController {
             // e.g., userManager.setStayLoggedIn(user);
         }
 
+        // ==================================================
+        // --- اضافه شده برای سیستم کوئست و پاداش روزانه ---
+        // ==================================================
+        java.time.LocalDate today = java.time.LocalDate.now();
+        if (user.getLastLoginDate() == null || !user.getLastLoginDate().equals(today)) {
+            user.getQuestManager().resetDailyQuests();
+        }
+        user.updateLastLoginDate(); // آپدیت تاریخ آخرین ورود به امروز
+        userManager.save(); // ذخیره تغییرات تاریخ و ریست کوئست‌ها در فایل
+        // ==================================================
+
         return "SUCCESS";
     }
 
@@ -77,7 +88,7 @@ public class LoginController {
         }
 
         // ==========================================
-        // استفاده از متد changePassword که هم‌تیمی‌ات نوشته
+        // استفاده از متد changePassword   
         // ==========================================
         userManager.changePassword(pendingForgetPasswordUser, newPassword);
 

@@ -69,8 +69,17 @@ public class AppController {
         User user = menuController.getLoggedInUser();
         if (user != null) {
             user.incrementGamesPlayed();
-            if (activeSession != null && activeSession.isWon()) {
+            if (activeSession != null) {
+                if(activeSession.isWon()) {
                 user.incrementLevelsCompleted();
+                user.getQuestContext().setStagesCompleted(user.getLevelsCompleted());
+                }
+
+                model.quest.MeowPoint calculator = new model.quest.MeowPoint();
+                int totalMowPoints = calculator.calculateMyuPoints(activeSession.getMeowEvents());
+                view.printMessage("امتیاز MeowPoints شما در این مرحله: " + totalMowPoints);
+
+                user.updateMaxMowPoints(totalMowPoints);
             }
             userManager.save();
         }
