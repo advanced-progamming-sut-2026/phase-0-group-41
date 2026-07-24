@@ -11,7 +11,7 @@ public class DodoRiderZombie extends Zombie {
 
     public DodoRiderZombie() {
         // نام، جان (۳۵۰)، سرعت (۰.۰۲)، هزینه موج (۱۷۵)، قدرت ضربه (۱۰)، فصل غار یخی
-        super("dodorider", 350, 0.02, 175, 10, Season.ICE_CAVES);
+        super("dodorider", 350, 0.02, 175, 10);
     }
 
     // === طبق داکیومنت: این زامبی در برابر تیرهای یخی و سرما مصون است ===

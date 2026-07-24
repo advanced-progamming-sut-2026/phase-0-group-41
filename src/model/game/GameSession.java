@@ -41,6 +41,11 @@ public class GameSession {
     private List<model.scoreGame.MeowPoint.GameEvent> meowEvents = new ArrayList<>();
     private boolean plantLostInCurrentWave = false; // برای رویداد WAVE_CLEARED_NO_DAMAGE
 
+    public GameSession(User user, int totalWaves) {
+        // پاس دادن کار به سازنده‌ی اصلی با فصل دیفالت
+        this(user, totalWaves, Season.NORMAL); 
+    }
+    
     public GameSession(User user, int totalWaves, Season season) {
         this.user = user;
         this.waveManager = new WaveManager(totalWaves, 50);

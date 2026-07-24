@@ -5,6 +5,7 @@ import model.user.User;
 import model.user.UserManager;
 import util.CommandLine;
 import view.ConsoleView;
+import java.util.Scanner;
 
 public class AppController {
 
@@ -16,6 +17,28 @@ public class AppController {
     private GameSession activeSession;
     private boolean inGame = false;
 
+    public void run() {
+        Scanner scanner = new Scanner(System.in);
+        
+        // حلقه بی‌نهایت برای خواندن دستورات کاربر از کنسول
+        while (scanner.hasNextLine()) {
+            String rawLine = scanner.nextLine().trim();
+            
+            // اگه کاربر فقط اینتر زد (خط خالی)، نادیده بگیر و برو خط بعدی
+            if (rawLine.isEmpty()) {
+                continue;
+            }
+
+            // ساخت شیء CommandLine از رشته‌ی ورودی
+            CommandLine cmd = new CommandLine(rawLine);
+            
+            // ارسال دستور به بخش پردازش (متدی که خودت از قبل نوشتی)
+            dispatch(rawLine, cmd);
+        }
+        
+        scanner.close();
+    }
+    
     public void exitApp() {
         userManager.save();
     }

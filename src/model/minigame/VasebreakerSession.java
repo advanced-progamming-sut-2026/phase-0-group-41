@@ -138,7 +138,8 @@ public class VasebreakerSession extends MiniGameSession {
     }
 
     private void spawnZombie(String type, int row, int col) {
-        Zombie z = ZombieFactory.create(type);
+        int dl = getUser().getDifficultyLevel();
+        Zombie z = ZombieFactory.create(type, dl);
         z.spawn(row, col);
         getAliveZombies().add(z);
     }

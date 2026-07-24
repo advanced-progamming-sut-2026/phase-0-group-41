@@ -44,7 +44,8 @@ public class GargantuarZombie extends Zombie {
     private void checkAndThrowImp(GameSession session) {
         if (!impThrown && getHealth() <= initialHealth / 2) {
             impThrown = true;
-            Zombie imp = ZombieFactory.create("imp");
+            int dl = session.getUser().getDifficultyLevel();
+            Zombie imp = ZombieFactory.create("imp", dl);
 
             // پرتاب به ستون سوم (ایندکس ۲) در همان سطر
             imp.spawn(getRow(), 2.0);

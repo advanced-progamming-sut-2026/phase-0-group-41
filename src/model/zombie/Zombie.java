@@ -24,6 +24,10 @@ public abstract class Zombie {
     // === متغیرهای اضافه شده برای مکانیزم "غذای گیاه" ===
     private boolean carriesPlantFood = false;
 
+    public int getMaxHealth() {
+        return maxHealth;
+    }
+
     public void setSpawnTick(int tick) {
         this.spawnTick = tick;
     }

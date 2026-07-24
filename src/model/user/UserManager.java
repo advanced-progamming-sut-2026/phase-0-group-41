@@ -5,6 +5,8 @@ import util.HashUtil;
 import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  این کلاس وظیفه مدیریت کاربران، احراز هویت (لاگین/ثبت‌نام) و ذخیره اطلاعات را بر عهده دارد تا با بسته شدن برنامه، اطلاعات بازیکنان پاک نشود
@@ -19,6 +21,10 @@ public class UserManager {
         load();
     }
 
+    public List<User> getAllUsers() {
+        return new ArrayList<>(usersByUsername.values());
+    }
+    
     public boolean usernameExists(String username) {
         return usersByUsername.containsKey(username);
         //containsKey: این متدِ مپ، بررسی می‌کند که آیا نام کاربری ورودی، قبلاً به عنوان کلید در هش‌مپ ثبت شده است یا خیر. خروجی آن یک مقدار منطقی (true یا false) است.

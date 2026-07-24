@@ -59,7 +59,8 @@ public class IZombieSession extends MiniGameSession {
         }
 
         try {
-            Zombie zombie = ZombieFactory.create(type);
+            int dl = getUser().getDifficultyLevel();
+            Zombie zombie = ZombieFactory.create(type, dl);
             if (getSunManager().spendSun(zombie.getWaveCost())) {
                 zombie.spawn(row, col);
                 getAliveZombies().add(zombie);

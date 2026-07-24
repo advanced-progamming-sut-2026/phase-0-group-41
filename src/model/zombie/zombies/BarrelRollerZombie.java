@@ -75,8 +75,9 @@ public class BarrelRollerZombie extends Zombie {
 
     // متد ساخت ایمپ‌ها
     private void spawnImps(GameSession session) {
-        Zombie imp1 = ZombieFactory.create("imp");
-        Zombie imp2 = ZombieFactory.create("imp");
+        int dl = session.getUser().getDifficultyLevel();
+        Zombie imp1 = ZombieFactory.create("imp", dl);
+        Zombie imp2 = ZombieFactory.create("imp", dl);
 
         // ایمپ‌ها رو یکم جلوتر و یکم عقب‌تر از خود زامبی دبه‌ای میندازیم
         imp1.spawn(getRow(), getXPosition() - 0.2);

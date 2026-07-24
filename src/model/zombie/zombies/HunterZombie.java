@@ -14,7 +14,7 @@ public class HunterZombie extends Zombie {
 
     public HunterZombie() {
         // نام، جان (۳۵۰)، سرعت، هزینه موج (۲۵۰)، دمیج (۱۰)، فصل غار یخی
-        super("hunter", 350, 0.01, 250, 10, Season.ICE_CAVES);
+        super("hunter", 350, 0.01, 250, 10);
     }
 
     // === مصونیت در برابر سرما (طبق قوانین غارهای یخی) ===
