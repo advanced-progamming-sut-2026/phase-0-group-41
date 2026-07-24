@@ -88,7 +88,8 @@ public class CollectionController {
             return true;
         }
         try {
-            Zombie zombie = ZombieFactory.create(zombieName);
+            // ساخت زامبی با سختی ۳ (حالت پایه و نرمال) برای نمایش در کالکشن
+            Zombie zombie = ZombieFactory.create(zombieName, 3);
             view.printZombieDetails(zombie);
         } catch (IllegalArgumentException e) {
             view.printError("این زامبی در بازی وجود ندارد.");

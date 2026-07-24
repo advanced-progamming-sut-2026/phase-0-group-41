@@ -5,7 +5,6 @@ import model.game.GameSession;
 public abstract class Zombie {
 
     private final String typeName;
-    private final int maxHealth;
     private int waveCost;
     private double baseSpeed; // خانه بر ثانیه
     private int damagePerTick;
@@ -79,9 +78,7 @@ public abstract class Zombie {
         this.maxHealth = health;
     }
 
-    public int getMaxHealth() {
-        return this.maxHealth;
-    }
+
 
     // <--- این متد حتماً باید اضافه شود تا CollectionView ارور ندهد
     public int getMaxHealth() {
