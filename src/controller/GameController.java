@@ -145,7 +145,7 @@ public class GameController {
 
                 // قرار دادن زامبی در مختصات درخواستی (loc[1] سطر و loc[0] ستون است)
                 z.spawn(loc[1], loc[0]);
-                z.setSpawnTick((int) session.getCurrentTick());
+                z.setSpawnTick((int) session.getTickCount());
                 session.getAliveZombies().add(z);
 
 

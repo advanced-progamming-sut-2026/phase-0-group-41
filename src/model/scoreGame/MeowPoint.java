@@ -1,4 +1,4 @@
-package model.quest;
+package model.scoreGame;
 
 import java.util.*;
 

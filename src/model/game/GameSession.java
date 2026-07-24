@@ -38,12 +38,27 @@ public class GameSession {
     private double waveHealthAtStart = 0;
     private double waveHealthRemaining = 0;
 
+    private List<model.scoreGame.MeowPoint.GameEvent> meowEvents = new ArrayList<>();
+    private boolean plantLostInCurrentWave = false; // برای رویداد WAVE_CLEARED_NO_DAMAGE
+
     public GameSession(User user, int totalWaves, Season season) {
         this.user = user;
         this.waveManager = new WaveManager(totalWaves, 50);
         int userDifficulty = user.getDifficultyLevel();
         this.sunManager = new SunManager(userDifficulty);
         this.currentSeason = season; // === بخش فصلی: مقداردهی فصل ===
+    }
+
+    public long getTickCount() {
+        return tickCount;
+    }
+
+    public void addMeowEvent(model.scoreGame.MeowPoint.GameEvent event) {
+        this.meowEvents.add(event);
+    }
+
+    public List<model.scoreGame.MeowPoint.GameEvent> getMeowEvents() {
+        return meowEvents;
     }
 
     public Board getBoard() {
@@ -151,11 +166,12 @@ public class GameSession {
 
             // ۳. ساخت رویداد کشته شدن سریع و ارسال به سشن
             // حتما کلاس MeowPoint ایمپورت شده باشد
-            model.quest.MeowPoint.GameEvent fastKillEvent = new model.quest.MeowPoint.GameEvent(
-                    model.quest.MeowPoint.EventType.ZOMBIE_KILLED_FAST,
+            model.scoreGame.MeowPoint.GameEvent fastKillEvent = new model.scoreGame.MeowPoint.GameEvent(
+                    model.scoreGame.MeowPoint.EventType.ZOMBIE_KILLED_FAST,
                     1,
                     timeLivedMs
             );
+            this.addMeowEvent(fastKillEvent);
             dropRandomReward();
         }
 
@@ -261,6 +277,7 @@ public class GameSession {
 
             z.spawn(lane, spawnCol);
             aliveZombies.add(z);
+            z.setSpawnTick((int) this.tickCount);
             totalHealth += z.getHealth();
             System.out.println("Zombie " + z.getTypeName() + " spawned at wave " + waveManager.getCurrentWave()
                     + " in lane " + lane + " which costed " + z.getWaveCost() + ".");

@@ -75,7 +75,7 @@ public class AppController {
                 user.getQuestContext().setStagesCompleted(user.getLevelsCompleted());
                 }
 
-                model.quest.MeowPoint calculator = new model.quest.MeowPoint();
+                model.scoreGame.MeowPoint calculator = new model.scoreGame.MeowPoint();
                 int totalMowPoints = calculator.calculateMyuPoints(activeSession.getMeowEvents());
                 view.printMessage("امتیاز MeowPoints شما در این مرحله: " + totalMowPoints);
 
