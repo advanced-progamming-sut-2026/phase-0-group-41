@@ -17,7 +17,13 @@ public class LilyPad extends Plant {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (isFeedActive()) {
             System.out.println("Plant Food: ایجاد چند کپی از خود روی خانه‌های خالی آب!");

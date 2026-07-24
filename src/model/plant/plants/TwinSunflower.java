@@ -24,11 +24,15 @@ public class TwinSunflower extends Plant implements ISunProducer {
 
     @Override
     public void onTick(GameSession session) {
-        // === تأثیر زامبی‌ها ===
-        // اگر گربه شده، اختاپوس رویش است یا یخ زده، کاملاً متوقف می‌شود
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) {
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
             return;
         }
+        if (isTransformedToCat() || isOctopused()) {
+            return;
+        }
+        // =======================
 
         // اگر از قبل خورشید داده و هنوز جمع نکردیم، منتظر می‌ماند
         if (sunReady) return;

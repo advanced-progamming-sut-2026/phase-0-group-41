@@ -20,7 +20,13 @@ public class PhatBeet extends Plant implements IMeleeAttacker {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (isFeedActive()) {
             System.out.println("Plant Food: ضربه صوتی بسیار قدرتمند به تمام زامبی‌های اطراف!");

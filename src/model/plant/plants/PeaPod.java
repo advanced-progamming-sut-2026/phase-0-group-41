@@ -29,7 +29,13 @@ public class PeaPod extends Plant implements IShooter {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (isFeedActive()) {
             shootGiantPeas(session);

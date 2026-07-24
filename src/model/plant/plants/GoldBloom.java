@@ -24,8 +24,13 @@ public class GoldBloom extends Plant implements ISunProducer {
 
     @Override
     public void onTick(GameSession session) {
-        // اگر توسط زامبی‌ها بلاک شده باشد کاری نمی‌کند
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         // فقط یک بار خورشید را تولید می‌کند و بعد منتظر جمع‌آوری می‌ماند
         if (!hasProduced) {

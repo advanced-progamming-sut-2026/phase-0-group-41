@@ -21,8 +21,14 @@ public class PrimalPotatoMine extends Plant {
 
     @Override
     public void onTick(GameSession session) {
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
         // حتی اگر مین زیر زمین باشد، جادوگر می‌تواند آن را گربه کند!
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (isFeedActive()) {
             System.out.println("Plant Food: مسلح شدن آنی و پرتاب ۲ مین به نقاط تصادفی دیگر!");

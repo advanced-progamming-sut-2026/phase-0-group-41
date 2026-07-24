@@ -27,7 +27,15 @@ public class SeaShroom extends Plant implements IShooter {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // ==================================================
+        // === تغییر جدید: هماهنگی با سیستم یخ‌زدگی جدید ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session); // بررسی می‌کند که آیا آتش نزدیکش هست تا یخش آب شود
+            return; // چون یخ زده است، از اینجا خارج می‌شود و کارهای پایین را انجام نمی‌دهد
+        }
+
+        if (isTransformedToCat() || isOctopused()) return;
+        // ==================================================
 
         // سیستم پیری: قارچ بعد از مدتی از بین می‌رود
         ageTicks++;

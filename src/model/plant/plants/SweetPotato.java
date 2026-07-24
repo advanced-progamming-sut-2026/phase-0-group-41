@@ -16,7 +16,13 @@ public class SweetPotato extends Plant {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         // عمل جذب کردن در خود GameSession مدیریت می‌شود (زامبی‌ها مسیرشان را به سمت این گیاه کج می‌کنند)
 

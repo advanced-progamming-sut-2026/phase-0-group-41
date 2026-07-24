@@ -19,7 +19,13 @@ public class IcebergLettuce extends Plant implements IExplosive {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (isFeedActive()) {
             System.out.println("Plant Food: یخ زدن تمامی زامبی‌های موجود در تصویر! (مدت: " + (freezeTimeTicks/10) + " ثانیه)");

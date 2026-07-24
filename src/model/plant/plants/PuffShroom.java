@@ -22,7 +22,13 @@ public class PuffShroom extends Plant implements IShooter {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         ageTicks++;
         if (ageTicks >= lifespanTicks) {
@@ -59,6 +65,7 @@ public class PuffShroom extends Plant implements IShooter {
         if (level >= 3) this.damage += 10;
         if (level >= 4) this.rangeBonus += 1; // Range +1 Tile
     }
+
     @Override
     public int getCooldownTicks() { return currentCooldown; }
 }

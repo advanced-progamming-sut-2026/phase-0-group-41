@@ -2,6 +2,7 @@ package model.zombie.zombies;
 
 import model.game.Board;
 import model.game.GameSession;
+import model.game.Season;
 import model.game.Tile;
 import model.plant.Plant;
 import model.zombie.Zombie;
@@ -9,8 +10,19 @@ import model.zombie.Zombie;
 public class DodoRiderZombie extends Zombie {
 
     public DodoRiderZombie() {
-        // نام، جان (۳۵۰)، سرعت (۰.۰۲)، هزینه موج (۱۷۵)، قدرت ضربه (۱۰)
-        super("dodorider", 350, 0.02, 175, 10);
+        // نام، جان (۳۵۰)، سرعت (۰.۰۲)، هزینه موج (۱۷۵)، قدرت ضربه (۱۰)، فصل غار یخی
+        super("dodorider", 350, 0.02, 175, 10, Season.ICE_CAVES);
+    }
+
+    // === طبق داکیومنت: این زامبی در برابر تیرهای یخی و سرما مصون است ===
+    @Override
+    public void applyChilled(int seconds) {
+        // کاملاً خالی می‌ماند تا یخ نزند
+    }
+
+    @Override
+    public void applyFrozen(int seconds) {
+        // کاملاً خالی می‌ماند تا منجمد نشود
     }
 
     @Override
@@ -38,17 +50,17 @@ public class DodoRiderZombie extends Zombie {
         String plantName = target.getName().toLowerCase();
 
         // لیستی از گیاهانی که دودو می‌تواند از روی آن‌ها پرواز کند (طبق داک)
-        // شامل: موانع با جان زیاد (wallnut)، مین‌ها (potatomine)، منحرف‌کننده‌ها (garlic)
-        boolean canFlyOver = plantName.equals("wallnut") ||
+        boolean isJumpablePlant = plantName.equals("wallnut") ||
                 plantName.equals("potatomine") ||
                 plantName.equals("garlic");
 
-        if (canFlyOver) {
-            // پرواز می‌کنه: توقف نمی‌کنه، دمیج نمی‌زنه و فقط از موقعیتش کم می‌شه تا رد بشه
+        // اگر گیاه قابل پریدن بود و البته بلند هم نبود (مثل گردوی بلند نبود)، پرواز می‌کند
+        if (isJumpablePlant && !target.isTall()) {
             setEating(false);
+            // پرواز می‌کنه: توقف نمی‌کنه، دمیج نمی‌زنه و فقط از موقعیتش کم می‌شه تا رد بشه
             setXPosition(getXPosition() - getSpeed());
         } else {
-            // اگر Tall-nut یا هر گیاه عادیِ دیگه‌ای (مثل نخودافکن) باشه:
+            // اگر Tall-nut باشه (چون isTall آن true است) یا هر گیاه عادیِ دیگه‌ای باشه:
             // توقف می‌کنه و گاز می‌گیره
             setEating(true);
             target.takeDamage(getDamagePerTick());

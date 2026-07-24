@@ -19,6 +19,8 @@ import java.util.Random;
  * با «advance time» به جلو برده می‌شود.
  */
 public class GameSession {
+    private final Season currentSeason; // === بخش فصلی: نگهداری فصل فعلی ===
+    private int waterStartColumn = 9;   // === بخش فصلی: برای ساحل موج بزرگ ===
 
     private final User user;
     private final Board board = new Board();
@@ -36,12 +38,12 @@ public class GameSession {
     private double waveHealthAtStart = 0;
     private double waveHealthRemaining = 0;
 
-    public GameSession(User user, int totalWaves) {
+    public GameSession(User user, int totalWaves, Season season) {
         this.user = user;
         this.waveManager = new WaveManager(totalWaves, 50);
-        // <--- تغییر دوم: مقداردهی خورشیدها بر اساس سختی در اینجا انجام می‌شود --->
         int userDifficulty = user.getDifficultyLevel();
         this.sunManager = new SunManager(userDifficulty);
+        this.currentSeason = season; // === بخش فصلی: مقداردهی فصل ===
     }
 
     public Board getBoard() {
@@ -141,12 +143,15 @@ public class GameSession {
             dropRandomReward();
         }
 
-        // سقوط خورشید
-        FallingSun newSun = sunManager.tick(board);
-        if (newSun != null) {
-            fallingSuns.add(newSun);
-            System.out.println("New " + newSun.getKind() + " sun is dropping at position (" + newSun.getCol() + ", " + newSun.getRow() + ")");
+        // === بخش فصلی: سقوط خورشید (فقط در صورتی که عصر تاریکی نباشد) ===
+        if (currentSeason != Season.DARK_AGES) {
+            FallingSun newSun = sunManager.tick(board);
+            if (newSun != null) {
+                fallingSuns.add(newSun);
+                System.out.println("New " + newSun.getKind() + " sun is dropping at position (" + newSun.getCol() + ", " + newSun.getRow() + ")");
+            }
         }
+
         for (FallingSun fs : fallingSuns) {
             boolean wasLanded = fs.isLanded();
             fs.tick();
@@ -195,17 +200,50 @@ public class GameSession {
 
     private void spawnNextWave() {
         double cost = waveManager.startNextWaveAndGetCost();
+
+        // === بخش فصلی: اتفاقاتی که در ابتدای هر موج می‌افتد ===
+        if (currentSeason == Season.BIG_WAVE_BEACH) {
+            // آب تصادفی جلو یا عقب می‌رود (مثلاً ستون ۵ تا ۹)
+            waterStartColumn = 5 + random.nextInt(5);
+            applyTideLevel();
+            System.out.println("Tide level changed! Water starts at column " + waterStartColumn);
+        }
+        else if (currentSeason == Season.FROSTBITE_CAVES) {
+            // باد یخی به صورت تصادفی می‌وزد
+            if (random.nextBoolean()) {
+                applyIceWind();
+                System.out.println("Ice wind is blowing!");
+            }
+        }
+        else if (currentSeason == Season.DARK_AGES) {
+            // در عصر تاریکی ممکنه اول هر موج قبر جدید ظاهر بشه
+            spawnRandomGraves(2);
+        }
+        // ==========================================================
+
         if (waveManager.isFinalWave()) {
             System.out.println("The final wave has come.");
         } else {
             System.out.println("Wave " + waveManager.getCurrentWave() + " started.");
         }
+
         double remainingCost = cost;
         double totalHealth = 0;
+
+        // === بخش فصلی: بررسی گردباد برای موج آخر مصر باستان ===
+        boolean isTornadoWave = (currentSeason == Season.ANCIENT_EGYPT && waveManager.isFinalWave());
+
         while (remainingCost > 0) {
             Zombie z = ZombieFactory.randomBasicZombie(user.getDifficultyLevel());
             int lane = random.nextInt(Board.ROWS);
-            z.spawn(lane, Board.COLS - 1);
+
+            int spawnCol = Board.COLS - 1;
+            // اگر گردباد فعال باشد، زامبی ۱ تا ۴ ستون جلوتر می‌آید
+            if (isTornadoWave) {
+                spawnCol -= (1 + random.nextInt(4));
+            }
+
+            z.spawn(lane, spawnCol);
             aliveZombies.add(z);
             totalHealth += z.getHealth();
             System.out.println("Zombie " + z.getTypeName() + " spawned at wave " + waveManager.getCurrentWave()
@@ -257,6 +295,60 @@ public class GameSession {
                 won = false;
                 return;
             }
+        }
+    }
+
+    // =========================================================================
+    // === بخش فصلی: متدهای کمکی برای اعمال ویژگی‌های فصل‌ها (در انتهای کلاس) ===
+    // =========================================================================
+
+    private void applyTideLevel() {
+        for (int r = 0; r < Board.ROWS; r++) {
+            for (int c = 0; c < Board.COLS; c++) {
+                Tile tile = board.getTile(r, c);
+                boolean isWater = (c >= waterStartColumn);
+
+                // توجه: متد setWater را باید در کلاس Tile بسازید
+                // tile.setWater(isWater);
+
+                Plant p = tile.getPlant();
+                // فرض بر این است که متد hasTag و تگ AQUATIC در کلاس Plant شما پیاده‌سازی شده باشد
+                // اگر نشده است، می‌توانید فعلاً فقط از بررسی نام lilypad استفاده کنید
+                if (isWater && p != null && !p.getName().toLowerCase().equals("lilypad")) {
+                    p.takeDamage(9999);
+                    System.out.println(p.getName() + " drowned!");
+                }
+            }
+        }
+    }
+
+    private void applyIceWind() {
+        int row1 = random.nextInt(Board.ROWS);
+        int row2 = random.nextInt(Board.ROWS);
+
+        for (int c = 0; c < Board.COLS; c++) {
+            Plant p1 = board.getTile(row1, c).getPlant();
+            // توجه: متد applyFreezeWind را باید در کلاس Plant بسازید
+            // if (p1 != null) p1.applyFreezeWind();
+
+            Plant p2 = board.getTile(row2, c).getPlant();
+            // if (p2 != null) p2.applyFreezeWind();
+        }
+    }
+
+    private void spawnRandomGraves(int count) {
+        for (int i = 0; i < count; i++) {
+            int r = random.nextInt(Board.ROWS);
+            int c = random.nextInt(Board.COLS);
+            Tile t = board.getTile(r, c);
+
+            // توجه: باید کلاس Grave را بسازید و متدهای hasGrave و setGrave را به Tile اضافه کنید
+            /*
+            if (t.isEmpty() && !t.hasGrave()) {
+                t.setGrave(new Grave(random.nextBoolean(), false));
+                System.out.println("A new grave spawned at (" + c + ", " + r + ")");
+            }
+            */
         }
     }
 }

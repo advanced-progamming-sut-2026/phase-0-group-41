@@ -20,7 +20,13 @@ public class ExplodeONut extends Plant implements IExplosive {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (isFeedActive()) {
             System.out.println("Plant Food: دریافت زره فلزی! (هنگام نابودی زره نیز انفجار رخ می‌دهد)");

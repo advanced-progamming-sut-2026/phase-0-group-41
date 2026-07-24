@@ -23,6 +23,15 @@ public class PotatoMine extends Plant {
         if (exploded) {
             return;
         }
+
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
+
         ticksAlive++;
         if (!armed && ticksAlive >= ARM_TICKS) {
             armed = true;

@@ -21,7 +21,14 @@ public class MelonPult extends Plant implements IShooter {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
+
         if (isFeedActive()) {
             System.out.println("Plant Food: پرتاب هندوانه غول‌پیکر به زامبی‌های تصادفی!");
             decayFeedEffect();

@@ -18,7 +18,14 @@ public class CabbagePult extends Plant implements IShooter {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
+
         if (isFeedActive()) {
             System.out.println("Plant Food: پرتاب کلم به چند زامبی تصادفی!");
             decayFeedEffect();

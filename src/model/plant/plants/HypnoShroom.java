@@ -19,7 +19,13 @@ public class HypnoShroom extends Plant {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         // قارچ هیپنوتیزم در محیط تغییری ایجاد نمی‌کند، بلکه منتظر می‌ماند تا خورده شود.
         // وقتی بازیکن به آن فود می‌دهد، isFeedActive برابر true می‌شود اما درجا از بین نمی‌رود،

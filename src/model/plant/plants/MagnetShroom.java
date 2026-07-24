@@ -19,7 +19,13 @@ public class MagnetShroom extends Plant {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (isFeedActive()) {
             System.out.println("Plant Food: جذب همزمان چندین فلز از سر زامبی‌ها در نقشه و هضم فوری آن‌ها!");

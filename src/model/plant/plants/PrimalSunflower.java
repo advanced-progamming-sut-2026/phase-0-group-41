@@ -24,10 +24,13 @@ public class PrimalSunflower extends Plant implements ISunProducer {
 
     @Override
     public void onTick(GameSession session) {
-        // === تأثیر زامبی‌ها ===
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) {
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
             return;
         }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
 
         if (sunReady) return;
 

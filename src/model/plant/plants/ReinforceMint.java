@@ -16,7 +16,14 @@ public class ReinforceMint extends Plant implements IExplosive {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) return;
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
+            return;
+        }
+        if (isTransformedToCat() || isOctopused()) return;
+        // =======================
+
         if (!hasTriggered) {
             explode(session);
             hasTriggered = true;
@@ -38,6 +45,7 @@ public class ReinforceMint extends Plant implements IExplosive {
         this.level = newLevel;
         if (level >= 3) this.currentCooldown -= 5;
     }
+
     @Override
     public int getCooldownTicks() { return currentCooldown; }
 }

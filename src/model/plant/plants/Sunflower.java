@@ -24,9 +24,15 @@ public class Sunflower extends Plant implements ISunProducer {
 
     @Override
     public void onTick(GameSession session) {
-        if (isTransformedToCat() || isOctopused() || isFrozenSolid()) {
+        // === تغییرات اینجاست ===
+        if (isFrozenSolid()) {
+            handleIceMelting(session);
             return;
         }
+        if (isTransformedToCat() || isOctopused()) {
+            return;
+        }
+        // =======================
 
         // اگر از قبل خورشیدی تولید کرده و هنوز بازیکن آن را برنداشته، تایمر را متوقف می‌کنیم
         if (sunReady) {
