@@ -262,6 +262,8 @@ public class User implements Serializable, PlayerProfile {
         getGreenhouseBoosts().remove(plantName);
     }
 
+    public int getPendingGreenhousePots() { return pendingGreenhousePots; }
+
     public Map<String, Boolean> getGreenhouseBoosts() {
         if (greenhouseBoosts == null) greenhouseBoosts = new HashMap<>();
         return greenhouseBoosts;

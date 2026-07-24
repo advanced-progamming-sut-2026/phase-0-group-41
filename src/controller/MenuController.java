@@ -15,7 +15,6 @@ public class MenuController {
     private MenuType currentMenu = MenuType.REGISTER;
     private User loggedInUser = null;
 
-    // === ویوهای جدید و بازنویسی شده ===
     private final RegisterView registerView;
     private final LoginView loginView;
     private final MainView mainView;
@@ -25,12 +24,8 @@ public class MenuController {
     private final ProfileView profileView;
     private final ShopView shopView;
     private final QuestView questView;
-
-    // === کلاس‌های مربوط به کالکشن ===
     private final CollectionController collectionController;
-
-    // === ویوهای قدیمی شما که هنوز بازنویسی نشده‌اند (موقتاً غیرفعال شدند تا ارور ندهند) ===
-    // private final GreenhouseView greenhouseView;
+    private final GreenhouseView greenhouseView;
 
     public MenuController(UserManager userManager, ConsoleView consoleView) {
         this.userManager = userManager;
@@ -44,14 +39,10 @@ public class MenuController {
         this.settingsView = new SettingsView(new SettingsController(userManager), consoleView, this);
         this.newsView = new NewsView(new NewsController(), consoleView);
         this.profileView = new ProfileView(new ProfileController(userManager), consoleView);
-
-        // مقداردهی کالکشن
         this.collectionController = new CollectionController(userManager);
         this.shopView = new ShopView(new ShopController(userManager), consoleView);
         this.questView = new QuestView(new QuestController(userManager), consoleView);
-
-        // مقداردهی کلاس‌های قدیمی (کامنت شدند تا ارور برطرف شود)
-        // this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
+        this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
     }
 
     public boolean handle(String rawLine, CommandLine cmd) {
@@ -100,13 +91,8 @@ public class MenuController {
             case COLLECTION:
                 return collectionController.handle(loggedInUser, t, cmd);
             case GREENHOUSE:
-                // موقتاً تا زمان اضافه‌شدن کدهای تیم، فقط یک پیام چاپ می‌کنیم
-                if (t.size() >= 1 && t.get(0).equalsIgnoreCase("show")) {
-                    consoleView.printMessage("گلخانه هنوز راه‌اندازی نشده است (در حال توسعه).");
-                    return true;
-                }
-                consoleView.printError("دستورات گلخانه در این نسخه غیرفعال است.");
-                return true;
+                return greenhouseView.checkCommand(loggedInUser, t, cmd);
+            
             default:
                 return false;
         }
@@ -131,7 +117,6 @@ public class MenuController {
                 // انتقال از لاگین به اصلی به صورت خودکار در کلاس LoginView انجام می‌شود
                 break;
             case MAIN:
-                // کلمه NETWORK از اینجا حذف شد و GREENHOUSE اضافه شد
                 if (target == MenuType.GAME || target == MenuType.SETTINGS ||
                         target == MenuType.NEWS || target == MenuType.PROFILE ||
                         target == MenuType.GREENHOUSE || target == MenuType.SHOP || target == MenuType.TRAVEL_LOG) {
