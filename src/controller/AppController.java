@@ -11,32 +11,33 @@ public class AppController {
 
     private final UserManager userManager = new UserManager();
     private final ConsoleView view = new ConsoleView();
-    private final MenuController menuController = new MenuController(userManager, view);
+    private final MenuController menuController = new MenuController(userManager, view, this);
     private final GameController gameController = new GameController(view);
 
     private GameSession activeSession;
     private boolean inGame = false;
+    private boolean isRunning = true; // فلگ کنترل حلقه
 
     public void run() {
         Scanner scanner = new Scanner(System.in);
         
-        // حلقه بی‌نهایت برای خواندن دستورات کاربر از کنسول
-        while (scanner.hasNextLine()) {
+        while (isRunning && scanner.hasNextLine()) {
             String rawLine = scanner.nextLine().trim();
             
-            // اگه کاربر فقط اینتر زد (خط خالی)، نادیده بگیر و برو خط بعدی
             if (rawLine.isEmpty()) {
                 continue;
             }
 
-            // ساخت شیء CommandLine از رشته‌ی ورودی
             CommandLine cmd = new CommandLine(rawLine);
-            
-            // ارسال دستور به بخش پردازش (متدی که خودت از قبل نوشتی)
             dispatch(rawLine, cmd);
         }
         
         scanner.close();
+        exitApp();
+    }
+
+    public void stopApp() {
+        isRunning = false;
     }
     
     public void exitApp() {

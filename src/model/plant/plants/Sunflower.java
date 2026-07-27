@@ -93,4 +93,9 @@ public class Sunflower extends Plant implements ISunProducer {
         }
         if (level >= 4) this.doubleSunChance = true;
     }
+
+    @Override
+    public int getReadySunAmount() {
+        return this.readySunAmount;
+    }
 }

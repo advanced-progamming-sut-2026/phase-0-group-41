@@ -225,17 +225,77 @@ public class GameController {
             view.printError("پارامتر مکان نامعتبر است.");
             return;
         }
-        Tile tile = session.getBoard().getTile(loc[1], loc[0]);
-        if (tile != null && tile.getPlant() instanceof Sunflower) {
-            Sunflower sunflower = (Sunflower) tile.getPlant();
-            if (sunflower.isSunReady()) {
-                sunflower.collectSun();
-                session.getSunManager().addSun(25);
-                view.printMessage("خورشید برداشت شد. مجموع: " + session.getSunManager().getCurrentSun());
+        
+        int col = loc[0];
+        int row = loc[1];
+
+        // ۱. بررسی خورشیدهای آسمانی (Falling Suns)  
+        List<FallingSun> fallingSuns = session.getFallingSuns();
+        for (int i = 0; i < fallingSuns.size(); i++) {
+            FallingSun fs = fallingSuns.get(i);
+            
+            if (fs.getRow() == row && fs.getCol() == col) {
+                boolean wasLanded = fs.isLanded();
+                FallingSun.Kind kind = fs.getKind();
+                
+                fallingSuns.remove(i);
+
+                // بررسی انفجار خورشید رادیواکتیو (اگر در هوا گرفته شود)
+                if (kind == FallingSun.Kind.RADIOACTIVE && !wasLanded) {
+                    view.printMessage(" خورشید رادیواکتیو پیش از رسیدن به زمین گرفته شد! انفجار رخ داد!");
+                    triggerRadioactiveExplosion(session, row, col);
+                    return; // بعد از انفجار، خورشیدی به بانک اضافه نمی‌شود
+                }
+
+                // محاسبه مقدار خورشیدی که به بانک می‌رود
+                int amountToAdd = kind.getValue();
+                // اگر خورشید رادیواکتیو به زمین رسیده باشد، مثل یک خورشید عادی عمل می‌کند
+                if (kind == FallingSun.Kind.RADIOACTIVE && wasLanded) {
+                    amountToAdd = FallingSun.Kind.NORMAL.getValue();
+                }
+
+                session.getSunManager().addSun(amountToAdd);
+                view.printMessage("خورشید آسمانی برداشت شد (+" + amountToAdd + "). مجموع: " + session.getSunManager().getCurrentSun());
+                return;
+            }
+        }
+
+        // ۲. بررسی گیاهان تولیدکننده خورشید (Sun Producers)
+        Tile tile = session.getBoard().getTile(row, col);
+        if (tile != null && tile.getPlant() instanceof model.plant.interfaces.ISunProducer) {
+            model.plant.interfaces.ISunProducer producer = (model.plant.interfaces.ISunProducer) tile.getPlant();
+            if (producer.isSunReady()) {
+                int amountToAdd = producer.getReadySunAmount();
+                producer.collectSun(); // وضعیت تولید خورشید گیاه را ریست می‌کند
+                session.getSunManager().addSun(amountToAdd);
+                view.printMessage("خورشید گیاهی برداشت شد (+" + amountToAdd + "). مجموع: " + session.getSunManager().getCurrentSun());
                 return;
             }
         }
         view.printError("خورشیدی برای برداشت در این مکان وجود ندارد.");
+    }
+
+    private void triggerRadioactiveExplosion(GameSession session, int centerRow, int centerCol) {
+        // اعمال ۱۵۰ دمیج به زامبی‌ها در شعاع ۵x۵
+        for (Zombie z : session.getAliveZombies()) {
+            int zCol = (int) Math.floor(z.getXPosition());
+            if (Math.abs(z.getRow() - centerRow) <= 2 && Math.abs(zCol - centerCol) <= 2) {
+                z.takeDamage(150);
+            }
+        }
+        
+        // اعمال ۸۰ دمیج به گیاهان در شعاع ۳x۳
+        for (int r = centerRow - 1; r <= centerRow + 1; r++) {
+            for (int c = centerCol - 1; c <= centerCol + 1; c++) {
+                Tile t = session.getBoard().getTile(r, c);
+                if (t != null && t.getPlant() != null) {
+                    t.getPlant().takeDamage(80);
+                    if (t.getPlant().isDead()) {
+                        t.setPlant(null); // پاک‌سازی گیاه مرده از روی زمین
+                    }
+                }
+            }
+        }
     }
 
     private void feedPlant(GameSession session, CommandLine cmd) {

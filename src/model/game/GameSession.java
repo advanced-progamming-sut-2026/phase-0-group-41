@@ -19,7 +19,7 @@ import java.util.Random;
  * با «advance time» به جلو برده می‌شود.
  */
 public class GameSession {
-    private final Season currentSeason; // === بخش فصلی: نگهداری فصل فعلی ===
+    private final Season currentSeason;
     private int waterStartColumn = 9;   // === بخش فصلی: برای ساحل موج بزرگ ===
 
     private final User user;
@@ -51,7 +51,7 @@ public class GameSession {
         this.waveManager = new WaveManager(totalWaves, 50);
         int userDifficulty = user.getDifficultyLevel();
         this.sunManager = new SunManager(userDifficulty);
-        this.currentSeason = season; // === بخش فصلی: مقداردهی فصل ===
+        this.currentSeason = season;
     }
 
     public long getTickCount() {
@@ -170,7 +170,6 @@ public class GameSession {
             double timeLivedMs = ticksLived * 1000.0; // فرض: هر تیک ۱۰۰۰ میلی‌ثانیه است
 
             // ۳. ساخت رویداد کشته شدن سریع و ارسال به سشن
-            // حتما کلاس MeowPoint ایمپورت شده باشد
             model.scoreGame.MeowPoint.GameEvent fastKillEvent = new model.scoreGame.MeowPoint.GameEvent(
                     model.scoreGame.MeowPoint.EventType.ZOMBIE_KILLED_FAST,
                     1,
@@ -316,6 +315,11 @@ public class GameSession {
             }
         }
         for (Zombie z : reachedEnd) {
+            //اگر داخل یه تیک همزمان دوتا زامبی رد شدن، فقط یکی از اونها ماشین چمن‌زنی رو فعال می‌کنه و اون یکی باعث باخت نمیشه  
+            if (!aliveZombies.contains(z)) {
+                continue;
+            }
+            
             int row = z.getRow();
             if (board.triggerLawnMower(row)) {
                 // ماشین چمن‌زنی همه زامبی‌های همان ردیف را می‌کشد

@@ -16,10 +16,6 @@ public class LoginController {
     public String authenticate(String username, String password, boolean stayLoggedIn) {
         User user = userManager.findByUsername(username);
 
-        // ==========================================
-        // نکته مهم: برای چک کردن پسورد از متد آماده‌ی
-        // checkPassword در UserManager استفاده می‌کنیم
-        // ==========================================
         if (user == null || !userManager.checkPassword(user, password)) {
             return "ERR_INVALID_CREDENTIALS";
         }

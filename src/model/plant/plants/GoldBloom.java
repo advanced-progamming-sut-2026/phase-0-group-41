@@ -86,4 +86,9 @@ public class GoldBloom extends Plant implements ISunProducer {
     public int getCooldownTicks() {
         return currentCooldown;
     }
+
+    @Override
+    public int getReadySunAmount() {
+        return this.readySunAmount;
+    }
 }

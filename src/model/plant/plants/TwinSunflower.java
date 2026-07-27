@@ -87,4 +87,9 @@ public class TwinSunflower extends Plant implements ISunProducer {
     public int getSunCost() {
         return currentSunCost;
     }
+
+    @Override
+    public int getReadySunAmount() {
+        return this.readySunAmount;
+    }
 }

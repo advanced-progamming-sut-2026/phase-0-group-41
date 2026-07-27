@@ -9,6 +9,8 @@ import view.*;
 import java.util.List;
 
 public class MenuController {
+    private final AppController appController;
+    
     private final UserManager userManager;
     private final ConsoleView consoleView;
 
@@ -27,11 +29,11 @@ public class MenuController {
     private final CollectionController collectionController;
     private final GreenhouseView greenhouseView;
 
-    public MenuController(UserManager userManager, ConsoleView consoleView) {
+    public MenuController(UserManager userManager, ConsoleView consoleView, AppController appController) {
+        this.appController = appController;
         this.userManager = userManager;
         this.consoleView = consoleView;
 
-        // مقداردهی کلاس‌های جدید
         this.registerView = new RegisterView(new RegisterController(userManager), consoleView, this);
         this.loginView = new LoginView(new LoginController(userManager), consoleView, this);
         this.mainView = new MainView(new MainController(userManager), consoleView, this);
@@ -62,7 +64,7 @@ public class MenuController {
 
         // ۳. دستور ورود به منوی جدید
         if (t.size() >= 3 && t.get(0).equals("menu") && t.get(1).equals("enter")) {
-            String targetMenuName = t.get(2).toUpperCase();
+            String targetMenuName = t.get(2).toUpperCase().replace("-", "_");
             // اگر در کدهای قدیمی از GAME استفاده شده، آن را به PLAY تبدیل می‌کنیم تا یکپارچه شود
             if (targetMenuName.equals("GAME")) targetMenuName = "PLAY";
             return handleMenuEnter(targetMenuName);
@@ -142,8 +144,7 @@ public class MenuController {
         switch (currentMenu) {
             case REGISTER:
                 consoleView.printMessage("پایان برنامه.");
-                userManager.save();
-                System.exit(0);
+                appController.stopApp();
                 break;
             case LOGIN:
                 setCurrentMenu(MenuType.REGISTER);
@@ -156,8 +157,7 @@ public class MenuController {
             case SETTINGS:
             case NEWS:
             case PROFILE:
-            case GREENHOUSE: // اضافه شد تا بتوان از گلخانه هم خارج شد
-                // case NETWORK: (موقتاً کامنت شد)
+            case GREENHOUSE:
                 setCurrentMenu(MenuType.MAIN);
                 consoleView.printMessage("به منوی اصلی بازگشتید.");
                 break;
