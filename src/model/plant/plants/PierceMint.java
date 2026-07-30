@@ -36,10 +36,9 @@ public class PierceMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Strike-through) اعمال کرد!");
-        // session.triggerFamilyPlantFood("STRIKE_THROUGH", durationBonusTicks);
+        session.triggerFamilyPlantFood(model.plant.PlantType.STRIKE_THROUGH, durationBonusTicks);
         this.takeDamage(9999);
     }
-
     @Override
     public void feed(GameSession session) {
         System.out.println(getName() + " مصرفی آنی است و Plant Food دریافت نمی‌کند.");

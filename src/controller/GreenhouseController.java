@@ -37,16 +37,27 @@ public class GreenhouseController {
         if (gh.isLocked(row, col)) return "ERR_LOCKED";
         if (gh.hasPlant(row, col)) return "ERR_NOT_EMPTY";
 
-        // انتخاب یک گیاه تصادفی برای کاشت
-        List<String> allPlants = PlantFactory.allPlantNames();
-        String randomPlant = allPlants.get(random.nextInt(allPlants.size()));
+        String plantName;
+        long durationMs;
+
+        // ۵۰ درصد احتمال برای گل معمولی (Marigold)
+        if (random.nextBoolean()) {
+            plantName = "marigold";
+            durationMs = 2 * 3600000L; // 2 ساعت
+        } else {
+            // ۵۰ درصد احتمال برای یکی از گیاهان آنلاک‌شده کاربر
+            java.util.List<String> unlocked = new java.util.ArrayList<>(user.getUnlockedPlants());
+            if (unlocked.isEmpty()) {
+                plantName = "peashooter"; // محض احتیاط اگر لیستی نبود
+            } else {
+                plantName = unlocked.get(random.nextInt(unlocked.size()));
+            }
+            durationMs = 8 * 3600000L; // 8 ساعت
+        }
         
-        // زمان رشد تصادفی بین ۱ تا ۳ ساعت
-        long durationMs = (1 + random.nextInt(3)) * 3600000L; 
-        
-        gh.plantAt(row, col, randomPlant, durationMs);
+        gh.plantAt(row, col, plantName, durationMs);
         userManager.save();
-        return "SUCCESS_" + randomPlant;
+        return "SUCCESS_" + plantName;
     }
 
     public String harvest(User user, int row, int col) {
@@ -58,9 +69,11 @@ public class GreenhouseController {
         String plantName = gh.getPlantName(row, col);
         gh.clearPot(row, col);
         
-        // پاداش برداشت: ۱ پکت بذر از همون گیاه + ۱۰۰ سکه
-        user.addSeedPackets(plantName, 1);
-        user.addCoins(100);
+        if (plantName.equals("marigold")) {
+            user.addCoins(500); // پاداش گل معمولی
+        } else {
+            user.addGreenhouseBoost(plantName); // ذخیره بوست برای گیاه
+        }
         
         userManager.save();
         return "SUCCESS_" + plantName;
@@ -72,7 +85,10 @@ public class GreenhouseController {
         if (gh.isLocked(row, col) || gh.isEmpty(row, col)) return "ERR_EMPTY";
         if (gh.isReady(row, col)) return "ERR_ALREADY_READY";
 
-        int cost = 2; // هزینه تسریع رشد: ۲ الماس
+        long remainingMs = gh.getRemainingMillis(row, col);
+        // محاسبه سقف ساعت‌های باقی‌مانده
+        int cost = (int) Math.ceil(remainingMs / 3600000.0); 
+
         if (!user.spendDiamonds(cost)) {
             return "ERR_NOT_ENOUGH_DIAMONDS";
         }

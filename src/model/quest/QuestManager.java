@@ -108,9 +108,19 @@ public class QuestManager {
     /**
      * ثبت کشته شدن زامبی و بررسی مجدد وضعیت کوئست‌ها
      */
-    public void recordZombieKill(QuestContext context) {
+    public void recordZombieKill(QuestContext context, int chapterNumber, String killerPlantName) {
         if (context != null) {
             context.setZombiesKilled(context.getZombiesKilled() + 1);
+            
+            // ثبت دقیق اطلاعات برای کوئست‌های خاص
+            if (chapterNumber > 0) {
+                context.incrementZombiesKilledInChapter(chapterNumber);
+            }
+            if (killerPlantName != null) {
+                // آپدیت کردن مپِ zombiesKilledOnlyByPlant
+                context.setZombiesKilledOnlyBy(killerPlantName, context.getZombiesKilledOnlyBy(killerPlantName) + 1);
+            }
+            
             refreshCompletionStatus(context);
         }
     }

@@ -1,6 +1,7 @@
 package model.game;
 
 import model.plant.Plant;
+import model.plant.PlantType;
 import model.sun.FallingSun;
 import model.sun.SunManager;
 import model.user.User;
@@ -142,9 +143,16 @@ public class GameSession {
         // تیک گیاهان
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 0; c < Board.COLS; c++) {
-                Plant plant = board.getTile(r, c).getPlant();
-                if (plant != null && !plant.isDead()) {
-                    plant.onTick(this);
+                Tile tile = board.getTile(r, c);
+                Plant plant = tile.getPlant();
+                if (plant != null) {
+                    if(!plant.isDead()) {
+                        plant.onTick(this);
+                    }
+
+                    if (plant.isDead()) {
+                        tile.setPlant(null); // کاشی دوباره خالی و قابل کشت می‌شود
+                    }
                 }
             }
         }
@@ -336,6 +344,22 @@ public class GameSession {
                 gameOver = true;
                 won = false;
                 return;
+            }
+        }
+    }
+
+    public void triggerFamilyPlantFood(PlantType targetFamily, int durationBonusTicks) {
+        for (int r = 0; r < Board.ROWS; r++) {
+            for (int c = 0; c < Board.COLS; c++) {
+                Tile tile = board.getTile(r, c);
+                if (tile != null && tile.getPlant() != null) {
+                    Plant plant = tile.getPlant();
+                    // اگر گیاه زنده بود و نوع (خانواده) آن با نعناع یکی بود
+                    if (!plant.isDead() && plant.getType() == targetFamily) {
+                        plant.feed(this); // فعال‌سازی افکت پلنت فود
+                        
+                    }
+                }
             }
         }
     }

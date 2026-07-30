@@ -24,22 +24,21 @@ public class GoldBloom extends Plant implements ISunProducer {
 
     @Override
     public void onTick(GameSession session) {
-        // === تغییرات اینجاست ===
+        // ۱. بررسی‌های پایه (یخ‌زدگی، طلسم جادوگر و اختاپوس)
         if (isFrozenSolid()) {
             handleIceMelting(session);
             return;
         }
+        
         if (isTransformedToCat() || isOctopused()) return;
-        // =======================
 
-        // فقط یک بار خورشید را تولید می‌کند و بعد منتظر جمع‌آوری می‌ماند
+        // ۲. تولید خورشید فوری و خودکشی (بدون نیاز به collect)
         if (!hasProduced) {
-            produceSun();
+            System.out.println("Gold Bloom شکوفا شد! 375 خورشید مستقیماً به حساب شما اضافه شد.");
+            session.getSunManager().addSun(375); // واریز مستقیم به بانک
             hasProduced = true;
+            this.takeDamage(9999); // ناپدید شدن فوری
         }
-
-        // نکته: برای گیاهان فوری، معمولاً به محض برداشت خورشید، گیاه نابود می‌شود
-        // این منطق در متد collectSun پیاده‌سازی شده است
     }
 
     @Override

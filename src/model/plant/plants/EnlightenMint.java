@@ -35,9 +35,9 @@ public class EnlightenMint extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود اعمال کرد!");
-        // session.triggerFamilyPlantFood("SUN_PRODUCER", durationBonusTicks);
-        this.takeDamage(9999); // پس از انتشار پالس از بین می‌رود
+        System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Sun Producer) اعمال کرد!");
+        session.triggerFamilyPlantFood(model.plant.PlantType.SUN_PRODUCER, durationBonusTicks);
+        this.takeDamage(9999);
     }
 
     @Override

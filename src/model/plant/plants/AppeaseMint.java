@@ -35,9 +35,10 @@ public class AppeaseMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان Shooter اعمال کرد!");
+        session.triggerFamilyPlantFood(model.plant.PlantType.SHOOTER, durationBonusTicks);
         this.takeDamage(9999);
     }
-
+    
     @Override
     public void feed(GameSession session) {
         System.out.println(getName() + " مصرفی آنی است و فود دریافت نمی‌کند.");

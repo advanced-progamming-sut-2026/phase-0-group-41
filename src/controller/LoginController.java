@@ -31,6 +31,7 @@ public class LoginController {
         java.time.LocalDate today = java.time.LocalDate.now();
         if (user.getLastLoginDate() == null || !user.getLastLoginDate().equals(today)) {
             user.getQuestManager().resetDailyQuests();
+            user.getQuestContext().resetDailyCounters();
         }
         user.updateLastLoginDate(); // آپدیت تاریخ آخرین ورود به امروز
         userManager.save(); // ذخیره تغییرات تاریخ و ریست کوئست‌ها در فایل

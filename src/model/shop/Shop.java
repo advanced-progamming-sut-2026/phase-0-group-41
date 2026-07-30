@@ -82,7 +82,7 @@ public class Shop {
                 return false;
             } else {
                 if (isDailyOffer) {
-                    user.getUnlockedPlants().add(user.getDailyOfferPlant());
+                    user.addSeedPackets(user.getDailyOfferPlant(), 10);
                     user.setDailyOfferPurchased(true);
                 } else {
                     switch (itemName) {
@@ -103,15 +103,18 @@ public class Shop {
     }
 
     public static void updateDailyOffer(User user) {
-        String today = LocalDate.now().toString();
+        String today = java.time.LocalDate.now().toString();
         if (user.getDailyOfferDate() == null || !user.getDailyOfferDate().equals(today)) {
             user.setDailyOfferDate(today);
             user.setDailyOfferPurchased(false);
 
-            Random random = new Random();
-            int randomIndex = random.nextInt(ALL_PLANTS.length);
-            String randomPlant = ALL_PLANTS[randomIndex];
-            user.setDailyOfferPlant(randomPlant);
+            // انتخاب رندوم از بین گیاهانی که کاربر باز کرده است
+            java.util.List<String> unlocked = new java.util.ArrayList<>(user.getUnlockedPlants());
+            if (!unlocked.isEmpty()) {
+                java.util.Random random = new java.util.Random();
+                String randomPlant = unlocked.get(random.nextInt(unlocked.size()));
+                user.setDailyOfferPlant(randomPlant);
+            }
         }
     }
 }

@@ -36,8 +36,7 @@ public class EnchantMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Modifier) اعمال کرد!");
-        // session.triggerFamilyPlantFood("MODIFIER", durationBonusTicks);
-        this.takeDamage(9999); // پس از اعمال تأثیر فوراً از بین می‌رود
+        session.triggerFamilyPlantFood(model.plant.PlantType.MELEE_ATTACKER, 0);        this.takeDamage(9999); // پس از اعمال تأثیر فوراً از بین می‌رود
     }
 
     @Override

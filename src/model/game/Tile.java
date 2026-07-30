@@ -1,6 +1,7 @@
 package model.game;
 
 import model.plant.Plant;
+import model.plant.PlantTag;
 import model.zombie.Zombie;
 
 import java.util.ArrayList;
@@ -61,6 +62,38 @@ public class Tile {
                 this.terrainType = TerrainType.NORMAL;
             }
         }
+    }
+
+    public boolean canPlant(Plant plant) {
+        if (plant == null) return false;
+
+        // ۱. بررسی قبر و گیاه قبرخوار
+        if (hasGrave()) {
+            return plant.getName().equalsIgnoreCase("gravebuster"); 
+        }
+
+        // ۲. بررسی گیاهان آبی
+        if (isWater) {
+            if (plant.hasTag(PlantTag.WATER)) return true; // گیاه آبی مستقیم کاشته می‌شود
+            return hasLilyPad; // گیاه غیرآبی فقط روی لیلی‌پد کاشته می‌شود
+        }
+
+        // ۳. بررسی گیاهان پوششی (Stack) مثل کدو تنبل
+        if (plant.hasTag(PlantTag.STACK)) {
+            return true; // کدو تنبل می‌تواند روی گیاهان دیگر کاشته شود
+        }
+
+        // ۴. بررسی گیاه ذوب‌کننده (Hot Potato)
+        if (plant.getName().equalsIgnoreCase("hotpotato")) {
+            return this.getPlant() != null && this.getPlant().isFrozenSolid();
+        }
+
+        if(this.terrainType == TerrainType.CRATER) {
+            return false; // در گودال نمی‌توان کاشت
+        }
+
+        // در حالت عادی، خانه باید خالی باشد و از نوع نرمال
+        return isEmpty() && terrainType == TerrainType.NORMAL;
     }
 
     public boolean isNecromancyTile() { return isNecromancyTile; }

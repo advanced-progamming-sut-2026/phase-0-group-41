@@ -33,6 +33,7 @@ public class ReinforceMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان Wall-nut اعمال کرد!");
+        session.triggerFamilyPlantFood(model.plant.PlantType.WALL_NUT, 0);
         this.takeDamage(9999);
     }
 

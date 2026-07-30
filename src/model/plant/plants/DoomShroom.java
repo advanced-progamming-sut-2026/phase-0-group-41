@@ -1,6 +1,8 @@
 package model.plant.plants;
 
 import model.game.GameSession;
+import model.game.TerrainType;
+import model.game.Tile;
 import model.plant.Plant;
 import model.plant.PlantTag;
 import model.plant.PlantType;
@@ -37,6 +39,10 @@ public class DoomShroom extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " انفجار مهیب در کل باغچه! (دمیج: " + damage + ") ایجاد یک گودال غیرقابل کشت.");
+        Tile myTile = session.getBoard().getTile(getRow(), getCol());
+        if (myTile != null) {
+            myTile.setTerrainType(TerrainType.CRATER); // فرض بر اینکه این Enum را می‌سازی
+        }
         this.takeDamage(9999);
     }
 

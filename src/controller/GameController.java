@@ -183,12 +183,18 @@ public class GameController {
             view.printError("این خانه از قبل گیاه دارد.");
             return;
         }
-        if (!tile.canPlantDirectly()) {
+
+        Plant plant = PlantFactory.create(type);
+        User user = session.getUser();
+
+        if (!tile.canPlant(plant)) {
             view.printError("نمی‌توان مستقیم در این خانه کاشت (آب/موانع).");
             return;
         }
-        Plant plant = PlantFactory.create(type);
-        User user = session.getUser();
+        
+        int currentPlantLevel = user.getPlantLevel(type);
+        plant.applyUpgradeLevel(currentPlantLevel);
+
         if (user.hasGreenhouseBoost(type)) {
             plant.setGreenhouseBoosted(true);
             user.consumeGreenhouseBoost(type);

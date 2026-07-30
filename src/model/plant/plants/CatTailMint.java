@@ -36,7 +36,7 @@ public class CatTailMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Homing) اعمال کرد!");
-        // session.triggerFamilyPlantFood("HOMING", durationBonusTicks);
+        session.triggerFamilyPlantFood(model.plant.PlantType.HOMING, durationBonusTicks);
         this.takeDamage(9999);
     }
 

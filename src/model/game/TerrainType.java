@@ -5,5 +5,6 @@ public enum TerrainType {
     NORMAL,
     GRAVE,       // سنگ قبر: مانع تیر مستقیم تا زمانی که نابود شود
     WATER,       // آب: فقط گیاهان آبی یا روی برگ نیلوفر قابل کاشت است
-    ICE_SLIPPERY // زمین لیز
+    ICE_SLIPPERY, // زمین لیز
+    CRATER       // گودال: غیرقابل کاشت
 }

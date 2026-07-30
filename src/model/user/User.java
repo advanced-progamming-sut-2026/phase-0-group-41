@@ -108,7 +108,7 @@ public class User implements Serializable, PlayerProfile {
         this.diamonds += amount;
         // --- اتصال سیستم کوئست ---
         QuestContext context = getQuestContext();
-        context.setCoinsEarned(context.getCoinsEarned() + amount);
+        context.setGemsEarned(context.getGemsEarned() + amount);
         getQuestManager().refreshCompletionStatus(context);
     }
 

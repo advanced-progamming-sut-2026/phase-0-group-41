@@ -54,10 +54,6 @@ public abstract class Plant {
         }
     }
 
-    // ==========================================
-    // === منطق یخ‌زدگی (منطبق با داکیومنت) ===
-    // ==========================================
-
     public void applyFreezeWind() {
         if (isFrozenSolid) return;
         if (hasTag(PlantTag.FIRE)) return; // گیاهان آتشین یخ نمی‌زنند
@@ -124,10 +120,8 @@ public abstract class Plant {
         }
     }
 
-    // ==========================================
-    // === بقیه متدهای کلاس ===
-    // ==========================================
-
+    public void applyUpgradeLevel(int newLevel) {}
+    
     public boolean isTransformedToCat() { return this.isCat; }
     public void setTransformedToCat(boolean state) { this.isCat = state; }
 

@@ -33,6 +33,7 @@ public class EnforceMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان Melee اعمال کرد!");
+        session.triggerFamilyPlantFood(model.plant.PlantType.MELEE_ATTACKER, 0);
         this.takeDamage(9999);
     }
 
