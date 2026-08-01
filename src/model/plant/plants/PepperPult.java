@@ -9,14 +9,14 @@ import model.plant.interfaces.IShooter;
 public class PepperPult extends Plant implements IShooter {
     private int damage = 50;
     private int warmthRadius = 1;
-    private double actionInterval = 29.0;
-    private double tickCounter = 0;
+    private int actionInterval = 29;
+    private int tickCounter = 0;
     private int currentSunCost = 200;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public PepperPult() {
-        super("pepperpult", PlantType.LOBBER, 200, 5, 300, PlantTag.FIRE, PlantTag.AOE);
+        super("pepperpult", PlantType.LOBBER, 200, 50, 300, PlantTag.FIRE, PlantTag.AOE);
     }
 
     @Override

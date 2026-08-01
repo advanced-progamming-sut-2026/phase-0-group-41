@@ -15,7 +15,7 @@ public class PotatoMine extends Plant {
     private boolean exploded = false;
 
     public PotatoMine() {
-        super("potatomine", PlantType.EXPLOSIVE, 25, 300, 300);
+        super("potatomine", PlantType.EXPLOSIVE, 25, 250, 300);
     }
 
     @Override

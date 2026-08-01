@@ -16,7 +16,7 @@ public class Cactus extends Plant implements IShooter {
     private int level = 1;
 
     public Cactus() {
-        super("cactus", PlantType.STRIKE_THROUGH, 175, 5, 300);
+        super("cactus", PlantType.STRIKE_THROUGH, 175, 50, 300);
     }
 
     @Override

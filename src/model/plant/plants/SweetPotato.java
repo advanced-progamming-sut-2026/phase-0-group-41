@@ -7,11 +7,11 @@ import model.plant.PlantType;
 
 public class SweetPotato extends Plant {
 
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public SweetPotato() {
-        super("sweetpotato", PlantType.WALL_NUT, 150, 20, 3000, PlantTag.MOVE_ZOMBIES);
+        super("sweetpotato", PlantType.WALL_NUT, 150, 200, 3000, PlantTag.MOVE_ZOMBIES);
     }
 
     @Override
@@ -41,7 +41,7 @@ public class SweetPotato extends Plant {
             this.setMaxHealth(this.getMaxHealth() + 1000);
             this.setHealth(this.getMaxHealth());
         }
-        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 3) this.currentCooldown -= 50;
         if (level >= 4) {
             this.setMaxHealth(this.getMaxHealth() + 1500);
             this.setHealth(this.getMaxHealth());

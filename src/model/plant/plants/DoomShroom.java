@@ -12,12 +12,12 @@ public class DoomShroom extends Plant implements IExplosive {
 
     private int damage = 1800;
     private int currentSunCost = 125;
-    private int currentCooldown = 15;
+    private int currentCooldown = 150;
     private boolean hasExploded = false;
     private int level = 1;
 
     public DoomShroom() {
-        super("doomshroom", PlantType.EXPLOSIVE, 125, 15, 0, PlantTag.SHROOM);
+        super("doomshroom", PlantType.EXPLOSIVE, 125, 150, 0, PlantTag.SHROOM);
     }
 
     @Override
@@ -53,7 +53,7 @@ public class DoomShroom extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown -= 5;
+        if (level >= 2) this.currentCooldown -= 50;
         if (level >= 3) this.damage += 800;
         if (level >= 4) this.currentSunCost -= 50;
     }

@@ -16,15 +16,15 @@ public class Kiwibeast extends Plant implements IMeleeAttacker {
     private int stage = 1;
     private int maxStage = 3;
 
-    private double actionInterval = 20.0; // 2 ثانیه
-    private double tickCounter = 0;
+    private int actionInterval = 20; // 2 ثانیه
+    private int tickCounter = 0;
 
     private int currentSunCost = 175;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public Kiwibeast() {
-        super("kiwibeast", PlantType.MELEE_ATTACKER, 175, 5, 300, PlantTag.AOE, PlantTag.WRAMP_UP);
+        super("kiwibeast", PlantType.MELEE_ATTACKER, 175, 50, 300, PlantTag.AOE, PlantTag.WRAMP_UP);
     }
 
     @Override
@@ -56,7 +56,7 @@ public class Kiwibeast extends Plant implements IMeleeAttacker {
             System.out.println(getName() + " به حداکثر اندازه رسید! (Stage 3)");
         }
 
-        tickCounter += 1.0;
+        tickCounter += 1;
         if (tickCounter >= actionInterval) {
             attackMelee(session);
             tickCounter -= actionInterval;

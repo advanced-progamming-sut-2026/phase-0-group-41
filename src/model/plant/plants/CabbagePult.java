@@ -7,13 +7,13 @@ import model.plant.interfaces.IShooter;
 
 public class CabbagePult extends Plant implements IShooter {
     private int damage = 40;
-    private double actionInterval = 29.0;
-    private double tickCounter = 0;
-    private int currentCooldown = 5;
+    private int actionInterval = 29;
+    private int tickCounter = 0;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public CabbagePult() {
-        super("cabbagepult", PlantType.LOBBER, 100, 5, 300);
+        super("cabbagepult", PlantType.LOBBER, 100, 50, 300);
     }
 
     @Override
@@ -31,7 +31,7 @@ public class CabbagePult extends Plant implements IShooter {
             decayFeedEffect();
             return;
         }
-        tickCounter += 1.0;
+        tickCounter += 1;
         if (tickCounter >= actionInterval) {
             shoot(session);
             tickCounter -= actionInterval;

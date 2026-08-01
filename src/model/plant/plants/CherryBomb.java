@@ -9,12 +9,12 @@ public class CherryBomb extends Plant implements IExplosive {
 
     private int damage = 1800;
     private int currentSunCost = 150;
-    private int currentCooldown = 35;
+    private int currentCooldown = 350;
     private boolean hasExploded = false;
     private int level = 1;
 
     public CherryBomb() {
-        super("cherrybomb", PlantType.EXPLOSIVE, 150, 35, 0);
+        super("cherrybomb", PlantType.EXPLOSIVE, 150, 350, 0);
     }
 
     @Override
@@ -46,7 +46,7 @@ public class CherryBomb extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 5);
+        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 50);
         if (level >= 3) this.damage += 600;
         if (level >= 4) this.currentSunCost -= 25;
     }

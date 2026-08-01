@@ -9,11 +9,11 @@ public class Endurian extends Plant {
     private int armorHP = 0;
     private int reflectDamage = 20;
     private int currentSunCost = 100;
-    private int currentCooldown = 15;
+    private int currentCooldown = 150;
     private int level = 1;
 
     public Endurian() {
-        super("endurian", PlantType.WALL_NUT, 100, 15, 3000);
+        super("endurian", PlantType.WALL_NUT, 100, 150, 3000);
     }
 
     @Override

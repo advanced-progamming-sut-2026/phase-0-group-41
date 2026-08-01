@@ -9,12 +9,12 @@ import model.plant.interfaces.IExplosive;
 public class IcebergLettuce extends Plant implements IExplosive {
 
     private int currentSunCost = 0;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int freezeTimeTicks = 100;
     private int level = 1;
 
     public IcebergLettuce() {
-        super("iceberglettuce", PlantType.EXPLOSIVE, 0, 20, 300, PlantTag.TRAP, PlantTag.ICE);
+        super("iceberglettuce", PlantType.EXPLOSIVE, 0, 200, 300, PlantTag.TRAP, PlantTag.ICE);
     }
 
     @Override
@@ -43,7 +43,7 @@ public class IcebergLettuce extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown -= 2;
+        if (level >= 2) this.currentCooldown -= 20;
         if (level >= 3) this.freezeTimeTicks += 20;
         if (level >= 4) this.currentSunCost = 0;
     }

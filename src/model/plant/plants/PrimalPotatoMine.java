@@ -12,11 +12,11 @@ public class PrimalPotatoMine extends Plant {
     private int armCounter = 0;
     private boolean isArmed = false;
 
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public PrimalPotatoMine() {
-        super("primalpotatomine", PlantType.EXPLOSIVE, 50, 5, 300, PlantTag.TRAP, PlantTag.CHARGE);
+        super("primalpotatomine", PlantType.EXPLOSIVE, 50, 50, 300, PlantTag.TRAP, PlantTag.CHARGE);
     }
 
     @Override
@@ -60,7 +60,7 @@ public class PrimalPotatoMine extends Plant {
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
         if (level >= 2) this.armTimeTicks = Math.max(0, this.armTimeTicks - 10); // Arm Time -1s (10 تیک)
-        if (level >= 3) this.currentCooldown = Math.max(0, this.currentCooldown - 3);
+        if (level >= 3) this.currentCooldown = Math.max(0, this.currentCooldown - 30);
         if (level >= 4) this.damage += 400;
     }
 

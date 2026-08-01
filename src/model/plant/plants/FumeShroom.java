@@ -16,7 +16,7 @@ public class FumeShroom extends Plant implements IShooter {
     private int level = 1;
 
     public FumeShroom() {
-        super("fumeshroom", PlantType.STRIKE_THROUGH, 125, 5, 300, PlantTag.SHROOM);
+        super("fumeshroom", PlantType.STRIKE_THROUGH, 125, 50, 300, PlantTag.SHROOM);
     }
 
     @Override

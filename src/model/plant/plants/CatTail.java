@@ -13,11 +13,11 @@ public class CatTail extends Plant implements IShooter {
     private int shootInterval = 15; // 1.5 ثانیه (15 تیک)
     private int tickCounter = 0;
     private int currentSunCost = 175;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public CatTail() {
-        super("cattail", PlantType.HOMING, 175, 20, 300, PlantTag.WATER);
+        super("cattail", PlantType.HOMING, 175, 200, 300, PlantTag.WATER);
     }
 
     @Override

@@ -10,11 +10,11 @@ public class BonkChoy extends Plant implements IMeleeAttacker {
     private int damage = 15;
     private double actionInterval = 2.5; // 0.25 ثانیه
     private double tickCounter = 0;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public BonkChoy() {
-        super("bonkchoy", PlantType.MELEE_ATTACKER, 150, 5, 300);
+        super("bonkchoy", PlantType.MELEE_ATTACKER, 150, 50, 300);
     }
 
     @Override

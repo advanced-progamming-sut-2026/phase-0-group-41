@@ -13,11 +13,11 @@ public class PuffShroom extends Plant implements IShooter {
     private int lifespanTicks = 600; // 60 ثانیه
     private int ageTicks = 0;
     private int rangeBonus = 0;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public PuffShroom() {
-        super("puffshroom", PlantType.SHOOTER, 0, 5, 300, PlantTag.SHROOM);
+        super("puffshroom", PlantType.SHOOTER, 0, 50, 300, PlantTag.SHROOM);
     }
 
     @Override

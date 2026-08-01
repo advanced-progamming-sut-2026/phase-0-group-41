@@ -16,7 +16,7 @@ public class PeaPod extends Plant implements IShooter {
     private int level = 1;
 
     public PeaPod() {
-        super("peapod", PlantType.SHOOTER, 125, 5, 300, PlantTag.PEA, PlantTag.STACK);
+        super("peapod", PlantType.SHOOTER, 125, 50, 300, PlantTag.PEA, PlantTag.STACK);
     }
 
     // متدی برای اضافه کردن سر جدید (وقتی بازیکن دوباره روی این گیاه کلیک می‌کند)

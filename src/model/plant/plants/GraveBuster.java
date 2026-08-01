@@ -8,12 +8,12 @@ import model.plant.interfaces.IExplosive;
 public class GraveBuster extends Plant implements IExplosive {
 
     private int currentSunCost = 0;
-    private int currentCooldown = 10;
+    private int currentCooldown = 100;
     private boolean hasDestroyedGrave = false;
     private int level = 1;
 
     public GraveBuster() {
-        super("gravebuster", PlantType.EXPLOSIVE, 0, 10, 0);
+        super("gravebuster", PlantType.EXPLOSIVE, 0, 100, 0);
     }
 
     @Override
@@ -49,7 +49,7 @@ public class GraveBuster extends Plant implements IExplosive {
             // کاهش زمان جویدن قبر
             System.out.println("Eat Time -1s");
         }
-        if (level >= 3) this.currentCooldown -= 2;
+        if (level >= 3) this.currentCooldown -= 20;
         if (level >= 4) {
             System.out.println("Explode on Finish فعال شد.");
         }

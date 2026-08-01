@@ -12,12 +12,12 @@ public class ElectricBlueberry extends Plant implements IShooter {
     private int shootInterval = 120; // 12 ثانیه
     private int tickCounter = 0;
     private int currentSunCost = 150;
-    private int currentCooldown = 15;
+    private int currentCooldown = 150;
     private boolean highTargetPriority = false;
     private int level = 1;
 
     public ElectricBlueberry() {
-        super("electricblueberry", PlantType.HOMING, 150, 15, 300, PlantTag.CHARGE);
+        super("electricblueberry", PlantType.HOMING, 150, 150, 300, PlantTag.CHARGE);
     }
 
     @Override
@@ -51,7 +51,7 @@ public class ElectricBlueberry extends Plant implements IShooter {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 2);
+        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 20);
         if (level >= 3) this.highTargetPriority = true; // Target Priority Up
         if (level >= 4) this.currentSunCost -= 25;
     }

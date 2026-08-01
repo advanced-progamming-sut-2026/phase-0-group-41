@@ -21,7 +21,7 @@ public class BowlingBulb extends Plant implements IShooter {
     private int level = 1;
 
     public BowlingBulb() {
-        super("bowlingbulb", PlantType.SHOOTER, 200, 5, 300, PlantTag.CHARGE);
+        super("bowlingbulb", PlantType.SHOOTER, 200, 50, 300, PlantTag.CHARGE);
     }
 
     @Override

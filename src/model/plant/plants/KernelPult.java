@@ -15,7 +15,7 @@ public class KernelPult extends Plant implements IShooter {
     private int level = 1;
 
     public KernelPult() {
-        super("kernelpult", PlantType.LOBBER, 100, 5, 300);
+        super("kernelpult", PlantType.LOBBER, 100, 50, 300);
     }
 
     @Override

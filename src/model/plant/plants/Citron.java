@@ -15,7 +15,7 @@ public class Citron extends Plant implements IShooter {
     private int level = 1;
 
     public Citron() {
-        super("citron", PlantType.SHOOTER, 350, 5, 300, PlantTag.CHARGE);
+        super("citron", PlantType.SHOOTER, 350, 50, 300, PlantTag.CHARGE);
     }
 
     @Override

@@ -10,7 +10,7 @@ public class GoldBloom extends Plant implements ISunProducer {
 
     private int sunAmount = 375;
     private int currentSunCost = 0;
-    private int currentCooldown = 0; // طبق جدول صفر است (اما برای آپگرید آماده شده)
+    private int currentCooldown = 750;
     private int level = 1;
 
     private boolean sunReady = false;
@@ -19,7 +19,7 @@ public class GoldBloom extends Plant implements ISunProducer {
 
     public GoldBloom() {
         // نام، نوع، هزینه (0)، زمان شارژ (0)، جان (0 - چون بلافاصله از بین می‌رود)
-        super("goldbloom", PlantType.SUN_PRODUCER, 0, 0, 0, PlantTag.DAY);
+        super("goldbloom", PlantType.SUN_PRODUCER, 0, 750, 0, PlantTag.DAY);
     }
 
     @Override
@@ -71,7 +71,7 @@ public class GoldBloom extends Plant implements ISunProducer {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 5);
+        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 50);
         if (level >= 3) this.sunAmount += 50; // خورشید: 425
         if (level >= 4) this.currentSunCost = Math.max(0, this.currentSunCost - 25);
     }

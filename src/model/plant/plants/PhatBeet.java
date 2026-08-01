@@ -9,13 +9,13 @@ import model.plant.interfaces.IMeleeAttacker;
 public class PhatBeet extends Plant implements IMeleeAttacker {
 
     private int damage = 15;
-    private double actionInterval = 20.0; // 2 ثانیه
-    private double tickCounter = 0;
-    private int currentCooldown = 5;
+    private int actionInterval = 20; // 2 ثانیه
+    private int tickCounter = 0;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public PhatBeet() {
-        super("phatbeet", PlantType.MELEE_ATTACKER, 150, 5, 300, PlantTag.AOE);
+        super("phatbeet", PlantType.MELEE_ATTACKER, 150, 50, 300, PlantTag.AOE);
     }
 
     @Override

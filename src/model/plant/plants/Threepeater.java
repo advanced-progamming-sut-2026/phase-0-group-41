@@ -15,7 +15,7 @@ public class Threepeater extends Plant implements IShooter {
     private int level = 1;
 
     public Threepeater() {
-        super("threepeater", PlantType.SHOOTER, 300, 5, 300, PlantTag.DAY);
+        super("threepeater", PlantType.SHOOTER, 300, 50, 300, PlantTag.DAY);
     }
 
     @Override

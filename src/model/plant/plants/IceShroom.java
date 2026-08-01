@@ -11,12 +11,12 @@ public class IceShroom extends Plant implements IExplosive {
     private int freezeTimeTicks = 100; // فرض پایه
     private int damage = 0;
     private int currentSunCost = 75;
-    private int currentCooldown = 50;
+    private int currentCooldown = 500;
     private boolean hasExploded = false;
     private int level = 1;
 
     public IceShroom() {
-        super("iceshroom", PlantType.EXPLOSIVE, 75, 50, 0, PlantTag.SHROOM, PlantTag.ICE);
+        super("iceshroom", PlantType.EXPLOSIVE, 75, 500, 0, PlantTag.SHROOM, PlantTag.ICE);
     }
 
     @Override
@@ -49,7 +49,7 @@ public class IceShroom extends Plant implements IExplosive {
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
         if (level >= 2) this.freezeTimeTicks += 20; // Freeze Time +2s
-        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 3) this.currentCooldown -= 50;
         if (level >= 4) this.damage += 50;
     }
 

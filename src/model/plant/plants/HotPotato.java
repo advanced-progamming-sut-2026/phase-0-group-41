@@ -9,12 +9,12 @@ import model.plant.interfaces.IExplosive;
 public class HotPotato extends Plant implements IExplosive {
 
     private int currentSunCost = 0;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private boolean hasExploded = false;
     private int level = 1;
 
     public HotPotato() {
-        super("hotpotato", PlantType.EXPLOSIVE, 0, 5, 0, PlantTag.FIRE);
+        super("hotpotato", PlantType.EXPLOSIVE, 0, 50, 0, PlantTag.FIRE);
     }
 
     @Override
@@ -46,7 +46,7 @@ public class HotPotato extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown -= 2;
+        if (level >= 2) this.currentCooldown -= 20;
         if (level >= 3) {
             System.out.println("Melt Area 3x3 فعال شد.");
         }

@@ -11,11 +11,11 @@ public class Caulipower extends Plant implements IShooter {
     private int shootInterval = 120; // 12 ثانیه
     private int tickCounter = 0;
     private int currentSunCost = 250;
-    private int currentCooldown = 15; // Cooldown اولیه
+    private int currentCooldown = 150; // Cooldown اولیه
     private int level = 1;
 
     public Caulipower() {
-        super("caulipower", PlantType.HOMING, 250, 15, 300, PlantTag.MAGIC, PlantTag.CHARGE);
+        super("caulipower", PlantType.HOMING, 250, 150, 300, PlantTag.MAGIC, PlantTag.CHARGE);
     }
 
     @Override
@@ -48,7 +48,7 @@ public class Caulipower extends Plant implements IShooter {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 2);
+        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 20);
         if (level >= 3) {
             this.setMaxHealth(this.getMaxHealth() + 150);
             this.setHealth(this.getMaxHealth());

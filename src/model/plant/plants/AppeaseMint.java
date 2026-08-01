@@ -7,13 +7,13 @@ import model.plant.interfaces.IExplosive;
 
 public class AppeaseMint extends Plant implements IExplosive {
     private int currentSunCost = 0;
-    private int currentCooldown = 85;
+    private int currentCooldown = 850;
     private int durationBonusTicks = 0;
     private boolean hasTriggered = false;
     private int level = 1;
 
     public AppeaseMint() {
-        super("appeasemint", PlantType.SHOOTER, 0, 85, 0);
+        super("appeasemint", PlantType.SHOOTER, 0, 850, 0);
     }
 
     @Override
@@ -47,7 +47,7 @@ public class AppeaseMint extends Plant implements IExplosive {
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
         if (level >= 2) this.durationBonusTicks += 10;
-        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 3) this.currentCooldown -= 50;
     }
 
     @Override

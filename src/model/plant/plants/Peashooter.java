@@ -15,7 +15,7 @@ public class Peashooter extends Plant implements IShooter {
     private int level = 1;
 
     public Peashooter() {
-        super("peashooter", PlantType.SHOOTER, 100, 5, 300, PlantTag.DAY);
+        super("peashooter", PlantType.SHOOTER, 100, 50, 300, PlantTag.DAY);
     }
 
     @Override

@@ -16,7 +16,7 @@ public class Rotobaga extends Plant implements IShooter {
     private int level = 1;
 
     public Rotobaga() {
-        super("rotobaga", PlantType.SHOOTER, 150, 5, 300, PlantTag.DAY);
+        super("rotobaga", PlantType.SHOOTER, 150, 50, 300, PlantTag.DAY);
     }
 
     @Override

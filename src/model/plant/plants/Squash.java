@@ -9,13 +9,13 @@ import model.plant.interfaces.IExplosive;
 public class Squash extends Plant implements IExplosive {
 
     private int damage = 1800;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int crushLimit = 1;
     private int crushesDone = 0;
     private int level = 1;
 
     public Squash() {
-        super("squash", PlantType.EXPLOSIVE, 50, 20, 300, PlantTag.TRAP);
+        super("squash", PlantType.EXPLOSIVE, 50, 200, 300, PlantTag.TRAP);
     }
 
     @Override
@@ -51,7 +51,7 @@ public class Squash extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown -= 3;
+        if (level >= 2) this.currentCooldown -= 30;
         if (level >= 3) this.damage += 600;
         if (level >= 4) this.crushLimit = 2;
     }

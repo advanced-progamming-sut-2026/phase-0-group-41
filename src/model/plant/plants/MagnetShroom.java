@@ -7,14 +7,14 @@ import model.plant.PlantType;
 
 public class MagnetShroom extends Plant {
 
-    private double actionInterval = 100.0; // 10 ثانیه = 100 تیک
-    private double tickCounter = 0;
+    private int actionInterval = 100; // 10 ثانیه = 100 تیک
+    private int tickCounter = 0;
     private int rangeBonus = 0;
-    private int currentCooldown = 15;
+    private int currentCooldown = 150;
     private int level = 1;
 
     public MagnetShroom() {
-        super("magnetshroom", PlantType.HOMING, 100, 15, 300, PlantTag.SHROOM, PlantTag.MAGIC);
+        super("magnetshroom", PlantType.HOMING, 100, 150, 300, PlantTag.SHROOM, PlantTag.MAGIC);
     }
 
     @Override
@@ -34,7 +34,7 @@ public class MagnetShroom extends Plant {
             return;
         }
 
-        tickCounter += 1.0;
+        tickCounter += 1;
         if (tickCounter >= actionInterval) {
             disarmZombie(session);
             tickCounter = 0; // بعد از جذب فلز، برای هضم کردن زمان می‌برد
@@ -48,7 +48,7 @@ public class MagnetShroom extends Plant {
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
         if (level >= 2) this.rangeBonus += 1;
-        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 3) this.currentCooldown -= 50;
         if (level >= 4) {
             this.setMaxHealth(this.getMaxHealth() + 200);
             this.setHealth(this.getMaxHealth());

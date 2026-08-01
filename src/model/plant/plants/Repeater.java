@@ -15,7 +15,7 @@ public class Repeater extends Plant implements IShooter {
     private int level = 1;
 
     public Repeater() {
-        super("repeater", PlantType.SHOOTER, 200, 5, 300, PlantTag.DAY);
+        super("repeater", PlantType.SHOOTER, 200, 50, 300, PlantTag.DAY);
     }
 
     @Override

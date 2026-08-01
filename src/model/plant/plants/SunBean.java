@@ -10,11 +10,11 @@ public class SunBean extends Plant {
     private int sunDropPerHit = 5;
     private int armorHP = 0;
     private int currentSunCost = 50;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public SunBean() {
-        super("sunbean", PlantType.WALL_NUT, 50, 20, 1000, PlantTag.SUN);
+        super("sunbean", PlantType.WALL_NUT, 50, 200, 1000, PlantTag.SUN);
     }
 
     @Override

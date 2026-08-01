@@ -16,7 +16,7 @@ public class MegaGatlingPea extends Plant implements IShooter {
     private int level = 1;
 
     public MegaGatlingPea() {
-        super("megagatlingpea", PlantType.SHOOTER, 400, 5, 300, PlantTag.PEA);
+        super("megagatlingpea", PlantType.SHOOTER, 400, 50, 300, PlantTag.PEA);
     }
 
     @Override

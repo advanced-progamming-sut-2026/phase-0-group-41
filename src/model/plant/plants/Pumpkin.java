@@ -8,11 +8,11 @@ import model.plant.PlantType;
 public class Pumpkin extends Plant {
 
     private int armorHP = 0;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public Pumpkin() {
-        super("pumpkin", PlantType.WALL_NUT, 150, 20, 4000, PlantTag.STACK);
+        super("pumpkin", PlantType.WALL_NUT, 150, 200, 4000, PlantTag.STACK);
     }
 
     @Override
@@ -39,7 +39,7 @@ public class Pumpkin extends Plant {
             this.setMaxHealth(this.getMaxHealth() + 1000);
             this.setHealth(this.getMaxHealth());
         }
-        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 3) this.currentCooldown -= 50;
         if (level >= 4) {
             this.setMaxHealth(this.getMaxHealth() + 1500);
             this.setHealth(this.getMaxHealth());

@@ -10,11 +10,11 @@ public class Chomper extends Plant implements IMeleeAttacker {
     private int digestTimeTicks = 400; // 40 ثانیه
     private int digestCounter = 0;
     private boolean isDigesting = false;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public Chomper() {
-        super("chomper", PlantType.MELEE_ATTACKER, 150, 5, 300);
+        super("chomper", PlantType.MELEE_ATTACKER, 150, 50, 300);
     }
 
     @Override

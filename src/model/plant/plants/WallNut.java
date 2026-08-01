@@ -7,11 +7,11 @@ import model.plant.PlantType;
 public class WallNut extends Plant {
 
     private int armorHP = 0;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public WallNut() {
-        super("wallnut", PlantType.WALL_NUT, 50, 20, 4000);
+        super("wallnut", PlantType.WALL_NUT, 50, 200, 4000);
     }
 
     @Override
@@ -52,7 +52,7 @@ public class WallNut extends Plant {
             this.setMaxHealth(this.getMaxHealth() + 1000);
             this.setHealth(this.getMaxHealth());
         }
-        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 3) this.currentCooldown -= 50;
         if (level >= 4) {
             this.setMaxHealth(this.getMaxHealth() + 1500);
             this.setHealth(this.getMaxHealth());

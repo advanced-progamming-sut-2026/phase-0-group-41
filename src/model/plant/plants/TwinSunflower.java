@@ -9,7 +9,7 @@ import model.plant.interfaces.ISunProducer;
 public class TwinSunflower extends Plant implements ISunProducer {
 
     private int sunAmount = 100;
-    private int productionInterval = 24;
+    private int productionInterval = 240;
     private int tickCounter = 0;
     private int currentSunCost = 125;
     private int level = 1;
@@ -19,7 +19,7 @@ public class TwinSunflower extends Plant implements ISunProducer {
     private int readySunAmount = 0;
 
     public TwinSunflower() {
-        super("twinsunflower", PlantType.SUN_PRODUCER, 125, 15, 300, PlantTag.DAY);
+        super("twinsunflower", PlantType.SUN_PRODUCER, 125, 150, 300, PlantTag.DAY);
     }
 
     @Override
@@ -75,7 +75,7 @@ public class TwinSunflower extends Plant implements ISunProducer {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.productionInterval -= 2;
+        if (level >= 2) this.productionInterval -= 20;
         if (level >= 3) {
             this.setMaxHealth(this.getMaxHealth() + 150);
             this.setHealth(this.getMaxHealth());

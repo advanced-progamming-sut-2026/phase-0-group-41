@@ -10,11 +10,11 @@ public class HypnoShroom extends Plant {
     private boolean zombieHpBuff = false; // برای Lvl3
     private boolean zombieDmgBuff = false; // برای Lvl4
     private int currentSunCost = 125;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public HypnoShroom() {
-        super("hypnoshroom", PlantType.MODIFIER, 125, 20, 300, PlantTag.SHROOM, PlantTag.MAGIC);
+        super("hypnoshroom", PlantType.MODIFIER, 125, 200, 300, PlantTag.SHROOM, PlantTag.MAGIC);
     }
 
     @Override

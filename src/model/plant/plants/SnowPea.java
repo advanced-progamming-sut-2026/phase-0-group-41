@@ -12,22 +12,20 @@ public class SnowPea extends Plant implements IShooter {
     private int shootInterval = 15;
     private int tickCounter = 0;
     private int currentSunCost = 150;
-    private int chillDuration = 5; // زمان پیش‌فرض کندی (ثانیه)
+    private int chillDuration = 50; // زمان پیش‌فرض کندی (ثانیه)
     private int level = 1;
 
     public SnowPea() {
-        super("snowpea", PlantType.SHOOTER, 150, 5, 300, PlantTag.DAY);
+        super("snowpea", PlantType.SHOOTER, 150, 50, 300, PlantTag.DAY);
     }
 
     @Override
     public void onTick(GameSession session) {
-        // === تغییرات اینجاست ===
         if (isFrozenSolid()) {
             handleIceMelting(session);
             return;
         }
         if (isTransformedToCat() || isOctopused()) return;
-        // =======================
 
         if (isFeedActive()) {
             shootIce(session);
@@ -44,7 +42,12 @@ public class SnowPea extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
-        // پرتابه‌های این گیاه باید پرچم isFrozenBullet = true داشته باشند تا Jester Zombie درست هندل کند
+        model.projectile.PeaProjectile snowPea = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, damage);
+        
+        snowPea.setIce(true);
+        snowPea.setChillDuration(this.chillDuration);
+
+        session.spawnProjectile(snowPea);
         System.out.println(getName() + " یک نخود برفی با دمیج " + damage + " و زمان کندی " + chillDuration + " ثانیه شلیک کرد.");
     }
 
@@ -60,12 +63,16 @@ public class SnowPea extends Plant implements IShooter {
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
         if (level >= 2) this.damage += 10;
-        if (level >= 3) this.chillDuration += 2; // زمان انجماد +2 ثانیه
+        if (level >= 3) this.chillDuration += 20; // زمان انجماد +2 ثانیه
         if (level >= 4) this.currentSunCost -= 25;
     }
 
     @Override
     public int getSunCost() {
         return currentSunCost;
+    }
+
+    public void setChillDuration(int chillDuration) {
+        this.chillDuration = chillDuration;
     }
 }

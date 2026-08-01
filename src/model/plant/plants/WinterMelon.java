@@ -16,7 +16,7 @@ public class WinterMelon extends Plant implements IShooter {
     private int level = 1;
 
     public WinterMelon() {
-        super("wintermelon", PlantType.LOBBER, 500, 5, 300, PlantTag.ICE, PlantTag.AOE);
+        super("wintermelon", PlantType.LOBBER, 500, 50, 300, PlantTag.ICE, PlantTag.AOE);
     }
 
     @Override

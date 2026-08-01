@@ -15,7 +15,7 @@ public class FirePeashooter extends Plant implements IShooter {
     private int level = 1;
 
     public FirePeashooter() {
-        super("firepeashooter", PlantType.SHOOTER, 175, 5, 300, PlantTag.FIRE, PlantTag.PEA);
+        super("firepeashooter", PlantType.SHOOTER, 175, 50, 300, PlantTag.FIRE, PlantTag.PEA);
     }
 
     @Override

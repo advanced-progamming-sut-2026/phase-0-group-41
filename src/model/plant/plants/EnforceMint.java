@@ -6,12 +6,12 @@ import model.plant.PlantType;
 import model.plant.interfaces.IExplosive;
 
 public class EnforceMint extends Plant implements IExplosive {
-    private int currentCooldown = 85;
+    private int currentCooldown = 850;
     private boolean hasTriggered = false;
     private int level = 1;
 
     public EnforceMint() {
-        super("enforcemint", PlantType.MELEE_ATTACKER, 0, 85, 0);
+        super("enforcemint", PlantType.MELEE_ATTACKER, 0, 850, 0);
     }
 
     @Override
@@ -44,7 +44,7 @@ public class EnforceMint extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 3) this.currentCooldown -= 5;
+        if (level >= 3) this.currentCooldown -= 50;
     }
     @Override
     public int getCooldownTicks() { return currentCooldown; }

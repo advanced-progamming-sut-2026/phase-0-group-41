@@ -7,6 +7,7 @@ import model.plant.plants.Torchwood;
 import model.zombie.Zombie;
 
 public class PeaProjectile extends Projectile {
+    private int chillDuration = 50; // زمان پیش‌فرض کندی (۵ ثانیه)   
 
     public PeaProjectile(int row, double startX, int damage) {
         super(row, startX, damage, 0.3); // سرعت حرکت ۰.۳ تایل بر تیک
@@ -62,7 +63,7 @@ public class PeaProjectile extends Projectile {
             target.takeDamage(damage, model.zombie.DamageType.NORMAL);
 
             if (this.isIce) {
-                target.applyChill(50); // ۵۰ تیک (۵ ثانیه) کندی
+                target.applyChill(this.chillDuration); // زمان کندی مورد نظر
             }
             // اگر تیر آتشین به زامبی یخی بخورد، یخش آب می‌شود
             if (this.isFire) {
@@ -71,5 +72,9 @@ public class PeaProjectile extends Projectile {
 
             isDead = true; // نابودی پرتابه پس از برخورد با اولین زامبی
         }
+    }
+
+    public void setChillDuration(int chillDuration) {
+        this.chillDuration = chillDuration;
     }
 }

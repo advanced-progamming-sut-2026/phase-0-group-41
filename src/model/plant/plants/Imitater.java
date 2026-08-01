@@ -18,13 +18,11 @@ public class Imitater extends Plant {
 
     @Override
     public void onTick(GameSession session) {
-        // === تغییرات اینجاست ===
         if (isFrozenSolid()) {
             handleIceMelting(session);
             return;
         }
         if (isTransformedToCat() || isOctopused()) return;
-        // =======================
 
         if (isFeedActive()) {
             System.out.println("Plant Food: اجرای قابلیت فود بر اساس گیاه کپی‌شده (" + copiedPlant.getName() + ")");
@@ -40,7 +38,7 @@ public class Imitater extends Plant {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 2);
+        if (level >= 2) this.currentCooldown = Math.max(0, this.currentCooldown - 20);
         if (level >= 3) {
             // کاهش هزینه یا تنظیمات مربوطه
         }

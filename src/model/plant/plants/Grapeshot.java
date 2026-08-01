@@ -9,13 +9,13 @@ public class Grapeshot extends Plant implements IExplosive {
 
     private int damage = 1800;
     private int currentSunCost = 150;
-    private int currentCooldown = 35;
+    private int currentCooldown = 350;
     private int bounceCount = 3;
     private boolean hasExploded = false;
     private int level = 1;
 
     public Grapeshot() {
-        super("grapeshot", PlantType.EXPLOSIVE, 150, 35, 0);
+        super("grapeshot", PlantType.EXPLOSIVE, 150, 350, 0);
     }
 
     @Override

@@ -15,7 +15,7 @@ public class SplitPea extends Plant implements IShooter {
     private int level = 1;
 
     public SplitPea() {
-        super("splitpea", PlantType.SHOOTER, 125, 5, 300, PlantTag.PEA);
+        super("splitpea", PlantType.SHOOTER, 125, 50, 300, PlantTag.PEA);
     }
 
     @Override

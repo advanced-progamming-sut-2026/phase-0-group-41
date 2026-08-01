@@ -11,11 +11,11 @@ public class ExplodeONut extends Plant implements IExplosive {
     private int explodeDamage = 1800;
     private int armorHP = 0;
     private int currentSunCost = 50;
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public ExplodeONut() {
-        super("explodeonut", PlantType.WALL_NUT, 50, 20, 4000, PlantTag.EXPLOSIVE);
+        super("explodeonut", PlantType.WALL_NUT, 50, 200, 4000, PlantTag.EXPLOSIVE);
     }
 
     @Override

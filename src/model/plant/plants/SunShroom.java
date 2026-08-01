@@ -8,7 +8,7 @@ import model.plant.interfaces.ISunProducer;
 
 public class SunShroom extends Plant implements ISunProducer {
 
-    private int productionInterval = 24;
+    private int productionInterval = 240;
     private int tickCounter = 0;
     private int ticksAlive = 0;
 
@@ -23,7 +23,7 @@ public class SunShroom extends Plant implements ISunProducer {
     private int readySunAmount = 0;
 
     public SunShroom() {
-        super("sunshroom", PlantType.SUN_PRODUCER, 25, 5, 300, PlantTag.NIGHT, PlantTag.SHROOM, PlantTag.WRAMP_UP);
+        super("sunshroom", PlantType.SUN_PRODUCER, 25, 50, 300, PlantTag.NIGHT, PlantTag.SHROOM, PlantTag.WRAMP_UP);
     }
 
     @Override
@@ -94,8 +94,8 @@ public class SunShroom extends Plant implements ISunProducer {
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
         if (level >= 2) {
-            this.timeToStage2 -= 5;
-            this.timeToStage3 -= 5;
+            this.timeToStage2 -= 50;
+            this.timeToStage3 -= 50;
         }
         if (level >= 3) {
             this.setMaxHealth(this.getMaxHealth() + 150);

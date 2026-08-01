@@ -11,12 +11,12 @@ public class WasabiWhip extends Plant implements IMeleeAttacker {
     private int damage = 40;
     private int actionInterval = 20; // 2 ثانیه
     private int tickCounter = 0;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int rangeBonus = 0;
     private int level = 1;
 
     public WasabiWhip() {
-        super("wasabiwhip", PlantType.MELEE_ATTACKER, 150, 5, 300, PlantTag.FIRE);
+        super("wasabiwhip", PlantType.MELEE_ATTACKER, 150, 50, 300, PlantTag.FIRE);
     }
 
     @Override

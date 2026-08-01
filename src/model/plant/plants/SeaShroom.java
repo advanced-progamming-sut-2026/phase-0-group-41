@@ -17,12 +17,12 @@ public class SeaShroom extends Plant implements IShooter {
     private int ageTicks = 0;
 
     private int rangeBonus = 0; // برد کوتاه پایه
-    private int currentCooldown = 15;
+    private int currentCooldown = 150;
     private int level = 1;
 
     public SeaShroom() {
         // هزینه صفر، زمان شارژ 15 ثانیه
-        super("seashroom", PlantType.SHOOTER, 0, 15, 300, PlantTag.SHROOM, PlantTag.WATER);
+        super("seashroom", PlantType.SHOOTER, 0, 150, 300, PlantTag.SHROOM, PlantTag.WATER);
     }
 
     @Override

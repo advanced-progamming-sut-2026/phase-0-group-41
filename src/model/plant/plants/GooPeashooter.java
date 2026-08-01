@@ -16,7 +16,7 @@ public class GooPeashooter extends Plant implements IShooter {
     private int level = 1;
 
     public GooPeashooter() {
-        super("goopeashooter", PlantType.SHOOTER, 125, 5, 300, PlantTag.POISON);
+        super("goopeashooter", PlantType.SHOOTER, 125, 50, 300, PlantTag.POISON);
     }
 
     @Override

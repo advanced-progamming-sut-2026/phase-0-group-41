@@ -9,12 +9,12 @@ import model.plant.interfaces.IExplosive;
 public class TangleKelp extends Plant implements IExplosive {
 
     private int currentSunCost = 25;
-    private int currentCooldown = 15;
+    private int currentCooldown = 150;
     private int targetLimit = 1;
     private int level = 1;
 
     public TangleKelp() {
-        super("tanglekelp", PlantType.EXPLOSIVE, 25, 15, 300, PlantTag.TRAP, PlantTag.WATER);
+        super("tanglekelp", PlantType.EXPLOSIVE, 25, 150, 300, PlantTag.TRAP, PlantTag.WATER);
     }
 
     @Override
@@ -43,7 +43,7 @@ public class TangleKelp extends Plant implements IExplosive {
 
     public void applyUpgradeLevel(int newLevel) {
         this.level = newLevel;
-        if (level >= 2) this.currentCooldown -= 5;
+        if (level >= 2) this.currentCooldown -= 50;
         if (level >= 3) this.targetLimit += 1;
         if (level >= 4) this.currentSunCost -= 25;
     }

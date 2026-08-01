@@ -11,11 +11,11 @@ public class Torchwood extends Plant {
     private boolean isBlueFlame = false;
     private boolean applyAoEOnDeath = false; // برای Lvl3
     private int currentSunCost = 175;
-    private int currentCooldown = 5;
+    private int currentCooldown = 50;
     private int level = 1;
 
     public Torchwood() {
-        super("torchwood", PlantType.MODIFIER, 175, 5, 300, PlantTag.FIRE);
+        super("torchwood", PlantType.MODIFIER, 175, 50, 300, PlantTag.FIRE);
     }
 
     @Override

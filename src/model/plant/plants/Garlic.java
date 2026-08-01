@@ -7,11 +7,11 @@ import model.plant.PlantType;
 
 public class Garlic extends Plant {
 
-    private int currentCooldown = 20;
+    private int currentCooldown = 200;
     private int level = 1;
 
     public Garlic() {
-        super("garlic", PlantType.WALL_NUT, 50, 20, 300, PlantTag.MOVE_ZOMBIES);
+        super("garlic", PlantType.WALL_NUT, 50, 200, 300, PlantTag.MOVE_ZOMBIES);
     }
 
     @Override
@@ -44,7 +44,7 @@ public class Garlic extends Plant {
             this.setMaxHealth(this.getMaxHealth() + 150);
             this.setHealth(this.getMaxHealth());
         }
-        if (level >= 3) this.currentCooldown -= 3;
+        if (level >= 3) this.currentCooldown -= 30;
         if (level >= 4) {
             this.setMaxHealth(this.getMaxHealth() + 250);
             this.setHealth(this.getMaxHealth());

@@ -14,7 +14,7 @@ public class Starfruit extends Plant implements IShooter {
     private int level = 1;
 
     public Starfruit() {
-        super("starfruit", PlantType.SHOOTER, 150, 5, 300);
+        super("starfruit", PlantType.SHOOTER, 150, 50, 300);
     }
 
     @Override
