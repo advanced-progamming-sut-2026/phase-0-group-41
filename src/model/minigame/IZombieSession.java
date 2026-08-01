@@ -30,6 +30,7 @@ public class IZombieSession extends MiniGameSession {
         super(user, 1);
         getSunManager().addSun(100); // 100 + 50 (پایه) = 150 خورشید طبق داک
         setupCardboardPlants();
+        setupSunProducerZombies();
     }
 
     private void setupCardboardPlants() {
@@ -114,5 +115,17 @@ public class IZombieSession extends MiniGameSession {
         List<String> copy = new ArrayList<>(recentEvents);
         recentEvents.clear();
         return copy;
+    }
+
+    private void setupSunProducerZombies() {
+        // در ابتدای مرحله در هر ردیف یکی از این زامبی‌ها وجود دارد
+        for (int r = 0; r < Board.ROWS; r++) {
+            model.zombie.zombies.IZombieSunProducer sunZombie = new model.zombie.zombies.IZombieSunProducer();
+            
+            // قرار دادن زامبی در انتهایی‌ترین ستون ممکن (ستون ۸)
+            sunZombie.spawn(r, Board.COLS - 1);
+            // اضافه کردن به لیست زامبی‌های زنده در GameSession
+            getAliveZombies().add(sunZombie);
+        }
     }
 }

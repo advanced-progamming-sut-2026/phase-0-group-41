@@ -8,12 +8,14 @@ import model.user.User;
 import model.wave.WaveManager;
 import model.zombie.Zombie;
 import model.zombie.ZombieFactory;
+import model.levelrules.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
+import java.util.Arrays;
 
 /**
  * یک جلسه‌ی در حال بازی: تخته، خورشیدها، موج‌ها و همه‌ی زامبی/گیاه‌های روی زمین.
@@ -31,6 +33,7 @@ public class GameSession {
     private final List<FallingSun> fallingSuns = new ArrayList<>();
     private final Map<String, Integer> plantCooldowns = new HashMap<>(); // نام گیاه -> تیک باقیمانده
     private final Random random = new Random();
+    private final ILevelRules levelRules;
 
     private long tickCount = 0;
     private int plantFoodCount = 0;
@@ -44,15 +47,48 @@ public class GameSession {
 
     public GameSession(User user, int totalWaves) {
         // پاس دادن کار به سازنده‌ی اصلی با فصل دیفالت
-        this(user, totalWaves, Season.NORMAL); 
+        this(user, totalWaves, Season.NORMAL, LevelMode.NORMAL); 
     }
     
-    public GameSession(User user, int totalWaves, Season season) {
+    public GameSession(User user, int totalWaves, Season season, LevelMode levelMode) {
         this.user = user;
         this.waveManager = new WaveManager(totalWaves, 50);
         int userDifficulty = user.getDifficultyLevel();
         this.sunManager = new SunManager(userDifficulty);
         this.currentSeason = season;
+
+        switch (levelMode) {
+            case DEAD_LINE:
+                this.levelRules = new DeadLineRules(2);
+                break;
+            case SAVE_OUR_SEEDS:
+                this.levelRules = new SaveOurSeedsRules();
+                break;
+            case CONVEYOR_BELT:
+                this.levelRules = new ConveyorBeltRules();
+                break;
+            case TIMED_WAR:
+                this.levelRules = new TimedWarRules(100);
+                break;
+            case NIGHT_OPS:
+                this.levelRules = new NightOpsRules();
+                break;
+            case LOVE_YOUR_PLANTS:
+                this.levelRules = new LoveYourPlantsRules(15);
+                break;
+            case PLANT_WHAT_YOU_GET:
+                this.levelRules = new PlantWhatYouGetRules();
+                break;
+            case LOCKED_PLANTS:
+                this.levelRules = new LockedPlantsRules(Arrays.asList("peashooter", "sunflower", "wallnut", "potatomine"));
+                break;
+            case NORMAL:
+            default:
+                this.levelRules = new NormalLevelRules();
+                break;
+        }
+
+        this.levelRules.setupLevel(this);
     }
 
     public long getTickCount() {
@@ -130,6 +166,8 @@ public class GameSession {
         }
         tickCount++;
 
+        levelRules.applySpecialTickRules(this);
+
         // کاهش کول‌داون‌های گیاهان
         for (String key : new ArrayList<>(plantCooldowns.keySet())) {
             int remaining = plantCooldowns.get(key) - 1;
@@ -152,6 +190,10 @@ public class GameSession {
 
                     if (plant.isDead()) {
                         tile.setPlant(null); // کاشی دوباره خالی و قابل کشت می‌شود
+
+                        if(this instanceof model.minigame.BeghouledSession) {
+                            tile.setTerrainType(model.game.TerrainType.CRATER); // در Beghouled، کاشی به گودال تبدیل می‌شود                    
+                        }
                     }
                 }
             }
@@ -161,6 +203,22 @@ public class GameSession {
         List<Zombie> deadZombies = new ArrayList<>();
         for (Zombie zombie : aliveZombies) {
             zombie.onTick(this);
+
+            int currentCol = (int) Math.floor(zombie.getXPosition());
+            Tile tileUnderZombie = board.getTile(zombie.getRow(), Math.max(0, currentCol));
+
+            if (tileUnderZombie != null && tileUnderZombie.getTerrainType() == TerrainType.ICE_SLIPPERY) {
+                Tile.SliderDirection dir = tileUnderZombie.getSliderDirection();
+                // لیز خوردن به بالا
+                if (dir == Tile.SliderDirection.UP && zombie.getRow() > 0) {
+                    zombie.spawn(zombie.getRow() - 1, zombie.getXPosition()); 
+                } 
+                // لیز خوردن به پایین
+                else if (dir == Tile.SliderDirection.DOWN && zombie.getRow() < Board.ROWS - 1) {
+                    zombie.spawn(zombie.getRow() + 1, zombie.getXPosition()); 
+                }
+            }
+            
             if (zombie.isDead()) {
                 deadZombies.add(zombie);
             }
@@ -170,7 +228,7 @@ public class GameSession {
             System.out.println("Zombie of type " + z.getTypeName() + " is dead at (" + (int) z.getXPosition() + ", " + z.getRow() + ")");
             if (user.getQuestManager() != null) {
                 // ۱. ثبت کیل عادی برای کوئست‌ها
-                user.getQuestManager().recordZombieKill(user.getQuestContext());
+                user.getQuestManager().recordZombieKill(user.getQuestContext(), 0, null);
             }
 
             // ۲. محاسبه زمان زنده بودن زامبی بر حسب میلی‌ثانیه
@@ -262,6 +320,28 @@ public class GameSession {
         else if (currentSeason == Season.DARK_AGES) {
             // در عصر تاریکی ممکنه اول هر موج قبر جدید ظاهر بشه
             spawnRandomGraves(2);
+
+            for (int r = 0; r < Board.ROWS; r++) {
+                for (int c = 0; c < Board.COLS; c++) {
+                    Tile tile = board.getTile(r, c);
+                    
+                    // اگر تایل خاصیت نکرومنسی دارد و روی آن قبر وجود دارد
+                    if (tile.isNecromancyTile() && tile.hasGrave()) {
+                        
+                        // تولید یک زامبی پایه (Basic) بر اساس درجه سختی کاربر
+                        Zombie necromancyZombie = ZombieFactory.randomBasicZombie(user.getDifficultyLevel());
+                        
+                        // قرار دادن زامبی دقیقاً در همان مختصات قبر
+                        necromancyZombie.spawn(r, c);
+                        necromancyZombie.setSpawnTick((int) this.tickCount);
+                        
+                        // اضافه کردن زامبی به لیست زامبی‌های زنده در صفحه
+                        aliveZombies.add(necromancyZombie);
+                        
+                        System.out.println("نکرومنسی! یک زامبی از زیر قبر در مختصات (" + c + ", " + r + ") بیرون آمد!");
+                    }
+                }
+            }
         }
         // ==========================================================
 
@@ -283,7 +363,8 @@ public class GameSession {
 
             int spawnCol = Board.COLS - 1;
             // اگر گردباد فعال باشد، زامبی ۱ تا ۴ ستون جلوتر می‌آید
-            if (isTornadoWave) {
+            //داکیومنت گفته ممکن است. پس ما یک احتمال 40 درصدی هم قائل شدیم
+            if (isTornadoWave && random.nextDouble() < 0.4) {
                 spawnCol -= (1 + random.nextInt(4));
             }
 
@@ -315,6 +396,13 @@ public class GameSession {
     }
 
     private void checkGameOverConditions() {
+        if (!levelRules.checkCustomLossConditions(this)) {
+            System.out.println("شما در این مرحله ویژه باختید؛ LOSER!!!");
+            gameOver = true;
+            won = false;
+            return;
+        }
+
         // اگر زامبی به انتهای ردیف برسد (x <= 0) و ماشین چمن‌زنی فعال نشود، بازی باخته می‌شود
         List<Zombie> reachedEnd = new ArrayList<>();
         for (Zombie z : aliveZombies) {
@@ -364,23 +452,16 @@ public class GameSession {
         }
     }
 
-    // =========================================================================
-    // === بخش فصلی: متدهای کمکی برای اعمال ویژگی‌های فصل‌ها (در انتهای کلاس) ===
-    // =========================================================================
-
     private void applyTideLevel() {
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 0; c < Board.COLS; c++) {
                 Tile tile = board.getTile(r, c);
                 boolean isWater = (c >= waterStartColumn);
-
-                // توجه: متد setWater را باید در کلاس Tile بسازید
-                // tile.setWater(isWater);
+                tile.setWater(isWater);
 
                 Plant p = tile.getPlant();
-                // فرض بر این است که متد hasTag و تگ AQUATIC در کلاس Plant شما پیاده‌سازی شده باشد
-                // اگر نشده است، می‌توانید فعلاً فقط از بررسی نام lilypad استفاده کنید
-                if (isWater && p != null && !p.getName().toLowerCase().equals("lilypad")) {
+
+                if (isWater && p != null && !p.getName().toLowerCase().equals("lilypad") && !p.hasTag(model.plant.PlantTag.WATER)) {
                     p.takeDamage(9999);
                     System.out.println(p.getName() + " drowned!");
                 }
@@ -408,13 +489,14 @@ public class GameSession {
             int c = random.nextInt(Board.COLS);
             Tile t = board.getTile(r, c);
 
-            // توجه: باید کلاس Grave را بسازید و متدهای hasGrave و setGrave را به Tile اضافه کنید
-            /*
-            if (t.isEmpty() && !t.hasGrave()) {
-                t.setGrave(new Grave(random.nextBoolean(), false));
+            if (t.isEmpty() && t.getTerrainType() == TerrainType.NORMAL) {
+                boolean hasSun = random.nextBoolean();
+                boolean hasFood = !hasSun && random.nextBoolean(); // اگر خورشید نبود، ممکنه غذا باشه
+
+                t.setTerrainType(TerrainType.GRAVE);
+                t.setGrave(new Grave(hasSun, hasFood));
                 System.out.println("A new grave spawned at (" + c + ", " + r + ")");
             }
-            */
         }
     }
 }

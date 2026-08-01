@@ -42,9 +42,11 @@ public class BeghouledSession extends MiniGameSession {
         Board board = getBoard();
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 0; c < Board.COLS; c++) {
-                if (board.getTile(r, c).isEmpty()) {
+                Tile tile = board.getTile(r, c);
+
+                if (tile.isEmpty()&& tile.getTerrainType() != model.game.TerrainType.CRATER) {
                     String randomPlant = activePlantPool[random.nextInt(activePlantPool.length)];
-                    board.getTile(r, c).setPlant(PlantFactory.create(randomPlant));
+                    tile.setPlant(model.plant.PlantFactory.create(randomPlant));
                 }
             }
         }
@@ -162,12 +164,15 @@ public class BeghouledSession extends MiniGameSession {
         Board board = getBoard();
         for (int c = 0; c < Board.COLS; c++) {
             for (int r = Board.ROWS - 1; r >= 0; r--) {
-                if (board.getTile(r, c).isEmpty()) {
+                Tile currentTile = board.getTile(r, c);
+
+                if (currentTile.isEmpty() && currentTile.getTerrainType() != model.game.TerrainType.CRATER) {
                     // گشتن به دنبال اولین گیاه در بالای این خانه برای سقوط
                     for (int k = r - 1; k >= 0; k--) {
-                        if (!board.getTile(k, c).isEmpty()) {
-                            board.getTile(r, c).setPlant(board.getTile(k, c).getPlant());
-                            board.getTile(k, c).setPlant(null);
+                        Tile upperTile = board.getTile(k, c);
+                        if (!upperTile.isEmpty()) {
+                            currentTile.setPlant(upperTile.getPlant());
+                            upperTile.setPlant(null);
                             break;
                         }
                     }
