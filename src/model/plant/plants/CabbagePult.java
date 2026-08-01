@@ -40,6 +40,8 @@ public class CabbagePult extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        model.projectile.LobbedProjectile cabbage = new model.projectile.LobbedProjectile(getRow(), getCol() + 0.5, damage, 0 , 0.3);
+        session.spawnProjectile(cabbage);
         System.out.println(getName() + " کلم پرتاب کرد! (دمیج: " + damage + ")");
     }
 

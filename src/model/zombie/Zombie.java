@@ -8,7 +8,8 @@ public abstract class Zombie {
     private int waveCost;
     private int maxHealth;
     private int spawnTick = 0;
-    private double baseSpeed; // خانه بر ثانیه
+    private final double baseSpeed; // خانه بر ثانیه
+    private double currentSpeed; 
     private int damagePerTick;
     private int chilledTicks = 0;
     private int frozenTicks = 0;
@@ -20,6 +21,9 @@ public abstract class Zombie {
     private boolean isHypnotized = false; // متغیر برای بررسی وضعیت هیپنوتیزم
     // === متغیرها و متدهای مربوط به ارتقای شوالیه در کلاس Zombie یا NormalZombie ===
     private boolean isKnight = false;
+
+    protected int chillTicks = 0;
+    protected int originalSpeed;
 
     // === متغیرهای اضافه شده برای مکانیزم "غذای گیاه" ===
     private boolean carriesPlantFood = false;
@@ -71,6 +75,7 @@ public abstract class Zombie {
     }
     public void applyChilled(int seconds) {
         this.chilledTicks = seconds * 10; // هر ثانیه ۱۰ تیک است
+        this.currentSpeed = this.baseSpeed / 2.0; // سرعت حرکت زامبی نصف می‌شود
     }
     public void applyFrozen(int seconds) {
         this.frozenTicks = seconds * 10;
@@ -81,6 +86,16 @@ public abstract class Zombie {
         return this.health;
     }
 
+    public void applyChill(int durationTicks) {
+        this.chillTicks = durationTicks;
+        this.currentSpeed = this.baseSpeed / 2.0; // سرعت حرکت زامبی نصف می‌شود
+    }
+
+    public void removeChill() {
+        this.chillTicks = 0;
+        this.currentSpeed = this.baseSpeed; // سرعت به حالت عادی برمی‌گردد
+    }
+
     protected Zombie(String typeName, int health, double baseSpeed, int waveCost, int damagePerTick) {
         this.typeName = typeName;
         this.health = health;
@@ -88,6 +103,7 @@ public abstract class Zombie {
         this.waveCost = waveCost;
         this.damagePerTick = damagePerTick;
         this.maxHealth = health;
+        this.currentSpeed = baseSpeed;
     }
 
 
@@ -99,6 +115,15 @@ public abstract class Zombie {
 
     public abstract void onTick(GameSession session);
 
+    public void updateStatusEffects() {
+        if (frozenTicks > 0) frozenTicks--;
+        
+        if (chilledTicks > 0) {
+            chilledTicks--;
+            if (chilledTicks <= 0) removeChill();
+        }
+    }
+    
     public void takeDamage(int amount) {
         health -= amount;
         if (health <= 0) {
@@ -120,7 +145,8 @@ public abstract class Zombie {
     }
 
     public double getSpeed() {
-        return baseSpeed;
+        if (frozenTicks > 0) return 0.0;
+        return currentSpeed;
     }
 
     public int getWaveCost() {
@@ -164,5 +190,9 @@ public abstract class Zombie {
 
         // هزینه موج زامبی‌ها کاهش می‌یابد
         this.waveCost = (int) (this.waveCost * decreaseMultiplier);
+    }
+
+    public void takeDamage(int amount, DamageType type) {
+        takeDamage(amount); // در حالت پیش‌فرض همان دمیج عادی اعمال می‌شود
     }
 }

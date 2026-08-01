@@ -44,6 +44,10 @@ public class FumeShroom extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        double range = getCol() + 4.5 + rangeBonus; // فرض بر اینکه برد پیش‌فرض 4.5 است
+
+        model.projectile.StrikeThroughProjectile fume = new model.projectile.StrikeThroughProjectile(getRow(), getCol() + 0.5, damage, 0.4, 999, range);
+        session.spawnProjectile(fume);
         System.out.println(getName() + " دود متوسط (برد + " + rangeBonus + ") پرتاب کرد. (از زامبی‌ها رد می‌شود)");
     }
 

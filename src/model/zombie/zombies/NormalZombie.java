@@ -35,7 +35,7 @@ public class NormalZombie extends Zombie {
             }
         } else {
             setEating(false);
-            setXPosition(getXPosition() - SPEED_PER_TICK);
+            setXPosition(getXPosition() - getSpeed());
         }
     }
 }

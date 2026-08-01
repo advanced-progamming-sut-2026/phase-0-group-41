@@ -34,6 +34,7 @@ public class GameSession {
     private final Map<String, Integer> plantCooldowns = new HashMap<>(); // نام گیاه -> تیک باقیمانده
     private final Random random = new Random();
     private final ILevelRules levelRules;
+    private final List<model.projectile.Projectile> activeProjectiles = new ArrayList<>();
 
     private long tickCount = 0;
     private int plantFoodCount = 0;
@@ -89,6 +90,14 @@ public class GameSession {
         }
 
         this.levelRules.setupLevel(this);
+    }
+
+    public void spawnProjectile(model.projectile.Projectile p) {
+        activeProjectiles.add(p);
+    }
+
+    public List<model.projectile.Projectile> getActiveProjectiles() {
+        return activeProjectiles;
     }
 
     public long getTickCount() {
@@ -198,6 +207,16 @@ public class GameSession {
                 }
             }
         }
+
+        // تیک پرتابه‌ها
+        List<model.projectile.Projectile> deadProjectiles = new ArrayList<>();
+        for (model.projectile.Projectile p : activeProjectiles) {
+            p.onTick(this);
+            if (p.isDead()) {
+                deadProjectiles.add(p);
+            }
+        }
+        activeProjectiles.removeAll(deadProjectiles);
 
         // حرکت / حمله زامبی‌ها
         List<Zombie> deadZombies = new ArrayList<>();

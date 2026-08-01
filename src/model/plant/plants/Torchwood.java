@@ -4,6 +4,7 @@ import model.game.GameSession;
 import model.plant.Plant;
 import model.plant.PlantTag;
 import model.plant.PlantType;
+import model.projectile.Projectile;
 
 public class Torchwood extends Plant {
 
@@ -40,13 +41,20 @@ public class Torchwood extends Plant {
     }
 
     // پرتابه پژشوتورها وقتی از این تایل رد می‌شوند این متد را می‌خوانند
-    public void modifyProjectile(/* Projectile p */) {
-        if (isBlueFlame) {
-            // p.setDamage(p.getDamage() * 3);
-            // p.setFlameType("BLUE");
-        } else {
-            // p.setDamage(p.getDamage() * 2);
-            // p.setFlameType("NORMAL");
+    public void modifyProjectile(Projectile p) {
+        if(p instanceof model.projectile.PeaProjectile) {
+            if (!p.isFire()) {
+                if(isBlueFlame) {
+                    p.setDamage(p.getDamage() * 3);
+                }
+                else {
+                    p.setDamage(p.getDamage() * 2);
+                }
+
+                p.setFire(true);
+                p.setIce(false); // اگر پرتابه یخی بود، دیگر یخ نخواهد بود
+                System.out.println("پرتابه از روی Torchwood گذشت و آتشین/تقویت شد!");
+            }
         }
     }
 

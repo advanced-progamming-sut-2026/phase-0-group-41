@@ -45,6 +45,9 @@ public class WinterMelon extends Plant implements IShooter {
     @Override
     public void shoot(GameSession session) {
         int totalAoe = (damage / 2) + aoeDamageBonus; // فرض بر اینکه دمیج مساحتی نصف دمیج اصلی است
+        model.projectile.LobbedProjectile winterMelon = new model.projectile.LobbedProjectile(getRow(), getCol() + 0.5, damage, totalAoe, 0.3);
+        winterMelon.setIce(true); // هندوانه یخی است
+        session.spawnProjectile(winterMelon);
         System.out.println(getName() + " هندوانه یخی پرتاب کرد! (دمیج: " + damage + " | اسپلش دمیج: " + totalAoe + " + کندکننده)");
     }
 

@@ -45,8 +45,8 @@ public class Peashooter extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
-        // اینجا باید متد اسپاون پرتابه موتور بازی خود را صدا بزنید
-        // مثال: session.spawnProjectile(new Pea(getRow(), getCol(), damage));
+        model.projectile.PeaProjectile pea = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, damage);
+        session.spawnProjectile(pea);
         System.out.println(getName() + " یک نخود با دمیج " + damage + " شلیک کرد.");
     }
 

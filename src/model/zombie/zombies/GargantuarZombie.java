@@ -70,6 +70,6 @@ public class GargantuarZombie extends Zombie {
     // متد کوچک ۳: حرکت
     private void move() {
         setEating(false);
-        setXPosition(getXPosition() - SPEED);
+        setXPosition(getXPosition() - getSpeed());
     }
 }

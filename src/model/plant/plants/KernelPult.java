@@ -43,11 +43,15 @@ public class KernelPult extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
-        if (Math.random() < butterChance) {
-            System.out.println(getName() + " کَره پرتاب کرد! (دمیج " + damageButter + " + توقف زامبی)");
-        } else {
-            System.out.println(getName() + " دانه ذرت پرتاب کرد. (دمیج " + damageCorn + ")");
+        boolean isButter = Math.random() < butterChance;
+        int currentDamage = isButter ? damageButter : damageCorn;
+
+        model.projectile.LobbedProjectile projectile = new model.projectile.LobbedProjectile(getRow(), getCol() + 0.5, currentDamage, 0, 0.3);
+        if (isButter) {
+            projectile.setButter(true); // فرض بر اینکه پرتابه کره‌ای است
         }
+        session.spawnProjectile(projectile);
+        System.out.println(getName() + " یک " + (isButter ? "کره" : "ذرت") + " با دمیج " + currentDamage + " پرتاب کرد.");
     }
 
     public void applyUpgradeLevel(int newLevel) {

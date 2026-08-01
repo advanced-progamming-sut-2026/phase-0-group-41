@@ -1,5 +1,6 @@
 package model.plant.plants;
 
+import model.game.Board;
 import model.game.GameSession;
 import model.plant.Plant;
 import model.plant.PlantType;
@@ -43,6 +44,9 @@ public class Cactus extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        // ساخت پرتابه نفوذکننده با برد بی‌نهایت (COLS + 1)
+        model.projectile.StrikeThroughProjectile cactusSpike = new model.projectile.StrikeThroughProjectile(getRow(), getCol() + 0.5, damage,0.5, pierceCount, Board.COLS + 1);
+        session.spawnProjectile(cactusSpike);
         System.out.println(getName() + " خار با دمیج " + damage + " و نفوذ در " + pierceCount + " زامبی شلیک کرد.");
     }
 

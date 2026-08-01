@@ -3,6 +3,7 @@ package model.zombie.zombies;
 import model.game.GameSession;
 import model.game.Tile;
 import model.plant.Plant;
+import model.zombie.DamageType;
 import model.zombie.Zombie;
 
 public class ImpDragonZombie extends Zombie {
@@ -37,21 +38,16 @@ public class ImpDragonZombie extends Zombie {
     }
 
     /**
-     * 🌟 متد اختصاصی دریافت دمیج برای بررسی نوع حمله آتشین
+     * متد اختصاصی دریافت دمیج برای بررسی نوع حمله آتشین
      *
      * @param damage مقدار آسیب
      * @param isFireDamage آیا این آسیب از نوع آتشین است؟ (مثل تیرهای Peashooter که از Torchwood رد شده‌اند)
      */
-    public void takeDamage(int damage, boolean isFireDamage) {
-        if (isDead()) return;
-
-        // طبق داکیومنت: تیرهای آتشین رویش تاثیری ندارند
-        if (isFireDamage) {
+    public void takeDamage(int amount, DamageType type) {
+        if (type == DamageType.FIRE) {
             return; // دمیج کاملاً خنثی می‌شود و هیچ اتفاقی نمی‌افتد
         }
-
-        // در غیر این صورت، آسیب عادی به کلاس پدر فرستاده می‌شود
-        super.takeDamage(damage);
+        super.takeDamage(amount);
     }
 
     private Tile getCurrentTile(GameSession session) {

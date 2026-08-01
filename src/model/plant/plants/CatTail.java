@@ -5,6 +5,7 @@ import model.plant.Plant;
 import model.plant.PlantTag;
 import model.plant.PlantType;
 import model.plant.interfaces.IShooter;
+import model.zombie.Zombie;
 
 public class CatTail extends Plant implements IShooter {
 
@@ -44,7 +45,21 @@ public class CatTail extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
-        System.out.println(getName() + " تیر هدف‌دار (Homing) به سمت نزدیک‌ترین زامبی شلیک کرد! (دمیج: " + damage + ")");
+        Zombie bestTarget = null;
+        double closestDistance = Double.MAX_VALUE;
+
+        for (Zombie zombie : session.getAliveZombies()) {
+            if (!zombie.isDead() && zombie.getXPosition() < closestDistance) {
+                closestDistance = zombie.getXPosition();
+                bestTarget = zombie;
+            }
+        }
+
+        if(bestTarget != null) {
+            model.projectile.HomingProjectile homingProjectile = new model.projectile.HomingProjectile(getRow(), getCol() + 0.5, damage, 0.4, bestTarget);
+            session.spawnProjectile(homingProjectile);
+            System.out.println(getName() + " تیر هدف‌دار (Homing) به سمت نزدیک‌ترین زامبی شلیک کرد! (دمیج: " + damage + ")");
+        }
     }
 
     public void applyUpgradeLevel(int newLevel) {
