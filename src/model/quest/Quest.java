@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
-
+import java.io.Serializable;
 /**
  * یک کوئست کامل: شناسه، عنوان، توضیح، اولویت/دسته‌بندی، صفحه نمایش در travel-log،
  * شرط تکمیل، لیست پاداش‌ها و وضعیت فعلی (تکرارپذیر بودن برای کوئست‌های روزانه).
  */
-public class Quest {
-
+public class Quest implements Serializable{
+    private static final long serialVersionUID=1L;
     private final String id;
     private final String title;
     private final String description;

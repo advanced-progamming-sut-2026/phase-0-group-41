@@ -63,10 +63,9 @@ public class MenuController {
         }
 
         // ۳. دستور ورود به منوی جدید
-        if (t.size() >= 3 && t.get(0).equals("menu") && t.get(1).equals("enter")) {
+        if (t.size() >= 3 && t.get(0).equals("menu") && t.get(1).equals("enter")
+                && !t.get(2).equals("chapter") && !t.get(2).equals("collection")) {
             String targetMenuName = t.get(2).toUpperCase().replace("-", "_");
-            // اگر در کدهای قدیمی از GAME استفاده شده، آن را به PLAY تبدیل می‌کنیم تا یکپارچه شود
-            if (targetMenuName.equals("GAME")) targetMenuName = "PLAY";
             return handleMenuEnter(targetMenuName);
         }
 

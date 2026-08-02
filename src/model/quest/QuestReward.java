@@ -1,12 +1,12 @@
 package model.quest;
 
 import java.util.Objects;
-
+import java.io.Serializable;
 /**این کلاس مربوط به پاداش های یک کوئست است که یا جم است یا کوین
  * براساس نوع هر کوئست هم جک و کوین را جدا محاسبه و کار مربوطه را انجام می دهد
  * در اینجا کوین و جم پروفایل نیز تغییر می کند
  */
-public class QuestReward {
+public class QuestReward implements Serializable{
 
     public enum CurrencyType { COIN, GEM }
 

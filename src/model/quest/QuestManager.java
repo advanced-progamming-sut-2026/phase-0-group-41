@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 import java.util.stream.Collectors;
-
+import java.io.Serializable;
 /**
  * مدیریت کل کوئست‌های بازی: نگهداری لیست، مرتب‌سازی بر اساس اولویت،
  * بررسی تکمیل‌شدن و دسته‌بندی بر اساس صفحه travel-log.
@@ -16,8 +16,9 @@ import java.util.stream.Collectors;
  * CRITICAL بالاترین اولویت (همیشه صدر لیست)، سپس HIGH (چالش‌های Epic)،
  * و در نهایت DAILY/NORMAL با اولویت پایین‌تر.
  */
-public class QuestManager {
+public class QuestManager implements Serializable {
 
+    private static final long serialVersionUID=1L;
     private  List<Quest> quests = new ArrayList<>();
 
     public QuestManager(List<Quest> quests) {
