@@ -35,7 +35,12 @@ public class CherryBomb extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " انفجار فوری در مساحت ۳x۳ با دمیج " + damage + " انجام داد!");
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && Math.abs(z.getRow() - getRow()) <= 1 && Math.abs(z.getXPosition() - getCol()) <= 1.5) {
+                z.takeDamage(damage, model.zombie.DamageType.NORMAL);
+            }
+        }
+        System.out.println(getName() + " منفجر شد!");
         this.takeDamage(9999);
     }
 

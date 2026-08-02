@@ -36,7 +36,20 @@ public class Jalapeno extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " آتش زدن کل زامبی‌های یک لاین به صورت آنی (ذوب یخ)! دمیج: " + damage);
+        // ۱. سوزاندن تمام زامبی‌های لاین خودش
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && z.getRow() == getRow()) {
+                z.takeDamage(damage, model.zombie.DamageType.FIRE);
+                z.removeChill(); // ذوب کردن یخ زامبی
+            }
+        }
+        // ۲. آب کردن قالب‌های یخی احتمالی در همان لاین (غارهای یخی)
+        for (int c = 0; c < model.game.Board.COLS; c++) {
+            model.game.Tile t = session.getBoard().getTile(getRow(), c);
+            if (t != null) t.removeIceBlock();
+        }
+        
+        System.out.println(getName() + " کل لاین را به آتش کشید!");
         this.takeDamage(9999);
     }
 

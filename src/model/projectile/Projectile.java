@@ -33,6 +33,8 @@ public abstract class Projectile {
 
     public boolean isIce() { return isIce; }
     public void setIce(boolean ice) { isIce = ice; }
+
+    public void setSpeed(double speed){this.speed = speed;}
     
     // هر پرتابه منطق حرکت و برخورد خودش را اینجا پیاده می‌کند
     public abstract void onTick(GameSession session);

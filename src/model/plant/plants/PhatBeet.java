@@ -43,7 +43,15 @@ public class PhatBeet extends Plant implements IMeleeAttacker {
 
     @Override
     public void attackMelee(GameSession session) {
-        System.out.println(getName() + " ضربه صوتی به مساحت ۳x۳ اطراف وارد کرد! (دمیج: " + damage + ")");
+        boolean hit = false;
+        // اسکن تمام زامبی‌های بازی برای پیدا کردن آن‌هایی که در شعاع ۳x۳ هستند
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && Math.abs(z.getRow() - getRow()) <= 1 && Math.abs(z.getXPosition() - getCol()) <= 1.5) {
+                z.takeDamage(damage, model.zombie.DamageType.NORMAL);
+                hit = true;
+            }
+        }
+        if (hit) System.out.println(getName() + " ضربه صوتی مساحتی وارد کرد! (دمیج: " + damage + ")");
     }
 
     public void applyUpgradeLevel(int newLevel) {

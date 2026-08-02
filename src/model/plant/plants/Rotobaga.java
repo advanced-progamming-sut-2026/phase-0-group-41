@@ -48,8 +48,19 @@ public class Rotobaga extends Plant implements IShooter {
     }
 
     private void shootDiagonal(GameSession session, boolean isRapid) {
-        int totalDamage = isRapid ? (damagePerShot * shotsPerCorner * 5) : (damagePerShot * shotsPerCorner);
-        System.out.println(getName() + " در ۴ جهت اریب با دمیج کل " + totalDamage + " شلیک کرد.");
+        double c = getCol() + 0.5;
+        int multiplier = isRapid ? 5 : 1; // در حالت Plant Food شلیک بسیار سنگین‌تر است
+        
+        for (int i = 0; i < shotsPerCorner * multiplier; i++) {
+            // بالا-راست
+            session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damagePerShot, 0.3, -0.3));
+            // پایین-راست
+            session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damagePerShot, 0.3, 0.3));
+            // بالا-چپ
+            session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damagePerShot, -0.3, -0.3));
+            // پایین-چپ
+            session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damagePerShot, -0.3, 0.3));
+        }
     }
 
     @Override

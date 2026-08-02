@@ -53,6 +53,8 @@ public class PeaPod extends Plant implements IShooter {
     @Override
     public void shoot(GameSession session) {
         int totalDamage = heads * damagePerPea;
+        model.projectile.PeaProjectile pea = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, totalDamage);
+        session.spawnProjectile(pea);
         System.out.println(getName() + " تعداد " + heads + " نخود با مجموع دمیج " + totalDamage + " شلیک کرد.");
     }
 

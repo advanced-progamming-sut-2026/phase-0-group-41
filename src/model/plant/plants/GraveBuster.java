@@ -34,7 +34,11 @@ public class GraveBuster extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " قبر موجود روی تایل را به طور کامل از بین برد (Insta-kill قبر).");
+        model.game.Tile tile = session.getBoard().getTile(getRow(), getCol());
+        if (tile != null && tile.hasGrave()) {
+            tile.damageGrave(9999); // نابودی کامل قبر
+            System.out.println(getName() + " قبر را با موفقیت جوید و از بین برد.");
+        }
         this.takeDamage(9999);
     }
 

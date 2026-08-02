@@ -43,6 +43,9 @@ public class PepperPult extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        model.projectile.LobbedProjectile pepper = new model.projectile.LobbedProjectile(getRow(), getCol() + 0.5, damage, warmthRadius, 0.3);
+        pepper.setFire(true);
+        session.spawnProjectile(pepper);
         System.out.println(getName() + " فلفل پرتاب کرد! (دمیج: " + damage + " | گرم‌کننده شعاع " + warmthRadius + ")");
     }
 

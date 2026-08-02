@@ -36,8 +36,12 @@ public class Grapeshot extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " منفجر شد! (مساحت ۳x۳، دمیج: " + damage + ")");
-        System.out.println("پرتاب حبه‌های کمانه‌کننده (تعداد کمانه: " + bounceCount + ") که پس از ۵ ثانیه نابود می‌شوند.");
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && Math.abs(z.getRow() - getRow()) <= 1 && Math.abs(z.getXPosition() - getCol()) <= 1.5) {
+                z.takeDamage(damage, model.zombie.DamageType.NORMAL);
+            }
+        }
+        System.out.println(getName() + " منفجر شد!");
         this.takeDamage(9999);
     }
 

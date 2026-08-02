@@ -65,7 +65,15 @@ public class Kiwibeast extends Plant implements IMeleeAttacker {
 
     @Override
     public void attackMelee(GameSession session) {
-        System.out.println(getName() + " موج صوتی مساحتی ایجاد کرد! (دمیج: " + currentDamage + " | استیج: " + stage + ")");
+        boolean hit = false;
+        // اسکن تمام زامبی‌های بازی برای پیدا کردن آن‌هایی که در شعاع ۳x۳ هستند
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && Math.abs(z.getRow() - getRow()) <= 1 && Math.abs(z.getXPosition() - getCol()) <= 1.5) {
+                z.takeDamage(currentDamage, model.zombie.DamageType.NORMAL);
+                hit = true;
+            }
+        }
+        if (hit) System.out.println(getName() + " ضربه صوتی مساحتی وارد کرد! (دمیج: " + currentDamage + ")");
     }
 
     public void applyUpgradeLevel(int newLevel) {

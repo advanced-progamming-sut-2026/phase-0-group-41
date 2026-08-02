@@ -44,6 +44,8 @@ public class MelonPult extends Plant implements IShooter {
     @Override
     public void shoot(GameSession session) {
         int totalAoe = (damage / 2) + aoeDamageBonus;
+        model.projectile.LobbedProjectile melon = new model.projectile.LobbedProjectile(getRow(), getCol() + 0.5, damage, totalAoe, 0.3);
+        session.spawnProjectile(melon);
         System.out.println(getName() + " هندوانه سنگین پرتاب کرد! (دمیج: " + damage + " | اسپلش: " + totalAoe + ")");
     }
 

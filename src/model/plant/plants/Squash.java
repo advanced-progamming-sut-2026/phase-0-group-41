@@ -41,10 +41,22 @@ public class Squash extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         if (crushesDone < crushLimit) {
-            System.out.println(getName() + " روی زامبی پرید و له کرد! (دمیج: " + damage + ")");
-            crushesDone++;
-            if (crushesDone >= crushLimit) {
-                this.takeDamage(9999);
+            model.zombie.Zombie target = null;
+            // پیدا کردن زامبی که دقیقا در نیم خانه‌ایِ کدو تنبل است
+            for (model.zombie.Zombie z : session.getAliveZombies()) {
+                if (!z.isDead() && z.getRow() == getRow() && Math.abs(z.getXPosition() - getCol()) <= 0.8) {
+                    target = z;
+                    break;
+                }
+            }
+
+            if (target != null) {
+                target.takeDamage(damage, model.zombie.DamageType.NORMAL);
+                System.out.println(getName() + " روی " + target.getTypeName() + " پرید و او را له کرد!");
+                crushesDone++;
+                if (crushesDone >= crushLimit) {
+                    this.takeDamage(9999);
+                }
             }
         }
     }

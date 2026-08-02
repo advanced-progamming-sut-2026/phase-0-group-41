@@ -43,16 +43,23 @@ public class BonkChoy extends Plant implements IMeleeAttacker {
 
     @Override
     public void attackMelee(GameSession session) {
-        System.out.println(getName() + " ضربه فیزیکی به خانه‌های جلو و عقب زد! (دمیج: " + damage + ")");
-    }
+        model.zombie.Zombie target = null;
+        double closestDist = 1.5; // برد مشت زدن (یک و نیم خانه)
 
-    public void applyUpgradeLevel(int newLevel) {
-        this.level = newLevel;
-        if (level >= 2) this.damage += 5;
-        if (level >= 3) this.actionInterval *= 0.9;
-        if (level >= 4) {
-            this.setMaxHealth(this.getMaxHealth() + 200);
-            this.setHealth(this.getMaxHealth());
+        // پیدا کردن نزدیک‌ترین زامبی در ردیف خودش (جلو یا عقب)
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (z.getRow() == getRow() && !z.isDead()) {
+                double dist = Math.abs(z.getXPosition() - getCol());
+                if (dist <= closestDist) {
+                    closestDist = dist;
+                    target = z;
+                }
+            }
+        }
+
+        if (target != null) {
+            target.takeDamage(damage, model.zombie.DamageType.NORMAL);
+            System.out.println(getName() + " به زامبی مشت زد! (دمیج: " + damage + ")");
         }
     }
 

@@ -37,8 +37,20 @@ public class TangleKelp extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " " + targetLimit + " زامبی را به زیر آب کشید! (Insta-kill)");
-        this.takeDamage(9999);
+        model.zombie.Zombie target = null;
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            // فقط زامبی‌هایی که در شعاع نیم‌خانه‌ای و روی آب هستند را می‌گیرد
+            if (!z.isDead() && z.getRow() == getRow() && Math.abs(z.getXPosition() - getCol()) <= 0.5) {
+                target = z;
+                break; // یک زامبی را پیدا کردیم
+            }
+        }
+
+        if (target != null) {
+            target.takeDamage(9999, model.zombie.DamageType.NORMAL); // Insta-kill
+            System.out.println(getName() + " زامبی را به زیر آب کشید!");
+            this.takeDamage(9999);
+        }
     }
 
     public void applyUpgradeLevel(int newLevel) {

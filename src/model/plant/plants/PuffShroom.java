@@ -52,6 +52,9 @@ public class PuffShroom extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        double range = getCol() + 3.0 + rangeBonus; // برد محدود 3 خانه‌ای
+        model.projectile.StrikeThroughProjectile spore = new model.projectile.StrikeThroughProjectile(getRow(), getCol() + 0.5, damage, 0.3, 1, range);
+        session.spawnProjectile(spore);
         System.out.println(getName() + " با برد محدود (+ " + rangeBonus + " تایل) شلیک کرد. (دمیج: " + damage + ")");
     }
 

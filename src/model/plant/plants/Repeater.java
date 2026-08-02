@@ -50,6 +50,8 @@ public class Repeater extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        model.projectile.PeaProjectile pea = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, damage);
+        session.spawnProjectile(pea);
         System.out.println(getName() + " یک نخود با دمیج " + damage + " شلیک کرد.");
     }
 

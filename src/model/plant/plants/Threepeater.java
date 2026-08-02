@@ -44,11 +44,11 @@ public class Threepeater extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
-        int myRow = getRow();
-        System.out.println(getName() + " در لاین‌های " + (myRow - 1) + "، " + myRow + " و " + (myRow + 1) + " نخود پرت کرد.");
-        // session.spawnProjectile(..., myRow - 1);
-        // session.spawnProjectile(..., myRow);
-        // session.spawnProjectile(..., myRow + 1);
+        int r = getRow();
+        session.spawnProjectile(new model.projectile.PeaProjectile(r, getCol() + 0.5, damage));
+        if (r - 1 >= 0) session.spawnProjectile(new model.projectile.PeaProjectile(r - 1, getCol() + 0.5, damage));
+        if (r + 1 < model.game.Board.ROWS) session.spawnProjectile(new model.projectile.PeaProjectile(r + 1, getCol() + 0.5, damage));
+        System.out.println(getName() + " در لاین‌های " + (r - 1) + "، " + r + " و " + (r + 1) + " نخود پرت کرد.");
     }
 
     private void shootAllLanes(GameSession session) {

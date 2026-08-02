@@ -43,6 +43,13 @@ public class SplitPea extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        // شلیک به جلو
+        session.spawnProjectile(new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, damage));
+        
+        // شلیک به عقب (سرعت منفی)
+        model.projectile.PeaProjectile backwardPea = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, damage);
+        backwardPea.setSpeed(-0.3); 
+        session.spawnProjectile(backwardPea);
         System.out.println(getName() + " ۱ تیر به جلو و ۲ تیر به عقب شلیک کرد. (دمیج هر تیر: " + damage + ")");
     }
 

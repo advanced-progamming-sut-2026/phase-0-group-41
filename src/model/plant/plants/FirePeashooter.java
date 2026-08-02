@@ -43,6 +43,9 @@ public class FirePeashooter extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        model.projectile.PeaProjectile pea = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, damage);
+        pea.setFire(true); 
+        session.spawnProjectile(pea);
         System.out.println(getName() + " تیر آتشین مستقیم با دمیج " + damage + " شلیک کرد.");
     }
 

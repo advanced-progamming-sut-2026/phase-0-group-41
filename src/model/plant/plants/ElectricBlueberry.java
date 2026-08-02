@@ -45,8 +45,13 @@ public class ElectricBlueberry extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
-        String priority = highTargetPriority ? " (با اولویت اهداف قوی)" : "";
-        System.out.println(getName() + " شلیک رعدوبرق به زامبی تصادفی" + priority + " با دمیج: " + damage);
+        java.util.List<model.zombie.Zombie> zombies = session.getAliveZombies();
+        if (!zombies.isEmpty()) {
+            // انتخاب یک زامبی به صورت تصادفی
+            model.zombie.Zombie target = zombies.get(new java.util.Random().nextInt(zombies.size()));
+            target.takeDamage(damage, model.zombie.DamageType.NORMAL);
+            System.out.println(getName() + " صاعقه قدرتمندی به زامبی زد!");
+        }
     }
 
     public void applyUpgradeLevel(int newLevel) {

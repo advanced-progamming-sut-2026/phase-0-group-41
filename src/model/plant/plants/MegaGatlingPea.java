@@ -49,6 +49,19 @@ public class MegaGatlingPea extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        double startX = getCol() + 0.5;
+        
+        // فاصله هر تیر دقیقا به اندازه سرعت پرتابه (0.3) تنظیم شده تا پشت سر هم حرکت کنند
+        model.projectile.PeaProjectile pea1 = new model.projectile.PeaProjectile(getRow(), startX, damage);
+        model.projectile.PeaProjectile pea2 = new model.projectile.PeaProjectile(getRow(), startX - 0.3, damage);
+        model.projectile.PeaProjectile pea3 = new model.projectile.PeaProjectile(getRow(), startX - 0.6, damage);
+        model.projectile.PeaProjectile pea4 = new model.projectile.PeaProjectile(getRow(), startX - 0.9, damage);
+
+        session.spawnProjectile(pea1);
+        session.spawnProjectile(pea2);
+        session.spawnProjectile(pea3);
+        session.spawnProjectile(pea4);
+
         System.out.println(getName() + " ۴ تیر متوالی شلیک کرد. (دمیج هر تیر: " + damage + ")");
     }
 

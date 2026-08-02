@@ -52,17 +52,24 @@ public class BowlingBulb extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
-        int damage;
+        int currentDamage; // اسم متغیر رو کمی تغییر دادم که با متغیر کلاس تداخل نکنه
         String type;
+        
         if (timeSinceLastShot >= orangeRegenTicks) {
-            damage = 180 + baseDamageBonus; type = "نارنجی (بزرگ)";
+            currentDamage = 180 + baseDamageBonus; 
+            type = "نارنجی (بزرگ)";
         } else if (timeSinceLastShot >= blueRegenTicks) {
-            damage = 120 + baseDamageBonus; type = "آبی (متوسط)";
+            currentDamage = 120 + baseDamageBonus; 
+            type = "آبی (متوسط)";
         } else {
-            damage = 40 + baseDamageBonus; type = "فیروزه‌ای (کوچک)";
+            currentDamage = 40 + baseDamageBonus; 
+            type = "فیروزه‌ای (کوچک)";
         }
 
-        System.out.println(getName() + " پیاز " + type + " را شلیک کرد! (دمیج اولیه: " + damage + ")");
+        model.projectile.PeaProjectile bulb = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, currentDamage);
+        session.spawnProjectile(bulb);
+
+        System.out.println(getName() + " پیاز " + type + " را شلیک کرد! (دمیج اولیه: " + currentDamage + ")");
         timeSinceLastShot = 0; // ریست شدن زمان بازیابی
     }
 

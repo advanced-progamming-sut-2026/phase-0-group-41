@@ -42,6 +42,18 @@ public class Starfruit extends Plant implements IShooter {
 
     @Override
     public void shoot(GameSession session) {
+        double c = getCol() + 0.5;
+        
+        // ۱. رو به بالا (X ثابت، Y منفی)
+        session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damage, 0, -0.3));
+        // ۲. رو به پایین (X ثابت، Y مثبت)
+        session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damage, 0, 0.3));
+        // ۳. رو به جلو (X مثبت، Y ثابت)
+        session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damage, 0.3, 0));
+        // ۴. بالا-عقب (X منفی، Y منفی)
+        session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damage, -0.3, -0.3));
+        // ۵. پایین-عقب (X منفی، Y مثبت)
+        session.spawnProjectile(new model.projectile.DiagonalProjectile(getRow(), c, damage, -0.3, 0.3));
         System.out.println(getName() + " در ۵ جهت ستاره شلیک کرد. (دمیج هرکدام: " + damage + ")");
     }
 

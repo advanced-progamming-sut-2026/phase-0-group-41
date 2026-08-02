@@ -35,6 +35,16 @@ public class HotPotato extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
+        model.game.Tile tile = session.getBoard().getTile(getRow(), getCol());
+        if (tile != null) {
+            // ۱. آب کردن یخ محیطی
+            tile.removeIceBlock();
+            
+            // ۲. آب کردن یخ گیاهانی که منجمد شده‌اند
+            if (tile.getPlant() != null && tile.getPlant() != this) {
+                tile.getPlant().damageIceBlock(9999, true); 
+            }
+        }
         System.out.println(getName() + " یخ تایل موردنظر را به طور آنی ذوب کرد!");
         this.takeDamage(9999);
     }

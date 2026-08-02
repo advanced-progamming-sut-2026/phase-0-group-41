@@ -38,11 +38,20 @@ public class DoomShroom extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
-        System.out.println(getName() + " انفجار مهیب در کل باغچه! (دمیج: " + damage + ") ایجاد یک گودال غیرقابل کشت.");
-        Tile myTile = session.getBoard().getTile(getRow(), getCol());
-        if (myTile != null) {
-            myTile.setTerrainType(TerrainType.CRATER); // فرض بر اینکه این Enum را می‌سازی
+        // شعاع وسیع‌تر برای نابودی (فاصله ۳ ردیف و ۳ ستون)
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && Math.abs(z.getRow() - getRow()) <= 3 && Math.abs(z.getXPosition() - getCol()) <= 3.5) {
+                z.takeDamage(damage, model.zombie.DamageType.NORMAL);
+            }
         }
+        
+        // تبدیل خانه فعلی به گودال
+        model.game.Tile myTile = session.getBoard().getTile(getRow(), getCol());
+        if (myTile != null) {
+            myTile.setTerrainType(model.game.TerrainType.CRATER);
+        }
+        
+        System.out.println(getName() + " انفجار هسته‌ای کرد و زمین به گودال تبدیل شد!");
         this.takeDamage(9999);
     }
 
