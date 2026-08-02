@@ -15,7 +15,6 @@ public class User implements Serializable, PlayerProfile {
 
     private static final long serialVersionUID = 1L;
 
-    // === متغیرهای پایه ===
     private String username;
     private String passwordHash;
     private String nickname;
@@ -36,7 +35,6 @@ public class User implements Serializable, PlayerProfile {
     private int nonDailyQuestsCompleted = 0;
     private int highScore = 0;
 
-    // === متغیرهای مالی و پیشرفت ===
     private int coins = 0;
     private int diamonds = 0;
     private int difficultyLevel = 3;
@@ -44,7 +42,6 @@ public class User implements Serializable, PlayerProfile {
     private int levelsCompleted = 0;
     private int maxMowPoints = 0;
 
-    // === متغیرهای گلخانه و کالکشن ===
     private Greenhouse greenhouse;
     private Map<String, Boolean> greenhouseBoosts;
     private final Set<String> unlockedPlants = new HashSet<>();
