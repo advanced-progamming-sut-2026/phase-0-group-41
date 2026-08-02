@@ -4,13 +4,14 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
-
+import java.io.Serializable;
 /**
  * پیشرفت فعلی کاربر که برای بررسی شرط‌های کوئست لازم است.
  * این کلاس رابط بین سیستم کوئست و بقیه‌ی مدل بازی (پروفایل کاربر و ...) است.
  */
-public class QuestContext {
+public class QuestContext implements Serializable {
 
+    private static final long serialVersionUID=1L;
     // ==================== فیلدهای اصلی موجود ====================
     private int zombiesKilled;
     private int coinsEarned;
