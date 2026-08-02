@@ -52,7 +52,6 @@ public class User implements Serializable, PlayerProfile {
     
     // === اخبار ===
     private List<NewsMessage> newsList = new ArrayList<>();
-
     // ==========================================
     // === متغیرهای اضافه شده برای فروشگاه و کوئست ===
     // ==========================================
@@ -89,9 +88,7 @@ public class User implements Serializable, PlayerProfile {
         this.greenhouseBoosts = new HashMap<>();
     }
 
-    // ==========================================
-    // پیاده‌سازی متدهای PlayerProfile
-    // ==========================================
+
     
     @Override
     public void addCoins(int amount) {
@@ -127,9 +124,6 @@ public class User implements Serializable, PlayerProfile {
         // در صورت نیاز پیاده‌سازی شود
     }
 
-    // ==========================================
-    // متدهای فروشگاه و کوئست (اضافه شده از کد رفیقت)
-    // ==========================================
     public QuestManager getQuestManager() {
         if (this.questManager == null) {
             this.questManager = new QuestManager(QuestFactory.createDefaultQuests());
