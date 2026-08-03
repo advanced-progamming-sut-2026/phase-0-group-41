@@ -10,7 +10,7 @@ import java.util.List;
 
 public class MenuController {
     private final AppController appController;
-    
+
     private final UserManager userManager;
     private final ConsoleView consoleView;
 
@@ -102,7 +102,7 @@ public class MenuController {
                 return plantSelectionView.checkCommand(loggedInUser, t, cmd);
             case IN_GAME:
                 return true;
-            
+
             default:
                 return false;
         }
@@ -132,6 +132,9 @@ public class MenuController {
                         target == MenuType.GREENHOUSE || target == MenuType.SHOP || target == MenuType.TRAVEL_LOG || target == MenuType.PLANT_SELECTION) {
                     canEnter = true;
                 }
+                break;
+            case GREENHOUSE:
+                if (target == MenuType.SHOP) canEnter = true;
                 break;
             case GAME:
                 if (target == MenuType.COLLECTION) canEnter = true;
@@ -169,6 +172,10 @@ public class MenuController {
                 setCurrentMenu(MenuType.MAIN);
                 consoleView.printMessage("به منوی اصلی بازگشتید.");
                 break;
+            case SHOP:
+                setCurrentMenu(MenuType.GREENHOUSE);
+                consoleView.printMessage("به منوی گلخونه بازگشتید");
+                break;
             case COLLECTION:
                 setCurrentMenu(MenuType.GAME);
                 consoleView.printMessage("به منوی بازی بازگشتید.");
@@ -178,13 +185,26 @@ public class MenuController {
     }
 
     // گترها و سترها
-    public MenuType getCurrentMenu() { return currentMenu; }
-    public void setCurrentMenu(MenuType currentMenu) { this.currentMenu = currentMenu; }
-    public User getLoggedInUser() { return loggedInUser; }
-    public void setLoggedInUser(User loggedInUser) { this.loggedInUser = loggedInUser; }
+    public MenuType getCurrentMenu() {
+        return currentMenu;
+    }
+
+    public void setCurrentMenu(MenuType currentMenu) {
+        this.currentMenu = currentMenu;
+    }
+
+    public User getLoggedInUser() {
+        return loggedInUser;
+    }
+
+    public void setLoggedInUser(User loggedInUser) {
+        this.loggedInUser = loggedInUser;
+    }
+
     public void startGame(List<String> selectedPlants) {
         appController.startGame(selectedPlants, currentChapter, currentLevel);
     }
+
     public void setCurrentChapterAndLevel(int chapter, int level) {
         this.currentChapter = chapter;
         this.currentLevel = level;
