@@ -314,7 +314,30 @@ public class QuestFactory {
                 Collections.singletonList(QuestReward.currency(QuestReward.CurrencyType.COIN, 800))
         );
     }
+    // ==================== کوئست‌های مینی‌گیم ====================
 
+    public static Quest createMinigameQuest(String minigameId, String displayName) {
+        return new Quest(
+                "minigame_complete_" + minigameId,
+                "Minigame Master: " + displayName,
+                "مینی‌گیم " + displayName + " را با موفقیت به پایان برسانید",
+                QuestPriority.NORMAL,
+                QuestPage.MINIGAMES,
+                false,
+                context -> context.getMiniGamesCompleted() >= 1, // یا شرط دقیق‌تر بر اساس آی‌دی مینی‌گیم
+                Collections.singletonList(QuestReward.currency(QuestReward.CurrencyType.COIN, 300))
+        );
+    }
+
+    public static List<Quest> createMinigameQuests() {
+        List<Quest> quests = new ArrayList<>();
+        quests.add(createMinigameQuest("vasebreaker", "Vasebreaker"));
+        quests.add(createMinigameQuest("wallnut_bowling", "Wallnut Bowling"));
+        quests.add(createMinigameQuest("i_zombie", "I, Zombie"));
+        quests.add(createMinigameQuest("beghouled", "Beghouled"));
+        quests.add(createMinigameQuest("zombotany", "Zombotany"));
+        return quests;
+    }
     // ==================== روز ابری ====================
     // یک مرحله را تنها با 3 تا گیاه تولیدکننده خورشید بزن
 
@@ -411,6 +434,7 @@ public class QuestFactory {
 
         // اصلی
         quests.add(createUnlockPlantQuest());
+        quests.add(createUnlockPlantQuest());
         quests.addAll(createEconomicPlantEaterQuests());
         quests.add(createQuickActionQuest());
         quests.addAll(createChapterHunterQuests(5)); // تعداد فصل‌ها را متناسب با بازی تنظیم کن
@@ -430,13 +454,13 @@ public class QuestFactory {
         quests.add(createFewerColumnsQuest(1));
         quests.add(createRowlessDefenseQuest(1));
         quests.add(createCrossDefenselessQuest());
+        quests.addAll(createMinigameQuests());
 
         // چالش / اپیک
         quests.add(createEpicChallengeQuest());
         quests.add(createMasterDefenderQuest());
         quests.add(createNightOwlQuest());
         quests.addAll(createLawnmowerTimeQuests());
-
         return quests;
     }
 }

@@ -5,6 +5,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
 import java.io.Serializable;
+import java.util.function.Function;
+
 /**
  * یک کوئست کامل: شناسه، عنوان، توضیح، اولویت/دسته‌بندی، صفحه نمایش در travel-log،
  * شرط تکمیل، لیست پاداش‌ها و وضعیت فعلی (تکرارپذیر بودن برای کوئست‌های روزانه).
@@ -23,22 +25,17 @@ public class Quest implements Serializable{
     private boolean completed = false;
     private boolean rewardClaimed = false;
 
-    public Quest(String id,
-                 String title,
-                 String description,
-                 QuestPriority priority,
-                 QuestPage page,
-                 boolean repeatable,
-                 QuestCondition condition,
-                 List<QuestReward> rewards) {
-        this.id = Objects.requireNonNull(id);
-        this.title = Objects.requireNonNull(title);
+    public Quest(String id, String name, String description, QuestPriority priority,
+                 QuestPage page, boolean repeatable,
+                 QuestCondition condition, List<QuestReward> rewards){
+        this.id = id;
+        this.title = name;
         this.description = description;
-        this.priority = Objects.requireNonNull(priority);
-        this.page = Objects.requireNonNull(page);
+        this.priority = priority;
+        this.page = page;
         this.repeatable = repeatable;
-        this.condition = Objects.requireNonNull(condition);
-        this.rewards = new ArrayList<>(rewards);
+        this.condition = condition;
+        this.rewards = rewards;
     }
     private boolean isClaimed = false;
     private RewardType rewardType;

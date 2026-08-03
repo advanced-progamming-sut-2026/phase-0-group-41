@@ -12,15 +12,19 @@ public class NormalZombie extends Zombie {
     private static final int DAMAGE = 10;
 
     public NormalZombie() {
-        super("normal", 200, SPEED_PER_TICK * 10, 100, DAMAGE);
+        super("normal", 200, SPEED_PER_TICK, 100, DAMAGE);
     }
 
     protected NormalZombie(String typeName, int health, int waveCost, int damage) {
-        super(typeName, health, SPEED_PER_TICK * 10, waveCost, damage);
+        super(typeName, health, SPEED_PER_TICK, waveCost, damage);
     }
 
     @Override
     public void onTick(GameSession session) {
+        if (isDead()) {
+            return;
+        }
+        
         Board board = session.getBoard();
         int col = (int) Math.floor(getXPosition());
         Tile tile = board.getTile(getRow(), Math.max(col, 0));
