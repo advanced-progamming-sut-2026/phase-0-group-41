@@ -1,6 +1,8 @@
 package view;
 
 import controller.PlantSelectionController;
+import controller.MenuController;
+import model.menu.MenuType;
 import model.user.User;
 import util.CommandLine;
 import java.util.List;
@@ -8,10 +10,12 @@ import java.util.List;
 public class PlantSelectionView {
     private final PlantSelectionController controller;
     private final ConsoleView consoleView;
+    private final MenuController menuController;
 
-    public PlantSelectionView(PlantSelectionController controller, ConsoleView consoleView) {
+    public PlantSelectionView(PlantSelectionController controller, ConsoleView consoleView, MenuController menuController) {
         this.controller = controller;
         this.consoleView = consoleView;
+        this.menuController = menuController;
     }
 
     public boolean checkCommand(User user, List<String> t, CommandLine cmd) {
@@ -121,8 +125,9 @@ public class PlantSelectionView {
             }
             // اینجا باید دستور ورود به منوی نبرد/بازی اصلی (Play/Battle) را صادر کنی
             consoleView.printMessage("در حال ورود به زمین بازی...");
-
-            // TODO: تغییر MenuType در MenuController به حالت IN_GAME یا چیزی شبیه آن
+            menuController.setCurrentMenu(MenuType.IN_GAME);
+            menuController.startGame(controller.getSelectedPlants());
+            controller.resetSelection(); // ریست کردن انتخاب‌ها بعد از شروع بازی
             return true;
         }
 

@@ -7,6 +7,8 @@ import util.CommandLine;
 import view.ConsoleView;
 import java.util.Scanner;
 
+import java.util.List;
+
 public class AppController {
 
     private final UserManager userManager = new UserManager();
@@ -17,6 +19,9 @@ public class AppController {
     private GameSession activeSession;
     private boolean inGame = false;
     private boolean isRunning = true; // فلگ کنترل حلقه
+
+    private int activeChapter = 1;
+    private int activeLevel = 1;
 
     public void run() {
         Scanner scanner = new Scanner(System.in);
@@ -59,18 +64,18 @@ public class AppController {
             }
         }
 
-        if (!cmd.getTokens().isEmpty() && cmd.getTokens().get(0).equals("start")
-                && cmd.getTokens().size() >= 2 && cmd.getTokens().get(1).equals("game")) {
-            startGame();
-            return;
-        }
+        // if (!cmd.getTokens().isEmpty() && cmd.getTokens().get(0).equals("start")
+        //         && cmd.getTokens().size() >= 2 && cmd.getTokens().get(1).equals("game")) {
+        //     startGame();
+        //     return;
+        // }
 
-        if (!cmd.getTokens().isEmpty() && cmd.getTokens().get(0).equals("menu")
-                && cmd.getTokens().size() >= 4 && cmd.getTokens().get(1).equals("enter")
-                && cmd.getTokens().get(2).equals("chapter")) {
-            view.printMessage("وارد فصل " + cmd.get("c") + " شدید. گیاهان خود را با 'add plant -t <type>' انتخاب کنید و سپس 'start game' بزنید.");
-            return;
-        }
+        // if (!cmd.getTokens().isEmpty() && cmd.getTokens().get(0).equals("menu")
+        //         && cmd.getTokens().size() >= 4 && cmd.getTokens().get(1).equals("enter")
+        //         && cmd.getTokens().get(2).equals("chapter")) {
+        //     view.printMessage("وارد فصل " + cmd.get("c") + " شدید. گیاهان خود را با 'add plant -t <type>' انتخاب کنید و سپس 'start game' بزنید.");
+        //     return;
+        // }
 
         boolean handled = menuController.handle(rawLine, cmd);
         if (!handled) {
@@ -78,37 +83,69 @@ public class AppController {
         }
     }
 
-    private void startGame() {
+    public void startGame(List<String> selectedPlants, int chapter, int level) {
         User user = menuController.getLoggedInUser();
         if (user == null) {
             view.printError("ابتدا باید وارد حساب کاربری شوید.");
             return;
         }
-        activeSession = new GameSession(user, 5);
+
+        this.activeChapter = chapter;
+        this.activeLevel = level;
+
+        // مپ کردن شماره فصل به محیط بازی (مصر، غارها، ساحل، تاریکی)
+        model.game.Season season = model.game.Season.NORMAL;
+        if (chapter == 1) season = model.game.Season.ANCIENT_EGYPT;
+        else if (chapter == 2) season = model.game.Season.FROSTBITE_CAVES;
+        else if (chapter == 3) season = model.game.Season.BIG_WAVE_BEACH;
+        else if (chapter == 4) season = model.game.Season.DARK_AGES;
+
+        // مپ کردن مراحل ویژه (مثال: مرحله ۲ نوار نقاله، مرحله ۳ جنگ زمان‌دار)
+        model.levelrules.LevelMode mode = model.levelrules.LevelMode.NORMAL;
+        if (level == 2) mode = model.levelrules.LevelMode.CONVEYOR_BELT;
+        else if (level == 3) mode = model.levelrules.LevelMode.TIMED_WAR;
+
+        // ساخت سشن با متغیرهای دینامیک
+        activeSession = new model.game.GameSession(user, 5, season, mode);
         inGame = true;
-        view.printMessage("بازی شروع شد! از دستورات 'advance time -t <n> ticks' و 'plant plant -t <type> -l (<x>, <y>)' استفاده کنید.");
+        view.printMessage("بازی شروع شد! [فصل " + chapter + " | مرحله " + level + " | " + season + "]");
     }
 
     private void finishGame() {
         User user = menuController.getLoggedInUser();
-        if (user != null) {
+        if (user != null && activeSession != null) {
             user.incrementGamesPlayed();
-            if (activeSession != null) {
-                if(activeSession.isWon()) {
+            
+            if (activeSession.isWon()) {
                 user.incrementLevelsCompleted();
                 user.getQuestContext().setStagesCompleted(user.getLevelsCompleted());
+
+                // ثبت پیشرفت دقیق در پروفایل کاربر (ارتقای مرحله و فصل)
+                if (activeChapter > user.getLastCompletedChapter() || 
+                (activeChapter == user.getLastCompletedChapter() && activeLevel > user.getLastCompletedLevel())) {
+                    
+                    user.setLastCompletedLevel(activeLevel);
+                    // اگر ۴ مرحله یک فصل تمام شد، فصل جدید باز می‌شود
+                    if (activeLevel >= 4) { 
+                        user.setLastCompletedChapter(activeChapter);
+                        user.setLastCompletedLevel(0); // ریست برای شروع فصل جدید
+                        view.printMessage("🏆 تبریک! شما فصل " + activeChapter + " را با موفقیت به پایان رساندید!");
+                    }
                 }
-
-                model.scoreGame.MeowPoint calculator = new model.scoreGame.MeowPoint();
-                int totalMowPoints = calculator.calculateMyuPoints(activeSession.getMeowEvents());
-                view.printMessage("امتیاز MeowPoints شما در این مرحله: " + totalMowPoints);
-
-                user.updateMaxMowPoints(totalMowPoints);
             }
-            userManager.save();
+
+            model.scoreGame.MeowPoint calculator = new model.scoreGame.MeowPoint();
+            int totalMowPoints = calculator.calculateMyuPoints(activeSession.getMeowEvents());
+            view.printMessage("امتیاز MeowPoints شما در این مرحله: " + totalMowPoints);
+
+            user.updateMaxMowPoints(totalMowPoints);
+            userManager.save(); // ذخیره روی فایل
         }
         inGame = false;
         activeSession = null;
-        view.printMessage("به منوی بازی بازگشتید.");
+        
+        // بازگشت خودکار به منوی اصلی پس از اتمام بازی
+        menuController.setCurrentMenu(model.menu.MenuType.MAIN);
+        view.printMessage("به منوی اصلی بازگشتید.");
     }
 }

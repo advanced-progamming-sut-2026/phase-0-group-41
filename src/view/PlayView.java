@@ -87,17 +87,23 @@ public class PlayView {
         String chapterName = cmd.get("c");
         String result = controller.enterChapter(user, chapterName);
 
-        switch (result) {
-            case "SUCCESS":
-                consoleView.printMessage("در حال ورود به قسمت " + chapterName + "...");
-                // در فازهای بعدی کلاس GameController در اینجا فراخوانی می‌شود
-                break;
-            case "ERR_INVALID_CHAPTER":
-                consoleView.printError("نام قسمت (Chapter) نامعتبر است.");
-                break;
-            case "ERR_LOCKED_CHAPTER":
-                consoleView.printError("این قسمت هنوز برای شما باز (Unlock) نشده است. ابتدا مراحل قبلی را تمام کنید.");
-                break;
+        if (result.startsWith("SUCCESS")) {
+            String[] parts = result.split("_");
+            int ch = Integer.parseInt(parts[1]);
+            int lvl = Integer.parseInt(parts[2]);
+
+            consoleView.printMessage("در حال ورود به فصل " + ch + " - مرحله " + lvl + " ...");
+            
+            // ارسال وضعیت به منو کنترلر برای نگهداشت موقت
+            menuController.setCurrentChapterAndLevel(ch, lvl);
+            
+            menuController.setCurrentMenu(model.menu.MenuType.PLANT_SELECTION);
+            consoleView.printMessage("وارد منوی انتخاب گیاهان (Plant Selection) شدید.");
+            consoleView.printMessage("از دستورات 'show all plants' و 'add plant -t <type>' برای چیدن دسته کارت‌های خود استفاده کنید.");
+        } else if (result.equals("ERR_INVALID_CHAPTER")) {
+            consoleView.printError("نام قسمت (Chapter) نامعتبر است (لطفا از اعداد 1 تا 4 استفاده کنید).");
+        } else if (result.equals("ERR_LOCKED_CHAPTER")) {
+            consoleView.printError("این قسمت هنوز برای شما باز (Unlock) نشده است. ابتدا مراحل قبلی را تمام کنید.");
         }
     }
 
