@@ -34,8 +34,24 @@ public class PlantSelectionView {
             return true;
         }
 
-        // ۲. نمایش گیاهان انتخاب شده برای این مرحله (show available plants)
+// ۲. نمایش گیاهان در دسترس (آنلاک شده) (show available plants)
         if (t.size() == 3 && t.get(0).equals("show") && t.get(1).equals("available") && t.get(2).equals("plants")) {
+            // دریافت لیست گیاهان آنلاک شده از پروفایل کاربر
+            java.util.Set<String> unlocked = user.getUnlockedPlants();
+            
+            if (unlocked.isEmpty()) {
+                consoleView.printMessage("شما هیچ گیاهی در دسترس ندارید.");
+            } else {
+                consoleView.printMessage("--- Available Plants ---");
+                for (String plant : unlocked) {
+                    consoleView.printMessage("- " + plant);
+                }
+            }
+            return true;
+        }
+
+        // نمایش گیاهانی که برای ورود به بازی انتخاب میشود. تو داک نیست خودم اضافه کردم (show selected plants)
+        if (t.size() == 3 && t.get(0).equals("show") && t.get(1).equals("selected") && t.get(2).equals("plants")) {
             List<String> selected = controller.getSelectedPlants();
             if (selected.isEmpty()) {
                 consoleView.printMessage("هیچ گیاهی انتخاب نشده است. (ظرفیت: 8)");

@@ -33,7 +33,7 @@ public class GameController {
         }
         String first = t.get(0);
 
-        if (first.equals("advance") && t.size() >= 3 && t.get(1).equals("time")) {
+        if (first.equals("advance") && t.size() >= 2 && t.get(1).equals("time")) {
             int baseCount = Integer.parseInt(cmd.get("t"));
 
             // === اعمال ضریب سختی برای سرعت پیش‌روی بازی ===
