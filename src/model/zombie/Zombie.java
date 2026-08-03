@@ -87,12 +87,12 @@ public abstract class Zombie {
     }
 
     public void applyChill(int durationTicks) {
-        this.chillTicks = durationTicks;
+        this.chilledTicks = durationTicks;
         this.currentSpeed = this.baseSpeed / 2.0; // سرعت حرکت زامبی نصف می‌شود
     }
 
     public void removeChill() {
-        this.chillTicks = 0;
+        this.chilledTicks = 0;
         this.currentSpeed = this.baseSpeed; // سرعت به حالت عادی برمی‌گردد
     }
 

@@ -220,7 +220,8 @@ public class GameSession {
 
         // حرکت / حمله زامبی‌ها
         List<Zombie> deadZombies = new ArrayList<>();
-        for (Zombie zombie : aliveZombies) {
+        for(int i = 0; i< aliveZombies.size(); i++) {
+            Zombie zombie = aliveZombies.get(i);
             zombie.onTick(this);
 
             int currentCol = (int) Math.floor(zombie.getXPosition());
@@ -480,7 +481,7 @@ public class GameSession {
 
                 Plant p = tile.getPlant();
 
-                if (isWater && p != null && !p.getName().toLowerCase().equals("lilypad") && !p.hasTag(model.plant.PlantTag.WATER)) {
+                if (isWater && p != null && !tile.isHasLilyPad() && !p.getName().toLowerCase().equals("lilypad") && !p.hasTag(model.plant.PlantTag.WATER)) {
                     p.takeDamage(9999);
                     System.out.println(p.getName() + " drowned!");
                 }

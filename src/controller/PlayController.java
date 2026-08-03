@@ -12,22 +12,36 @@ public class PlayController {
 
     // بررسی و ورود به یک Chapter
     public String enterChapter(User user, String chapterName) {
-        // در داکیومنت نوشته شده: مراحلی که هنوز Unlock نشده‌اند را نمی‌توانید ادامه دهید.
-        // در اینجا یک شبیه‌سازی ساده از بررسی قفل مراحل انجام می‌دهیم.
-        // در فازهای بعدی که کلاس Chapter ساخته شد، این منطق پیچیده‌تر می‌شود.
+        if (chapterName.equalsIgnoreCase("tutorial")) return "SUCCESS_0_1";
 
-        if (chapterName == null || chapterName.trim().isEmpty()) {
+        int requestedChapter;
+        try {
+            requestedChapter = Integer.parseInt(chapterName);
+        } catch (NumberFormatException e) {
             return "ERR_INVALID_CHAPTER";
         }
 
-        // فرض می‌کنیم مرحله "tutorial" همیشه باز است
-        if (chapterName.equalsIgnoreCase("tutorial") || user.getLevelsCompleted() > 0) {
-            return "SUCCESS"; // مرحله باز است
-        } else {
-            return "ERR_LOCKED_CHAPTER"; // مرحله قفل است
-        }
-    }
+        if (requestedChapter < 1 || requestedChapter > 4) return "ERR_INVALID_CHAPTER";
 
+        // بررسی قفل بودن: بازیکن فقط می‌تواند نهایتاً به فصلی برود که یکی از آخرین فصل تکمیل‌شده‌اش بالاتر است
+        int maxUnlockedChapter = user.getLastCompletedChapter() + 1;
+        if (requestedChapter > maxUnlockedChapter) {
+            return "ERR_LOCKED_CHAPTER";
+        }
+
+        int levelToPlay = 1;
+        if (requestedChapter == maxUnlockedChapter) {
+            // اگر در فصل جدید یا فصل جاری است، مرحله بعدی را بازی می‌کند
+            levelToPlay = user.getLastCompletedLevel() + 1;
+            if (levelToPlay > 4) levelToPlay = 4; // سقف ۴ مرحله برای هر فصل
+        } else {
+            // اگر فصلی را قبلاً تمام کرده، می‌تواند آزادانه مرحله آخر آن را تکرار کند (یا هر منطق دلخواه دیگر)
+            levelToPlay = 1; 
+        }
+
+        // بازگرداندن یک پکیج دیتای استرینگ شامل وضعیت، شماره فصل و شماره مرحله
+        return "SUCCESS_" + requestedChapter + "_" + levelToPlay;
+    }
     // متد اعمال کد تقلب (Cheat)
     public String applyCheat(User user, int amount, String type) {
         if (amount <= 0) {

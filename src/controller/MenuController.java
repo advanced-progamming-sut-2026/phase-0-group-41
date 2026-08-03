@@ -17,6 +17,9 @@ public class MenuController {
     private MenuType currentMenu = MenuType.REGISTER;
     private User loggedInUser = null;
 
+    private int currentChapter = 1;
+    private int currentLevel = 1;
+
     private final RegisterView registerView;
     private final LoginView loginView;
     private final MainView mainView;
@@ -28,6 +31,7 @@ public class MenuController {
     private final QuestView questView;
     private final CollectionController collectionController;
     private final GreenhouseView greenhouseView;
+    private final PlantSelectionView plantSelectionView;
 
     public MenuController(UserManager userManager, ConsoleView consoleView, AppController appController) {
         this.appController = appController;
@@ -45,6 +49,7 @@ public class MenuController {
         this.shopView = new ShopView(new ShopController(userManager), consoleView);
         this.questView = new QuestView(new QuestController(userManager), consoleView);
         this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
+        this.plantSelectionView = new PlantSelectionView(new PlantSelectionController(), consoleView, this);
     }
 
     public boolean handle(String rawLine, CommandLine cmd) {
@@ -93,6 +98,10 @@ public class MenuController {
                 return collectionController.handle(loggedInUser, t, cmd);
             case GREENHOUSE:
                 return greenhouseView.checkCommand(loggedInUser, t, cmd);
+            case PLANT_SELECTION:
+                return plantSelectionView.checkCommand(loggedInUser, t, cmd);
+            case IN_GAME:
+                return true;
             
             default:
                 return false;
@@ -120,7 +129,7 @@ public class MenuController {
             case MAIN:
                 if (target == MenuType.GAME || target == MenuType.SETTINGS ||
                         target == MenuType.NEWS || target == MenuType.PROFILE ||
-                        target == MenuType.GREENHOUSE || target == MenuType.SHOP || target == MenuType.TRAVEL_LOG) {
+                        target == MenuType.GREENHOUSE || target == MenuType.SHOP || target == MenuType.TRAVEL_LOG || target == MenuType.PLANT_SELECTION) {
                     canEnter = true;
                 }
                 break;
@@ -173,4 +182,11 @@ public class MenuController {
     public void setCurrentMenu(MenuType currentMenu) { this.currentMenu = currentMenu; }
     public User getLoggedInUser() { return loggedInUser; }
     public void setLoggedInUser(User loggedInUser) { this.loggedInUser = loggedInUser; }
+    public void startGame(List<String> selectedPlants) {
+        appController.startGame(selectedPlants, currentChapter, currentLevel);
+    }
+    public void setCurrentChapterAndLevel(int chapter, int level) {
+        this.currentChapter = chapter;
+        this.currentLevel = level;
+    }
 }
