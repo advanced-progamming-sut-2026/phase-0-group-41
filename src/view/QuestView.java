@@ -2,6 +2,7 @@ package view;
 
 import controller.QuestController;
 import model.quest.Quest;
+import model.quest.QuestPage;
 import model.quest.RewardType;
 import model.user.User;
 import util.CommandLine;
@@ -35,10 +36,43 @@ public class QuestView {
             processClaim(user, questId);
             return true;
         }
+        if (t.size() >= 4 && action.equals("travel")
+                && t.get(1).equals("log")
+                && t.get(2).equals("page")) {
+            String pageName = t.get(3).toUpperCase(); // تا با enum ADVENTURE/CHALLENGE/... مچ بشه
+            try {
+                QuestPage page = QuestPage.valueOf(pageName);
+                showQuestsByPage(user, page);
+            } catch (IllegalArgumentException e) {
+                consoleView.printError("نام صفحه نامعتبر است.");
+            }
+            return true;
+        }
 
         return false;
     }
+    private void showQuestsByPage(User user, QuestPage page) {
+        List<Quest> quests = controller.getAllQuests(user);
+        List<Quest> filtered = new java.util.ArrayList<>();
+        for (Quest q : quests) {
+            if (q.getPage() == page) {
+                filtered.add(q);
+            }
+        }
 
+        if (filtered.isEmpty()) {
+            consoleView.printMessage("هیچ کوئستی در این صفحه وجود ندارد.");
+            return;
+        }
+
+        consoleView.printMessage("--- Travel Log: " + page + " ---");
+        for (Quest q : filtered) {
+            String status = q.isClaimed() ? "[Claimed]" : (q.isCompleted() ? "[Ready to Claim]" : "[In Progress]");
+            consoleView.printMessage(String.format("ID: %s | %s - %s %s",
+                    q.getId(), q.getName(), q.getDescription(), status));
+        }
+        consoleView.printMessage("---------------------------");
+    }
     private void showQuests(User user) {
         List<Quest> quests = controller.getAllQuests(user);
         if (quests.isEmpty()) {
