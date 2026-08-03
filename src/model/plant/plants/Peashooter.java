@@ -20,26 +20,34 @@ public class Peashooter extends Plant implements IShooter {
 
     @Override
     public void onTick(GameSession session) {
-        // === تغییرات اینجاست ===
         if (isFrozenSolid()) {
             handleIceMelting(session);
             return;
         }
         if (isTransformedToCat() || isOctopused()) return;
-        // =======================
 
-        // منطق Plant Food (شلیک رگباری سریع)
         if (isFeedActive()) {
             shoot(session); // در حالت فید، هر تیک شلیک می‌کند
             decayFeedEffect(); // کاهش زمان باقیمانده‌ی فید
             return;
         }
 
-        // حالت عادی
-        tickCounter++;
-        if (tickCounter >= shootInterval) {
-            shoot(session);
-            tickCounter = 0;
+        boolean zombieInLane = false;
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && z.getRow() == getRow() && z.getXPosition() >= getCol()) {
+                zombieInLane = true;
+                break;
+            }
+        }
+
+        if (zombieInLane) {
+            tickCounter++;
+            if (tickCounter >= shootInterval) {
+                shoot(session);
+                tickCounter = 0;
+            }
+        } else {
+            tickCounter = 0; // اگر زامبی نیست، دستش روی ماشه نمیره
         }
     }
 
@@ -47,7 +55,7 @@ public class Peashooter extends Plant implements IShooter {
     public void shoot(GameSession session) {
         model.projectile.PeaProjectile pea = new model.projectile.PeaProjectile(getRow(), getCol() + 0.5, damage);
         session.spawnProjectile(pea);
-        System.out.println(getName() + " یک نخود با دمیج " + damage + " شلیک کرد.");
+        System.out.println(getName() + " یک نخود با دمیج " + damage + "در مختصات" +getCol() + ","+getRow() + " شلیک کرد.");
     }
 
     @Override

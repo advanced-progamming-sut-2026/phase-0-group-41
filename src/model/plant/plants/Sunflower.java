@@ -55,7 +55,7 @@ public class Sunflower extends Plant implements ISunProducer {
         int finalSun = doubleSunChance && Math.random() > 0.5 ? sunAmount * 2 : sunAmount;
         this.readySunAmount = finalSun;
         this.sunReady = true; // وضعیت به "آماده برداشت" تغییر می‌کند
-        System.out.println(getName() + " خورشید را تولید کرد و منتظر کلیک شماست!");
+        System.out.println("plant " + getName() + " produced a sun at (" + getCol() + ", " + getRow() + ")");
     }
 
     @Override

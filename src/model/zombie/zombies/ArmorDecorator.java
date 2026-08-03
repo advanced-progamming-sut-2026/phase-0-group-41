@@ -8,13 +8,44 @@ public class ArmorDecorator extends Zombie {
     private final Zombie wrappedZombie;
     private final String armorName;
     private int armorHealth;
+    private final String fullZombieName; // نام هویتی اصلی زامبی
 
     public ArmorDecorator(Zombie wrappedZombie, String armorName, int armorHealth, int waveCost) {
-        // پاس دادن مقادیر اولیه به کلاس پدر زامبی
         super(wrappedZombie.getTypeName(), wrappedZombie.getHealth(), wrappedZombie.getSpeed(), waveCost, wrappedZombie.getDamagePerTick());
         this.wrappedZombie = wrappedZombie;
         this.armorName = armorName;
         this.armorHealth = armorHealth;
+
+        // نگاشت نام زره به نام کامل زامبی برای رفع تداخل هویتی
+        if (armorName.equals("cone")) {
+            this.fullZombieName = "conehead";
+        } else if (armorName.equals("bucket")) {
+            this.fullZombieName = "buckethead";
+        } else if (armorName.equals("block")) {
+            this.fullZombieName = "blockhead";
+        } else {
+            this.fullZombieName = armorName; // برای knight
+        }
+    }
+
+    @Override
+    public String getTypeName() {
+        // همیشه نام کامل را برمی‌گرداند تا به عنوان زامبی normal یا نام‌های ناقص شناخته نشود
+        return fullZombieName;
+    }
+
+    @Override
+    public void applyDifficultyModifiers(int dl) {
+        // اعمال ضریب سختی روی جان زره (Armor) که قبلاً فراموش شده بود!
+        double increaseMultiplier = dl / 3.0;
+        this.armorHealth = (int) (this.armorHealth * increaseMultiplier);
+
+        // اعمال ضریب سختی روی زامبی درونی
+        wrappedZombie.applyDifficultyModifiers(dl);
+
+        // همگام‌سازی جان لایه بیرونی
+        super.setHealth(wrappedZombie.getHealth());
+        super.setMaxHealth(wrappedZombie.getMaxHealth());
     }
 
     public Zombie getWrappedZombie() {
@@ -23,16 +54,13 @@ public class ArmorDecorator extends Zombie {
 
     @Override
     public void spawn(int row, double xPosition) {
-        // هماهنگ کردن موقعیت اولیه هر دو لایه
         super.spawn(row, xPosition);
         wrappedZombie.spawn(row, xPosition);
     }
 
     @Override
     public void onTick(GameSession session) {
-        // اجرای منطق حرکت و حمله زامبی درونی
         wrappedZombie.onTick(session);
-        // همگام‌سازی موقعیت لایه بیرونی با لایه درونی که حرکت کرده است
         super.setXPosition(wrappedZombie.getXPosition());
     }
 
@@ -41,18 +69,15 @@ public class ArmorDecorator extends Zombie {
         if (armorHealth > 0) {
             armorHealth -= amount;
             if (armorHealth < 0) {
-                // اگر دمیج بیشتر از جان زره بود، مابقی به خود زامبی وارد می‌شود
                 wrappedZombie.takeDamage(-armorHealth);
                 armorHealth = 0;
             }
         } else {
             wrappedZombie.takeDamage(amount);
         }
-        // همگام‌سازی جان لایه بیرونی با لایه درونی
         super.setHealth(wrappedZombie.getHealth());
     }
 
-    // 🌟 فوروارد کردن تمام متدهای حیاتی به شیء درونی برای جلوگیری از باگ‌های رندر و فیزیک
     @Override
     public boolean isDead() { return wrappedZombie.isDead(); }
 

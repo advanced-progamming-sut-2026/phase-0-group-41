@@ -35,70 +35,53 @@ public class Shop {
         PERMANENT_ITEM_DIAMOND_PRICES.put("currency-exchange", 5);
     }
 
-    public static boolean CanBuy(User user, String itemName, Boolean useDiamonds) {
-        double cost = 0;
-        boolean isDailyOffer = user.getDailyOfferPlant() != null && user.getDailyOfferPlant().equalsIgnoreCase(itemName);
+    public static boolean CanBuy(User user, String itemName, int count, String plantType, boolean useDiamonds) {
+        Integer unitPrice = useDiamonds
+                ? PERMANENT_ITEM_DIAMOND_PRICES.get(itemName)
+                : PERMANENT_ITEM_COIN_PRICES.get(itemName);
 
-        // --- بخش خرید با الماس ---
-        if (useDiamonds) {
-            if (!PERMANENT_ITEM_DIAMOND_PRICES.containsKey(itemName)) {
-                return false;
-            }
-            cost = PERMANENT_ITEM_DIAMOND_PRICES.get(itemName);
-
-            if (user.getDiamonds() < cost) {
-                return false;
-            } else {
-                switch (itemName) {
-                    case "plant-food":
-                        user.addStoredPlantFood(1);
-                        break;
-                    case "chosen-seed-packet":
-                        user.addSeedPackets("peashooter", 1);
-                        break;
-                    case "currency-exchange":
-                        user.addCoins(500);
-                        break;
-                }
-                user.spendDiamonds((int) cost);
-                return true;
-            }
+        if (unitPrice == null) {
+            return false; // کالای نامعتبر
         }
-        // --- بخش خرید با سکه ---
-        else {
-            if (isDailyOffer) {
-                if (user.isDailyOfferPurchased()) {
-                    return false;
-                }
-                cost = 2000 * 0.8; // قیمت تخفیف‌خورده پیشنهاد روزانه (۱۶۰۰ سکه)
-            } else {
-                if (!PERMANENT_ITEM_COIN_PRICES.containsKey(itemName)) {
-                    return false;
-                }
-                cost = PERMANENT_ITEM_COIN_PRICES.get(itemName);
-            }
 
-            if (user.getCoins() < cost) {
-                return false;
-            } else {
-                if (isDailyOffer) {
-                    user.addSeedPackets(user.getDailyOfferPlant(), 10);
-                    user.setDailyOfferPurchased(true);
-                } else {
-                    switch (itemName) {
-                        case "pot":
-                            user.addPendingGreenhousePots(1);
-                            break;
-                        case "random-seed-packet":
-                            Random rand = new Random();
-                            String randomPlantName = ALL_PLANTS[rand.nextInt(ALL_PLANTS.length)];
-                            user.addSeedPackets(randomPlantName, 1);
-                            break;
-                    }
+        int totalPrice = unitPrice * count;
+
+        if (useDiamonds) {
+            if (user.getDiamonds() < totalPrice) return false;
+            user.setDiamonds(user.getDiamonds() - totalPrice);
+        } else {
+            if (user.getCoins() < totalPrice) return false;
+            user.setCoins(user.getCoins() - totalPrice);
+        }
+
+        // اعمال اثر خرید بر اساس itemName
+        applyPurchaseEffect(user, itemName, count, plantType);
+
+        return true;
+    }
+
+    private static void applyPurchaseEffect(User user, String itemName, int count, String plantType) {
+        switch (itemName) {
+            case "pot":
+                // باز کردن اسلات گلخانه، با چک سقف 20 عدد
+                break;
+            case "plant-food":
+                // اضافه کردن غذای گیاه، با چک سقف 3 عدد
+                break;
+            case "random-seed-packet":
+                // اضافه کردن count بسته بذر تصادفی
+                break;
+            case "selected-seed-packet":
+                if (plantType == null) {
+                    // خطا؛ باید قبلاً چک شده باشه توی ShopView
                 }
-                user.spendCoins((int) cost);
-                return true;
-            }
+                // اضافه کردن count بسته بذر برای plantType
+                break;
+            case "currency-exchange":
+                // تبدیل الماس به سکه
+                break;
+            default:
+                break;
         }
     }
 

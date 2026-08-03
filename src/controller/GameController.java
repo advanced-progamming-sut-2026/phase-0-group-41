@@ -91,10 +91,15 @@ public class GameController {
             showTileStatus(session, cmd);
             return true;
         }
-        // --- اضافه کردن دستور جدید ---
+
+        if (t.size() >= 3 && t.get(1).equals("plants") && t.get(2).equals("status")) {
+            showPlantsStatus(session);
+            return true;
+        }
+
         if (t.size() >= 3 && t.get(1).equals("zombies") && t.get(2).equals("info")) {
             for (Zombie z : session.getAliveZombies()) {
-                view.printZombieInfo(z); // صدا زدن متد در ConsoleView که خودش وصله به ZombieView
+                view.printZombieInfo(z);
             }
             return true;
         }
@@ -359,4 +364,43 @@ public class GameController {
             return null;
         }
     }
+
+    private void showPlantsStatus(GameSession session) {
+        view.printMessage("--- وضعیت گیاهان ---");
+        
+        // دریافت لیست گیاهانی که کاربر آنلاک کرده و در این مرحله در دسترسش هستند
+        java.util.Set<String> availablePlants = session.getUser().getUnlockedPlants();
+        int currentSun = session.getSunManager().getCurrentSun();
+
+        for (String plantName : availablePlants) {
+            try {
+                // ساخت یک نمونه موقت برای خواندن اطلاعات پایه گیاه
+                Plant p = PlantFactory.create(plantName);
+                
+                // اعمال ارتقاهای کاربر روی گیاه برای محاسبه قیمت دقیق
+                int userPlantLevel = session.getUser().getPlantLevel(plantName);
+                p.applyUpgradeLevel(userPlantLevel);
+                
+                int cost = p.getSunCost();
+                int cdTicks = session.getPlantCooldownRemaining(plantName);
+                
+                String status;
+                if (cdTicks > 0) {
+                    // تبدیل تیک به ثانیه (هر 10 تیک = 1 ثانیه)
+                    status = "در حال شارژ (" + (cdTicks / 10.0) + " ثانیه)";
+                } else if (currentSun < cost) {
+                    status = "خورشید ناکافی";
+                } else {
+                    status = "آماده کاشت";
+                }
+                
+                // چاپ فرمت‌بندی شده اطلاعات
+                view.printMessage(String.format("- %-15s | هزینه: %-4d | وضعیت: %s", plantName, cost, status));
+            } catch (Exception e) {
+                // نادیده گرفتن نام‌های نامعتبر احتمالی
+            }
+        }
+        view.printMessage("--------------------");
+    }
+
 }

@@ -35,33 +35,39 @@ public class KingZombie extends Zombie {
      * 🌟 پیدا کردن زامبی‌های ساده در سطر پادشاه یا کل بورد و تبدیل آن‌ها به شوالیه
      */
     private boolean tryUpgradeNearbyZombie(GameSession session) {
-        List<Zombie> activeZombies = session.getAliveZombies(); // فرض بر اینکه لیست زامبی‌های فعال را داریم
-        List<Zombie> eligibleZombies = new ArrayList<>();
+        java.util.List<Zombie> activeZombies = session.getAliveZombies(); 
+        java.util.List<Zombie> eligibleZombies = new java.util.ArrayList<>();
 
         if (activeZombies == null || activeZombies.isEmpty()) {
             return false;
         }
 
-        for (Zombie z : activeZombies) {
-            // شرایط واجد شرایط بودن: زنده باشد، در همان سطر پادشاه باشد، زامبی ساده باشد و از قبل شوالیه نشده باشد
+        // جستجوی زامبی‌های معمولی در همان سطر پادشاه
+        for (int i = 0; i < activeZombies.size(); i++) {
+            Zombie z = activeZombies.get(i);
             if (z != null && !z.isDead() && z.getRow() == this.getRow()) {
-                // بررسی اینکه آیا زامبی از نوع ساده ("normal") است و قابلیت ارتقا دارد
-                if ("normal".equals(z.getTypeName()) && !z.isKnight()) {
+                if ("normal".equals(z.getTypeName())) {
                     eligibleZombies.add(z);
                 }
             }
         }
 
-        // اگر زامبی ساده‌ای در آن سطر پیدا شد، نزدیک‌ترین زامبی به جبهه جلو یا راست‌ترین را انتخاب می‌کنیم
         if (!eligibleZombies.isEmpty()) {
-            // برای سادگی یا جذابیت بازی، اولین زامبی ساده واجد شرایط را به شوالیه تبدیل می‌کنیم
             Zombie targetZombie = eligibleZombies.get(0);
 
-            // اعمال ارتقا به شوالیه (کلاه‌خود و شانه‌بند)
-            targetZombie.convertToKnight();
-            return true;
-        }
+            // تبدیل قطعی زامبی معمولی به شوالیه با استفاده از ArmorDecorator
+            ArmorDecorator knightZombie = new ArmorDecorator(targetZombie, "knight", 3000, targetZombie.getWaveCost());
+            knightZombie.spawn(targetZombie.getRow(), targetZombie.getXPosition());
+            knightZombie.setSpawnTick(targetZombie.getSpawnTick());
 
+            // جایگزینی فیزیکی زامبی در لیست موتور بازی
+            int index = activeZombies.indexOf(targetZombie);
+            if (index != -1) {
+                activeZombies.set(index, knightZombie);
+                System.out.println("پادشاه یک زامبی معمولی را در مختصات (" + (int)targetZombie.getXPosition() + ", " + targetZombie.getRow() + ") به شوالیه تبدیل کرد!");
+                return true;
+            }
+        }
         return false;
     }
 }

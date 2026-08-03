@@ -8,8 +8,8 @@ import java.util.List;
 
 public class ShopView {
 
-    private final ShopController controller;
-    private final ConsoleView consoleView;
+    private ShopController controller;
+    private ConsoleView consoleView;
 
     public ShopView(ShopController controller, ConsoleView consoleView) {
         this.controller = controller;
@@ -21,22 +21,40 @@ public class ShopView {
         if (t.isEmpty()) return false;
 
         String first = t.get(0);
-
-        // دستور show shop
-        if (first.equals("show") && t.size() >= 2 && t.get(1).equals("shop")) {
-            showShop(user);
+        if (first.equals("shop")) {
+            Shop.updateDailyOffer(user);
+        }
+        if (first.equals("shop") && t.size() >= 2 && t.get(1).equals("list")) {
+            showShopList(user);
             return true;
         }
 
-        // دستور خرید
-        if (first.equals("buy") && t.size() >= 2) {
-            String itemName = t.get(1);
-            boolean success = controller.processPurchase(user, itemName);
-            
-            if (success) {
-                consoleView.printMessage("خرید " + itemName + " با موفقیت انجام شد!");
-            } else {
-                consoleView.printError("خرید ناموفق بود. یا موجودی کافی نیست یا نام کالا اشتباه است.");
+        if (first.equals("shop") && t.size() >= 2 && t.get(1).equals("daily")) {
+            showDailyOffer(user);
+            return true;
+        }
+
+        if (first.equals("shop") && t.size() >= 2 && t.get(1).equals("buy")) {
+            String itemId = cmd.get("i");
+            String countStr = cmd.get("n");
+            String plantType = cmd.get("t"); // اختیاری
+
+            if (itemId == null || countStr == null) {
+                consoleView.printError("فرمت دستور اشتباه است. الگو: shop buy -i <item_id> -n <count> [-t <plant_type>]");
+                return true;
+            }
+
+            try {
+                int count = Integer.parseInt(countStr);
+                boolean success = controller.processPurchase(user, itemId, count, plantType);
+
+                if (success) {
+                    consoleView.printMessage("خرید " + itemId + " با موفقیت انجام شد!");
+                } else {
+                    consoleView.printError("خرید ناموفق بود. یا موجودی کافی نیست یا نام کالا اشتباه است.");
+                }
+            } catch (NumberFormatException e) {
+                consoleView.printError("تعداد باید یک عدد صحیح باشد.");
             }
             return true;
         }
@@ -44,8 +62,8 @@ public class ShopView {
         return false;
     }
 
-    private void showShop(User user) {
-        consoleView.printMessage("=== فروشگاه ===");
+    private void showShopList(User user) {
+        consoleView.printMessage("=== فروشگاه (کالاهای دائمی) ===");
         consoleView.printMessage("-- با سکه --");
         for (String item : Shop.PERMANENT_ITEM_COIN_PRICES.keySet()) {
             consoleView.printMessage("- " + item + " : " + Shop.PERMANENT_ITEM_COIN_PRICES.get(item));
@@ -54,7 +72,10 @@ public class ShopView {
         for (String item : Shop.PERMANENT_ITEM_DIAMOND_PRICES.keySet()) {
             consoleView.printMessage("- " + item + " : " + Shop.PERMANENT_ITEM_DIAMOND_PRICES.get(item));
         }
-        consoleView.printMessage("-- پیشنهاد روزانه (۲۰٪ تخفیف) --");
+    }
+
+    private void showDailyOffer(User user) {
+        consoleView.printMessage("=== پیشنهاد روزانه (۲۰٪ تخفیف) ===");
         if (user.isDailyOfferPurchased()) {
             consoleView.printMessage("پیشنهاد امروز خریداری شده است!");
         } else {
