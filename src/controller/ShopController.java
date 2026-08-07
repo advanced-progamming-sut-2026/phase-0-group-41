@@ -12,11 +12,10 @@ public class ShopController {
         this.userManager = userManager;
     }
 
-    public boolean processPurchase(User user, String itemName) {
-        // تشخیص استفاده از الماس بر اساس وجود نام کالا در لیست آیتم‌های الماسی
+    public boolean processPurchase(User user, String itemName, int count, String plantType) {
         boolean useDiamonds = Shop.PERMANENT_ITEM_DIAMOND_PRICES.containsKey(itemName);
-        boolean success = Shop.CanBuy(user, itemName, useDiamonds);
-        
+        boolean success = Shop.CanBuy(user, itemName, count, plantType, useDiamonds);
+
         if (success) {
             userManager.save();
         }

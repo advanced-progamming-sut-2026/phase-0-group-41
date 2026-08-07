@@ -119,6 +119,7 @@ public class AppController {
             if (activeSession.isWon()) {
                 user.incrementLevelsCompleted();
                 user.getQuestContext().setStagesCompleted(user.getLevelsCompleted());
+                user.getQuestManager().refreshCompletionStatus(user.getQuestContext());
 
                 // ثبت پیشرفت دقیق در پروفایل کاربر (ارتقای مرحله و فصل)
                 if (activeChapter > user.getLastCompletedChapter() || 

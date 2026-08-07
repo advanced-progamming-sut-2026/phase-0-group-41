@@ -12,6 +12,7 @@ public final class ZombieFactory {
     private static final Random RANDOM = new Random();
 
     private ZombieFactory() {}
+
     public static Zombie create(String type, int difficultyLevel) {
         // ساخت زامبی خام
         Zombie zombie = buildBaseZombie(type);
@@ -19,8 +20,14 @@ public final class ZombieFactory {
         // اعمال ضرایب سختی
         zombie.applyDifficultyModifiers(difficultyLevel);
 
+        // === اضافه شدن مکانیزم ۵ درصد زامبی درخشان ===
+        if (RANDOM.nextDouble() < 0.05) {
+            zombie.setCarriesPlantFood(true);
+        }
+
         return zombie;
     }
+    
     private static Zombie buildBaseZombie(String type) {
         switch (type.toLowerCase()) {
             // === زامبی‌های پایه و قدیمی ===

@@ -20,7 +20,6 @@ public abstract class Zombie {
     private boolean dead = false;
     private boolean isHypnotized = false; // متغیر برای بررسی وضعیت هیپنوتیزم
     // === متغیرها و متدهای مربوط به ارتقای شوالیه در کلاس Zombie یا NormalZombie ===
-    private boolean isKnight = false;
 
     protected int chillTicks = 0;
     protected int originalSpeed;
@@ -48,9 +47,6 @@ public abstract class Zombie {
         this.carriesPlantFood = carries;
     }
 
-    public boolean isKnight() {
-        return this.isKnight;
-    }
     public boolean isHypnotized() {
         return this.isHypnotized;
     }
@@ -61,17 +57,9 @@ public abstract class Zombie {
         // اگر اسم متغیر جان در کلاس شما چیز دیگری است (مثل hp)، آن را جایگزین health کن
         this.health = health;
     }
-    public void convertToKnight() {
-        if (this.isKnight) return;
 
-        this.isKnight = true;
-        // طبق مستندات: کلاه‌خود و شانه‌بند به آن‌ها داده می‌شود که یعنی جان زامبی به شدت بالا می‌رود
-        // برای مثال ۲۰۰ واحد به جان فعلی زامبی ساده اضافه می‌کنیم یا جانش را ریست و تقویت می‌کنیم:
-        int bonusHealth = 300;
-        this.setHealth(this.getHealth() + bonusHealth);
-
-        // در صورت تمایل می‌توانید نام یا ظاهر آن را هم تغییر دهید:
-        // this.setName("knight_zombie");
+    public void setMaxHealth(int maxHealth) {
+        this.maxHealth = maxHealth;
     }
     public void applyChilled(int seconds) {
         this.chilledTicks = seconds * 10; // هر ثانیه ۱۰ تیک است

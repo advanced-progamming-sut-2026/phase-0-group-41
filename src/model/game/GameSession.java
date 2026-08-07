@@ -42,6 +42,7 @@ public class GameSession {
     private boolean won = false;
     private double waveHealthAtStart = 0;
     private double waveHealthRemaining = 0;
+    private boolean cooldownsDisabled = false; // برای حالت‌های خاص که کول‌داون‌ها غیرفعال می‌شوند
 
     private List<model.scoreGame.MeowPoint.GameEvent> meowEvents = new ArrayList<>();
     private boolean plantLostInCurrentWave = false; // برای رویداد WAVE_CLEARED_NO_DAMAGE
@@ -161,11 +162,14 @@ public class GameSession {
     }
 
     public void startPlantCooldown(String plantName, int ticks) {
-        plantCooldowns.put(plantName, ticks);
+        if(!cooldownsDisabled) {
+            plantCooldowns.put(plantName, ticks);
+        }
     }
 
     public void clearAllCooldowns() {
         plantCooldowns.clear();
+        cooldownsDisabled = true;
     }
 
     /** یک تیک بازی را جلو می‌برد (۱۰ تیک = ۱ ثانیه). */
@@ -246,6 +250,12 @@ public class GameSession {
         for (Zombie z : deadZombies) {
             aliveZombies.remove(z);
             System.out.println("Zombie of type " + z.getTypeName() + " is dead at (" + (int) z.getXPosition() + ", " + z.getRow() + ")");
+
+            if(z.isCarriesPlantFood()) {
+                addPlantFood();
+                System.out.println("Zombie dropped a plant food! Total plant food: " + getPlantFoodCount());
+            }
+
             if (user.getQuestManager() != null) {
                 // ۱. ثبت کیل عادی برای کوئست‌ها
                 user.getQuestManager().recordZombieKill(user.getQuestContext(), 0, null);
@@ -410,7 +420,8 @@ public class GameSession {
                 user.addDiamonds(1);
                 System.out.println("A zombie dropped a diamond; you have " + user.getDiamonds() + " diamonds now.");
             } else {
-                System.out.println("A zombie dropped a pot; you have a new greenhouse pot now.");
+                user.addPendingGreenhousePots(1);
+                System.out.println("A zombie dropped a pot; you have" + user.getPendingGreenhousePots() + " greenhouse pots now.");
             }
         }
     }

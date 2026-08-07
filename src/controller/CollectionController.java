@@ -110,7 +110,7 @@ public class CollectionController {
 
         // مقادیر پیش‌فرض ارتقا (طبق داکیومنت بعداً نهایی می‌شود)
         int upgradeCost = 1000;
-        int requiredPackets = 50;
+        int requiredPackets = 1;
 
         if (user.upgradePlant(plantName, upgradeCost, requiredPackets)) {
             userManager.save();
@@ -143,6 +143,7 @@ public class CollectionController {
         }
 
         user.getUnlockedPlants().add(plantName);
+        user.addSeedPackets(plantName, 1);
         userManager.save();
         view.printMessage("گیاه " + plantName + " با موفقیت خریداری شد.");
         return true;

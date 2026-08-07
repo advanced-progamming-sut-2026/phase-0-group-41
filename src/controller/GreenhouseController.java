@@ -73,6 +73,8 @@ public class GreenhouseController {
             user.addCoins(500); // پاداش گل معمولی
         } else {
             user.addGreenhouseBoost(plantName); // ذخیره بوست برای گیاه
+            user.addCoins(100);
+            user.addSeedPackets(plantName, 1);
         }
         
         userManager.save();
