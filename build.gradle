@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.pvz.game'
+version = '1.0-SNAPSHOT'
+
+// روش جدید و استاندارد تنظیم جاوا در گریدل‌های جدید
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+repositories {
+    mavenCentral()
+    google()
+}
+
+ext {
+    gdxVersion = '1.12.1'
+}
+
+dependencies {
+    implementation "com.badlogicgames.gdx:gdx:$gdxVersion"
+    implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
+    implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+}
