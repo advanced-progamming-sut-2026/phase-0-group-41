@@ -13,6 +13,7 @@ java {
 }
 
 repositories {
+    maven { url 'https://jitpack.io' }
     mavenCentral()
     google()
 }
@@ -20,9 +21,15 @@ repositories {
 ext {
     gdxVersion = '1.12.1'
 }
-
 dependencies {
     implementation "com.badlogicgames.gdx:gdx:$gdxVersion"
     implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
     implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+
+    // کتابخانه‌های مربوط به رابط کاربری (منوها)
+    implementation 'com.github.pizpizi:pvz-skin:v0.1.0'
+    implementation 'com.github.raeleus.TenPatch:tenpatch:5.2.3'
+
+    // کتابخانه مربوط به رندر کردن انیمیشن‌های گیاهان و زامبی‌ها
+    implementation 'com.github.pizpizi:libPVZ:v0.1.3'
 }
