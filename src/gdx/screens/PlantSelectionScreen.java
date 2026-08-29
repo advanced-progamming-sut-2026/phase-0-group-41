@@ -149,6 +149,7 @@ public class PlantSelectionScreen extends BaseMenuScreen {
             showError("Select at least one plant.");
             return;
         }
+<<<<<<< HEAD
         User user = game.getLoggedInUser();
         // TODO: chapter/level باید از یک صفحه انتخاب فصل/مرحله (Chapter/Level Select) بیاید؛
         // فعلاً طبق منطق enterChapter (فصل جاری کاربر) استفاده می‌شود تا جریان کامل باشد.
@@ -159,6 +160,11 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         // فعلاً یک لیست نمونه پاس داده می‌شود تا صفحه‌ی "آغاز مرحله" قابل تست باشد.
         java.util.List<String> objectives = java.util.Collections.emptyList();
         game.setScreen(new LevelObjectivesScreen(game, chapter, level, objectives));
+=======
+        // TODO: once the graphical gameplay screen exists, get the chosen chapter/level from a
+        // "Chapter/Level Select" screen here and transition to the gameplay Screen.
+        showError("The graphical gameplay screen is not implemented yet (planned for a later step).");
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
     }
 
     @Override

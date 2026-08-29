@@ -22,7 +22,10 @@ import gdx.screens.LeaderboardScreen;
 import gdx.screens.LoginScreen;
 import gdx.screens.MainMenuScreen;
 import gdx.screens.NewsScreen;
+<<<<<<< HEAD
 import gdx.screens.PlantSelectionScreen;
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
 import gdx.screens.ProfileScreen;
 import gdx.screens.QuestScreen;
 import gdx.screens.RegisterScreen;
@@ -119,6 +122,7 @@ public class PvZGame extends Game {
         setScreen(new GreenhouseScreen(this));
     }
 
+<<<<<<< HEAD
     public void goToPlantSelection() {
         setScreen(new PlantSelectionScreen(this));
     }
@@ -127,6 +131,10 @@ public class PvZGame extends Game {
     // LevelObjectivesScreen صدا زده شود و کاربر را وارد صفحه‌ی گرافیکی گیم‌پلی اصلی
     // (grid کاشت، زامبی‌ها، مینی‌گیم‌ها) کند؛ آن Screen هنوز پیاده‌سازی نشده است.
     // PauseScreen و WinLossScreen از قبل آماده‌اند و باید از داخل همان GameScreen صدا زده شوند.
+=======
+    // TODO: goToPlay() / goToPlantSelection() / goToGameScreen() را در ادامه‌ی
+    // پیاده‌سازی صفحه‌ی گرافیکی بازی اصلی (grid کاشت، زامبی‌ها و ...) اضافه کنید.
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
 
     public void logout() {
         mainController.logout(loggedInUser);

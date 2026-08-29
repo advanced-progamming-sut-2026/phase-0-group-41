@@ -5,7 +5,10 @@ import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.ScrollPane;
 import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
+<<<<<<< HEAD
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
@@ -19,18 +22,24 @@ import java.util.Map;
 public class ShopScreen extends BaseMenuScreen {
 
     private final HudBar hudBar;
+<<<<<<< HEAD
     private final Table dailyOfferSection = new Table();
     private TextButton dailyOfferButton;
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
 
     public ShopScreen(PvZGame game) {
         super(game);
         User user = game.getLoggedInUser();
 
+<<<<<<< HEAD
         // پیشنهاد روزانه در صورت نیاز (روز جدید) تازه‌سازی می‌شود.
         if (user != null) {
             game.getShopController().refreshDailyOffer(user);
         }
 
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
         Table top = new Table();
         top.setFillParent(true);
         top.top();
@@ -38,10 +47,14 @@ public class ShopScreen extends BaseMenuScreen {
         top.add(hudBar).expandX().fillX().top();
         stage.addActor(top);
 
+<<<<<<< HEAD
         rootTable.add(title("Shop")).padBottom(10f).row();
 
         buildDailyOfferSection(user);
         rootTable.add(dailyOfferSection).padBottom(16f).row();
+=======
+        rootTable.add(title("Shop")).padBottom(16f).row();
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
 
         Table itemsTable = new Table();
         itemsTable.top();
@@ -55,12 +68,17 @@ public class ShopScreen extends BaseMenuScreen {
 
         ScrollPane scrollPane = new ScrollPane(itemsTable, skin);
         scrollPane.setFadeScrollBars(false);
+<<<<<<< HEAD
         rootTable.add(scrollPane).width(760f).height(340f).padBottom(16f).row();
+=======
+        rootTable.add(scrollPane).width(760f).height(380f).padBottom(16f).row();
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
 
         rootTable.add(errorLabel).width(600f).padBottom(10f).row();
         addButton(rootTable, "Back to Main Menu", game::goToMainMenu);
     }
 
+<<<<<<< HEAD
     /** بخش پیشنهاد روزانه: یک گیاه تصادفی که هر روز عوض می‌شود و فقط یک‌بار در روز قابل خرید است. */
     private void buildDailyOfferSection(User user) {
         dailyOfferSection.clear();
@@ -110,6 +128,8 @@ public class ShopScreen extends BaseMenuScreen {
         }
     }
 
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
     private void addItemRow(Table table, String itemName, String priceText, boolean useDiamonds) {
         Stack iconStack = new Stack();
         if (!AssetPaths.CARD_BACKGROUND.isEmpty()) {
