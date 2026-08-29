@@ -1,77 +1,60 @@
 package controller;
 
 import model.user.SecurityQuestions;
-import model.user.User;
 import model.user.UserManager;
+import network.NetworkMessage;
+import network.NetworkManager;
 
 public class RegisterController {
-    private final UserManager userManager;
-    private User pendingRegisteredUser;
+    
+    private String pendingUsername; 
 
     public RegisterController(UserManager userManager) {
-        this.userManager = userManager;
-    }
+        // برای جلوگیری از ارور در MenuController نگه داشته شده، اما کارها سمت سرور است
+    } 
 
     public String registerUser(String username, String password, String passwordConfirm, String nickname, String email, String gender) {
-        // ۱. بررسی نام کاربری
-        if (username == null || !username.matches("^[a-zA-Z0-9\\p{Punct}]+$")) {
-            return "ERR_INVALID_USERNAME";
-        }
-        if (userManager.usernameExists(username)) {
-            return "ERR_DUPLICATE_USERNAME";
-        }
+        if (username == null || !username.matches("^[a-zA-Z0-9\\p{Punct}]+$")) return "ERR_INVALID_USERNAME";
+        if (!password.equals(passwordConfirm)) return "ERR_PASSWORD_MISMATCH";
+        if (!isPasswordStrong(password)) return "ERR_WEAK_PASSWORD";
+        if (nickname == null || nickname.length() < 3 || nickname.length() > 30) return "ERR_INVALID_NICKNAME";
+        if (email == null || !isValidEmail(email)) return "ERR_INVALID_EMAIL";
+        if (gender == null || !(gender.equalsIgnoreCase("male") || gender.equalsIgnoreCase("female"))) return "ERR_INVALID_GENDER";
 
-        // ۲. بررسی رمز عبور
-        if (!password.equals(passwordConfirm)) {
-            return "ERR_PASSWORD_MISMATCH";
-        }
-        if (!isPasswordStrong(password)) {
-            return "ERR_WEAK_PASSWORD";
-        }
+        NetworkMessage req = new NetworkMessage("REGISTER");
+        req.data.put("username", username);
+        req.data.put("password", password);
+        req.data.put("nickname", nickname);
+        req.data.put("email", email);
+        req.data.put("gender", gender);
 
-        // ۳. بررسی نام مستعار
-        if (nickname == null || nickname.length() < 3 || nickname.length() > 30) {
-            return "ERR_INVALID_NICKNAME";
+        NetworkMessage res = NetworkManager.sendRequest(req);
+        
+        if (res != null && "SUCCESS".equals(res.responseBody)) {
+            pendingUsername = username;
+            return "SUCCESS";
         }
-
-        // ۴. بررسی ایمیل
-        if (email == null || !isValidEmail(email)) {
-            return "ERR_INVALID_EMAIL";
-        }
-
-        // ۵. بررسی جنسیت
-        if (gender == null || !(gender.equalsIgnoreCase("male") || gender.equalsIgnoreCase("female"))) {
-            return "ERR_INVALID_GENDER";
-        }
-
-        // ==========================================
-        // نکته مهم: ما پسورد خام را می‌فرستیم،
-        // چون UserManager.register خودش زحمت Hash کردن را می‌کشد.
-        // ==========================================
-        pendingRegisteredUser = userManager.register(username, password, nickname, email, gender);
-        return "SUCCESS";
+        return res != null ? res.responseBody : "ERR_CONNECTION";
     }
 
     public String pickQuestion(int qId, String answer, String confirm) {
-        if (pendingRegisteredUser == null) {
-            return "ERR_NO_PENDING_USER";
-        }
-        if (!SecurityQuestions.exists(qId)) {
-            return "ERR_INVALID_QUESTION_ID";
-        }
-        if (answer == null || !answer.equals(confirm)) {
-            return "ERR_ANSWER_MISMATCH";
-        }
+        if (pendingUsername == null) return "ERR_NO_PENDING_USER";
+        if (!SecurityQuestions.exists(qId)) return "ERR_INVALID_QUESTION_ID";
+        if (answer == null || !answer.equals(confirm)) return "ERR_ANSWER_MISMATCH";
 
-        pendingRegisteredUser.setSecurityQuestionId(qId);
-        pendingRegisteredUser.setSecurityAnswer(answer);
+        NetworkMessage req = new NetworkMessage("PICK_QUESTION");
+        req.data.put("username", pendingUsername);
+        req.data.put("qId", String.valueOf(qId));
+        req.data.put("answer", answer);
 
-        userManager.save();
-        pendingRegisteredUser = null;
-        return "SUCCESS";
+        NetworkMessage res = NetworkManager.sendRequest(req);
+        if (res != null && "SUCCESS".equals(res.responseBody)) {
+            pendingUsername = null;
+            return "SUCCESS";
+        }
+        return res != null ? res.responseBody : "ERR_CONNECTION";
     }
 
-    // متدهای کمکی بدون تغییر باقی می‌مانند
     private boolean isPasswordStrong(String password) {
         String regex = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[!@#$%^&*()_+\\-=\\[\\]{}|;':\",./<>?]).{8,}$";
         return password.matches(regex);

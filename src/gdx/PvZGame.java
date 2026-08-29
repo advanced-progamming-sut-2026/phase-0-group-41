@@ -62,7 +62,7 @@ public class PvZGame extends Game {
         skin = SkinFactory.create();
 
         registerController = new RegisterController(userManager);
-        loginController = new LoginController(userManager);
+        loginController = new LoginController();
         mainController = new MainController(userManager);
         settingsController = new SettingsController(userManager);
         profileController = new ProfileController(userManager);
