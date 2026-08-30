@@ -1,5 +1,6 @@
 package gdx.assets;
 
+<<<<<<< HEAD
 import java.util.HashMap;
 import java.util.Map;
 
@@ -12,16 +13,29 @@ import java.util.Map;
  *      فایل‌های اتلس در assets/atlases/ATLAS_NAME.atlas (+ .PNG) قرار دارند.
  *
  * منابع گرافیکی این پروژه از دامپ رسمی اسپرایت‌های Plants vs. Zombies 2 استخراج شده‌اند.
+=======
+/**
+ * تمام مسیرهای فایل‌های گرافیکی (Assets) در این کلاس نگه‌داری می‌شوند.
+ * مقدار هر رشته را با آدرس فایل واقعی (نسبت به پوشه‌ی assets/) پر کنید.
+ * مثال: public static final String MAIN_MENU_BG = "backgrounds/main_menu_bg.png";
+ *
+ * تا وقتی مقداردهی نشده‌اند، مقدار آن‌ها رشته‌ی خالی "" است.
+ * کلاس ImageUtils در صورت خالی بودن مسیر، به‌جای بارگذاری تصویر
+ * یک مستطیل رنگی جایگزین (Placeholder) رسم می‌کند تا برنامه کرش نکند.
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
  */
 public final class AssetPaths {
 
     private AssetPaths() {
     }
 
+<<<<<<< HEAD
     private static String atlas(String atlasName, String regionName) {
         return "atlas:" + atlasName + ":" + regionName;
     }
 
+=======
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     // ==================== فونت‌ها ====================
     public static final String FONT_DEFAULT = "";
     public static final String FONT_TITLE = "";
@@ -29,6 +43,7 @@ public final class AssetPaths {
     public static final String UI_SKIN_ATLAS = "";
 
     // ==================== پس‌زمینه‌ها ====================
+<<<<<<< HEAD
     public static final String BG_REGISTER = atlas("DELAYLOAD_BACKGROUND_FRONTLAWN", "IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE");
     public static final String BG_LOGIN = atlas("DELAYLOAD_BACKGROUND_FRONTLAWN", "IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE");
     public static final String BG_MAIN_MENU = "backgrounds/mainmenu_bg.png";
@@ -45,12 +60,32 @@ public final class AssetPaths {
     public static final String BG_COLLECTION = atlas("DELAYLOAD_BACKGROUND_FRONTLAWN", "IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE");
 
     // لوگوی رسمی هنوز آپلود نشده.
+=======
+    public static final String BG_REGISTER = "";
+    public static final String BG_LOGIN = "";
+    public static final String BG_MAIN_MENU = "backgrounds/mainmenu_bg.png";
+    public static final String BG_SETTINGS = "";
+    public static final String BG_NEWS = "";
+    public static final String BG_PROFILE = "";
+    public static final String BG_SHOP = "";
+    public static final String BG_QUEST = "";
+    public static final String BG_LEADERBOARD = "";
+    public static final String BG_GREENHOUSE = "backgrounds/greenhouse_bg.png";
+    public static final String BG_PLANT_SELECTION = "";
+    public static final String BG_CHAPTER_SELECT = "";
+    public static final String BG_LEVEL_SELECT = "";
+    public static final String BG_COLLECTION = "";
+
+    // لوگوی رسمی Plants vs Zombies 2 هنوز آپلود نشده (فایل عکس لوگو مشکل داشت).
+    // وقتی فایل لوگو رو جداگانه فرستادید، اینجا مسیرش رو بذارید، مثلاً: "backgrounds/pvz2_logo.png"
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     public static final String LOGO_PVZ2 = "";
 
     // پس‌زمینه‌ی عمومی کارت‌ها (گیاه/آیتم) در فروشگاه و انتخاب گیاه
     public static final String CARD_BACKGROUND = "ui/card_bg.png";
 
     // ==================== آیکون‌های نوار بالا (HUD) ====================
+<<<<<<< HEAD
     public static final String ICON_COIN = atlas("UI_ALWAYSLOADED", "IMAGE_UI_COINS_STACK_1");
     public static final String ICON_DIAMOND = atlas("UI_ALWAYSLOADED", "IMAGE_UI_GEMS_STACK_3");
     public static final String ICON_STAR = "";
@@ -123,6 +158,18 @@ public final class AssetPaths {
     public static final String PROJECTILE_NORMAL = "";
     public static final String PROJECTILE_FIRE = "";
     public static final String PROJECTILE_ICE = "";
+=======
+    public static final String ICON_COIN = "";
+    public static final String ICON_DIAMOND = "icons/diamond.png";
+    public static final String ICON_STAR = "";
+    public static final String ICON_LOCK = "";
+    public static final String ICON_NEWS_BELL = "";
+    public static final String ICON_SETTINGS_GEAR = "";
+    public static final String ICON_BACK_ARROW = "";
+    public static final String ICON_LOGOUT = "";
+    public static final String ICON_SUN = "";
+    public static final String ICON_PLANT_FOOD = "";
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
     // ==================== دکمه‌ها ====================
     public static final String BTN_DEFAULT_UP = "";
@@ -132,6 +179,7 @@ public final class AssetPaths {
     public static final String BTN_CLOSE = "";
 
     // ==================== گیاهان (کارت‌ها/آیکون بسته بذر) ====================
+<<<<<<< HEAD
     // نگاشت: نام داخلی گیاه (خروجی Plant.getName()) -> ناحیه‌ی مربوطه در اتلس گیاه واقعی بازی
     private static final Map<String, String> PLANT_ATLAS = new HashMap<>();
     private static final Map<String, String> PLANT_REGION = new HashMap<>();
@@ -467,4 +515,29 @@ public final class AssetPaths {
     public static final String SFX_HUGE_WAVE = "audio/huge-wave.wav";
     public static final String SFX_BOSS_HURT = "audio/boss-hurt.wav";
     public static final String SFX_BOSS_MOVE = "audio/boss-move.wav";
+=======
+    // کلید = نام داخلی گیاه (همان چیزی که در PlantFactory استفاده می‌شود)
+    // مقدار = مسیر تصویر seed packet مربوطه. خالی بگذارید تا خودتان پر کنید.
+    public static String plantIcon(String plantName) {
+        // TODO: نگاشت نام گیاه به مسیر تصویر را اینجا تکمیل کنید
+        return "";
+    }
+
+    // ==================== زامبی‌ها ====================
+    public static String zombieIcon(String zombieName) {
+        // TODO: نگاشت نام زامبی به مسیر تصویر را اینجا تکمیل کنید
+        return "";
+    }
+
+    // ==================== گلخانه ====================
+    public static final String GREENHOUSE_POT_EMPTY = "";
+    public static final String GREENHOUSE_POT_LOCKED = "";
+    public static final String GREENHOUSE_POT_GROWING = "";
+    public static final String GREENHOUSE_POT_READY = "";
+
+    // ==================== صدا / موسیقی ====================
+    public static final String MUSIC_MENU = "";
+    public static final String SFX_CLICK = "";
+    public static final String SFX_ERROR = "";
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 }

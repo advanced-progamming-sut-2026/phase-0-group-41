@@ -5,7 +5,14 @@ import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.ScrollPane;
 import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
+<<<<<<< HEAD
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
+=======
+<<<<<<< HEAD
+import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
@@ -19,18 +26,35 @@ import java.util.Map;
 public class ShopScreen extends BaseMenuScreen {
 
     private final HudBar hudBar;
+<<<<<<< HEAD
     private final Table dailyOfferSection = new Table();
     private TextButton dailyOfferButton;
+=======
+<<<<<<< HEAD
+    private final Table dailyOfferSection = new Table();
+    private TextButton dailyOfferButton;
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
     public ShopScreen(PvZGame game) {
         super(game);
         User user = game.getLoggedInUser();
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         // پیشنهاد روزانه در صورت نیاز (روز جدید) تازه‌سازی می‌شود.
         if (user != null) {
             game.getShopController().refreshDailyOffer(user);
         }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         Table top = new Table();
         top.setFillParent(true);
         top.top();
@@ -38,10 +62,20 @@ public class ShopScreen extends BaseMenuScreen {
         top.add(hudBar).expandX().fillX().top();
         stage.addActor(top);
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         rootTable.add(title("Shop")).padBottom(10f).row();
 
         buildDailyOfferSection(user);
         rootTable.add(dailyOfferSection).padBottom(16f).row();
+<<<<<<< HEAD
+=======
+=======
+        rootTable.add(title("Shop")).padBottom(16f).row();
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
         Table itemsTable = new Table();
         itemsTable.top();
@@ -55,12 +89,24 @@ public class ShopScreen extends BaseMenuScreen {
 
         ScrollPane scrollPane = new ScrollPane(itemsTable, skin);
         scrollPane.setFadeScrollBars(false);
+<<<<<<< HEAD
         rootTable.add(scrollPane).width(760f).height(340f).padBottom(16f).row();
+=======
+<<<<<<< HEAD
+        rootTable.add(scrollPane).width(760f).height(340f).padBottom(16f).row();
+=======
+        rootTable.add(scrollPane).width(760f).height(380f).padBottom(16f).row();
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
         rootTable.add(errorLabel).width(600f).padBottom(10f).row();
         addButton(rootTable, "Back to Main Menu", game::goToMainMenu);
     }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     /** بخش پیشنهاد روزانه: یک گیاه تصادفی که هر روز عوض می‌شود و فقط یک‌بار در روز قابل خرید است. */
     private void buildDailyOfferSection(User user) {
         dailyOfferSection.clear();
@@ -74,7 +120,11 @@ public class ShopScreen extends BaseMenuScreen {
         if (!AssetPaths.CARD_BACKGROUND.isEmpty()) {
             iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         }
+<<<<<<< HEAD
         iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(user.getDailyOfferPlant()))));
+=======
+        iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.plantIcon(user.getDailyOfferPlant()))));
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         dailyOfferSection.add(iconStack).size(56f).padRight(10f);
 
         dailyOfferSection.add(new Label(user.getDailyOfferPlant(), skin)).width(220f).left();
@@ -110,12 +160,21 @@ public class ShopScreen extends BaseMenuScreen {
         }
     }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     private void addItemRow(Table table, String itemName, String priceText, boolean useDiamonds) {
         Stack iconStack = new Stack();
         if (!AssetPaths.CARD_BACKGROUND.isEmpty()) {
             iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         }
+<<<<<<< HEAD
         iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(itemName))));
+=======
+        iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.plantIcon(itemName))));
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         table.add(iconStack).size(48f).padRight(10f);
         table.add(new Label(itemName, skin)).width(220f).left();
         table.add(new Label(priceText, skin)).width(120f);

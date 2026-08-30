@@ -21,9 +21,12 @@ sourceSets {
         java {
             srcDirs = ['src']
         }
+<<<<<<< HEAD
         resources {
             srcDirs = ['assets']
         }
+=======
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     }
 }
 

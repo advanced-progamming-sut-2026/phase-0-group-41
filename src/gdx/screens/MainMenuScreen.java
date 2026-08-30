@@ -8,7 +8,10 @@ import gdx.PvZGame;
 import gdx.assets.AssetPaths;
 import gdx.util.HudBar;
 import gdx.util.ImageUtils;
+<<<<<<< HEAD
 import gdx.util.SoundManager;
+=======
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 import model.user.User;
 
 public class MainMenuScreen extends BaseMenuScreen {
@@ -16,8 +19,11 @@ public class MainMenuScreen extends BaseMenuScreen {
     public MainMenuScreen(PvZGame game) {
         super(game);
 
+<<<<<<< HEAD
         SoundManager.playMusic(AssetPaths.MUSIC_MENU);
 
+=======
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         User user = game.getLoggedInUser();
 
         Table top = new Table();

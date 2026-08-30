@@ -23,6 +23,10 @@ public class SettingsController {
 
         return "SUCCESS";
     }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
     public String changeGameSettings(User user, float gameSpeed, boolean showHitboxes, boolean debugMode) {
         if (gameSpeed < 1f || gameSpeed > 3f) {
@@ -65,4 +69,9 @@ public class SettingsController {
 
         return "ERR_INVALID_CHEAT_TYPE";
     }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 }

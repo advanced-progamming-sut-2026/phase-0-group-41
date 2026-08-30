@@ -17,20 +17,33 @@ import controller.ShopController;
 import model.user.User;
 import model.user.UserManager;
 
+<<<<<<< HEAD
 import gdx.screens.GameScreen;
+=======
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 import gdx.screens.GreenhouseScreen;
 import gdx.screens.LeaderboardScreen;
 import gdx.screens.LoginScreen;
 import gdx.screens.MainMenuScreen;
 import gdx.screens.NewsScreen;
+<<<<<<< HEAD
 import gdx.screens.PlantSelectionScreen;
+=======
+<<<<<<< HEAD
+import gdx.screens.PlantSelectionScreen;
+=======
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 import gdx.screens.ProfileScreen;
 import gdx.screens.QuestScreen;
 import gdx.screens.RegisterScreen;
 import gdx.screens.SettingsScreen;
 import gdx.screens.ShopScreen;
 import gdx.util.SkinFactory;
+<<<<<<< HEAD
 import model.game.GameSession;
+=======
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
 /**
  * کلاس اصلی برنامه‌ی گرافیکی (جایگزین AppController.run() کنسولی).
@@ -121,15 +134,30 @@ public class PvZGame extends Game {
         setScreen(new GreenhouseScreen(this));
     }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     public void goToPlantSelection() {
         setScreen(new PlantSelectionScreen(this));
     }
 
+<<<<<<< HEAD
     /** ورود به صفحه‌ی گرافیکی گیم‌پلی اصلی (grid کاشت، زامبی‌ها، خورشید، پرتابه‌ها و ...). */
     public void goToGameScreen(int chapter, int level, int totalWaves) {
         GameSession session = new GameSession(loggedInUser, totalWaves);
         setScreen(new GameScreen(this, session, chapter, level));
     }
+=======
+    // TODO: goToGameScreen(int chapter, int level, List<String> plants) باید بعد از
+    // LevelObjectivesScreen صدا زده شود و کاربر را وارد صفحه‌ی گرافیکی گیم‌پلی اصلی
+    // (grid کاشت، زامبی‌ها، مینی‌گیم‌ها) کند؛ آن Screen هنوز پیاده‌سازی نشده است.
+    // PauseScreen و WinLossScreen از قبل آماده‌اند و باید از داخل همان GameScreen صدا زده شوند.
+=======
+    // TODO: goToPlay() / goToPlantSelection() / goToGameScreen() را در ادامه‌ی
+    // پیاده‌سازی صفحه‌ی گرافیکی بازی اصلی (grid کاشت، زامبی‌ها و ...) اضافه کنید.
+>>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
     public void logout() {
         mainController.logout(loggedInUser);
@@ -212,7 +240,10 @@ public class PvZGame extends Game {
         }
         skin.dispose();
         gdx.util.ImageUtils.disposeAll();
+<<<<<<< HEAD
         gdx.util.SoundManager.disposeAll();
+=======
+>>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     }
 }
 
