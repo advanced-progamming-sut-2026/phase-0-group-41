@@ -1,0 +1,26 @@
+DELAYLOAD_BACKGROUND_ICEAGE_COMPRESSED_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_ICEAGE_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1022, 785
+  orig: 1022, 785
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ICEAGE_TEXTURE_LEFT
+  rotate: false
+  xy: 676, 788
+  size: 281, 768
+  orig: 281, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ICEAGE_TEXTURE_RIGHT
+  rotate: false
+  xy: 1, 788
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1

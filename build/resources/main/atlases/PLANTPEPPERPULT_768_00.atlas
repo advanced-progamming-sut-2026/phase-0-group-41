@@ -1,0 +1,600 @@
+PLANTPEPPERPULT_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PEPPERPULT_PROJECTILE_166X168
+  rotate: false
+  xy: 1, 297
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PEPPERPULT_PROJECTILE_55X61
+  rotate: false
+  xy: 57, 909
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_115X127
+  rotate: false
+  xy: 433, 277
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_158X59
+  rotate: false
+  xy: 1, 512
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_160X38
+  rotate: false
+  xy: 60, 882
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_163X160
+  rotate: false
+  xy: 1, 407
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_1X1
+  rotate: false
+  xy: 510, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_1X1_2
+  rotate: false
+  xy: 510, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_26X26
+  rotate: false
+  xy: 492, 193
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_26X35
+  rotate: false
+  xy: 492, 168
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_33X183
+  rotate: false
+  xy: 487, 1
+  size: 21, 117
+  orig: 21, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_34X52
+  rotate: false
+  xy: 321, 150
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_38X55
+  rotate: false
+  xy: 245, 758
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_40X49
+  rotate: false
+  xy: 130, 823
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_40X49_2
+  rotate: false
+  xy: 131, 909
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_69X72
+  rotate: false
+  xy: 266, 328
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_73X68
+  rotate: false
+  xy: 136, 218
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_87X98
+  rotate: false
+  xy: 305, 814
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_94X95
+  rotate: false
+  xy: 429, 766
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_PF_SPLAT_PEPPERPULT_PROJECTILE_PF_SPLAT_98X106
+  rotate: false
+  xy: 282, 667
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SMALL_PEPPERPULT_PROJECTILE_SMALL_166X168
+  rotate: false
+  xy: 109, 374
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SMALL_PEPPERPULT_PROJECTILE_SMALL_37X46
+  rotate: false
+  xy: 109, 329
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SPLAT_PEPPERPULT_PROJECTILE_SPLAT_105X115
+  rotate: false
+  xy: 1, 748
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SPLAT_PEPPERPULT_PROJECTILE_SPLAT_143X141
+  rotate: false
+  xy: 1, 656
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SPLAT_PEPPERPULT_PROJECTILE_SPLAT_1X1
+  rotate: false
+  xy: 510, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SPLAT_PEPPERPULT_PROJECTILE_SPLAT_24X24
+  rotate: false
+  xy: 492, 230
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SPLAT_PEPPERPULT_PROJECTILE_SPLAT_26X35
+  rotate: false
+  xy: 321, 186
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SPLAT_PEPPERPULT_PROJECTILE_SPLAT_73X68
+  rotate: false
+  xy: 266, 282
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PEPPERPULT_PROJECTILE_SPLAT_PEPPERPULT_PROJECTILE_SPLAT_88X88
+  rotate: false
+  xy: 429, 829
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SMALL_T_PEPPERPULT_PROJECTILE_SMALL_164X166
+  rotate: false
+  xy: 324, 384
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SMALL_T_PEPPERPULT_PROJECTILE_SMALL_200X140
+  rotate: false
+  xy: 136, 282
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SMALL_T_PEPPERPULT_PROJECTILE_SMALL_215X218
+  rotate: false
+  xy: 347, 1
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SMALL_T_PEPPERPULT_PROJECTILE_SMALL_223X206
+  rotate: false
+  xy: 347, 143
+  size: 143, 132
+  orig: 143, 132
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SMALL_T_PEPPERPULT_PROJECTILE_SMALL_37X46
+  rotate: false
+  xy: 109, 297
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_105X115
+  rotate: false
+  xy: 95, 747
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_143X141
+  rotate: false
+  xy: 350, 654
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_1X1
+  rotate: false
+  xy: 510, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_21X26
+  rotate: false
+  xy: 321, 248
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_240X229
+  rotate: false
+  xy: 191, 1
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_24X24
+  rotate: false
+  xy: 492, 212
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_26X35
+  rotate: false
+  xy: 492, 143
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_73X68
+  rotate: false
+  xy: 136, 172
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_86X172
+  rotate: false
+  xy: 444, 654
+  size: 55, 110
+  orig: 55, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_SPLAT_T_PEPPERPULT_PROJECTILE_SPLAT_88X88
+  rotate: false
+  xy: 1, 824
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_T_PEPPERPULT_PROJECTILE_133X138
+  rotate: false
+  xy: 195, 667
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_T_PEPPERPULT_PROJECTILE_164X166
+  rotate: false
+  xy: 217, 384
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_T_PEPPERPULT_PROJECTILE_186X133
+  rotate: false
+  xy: 131, 575
+  size: 119, 85
+  orig: 119, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_T_PEPPERPULT_PROJECTILE_199X202
+  rotate: false
+  xy: 191, 150
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_T_PEPPERPULT_PROJECTILE_207X192
+  rotate: false
+  xy: 1, 172
+  size: 133, 123
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_T_PEPPERPULT_PROJECTILE_55X61
+  rotate: false
+  xy: 353, 903
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEPPERPULT_PROJECTILE_T_PEPPERPULT_PROJECTILE_83X76
+  rotate: false
+  xy: 363, 852
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_106X61
+  rotate: false
+  xy: 224, 878
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_123X97
+  rotate: false
+  xy: 164, 758
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_124X120
+  rotate: false
+  xy: 431, 384
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_139X103
+  rotate: false
+  xy: 282, 746
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_149X141
+  rotate: false
+  xy: 252, 575
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_153X130
+  rotate: false
+  xy: 95, 662
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_16X27
+  rotate: false
+  xy: 492, 248
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_16X9
+  rotate: false
+  xy: 136, 264
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_172X163
+  rotate: false
+  xy: 321, 277
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_1X1
+  rotate: false
+  xy: 510, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_1X1_2
+  rotate: false
+  xy: 510, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_200X124
+  rotate: false
+  xy: 1, 574
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_201X126
+  rotate: false
+  xy: 244, 492
+  size: 129, 81
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_203X122
+  rotate: false
+  xy: 375, 574
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_203X125
+  rotate: false
+  xy: 375, 492
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_209X125
+  rotate: false
+  xy: 108, 492
+  size: 134, 80
+  orig: 134, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_26X23
+  rotate: false
+  xy: 321, 231
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_29X33
+  rotate: false
+  xy: 487, 120
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_32X28
+  rotate: false
+  xy: 321, 211
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_50X38
+  rotate: false
+  xy: 431, 463
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_51X32
+  rotate: false
+  xy: 473, 361
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_55X61
+  rotate: false
+  xy: 94, 909
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_57X58
+  rotate: false
+  xy: 462, 888
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_59X33
+  rotate: false
+  xy: 433, 361
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_64X26
+  rotate: false
+  xy: 465, 463
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_65X60
+  rotate: false
+  xy: 418, 888
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_84X162
+  rotate: false
+  xy: 373, 746
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_84X48
+  rotate: false
+  xy: 165, 882
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_84X48_2
+  rotate: false
+  xy: 1, 883
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_89X46
+  rotate: false
+  xy: 294, 879
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_90X88
+  rotate: false
+  xy: 70, 823
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_90X91
+  rotate: false
+  xy: 164, 822
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEPPERPULT_PEPPERPULT_90X97
+  rotate: false
+  xy: 245, 814
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1

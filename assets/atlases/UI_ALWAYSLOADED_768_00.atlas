@@ -1,0 +1,887 @@
+UI_ALWAYSLOADED_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_COINS_STACK_1
+  rotate: false
+  xy: 1080, 1878
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+IMAGE_UI_COINS_STACK_3
+  rotate: false
+  xy: 1949, 402
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+IMAGE_UI_COINS_STACK_4
+  rotate: false
+  xy: 1567, 1793
+  size: 144, 116
+  orig: 144, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_COINS_STACK_5
+  rotate: false
+  xy: 1443, 964
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_COINS_STACK_6
+  rotate: false
+  xy: 1777, 277
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_COINS_STACK_7
+  rotate: false
+  xy: 1433, 1394
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CONVEYOR_CONVEYOR_BELT
+  rotate: false
+  xy: 1509, 2024
+  size: 127, 18
+  orig: 127, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CONVEYOR_CONVEYOR_TOP
+  rotate: false
+  xy: 1613, 833
+  size: 127, 10
+  orig: 127, 10
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_BIG_TOP_STACK_0
+  rotate: false
+  xy: 1949, 503
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_BIG_TOP_STACK_1
+  rotate: false
+  xy: 1603, 977
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_BIG_TOP_STACK_2
+  rotate: false
+  xy: 1273, 333
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_BIRTHDAYZ_STACK_1
+  rotate: false
+  xy: 1763, 977
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_BIRTHDAYZ_STACK_2
+  rotate: false
+  xy: 1442, 414
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_BIRTHDAYZ_STACK_3
+  rotate: false
+  xy: 1580, 1394
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_FEASTIVUS_STACK_1
+  rotate: false
+  xy: 1273, 1096
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_FEASTIVUS_STACK_2
+  rotate: false
+  xy: 1611, 416
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_FEASTIVUS_STACK_3
+  rotate: false
+  xy: 1727, 1394
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_FOOD_FIGHT_STACK_1
+  rotate: false
+  xy: 1433, 1103
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_FOOD_FIGHT_STACK_2
+  rotate: false
+  xy: 1780, 416
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_FOOD_FIGHT_STACK_3
+  rotate: false
+  xy: 1874, 1394
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_HARVEST_STACK_1
+  rotate: false
+  xy: 1593, 1116
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_HARVEST_STACK_2
+  rotate: false
+  xy: 1273, 553
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_HARVEST_STACK_3
+  rotate: false
+  xy: 1273, 1533
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_LAWNOFDOOM_STACK_1
+  rotate: false
+  xy: 1753, 1116
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_LAWNOFDOOM_STACK_2
+  rotate: false
+  xy: 1442, 555
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_LAWNOFDOOM_STACK_3
+  rotate: false
+  xy: 1420, 1533
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_LUNARZOOYEAR_STACK_1
+  rotate: false
+  xy: 1273, 1242
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_LUNARZOOYEAR_STACK_2
+  rotate: false
+  xy: 1611, 555
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_LUNARZOOYEAR_STACK_3
+  rotate: false
+  xy: 1567, 1533
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_MGPADVENTURES_STACK_1
+  rotate: false
+  xy: 1433, 1255
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_MGPADVENTURES_STACK_2
+  rotate: false
+  xy: 1780, 555
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_MGPADVENTURES_STACK_3
+  rotate: false
+  xy: 1714, 1533
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ROMANWORLD_STACK_2
+  rotate: false
+  xy: 1913, 1260
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ROMANWORLD_STACK_3
+  rotate: false
+  xy: 1923, 977
+  size: 120, 130
+  orig: 120, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ROMANWORLD_STACK_4
+  rotate: false
+  xy: 1227, 1941
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ROMANWORLD_STACK_5
+  rotate: false
+  xy: 1856, 1759
+  size: 139, 126
+  orig: 139, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ROMANWORLD_STACK_7
+  rotate: false
+  xy: 1932, 694
+  size: 115, 132
+  orig: 115, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ROMANWORLD_STACK_8
+  rotate: false
+  xy: 1558, 1911
+  size: 142, 111
+  orig: 142, 111
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_SPRINGENING_STACK_1
+  rotate: false
+  xy: 1996, 2001
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_TOMBASTIC_STACK_1
+  rotate: false
+  xy: 1593, 1255
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_TOMBASTIC_STACK_2
+  rotate: false
+  xy: 1273, 694
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_TOMBASTIC_STACK_3
+  rotate: false
+  xy: 1861, 1533
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_TUTORIAL_INFOGRAPHIC_SLIDE_0
+  rotate: false
+  xy: 1, 1
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_TUTORIAL_INFOGRAPHIC_SLIDE_1
+  rotate: false
+  xy: 1, 426
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_TUTORIAL_INFOGRAPHIC_SLIDE_2
+  rotate: false
+  xy: 1, 851
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_TUTORIAL_INFOGRAPHIC_SLIDE_3
+  rotate: false
+  xy: 1, 1276
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_VALENBRAINZ_STACK_1
+  rotate: false
+  xy: 1753, 1255
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_VALENBRAINZ_STACK_2
+  rotate: false
+  xy: 1442, 694
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_VALENBRAINZ_STACK_3
+  rotate: false
+  xy: 1273, 1672
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ZCORP_STACK_1
+  rotate: false
+  xy: 1273, 1394
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ZCORP_STACK_2
+  rotate: false
+  xy: 1611, 694
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CURRENCY_ZCORP_STACK_3
+  rotate: false
+  xy: 1420, 1672
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ENERGY_EVENT_ENERGY_ICON_BUNDLE_LARGE_01
+  rotate: false
+  xy: 1273, 833
+  size: 168, 130
+  orig: 168, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ENERGY_EVENT_ENERGY_ICON_BUNDLE_LARGE_02
+  rotate: false
+  xy: 1443, 833
+  size: 168, 129
+  orig: 168, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ENERGY_EVENT_ENERGY_ICON_BUNDLE_LARGE_03
+  rotate: false
+  xy: 1613, 846
+  size: 168, 129
+  orig: 168, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ENERGY_EVENT_ENERGY_ICON_BUNDLE_LARGE_04
+  rotate: false
+  xy: 1783, 846
+  size: 168, 129
+  orig: 168, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ENERGY_EVENT_ENERGY_ICON_BUNDLE_LARGE_05
+  rotate: false
+  xy: 1273, 965
+  size: 168, 129
+  orig: 168, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EYEBALL_ICON_EYEBALL_ICON_13X13
+  rotate: false
+  xy: 1949, 683
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FUEL_FUEL_ICON_BASIC
+  rotate: false
+  xy: 1428, 1811
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FUEL_STACK01
+  rotate: false
+  xy: 1949, 604
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FUEL_STACK03
+  rotate: false
+  xy: 1605, 277
+  size: 170, 135
+  orig: 170, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FUEL_STACK04
+  rotate: false
+  xy: 1080, 1929
+  size: 145, 106
+  orig: 145, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GEMS_STACK_3
+  rotate: false
+  xy: 1366, 1941
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GEMS_STACK_4
+  rotate: false
+  xy: 1567, 1672
+  size: 157, 119
+  orig: 157, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GEMS_STACK_5
+  rotate: false
+  xy: 944, 1878
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GEMS_STACK_6
+  rotate: false
+  xy: 1856, 1887
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_4PXDIVIDER
+  rotate: false
+  xy: 2042, 43
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_AUDIO_FILL
+  rotate: false
+  xy: 1997, 1861
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_BLUETAB_ACTIVE
+  rotate: false
+  xy: 1726, 1672
+  size: 215, 85
+  orig: 215, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_BLUETAB_DOWN
+  rotate: false
+  xy: 1, 1970
+  size: 215, 64
+  orig: 215, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_BUTTON_ARROW_LEFT
+  rotate: false
+  xy: 1834, 1978
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_CHECK_MARK_ANIM_CHECK_MARK_ANIM_102X102
+  rotate: false
+  xy: 1997, 1756
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_CONTENT_WELL
+  rotate: false
+  xy: 1298, 1811
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_ENERGY_REFRESH_TIMER_BACKGROUND
+  rotate: false
+  xy: 939, 2001
+  size: 125, 29
+  orig: 125, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_GREENTAB_ACTIVE
+  rotate: false
+  xy: 944, 1701
+  size: 215, 85
+  orig: 215, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_GREENTAB_DOWN
+  rotate: false
+  xy: 218, 1970
+  size: 215, 64
+  orig: 215, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_LOD_PINATA
+  rotate: false
+  xy: 1946, 275
+  size: 99, 125
+  orig: 99, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_TANTAB_DOWN
+  rotate: false
+  xy: 435, 1970
+  size: 215, 64
+  orig: 215, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_TIMER_LABEL
+  rotate: false
+  xy: 1953, 938
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_XP_PROGRESS_ICON_GREEN
+  rotate: false
+  xy: 1538, 1999
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_XP_PROGRESS_ICON_GREEN_LARGE
+  rotate: false
+  xy: 1913, 1116
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_XP_PROGRESS_ICON_YELLOW
+  rotate: false
+  xy: 1693, 2024
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GENERIC_XP_PROGRESS_ICON_YELLOW_LARGE
+  rotate: false
+  xy: 1726, 1759
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_EVENTBUTTON_HUD_PULSE_NOBUTTON_HUD_PULSE_NOBUTTON_23X23
+  rotate: false
+  xy: 1425, 536
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_EVENTBUTTON_HUD_PULSE_NOBUTTON_HUD_PULSE_NOBUTTON_28X28
+  rotate: false
+  xy: 1425, 520
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_ALERT_RING
+  rotate: false
+  xy: 1780, 694
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_CHALLENGE_PLANT_COUNT_ICON
+  rotate: false
+  xy: 2020, 938
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_CHALLENGE_ZOMBIE_TICK
+  rotate: false
+  xy: 2042, 20
+  size: 4, 21
+  orig: 4, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_DEMO
+  rotate: false
+  xy: 1605, 189
+  size: 298, 86
+  orig: 298, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_PLANTFOOD_BANK
+  rotate: false
+  xy: 944, 1788
+  size: 206, 88
+  orig: 206, 88
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_PLANTFOOD_BUTTON
+  rotate: false
+  xy: 1992, 1887
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_PLANTFOOD_BUY_CONFIRMATION
+  rotate: false
+  xy: 1915, 1
+  size: 125, 146
+  orig: 125, 146
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_PROGRESS_BAR_UPGRADE_BACKGROUND
+  rotate: false
+  xy: 2008, 1586
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_PROGRESS_BAR_UPGRADE_GREEN_FILL
+  rotate: false
+  xy: 1425, 472
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_PROGRESS_METER_FLAG_DEFAULT
+  rotate: false
+  xy: 1509, 1999
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_PROGRESS_METER_ZOMBOSS_NOTCH
+  rotate: false
+  xy: 2042, 1
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_SHOVEL_ICON
+  rotate: false
+  xy: 804, 1970
+  size: 133, 76
+  orig: 133, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_SPROUT_ICON
+  rotate: false
+  xy: 1442, 333
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_SPROUT_ICON_DOWN
+  rotate: false
+  xy: 1273, 472
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_INGAME_SPROUT_ICON_NOPLUS
+  rotate: false
+  xy: 652, 1970
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_IF_BUNDLE_2X_MULTIPLIER_ANIM_2X_MULTIPLIER_ANIM_19X19
+  rotate: false
+  xy: 1742, 833
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_UI_IF_BUNDLE_2X_MULTIPLIER_ANIM_2X_MULTIPLIER_ANIM_48X44
+  rotate: false
+  xy: 1667, 2024
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_IF_BUNDLE_IF_BUNDLE_CARD_RAYS
+  rotate: false
+  xy: 1273, 1
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_IF_BUNDLE_IF_QUICK_STORE_TOP_FRAME
+  rotate: false
+  xy: 1, 1701
+  size: 941, 267
+  orig: 941, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_IF_BUNDLE_IF_TOKEN
+  rotate: false
+  xy: 1914, 149
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_IF_BUNDLE_REWARD2_BG
+  rotate: false
+  xy: 1943, 1672
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+IMAGE_UI_IF_BUNDLE_REWARD_MULTIPLIER_BG
+  rotate: false
+  xy: 1834, 2010
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_108X108
+  rotate: false
+  xy: 1992, 1945
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_30X29
+  rotate: false
+  xy: 1932, 828
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_30X30
+  rotate: false
+  xy: 1014, 2032
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_46X47
+  rotate: false
+  xy: 2021, 1507
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_49X76
+  rotate: false
+  xy: 2021, 1467
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_54X43
+  rotate: false
+  xy: 1638, 2024
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_71X101
+  rotate: false
+  xy: 2008, 1533
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_71X57
+  rotate: false
+  xy: 2008, 1636
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_88X112
+  rotate: false
+  xy: 1509, 1941
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MINTS_STACK_3
+  rotate: false
+  xy: 1152, 1811
+  size: 144, 116
+  orig: 144, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_POWERUPS_BORDER_BOTTOM
+  rotate: false
+  xy: 939, 2032
+  size: 73, 15
+  orig: 73, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_POWERUPS_BORDER_LEFT
+  rotate: false
+  xy: 2021, 1392
+  size: 15, 73
+  orig: 15, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_POWERUPS_BORDER_RIGHT
+  rotate: false
+  xy: 1834, 1903
+  size: 15, 73
+  orig: 15, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_POWERUPS_POWERUP_FRAME
+  rotate: false
+  xy: 1605, 1
+  size: 308, 92
+  orig: 308, 92
+  offset: 0, 0
+  index: -1
+IMAGE_UI_POWERUPS_POWERUP_FRAME_MINIGAMES
+  rotate: false
+  xy: 1605, 95
+  size: 307, 92
+  orig: 307, 92
+  offset: 0, 0
+  index: -1
+IMAGE_UI_POWERUPS_POWERUP_INVENTORY_BG
+  rotate: false
+  xy: 1997, 1809
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_SUNFLOWER
+  rotate: false
+  xy: 1713, 1903
+  size: 119, 130
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_TICKETS_STACK_3
+  rotate: false
+  xy: 1161, 1701
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+IMAGE_UI_TICKETS_STACK_4
+  rotate: false
+  xy: 1953, 828
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1

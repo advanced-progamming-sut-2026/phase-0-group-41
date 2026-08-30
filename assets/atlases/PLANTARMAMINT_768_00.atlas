@@ -1,0 +1,411 @@
+PLANTARMAMINT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_104X99
+  rotate: false
+  xy: 186, 88
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_17X15
+  rotate: false
+  xy: 108, 158
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_17X15_2
+  rotate: false
+  xy: 105, 195
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_1X1
+  rotate: false
+  xy: 250, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_1X1_2
+  rotate: false
+  xy: 253, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_24X14
+  rotate: false
+  xy: 108, 133
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_25X18
+  rotate: false
+  xy: 108, 119
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_27X23
+  rotate: false
+  xy: 105, 279
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_28X24
+  rotate: false
+  xy: 63, 270
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_30X29
+  rotate: false
+  xy: 105, 174
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_30X30
+  rotate: false
+  xy: 226, 237
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_30X30_2
+  rotate: false
+  xy: 102, 240
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_30X30_3
+  rotate: false
+  xy: 1, 241
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_31X21
+  rotate: false
+  xy: 1, 275
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_31X21_2
+  rotate: false
+  xy: 83, 278
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_37X41
+  rotate: false
+  xy: 132, 209
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_37X41_2
+  rotate: false
+  xy: 158, 209
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_38X27
+  rotate: false
+  xy: 218, 67
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_39X45
+  rotate: false
+  xy: 226, 206
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_39X45_2
+  rotate: false
+  xy: 105, 209
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_40X17
+  rotate: false
+  xy: 31, 272
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_41X17
+  rotate: false
+  xy: 143, 272
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_43X17
+  rotate: false
+  xy: 1, 262
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_43X17_2
+  rotate: false
+  xy: 180, 266
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_55X53
+  rotate: false
+  xy: 218, 1
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_74X114
+  rotate: false
+  xy: 1, 119
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_81X81
+  rotate: false
+  xy: 51, 174
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_86X82
+  rotate: false
+  xy: 51, 119
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_ARMAMINT_90X78
+  rotate: false
+  xy: 186, 154
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_138X133
+  rotate: false
+  xy: 127, 1
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_14X15
+  rotate: false
+  xy: 246, 178
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_14X15_2
+  rotate: false
+  xy: 246, 190
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_16X15
+  rotate: false
+  xy: 246, 154
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_16X15_2
+  rotate: false
+  xy: 246, 166
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_16X28
+  rotate: false
+  xy: 245, 67
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_17X19
+  rotate: false
+  xy: 108, 144
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_194X181
+  rotate: false
+  xy: 1, 1
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_1X1
+  rotate: false
+  xy: 250, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_1X1_2
+  rotate: false
+  xy: 253, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_26X23
+  rotate: false
+  xy: 191, 279
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_27X30
+  rotate: false
+  xy: 223, 258
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_28X27
+  rotate: false
+  xy: 123, 259
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_28X31
+  rotate: false
+  xy: 43, 250
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_31X23
+  rotate: false
+  xy: 98, 261
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_32X31
+  rotate: false
+  xy: 132, 237
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_35X30
+  rotate: false
+  xy: 77, 228
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_37X25
+  rotate: false
+  xy: 155, 237
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_38X31
+  rotate: false
+  xy: 50, 228
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_46X44
+  rotate: false
+  xy: 218, 37
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_59X57
+  rotate: false
+  xy: 186, 206
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_73X70
+  rotate: false
+  xy: 1, 194
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_EXPLOSION_ARMAMINT_EXPLOSION_88X185
+  rotate: false
+  xy: 127, 88
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_PROJECTILE_ARMAMINT_PROJECTILE_27X23
+  rotate: false
+  xy: 171, 279
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_PROJECTILE_ARMAMINT_PROJECTILE_29X29
+  rotate: false
+  xy: 22, 241
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_PROJECTILE_ARMAMINT_PROJECTILE_30X29
+  rotate: false
+  xy: 181, 245
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_PROJECTILE_ARMAMINT_PROJECTILE_30X30
+  rotate: false
+  xy: 202, 245
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_PROJECTILE_ARMAMINT_PROJECTILE_30X30_2
+  rotate: false
+  xy: 77, 249
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_ARMAMINT_PROJECTILE_ARMAMINT_PROJECTILE_35X23
+  rotate: false
+  xy: 155, 255
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1

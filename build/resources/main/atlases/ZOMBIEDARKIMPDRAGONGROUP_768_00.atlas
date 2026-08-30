@@ -1,0 +1,201 @@
+ZOMBIEDARKIMPDRAGONGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_121X88
+  rotate: false
+  xy: 1, 1
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_14X11
+  rotate: false
+  xy: 114, 112
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_167X8
+  rotate: false
+  xy: 1, 155
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_16X28
+  rotate: false
+  xy: 107, 168
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_16X28_2
+  rotate: false
+  xy: 21, 180
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_17X26
+  rotate: false
+  xy: 94, 162
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_18X28
+  rotate: false
+  xy: 38, 162
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_19X26
+  rotate: false
+  xy: 66, 162
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_19X26_2
+  rotate: false
+  xy: 80, 162
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_19X28
+  rotate: false
+  xy: 52, 162
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_20X20
+  rotate: false
+  xy: 99, 112
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_23X15
+  rotate: false
+  xy: 66, 181
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_23X15_2
+  rotate: false
+  xy: 83, 181
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_23X25
+  rotate: false
+  xy: 21, 162
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_23X26
+  rotate: false
+  xy: 110, 149
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_27X31
+  rotate: false
+  xy: 1, 162
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_27X32
+  rotate: false
+  xy: 50, 60
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_30X30
+  rotate: false
+  xy: 99, 91
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_52X29
+  rotate: false
+  xy: 82, 128
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_53X28
+  rotate: false
+  xy: 1, 134
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_55X39
+  rotate: false
+  xy: 45, 128
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_66X33
+  rotate: false
+  xy: 1, 111
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_6X6
+  rotate: false
+  xy: 70, 67
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_70X71
+  rotate: false
+  xy: 81, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_71X62
+  rotate: false
+  xy: 81, 49
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_73X54
+  rotate: false
+  xy: 50, 91
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_73X76
+  rotate: false
+  xy: 1, 60
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_DRAGON_ZOMBIE_DARK_IMP_DRAGON_7X7
+  rotate: false
+  xy: 70, 60
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

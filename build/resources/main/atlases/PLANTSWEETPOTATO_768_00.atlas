@@ -1,0 +1,194 @@
+PLANTSWEETPOTATO_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_101X100
+  rotate: false
+  xy: 1, 1
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_101X100_2
+  rotate: false
+  xy: 1, 67
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_101X92
+  rotate: false
+  xy: 1, 197
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_14X14
+  rotate: false
+  xy: 117, 102
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_14X17
+  rotate: false
+  xy: 115, 56
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_15X17
+  rotate: false
+  xy: 115, 43
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_16X12
+  rotate: false
+  xy: 114, 113
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_17X29
+  rotate: false
+  xy: 115, 22
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_18X29
+  rotate: false
+  xy: 114, 1
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_21X12
+  rotate: false
+  xy: 104, 187
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_23X21
+  rotate: false
+  xy: 102, 171
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_24X29
+  rotate: false
+  xy: 65, 153
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_24X38
+  rotate: false
+  xy: 91, 130
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_25X17
+  rotate: false
+  xy: 86, 187
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_25X20
+  rotate: false
+  xy: 68, 187
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_26X21
+  rotate: false
+  xy: 83, 157
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_29X17
+  rotate: false
+  xy: 65, 174
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_29X20
+  rotate: false
+  xy: 109, 156
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_30X32
+  rotate: false
+  xy: 109, 133
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_31X13
+  rotate: false
+  xy: 95, 102
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_33X33
+  rotate: false
+  xy: 68, 130
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_38X54
+  rotate: false
+  xy: 68, 76
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_39X37
+  rotate: false
+  xy: 95, 76
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_69X23
+  rotate: false
+  xy: 68, 113
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_69X61
+  rotate: false
+  xy: 68, 1
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_70X49
+  rotate: false
+  xy: 68, 42
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SWEETPOTATO_SWEETPOTATO_96X96
+  rotate: false
+  xy: 1, 133
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1

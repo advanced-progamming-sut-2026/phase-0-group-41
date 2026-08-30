@@ -1,0 +1,446 @@
+PLANTPOTATOMINE_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_102X249
+  rotate: false
+  xy: 299, 116
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_104X259
+  rotate: false
+  xy: 419, 1
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_104X99
+  rotate: false
+  xy: 153, 218
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_105X99
+  rotate: false
+  xy: 222, 219
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_112X95
+  rotate: false
+  xy: 79, 215
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_116X101
+  rotate: false
+  xy: 79, 148
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_116X101_2
+  rotate: false
+  xy: 367, 169
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_122X83
+  rotate: false
+  xy: 367, 247
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_129X123
+  rotate: false
+  xy: 156, 137
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_144X54
+  rotate: false
+  xy: 97, 284
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_147X54
+  rotate: false
+  xy: 1, 278
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_14X15
+  rotate: false
+  xy: 406, 140
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_14X15_2
+  rotate: false
+  xy: 406, 152
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_16X15
+  rotate: false
+  xy: 406, 116
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_184X176
+  rotate: false
+  xy: 299, 1
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_19X17
+  rotate: false
+  xy: 498, 312
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_1X1
+  rotate: false
+  xy: 506, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_1X1_2
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_21X17
+  rotate: false
+  xy: 498, 285
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_21X29
+  rotate: false
+  xy: 498, 247
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_220X209
+  rotate: false
+  xy: 156, 1
+  size: 141, 134
+  orig: 141, 134
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_238X226
+  rotate: false
+  xy: 1, 1
+  size: 153, 145
+  orig: 153, 145
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_24X18
+  rotate: false
+  xy: 100, 361
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_25X64
+  rotate: false
+  xy: 488, 1
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_32X27
+  rotate: false
+  xy: 488, 142
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_57X50
+  rotate: false
+  xy: 250, 334
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_61X81
+  rotate: false
+  xy: 397, 302
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_64X122
+  rotate: false
+  xy: 291, 278
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_76X124
+  rotate: false
+  xy: 447, 247
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_86X124
+  rotate: false
+  xy: 241, 137
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_88X119
+  rotate: false
+  xy: 443, 169
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_89X81
+  rotate: false
+  xy: 191, 285
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_95X73
+  rotate: false
+  xy: 334, 302
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POTATOMINE_EXPLOSION_POTATOMINE_EXPLOSION_95X73_2
+  rotate: false
+  xy: 1, 315
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_117X82
+  rotate: false
+  xy: 1, 223
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_119X113
+  rotate: false
+  xy: 1, 148
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_14X11
+  rotate: false
+  xy: 502, 172
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_14X12
+  rotate: false
+  xy: 502, 162
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_16X16
+  rotate: false
+  xy: 406, 128
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_18X17
+  rotate: false
+  xy: 500, 358
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_18X23
+  rotate: false
+  xy: 498, 268
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_19X15
+  rotate: false
+  xy: 1, 364
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_19X18
+  rotate: false
+  xy: 498, 298
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_1X1
+  rotate: false
+  xy: 506, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_24X21
+  rotate: false
+  xy: 82, 361
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_25X27
+  rotate: false
+  xy: 64, 361
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_30X31
+  rotate: false
+  xy: 488, 120
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_33X40
+  rotate: false
+  xy: 488, 44
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_34X34
+  rotate: false
+  xy: 488, 72
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_34X34_2
+  rotate: false
+  xy: 488, 96
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_36X25
+  rotate: false
+  xy: 334, 278
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_38X44
+  rotate: false
+  xy: 473, 358
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_44X51
+  rotate: false
+  xy: 399, 356
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_50X73
+  rotate: false
+  xy: 250, 285
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_58X43
+  rotate: false
+  xy: 289, 358
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_58X67
+  rotate: false
+  xy: 367, 116
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_65X26
+  rotate: false
+  xy: 429, 358
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_85X35
+  rotate: false
+  xy: 123, 351
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_89X59
+  rotate: false
+  xy: 64, 321
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_90X43
+  rotate: false
+  xy: 189, 339
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_98X27
+  rotate: false
+  xy: 334, 356
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_98X42
+  rotate: false
+  xy: 438, 329
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POTATOMINE_POTATOMINE_99X43
+  rotate: false
+  xy: 123, 321
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,47 @@
+DELAYLOAD_BACKGROUND_FRONTLAWN_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_FRONTLAWN_ROW_01
+  rotate: false
+  xy: 794, 1095
+  size: 779, 213
+  orig: 779, 213
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FRONTLAWN_ROW_03
+  rotate: false
+  xy: 794, 771
+  size: 748, 322
+  orig: 748, 322
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FRONTLAWN_ROW_05
+  rotate: false
+  xy: 1, 771
+  size: 791, 498
+  orig: 791, 498
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE_LEFT
+  rotate: false
+  xy: 1702, 1
+  size: 278, 768
+  orig: 278, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE_RIGHT
+  rotate: false
+  xy: 1027, 1
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1

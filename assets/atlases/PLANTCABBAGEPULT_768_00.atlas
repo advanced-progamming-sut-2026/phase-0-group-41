@@ -1,0 +1,362 @@
+PLANTCABBAGEPULT_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_CLOUD_FRONT
+  rotate: false
+  xy: 369, 1
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PARTICLE_01
+  rotate: false
+  xy: 395, 257
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PARTICLE_02
+  rotate: false
+  xy: 173, 246
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PARTICLE_03
+  rotate: false
+  xy: 460, 67
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PARTICLE_04
+  rotate: false
+  xy: 68, 270
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PARTICLE_05
+  rotate: false
+  xy: 493, 67
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PARTICLE_06
+  rotate: false
+  xy: 205, 222
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PARTICLE_BITS
+  rotate: false
+  xy: 408, 168
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PLANTFOOD_PROJECTILE_100X106
+  rotate: false
+  xy: 447, 86
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_CABBAGEPULT_PLANTFOOD_PROJECTILE_103X98
+  rotate: false
+  xy: 340, 168
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_EXPLODE_PUFF
+  rotate: false
+  xy: 247, 242
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CABBAGEPULT_PLANTFOOD_PROJECTILE_WHITE
+  rotate: false
+  xy: 369, 86
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_CABBAGEPULT_CABBAGEPULT_PARTICLE_01
+  rotate: false
+  xy: 415, 257
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_CABBAGEPULT_CABBAGEPULT_PARTICLE_02
+  rotate: false
+  xy: 98, 247
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_CABBAGEPULT_CABBAGEPULT_PARTICLE_03
+  rotate: false
+  xy: 408, 206
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_CABBAGEPULT_CABBAGEPULT_PARTICLE_04
+  rotate: false
+  xy: 372, 270
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_CABBAGEPULT_CABBAGEPULT_PARTICLE_05
+  rotate: false
+  xy: 205, 192
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_CABBAGEPULT_CABBAGEPULT_PARTICLE_06
+  rotate: false
+  xy: 467, 270
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_CABBAGEPULT_CABBAGEPULT_PARTICLE_BITS
+  rotate: false
+  xy: 291, 240
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_CABBAGEPULT_PROJECTILE_T_CABBAGEPULT_PROJECTILE_125X117
+  rotate: false
+  xy: 258, 108
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_CABBAGEPULT_PROJECTILE_T_CABBAGEPULT_PROJECTILE_125X117_2
+  rotate: false
+  xy: 141, 115
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_CABBAGEPULT_PROJECTILE_T_CABBAGEPULT_PROJECTILE_215X218
+  rotate: false
+  xy: 1, 1
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_CABBAGEPULT_PROJECTILE_T_CABBAGEPULT_PROJECTILE_98X103
+  rotate: false
+  xy: 72, 143
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_102X81
+  rotate: false
+  xy: 137, 192
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_102X86
+  rotate: false
+  xy: 223, 185
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_107X107
+  rotate: false
+  xy: 1, 143
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_16X23
+  rotate: false
+  xy: 395, 233
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_170X164
+  rotate: false
+  xy: 258, 1
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_180X174
+  rotate: false
+  xy: 141, 1
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_19X12
+  rotate: false
+  xy: 223, 175
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_21X9
+  rotate: false
+  xy: 237, 175
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_23X18
+  rotate: false
+  xy: 205, 208
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_33X26
+  rotate: false
+  xy: 45, 270
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_33X33
+  rotate: false
+  xy: 340, 144
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_33X54
+  rotate: false
+  xy: 372, 233
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_35X53
+  rotate: false
+  xy: 340, 108
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_46X24
+  rotate: false
+  xy: 435, 257
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_49X35
+  rotate: false
+  xy: 223, 150
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_49X51
+  rotate: false
+  xy: 223, 115
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_57X60
+  rotate: false
+  xy: 473, 229
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_59X58
+  rotate: false
+  xy: 332, 233
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_60X82
+  rotate: false
+  xy: 291, 185
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_61X45
+  rotate: false
+  xy: 132, 246
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_62X52
+  rotate: false
+  xy: 205, 242
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_65X44
+  rotate: false
+  xy: 1, 244
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_77X99
+  rotate: false
+  xy: 460, 1
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_80X33
+  rotate: false
+  xy: 45, 247
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_84X110
+  rotate: false
+  xy: 447, 156
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_91X52
+  rotate: false
+  xy: 72, 211
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_97X43
+  rotate: false
+  xy: 1, 214
+  size: 62, 28
+  orig: 62, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CABBAGEPULT_CABBAGEPULT_98X41
+  rotate: false
+  xy: 408, 229
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1

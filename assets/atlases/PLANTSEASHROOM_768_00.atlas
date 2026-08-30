@@ -1,0 +1,908 @@
+PLANTSEASHROOM_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SEASHROOM_PROJECTILE_SEASHROOM_PROJECTILE_128X47
+  rotate: false
+  xy: 73, 101
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEASHROOM_PROJECTILE_SEASHROOM_PROJECTILE_36X35
+  rotate: false
+  xy: 233, 449
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEASHROOM_PROJECTILE_SEASHROOM_PROJECTILE_43X33
+  rotate: false
+  xy: 57, 435
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEASHROOM_PROJECTILE_SEASHROOM_PROJECTILE_45X45
+  rotate: false
+  xy: 139, 260
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_109X63
+  rotate: false
+  xy: 1, 60
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_109X65
+  rotate: false
+  xy: 130, 57
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_11X11
+  rotate: false
+  xy: 169, 191
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_11X9
+  rotate: false
+  xy: 202, 290
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_13X10
+  rotate: false
+  xy: 158, 191
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_13X15
+  rotate: false
+  xy: 179, 158
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_13X17
+  rotate: false
+  xy: 147, 191
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_14X15
+  rotate: false
+  xy: 190, 158
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_14X19
+  rotate: false
+  xy: 191, 282
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_14X55
+  rotate: false
+  xy: 163, 475
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_14X9
+  rotate: false
+  xy: 202, 282
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_15X17
+  rotate: false
+  xy: 135, 191
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_15X58
+  rotate: false
+  xy: 246, 410
+  size: 10, 37
+  orig: 10, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_15X8
+  rotate: false
+  xy: 73, 94
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_15X9
+  rotate: false
+  xy: 245, 198
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_16X21
+  rotate: false
+  xy: 245, 182
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_16X58
+  rotate: false
+  xy: 245, 474
+  size: 10, 37
+  orig: 10, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_16X59
+  rotate: false
+  xy: 246, 51
+  size: 10, 38
+  orig: 10, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_16X59_2
+  rotate: false
+  xy: 233, 474
+  size: 10, 38
+  orig: 10, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_16X64
+  rotate: false
+  xy: 117, 58
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_16X64_2
+  rotate: false
+  xy: 245, 139
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_16X8
+  rotate: false
+  xy: 85, 94
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_17X56
+  rotate: false
+  xy: 220, 474
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_17X57
+  rotate: false
+  xy: 30, 464
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_18X58
+  rotate: false
+  xy: 16, 464
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_18X63
+  rotate: false
+  xy: 244, 257
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_18X63_2
+  rotate: false
+  xy: 243, 300
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_18X64
+  rotate: false
+  xy: 69, 458
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_19X22
+  rotate: false
+  xy: 170, 260
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_20X54
+  rotate: false
+  xy: 1, 464
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_21X56
+  rotate: false
+  xy: 119, 457
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_21X66
+  rotate: false
+  xy: 131, 413
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_21X72
+  rotate: false
+  xy: 1, 403
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_22X53
+  rotate: false
+  xy: 204, 462
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_22X56
+  rotate: false
+  xy: 53, 458
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_22X57
+  rotate: false
+  xy: 103, 451
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_22X63
+  rotate: false
+  xy: 147, 437
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_22X66
+  rotate: false
+  xy: 87, 435
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_23X26
+  rotate: false
+  xy: 83, 479
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_23X65
+  rotate: false
+  xy: 17, 403
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_23X65_2
+  rotate: false
+  xy: 114, 407
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_23X71
+  rotate: false
+  xy: 154, 389
+  size: 15, 46
+  orig: 15, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_23X72
+  rotate: false
+  xy: 40, 396
+  size: 15, 46
+  orig: 15, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_24X55
+  rotate: false
+  xy: 163, 438
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_24X57
+  rotate: false
+  xy: 228, 410
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_24X71
+  rotate: false
+  xy: 234, 346
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_24X72
+  rotate: false
+  xy: 76, 350
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_25X72
+  rotate: false
+  xy: 94, 350
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_27X63
+  rotate: false
+  xy: 1, 339
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_27X64
+  rotate: false
+  xy: 21, 339
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_27X68
+  rotate: false
+  xy: 223, 300
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_27X69
+  rotate: false
+  xy: 114, 319
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_28X29
+  rotate: false
+  xy: 135, 480
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_28X62
+  rotate: false
+  xy: 185, 361
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_28X62_2
+  rotate: false
+  xy: 112, 365
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_28X64
+  rotate: false
+  xy: 214, 346
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_28X68
+  rotate: false
+  xy: 56, 322
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_28X70
+  rotate: false
+  xy: 238, 92
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_29X61
+  rotate: false
+  xy: 134, 335
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_29X66
+  rotate: false
+  xy: 138, 291
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_29X67
+  rotate: false
+  xy: 170, 282
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_31X55
+  rotate: false
+  xy: 132, 376
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_31X64
+  rotate: false
+  xy: 116, 276
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_31X66
+  rotate: false
+  xy: 33, 276
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_31X67
+  rotate: false
+  xy: 62, 258
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_32X63
+  rotate: false
+  xy: 221, 257
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_33X35
+  rotate: false
+  xy: 181, 462
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_41X50
+  rotate: false
+  xy: 1, 281
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_41X52
+  rotate: false
+  xy: 159, 224
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_42X50
+  rotate: false
+  xy: 33, 242
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_43X49
+  rotate: false
+  xy: 33, 208
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_43X50
+  rotate: false
+  xy: 1, 216
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_44X40
+  rotate: false
+  xy: 155, 361
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_44X40_2
+  rotate: false
+  xy: 41, 368
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_44X49
+  rotate: false
+  xy: 129, 224
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_45X46
+  rotate: false
+  xy: 223, 225
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_45X48
+  rotate: false
+  xy: 98, 207
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_45X56
+  rotate: false
+  xy: 73, 169
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_45X56_2
+  rotate: false
+  xy: 104, 169
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_46X40
+  rotate: false
+  xy: 76, 322
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_46X42
+  rotate: false
+  xy: 191, 300
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_46X44
+  rotate: false
+  xy: 84, 276
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_46X45
+  rotate: false
+  xy: 1, 250
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_46X48
+  rotate: false
+  xy: 66, 207
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_46X52
+  rotate: false
+  xy: 213, 170
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_47X49
+  rotate: false
+  xy: 1, 182
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_47X53
+  rotate: false
+  xy: 34, 172
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_48X43
+  rotate: false
+  xy: 37, 103
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_48X52
+  rotate: false
+  xy: 1, 146
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_49X42
+  rotate: false
+  xy: 187, 253
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_49X50
+  rotate: false
+  xy: 179, 170
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_49X53
+  rotate: false
+  xy: 109, 133
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_51X50
+  rotate: false
+  xy: 202, 136
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_52X41
+  rotate: false
+  xy: 187, 225
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_52X48
+  rotate: false
+  xy: 143, 158
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_52X52
+  rotate: false
+  xy: 73, 133
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_52X65
+  rotate: false
+  xy: 202, 92
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_53X57
+  rotate: false
+  xy: 37, 133
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_53X64
+  rotate: false
+  xy: 1, 103
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_58X29
+  rotate: false
+  xy: 1, 382
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_65X53
+  rotate: false
+  xy: 73, 58
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_65X53_2
+  rotate: false
+  xy: 157, 101
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_66X60
+  rotate: false
+  xy: 202, 51
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_77X21
+  rotate: false
+  xy: 205, 394
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_77X23
+  rotate: false
+  xy: 159, 329
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_78X17
+  rotate: false
+  xy: 181, 449
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_78X17_2
+  rotate: false
+  xy: 1, 451
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_7X7
+  rotate: false
+  xy: 249, 13
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_82X23
+  rotate: false
+  xy: 1, 322
+  size: 53, 15
+  orig: 53, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_82X25
+  rotate: false
+  xy: 84, 258
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_82X74
+  rotate: false
+  xy: 194, 1
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_83X18
+  rotate: false
+  xy: 57, 421
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_83X18_2
+  rotate: false
+  xy: 171, 424
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_85X19
+  rotate: false
+  xy: 57, 407
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_85X19_2
+  rotate: false
+  xy: 171, 410
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_86X24
+  rotate: false
+  xy: 63, 240
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_86X27
+  rotate: false
+  xy: 135, 204
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_89X20
+  rotate: false
+  xy: 155, 346
+  size: 57, 13
+  orig: 57, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_89X21
+  rotate: false
+  xy: 55, 306
+  size: 57, 14
+  orig: 57, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_89X26
+  rotate: false
+  xy: 192, 206
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_89X29
+  rotate: false
+  xy: 143, 137
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_8X16
+  rotate: false
+  xy: 249, 1
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_96X85
+  rotate: false
+  xy: 66, 1
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_97X84
+  rotate: false
+  xy: 130, 1
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEASHROOM_SEASHROOM_98X89
+  rotate: false
+  xy: 1, 1
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1

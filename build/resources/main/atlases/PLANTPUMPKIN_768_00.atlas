@@ -1,0 +1,54 @@
+PLANTPUMPKIN_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_PUMPKIN_PUMPKIN_126X85
+  rotate: false
+  xy: 1, 115
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUMPKIN_PUMPKIN_165X39
+  rotate: false
+  xy: 84, 158
+  size: 106, 25
+  orig: 106, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUMPKIN_PUMPKIN_165X77
+  rotate: false
+  xy: 109, 106
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUMPKIN_PUMPKIN_165X86
+  rotate: false
+  xy: 1, 58
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUMPKIN_PUMPKIN_179X86
+  rotate: false
+  xy: 1, 1
+  size: 115, 55
+  orig: 115, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUMPKIN_PUMPKIN_187X78
+  rotate: false
+  xy: 118, 54
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUMPKIN_PUMPKIN_187X79
+  rotate: false
+  xy: 118, 1
+  size: 120, 51
+  orig: 120, 51
+  offset: 0, 0
+  index: -1

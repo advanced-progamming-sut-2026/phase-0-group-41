@@ -1,0 +1,334 @@
+UI_MAINMENU_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_MAINMENU_ADD_PHOTO_ICON
+  rotate: false
+  xy: 588, 911
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_BACK_BTN_NORMAL
+  rotate: false
+  xy: 462, 911
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_BACK_BTN_PRESSED
+  rotate: false
+  xy: 525, 911
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_BTN_BKGD
+  rotate: false
+  xy: 395, 911
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_CHECKBOX_DISABLED
+  rotate: false
+  xy: 567, 735
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_CHECKBOX_ENABLED
+  rotate: false
+  xy: 973, 905
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_COPYRIGHT
+  rotate: false
+  xy: 655, 916
+  size: 179, 14
+  orig: 179, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_DAVE_WAIST_CROP
+  rotate: false
+  xy: 780, 1
+  size: 242, 261
+  orig: 242, 261
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_EDIT_BTN_NORMAL
+  rotate: false
+  xy: 719, 543
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_EDIT_BTN_PRESSED
+  rotate: false
+  xy: 719, 603
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_EXTERNAL_LINK_ICON
+  rotate: false
+  xy: 685, 852
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_EXTERNAL_LINK_ICON_DOWN
+  rotate: false
+  xy: 685, 881
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_FEATURE_UNLOCK_CHARACTERS_L
+  rotate: false
+  xy: 567, 543
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_FEATURE_UNLOCK_CHARACTERS_R
+  rotate: false
+  xy: 719, 724
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_FEATURE_UNLOCK_HEADER_PANEL_BLUE
+  rotate: false
+  xy: 780, 264
+  size: 133, 458
+  orig: 133, 458
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_HIGHLIGHT_CENTER
+  rotate: false
+  xy: 1005, 264
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_HIGHLIGHT_EDGE
+  rotate: false
+  xy: 1005, 320
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_HIGHLIGHT_EDGE_DOWN
+  rotate: false
+  xy: 1005, 376
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_INSET_BKGD
+  rotate: false
+  xy: 836, 927
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_LOADER_FILL
+  rotate: false
+  xy: 395, 883
+  size: 275, 26
+  orig: 275, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_LOADER_METER
+  rotate: false
+  xy: 395, 843
+  size: 288, 38
+  orig: 288, 38
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MAINMENU_CONTENT_DOWNLOADING
+  rotate: false
+  xy: 1, 1
+  size: 777, 269
+  orig: 777, 269
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MAINMENU_CONTENT_OFFLINE
+  rotate: false
+  xy: 1, 272
+  size: 777, 269
+  orig: 777, 269
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_ARROW_RIGHT
+  rotate: false
+  xy: 950, 679
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_ARROW_RIGHT_DOWN
+  rotate: false
+  xy: 983, 679
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_CAMERA
+  rotate: false
+  xy: 871, 855
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_CAMERAWINDOWGUIDE
+  rotate: false
+  xy: 327, 543
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_DIVIDER_LEFT
+  rotate: false
+  xy: 1005, 491
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_DIVIDER_MIDDLE
+  rotate: false
+  xy: 1015, 432
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_DIVIDER_RIGHT
+  rotate: false
+  xy: 1005, 512
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_DIVIDER_VERTICAL
+  rotate: false
+  xy: 1015, 444
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_GPGSICON
+  rotate: false
+  xy: 915, 347
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_ICLOUDICON
+  rotate: false
+  xy: 915, 430
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_MERCHANDISE
+  rotate: false
+  xy: 915, 513
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_NAMEENTRY
+  rotate: false
+  xy: 327, 783
+  size: 291, 58
+  orig: 291, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_NEWSICON
+  rotate: false
+  xy: 915, 264
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_PLAYERICON
+  rotate: false
+  xy: 685, 818
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_POPCAP
+  rotate: false
+  xy: 915, 596
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_SELECTEDPROFILE_SHADE
+  rotate: false
+  xy: 1005, 432
+  size: 8, 57
+  orig: 8, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_SETTINGS
+  rotate: false
+  xy: 620, 735
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_SETTINGS_TAB
+  rotate: false
+  xy: 1, 869
+  size: 392, 59
+  orig: 392, 59
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_MM_TILE
+  rotate: false
+  xy: 1015, 439
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_NAME_FIELD
+  rotate: false
+  xy: 719, 663
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_OFFLINE_IMAGE
+  rotate: false
+  xy: 871, 724
+  size: 151, 129
+  orig: 151, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_RADIAL_GLOW_BLUE
+  rotate: false
+  xy: 1, 543
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_SLIDER_BOLT
+  rotate: false
+  xy: 973, 855
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_MAINMENU_TEXT_ENTRY_FIELD
+  rotate: false
+  xy: 915, 679
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1

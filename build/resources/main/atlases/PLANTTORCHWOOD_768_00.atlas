@@ -1,0 +1,670 @@
+PLANTTORCHWOOD_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TORCHWOOD_HIT_EFFECTS_TORCHWOOD_HIT_EFFECTS_110X122
+  rotate: false
+  xy: 74, 791
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TORCHWOOD_HIT_EFFECTS_TORCHWOOD_HIT_EFFECTS_110X122_2
+  rotate: false
+  xy: 147, 791
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TORCHWOOD_HIT_EFFECTS_TORCHWOOD_HIT_EFFECTS_126X125
+  rotate: false
+  xy: 917, 400
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TORCHWOOD_HIT_EFFECTS_TORCHWOOD_HIT_EFFECTS_148X146
+  rotate: false
+  xy: 808, 107
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TORCHWOOD_HIT_EFFECTS_TORCHWOOD_HIT_EFFECTS_1X1
+  rotate: false
+  xy: 1018, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_100X101
+  rotate: false
+  xy: 143, 951
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_101X40
+  rotate: false
+  xy: 939, 963
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_103X121
+  rotate: false
+  xy: 143, 871
+  size: 66, 78
+  orig: 66, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_105X125
+  rotate: false
+  xy: 74, 871
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_110X134
+  rotate: false
+  xy: 1, 791
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_112X49
+  rotate: false
+  xy: 800, 963
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_113X78
+  rotate: false
+  xy: 725, 963
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_114X79
+  rotate: false
+  xy: 1, 953
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_124X139
+  rotate: false
+  xy: 911, 309
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_12X12
+  rotate: false
+  xy: 1007, 104
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_136X152
+  rotate: false
+  xy: 917, 209
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_141X160
+  rotate: false
+  xy: 915, 104
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_157X127
+  rotate: false
+  xy: 808, 296
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_157X157
+  rotate: false
+  xy: 915, 1
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_164X162
+  rotate: false
+  xy: 808, 1
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_167X133
+  rotate: false
+  xy: 808, 209
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_167X95
+  rotate: false
+  xy: 808, 400
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_1X1
+  rotate: false
+  xy: 1021, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_1X1_2
+  rotate: false
+  xy: 1018, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_28X20
+  rotate: false
+  xy: 1006, 268
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_34X52
+  rotate: false
+  xy: 1000, 394
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_34X52_2
+  rotate: false
+  xy: 238, 412
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_358X352
+  rotate: false
+  xy: 494, 736
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_35X35
+  rotate: false
+  xy: 1000, 430
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_362X367
+  rotate: false
+  xy: 1, 554
+  size: 232, 235
+  orig: 232, 235
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_366X345
+  rotate: false
+  xy: 235, 762
+  size: 234, 221
+  orig: 234, 221
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_367X410
+  rotate: false
+  xy: 1, 289
+  size: 235, 263
+  orig: 235, 263
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_375X376
+  rotate: false
+  xy: 772, 485
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_381X363
+  rotate: false
+  xy: 772, 728
+  size: 244, 233
+  orig: 244, 233
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_386X388
+  rotate: false
+  xy: 523, 485
+  size: 247, 249
+  orig: 247, 249
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_38X55
+  rotate: false
+  xy: 238, 341
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_391X389
+  rotate: false
+  xy: 271, 268
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_397X376
+  rotate: false
+  xy: 238, 519
+  size: 254, 241
+  orig: 254, 241
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_40X37
+  rotate: false
+  xy: 238, 448
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_40X49
+  rotate: false
+  xy: 993, 360
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_40X49_2
+  rotate: false
+  xy: 238, 378
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_414X374
+  rotate: false
+  xy: 541, 1
+  size: 265, 240
+  orig: 265, 240
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_414X374_2
+  rotate: false
+  xy: 541, 243
+  size: 265, 240
+  orig: 265, 240
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_418X446
+  rotate: false
+  xy: 1, 1
+  size: 268, 286
+  orig: 268, 286
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_419X413
+  rotate: false
+  xy: 271, 1
+  size: 268, 265
+  orig: 268, 265
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_45X15
+  rotate: false
+  xy: 238, 474
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_46X78
+  rotate: false
+  xy: 238, 289
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_48X76
+  rotate: false
+  xy: 993, 309
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_53X54
+  rotate: false
+  xy: 423, 985
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_53X54_2
+  rotate: false
+  xy: 591, 993
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_55X65
+  rotate: false
+  xy: 725, 909
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_59X28
+  rotate: false
+  xy: 869, 380
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_60X54
+  rotate: false
+  xy: 382, 985
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_61X34
+  rotate: false
+  xy: 894, 998
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_61X70
+  rotate: false
+  xy: 725, 736
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_62X16
+  rotate: false
+  xy: 828, 1023
+  size: 40, 10
+  orig: 40, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_62X26
+  rotate: false
+  xy: 981, 1014
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_62X30
+  rotate: false
+  xy: 871, 463
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_65X23
+  rotate: false
+  xy: 377, 1022
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_66X64
+  rotate: false
+  xy: 725, 783
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_66X64_2
+  rotate: false
+  xy: 725, 826
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X22
+  rotate: false
+  xy: 782, 1022
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X24
+  rotate: false
+  xy: 141, 1018
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X24_2
+  rotate: false
+  xy: 459, 1019
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X25
+  rotate: false
+  xy: 505, 1019
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X28
+  rotate: false
+  xy: 48, 1018
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X29
+  rotate: false
+  xy: 209, 1013
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X29_2
+  rotate: false
+  xy: 935, 1014
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X30
+  rotate: false
+  xy: 690, 1015
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X30_2
+  rotate: false
+  xy: 736, 1015
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_68X59
+  rotate: false
+  xy: 725, 869
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_70X25
+  rotate: false
+  xy: 94, 1018
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_70X36
+  rotate: false
+  xy: 459, 994
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_70X36_2
+  rotate: false
+  xy: 506, 994
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_70X36_3
+  rotate: false
+  xy: 800, 997
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_70X36_4
+  rotate: false
+  xy: 847, 998
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_70X36_5
+  rotate: false
+  xy: 1, 1006
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_70X36_6
+  rotate: false
+  xy: 267, 1011
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_81X42
+  rotate: false
+  xy: 328, 985
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_82X36
+  rotate: false
+  xy: 76, 993
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_87X40
+  rotate: false
+  xy: 209, 985
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_87X42
+  rotate: false
+  xy: 591, 964
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_90X44
+  rotate: false
+  xy: 471, 964
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_90X59
+  rotate: false
+  xy: 76, 953
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_91X44
+  rotate: false
+  xy: 531, 964
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_92X28
+  rotate: false
+  xy: 808, 380
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_92X37
+  rotate: false
+  xy: 267, 985
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_95X22
+  rotate: false
+  xy: 808, 463
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_95X22_2
+  rotate: false
+  xy: 627, 1012
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_95X22_3
+  rotate: false
+  xy: 314, 1014
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_96X32
+  rotate: false
+  xy: 649, 989
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_96X32_2
+  rotate: false
+  xy: 939, 991
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_97X111
+  rotate: false
+  xy: 1, 879
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_98X51
+  rotate: false
+  xy: 874, 963
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TORCHWOOD_TORCHWOOD_99X35
+  rotate: false
+  xy: 649, 964
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1

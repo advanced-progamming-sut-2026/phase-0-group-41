@@ -1,0 +1,278 @@
+ZOMBIEEGYPTRAGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_100X96
+  rotate: false
+  xy: 1, 1
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_100X96_2
+  rotate: false
+  xy: 67, 1
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_135X8
+  rotate: false
+  xy: 169, 197
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_14X35
+  rotate: false
+  xy: 138, 173
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_17X39
+  rotate: false
+  xy: 78, 204
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_18X38
+  rotate: false
+  xy: 157, 204
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_1X1
+  rotate: false
+  xy: 249, 31
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_20X40
+  rotate: false
+  xy: 63, 204
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_21X50
+  rotate: false
+  xy: 92, 173
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_23X49
+  rotate: false
+  xy: 1, 172
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_24X56
+  rotate: false
+  xy: 151, 165
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_26X46
+  rotate: false
+  xy: 194, 165
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_28X33
+  rotate: false
+  xy: 18, 198
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_30X31
+  rotate: false
+  xy: 136, 203
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_30X37
+  rotate: false
+  xy: 18, 172
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_32X21
+  rotate: false
+  xy: 171, 204
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_34X31
+  rotate: false
+  xy: 39, 183
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_34X47
+  rotate: false
+  xy: 226, 123
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_35X30
+  rotate: false
+  xy: 63, 183
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_36X39
+  rotate: false
+  xy: 169, 165
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_37X48
+  rotate: false
+  xy: 226, 90
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_40X24
+  rotate: false
+  xy: 108, 191
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_43X25
+  rotate: false
+  xy: 108, 173
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_43X25_2
+  rotate: false
+  xy: 213, 178
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_44X33
+  rotate: false
+  xy: 225, 155
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_50X46
+  rotate: false
+  xy: 215, 31
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_52X39
+  rotate: false
+  xy: 215, 63
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_59X144
+  rotate: false
+  xy: 133, 1
+  size: 38, 92
+  orig: 38, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_59X44
+  rotate: false
+  xy: 215, 1
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_62X135
+  rotate: false
+  xy: 173, 1
+  size: 40, 87
+  orig: 40, 87
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_66X35
+  rotate: false
+  xy: 48, 158
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_66X39
+  rotate: false
+  xy: 107, 146
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_67X76
+  rotate: false
+  xy: 123, 95
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_70X72
+  rotate: false
+  xy: 1, 124
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_79X69
+  rotate: false
+  xy: 173, 90
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_86X42
+  rotate: false
+  xy: 168, 136
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_88X50
+  rotate: false
+  xy: 48, 124
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_88X88
+  rotate: false
+  xy: 64, 65
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_RA_ZOMBIE_EGYPT_RA_95X89
+  rotate: false
+  xy: 1, 65
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,572 @@
+PLANTMELONPULT_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_MELON_EXPLODE_CHUNK_01
+  rotate: false
+  xy: 206, 456
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_CHUNK_02
+  rotate: false
+  xy: 113, 165
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_CHUNK_03
+  rotate: false
+  xy: 258, 446
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_CHUNK_04
+  rotate: false
+  xy: 1, 457
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_CHUNK_05
+  rotate: false
+  xy: 498, 247
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_COCONUT_EXPLOSION_01
+  rotate: false
+  xy: 417, 90
+  size: 47, 153
+  orig: 47, 153
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_EXPLODE_PUFF
+  rotate: false
+  xy: 192, 414
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_JUICEBLOB
+  rotate: false
+  xy: 466, 150
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELONPULT_CLOUD_FRONT_COPY
+  rotate: false
+  xy: 311, 1
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELONPULT_SEED
+  rotate: false
+  xy: 113, 127
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_103X81
+  rotate: false
+  xy: 81, 402
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_125X109
+  rotate: false
+  xy: 186, 273
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_161X153
+  rotate: false
+  xy: 311, 102
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_18X18
+  rotate: false
+  xy: 466, 231
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_1X1
+  rotate: false
+  xy: 509, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_25X23
+  rotate: false
+  xy: 113, 148
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_27X25
+  rotate: false
+  xy: 54, 383
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_33X73
+  rotate: false
+  xy: 78, 274
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_43X43
+  rotate: false
+  xy: 176, 450
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_MELON_EXPLODE_65X59
+  rotate: false
+  xy: 466, 191
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_PLANTFOOD_FX_GROUND_SPINNER
+  rotate: false
+  xy: 133, 1
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MELON_EXPLODE_WHITEMELONBODY
+  rotate: false
+  xy: 389, 326
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_122X83
+  rotate: false
+  xy: 78, 347
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_156X104
+  rotate: false
+  xy: 104, 204
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_158X107
+  rotate: false
+  xy: 234, 202
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_158X107_2
+  rotate: false
+  xy: 1, 203
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_172X116
+  rotate: false
+  xy: 1, 127
+  size: 110, 74
+  orig: 110, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_27X27
+  rotate: false
+  xy: 491, 455
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_28X30
+  rotate: false
+  xy: 158, 390
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_29X34
+  rotate: false
+  xy: 78, 323
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_30X50
+  rotate: false
+  xy: 54, 349
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_33X43
+  rotate: false
+  xy: 389, 293
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_34X32
+  rotate: false
+  xy: 206, 249
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_38X57
+  rotate: false
+  xy: 149, 448
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_39X60
+  rotate: false
+  xy: 433, 441
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_39X64
+  rotate: false
+  xy: 158, 347
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_39X67
+  rotate: false
+  xy: 206, 204
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_40X61
+  rotate: false
+  xy: 405, 441
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_43X62
+  rotate: false
+  xy: 228, 414
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_46X56
+  rotate: false
+  xy: 373, 441
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_47X68
+  rotate: false
+  xy: 339, 391
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MELON_PROJECTILE_T_MELON_PROJECTILE_49X68
+  rotate: false
+  xy: 474, 326
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_117X113
+  rotate: false
+  xy: 1, 274
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_154X149
+  rotate: false
+  xy: 133, 106
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_16X23
+  rotate: false
+  xy: 498, 263
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_1X1
+  rotate: false
+  xy: 506, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_22X21
+  rotate: false
+  xy: 498, 231
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_28X23
+  rotate: false
+  xy: 28, 384
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_37X36
+  rotate: false
+  xy: 206, 476
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_45X38
+  rotate: false
+  xy: 460, 455
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_63X50
+  rotate: false
+  xy: 149, 414
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_MELONPULT_T_SPLAT_MELONPULT_81X150
+  rotate: false
+  xy: 335, 293
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_101X123
+  rotate: false
+  xy: 268, 273
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_101X39
+  rotate: false
+  xy: 259, 354
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_102X250
+  rotate: false
+  xy: 243, 1
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_111X105
+  rotate: false
+  xy: 186, 345
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_113X41
+  rotate: false
+  xy: 234, 163
+  size: 73, 26
+  orig: 73, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_117X139
+  rotate: false
+  xy: 337, 202
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_122X83
+  rotate: false
+  xy: 389, 386
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_122X83_2
+  rotate: false
+  xy: 259, 391
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_122X83_3
+  rotate: false
+  xy: 1, 402
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_124X112
+  rotate: false
+  xy: 104, 273
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_128X123
+  rotate: false
+  xy: 414, 245
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_143X136
+  rotate: false
+  xy: 417, 1
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_16X23
+  rotate: false
+  xy: 498, 280
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_1X1
+  rotate: false
+  xy: 506, 93
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_203X193
+  rotate: false
+  xy: 1, 1
+  size: 130, 124
+  orig: 130, 124
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_20X13
+  rotate: false
+  xy: 234, 191
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_23X11
+  rotate: false
+  xy: 249, 191
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_25X22
+  rotate: false
+  xy: 113, 181
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_39X22
+  rotate: false
+  xy: 1, 384
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_44X38
+  rotate: false
+  xy: 113, 456
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_46X32
+  rotate: false
+  xy: 29, 457
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_46X32_2
+  rotate: false
+  xy: 330, 473
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_46X37
+  rotate: false
+  xy: 81, 456
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_50X53
+  rotate: false
+  xy: 339, 437
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_53X43
+  rotate: false
+  xy: 294, 446
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_59X90
+  rotate: false
+  xy: 466, 90
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_65X59
+  rotate: false
+  xy: 469, 386
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_66X42
+  rotate: false
+  xy: 469, 426
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MELONPULT_MELONPULT_79X51
+  rotate: false
+  xy: 1, 349
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1

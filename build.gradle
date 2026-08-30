@@ -1,0 +1,61 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.pvz.game'
+version = '1.0-SNAPSHOT'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+application {
+    mainClass = 'gdx.DesktopLauncher'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+        resources {
+            srcDirs = ['assets']
+        }
+    }
+}
+
+repositories {
+    maven { url 'https://jitpack.io' }
+    mavenCentral()
+    google()
+}
+
+ext {
+    gdxVersion = '1.12.1'
+}
+
+dependencies {
+    implementation "com.badlogicgames.gdx:gdx:$gdxVersion"
+    implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
+    implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+}
+
+// اجرای نسخه‌ی گرافیکی (فاز دو): ./gradlew run  یا  ./gradlew runGdx
+tasks.register('runGdx', JavaExec) {
+    group = 'application'
+    description = 'اجرای نسخه‌ی گرافیکی بازی (libGDX / Scene2D)'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass.set('gdx.DesktopLauncher')
+}
+
+// اجرای نسخه‌ی کنسولی فاز یک (بدون تغییر): ./gradlew runConsole
+tasks.register('runConsole', JavaExec) {
+    group = 'application'
+    description = 'اجرای نسخه‌ی کنسولی فاز یک'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass.set('Main')
+    standardInput = System.in
+}

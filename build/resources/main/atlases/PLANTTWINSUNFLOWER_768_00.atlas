@@ -1,0 +1,187 @@
+PLANTTWINSUNFLOWER_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_103X90
+  rotate: false
+  xy: 1, 61
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_107X90
+  rotate: false
+  xy: 1, 1
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_10X9
+  rotate: false
+  xy: 68, 193
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_11X10
+  rotate: false
+  xy: 121, 190
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_12X16
+  rotate: false
+  xy: 111, 190
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_13X22
+  rotate: false
+  xy: 116, 151
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_14X10
+  rotate: false
+  xy: 116, 167
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_17X15
+  rotate: false
+  xy: 83, 190
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_19X47
+  rotate: false
+  xy: 28, 162
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_20X11
+  rotate: false
+  xy: 96, 190
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_20X16
+  rotate: false
+  xy: 68, 181
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_20X17
+  rotate: false
+  xy: 108, 128
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_26X12
+  rotate: false
+  xy: 108, 141
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_28X15
+  rotate: false
+  xy: 109, 42
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_34X19
+  rotate: false
+  xy: 1, 187
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_37X21
+  rotate: false
+  xy: 42, 181
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_39X35
+  rotate: false
+  xy: 1, 162
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_40X35
+  rotate: false
+  xy: 88, 153
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_55X15
+  rotate: false
+  xy: 88, 178
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_55X19
+  rotate: false
+  xy: 72, 42
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_55X41
+  rotate: false
+  xy: 51, 153
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_6X6
+  rotate: false
+  xy: 122, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_74X61
+  rotate: false
+  xy: 72, 1
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_74X61_2
+  rotate: false
+  xy: 1, 121
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_85X36
+  rotate: false
+  xy: 51, 128
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNFLOWER_TWIN_SUNFLOWER_TWIN_88X101
+  rotate: false
+  xy: 69, 61
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,915 @@
+ZOMBIEBEACHOCTOPUSGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_110X45
+  rotate: false
+  xy: 233, 368
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_113X91
+  rotate: false
+  xy: 402, 270
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_14X14
+  rotate: false
+  xy: 503, 409
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_15X12
+  rotate: false
+  xy: 337, 552
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_167X150
+  rotate: false
+  xy: 402, 172
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_19X21
+  rotate: false
+  xy: 499, 53
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_1X1
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_218X144
+  rotate: false
+  xy: 1, 232
+  size: 140, 92
+  orig: 140, 92
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_223X234
+  rotate: false
+  xy: 257, 172
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_24X20
+  rotate: false
+  xy: 233, 351
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_293X263
+  rotate: false
+  xy: 257, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_29X29
+  rotate: false
+  xy: 235, 270
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_31X59
+  rotate: false
+  xy: 303, 500
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_396X357
+  rotate: false
+  xy: 1, 1
+  size: 254, 229
+  orig: 254, 229
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_58X91
+  rotate: false
+  xy: 1, 367
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_60X75
+  rotate: false
+  xy: 152, 393
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_61X29
+  rotate: false
+  xy: 116, 507
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_62X48
+  rotate: false
+  xy: 28, 456
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_65X26
+  rotate: false
+  xy: 430, 508
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_66X76
+  rotate: false
+  xy: 366, 371
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_67X65
+  rotate: false
+  xy: 193, 399
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_68X38
+  rotate: false
+  xy: 70, 482
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_70X48
+  rotate: false
+  xy: 288, 434
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_70X49
+  rotate: false
+  xy: 349, 422
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_72X90
+  rotate: false
+  xy: 447, 112
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_73X43
+  rotate: false
+  xy: 443, 443
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_77X88
+  rotate: false
+  xy: 447, 53
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_80X38
+  rotate: false
+  xy: 335, 456
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_82X40
+  rotate: false
+  xy: 142, 443
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_86X31
+  rotate: false
+  xy: 327, 483
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_86X36
+  rotate: false
+  xy: 197, 469
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_87X61
+  rotate: false
+  xy: 1, 326
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_87X61_2
+  rotate: false
+  xy: 59, 326
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_87X61_3
+  rotate: false
+  xy: 367, 330
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_87X61_4
+  rotate: false
+  xy: 425, 330
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_87X61_5
+  rotate: false
+  xy: 117, 352
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_87X61_6
+  rotate: false
+  xy: 175, 352
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_87X61_7
+  rotate: false
+  xy: 308, 365
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_88X56
+  rotate: false
+  xy: 454, 371
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_92X40
+  rotate: false
+  xy: 288, 406
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_95X36
+  rotate: false
+  xy: 79, 427
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_OCTOPUS_PROJECTILE_ZOMBIE_OCTOPUS_PROJECTILE_98X49
+  rotate: false
+  xy: 87, 393
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_135X8
+  rotate: false
+  xy: 293, 545
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_13X14
+  rotate: false
+  xy: 503, 420
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_13X14_2
+  rotate: false
+  xy: 28, 427
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_13X14_3
+  rotate: false
+  xy: 503, 431
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_141X111
+  rotate: false
+  xy: 143, 232
+  size: 90, 71
+  orig: 90, 71
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_15X13
+  rotate: false
+  xy: 266, 522
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_15X13_2
+  rotate: false
+  xy: 207, 542
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_15X13_3
+  rotate: false
+  xy: 325, 552
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_15X15
+  rotate: false
+  xy: 483, 359
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_15X15_2
+  rotate: false
+  xy: 495, 359
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_15X15_3
+  rotate: false
+  xy: 266, 510
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_17X18
+  rotate: false
+  xy: 335, 434
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_17X18_2
+  rotate: false
+  xy: 128, 452
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_17X18_3
+  rotate: false
+  xy: 312, 552
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_18X19
+  rotate: false
+  xy: 499, 69
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_18X19_2
+  rotate: false
+  xy: 499, 83
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_18X19_3
+  rotate: false
+  xy: 499, 97
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_18X19_4
+  rotate: false
+  xy: 235, 291
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_18X19_5
+  rotate: false
+  xy: 349, 406
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_18X19_6
+  rotate: false
+  xy: 55, 489
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_19X19
+  rotate: false
+  xy: 239, 494
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_19X19_2
+  rotate: false
+  xy: 220, 515
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_19X19_3
+  rotate: false
+  xy: 382, 538
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_23X23
+  rotate: false
+  xy: 495, 112
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_23X23_2
+  rotate: false
+  xy: 495, 129
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_23X23_3
+  rotate: false
+  xy: 495, 146
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_26X26
+  rotate: false
+  xy: 188, 542
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_26X26_2
+  rotate: false
+  xy: 134, 552
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_26X26_3
+  rotate: false
+  xy: 293, 552
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_28X53
+  rotate: false
+  xy: 1, 518
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_29X56
+  rotate: false
+  xy: 235, 232
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_31X31
+  rotate: false
+  xy: 220, 538
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_31X31_2
+  rotate: false
+  xy: 242, 538
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_31X31_3
+  rotate: false
+  xy: 77, 540
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_31X42
+  rotate: false
+  xy: 492, 443
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_31X59
+  rotate: false
+  xy: 325, 505
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_33X57
+  rotate: false
+  xy: 32, 489
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_34X30
+  rotate: false
+  xy: 117, 326
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_34X54
+  rotate: false
+  xy: 279, 500
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_35X39
+  rotate: false
+  xy: 21, 528
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_35X60
+  rotate: false
+  xy: 254, 469
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_36X39
+  rotate: false
+  xy: 109, 528
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_36X45
+  rotate: false
+  xy: 84, 509
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_37X49
+  rotate: false
+  xy: 166, 502
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X28
+  rotate: false
+  xy: 266, 537
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X31
+  rotate: false
+  xy: 161, 536
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X32
+  rotate: false
+  xy: 484, 533
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X34
+  rotate: false
+  xy: 134, 528
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X34_2
+  rotate: false
+  xy: 457, 533
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X37
+  rotate: false
+  xy: 87, 367
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X46
+  rotate: false
+  xy: 347, 505
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_38X81
+  rotate: false
+  xy: 1, 427
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_39X26
+  rotate: false
+  xy: 401, 537
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_39X40
+  rotate: false
+  xy: 239, 510
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_39X41
+  rotate: false
+  xy: 374, 510
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_40X35
+  rotate: false
+  xy: 429, 527
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_40X39
+  rotate: false
+  xy: 401, 510
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_40X39_2
+  rotate: false
+  xy: 192, 515
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_42X41
+  rotate: false
+  xy: 55, 509
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_43X45
+  rotate: false
+  xy: 166, 471
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_43X53
+  rotate: false
+  xy: 483, 323
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_45X27
+  rotate: false
+  xy: 46, 537
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_45X38
+  rotate: false
+  xy: 479, 506
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_45X42
+  rotate: false
+  xy: 1, 489
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_45X48
+  rotate: false
+  xy: 479, 473
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_45X79
+  rotate: false
+  xy: 477, 270
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_52X33
+  rotate: false
+  xy: 197, 443
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_56X51
+  rotate: false
+  xy: 441, 473
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_56X52
+  rotate: false
+  xy: 128, 471
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_57X61
+  rotate: false
+  xy: 40, 415
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_62X48
+  rotate: false
+  xy: 285, 467
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_63X30
+  rotate: false
+  xy: 196, 494
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_66X76
+  rotate: false
+  xy: 410, 371
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_68X38
+  rotate: false
+  xy: 384, 483
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_6X6
+  rotate: false
+  xy: 502, 163
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_70X48
+  rotate: false
+  xy: 238, 436
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_70X49
+  rotate: false
+  xy: 396, 422
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_70X72
+  rotate: false
+  xy: 40, 367
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_73X43
+  rotate: false
+  xy: 79, 452
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_73X50
+  rotate: false
+  xy: 454, 409
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_75X55
+  rotate: false
+  xy: 238, 399
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_79X69
+  rotate: false
+  xy: 200, 305
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_7X7
+  rotate: false
+  xy: 495, 163
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_80X38
+  rotate: false
+  xy: 388, 456
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_82X65
+  rotate: false
+  xy: 253, 324
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_85X70
+  rotate: false
+  xy: 143, 305
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_89X60
+  rotate: false
+  xy: 308, 324
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_OCTOPUS_ZOMBIE_BEACH_OCTOPUS_94X78
+  rotate: false
+  xy: 447, 1
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,383 @@
+ZOMBIEWESTPIANOGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_PIANO_PIANO_11X19
+  rotate: false
+  xy: 249, 258
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_129X68
+  rotate: false
+  xy: 1, 325
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_134X39
+  rotate: false
+  xy: 142, 357
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_136X19
+  rotate: false
+  xy: 99, 419
+  size: 87, 12
+  orig: 87, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_149X69
+  rotate: false
+  xy: 131, 270
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_156X20
+  rotate: false
+  xy: 99, 404
+  size: 100, 13
+  orig: 100, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_157X107
+  rotate: false
+  xy: 117, 199
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_157X61
+  rotate: false
+  xy: 131, 316
+  size: 101, 39
+  orig: 101, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_15X26
+  rotate: false
+  xy: 1, 443
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_15X29
+  rotate: false
+  xy: 212, 113
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_177X27
+  rotate: false
+  xy: 142, 384
+  size: 114, 18
+  orig: 114, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_178X97
+  rotate: false
+  xy: 1, 199
+  size: 114, 62
+  orig: 114, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_18X18
+  rotate: false
+  xy: 28, 449
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_199X82
+  rotate: false
+  xy: 1, 270
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_1X1
+  rotate: false
+  xy: 251, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_20X19
+  rotate: false
+  xy: 13, 449
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_20X24
+  rotate: false
+  xy: 202, 180
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_22X29
+  rotate: false
+  xy: 237, 436
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_24X70
+  rotate: false
+  xy: 233, 1
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_265X306
+  rotate: false
+  xy: 1, 1
+  size: 170, 196
+  orig: 170, 196
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_28X29
+  rotate: false
+  xy: 63, 432
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_35X18
+  rotate: false
+  xy: 141, 433
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_42X48
+  rotate: false
+  xy: 226, 113
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_48X81
+  rotate: false
+  xy: 220, 180
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_58X116
+  rotate: false
+  xy: 173, 58
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_PIANO_PIANO_76X46
+  rotate: false
+  xy: 48, 400
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_1
+  rotate: false
+  xy: 229, 258
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_10
+  rotate: false
+  xy: 202, 424
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_11
+  rotate: false
+  xy: 226, 146
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_12
+  rotate: false
+  xy: 188, 424
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_13
+  rotate: false
+  xy: 166, 433
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_14
+  rotate: false
+  xy: 43, 432
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_2
+  rotate: false
+  xy: 25, 419
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_3
+  rotate: false
+  xy: 1, 419
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_4
+  rotate: false
+  xy: 173, 180
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_5
+  rotate: false
+  xy: 240, 404
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_6
+  rotate: false
+  xy: 220, 424
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_7
+  rotate: false
+  xy: 103, 433
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_IKNODE_8
+  rotate: false
+  xy: 120, 433
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_17X18
+  rotate: false
+  xy: 120, 450
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_20X20
+  rotate: false
+  xy: 141, 447
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_22X57
+  rotate: false
+  xy: 234, 334
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_23X59
+  rotate: false
+  xy: 234, 294
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_28X28
+  rotate: false
+  xy: 83, 433
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_47X28
+  rotate: false
+  xy: 48, 371
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_52X34
+  rotate: false
+  xy: 220, 234
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_53X34
+  rotate: false
+  xy: 86, 325
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_54X83
+  rotate: false
+  xy: 212, 58
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_57X27
+  rotate: false
+  xy: 201, 404
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_70X71
+  rotate: false
+  xy: 1, 371
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_79X69
+  rotate: false
+  xy: 173, 134
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_7X7
+  rotate: false
+  xy: 233, 48
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_84X64
+  rotate: false
+  xy: 86, 357
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIANO_ZOMBIE_PIANO_91X85
+  rotate: false
+  xy: 173, 1
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1

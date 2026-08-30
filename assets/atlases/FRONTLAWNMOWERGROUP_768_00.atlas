@@ -1,0 +1,103 @@
+FRONTLAWNMOWERGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_110X65
+  rotate: false
+  xy: 1, 46
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_114X67
+  rotate: false
+  xy: 1, 1
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_16X23
+  rotate: false
+  xy: 112, 123
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_26X24
+  rotate: false
+  xy: 110, 105
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_27X14
+  rotate: false
+  xy: 44, 90
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_29X22
+  rotate: false
+  xy: 53, 139
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_30X23
+  rotate: false
+  xy: 32, 139
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_45X27
+  rotate: false
+  xy: 1, 124
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_46X45
+  rotate: false
+  xy: 78, 105
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_49X49
+  rotate: false
+  xy: 44, 105
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_50X17
+  rotate: false
+  xy: 78, 136
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_64X50
+  rotate: false
+  xy: 1, 90
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_65X103
+  rotate: false
+  xy: 76, 1
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_67X52
+  rotate: false
+  xy: 74, 69
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
