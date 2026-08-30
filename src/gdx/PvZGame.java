@@ -129,6 +129,9 @@ public class PvZGame extends Game {
 
     public void quitApp() {
         userManager.save();
+        // مطابق سند فاز ۳: قبل از خروج نهایی از برنامه، آخرین وضعیت کاربر
+        // لاگین‌شده باید روی سرور ذخیره شود.
+        network.UserSync.push(loggedInUser);
         com.badlogic.gdx.Gdx.app.exit();
     }
 
@@ -197,6 +200,7 @@ public class PvZGame extends Game {
     @Override
     public void dispose() {
         userManager.save();
+        network.UserSync.push(loggedInUser);
         if (getScreen() != null) {
             getScreen().dispose();
         }
@@ -205,21 +209,3 @@ public class PvZGame extends Game {
     }
 }
 
-/*
- * نمونه‌ی Launcher برای اجرای دسکتاپ (LWJGL3) — این کلاس را در فایل جدا
- * (مثلاً src/main/java/gdx/DesktopLauncher.java) با محتوای زیر بسازید:
- *
- * package gdx;
- *
- * import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
- * import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
- *
- * public class DesktopLauncher {
- *     public static void main(String[] args) {
- *         Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
- *         config.setTitle("Plants vs Zombies 2 - Phase 2");
- *         config.setWindowedMode(1280, 720);
- *         new Lwjgl3Application(new PvZGame(), config);
- *     }
- * }
- */

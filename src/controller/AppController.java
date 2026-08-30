@@ -46,7 +46,10 @@ public class AppController {
     }
     
     public void exitApp() {
+        // ذخیره‌ی محلی (سازگاری با کدهای فاز ۱) + ارسال آخرین وضعیت کاربر به سرور
+        // طبق سند فاز ۳ («ذخیره‌سازی اطلاعات باید از سمت کلاینت به سمت سرور منتقل شود»)
         userManager.save();
+        network.UserSync.push(menuController.getLoggedInUser());
     }
 
     public void dispatch(String rawLine, CommandLine cmd) {
@@ -140,7 +143,8 @@ public class AppController {
             view.printMessage("امتیاز MeowPoints شما در این مرحله: " + totalMowPoints);
 
             user.updateMaxMowPoints(totalMowPoints);
-            userManager.save(); // ذخیره روی فایل
+            userManager.save(); // ذخیره‌ی محلی (سازگاری با کدهای قبلی)
+            network.UserSync.push(user); // ارسال به سرور تا از دستگاه دیگر هم دیده شود
         }
         inGame = false;
         activeSession = null;

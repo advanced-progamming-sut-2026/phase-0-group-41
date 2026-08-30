@@ -17,20 +17,31 @@ public class UserManager {
 
     private final Map<String, User> usersByUsername = new HashMap<>();
 
+    // نکته فاز ۳: این کلاس هم روی سرور استفاده می‌شود (منبع اصلی و واقعی داده‌ها)
+    // و هم به صورت میراثی روی کلاینت (برای منوی کنسولی تک‌نفره‌ی فازهای قبل) وجود دارد.
+    // چون چند Thread از ClientHandler به صورت هم‌زمان به یک نمونه مشترک از این کلاس
+    // روی سرور دسترسی دارند، تمام متدهایی که مپ داخلی را می‌خوانند یا تغییر می‌دهند
+    // باید synchronized باشند تا از خرابی داده در اثر Race Condition جلوگیری شود.
+
     public UserManager() {
         load();
     }
 
-    public List<User> getAllUsers() {
+    public synchronized List<User> getAllUsers() {
         return new ArrayList<>(usersByUsername.values());
     }
-    
-    public boolean usernameExists(String username) {
+
+    public synchronized boolean usernameExists(String username) {
         return usersByUsername.containsKey(username);
         //containsKey: این متدِ مپ، بررسی می‌کند که آیا نام کاربری ورودی، قبلاً به عنوان کلید در هش‌مپ ثبت شده است یا خیر. خروجی آن یک مقدار منطقی (true یا false) است.
     }
 
-    public User register(String username, String rawPassword, String nickname, String email, String gender) {
+    public synchronized User register(String username, String rawPassword, String nickname, String email, String gender) {
+        // بررسی یکتا بودن نام کاربری و ساخت کاربر باید اتمیک باشند تا دو کلاینت
+        // هم‌زمان نتوانند با یک نام کاربری یکسان ثبت‌نام کنند (طبق سند فاز ۳).
+        if (usersByUsername.containsKey(username)) {
+            return null;
+        }
         //توی خط پایین یک شی جدید از کلاس یوزر میسازه ولی نکته اینجاست که رمز عبور خام را مستقیم ذخیره نمیکنه و ابتدا ان را به متد هش می فرستد تا به صورت یک رشته رمزنگاری‌شده ذخیره شود
         User user = new User(username, HashUtil.sha256(rawPassword), nickname, email, gender);
         usersByUsername.put(username, user);
@@ -38,11 +49,11 @@ public class UserManager {
         return user;
     }
 
-    public User findByUsername(String username) {
+    public synchronized User findByUsername(String username) {
         return usersByUsername.get(username);
     }
 
-    public User findByEmail(String email) {
+    public synchronized User findByEmail(String email) {
         for (User user : usersByUsername.values()) {//چون مپ ما بر اساس نام کاربری چیده شده و نه ایمیل
             if (user.getEmail().equalsIgnoreCase(email)) {
                 return user;
@@ -55,12 +66,23 @@ public class UserManager {
         return user.getPasswordHash().equals(HashUtil.sha256(rawPassword));
     }
 
-    public void changePassword(User user, String newRawPassword) {
+    public synchronized void changePassword(User user, String newRawPassword) {
         user.setPasswordHash(HashUtil.sha256(newRawPassword));
         save();
     }
 
-    public void save() {
+    /**
+     * جایگزینِ کاملِ اطلاعات یک کاربر روی سرور با نسخه‌ی به‌روزشده‌ای که از کلاینت رسیده است.
+     * این متد پلی است بین حالت آفلاینِ کاربر (که تغییراتش را روی یک شیء User محلی اعمال می‌کند)
+     * و ذخیره‌سازی نهایی روی سرور. بدون این متد، فرمان SAVE_USER معنایی نداشت.
+     */
+    public synchronized void updateUser(User updatedUser) {
+        if (updatedUser == null || updatedUser.getUsername() == null) return;
+        usersByUsername.put(updatedUser.getUsername(), updatedUser);
+        save();
+    }
+
+    public synchronized void save() {
         try (ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream(SAVE_FILE))) {
             out.writeObject(usersByUsername);
         } catch (IOException e) {
@@ -81,7 +103,7 @@ public class UserManager {
             System.err.println("خطا در بازیابی اطلاعات کاربران: " + e.getMessage());
         }
     }
-    public void updateUsernameKey(String oldUsername, String newUsername) {
+    public synchronized void updateUsernameKey(String oldUsername, String newUsername) {
         if (usersByUsername.containsKey(oldUsername)) {
             User user = usersByUsername.remove(oldUsername); // حذف کاربر با کلید قدیمی
             usersByUsername.put(newUsername, user);          // اضافه کردن همان کاربر با کلید جدید
