@@ -21,4 +21,24 @@ public class ShopController {
         }
         return success;
     }
+
+    /** پیشنهاد روزانه را در صورت نیاز تازه‌سازی می‌کند (طبق تاریخ روز جاری). */
+    public void refreshDailyOffer(User user) {
+        Shop.updateDailyOffer(user);
+    }
+
+    /** خرید پیشنهاد روزانه؛ فقط یک‌بار در روز قابل خرید است. */
+    public String purchaseDailyOffer(User user) {
+        if (user.getDailyOfferPlant() == null) {
+            return "ERR_NO_OFFER";
+        }
+        if (user.isDailyOfferPurchased()) {
+            return "ERR_ALREADY_PURCHASED";
+        }
+        // پیشنهاد روزانه رایگان (یا با تخفیف ویژه) یک بسته بذر از گیاه پیشنهادی می‌دهد.
+        user.addSeedPackets(user.getDailyOfferPlant(), 1);
+        user.setDailyOfferPurchased(true);
+        userManager.save();
+        return "SUCCESS";
+    }
 }

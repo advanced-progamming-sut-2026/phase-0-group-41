@@ -44,8 +44,40 @@ public class WallnutBowlingSession extends MiniGameSession {
     
     private int tickCounter = 0;
 
+    // تعداد کل زامبی‌هایی که در این مرحله باید ظاهر شوند/کشته شوند تا برد رخ دهد
+    private final int totalZombiesToDefeat;
+    private int zombiesSpawned = 0;
+    private int zombiesDefeated = 0;
+    private final int conveyorRefillTicks; // هرچه سطح بالاتر، نوار سریع‌تر پر می‌شود
+    private final double zombieSpawnIntervalTicks; // فاصله‌ی اسپاون زامبی جدید
+    private double spawnAccumulator = 0;
+    private final java.util.Random spawnRandom = new java.util.Random();
+
     public WallnutBowlingSession(User user) {
-        super(user, 1);
+        this(user, 1);
+    }
+
+    public WallnutBowlingSession(User user, int level) {
+        super(user, 1, level);
+
+        switch (getLevel()) {
+            case 2:
+                totalZombiesToDefeat = 8;
+                conveyorRefillTicks = 40;
+                zombieSpawnIntervalTicks = 70;
+                break;
+            case 3:
+                totalZombiesToDefeat = 12;
+                conveyorRefillTicks = 30;
+                zombieSpawnIntervalTicks = 50;
+                break;
+            default:
+                totalZombiesToDefeat = 5;
+                conveyorRefillTicks = 50;
+                zombieSpawnIntervalTicks = 100;
+                break;
+        }
+
         // شروع بازی با چند گردوی اولیه در نوار نقاله
         addRandomNutToConveyor();
         addRandomNutToConveyor();
@@ -53,6 +85,11 @@ public class WallnutBowlingSession extends MiniGameSession {
 
     public List<NutType> getConveyorBelt() {
         return conveyorBelt;
+    }
+
+    /** لیست گردوهای در حال غلتیدن روی زمین؛ برای رسم گرافیکی استفاده می‌شود. */
+    public List<RollingNut> getActiveNuts() {
+        return activeNuts;
     }
 
     // متد کاشت گردو از روی نوار نقاله
@@ -77,16 +114,65 @@ public class WallnutBowlingSession extends MiniGameSession {
 
     @Override
     protected void customMiniGameTick() {
+        if (isGameOver()) {
+            return;
+        }
         getFallingSuns().clear(); // در این مینی‌گیم خورشید از آسمان نمی‌افتد
         tickCounter++;
 
-        // هر ۵ ثانیه (۵۰ تیک) یک گردوی جدید به نوار نقاله اضافه می‌شود
-        if (tickCounter % 50 == 0 && conveyorBelt.size() < MAX_CONVEYOR_SIZE) {
+        // نوار نقاله بر اساس سختی سطح پر می‌شود
+        if (tickCounter % conveyorRefillTicks == 0 && conveyorBelt.size() < MAX_CONVEYOR_SIZE) {
             addRandomNutToConveyor();
+        }
+
+        // اسپاون تدریجی زامبی‌ها تا رسیدن به هدف کل مرحله
+        spawnAccumulator++;
+        if (zombiesSpawned < totalZombiesToDefeat && spawnAccumulator >= zombieSpawnIntervalTicks) {
+            spawnAccumulator = 0;
+            spawnZombieForBowling();
         }
 
         // حرکت و برخورد گردوها
         processRollingNuts();
+
+        // شمارش زامبی‌هایی که همین تیک کشته شدند (از بین رفتن سلامتی صفر)
+        List<Zombie> justDied = new ArrayList<>();
+        for (Zombie z : getAliveZombies()) {
+            if (z.isDead()) {
+                justDied.add(z);
+            }
+        }
+        if (!justDied.isEmpty()) {
+            zombiesDefeated += justDied.size();
+            getAliveZombies().removeAll(justDied);
+        }
+
+        // شرط برد: تمام زامبی‌های مرحله ظاهر شده و کشته شده باشند
+        if (zombiesSpawned >= totalZombiesToDefeat && getAliveZombies().isEmpty()
+                && zombiesDefeated >= totalZombiesToDefeat) {
+            recentEvents.add("تمام زامبی‌ها با گردوها از بین رفتند! برنده شدید!");
+            endGame(true);
+            return;
+        }
+
+        // شرط باخت: یک زامبی به انتهای چپ زمین (خانه‌ی خانه‌ی بازیکن) برسد
+        for (Zombie z : getAliveZombies()) {
+            if (z.getXPosition() <= 0) {
+                recentEvents.add("یک زامبی به خانه رسید! باختید.");
+                endGame(false);
+                return;
+            }
+        }
+    }
+
+    private void spawnZombieForBowling() {
+        int dl = getUser().getDifficultyLevel();
+        Zombie z = model.zombie.ZombieFactory.create("normal", dl);
+        int row = spawnRandom.nextInt(Board.ROWS);
+        z.spawn(row, Board.COLS - 1);
+        z.setSpawnTick((int) getTickCount());
+        getAliveZombies().add(z);
+        zombiesSpawned++;
     }
 
     private void processRollingNuts() {

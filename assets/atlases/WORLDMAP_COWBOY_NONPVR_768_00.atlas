@@ -1,0 +1,355 @@
+WORLDMAP_COWBOY_NONPVR_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_COWBOY_ANIM10_ANIM10_23X23
+  rotate: false
+  xy: 497, 811
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM10_ANIM10_74X75
+  rotate: false
+  xy: 143, 850
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_104X95
+  rotate: false
+  xy: 155, 729
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_122X132
+  rotate: false
+  xy: 1, 722
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_164X146
+  rotate: false
+  xy: 228, 711
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_184X199
+  rotate: false
+  xy: 108, 599
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_285X196
+  rotate: false
+  xy: 322, 443
+  size: 183, 126
+  orig: 183, 126
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_371X395
+  rotate: false
+  xy: 267, 1
+  size: 238, 253
+  orig: 238, 253
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM11_ANIM11_84X86
+  rotate: false
+  xy: 455, 256
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM1_ANIM1_22X22
+  rotate: false
+  xy: 497, 828
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM1_ANIM1_34X28
+  rotate: false
+  xy: 40, 857
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM2_ANIM2_116X108
+  rotate: false
+  xy: 335, 803
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM3_ANIM3_164X116
+  rotate: false
+  xy: 157, 362
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM4_ANIM4_25X67
+  rotate: false
+  xy: 365, 874
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM4_ANIM4_58X36
+  rotate: false
+  xy: 1, 857
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM5_ANIM5_42X23
+  rotate: false
+  xy: 477, 419
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM5_ANIM5_59X35
+  rotate: false
+  xy: 285, 842
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM7_ANIM7_164X298
+  rotate: false
+  xy: 1, 529
+  size: 105, 191
+  orig: 105, 191
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM8_ANIM8_112X126
+  rotate: false
+  xy: 81, 729
+  size: 72, 81
+  orig: 72, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ANIM9_ANIM9_88X86
+  rotate: false
+  xy: 455, 362
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_LEVEL_COWBOY
+  rotate: false
+  xy: 155, 792
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_101X33
+  rotate: false
+  xy: 1, 883
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_106X73
+  rotate: false
+  xy: 215, 807
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_111X38
+  rotate: false
+  xy: 271, 874
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_116X54
+  rotate: false
+  xy: 65, 812
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_118X40
+  rotate: false
+  xy: 193, 856
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_118X49
+  rotate: false
+  xy: 65, 849
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_138X131
+  rotate: false
+  xy: 228, 599
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_149X141
+  rotate: false
+  xy: 335, 711
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_175X216
+  rotate: false
+  xy: 322, 571
+  size: 112, 138
+  orig: 112, 138
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_18X36
+  rotate: false
+  xy: 142, 529
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_23X25
+  rotate: false
+  xy: 497, 793
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_241X258
+  rotate: false
+  xy: 1, 362
+  size: 154, 165
+  orig: 154, 165
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_254X240
+  rotate: false
+  xy: 157, 443
+  size: 163, 154
+  orig: 163, 154
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_26X26
+  rotate: false
+  xy: 68, 883
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_290X288
+  rotate: false
+  xy: 267, 256
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_30X28
+  rotate: false
+  xy: 383, 874
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_30X58
+  rotate: false
+  xy: 344, 874
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X172
+  rotate: false
+  xy: 411, 803
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X222
+  rotate: false
+  xy: 475, 793
+  size: 20, 142
+  orig: 20, 142
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_31X33
+  rotate: false
+  xy: 455, 419
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_38X37
+  rotate: false
+  xy: 292, 685
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_412X561
+  rotate: false
+  xy: 1, 1
+  size: 264, 359
+  orig: 264, 359
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_50X95
+  rotate: false
+  xy: 108, 529
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_58X344
+  rotate: false
+  xy: 475, 571
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_58X542
+  rotate: false
+  xy: 436, 571
+  size: 37, 347
+  orig: 37, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_65X51
+  rotate: false
+  xy: 285, 807
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_79X58
+  rotate: false
+  xy: 455, 313
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_97X36
+  rotate: false
+  xy: 228, 685
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_COWBOY_DANGER_NODE_COWBOY_97X71
+  rotate: false
+  xy: 1, 809
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1

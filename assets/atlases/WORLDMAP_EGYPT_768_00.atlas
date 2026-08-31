@@ -1,0 +1,215 @@
+WORLDMAP_EGYPT_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_EGYPT_ISLAND1
+  rotate: false
+  xy: 1581, 1
+  size: 417, 504
+  orig: 417, 504
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND10
+  rotate: false
+  xy: 1845, 1027
+  size: 148, 74
+  orig: 148, 74
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND11
+  rotate: false
+  xy: 586, 946
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND12
+  rotate: false
+  xy: 586, 1088
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND14
+  rotate: false
+  xy: 1323, 1164
+  size: 400, 686
+  orig: 400, 686
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND16
+  rotate: false
+  xy: 1725, 1164
+  size: 301, 295
+  orig: 301, 295
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND17
+  rotate: false
+  xy: 768, 1261
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND18
+  rotate: false
+  xy: 1723, 507
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND19
+  rotate: false
+  xy: 1845, 921
+  size: 131, 104
+  orig: 131, 104
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND20
+  rotate: false
+  xy: 1990, 665
+  size: 57, 137
+  orig: 57, 137
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND21
+  rotate: false
+  xy: 1725, 1461
+  size: 240, 190
+  orig: 240, 190
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND22
+  rotate: false
+  xy: 1, 1
+  size: 733, 792
+  orig: 733, 792
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND23
+  rotate: false
+  xy: 736, 1
+  size: 843, 620
+  orig: 843, 620
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND24
+  rotate: false
+  xy: 1, 1735
+  size: 616, 266
+  orig: 616, 266
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND25
+  rotate: false
+  xy: 1, 1261
+  size: 765, 472
+  orig: 765, 472
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND26
+  rotate: false
+  xy: 1, 795
+  size: 583, 375
+  orig: 583, 375
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND27
+  rotate: false
+  xy: 619, 1735
+  size: 584, 270
+  orig: 584, 270
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND28
+  rotate: false
+  xy: 1205, 1852
+  size: 621, 174
+  orig: 621, 174
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND3
+  rotate: false
+  xy: 1323, 623
+  size: 520, 539
+  orig: 520, 539
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND34
+  rotate: false
+  xy: 1581, 507
+  size: 140, 108
+  orig: 140, 108
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND35
+  rotate: false
+  xy: 1845, 507
+  size: 196, 156
+  orig: 196, 156
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND36
+  rotate: false
+  xy: 1978, 921
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND37
+  rotate: false
+  xy: 976, 1261
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND4
+  rotate: false
+  xy: 1845, 665
+  size: 143, 157
+  orig: 143, 157
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND5
+  rotate: false
+  xy: 586, 795
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND6
+  rotate: false
+  xy: 1978, 974
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND7
+  rotate: false
+  xy: 586, 1019
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND8
+  rotate: false
+  xy: 1991, 804
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EGYPT_ISLAND9
+  rotate: false
+  xy: 1845, 824
+  size: 144, 95
+  orig: 144, 95
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_EGYPT_ZOMBOSS_NODE_EGYPT_914X994
+  rotate: false
+  xy: 736, 623
+  size: 585, 636
+  orig: 585, 636
+  offset: 0, 0
+  index: -1

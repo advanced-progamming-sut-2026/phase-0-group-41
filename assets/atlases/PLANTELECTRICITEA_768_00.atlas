@@ -1,0 +1,663 @@
+PLANTELECTRICITEA_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_101X200
+  rotate: false
+  xy: 406, 65
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_1X1
+  rotate: false
+  xy: 505, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_203X86
+  rotate: false
+  xy: 334, 195
+  size: 130, 55
+  orig: 130, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_28X32
+  rotate: false
+  xy: 85, 455
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_47X73
+  rotate: false
+  xy: 303, 384
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_48X47
+  rotate: false
+  xy: 289, 433
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_49X49
+  rotate: false
+  xy: 221, 425
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_ELECTRICI_TEA_ATTACK_BOTTOM_EFFECTS_67X69
+  rotate: false
+  xy: 466, 200
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_103X203
+  rotate: false
+  xy: 266, 65
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_1X1
+  rotate: false
+  xy: 508, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_1X1_2
+  rotate: false
+  xy: 505, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_206X87
+  rotate: false
+  xy: 58, 160
+  size: 132, 56
+  orig: 132, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_230X97
+  rotate: false
+  xy: 207, 1
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_29X33
+  rotate: false
+  xy: 493, 380
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_31X31
+  rotate: false
+  xy: 454, 446
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_38X59
+  rotate: false
+  xy: 1, 427
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_39X30
+  rotate: false
+  xy: 296, 197
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_40X63
+  rotate: false
+  xy: 130, 394
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_49X39
+  rotate: false
+  xy: 28, 442
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_49X48
+  rotate: false
+  xy: 255, 425
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_53X82
+  rotate: false
+  xy: 473, 65
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_56X48
+  rotate: false
+  xy: 37, 409
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_61X49
+  rotate: false
+  xy: 385, 395
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_61X61
+  rotate: false
+  xy: 221, 384
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_61X99
+  rotate: false
+  xy: 473, 134
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_63X37
+  rotate: false
+  xy: 58, 134
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_75X54
+  rotate: false
+  xy: 37, 372
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_87X54
+  rotate: false
+  xy: 161, 347
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_ELECTRICI_TEA_ATTACK_TOP_EFFECTS_94X97
+  rotate: false
+  xy: 448, 252
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_BOLT_ELECTRICI_TEA_BOLT_149X86
+  rotate: false
+  xy: 148, 290
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_BOLT_ELECTRICI_TEA_BOLT_226X59
+  rotate: false
+  xy: 1, 288
+  size: 145, 38
+  orig: 145, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_150X60
+  rotate: false
+  xy: 246, 343
+  size: 96, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_150X66
+  rotate: false
+  xy: 1, 328
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_152X106
+  rotate: false
+  xy: 158, 220
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_19X20
+  rotate: false
+  xy: 192, 160
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_1X1
+  rotate: false
+  xy: 505, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_1X1_2
+  rotate: false
+  xy: 508, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_210X204
+  rotate: false
+  xy: 1, 1
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ATTACK_ELECTRICI_TEA_CLOUD_ATTACK_83X162
+  rotate: false
+  xy: 393, 252
+  size: 53, 104
+  orig: 53, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ELECTRICI_TEA_CLOUD_152X106
+  rotate: false
+  xy: 58, 218
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ELECTRICI_TEA_CLOUD_ELECTRICI_TEA_CLOUD_1X1
+  rotate: false
+  xy: 508, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_104X142
+  rotate: false
+  xy: 258, 220
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_104X245
+  rotate: false
+  xy: 138, 1
+  size: 67, 157
+  orig: 67, 157
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_109X186
+  rotate: false
+  xy: 334, 65
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_11X15
+  rotate: false
+  xy: 87, 372
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_11X18
+  rotate: false
+  xy: 323, 197
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_11X18_2
+  rotate: false
+  xy: 246, 290
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_12X12
+  rotate: false
+  xy: 87, 384
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_13X17
+  rotate: false
+  xy: 501, 120
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_13X23
+  rotate: false
+  xy: 192, 175
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_13X23_2
+  rotate: false
+  xy: 192, 192
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_13X9
+  rotate: false
+  xy: 334, 186
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_13X9_2
+  rotate: false
+  xy: 345, 186
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_16X14
+  rotate: false
+  xy: 192, 209
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_16X14_2
+  rotate: false
+  xy: 426, 395
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_17X12
+  rotate: false
+  xy: 426, 406
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_17X15
+  rotate: false
+  xy: 127, 328
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_1X1
+  rotate: false
+  xy: 505, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_1X1_2
+  rotate: false
+  xy: 508, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_230X97
+  rotate: false
+  xy: 356, 1
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_26X33
+  rotate: false
+  xy: 495, 403
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_27X30
+  rotate: false
+  xy: 255, 458
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_31X31
+  rotate: false
+  xy: 476, 446
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_32X30
+  rotate: false
+  xy: 62, 455
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_33X44
+  rotate: false
+  xy: 400, 429
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_35X40
+  rotate: false
+  xy: 219, 347
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_38X59
+  rotate: false
+  xy: 373, 429
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_39X30
+  rotate: false
+  xy: 190, 445
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_40X16
+  rotate: false
+  xy: 99, 328
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_40X17
+  rotate: false
+  xy: 473, 120
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_40X63
+  rotate: false
+  xy: 426, 417
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_43X32
+  rotate: false
+  xy: 266, 197
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_44X92
+  rotate: false
+  xy: 161, 384
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_44X92_2
+  rotate: false
+  xy: 191, 384
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_46X36
+  rotate: false
+  xy: 101, 134
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_48X42
+  rotate: false
+  xy: 287, 313
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_49X38
+  rotate: false
+  xy: 322, 442
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_49X39
+  rotate: false
+  xy: 156, 445
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_53X82
+  rotate: false
+  xy: 1, 372
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_56X36
+  rotate: false
+  xy: 118, 437
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_56X48
+  rotate: false
+  xy: 335, 409
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_61X42
+  rotate: false
+  xy: 246, 313
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_61X42_2
+  rotate: false
+  xy: 454, 417
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_61X61
+  rotate: false
+  xy: 262, 384
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_61X99
+  rotate: false
+  xy: 344, 343
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_63X37
+  rotate: false
+  xy: 75, 429
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_63X51
+  rotate: false
+  xy: 87, 394
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_75X54
+  rotate: false
+  xy: 443, 380
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_85X235
+  rotate: false
+  xy: 1, 134
+  size: 55, 151
+  orig: 55, 151
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_87X54
+  rotate: false
+  xy: 385, 358
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_89X238
+  rotate: false
+  xy: 207, 65
+  size: 57, 153
+  orig: 57, 153
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_93X70
+  rotate: false
+  xy: 99, 347
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_94X97
+  rotate: false
+  xy: 448, 316
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ELECTRICI_TEA_ELECTRICI_TEA_99X139
+  rotate: false
+  xy: 327, 252
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1

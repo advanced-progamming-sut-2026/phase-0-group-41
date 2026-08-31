@@ -1,0 +1,180 @@
+PLANTSTARFRUIT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_STARFRUIT_PROJECTILE_PLANTFOOD_STARFRUIT_PROJECTILE_PLANTFOOD_121X124
+  rotate: false
+  xy: 1, 1
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_STARFRUIT_PROJECTILE_HIT_T_STARFRUIT_PROJECTILE_HIT_61X61
+  rotate: false
+  xy: 210, 1
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_STARFRUIT_PROJECTILE_HIT_T_STARFRUIT_PROJECTILE_HIT_74X71
+  rotate: false
+  xy: 185, 202
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_STARFRUIT_PROJECTILE_HIT_T_STARFRUIT_PROJECTILE_HIT_89X89
+  rotate: false
+  xy: 62, 200
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_STARFRUIT_PROJECTILE_T_STARFRUIT_PROJECTILE_102X104
+  rotate: false
+  xy: 142, 1
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_STARFRUIT_PROJECTILE_T_STARFRUIT_PROJECTILE_102X105
+  rotate: false
+  xy: 142, 70
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_STARFRUIT_PROJECTILE_T_STARFRUIT_PROJECTILE_1X1
+  rotate: false
+  xy: 251, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_109X95
+  rotate: false
+  xy: 150, 139
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_112X94
+  rotate: false
+  xy: 1, 83
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_113X37
+  rotate: false
+  xy: 121, 250
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_113X37_2
+  rotate: false
+  xy: 1, 259
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_113X37_3
+  rotate: false
+  xy: 76, 276
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_113X37_4
+  rotate: false
+  xy: 151, 276
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_113X92
+  rotate: false
+  xy: 75, 139
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_13X15
+  rotate: false
+  xy: 210, 88
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_13X16
+  rotate: false
+  xy: 221, 93
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_13X21
+  rotate: false
+  xy: 242, 42
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_1X1
+  rotate: false
+  xy: 254, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_23X30
+  rotate: false
+  xy: 210, 67
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_32X14
+  rotate: false
+  xy: 227, 82
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_32X20
+  rotate: false
+  xy: 227, 67
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_46X35
+  rotate: false
+  xy: 210, 42
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_92X102
+  rotate: false
+  xy: 1, 145
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_92X150
+  rotate: false
+  xy: 81, 1
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STARFRUIT_STARFRUIT_96X68
+  rotate: false
+  xy: 121, 202
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1

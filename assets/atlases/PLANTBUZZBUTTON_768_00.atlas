@@ -1,0 +1,1006 @@
+PLANTBUZZBUTTON_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BUZZBUTTON_CHARGED_CIRCLE_BUZZBUTTON_CHARGED_CIRCLE_184X31
+  rotate: false
+  xy: 1, 327
+  size: 118, 20
+  orig: 118, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUZZBUTTON_CHARGED_CRACKLE_BUZZBUTTON_CHARGED_CRACKLE_1X1
+  rotate: false
+  xy: 1019, 29
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUZZBUTTON_CHARGED_CRACKLE_BUZZBUTTON_CHARGED_CRACKLE_52X52
+  rotate: false
+  xy: 979, 498
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUZZBUTTON_CHARGED_CRACKLE_BUZZBUTTON_CHARGED_CRACKLE_68X109
+  rotate: false
+  xy: 977, 363
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUZZBUTTON_CHARGED_CRACKLE_BUZZBUTTON_CHARGED_CRACKLE_79X81
+  rotate: false
+  xy: 333, 525
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_101X61
+  rotate: false
+  xy: 931, 675
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_102X71
+  rotate: false
+  xy: 713, 632
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_102X71_2
+  rotate: false
+  xy: 781, 632
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_102X72
+  rotate: false
+  xy: 1, 633
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_102X72_2
+  rotate: false
+  xy: 271, 642
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_102X72_3
+  rotate: false
+  xy: 339, 642
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_102X72_4
+  rotate: false
+  xy: 407, 642
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_104X33
+  rotate: false
+  xy: 138, 692
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_104X62
+  rotate: false
+  xy: 554, 670
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_104X69
+  rotate: false
+  xy: 69, 647
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_105X47
+  rotate: false
+  xy: 776, 680
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_105X75
+  rotate: false
+  xy: 128, 597
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_105X76
+  rotate: false
+  xy: 951, 179
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_105X76_2
+  rotate: false
+  xy: 952, 578
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_10X15
+  rotate: false
+  xy: 1015, 498
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_110X39
+  rotate: false
+  xy: 196, 327
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_110X39_2
+  rotate: false
+  xy: 216, 690
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_112X48
+  rotate: false
+  xy: 951, 230
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_112X69
+  rotate: false
+  xy: 197, 608
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_112X69_2
+  rotate: false
+  xy: 952, 629
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_113X45
+  rotate: false
+  xy: 121, 327
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_119X56
+  rotate: false
+  xy: 138, 654
+  size: 76, 36
+  orig: 76, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_11X14
+  rotate: false
+  xy: 291, 347
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_120X57
+  rotate: false
+  xy: 475, 653
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_124X52
+  rotate: false
+  xy: 849, 669
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_12X15
+  rotate: false
+  xy: 358, 449
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_133X69
+  rotate: false
+  xy: 630, 514
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_135X46
+  rotate: false
+  xy: 623, 670
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_137X56
+  rotate: false
+  xy: 623, 632
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_137X73
+  rotate: false
+  xy: 630, 465
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_14X24
+  rotate: false
+  xy: 811, 217
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_14X24_2
+  rotate: false
+  xy: 811, 235
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_156X139
+  rotate: false
+  xy: 850, 578
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_159X144
+  rotate: false
+  xy: 519, 559
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_16X19
+  rotate: false
+  xy: 811, 253
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_16X19_2
+  rotate: false
+  xy: 318, 449
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_16X23
+  rotate: false
+  xy: 811, 183
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_16X23_2
+  rotate: false
+  xy: 811, 200
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_170X144
+  rotate: false
+  xy: 519, 465
+  size: 109, 92
+  orig: 109, 92
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_17X24
+  rotate: false
+  xy: 664, 702
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_17X28
+  rotate: false
+  xy: 319, 608
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_17X28_2
+  rotate: false
+  xy: 651, 702
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_182X126
+  rotate: false
+  xy: 214, 525
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_18X21
+  rotate: false
+  xy: 244, 449
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_18X21_2
+  rotate: false
+  xy: 258, 449
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_18X27
+  rotate: false
+  xy: 291, 327
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_18X27_2
+  rotate: false
+  xy: 623, 702
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_18X54
+  rotate: false
+  xy: 1005, 29
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_195X190
+  rotate: false
+  xy: 392, 465
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_195X193
+  rotate: false
+  xy: 723, 454
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_195X201
+  rotate: false
+  xy: 824, 139
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_195X212
+  rotate: false
+  xy: 824, 1
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_195X52
+  rotate: false
+  xy: 1, 597
+  size: 125, 34
+  orig: 125, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_198X190
+  rotate: false
+  xy: 850, 454
+  size: 127, 122
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_19X16
+  rotate: false
+  xy: 330, 449
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_19X16_2
+  rotate: false
+  xy: 344, 449
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_19X17
+  rotate: false
+  xy: 272, 449
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_19X26
+  rotate: false
+  xy: 637, 702
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_207X80
+  rotate: false
+  xy: 333, 589
+  size: 133, 51
+  orig: 133, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_20X21
+  rotate: false
+  xy: 229, 449
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_20X27
+  rotate: false
+  xy: 100, 693
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_20X27_2
+  rotate: false
+  xy: 115, 693
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_20X34
+  rotate: false
+  xy: 494, 629
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_20X34_2
+  rotate: false
+  xy: 66, 693
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_21X14
+  rotate: false
+  xy: 286, 449
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_21X14_2
+  rotate: false
+  xy: 302, 449
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_21X21
+  rotate: false
+  xy: 177, 449
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_22X12
+  rotate: false
+  xy: 811, 363
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_22X38
+  rotate: false
+  xy: 532, 692
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_23X38
+  rotate: false
+  xy: 498, 692
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_23X38_2
+  rotate: false
+  xy: 515, 692
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_25X19
+  rotate: false
+  xy: 193, 449
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_25X19_2
+  rotate: false
+  xy: 211, 449
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_25X20
+  rotate: false
+  xy: 159, 449
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_25X21
+  rotate: false
+  xy: 63, 449
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_25X21_2
+  rotate: false
+  xy: 81, 449
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_262X78
+  rotate: false
+  xy: 623, 580
+  size: 168, 50
+  orig: 168, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_266X142
+  rotate: false
+  xy: 811, 270
+  size: 170, 91
+  orig: 170, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_26X24
+  rotate: false
+  xy: 81, 693
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_26X32
+  rotate: false
+  xy: 1005, 66
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_26X32_2
+  rotate: false
+  xy: 475, 629
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_27X18
+  rotate: false
+  xy: 99, 449
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_28X18
+  rotate: false
+  xy: 119, 449
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_28X18_2
+  rotate: false
+  xy: 139, 449
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_28X41
+  rotate: false
+  xy: 1005, 1
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_29X19
+  rotate: false
+  xy: 498, 358
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_29X19_2
+  rotate: false
+  xy: 42, 449
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_29X39
+  rotate: false
+  xy: 435, 690
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_29X39_2
+  rotate: false
+  xy: 456, 692
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_29X39_3
+  rotate: false
+  xy: 477, 692
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_30X16
+  rotate: false
+  xy: 983, 351
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_30X16_2
+  rotate: false
+  xy: 1004, 351
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_30X23
+  rotate: false
+  xy: 701, 560
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_31X37
+  rotate: false
+  xy: 269, 327
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_31X57
+  rotate: false
+  xy: 998, 675
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_329X109
+  rotate: false
+  xy: 1, 525
+  size: 211, 70
+  orig: 211, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_32X26
+  rotate: false
+  xy: 655, 560
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_32X26_2
+  rotate: false
+  xy: 678, 560
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_33X18
+  rotate: false
+  xy: 452, 358
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_33X18_2
+  rotate: false
+  xy: 475, 358
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_340X248
+  rotate: false
+  xy: 306, 197
+  size: 218, 159
+  orig: 218, 159
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_35X17
+  rotate: false
+  xy: 999, 165
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_35X17_2
+  rotate: false
+  xy: 427, 358
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_35X58
+  rotate: false
+  xy: 999, 90
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_36X20
+  rotate: false
+  xy: 377, 358
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_36X20_2
+  rotate: false
+  xy: 402, 358
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_36X52
+  rotate: false
+  xy: 999, 129
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_385X294
+  rotate: false
+  xy: 562, 183
+  size: 247, 188
+  orig: 247, 188
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_394X123
+  rotate: false
+  xy: 723, 373
+  size: 252, 79
+  orig: 252, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_397X302
+  rotate: false
+  xy: 306, 1
+  size: 254, 194
+  orig: 254, 194
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_39X61
+  rotate: false
+  xy: 526, 326
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_406X281
+  rotate: false
+  xy: 562, 1
+  size: 260, 180
+  orig: 260, 180
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_42X129
+  rotate: false
+  xy: 526, 197
+  size: 27, 83
+  orig: 27, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_43X65
+  rotate: false
+  xy: 526, 282
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_461X162
+  rotate: false
+  xy: 1, 221
+  size: 295, 104
+  orig: 295, 104
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_473X340
+  rotate: false
+  xy: 1, 1
+  size: 303, 218
+  orig: 303, 218
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_47X25
+  rotate: false
+  xy: 623, 560
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_537X141
+  rotate: false
+  xy: 377, 373
+  size: 344, 90
+  orig: 344, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_55X66
+  rotate: false
+  xy: 983, 263
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_55X66_2
+  rotate: false
+  xy: 983, 307
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_584X139
+  rotate: false
+  xy: 1, 358
+  size: 374, 89
+  orig: 374, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_608X91
+  rotate: false
+  xy: 1, 465
+  size: 389, 58
+  orig: 389, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_61X21
+  rotate: false
+  xy: 1, 449
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_65X95
+  rotate: false
+  xy: 979, 435
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_70X39
+  rotate: false
+  xy: 979, 534
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_71X135
+  rotate: false
+  xy: 951, 90
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_72X34
+  rotate: false
+  xy: 271, 608
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_72X53
+  rotate: false
+  xy: 216, 654
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_72X56
+  rotate: false
+  xy: 339, 690
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_72X56_2
+  rotate: false
+  xy: 387, 690
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_75X54
+  rotate: false
+  xy: 289, 690
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_75X59
+  rotate: false
+  xy: 793, 580
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_75X59_2
+  rotate: false
+  xy: 468, 589
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_7X19
+  rotate: false
+  xy: 298, 221
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_7X19_2
+  rotate: false
+  xy: 298, 235
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_81X136
+  rotate: false
+  xy: 951, 1
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_96X51
+  rotate: false
+  xy: 712, 680
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUZZBUTTON_BUZZBUTTON_98X47
+  rotate: false
+  xy: 1, 681
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1

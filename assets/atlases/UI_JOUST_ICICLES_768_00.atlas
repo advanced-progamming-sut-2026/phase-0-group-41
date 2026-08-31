@@ -1,0 +1,26 @@
+UI_JOUST_ICICLES_768_00.PNG
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_ICICLE_ADVENTURE_ICICLE
+  rotate: false
+  xy: 378, 1
+  size: 375, 402
+  orig: 375, 402
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_ICICLE_JOUSTICICLE_SMALL
+  rotate: false
+  xy: 755, 1
+  size: 188, 228
+  orig: 188, 228
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_ICICLE_JOUST_ICICLE
+  rotate: false
+  xy: 1, 1
+  size: 375, 456
+  orig: 375, 456
+  offset: 0, 0
+  index: -1

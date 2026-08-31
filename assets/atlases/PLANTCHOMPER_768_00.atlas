@@ -1,0 +1,509 @@
+PLANTCHOMPER_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_CHOMPER_CHOMPER_102X116
+  rotate: false
+  xy: 320, 1
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_104X192
+  rotate: false
+  xy: 173, 1
+  size: 67, 123
+  orig: 67, 123
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_105X9
+  rotate: false
+  xy: 170, 129
+  size: 67, 6
+  orig: 67, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_110X47
+  rotate: false
+  xy: 335, 245
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_110X94
+  rotate: false
+  xy: 97, 129
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_111X56
+  rotate: false
+  xy: 435, 214
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_115X81
+  rotate: false
+  xy: 170, 142
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_116X196
+  rotate: false
+  xy: 97, 1
+  size: 74, 126
+  orig: 74, 126
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_116X80
+  rotate: false
+  xy: 1, 152
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_117X67
+  rotate: false
+  xy: 435, 169
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_117X68
+  rotate: false
+  xy: 301, 163
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_118X53
+  rotate: false
+  xy: 301, 209
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_119X118
+  rotate: false
+  xy: 242, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_11X9
+  rotate: false
+  xy: 504, 86
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_121X26
+  rotate: false
+  xy: 63, 248
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_121X95
+  rotate: false
+  xy: 242, 79
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_142X41
+  rotate: false
+  xy: 242, 245
+  size: 91, 26
+  orig: 91, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_146X232
+  rotate: false
+  xy: 1, 1
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_14X14
+  rotate: false
+  xy: 435, 88
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_16X28
+  rotate: false
+  xy: 458, 282
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_16X37
+  rotate: false
+  xy: 63, 205
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_19X15
+  rotate: false
+  xy: 379, 233
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_19X31
+  rotate: false
+  xy: 212, 292
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_20X35
+  rotate: false
+  xy: 197, 292
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_22X26
+  rotate: false
+  xy: 408, 233
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_22X29
+  rotate: false
+  xy: 301, 142
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_22X38
+  rotate: false
+  xy: 86, 288
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_22X48
+  rotate: false
+  xy: 77, 152
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_24X38
+  rotate: false
+  xy: 25, 283
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_25X33
+  rotate: false
+  xy: 102, 288
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_25X41
+  rotate: false
+  xy: 494, 277
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_26X33
+  rotate: false
+  xy: 1, 288
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_27X46
+  rotate: false
+  xy: 154, 277
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_29X19
+  rotate: false
+  xy: 288, 293
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_29X37
+  rotate: false
+  xy: 380, 277
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_30X32
+  rotate: false
+  xy: 65, 286
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_30X39
+  rotate: false
+  xy: 279, 215
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_31X31
+  rotate: false
+  xy: 43, 286
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_32X38
+  rotate: false
+  xy: 174, 277
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_32X44
+  rotate: false
+  xy: 265, 273
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_32X7
+  rotate: false
+  xy: 226, 294
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_33X32
+  rotate: false
+  xy: 471, 277
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_34X48
+  rotate: false
+  xy: 1, 255
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_36X27
+  rotate: false
+  xy: 433, 282
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_36X39
+  rotate: false
+  xy: 408, 275
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_38X32
+  rotate: false
+  xy: 322, 277
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_39X44
+  rotate: false
+  xy: 172, 247
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_39X44_2
+  rotate: false
+  xy: 444, 252
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_40X40
+  rotate: false
+  xy: 25, 255
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_42X44
+  rotate: false
+  xy: 143, 247
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_45X26
+  rotate: false
+  xy: 349, 277
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_45X30
+  rotate: false
+  xy: 123, 277
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_47X36
+  rotate: false
+  xy: 471, 252
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_48X29
+  rotate: false
+  xy: 90, 267
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_48X29_2
+  rotate: false
+  xy: 199, 271
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_48X30
+  rotate: false
+  xy: 232, 273
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_50X27
+  rotate: false
+  xy: 288, 273
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_53X33
+  rotate: false
+  xy: 408, 252
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_54X26
+  rotate: false
+  xy: 53, 267
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_54X39
+  rotate: false
+  xy: 242, 215
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_58X114
+  rotate: false
+  xy: 203, 196
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_7X7
+  rotate: false
+  xy: 506, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_82X111
+  rotate: false
+  xy: 380, 88
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_82X111_2
+  rotate: false
+  xy: 246, 142
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_83X109
+  rotate: false
+  xy: 380, 161
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_86X126
+  rotate: false
+  xy: 447, 86
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_87X131
+  rotate: false
+  xy: 322, 77
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_88X132
+  rotate: false
+  xy: 388, 1
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_89X130
+  rotate: false
+  xy: 447, 1
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_91X86
+  rotate: false
+  xy: 77, 191
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_94X74
+  rotate: false
+  xy: 1, 205
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHOMPER_CHOMPER_99X76
+  rotate: false
+  xy: 137, 196
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1

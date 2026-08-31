@@ -1,0 +1,103 @@
+COWBOY_GRAVESTONE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_16X43
+  rotate: false
+  xy: 71, 172
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_20X43
+  rotate: false
+  xy: 56, 172
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_22X31
+  rotate: false
+  xy: 235, 50
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_23X44
+  rotate: false
+  xy: 39, 172
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_26X53
+  rotate: false
+  xy: 20, 172
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_26X59
+  rotate: false
+  xy: 1, 172
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_29X73
+  rotate: false
+  xy: 227, 132
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_31X73
+  rotate: false
+  xy: 235, 1
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_33X82
+  rotate: false
+  xy: 223, 77
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_41X42
+  rotate: false
+  xy: 191, 164
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_46X76
+  rotate: false
+  xy: 191, 77
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_52X47
+  rotate: false
+  xy: 191, 132
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_COWBOY_DAMAGE_TOMBSTONE_COWBOY_DAMAGE_66X115
+  rotate: false
+  xy: 191, 1
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1

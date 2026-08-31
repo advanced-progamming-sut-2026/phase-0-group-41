@@ -1,0 +1,166 @@
+ZOMBIEDARKIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_167X8
+  rotate: false
+  xy: 1, 153
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_17X23
+  rotate: false
+  xy: 97, 41
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_17X26
+  rotate: false
+  xy: 113, 97
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_18X13
+  rotate: false
+  xy: 1, 79
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_18X13_2
+  rotate: false
+  xy: 15, 79
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_18X29
+  rotate: false
+  xy: 97, 59
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_19X25
+  rotate: false
+  xy: 99, 97
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_19X28
+  rotate: false
+  xy: 111, 77
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_21X25
+  rotate: false
+  xy: 111, 59
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_21X29
+  rotate: false
+  xy: 112, 1
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_22X26
+  rotate: false
+  xy: 111, 40
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_23X24
+  rotate: false
+  xy: 111, 22
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_23X26
+  rotate: false
+  xy: 94, 22
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_24X29
+  rotate: false
+  xy: 94, 1
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_53X28
+  rotate: false
+  xy: 1, 133
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_66X33
+  rotate: false
+  xy: 1, 56
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_69X82
+  rotate: false
+  xy: 1, 1
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_6X6
+  rotate: false
+  xy: 29, 79
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_70X71
+  rotate: false
+  xy: 47, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_71X35
+  rotate: false
+  xy: 49, 128
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_71X62
+  rotate: false
+  xy: 1, 91
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_74X54
+  rotate: false
+  xy: 49, 91
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_IMP_MONK_ZOMBIE_DARK_IMP_MONK_74X62
+  rotate: false
+  xy: 47, 49
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1

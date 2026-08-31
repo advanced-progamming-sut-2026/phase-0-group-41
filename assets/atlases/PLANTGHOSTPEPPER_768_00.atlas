@@ -1,0 +1,614 @@
+PLANTGHOSTPEPPER_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_108X69
+  rotate: false
+  xy: 317, 429
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_126X89
+  rotate: false
+  xy: 414, 78
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_137X117
+  rotate: false
+  xy: 414, 1
+  size: 88, 75
+  orig: 88, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_186X88
+  rotate: false
+  xy: 216, 348
+  size: 119, 57
+  orig: 119, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_219X109
+  rotate: false
+  xy: 175, 409
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_268X90
+  rotate: false
+  xy: 1, 409
+  size: 172, 58
+  orig: 172, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_37X34
+  rotate: false
+  xy: 37, 605
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_48X71
+  rotate: false
+  xy: 480, 137
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_52X47
+  rotate: false
+  xy: 189, 589
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_82X78
+  rotate: false
+  xy: 1, 469
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_85X100
+  rotate: false
+  xy: 448, 324
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_91X44
+  rotate: false
+  xy: 1, 550
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_GHOSTS_GHOSTPEPPER_ATTACK_GHOSTS_99X94
+  rotate: false
+  xy: 414, 137
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_OVERLAY_GHOSTPEPPER_ATTACK_OVERLAY_333X290
+  rotate: false
+  xy: 1, 221
+  size: 213, 186
+  orig: 213, 186
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GHOSTPEPPER_ATTACK_OVERLAY_GHOSTPEPPER_ATTACK_OVERLAY_642X340
+  rotate: false
+  xy: 1, 1
+  size: 411, 218
+  orig: 411, 218
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_10X16
+  rotate: false
+  xy: 504, 1
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_10X7
+  rotate: false
+  xy: 504, 13
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_116X28
+  rotate: false
+  xy: 61, 558
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X35
+  rotate: false
+  xy: 1, 525
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X35_2
+  rotate: false
+  xy: 367, 530
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X35_3
+  rotate: false
+  xy: 237, 532
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X36
+  rotate: false
+  xy: 81, 533
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X36_2
+  rotate: false
+  xy: 317, 555
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X36_3
+  rotate: false
+  xy: 397, 555
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X37
+  rotate: false
+  xy: 157, 481
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X37_2
+  rotate: false
+  xy: 367, 504
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_122X37_3
+  rotate: false
+  xy: 157, 507
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_14X10
+  rotate: false
+  xy: 367, 475
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_14X26
+  rotate: false
+  xy: 347, 532
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_14X29
+  rotate: false
+  xy: 500, 501
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_15X11
+  rotate: false
+  xy: 495, 313
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_15X21
+  rotate: false
+  xy: 214, 533
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_15X22
+  rotate: false
+  xy: 189, 569
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_15X28
+  rotate: false
+  xy: 500, 409
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_161X161
+  rotate: false
+  xy: 343, 324
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_16X34
+  rotate: false
+  xy: 497, 99
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_17X15
+  rotate: false
+  xy: 157, 469
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_181X158
+  rotate: false
+  xy: 343, 221
+  size: 116, 101
+  orig: 116, 101
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_18X11
+  rotate: false
+  xy: 481, 313
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_18X20
+  rotate: false
+  xy: 500, 522
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_18X26
+  rotate: false
+  xy: 500, 390
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_18X29
+  rotate: false
+  xy: 497, 78
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_195X195
+  rotate: false
+  xy: 216, 221
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_19X20
+  rotate: false
+  xy: 333, 532
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_19X23
+  rotate: false
+  xy: 500, 429
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_20X16
+  rotate: false
+  xy: 497, 123
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_21X20
+  rotate: false
+  xy: 317, 532
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_21X23
+  rotate: false
+  xy: 444, 199
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_22X23
+  rotate: false
+  xy: 421, 486
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_26X20
+  rotate: false
+  xy: 237, 517
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_27X19
+  rotate: false
+  xy: 256, 517
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_27X20
+  rotate: false
+  xy: 491, 486
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_27X9
+  rotate: false
+  xy: 461, 313
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_29X24
+  rotate: false
+  xy: 491, 447
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_31X22
+  rotate: false
+  xy: 399, 486
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_32X23
+  rotate: false
+  xy: 491, 469
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_33X25
+  rotate: false
+  xy: 317, 407
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_35X36
+  rotate: false
+  xy: 290, 481
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_35X36_2
+  rotate: false
+  xy: 290, 506
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_37X18
+  rotate: false
+  xy: 480, 185
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_38X38
+  rotate: false
+  xy: 160, 597
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_41X41
+  rotate: false
+  xy: 225, 589
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_43X31
+  rotate: false
+  xy: 414, 199
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_46X20
+  rotate: false
+  xy: 367, 486
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_52X55
+  rotate: false
+  xy: 1, 580
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_52X70
+  rotate: false
+  xy: 477, 540
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_58X48
+  rotate: false
+  xy: 366, 580
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_67X35
+  rotate: false
+  xy: 115, 597
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_68X39
+  rotate: false
+  xy: 405, 580
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_70X46
+  rotate: false
+  xy: 214, 557
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_72X35
+  rotate: false
+  xy: 261, 585
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_75X85
+  rotate: false
+  xy: 107, 469
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_75X86
+  rotate: false
+  xy: 317, 475
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_76X84
+  rotate: false
+  xy: 56, 469
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_76X86
+  rotate: false
+  xy: 440, 447
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_77X85
+  rotate: false
+  xy: 461, 199
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_77X85_2
+  rotate: false
+  xy: 461, 256
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_77X86
+  rotate: false
+  xy: 448, 390
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_78X36
+  rotate: false
+  xy: 314, 580
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_78X41
+  rotate: false
+  xy: 137, 569
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_78X85
+  rotate: false
+  xy: 388, 429
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_79X33
+  rotate: false
+  xy: 451, 587
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_79X53
+  rotate: false
+  xy: 237, 481
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_79X53_2
+  rotate: false
+  xy: 447, 504
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_79X53_3
+  rotate: false
+  xy: 161, 533
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_80X41
+  rotate: false
+  xy: 261, 557
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GHOSTPEPPER_GHOSTPEPPER_81X39
+  rotate: false
+  xy: 61, 578
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1

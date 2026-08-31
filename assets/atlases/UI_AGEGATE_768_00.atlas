@@ -1,0 +1,54 @@
+UI_AGEGATE_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_AGEGATE_AGEGATE_AGEGATE_512X256
+  rotate: false
+  xy: 1, 1
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AGEGATE_AGEGATE_AGEGATE_512X256_2
+  rotate: false
+  xy: 1, 131
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AGEGATE_AGEGATE_AGEGATE_512X256_3
+  rotate: false
+  xy: 1, 261
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AGEGATE_AGEGATE_AGEGATE_512X256_4
+  rotate: false
+  xy: 1, 391
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AGEGATE_AGEGATE_AGEGATE_512X256_5
+  rotate: false
+  xy: 1, 521
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AGEGATE_AGEGATE_AGEGATE_512X256_6
+  rotate: false
+  xy: 1, 651
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AGEGATE_AGEGATE_AGEGATE_512X256_7
+  rotate: false
+  xy: 1, 781
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

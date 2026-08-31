@@ -1,0 +1,488 @@
+ZOMBIEROMANHEALERGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_ROMAN_HEALER_BEAM_ZOMBIE_ROMAN_HEALER_BEAM_133X10
+  rotate: false
+  xy: 1, 384
+  size: 85, 7
+  orig: 85, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_HEALER_EFFECT_ZOMBIE_ROMAN_HEALER_EFFECT_13X13
+  rotate: false
+  xy: 139, 147
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_HEALER_EFFECT_ZOMBIE_ROMAN_HEALER_EFFECT_33X33
+  rotate: false
+  xy: 1, 393
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_HEALER_EFFECT_ZOMBIE_ROMAN_HEALER_EFFECT_50X50
+  rotate: false
+  xy: 80, 318
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_HEALER_EFFECT_ZOMBIE_ROMAN_HEALER_EFFECT_69X75
+  rotate: false
+  xy: 152, 269
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_HEALER_EFFECT_ZOMBIE_ROMAN_HEALER_EFFECT_83X83
+  rotate: false
+  xy: 44, 223
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_112X112
+  rotate: false
+  xy: 162, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_132X132
+  rotate: false
+  xy: 1, 1
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_16X16
+  rotate: false
+  xy: 236, 63
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_18X17
+  rotate: false
+  xy: 125, 147
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_24X21
+  rotate: false
+  xy: 107, 147
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_33X33
+  rotate: false
+  xy: 47, 393
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_38X38
+  rotate: false
+  xy: 201, 373
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_43X43
+  rotate: false
+  xy: 171, 345
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_72X134
+  rotate: false
+  xy: 208, 75
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_73X55
+  rotate: false
+  xy: 198, 308
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_80X116
+  rotate: false
+  xy: 54, 147
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_STAFF_ZOMBIE_ROMAN_HEALER_STAFF_90X90
+  rotate: false
+  xy: 167, 163
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_109X109
+  rotate: false
+  xy: 88, 75
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_112X112
+  rotate: false
+  xy: 88, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_135X8
+  rotate: false
+  xy: 70, 408
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_14X39
+  rotate: false
+  xy: 31, 322
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_14X40
+  rotate: false
+  xy: 247, 308
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_15X34
+  rotate: false
+  xy: 240, 406
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_18X61
+  rotate: false
+  xy: 152, 224
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_19X40
+  rotate: false
+  xy: 159, 402
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_20X48
+  rotate: false
+  xy: 202, 400
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_22X52
+  rotate: false
+  xy: 236, 1
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_28X33
+  rotate: false
+  xy: 117, 415
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_29X32
+  rotate: false
+  xy: 178, 375
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_30X31
+  rotate: false
+  xy: 96, 415
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_30X37
+  rotate: false
+  xy: 236, 37
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_32X30
+  rotate: false
+  xy: 217, 406
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_33X33
+  rotate: false
+  xy: 24, 393
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_34X31
+  rotate: false
+  xy: 178, 400
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_34X52
+  rotate: false
+  xy: 233, 345
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_34X57
+  rotate: false
+  xy: 147, 319
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_34X59
+  rotate: false
+  xy: 227, 163
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_35X35
+  rotate: false
+  xy: 228, 381
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_35X37
+  rotate: false
+  xy: 171, 319
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_35X41
+  rotate: false
+  xy: 89, 374
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_36X39
+  rotate: false
+  xy: 153, 375
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_37X25
+  rotate: false
+  xy: 70, 415
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_37X42
+  rotate: false
+  xy: 127, 358
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_37X46
+  rotate: false
+  xy: 1, 352
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_37X46_2
+  rotate: false
+  xy: 63, 352
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_40X25
+  rotate: false
+  xy: 227, 203
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_41X29
+  rotate: false
+  xy: 114, 387
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_43X43
+  rotate: false
+  xy: 1, 322
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_46X40
+  rotate: false
+  xy: 201, 345
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_47X38
+  rotate: false
+  xy: 31, 351
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_47X66
+  rotate: false
+  xy: 222, 223
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_47X89
+  rotate: false
+  xy: 54, 88
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_48X51
+  rotate: false
+  xy: 114, 318
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_53X53
+  rotate: false
+  xy: 44, 315
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_54X62
+  rotate: false
+  xy: 1, 235
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_56X30
+  rotate: false
+  xy: 89, 353
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_63X107
+  rotate: false
+  xy: 1, 164
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_63X65
+  rotate: false
+  xy: 1, 278
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_6X6
+  rotate: false
+  xy: 150, 147
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_70X71
+  rotate: false
+  xy: 99, 270
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_72X134
+  rotate: false
+  xy: 160, 75
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_73X55
+  rotate: false
+  xy: 44, 278
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_79X69
+  rotate: false
+  xy: 99, 224
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_7X7
+  rotate: false
+  xy: 248, 63
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_80X116
+  rotate: false
+  xy: 1, 88
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_82X69
+  rotate: false
+  xy: 167, 223
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_88X58
+  rotate: false
+  xy: 198, 269
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_HEALER_ZOMBIE_ROMAN_HEALER_91X92
+  rotate: false
+  xy: 107, 163
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1

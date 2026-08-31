@@ -1,0 +1,40 @@
+UI_JOUST_HOWTOPLAY_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_HOW_TO_PLAY_HOWTOPLAY_01
+  rotate: false
+  xy: 1, 1
+  size: 900, 300
+  orig: 900, 300
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_HOW_TO_PLAY_HOWTOPLAY_02
+  rotate: false
+  xy: 1, 303
+  size: 900, 300
+  orig: 900, 300
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_HOW_TO_PLAY_HOWTOPLAY_03
+  rotate: false
+  xy: 1, 605
+  size: 900, 300
+  orig: 900, 300
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_HOW_TO_PLAY_HOWTOPLAY_04
+  rotate: false
+  xy: 1, 907
+  size: 900, 300
+  orig: 900, 300
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_HOW_TO_PLAY_HOWTOPLAY_05
+  rotate: false
+  xy: 1, 1209
+  size: 900, 300
+  orig: 900, 300
+  offset: 0, 0
+  index: -1

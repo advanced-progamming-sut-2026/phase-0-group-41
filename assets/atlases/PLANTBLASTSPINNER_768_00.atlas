@@ -1,0 +1,1468 @@
+PLANTBLASTSPINNER_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_BLASTSPINNER_PROJECTILE_44X21
+  rotate: false
+  xy: 235, 299
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_BLASTSPINNER_PROJECTILE_61X24
+  rotate: false
+  xy: 441, 588
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_BLASTSPINNER_PROJECTILE_69X115
+  rotate: false
+  xy: 364, 374
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_BLASTSPINNER_PROJECTILE_73X71
+  rotate: false
+  xy: 114, 487
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_BLASTSPINNER_PROJECTILE_74X97
+  rotate: false
+  xy: 1, 433
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_BLASTSPINNER_PROJECTILE_83X48
+  rotate: false
+  xy: 45, 524
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_10X10
+  rotate: false
+  xy: 147, 363
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_117X82
+  rotate: false
+  xy: 158, 299
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_162X332
+  rotate: false
+  xy: 1, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_1X1
+  rotate: false
+  xy: 473, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_26X39
+  rotate: false
+  xy: 388, 450
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_33X60
+  rotate: false
+  xy: 446, 217
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_38X52
+  rotate: false
+  xy: 410, 374
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_52X60
+  rotate: false
+  xy: 39, 557
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_55X51
+  rotate: false
+  xy: 404, 566
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_59X92
+  rotate: false
+  xy: 473, 1
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_61X227
+  rotate: false
+  xy: 473, 127
+  size: 39, 146
+  orig: 39, 146
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_64X67
+  rotate: false
+  xy: 318, 504
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_80X35
+  rotate: false
+  xy: 242, 564
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_99X70
+  rotate: false
+  xy: 252, 474
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLASTSPINNER_PROJECTILE_EXPLOSION_BLASTSPINNER_PROJECTILE_EXPLOSION_9X10
+  rotate: false
+  xy: 351, 363
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_103X73
+  rotate: false
+  xy: 193, 425
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_103X89
+  rotate: false
+  xy: 235, 315
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_106X76
+  rotate: false
+  xy: 224, 374
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_10X10
+  rotate: false
+  xy: 224, 364
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_111X96
+  rotate: false
+  xy: 85, 299
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_123X121
+  rotate: false
+  xy: 360, 294
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_127X113
+  rotate: false
+  xy: 1, 298
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_12X12
+  rotate: false
+  xy: 224, 354
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_131X117
+  rotate: false
+  xy: 360, 217
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_136X129
+  rotate: false
+  xy: 107, 214
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_139X124
+  rotate: false
+  xy: 1, 216
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_13X10
+  rotate: false
+  xy: 274, 621
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_13X12
+  rotate: false
+  xy: 51, 470
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_13X13
+  rotate: false
+  xy: 51, 459
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_13X14
+  rotate: false
+  xy: 392, 588
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_13X14_2
+  rotate: false
+  xy: 19, 602
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_13X9
+  rotate: false
+  xy: 367, 621
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_140X133
+  rotate: false
+  xy: 107, 127
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_14X11
+  rotate: false
+  xy: 356, 621
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_14X12
+  rotate: false
+  xy: 90, 617
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_14X12_2
+  rotate: false
+  xy: 263, 621
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_14X17
+  rotate: false
+  xy: 51, 433
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_14X17_2
+  rotate: false
+  xy: 51, 446
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_14X74
+  rotate: false
+  xy: 92, 216
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_14X9
+  rotate: false
+  xy: 459, 622
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X12
+  rotate: false
+  xy: 214, 620
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X12_2
+  rotate: false
+  xy: 424, 620
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X13
+  rotate: false
+  xy: 100, 524
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X13_2
+  rotate: false
+  xy: 447, 619
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X14
+  rotate: false
+  xy: 190, 620
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X16
+  rotate: false
+  xy: 78, 617
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X20
+  rotate: false
+  xy: 148, 549
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_15X8
+  rotate: false
+  xy: 470, 622
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X13
+  rotate: false
+  xy: 202, 620
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X16
+  rotate: false
+  xy: 178, 617
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X17
+  rotate: false
+  xy: 1, 617
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X18
+  rotate: false
+  xy: 211, 411
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X18_2
+  rotate: false
+  xy: 102, 616
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X19
+  rotate: false
+  xy: 114, 616
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X20
+  rotate: false
+  xy: 35, 615
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_16X21
+  rotate: false
+  xy: 178, 487
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_174X165
+  rotate: false
+  xy: 359, 1
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_17X14
+  rotate: false
+  xy: 178, 517
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_17X16
+  rotate: false
+  xy: 65, 617
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_17X18
+  rotate: false
+  xy: 178, 503
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_17X18_2
+  rotate: false
+  xy: 148, 535
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_17X21
+  rotate: false
+  xy: 92, 266
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_18X15
+  rotate: false
+  xy: 126, 616
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_194X194
+  rotate: false
+  xy: 107, 1
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_19X15
+  rotate: false
+  xy: 382, 616
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_19X16
+  rotate: false
+  xy: 396, 616
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_19X16_2
+  rotate: false
+  xy: 410, 616
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_19X18
+  rotate: false
+  xy: 92, 282
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_1X1
+  rotate: false
+  xy: 476, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_1X1_2
+  rotate: false
+  xy: 479, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_1X1_3
+  rotate: false
+  xy: 482, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_20X17
+  rotate: false
+  xy: 341, 612
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_20X18
+  rotate: false
+  xy: 499, 588
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_20X5
+  rotate: false
+  xy: 499, 602
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_20X5_2
+  rotate: false
+  xy: 482, 622
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_20X60
+  rotate: false
+  xy: 63, 373
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_20X9
+  rotate: false
+  xy: 63, 414
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_20X9_2
+  rotate: false
+  xy: 248, 621
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X12
+  rotate: false
+  xy: 335, 363
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X12_2
+  rotate: false
+  xy: 75, 557
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X13
+  rotate: false
+  xy: 303, 363
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X16
+  rotate: false
+  xy: 49, 614
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X16_2
+  rotate: false
+  xy: 19, 615
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X17
+  rotate: false
+  xy: 309, 609
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X17_2
+  rotate: false
+  xy: 146, 612
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X17_3
+  rotate: false
+  xy: 162, 612
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X17_4
+  rotate: false
+  xy: 325, 612
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X18
+  rotate: false
+  xy: 366, 607
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X18_2
+  rotate: false
+  xy: 293, 608
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X20
+  rotate: false
+  xy: 277, 606
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_21X22
+  rotate: false
+  xy: 130, 600
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_22X14
+  rotate: false
+  xy: 319, 363
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_22X18
+  rotate: false
+  xy: 466, 608
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_22X18_2
+  rotate: false
+  xy: 482, 608
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_22X18_3
+  rotate: false
+  xy: 498, 608
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_22X19
+  rotate: false
+  xy: 232, 609
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_22X6
+  rotate: false
+  xy: 285, 622
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_22X6_2
+  rotate: false
+  xy: 301, 622
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X18
+  rotate: false
+  xy: 259, 607
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X20
+  rotate: false
+  xy: 85, 602
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X20_2
+  rotate: false
+  xy: 198, 605
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X20_3
+  rotate: false
+  xy: 215, 605
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X23
+  rotate: false
+  xy: 277, 589
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X27
+  rotate: false
+  xy: 482, 588
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X27_2
+  rotate: false
+  xy: 242, 589
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X30
+  rotate: false
+  xy: 313, 588
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_23X32
+  rotate: false
+  xy: 122, 464
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X19
+  rotate: false
+  xy: 193, 411
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X20
+  rotate: false
+  xy: 411, 601
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X21
+  rotate: false
+  xy: 49, 598
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X22
+  rotate: false
+  xy: 112, 600
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X23
+  rotate: false
+  xy: 446, 258
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X23_2
+  rotate: false
+  xy: 148, 595
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X23_3
+  rotate: false
+  xy: 166, 595
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X23_4
+  rotate: false
+  xy: 31, 598
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X24
+  rotate: false
+  xy: 259, 589
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X25
+  rotate: false
+  xy: 330, 594
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X26
+  rotate: false
+  xy: 335, 549
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X28
+  rotate: false
+  xy: 492, 547
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_24X30
+  rotate: false
+  xy: 492, 526
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_25X19
+  rotate: false
+  xy: 429, 606
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_25X20
+  rotate: false
+  xy: 1, 602
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_25X20_2
+  rotate: false
+  xy: 67, 602
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_25X24
+  rotate: false
+  xy: 348, 594
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_25X26
+  rotate: false
+  xy: 374, 588
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_25X28
+  rotate: false
+  xy: 295, 588
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_26X16
+  rotate: false
+  xy: 487, 411
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_26X17
+  rotate: false
+  xy: 447, 606
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_26X20
+  rotate: false
+  xy: 392, 601
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_26X22
+  rotate: false
+  xy: 265, 299
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_27X25
+  rotate: false
+  xy: 361, 504
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_37X27
+  rotate: false
+  xy: 374, 568
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_39X74
+  rotate: false
+  xy: 487, 275
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_43X27
+  rotate: false
+  xy: 1, 582
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_45X33
+  rotate: false
+  xy: 327, 194
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_45X35
+  rotate: false
+  xy: 329, 425
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_48X27
+  rotate: false
+  xy: 480, 568
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_51X17
+  rotate: false
+  xy: 410, 410
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_52X48
+  rotate: false
+  xy: 112, 567
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_53X32
+  rotate: false
+  xy: 291, 194
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_56X57
+  rotate: false
+  xy: 1, 543
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_58X27
+  rotate: false
+  xy: 441, 568
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_58X37
+  rotate: false
+  xy: 335, 568
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_58X40
+  rotate: false
+  xy: 148, 567
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_5X5
+  rotate: false
+  xy: 353, 127
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_64X53
+  rotate: false
+  xy: 206, 528
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_64X57
+  rotate: false
+  xy: 163, 528
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_64X62
+  rotate: false
+  xy: 449, 526
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_66X69
+  rotate: false
+  xy: 1, 497
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_67X64
+  rotate: false
+  xy: 252, 521
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_67X85
+  rotate: false
+  xy: 469, 423
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_69X115
+  rotate: false
+  xy: 147, 411
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_6X6
+  rotate: false
+  xy: 78, 387
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_6X7
+  rotate: false
+  xy: 78, 373
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_6X7_2
+  rotate: false
+  xy: 78, 380
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_71X46
+  rotate: false
+  xy: 100, 535
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_7X7
+  rotate: false
+  xy: 464, 268
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_7X7_2
+  rotate: false
+  xy: 437, 401
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_7X8
+  rotate: false
+  xy: 506, 411
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_81X72
+  rotate: false
+  xy: 303, 315
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_85X68
+  rotate: false
+  xy: 451, 480
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_89X81
+  rotate: false
+  xy: 329, 450
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_89X85
+  rotate: false
+  xy: 63, 423
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_8X8
+  rotate: false
+  xy: 139, 464
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_8X9
+  rotate: false
+  xy: 147, 399
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_93X101
+  rotate: false
+  xy: 291, 127
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_93X91
+  rotate: false
+  xy: 85, 363
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_95X64
+  rotate: false
+  xy: 388, 480
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_95X65
+  rotate: false
+  xy: 51, 480
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_99X85
+  rotate: false
+  xy: 158, 354
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_9X10
+  rotate: false
+  xy: 437, 374
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_9X10_2
+  rotate: false
+  xy: 147, 381
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_9X10_3
+  rotate: false
+  xy: 437, 383
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_9X11
+  rotate: false
+  xy: 147, 390
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_BLASTSPINNER_9X12
+  rotate: false
+  xy: 464, 258
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_103X73
+  rotate: false
+  xy: 261, 425
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_106X76
+  rotate: false
+  xy: 294, 374
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_10X10
+  rotate: false
+  xy: 147, 372
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_113X149
+  rotate: false
+  xy: 285, 217
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_136X129
+  rotate: false
+  xy: 196, 214
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_140X133
+  rotate: false
+  xy: 199, 127
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_14X74
+  rotate: false
+  xy: 187, 567
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_174X165
+  rotate: false
+  xy: 359, 109
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_194X194
+  rotate: false
+  xy: 233, 1
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_1X1
+  rotate: false
+  xy: 485, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_1X1_2
+  rotate: false
+  xy: 488, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_1X1_3
+  rotate: false
+  xy: 491, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_20X60
+  rotate: false
+  xy: 163, 487
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_26X39
+  rotate: false
+  xy: 297, 521
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_33X60
+  rotate: false
+  xy: 122, 423
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_38X52
+  rotate: false
+  xy: 487, 375
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_39X74
+  rotate: false
+  xy: 487, 325
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_52X60
+  rotate: false
+  xy: 206, 564
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_55X51
+  rotate: false
+  xy: 75, 567
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_56X57
+  rotate: false
+  xy: 297, 549
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_59X92
+  rotate: false
+  xy: 473, 62
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_61X227
+  rotate: false
+  xy: 446, 275
+  size: 39, 146
+  orig: 39, 146
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_64X67
+  rotate: false
+  xy: 361, 523
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_67X64
+  rotate: false
+  xy: 404, 523
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_89X81
+  rotate: false
+  xy: 193, 474
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_89X85
+  rotate: false
+  xy: 410, 423
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_93X91
+  rotate: false
+  xy: 1, 373
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLASTSPINNER_COCOON_BLASTSPINNER_COCOON_9X10
+  rotate: false
+  xy: 437, 392
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1

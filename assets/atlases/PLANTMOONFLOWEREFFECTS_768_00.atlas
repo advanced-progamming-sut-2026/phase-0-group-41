@@ -1,0 +1,61 @@
+PLANTMOONFLOWEREFFECTS_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_MOONFLOWER_EFFECT_MOONFLOWER_EFFECT_117X105
+  rotate: false
+  xy: 1, 1
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MOONFLOWER_EFFECT_MOONFLOWER_EFFECT_14X14
+  rotate: false
+  xy: 114, 1
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MOONFLOWER_EFFECT_MOONFLOWER_EFFECT_14X14_2
+  rotate: false
+  xy: 114, 12
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MOONFLOWER_EFFECT_MOONFLOWER_EFFECT_1X1
+  rotate: false
+  xy: 125, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MOONFLOWER_EFFECT_MOONFLOWER_EFFECT_28X43
+  rotate: false
+  xy: 63, 103
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MOONFLOWER_EFFECT_MOONFLOWER_EFFECT_9X8
+  rotate: false
+  xy: 114, 23
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MOONFLOWER_PF_SHIELD_MOONFLOWER_PF_SHIELD_53X156
+  rotate: false
+  xy: 78, 1
+  size: 34, 100
+  orig: 34, 100
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MOONFLOWER_PF_SHIELD_MOONFLOWER_PF_SHIELD_93X89
+  rotate: false
+  xy: 1, 70
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1

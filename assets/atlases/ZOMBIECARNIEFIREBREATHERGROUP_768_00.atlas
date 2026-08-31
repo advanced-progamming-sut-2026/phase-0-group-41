@@ -1,0 +1,726 @@
+ZOMBIECARNIEFIREBREATHERGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_101X84
+  rotate: false
+  xy: 244, 231
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_103X72
+  rotate: false
+  xy: 440, 256
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_104X95
+  rotate: false
+  xy: 445, 193
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_106X115
+  rotate: false
+  xy: 99, 119
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_128X126
+  rotate: false
+  xy: 1, 230
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_135X8
+  rotate: false
+  xy: 1, 454
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_149X122
+  rotate: false
+  xy: 342, 222
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_149X170
+  rotate: false
+  xy: 1, 119
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_149X69
+  rotate: false
+  xy: 85, 231
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_157X157
+  rotate: false
+  xy: 342, 119
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_15X26
+  rotate: false
+  xy: 502, 338
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_18X14
+  rotate: false
+  xy: 294, 287
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_18X36
+  rotate: false
+  xy: 223, 460
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_18X51
+  rotate: false
+  xy: 497, 448
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_18X59
+  rotate: false
+  xy: 248, 439
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_19X38
+  rotate: false
+  xy: 141, 457
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_19X51
+  rotate: false
+  xy: 438, 450
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_19X53
+  rotate: false
+  xy: 127, 445
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_19X61
+  rotate: false
+  xy: 491, 29
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_1X1
+  rotate: false
+  xy: 505, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_20X35
+  rotate: false
+  xy: 193, 457
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_20X36
+  rotate: false
+  xy: 208, 460
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_20X50
+  rotate: false
+  xy: 155, 195
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_21X26
+  rotate: false
+  xy: 27, 461
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_223X181
+  rotate: false
+  xy: 346, 1
+  size: 143, 116
+  orig: 143, 116
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_22X21
+  rotate: false
+  xy: 43, 461
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_22X22
+  rotate: false
+  xy: 59, 461
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_22X37
+  rotate: false
+  xy: 497, 391
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_259X176
+  rotate: false
+  xy: 174, 116
+  size: 166, 113
+  orig: 166, 113
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_25X37
+  rotate: false
+  xy: 452, 450
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_25X37_2
+  rotate: false
+  xy: 286, 453
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_265X176
+  rotate: false
+  xy: 174, 1
+  size: 170, 113
+  orig: 170, 113
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_267X181
+  rotate: false
+  xy: 1, 1
+  size: 171, 116
+  orig: 171, 116
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_26X26
+  rotate: false
+  xy: 491, 98
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_27X40
+  rotate: false
+  xy: 491, 70
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_28X33
+  rotate: false
+  xy: 384, 455
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_29X31
+  rotate: false
+  xy: 304, 453
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_31X40
+  rotate: false
+  xy: 491, 1
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_34X29
+  rotate: false
+  xy: 262, 445
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_34X29_2
+  rotate: false
+  xy: 473, 448
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_34X31
+  rotate: false
+  xy: 360, 441
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_34X39
+  rotate: false
+  xy: 414, 431
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_34X39_2
+  rotate: false
+  xy: 169, 434
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_34X52
+  rotate: false
+  xy: 421, 395
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_34X52_2
+  rotate: false
+  xy: 247, 403
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_36X39
+  rotate: false
+  xy: 144, 430
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_36X45
+  rotate: false
+  xy: 1, 417
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_37X18
+  rotate: false
+  xy: 1, 461
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_37X37
+  rotate: false
+  xy: 388, 429
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_37X46
+  rotate: false
+  xy: 271, 413
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_38X32
+  rotate: false
+  xy: 54, 313
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_38X32_2
+  rotate: false
+  xy: 193, 434
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_38X41
+  rotate: false
+  xy: 69, 422
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_38X55
+  rotate: false
+  xy: 311, 231
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_40X30
+  rotate: false
+  xy: 220, 439
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_40X49
+  rotate: false
+  xy: 311, 268
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_40X49_2
+  rotate: false
+  xy: 393, 395
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_41X39
+  rotate: false
+  xy: 445, 423
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_42X22
+  rotate: false
+  xy: 404, 458
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_42X22_2
+  rotate: false
+  xy: 325, 459
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_42X35
+  rotate: false
+  xy: 473, 423
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_45X24
+  rotate: false
+  xy: 329, 441
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_45X24_2
+  rotate: false
+  xy: 96, 445
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_46X26
+  rotate: false
+  xy: 297, 434
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_46X74
+  rotate: false
+  xy: 162, 358
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_47X27
+  rotate: false
+  xy: 107, 336
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_47X77
+  rotate: false
+  xy: 251, 351
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_52X50
+  rotate: false
+  xy: 477, 304
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_53X33
+  rotate: false
+  xy: 140, 277
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_57X30
+  rotate: false
+  xy: 297, 413
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_61X18
+  rotate: false
+  xy: 26, 440
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_63X25
+  rotate: false
+  xy: 26, 422
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_63X31
+  rotate: false
+  xy: 144, 408
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_64X45
+  rotate: false
+  xy: 101, 393
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_68X53
+  rotate: false
+  xy: 347, 390
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_68X59
+  rotate: false
+  xy: 55, 382
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_69X23
+  rotate: false
+  xy: 1, 363
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_70X47
+  rotate: false
+  xy: 450, 391
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_70X72
+  rotate: false
+  xy: 196, 302
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_72X20
+  rotate: false
+  xy: 96, 430
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_72X65
+  rotate: false
+  xy: 402, 351
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_75X96
+  rotate: false
+  xy: 244, 287
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_76X27
+  rotate: false
+  xy: 283, 393
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_77X59
+  rotate: false
+  xy: 450, 351
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_78X20
+  rotate: false
+  xy: 336, 426
+  size: 50, 13
+  orig: 50, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_79X38
+  rotate: false
+  xy: 194, 392
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_79X66
+  rotate: false
+  xy: 294, 349
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_79X69
+  rotate: false
+  xy: 54, 336
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_79X75
+  rotate: false
+  xy: 1, 313
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_7X7
+  rotate: false
+  xy: 505, 29
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_81X51
+  rotate: false
+  xy: 1, 382
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_82X61
+  rotate: false
+  xy: 347, 349
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_82X61_2
+  rotate: false
+  xy: 196, 351
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_83X20
+  rotate: false
+  xy: 187, 419
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_83X51
+  rotate: false
+  xy: 107, 358
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_83X89
+  rotate: false
+  xy: 85, 277
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_84X53
+  rotate: false
+  xy: 99, 195
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_84X84
+  rotate: false
+  xy: 140, 302
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_92X107
+  rotate: false
+  xy: 183, 231
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_92X70
+  rotate: false
+  xy: 294, 302
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_92X70_2
+  rotate: false
+  xy: 355, 302
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_92X70_3
+  rotate: false
+  xy: 416, 304
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FIRE_BREATHER_ZOMBIE_FIRE_BREATHER_97X112
+  rotate: false
+  xy: 445, 119
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1

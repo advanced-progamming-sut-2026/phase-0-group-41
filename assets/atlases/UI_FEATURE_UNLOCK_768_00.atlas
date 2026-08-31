@@ -1,0 +1,40 @@
+UI_FEATURE_UNLOCK_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_FEATURE_UNLOCK_FEATURE_KEY_ART_ARENA
+  rotate: false
+  xy: 1, 1
+  size: 415, 165
+  orig: 415, 165
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FEATURE_UNLOCK_FEATURE_KEY_ART_EVENTS
+  rotate: false
+  xy: 1, 168
+  size: 415, 165
+  orig: 415, 165
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FEATURE_UNLOCK_FEATURE_KEY_ART_PENNYS_PURSUIT
+  rotate: false
+  xy: 1, 335
+  size: 415, 165
+  orig: 415, 165
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FEATURE_UNLOCK_FEATURE_KEY_ART_VASEBREAKER
+  rotate: false
+  xy: 1, 502
+  size: 415, 165
+  orig: 415, 165
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FEATURE_UNLOCK_FEATURE_KEY_ART_ZEN_GARDEN
+  rotate: false
+  xy: 1, 669
+  size: 415, 165
+  orig: 415, 165
+  offset: 0, 0
+  index: -1

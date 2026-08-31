@@ -1,0 +1,362 @@
+UI_VASEBREAKERMENU_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_ARCADEMENU_BG_BEACH
+  rotate: false
+  xy: 1, 1
+  size: 590, 199
+  orig: 590, 199
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ARCADEMENU_BG_DARKAGES
+  rotate: false
+  xy: 1, 202
+  size: 590, 199
+  orig: 590, 199
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ARCADEMENU_BG_EGYPT
+  rotate: false
+  xy: 1, 604
+  size: 590, 199
+  orig: 590, 199
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ARCADEMENU_BG_FUTURE
+  rotate: false
+  xy: 1, 403
+  size: 590, 199
+  orig: 590, 199
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ARCADEMENU_BG_PIRATE
+  rotate: false
+  xy: 1, 805
+  size: 590, 199
+  orig: 590, 199
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ARCADEMENU_BG_TUTORIAL
+  rotate: false
+  xy: 1, 1006
+  size: 590, 199
+  orig: 590, 199
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ARCADEMENU_BG_WEST
+  rotate: false
+  xy: 1, 1207
+  size: 590, 199
+  orig: 590, 199
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ARCADEMENU_POWERUP_FRAME_MINIGAMES_INDIVIDUAL
+  rotate: false
+  xy: 593, 135
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LOCK_ANIMS_LOCK_ANIMS_102X102
+  rotate: false
+  xy: 773, 300
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LOCK_ANIMS_LOCK_ANIMS_1X1
+  rotate: false
+  xy: 1022, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LOCK_ANIMS_LOCK_ANIMS_54X42
+  rotate: false
+  xy: 658, 257
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LOCK_ANIMS_LOCK_ANIMS_68X65
+  rotate: false
+  xy: 644, 375
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LOCK_ANIMS_LOCK_ANIMS_68X92
+  rotate: false
+  xy: 988, 175
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LOCK_ANIMS_LOCK_ANIMS_68X92_2
+  rotate: false
+  xy: 988, 223
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LOCK_ANIMS_LOCK_ANIMS_79X79
+  rotate: false
+  xy: 867, 305
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_BG
+  rotate: false
+  xy: 917, 1
+  size: 61, 191
+  orig: 61, 191
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_106X130
+  rotate: false
+  xy: 718, 300
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_111X40
+  rotate: false
+  xy: 955, 376
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_115X150
+  rotate: false
+  xy: 917, 281
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_115X150_2
+  rotate: false
+  xy: 658, 298
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_116X54
+  rotate: false
+  xy: 773, 353
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_118X40
+  rotate: false
+  xy: 894, 358
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_118X49
+  rotate: false
+  xy: 833, 353
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_122X83
+  rotate: false
+  xy: 593, 303
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_126X150
+  rotate: false
+  xy: 593, 226
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_138X151
+  rotate: false
+  xy: 691, 220
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_138X151_2
+  rotate: false
+  xy: 762, 222
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_138X170
+  rotate: false
+  xy: 764, 135
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_138X170_2
+  rotate: false
+  xy: 917, 194
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_142X166
+  rotate: false
+  xy: 691, 135
+  size: 71, 83
+  orig: 71, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_18X20
+  rotate: false
+  xy: 1011, 17
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_1X1
+  rotate: false
+  xy: 1022, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_22X27
+  rotate: false
+  xy: 1011, 1
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_247X264
+  rotate: false
+  xy: 742, 1
+  size: 124, 132
+  orig: 124, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_293X263
+  rotate: false
+  xy: 593, 1
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_30X28
+  rotate: false
+  xy: 833, 283
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_31X165
+  rotate: false
+  xy: 835, 135
+  size: 16, 83
+  orig: 16, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_31X31
+  rotate: false
+  xy: 658, 280
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_31X33
+  rotate: false
+  xy: 852, 380
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_33X41
+  rotate: false
+  xy: 833, 380
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_36X48
+  rotate: false
+  xy: 833, 257
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_40X39
+  rotate: false
+  xy: 680, 375
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_41X57
+  rotate: false
+  xy: 658, 226
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_58X344
+  rotate: false
+  xy: 980, 1
+  size: 29, 172
+  orig: 29, 172
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_58X70
+  rotate: false
+  xy: 835, 220
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_78X102
+  rotate: false
+  xy: 826, 300
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_79X58
+  rotate: false
+  xy: 718, 367
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_88X63
+  rotate: false
+  xy: 977, 342
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_94X118
+  rotate: false
+  xy: 977, 281
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_ENDLESS_NODE_VASEBREAKER_ENDLESS_NODE_97X71
+  rotate: false
+  xy: 593, 347
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_VASEBREAKER_LEVELPACK_BG
+  rotate: false
+  xy: 868, 1
+  size: 47, 302
+  orig: 47, 302
+  offset: 0, 0
+  index: -1

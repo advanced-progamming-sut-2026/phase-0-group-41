@@ -1,0 +1,201 @@
+ZOMBIECARNIEIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_14X11
+  rotate: false
+  xy: 112, 123
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_14X25
+  rotate: false
+  xy: 14, 176
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_15X27
+  rotate: false
+  xy: 117, 43
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_15X27_2
+  rotate: false
+  xy: 116, 63
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_15X27_3
+  rotate: false
+  xy: 117, 83
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_15X28
+  rotate: false
+  xy: 117, 103
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_15X30
+  rotate: false
+  xy: 117, 1
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_167X8
+  rotate: false
+  xy: 1, 169
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_16X29
+  rotate: false
+  xy: 117, 22
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_17X23
+  rotate: false
+  xy: 1, 176
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_17X25
+  rotate: false
+  xy: 110, 153
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_17X25_2
+  rotate: false
+  xy: 110, 171
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_20X17
+  rotate: false
+  xy: 50, 155
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_20X20
+  rotate: false
+  xy: 86, 153
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_21X16
+  rotate: false
+  xy: 65, 155
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_21X25
+  rotate: false
+  xy: 96, 111
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_30X30
+  rotate: false
+  xy: 96, 90
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_52X29
+  rotate: false
+  xy: 86, 132
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_53X33
+  rotate: false
+  xy: 50, 132
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_66X33
+  rotate: false
+  xy: 1, 102
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_6X6
+  rotate: false
+  xy: 48, 61
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_70X71
+  rotate: false
+  xy: 1, 54
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_71X62
+  rotate: false
+  xy: 48, 90
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_73X54
+  rotate: false
+  xy: 1, 132
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_7X7
+  rotate: false
+  xy: 48, 54
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_86X60
+  rotate: false
+  xy: 59, 49
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_87X71
+  rotate: false
+  xy: 59, 1
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_IMP_ZOMBIE_CARNIE_IMP_87X79
+  rotate: false
+  xy: 1, 1
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1

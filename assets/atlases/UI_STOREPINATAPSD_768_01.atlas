@@ -1,0 +1,117 @@
+UI_STOREPINATAPSD_768_01.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_STORE_STORE_PINATA_ICONS_COWBOY
+  rotate: false
+  xy: 807, 331
+  size: 217, 334
+  orig: 217, 334
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_DINO
+  rotate: false
+  xy: 394, 924
+  size: 183, 211
+  orig: 183, 211
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_EGYPT
+  rotate: false
+  xy: 709, 667
+  size: 201, 229
+  orig: 201, 229
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_EIGHTIES
+  rotate: false
+  xy: 196, 921
+  size: 196, 210
+  orig: 196, 210
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_ELECTRICITY
+  rotate: false
+  xy: 259, 331
+  size: 258, 296
+  orig: 258, 296
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_FILAMINT
+  rotate: false
+  xy: 1, 1
+  size: 268, 328
+  orig: 268, 328
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_FIRE
+  rotate: false
+  xy: 1, 646
+  size: 224, 273
+  orig: 224, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_FREE
+  rotate: false
+  xy: 541, 329
+  size: 264, 324
+  orig: 264, 324
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_FRUIT
+  rotate: false
+  xy: 1, 331
+  size: 256, 313
+  orig: 256, 313
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_FUTURE
+  rotate: false
+  xy: 809, 1
+  size: 208, 310
+  orig: 208, 310
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_HALLOWEEN
+  rotate: false
+  xy: 541, 1
+  size: 266, 326
+  orig: 266, 326
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_ICE
+  rotate: false
+  xy: 496, 655
+  size: 211, 267
+  orig: 211, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_LOSTCITY
+  rotate: false
+  xy: 1, 921
+  size: 193, 214
+  orig: 193, 214
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_PIRATE
+  rotate: false
+  xy: 709, 898
+  size: 196, 234
+  orig: 196, 234
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_SUMMERNIGHT
+  rotate: false
+  xy: 271, 1
+  size: 268, 328
+  orig: 268, 328
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_STORE_PINATA_ICONS_ZOMBOSS
+  rotate: false
+  xy: 259, 629
+  size: 235, 290
+  orig: 235, 290
+  offset: 0, 0
+  index: -1

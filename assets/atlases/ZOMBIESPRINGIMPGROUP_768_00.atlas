@@ -1,0 +1,299 @@
+ZOMBIESPRINGIMPGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_149X69
+  rotate: false
+  xy: 58, 97
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_14X11
+  rotate: false
+  xy: 244, 78
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_15X26
+  rotate: false
+  xy: 244, 40
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_15X26_2
+  rotate: false
+  xy: 244, 59
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_167X8
+  rotate: false
+  xy: 1, 312
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_16X29
+  rotate: false
+  xy: 244, 1
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_17X25
+  rotate: false
+  xy: 244, 22
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_18X13
+  rotate: false
+  xy: 1, 319
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_18X13_2
+  rotate: false
+  xy: 15, 319
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_1X1
+  rotate: false
+  xy: 251, 93
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_20X20
+  rotate: false
+  xy: 194, 318
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_21X23
+  rotate: false
+  xy: 162, 302
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_22X22
+  rotate: false
+  xy: 178, 318
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_28X27
+  rotate: false
+  xy: 117, 276
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_29X30
+  rotate: false
+  xy: 236, 298
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_309X146
+  rotate: false
+  xy: 1, 1
+  size: 198, 94
+  orig: 198, 94
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_30X30
+  rotate: false
+  xy: 141, 302
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_30X48
+  rotate: false
+  xy: 215, 298
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_31X46
+  rotate: false
+  xy: 179, 265
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_34X28
+  rotate: false
+  xy: 117, 302
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_50X43
+  rotate: false
+  xy: 83, 276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_52X29
+  rotate: false
+  xy: 1, 291
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_52X76
+  rotate: false
+  xy: 102, 225
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_53X28
+  rotate: false
+  xy: 179, 298
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_56X53
+  rotate: false
+  xy: 45, 276
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_60X54
+  rotate: false
+  xy: 138, 265
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_63X124
+  rotate: false
+  xy: 102, 143
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_63X155
+  rotate: false
+  xy: 201, 1
+  size: 41, 99
+  orig: 41, 99
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_64X148
+  rotate: false
+  xy: 156, 97
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_65X135
+  rotate: false
+  xy: 58, 143
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_66X33
+  rotate: false
+  xy: 145, 194
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_66X53
+  rotate: false
+  xy: 1, 255
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_66X66
+  rotate: false
+  xy: 48, 232
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_6X6
+  rotate: false
+  xy: 251, 87
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_70X71
+  rotate: false
+  xy: 1, 207
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_71X62
+  rotate: false
+  xy: 202, 219
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_73X54
+  rotate: false
+  xy: 202, 261
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_7X7
+  rotate: false
+  xy: 244, 87
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_85X169
+  rotate: false
+  xy: 1, 97
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_86X108
+  rotate: false
+  xy: 199, 102
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_86X69
+  rotate: false
+  xy: 199, 173
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_IMP_EASTER_IMP_86X69_2
+  rotate: false
+  xy: 145, 219
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1

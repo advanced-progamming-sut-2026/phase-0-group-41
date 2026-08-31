@@ -1,0 +1,495 @@
+NPC_TOMBTANGLER_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_105X109
+  rotate: false
+  xy: 440, 110
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_107X41
+  rotate: false
+  xy: 440, 182
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_117X146
+  rotate: false
+  xy: 328, 823
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_120X45
+  rotate: false
+  xy: 1, 842
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_121X207
+  rotate: false
+  xy: 410, 251
+  size: 78, 133
+  orig: 78, 133
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_125X139
+  rotate: false
+  xy: 86, 804
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_130X168
+  rotate: false
+  xy: 1, 732
+  size: 83, 108
+  orig: 83, 108
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_149X124
+  rotate: false
+  xy: 230, 788
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_153X146
+  rotate: false
+  xy: 130, 708
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_155X94
+  rotate: false
+  xy: 405, 823
+  size: 99, 60
+  orig: 99, 60
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_165X129
+  rotate: false
+  xy: 1, 543
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_170X71
+  rotate: false
+  xy: 1, 895
+  size: 109, 46
+  orig: 109, 46
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_171X160
+  rotate: false
+  xy: 364, 652
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_173X219
+  rotate: false
+  xy: 1, 401
+  size: 111, 140
+  orig: 111, 140
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_17X24
+  rotate: false
+  xy: 213, 276
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_180X121
+  rotate: false
+  xy: 230, 708
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_185X62
+  rotate: false
+  xy: 294, 919
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_190X99
+  rotate: false
+  xy: 347, 757
+  size: 122, 64
+  orig: 122, 64
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_191X176
+  rotate: false
+  xy: 240, 544
+  size: 122, 113
+  orig: 122, 113
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_193X80
+  rotate: false
+  xy: 168, 870
+  size: 124, 51
+  orig: 124, 51
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_194X177
+  rotate: false
+  xy: 114, 514
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_197X229
+  rotate: false
+  xy: 349, 395
+  size: 126, 147
+  orig: 126, 147
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_198X156
+  rotate: false
+  xy: 1, 630
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_201X165
+  rotate: false
+  xy: 364, 544
+  size: 129, 106
+  orig: 129, 106
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_20X26
+  rotate: false
+  xy: 213, 257
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_253X221
+  rotate: false
+  xy: 1, 257
+  size: 162, 142
+  orig: 162, 142
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_26X38
+  rotate: false
+  xy: 490, 294
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_274X222
+  rotate: false
+  xy: 232, 251
+  size: 176, 142
+  orig: 176, 142
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_27X19
+  rotate: false
+  xy: 492, 92
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_284X183
+  rotate: false
+  xy: 165, 395
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_29X36
+  rotate: false
+  xy: 490, 269
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_29X40
+  rotate: false
+  xy: 492, 64
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_29X43
+  rotate: false
+  xy: 492, 34
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_29X48
+  rotate: false
+  xy: 492, 1
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_307X73
+  rotate: false
+  xy: 130, 659
+  size: 197, 47
+  orig: 197, 47
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_31X22
+  rotate: false
+  xy: 490, 321
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_321X387
+  rotate: false
+  xy: 232, 1
+  size: 206, 248
+  orig: 206, 248
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_32X15
+  rotate: false
+  xy: 440, 237
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_33X47
+  rotate: false
+  xy: 490, 237
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_357X397
+  rotate: false
+  xy: 1, 1
+  size: 229, 254
+  orig: 229, 254
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_35X14
+  rotate: false
+  xy: 463, 237
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_36X39
+  rotate: false
+  xy: 307, 514
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_39X22
+  rotate: false
+  xy: 476, 696
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_40X22
+  rotate: false
+  xy: 186, 630
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_40X24
+  rotate: false
+  xy: 158, 630
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_40X34
+  rotate: false
+  xy: 130, 630
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_45X43
+  rotate: false
+  xy: 240, 514
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_50X66
+  rotate: false
+  xy: 476, 652
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_50X66_2
+  rotate: false
+  xy: 329, 659
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_51X83
+  rotate: false
+  xy: 477, 386
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_53X33
+  rotate: false
+  xy: 114, 489
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_53X33_2
+  rotate: false
+  xy: 271, 514
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_54X66
+  rotate: false
+  xy: 477, 441
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_54X66_2
+  rotate: false
+  xy: 477, 485
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_63X57
+  rotate: false
+  xy: 155, 923
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_63X57_2
+  rotate: false
+  xy: 198, 923
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_63X66
+  rotate: false
+  xy: 114, 401
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_63X66_2
+  rotate: false
+  xy: 114, 445
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_64X57
+  rotate: false
+  xy: 241, 923
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_64X57_2
+  rotate: false
+  xy: 1, 943
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_64X57_3
+  rotate: false
+  xy: 44, 943
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_64X66
+  rotate: false
+  xy: 86, 732
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_64X66_2
+  rotate: false
+  xy: 471, 757
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_64X66_3
+  rotate: false
+  xy: 168, 804
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_64X66_4
+  rotate: false
+  xy: 112, 895
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_70X49
+  rotate: false
+  xy: 165, 359
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_71X156
+  rotate: false
+  xy: 165, 257
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_77X167
+  rotate: false
+  xy: 440, 1
+  size: 50, 107
+  orig: 50, 107
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_89X118
+  rotate: false
+  xy: 415, 885
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_TOMBTANGLER_TOMBTANGLER_95X39
+  rotate: false
+  xy: 440, 210
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1

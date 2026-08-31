@@ -1,0 +1,68 @@
+UI_DANGERROOM_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_DANGERROOM_CHOOSER_SEEDBANK_BACKGROUND_LEFT
+  rotate: false
+  xy: 111, 1
+  size: 7, 90
+  orig: 7, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_CHOOSER_SEEDBANK_BACKGROUND_MID
+  rotate: false
+  xy: 120, 1
+  size: 7, 90
+  orig: 7, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_CHOOSER_SEEDBANK_BACKGROUND_RIGHT
+  rotate: false
+  xy: 111, 93
+  size: 7, 90
+  orig: 7, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_COIN_MIDSIZE
+  rotate: false
+  xy: 67, 52
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_DIVIDER
+  rotate: false
+  xy: 44, 67
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_DR_BG
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_MOWER
+  rotate: false
+  xy: 1, 67
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_PLANTFOOD_ICON
+  rotate: false
+  xy: 44, 95
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DANGERROOM_RED_X
+  rotate: false
+  xy: 67, 1
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1

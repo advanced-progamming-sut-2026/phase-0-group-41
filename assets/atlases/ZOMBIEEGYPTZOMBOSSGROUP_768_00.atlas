@@ -1,0 +1,971 @@
+ZOMBIEEGYPTZOMBOSSGROUP_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_104X259
+  rotate: false
+  xy: 644, 460
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_104X98
+  rotate: false
+  xy: 365, 940
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_184X176
+  rotate: false
+  xy: 99, 842
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_1X1
+  rotate: false
+  xy: 982, 235
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_1X1_2
+  rotate: false
+  xy: 985, 235
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_225X117
+  rotate: false
+  xy: 436, 931
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_296X279
+  rotate: false
+  xy: 716, 448
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_313X313
+  rotate: false
+  xy: 257, 276
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_336X317
+  rotate: false
+  xy: 499, 255
+  size: 215, 203
+  orig: 215, 203
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_370X370
+  rotate: false
+  xy: 743, 1
+  size: 237, 237
+  orig: 237, 237
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_87X142
+  rotate: false
+  xy: 965, 338
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_ZOMBOSS_MISSILE_EXPLOSION_EGYPT_98X51
+  rotate: false
+  xy: 582, 931
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_102X102
+  rotate: false
+  xy: 99, 771
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_105X89
+  rotate: false
+  xy: 72, 1134
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_108X94
+  rotate: false
+  xy: 1, 1105
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_110X183
+  rotate: false
+  xy: 179, 358
+  size: 71, 117
+  orig: 71, 117
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_116X116
+  rotate: false
+  xy: 881, 1100
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_116X123
+  rotate: false
+  xy: 518, 1062
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_116X134
+  rotate: false
+  xy: 935, 945
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_116X76
+  rotate: false
+  xy: 644, 1148
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_117X39
+  rotate: false
+  xy: 1, 924
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_11X11
+  rotate: false
+  xy: 733, 373
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_11X14
+  rotate: false
+  xy: 487, 367
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_11X35
+  rotate: false
+  xy: 733, 348
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_123X55
+  rotate: false
+  xy: 378, 1187
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_128X94
+  rotate: false
+  xy: 788, 1101
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_12X50
+  rotate: false
+  xy: 487, 333
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_135X8
+  rotate: false
+  xy: 348, 630
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_136X60
+  rotate: false
+  xy: 829, 1176
+  size: 87, 39
+  orig: 87, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_140X291
+  rotate: false
+  xy: 908, 448
+  size: 90, 186
+  orig: 90, 186
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_140X98
+  rotate: false
+  xy: 594, 1062
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_142X128
+  rotate: false
+  xy: 788, 1017
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_143X129
+  rotate: false
+  xy: 694, 1017
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_149X134
+  rotate: false
+  xy: 1, 1017
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_149X144
+  rotate: false
+  xy: 219, 842
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_149X69
+  rotate: false
+  xy: 686, 1102
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_150X236
+  rotate: false
+  xy: 1, 771
+  size: 96, 151
+  orig: 96, 151
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_151X101
+  rotate: false
+  xy: 881, 1033
+  size: 97, 65
+  orig: 97, 65
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_153X104
+  rotate: false
+  xy: 906, 876
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_153X130
+  rotate: false
+  xy: 200, 1017
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_155X130
+  rotate: false
+  xy: 99, 1017
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_162X232
+  rotate: false
+  xy: 348, 479
+  size: 104, 149
+  orig: 104, 149
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_164X169
+  rotate: false
+  xy: 904, 636
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_167X173
+  rotate: false
+  xy: 652, 860
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_16X14
+  rotate: false
+  xy: 624, 696
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_16X16
+  rotate: false
+  xy: 334, 683
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_172X136
+  rotate: false
+  xy: 582, 973
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_173X135
+  rotate: false
+  xy: 511, 644
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_176X190
+  rotate: false
+  xy: 321, 816
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_17X23
+  rotate: false
+  xy: 321, 683
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_17X43
+  rotate: false
+  xy: 1000, 540
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_17X43_2
+  rotate: false
+  xy: 1013, 540
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_18X17
+  rotate: false
+  xy: 624, 683
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_18X26
+  rotate: false
+  xy: 624, 664
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_18X28
+  rotate: false
+  xy: 1011, 628
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_196X196
+  rotate: false
+  xy: 853, 748
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_19X28
+  rotate: false
+  xy: 624, 644
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_1X1
+  rotate: false
+  xy: 988, 235
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_1X1_2
+  rotate: false
+  xy: 991, 235
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_20X20
+  rotate: false
+  xy: 1011, 666
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_20X20_2
+  rotate: false
+  xy: 1011, 681
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_20X25
+  rotate: false
+  xy: 1011, 648
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_20X34
+  rotate: false
+  xy: 1000, 570
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_217X282
+  rotate: false
+  xy: 511, 748
+  size: 139, 181
+  orig: 139, 181
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_21X25
+  rotate: false
+  xy: 1000, 594
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_223X118
+  rotate: false
+  xy: 761, 876
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_225X117
+  rotate: false
+  xy: 219, 940
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_22X22
+  rotate: false
+  xy: 321, 667
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_22X50
+  rotate: false
+  xy: 716, 412
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_230X270
+  rotate: false
+  xy: 172, 667
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_235X90
+  rotate: false
+  xy: 365, 1008
+  size: 151, 58
+  orig: 151, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_23X56
+  rotate: false
+  xy: 716, 348
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_24X21
+  rotate: false
+  xy: 1000, 612
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_24X33
+  rotate: false
+  xy: 1000, 471
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_251X265
+  rotate: false
+  xy: 348, 644
+  size: 161, 170
+  orig: 161, 170
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_252X47
+  rotate: false
+  xy: 99, 1102
+  size: 162, 30
+  orig: 162, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_25X33
+  rotate: false
+  xy: 1000, 494
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_25X33_2
+  rotate: false
+  xy: 1000, 517
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_261X290
+  rotate: false
+  xy: 179, 479
+  size: 167, 186
+  orig: 167, 186
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_264X286
+  rotate: false
+  xy: 1, 586
+  size: 169, 183
+  orig: 169, 183
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_269X95
+  rotate: false
+  xy: 761, 954
+  size: 172, 61
+  orig: 172, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_274X352
+  rotate: false
+  xy: 1, 358
+  size: 176, 226
+  orig: 176, 226
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_274X90
+  rotate: false
+  xy: 1, 957
+  size: 176, 58
+  orig: 176, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_27X14
+  rotate: false
+  xy: 437, 630
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_27X14_2
+  rotate: false
+  xy: 321, 700
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_284X284
+  rotate: false
+  xy: 460, 460
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_28X91
+  rotate: false
+  xy: 716, 255
+  size: 18, 58
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_30X27
+  rotate: false
+  xy: 1000, 451
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_310X172
+  rotate: false
+  xy: 652, 748
+  size: 199, 110
+  orig: 199, 110
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_32X48
+  rotate: false
+  xy: 716, 315
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_332X55
+  rotate: false
+  xy: 300, 1068
+  size: 213, 35
+  orig: 213, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_33X37
+  rotate: false
+  xy: 716, 386
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_344X322
+  rotate: false
+  xy: 743, 240
+  size: 220, 206
+  orig: 220, 206
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_34X28
+  rotate: false
+  xy: 1000, 431
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_374X426
+  rotate: false
+  xy: 257, 1
+  size: 240, 273
+  orig: 240, 273
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_377X393
+  rotate: false
+  xy: 499, 1
+  size: 242, 252
+  orig: 242, 252
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_396X554
+  rotate: false
+  xy: 1, 1
+  size: 254, 355
+  orig: 254, 355
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_39X77
+  rotate: false
+  xy: 460, 386
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_39X80
+  rotate: false
+  xy: 460, 333
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_402X182
+  rotate: false
+  xy: 644, 629
+  size: 258, 117
+  orig: 258, 117
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_40X23
+  rotate: false
+  xy: 965, 431
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_43X86
+  rotate: false
+  xy: 460, 276
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_44X40
+  rotate: false
+  xy: 610, 1209
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_46X25
+  rotate: false
+  xy: 460, 438
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_47X47
+  rotate: false
+  xy: 578, 1209
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_50X46
+  rotate: false
+  xy: 478, 1105
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_58X48
+  rotate: false
+  xy: 179, 957
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_58X95
+  rotate: false
+  xy: 980, 1033
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_59X107
+  rotate: false
+  xy: 966, 1185
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_63X128
+  rotate: false
+  xy: 982, 151
+  size: 41, 82
+  orig: 41, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_63X66
+  rotate: false
+  xy: 332, 1189
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_63X73
+  rotate: false
+  xy: 300, 1017
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_64X231
+  rotate: false
+  xy: 982, 1
+  size: 41, 148
+  orig: 41, 148
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_66X106
+  rotate: false
+  xy: 981, 746
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_66X90
+  rotate: false
+  xy: 981, 816
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_67X79
+  rotate: false
+  xy: 287, 1189
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_69X167
+  rotate: false
+  xy: 436, 816
+  size: 44, 107
+  orig: 44, 107
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_6X6
+  rotate: false
+  xy: 736, 255
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_71X127
+  rotate: false
+  xy: 141, 1134
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_71X99
+  rotate: false
+  xy: 918, 1185
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_72X105
+  rotate: false
+  xy: 239, 1172
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_75X118
+  rotate: false
+  xy: 528, 1143
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_75X120
+  rotate: false
+  xy: 189, 1134
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_75X120_2
+  rotate: false
+  xy: 478, 1143
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_75X125
+  rotate: false
+  xy: 378, 1105
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_75X125_2
+  rotate: false
+  xy: 428, 1105
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_75X125_3
+  rotate: false
+  xy: 594, 1127
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_76X127
+  rotate: false
+  xy: 327, 1105
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_76X99
+  rotate: false
+  xy: 1, 1167
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_78X111
+  rotate: false
+  xy: 720, 1148
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_80X37
+  rotate: false
+  xy: 644, 1199
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_81X77
+  rotate: false
+  xy: 518, 1008
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_84X130
+  rotate: false
+  xy: 957, 1100
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_84X150
+  rotate: false
+  xy: 965, 240
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_84X50
+  rotate: false
+  xy: 694, 973
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_86X96
+  rotate: false
+  xy: 772, 1163
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_90X38
+  rotate: false
+  xy: 52, 1193
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_ZOMBOSS_ZOMBIE_EGYPT_ZOMBOSS_96X101
+  rotate: false
+  xy: 263, 1105
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,145 @@
+WORLDMAP_EIGHTIES_NONPVR_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_101X385
+  rotate: false
+  xy: 885, 1
+  size: 65, 247
+  orig: 65, 247
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_1086X1117
+  rotate: false
+  xy: 1, 1
+  size: 695, 715
+  orig: 695, 715
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_112X112
+  rotate: false
+  xy: 798, 539
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_122X374
+  rotate: false
+  xy: 805, 1
+  size: 78, 240
+  orig: 78, 240
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_153X118
+  rotate: false
+  xy: 698, 539
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_164X417
+  rotate: false
+  xy: 698, 1
+  size: 105, 267
+  orig: 105, 267
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_17X17
+  rotate: false
+  xy: 911, 264
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_17X19
+  rotate: false
+  xy: 927, 250
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_21X19
+  rotate: false
+  xy: 911, 250
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_296X85
+  rotate: false
+  xy: 698, 482
+  size: 190, 55
+  orig: 190, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_64X93
+  rotate: false
+  xy: 963, 458
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_71X91
+  rotate: false
+  xy: 963, 398
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_72X58
+  rotate: false
+  xy: 963, 520
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_86X312
+  rotate: false
+  xy: 805, 243
+  size: 55, 200
+  orig: 55, 200
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_93X339
+  rotate: false
+  xy: 952, 1
+  size: 60, 217
+  orig: 60, 217
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM3_ANIM3_99X275
+  rotate: false
+  xy: 952, 220
+  size: 64, 176
+  orig: 64, 176
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM4_ANIM4_73X359
+  rotate: false
+  xy: 862, 250
+  size: 47, 230
+  orig: 47, 230
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM5_ANIM5_74X289
+  rotate: false
+  xy: 698, 270
+  size: 48, 185
+  orig: 48, 185
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM6_ANIM6_78X233
+  rotate: false
+  xy: 911, 398
+  size: 50, 149
+  orig: 50, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ANIM7_ANIM7_63X309
+  rotate: false
+  xy: 748, 270
+  size: 41, 198
+  orig: 41, 198
+  offset: 0, 0
+  index: -1

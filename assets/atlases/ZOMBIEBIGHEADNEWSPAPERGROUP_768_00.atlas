@@ -1,0 +1,285 @@
+ZOMBIEBIGHEADNEWSPAPERGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_107X119
+  rotate: false
+  xy: 155, 99
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_108X67
+  rotate: false
+  xy: 78, 186
+  size: 69, 43
+  orig: 69, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_109X63
+  rotate: false
+  xy: 1, 189
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_117X133
+  rotate: false
+  xy: 78, 99
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_117X138
+  rotate: false
+  xy: 1, 98
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_130X60
+  rotate: false
+  xy: 155, 177
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_135X8
+  rotate: false
+  xy: 152, 287
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_16X38
+  rotate: false
+  xy: 241, 279
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_173X150
+  rotate: false
+  xy: 117, 1
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_177X148
+  rotate: false
+  xy: 1, 1
+  size: 114, 95
+  orig: 114, 95
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_19X24
+  rotate: false
+  xy: 240, 194
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_21X48
+  rotate: false
+  xy: 31, 273
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_22X49
+  rotate: false
+  xy: 240, 160
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_24X58
+  rotate: false
+  xy: 230, 64
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_27X21
+  rotate: false
+  xy: 218, 294
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_27X30
+  rotate: false
+  xy: 177, 294
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_27X42
+  rotate: false
+  xy: 49, 232
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_27X42_2
+  rotate: false
+  xy: 237, 250
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_28X33
+  rotate: false
+  xy: 47, 287
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_28X36
+  rotate: false
+  xy: 96, 279
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_28X46
+  rotate: false
+  xy: 237, 218
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_29X40
+  rotate: false
+  xy: 120, 231
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_30X25
+  rotate: false
+  xy: 197, 294
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_30X37
+  rotate: false
+  xy: 49, 261
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_31X44
+  rotate: false
+  xy: 226, 130
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_36X24
+  rotate: false
+  xy: 152, 294
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_36X26
+  rotate: false
+  xy: 1, 291
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_36X39
+  rotate: false
+  xy: 226, 103
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_36X45
+  rotate: false
+  xy: 230, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_37X27
+  rotate: false
+  xy: 70, 279
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_37X46
+  rotate: false
+  xy: 230, 1
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_43X25
+  rotate: false
+  xy: 1, 273
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_46X51
+  rotate: false
+  xy: 120, 264
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_52X95
+  rotate: false
+  xy: 201, 218
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_60X32
+  rotate: false
+  xy: 152, 264
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_6X6
+  rotate: false
+  xy: 248, 71
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_70X71
+  rotate: false
+  xy: 73, 231
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_71X60
+  rotate: false
+  xy: 1, 232
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_77X69
+  rotate: false
+  xy: 149, 218
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_NEWSPAPER_ZOMBIE_BIGHEAD_NEWSPAPER_7X7
+  rotate: false
+  xy: 248, 64
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

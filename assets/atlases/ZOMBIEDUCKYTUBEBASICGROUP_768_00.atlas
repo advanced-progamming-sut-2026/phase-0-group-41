@@ -1,0 +1,411 @@
+ZOMBIEDUCKYTUBEBASICGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_101X108
+  rotate: false
+  xy: 148, 1
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_108X113
+  rotate: false
+  xy: 77, 1
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_115X115
+  rotate: false
+  xy: 1, 1
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_135X8
+  rotate: false
+  xy: 163, 281
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_14X13
+  rotate: false
+  xy: 139, 286
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_14X35
+  rotate: false
+  xy: 41, 286
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_15X15
+  rotate: false
+  xy: 62, 129
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_16X15
+  rotate: false
+  xy: 185, 268
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_16X20
+  rotate: false
+  xy: 127, 286
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_1X1
+  rotate: false
+  xy: 211, 72
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_1X1_2
+  rotate: false
+  xy: 211, 75
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_20X22
+  rotate: false
+  xy: 238, 257
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_20X40
+  rotate: false
+  xy: 26, 286
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_21X22
+  rotate: false
+  xy: 128, 115
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_22X40
+  rotate: false
+  xy: 111, 280
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_22X49
+  rotate: false
+  xy: 58, 77
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_23X41
+  rotate: false
+  xy: 236, 206
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_24X24
+  rotate: false
+  xy: 58, 111
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_24X58
+  rotate: false
+  xy: 128, 76
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_28X33
+  rotate: false
+  xy: 236, 234
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_28X46
+  rotate: false
+  xy: 234, 148
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_30X21
+  rotate: false
+  xy: 211, 115
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_30X37
+  rotate: false
+  xy: 236, 180
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_31X16
+  rotate: false
+  xy: 163, 268
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_32X48
+  rotate: false
+  xy: 234, 115
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_36X23
+  rotate: false
+  xy: 1, 286
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_36X29
+  rotate: false
+  xy: 83, 264
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_36X39
+  rotate: false
+  xy: 58, 262
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_36X45
+  rotate: false
+  xy: 183, 237
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_36X47
+  rotate: false
+  xy: 84, 232
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_37X32
+  rotate: false
+  xy: 29, 263
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_37X46
+  rotate: false
+  xy: 58, 230
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_39X112
+  rotate: false
+  xy: 209, 189
+  size: 25, 72
+  orig: 25, 72
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_39X38
+  rotate: false
+  xy: 109, 253
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_39X38_2
+  rotate: false
+  xy: 136, 259
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_40X25
+  rotate: false
+  xy: 83, 285
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_40X32
+  rotate: false
+  xy: 1, 263
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_43X25
+  rotate: false
+  xy: 208, 263
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_52X31
+  rotate: false
+  xy: 147, 237
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_56X30
+  rotate: false
+  xy: 109, 232
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_60X86
+  rotate: false
+  xy: 215, 1
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_60X86_2
+  rotate: false
+  xy: 215, 58
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_6X6
+  rotate: false
+  xy: 117, 162
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_70X71
+  rotate: false
+  xy: 162, 189
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_76X98
+  rotate: false
+  xy: 77, 76
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_79X69
+  rotate: false
+  xy: 1, 180
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_7X7
+  rotate: false
+  xy: 117, 141
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_7X7_2
+  rotate: false
+  xy: 117, 148
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_80X83
+  rotate: false
+  xy: 128, 134
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_80X83_2
+  rotate: false
+  xy: 181, 134
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_81X64
+  rotate: false
+  xy: 54, 187
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_81X64_2
+  rotate: false
+  xy: 108, 189
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_82X69
+  rotate: false
+  xy: 62, 141
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_85X48
+  rotate: false
+  xy: 1, 230
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_85X82
+  rotate: false
+  xy: 1, 77
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_8X7
+  rotate: false
+  xy: 117, 155
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_92X71
+  rotate: false
+  xy: 1, 132
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DUCKYTUBE_BASIC_ZOMBIE_DUCKYTUBE_BASIC_95X93
+  rotate: false
+  xy: 148, 72
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1

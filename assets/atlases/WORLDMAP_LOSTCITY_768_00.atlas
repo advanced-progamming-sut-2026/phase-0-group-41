@@ -1,0 +1,306 @@
+WORLDMAP_LOSTCITY_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_LOSTCITY_ANIM5_ANIM5_103X100
+  rotate: false
+  xy: 305, 1619
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ANIM5_ANIM5_103X122
+  rotate: false
+  xy: 930, 1319
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ANIM5_ANIM5_149X124
+  rotate: false
+  xy: 930, 1255
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND1
+  rotate: false
+  xy: 669, 688
+  size: 171, 108
+  orig: 171, 108
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND10
+  rotate: false
+  xy: 1, 801
+  size: 430, 506
+  orig: 430, 506
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND11
+  rotate: false
+  xy: 979, 983
+  size: 37, 195
+  orig: 37, 195
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND12
+  rotate: false
+  xy: 930, 983
+  size: 47, 196
+  orig: 47, 196
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND13
+  rotate: false
+  xy: 1011, 1180
+  size: 7, 106
+  orig: 7, 106
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND14
+  rotate: false
+  xy: 1015, 688
+  size: 8, 35
+  orig: 8, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND15
+  rotate: false
+  xy: 930, 1382
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND16
+  rotate: false
+  xy: 984, 1347
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND17
+  rotate: false
+  xy: 984, 1363
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND18
+  rotate: false
+  xy: 984, 1319
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND19
+  rotate: false
+  xy: 686, 1677
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND2
+  rotate: false
+  xy: 519, 1677
+  size: 165, 106
+  orig: 165, 106
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND20
+  rotate: false
+  xy: 433, 801
+  size: 495, 347
+  orig: 495, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND21
+  rotate: false
+  xy: 305, 1698
+  size: 158, 96
+  orig: 158, 96
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND22
+  rotate: false
+  xy: 802, 1652
+  size: 170, 103
+  orig: 170, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND24
+  rotate: false
+  xy: 221, 1309
+  size: 202, 167
+  orig: 202, 167
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND25
+  rotate: false
+  xy: 195, 1478
+  size: 176, 139
+  orig: 176, 139
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND26
+  rotate: false
+  xy: 373, 1559
+  size: 144, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND27
+  rotate: false
+  xy: 858, 1395
+  size: 159, 140
+  orig: 159, 140
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND28
+  rotate: false
+  xy: 716, 1150
+  size: 212, 243
+  orig: 212, 243
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND29
+  rotate: false
+  xy: 1, 1617
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND3
+  rotate: false
+  xy: 930, 1181
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND30
+  rotate: false
+  xy: 669, 1
+  size: 350, 685
+  orig: 350, 685
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND31
+  rotate: false
+  xy: 433, 1150
+  size: 281, 238
+  orig: 281, 238
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND32
+  rotate: false
+  xy: 1021, 1
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND33
+  rotate: false
+  xy: 1, 1470
+  size: 192, 145
+  orig: 192, 145
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND34
+  rotate: false
+  xy: 629, 1536
+  size: 171, 139
+  orig: 171, 139
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND35
+  rotate: false
+  xy: 818, 1757
+  size: 137, 73
+  orig: 137, 73
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND36
+  rotate: false
+  xy: 1, 1309
+  size: 218, 159
+  orig: 218, 159
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND37
+  rotate: false
+  xy: 686, 1757
+  size: 130, 91
+  orig: 130, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND38
+  rotate: false
+  xy: 1, 1741
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND39
+  rotate: false
+  xy: 629, 1395
+  size: 227, 139
+  orig: 227, 139
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND4
+  rotate: false
+  xy: 802, 1537
+  size: 185, 113
+  orig: 185, 113
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND40
+  rotate: false
+  xy: 139, 1758
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND5
+  rotate: false
+  xy: 842, 688
+  size: 171, 104
+  orig: 171, 104
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND6
+  rotate: false
+  xy: 519, 1559
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND7
+  rotate: false
+  xy: 425, 1390
+  size: 202, 167
+  orig: 202, 167
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND8
+  rotate: false
+  xy: 163, 1619
+  size: 140, 137
+  orig: 140, 137
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LOSTCITY_ISLAND9
+  rotate: false
+  xy: 930, 794
+  size: 90, 187
+  orig: 90, 187
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_LOSTCITY_ZOMBOSS_NODE_LOSTCITY_1040X1246
+  rotate: false
+  xy: 1, 1
+  size: 666, 798
+  orig: 666, 798
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,418 @@
+PLANTSOURSHOT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_IMPACT_SOURSHOT_PROJECTILE_IMPACT_1X1
+  rotate: false
+  xy: 249, 92
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_IMPACT_SOURSHOT_PROJECTILE_IMPACT_203X179
+  rotate: false
+  xy: 1, 275
+  size: 130, 115
+  orig: 130, 115
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_IMPACT_SOURSHOT_PROJECTILE_IMPACT_217X197
+  rotate: false
+  xy: 1, 147
+  size: 139, 126
+  orig: 139, 126
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_IMPACT_SOURSHOT_PROJECTILE_IMPACT_248X225
+  rotate: false
+  xy: 1, 1
+  size: 159, 144
+  orig: 159, 144
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_IMPACT_SOURSHOT_PROJECTILE_IMPACT_60X18
+  rotate: false
+  xy: 193, 424
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_IMPACT_SOURSHOT_PROJECTILE_IMPACT_88X79
+  rotate: false
+  xy: 162, 55
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_IMPACT_SOURSHOT_PROJECTILE_IMPACT_88X81
+  rotate: false
+  xy: 162, 1
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_SOURSHOT_PROJECTILE_128X47
+  rotate: false
+  xy: 142, 214
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_SOURSHOT_PROJECTILE_47X47
+  rotate: false
+  xy: 61, 392
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOURSHOT_PROJECTILE_SOURSHOT_PROJECTILE_61X44
+  rotate: false
+  xy: 165, 374
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_11X13
+  rotate: false
+  xy: 170, 315
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_12X11
+  rotate: false
+  xy: 241, 388
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_12X16
+  rotate: false
+  xy: 245, 187
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_13X10
+  rotate: false
+  xy: 229, 151
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_13X10_2
+  rotate: false
+  xy: 245, 199
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_13X13
+  rotate: false
+  xy: 245, 165
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_14X10
+  rotate: false
+  xy: 179, 315
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_14X10_2
+  rotate: false
+  xy: 179, 324
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_14X13
+  rotate: false
+  xy: 245, 176
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_14X18
+  rotate: false
+  xy: 245, 151
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_14X8
+  rotate: false
+  xy: 121, 400
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_14X9
+  rotate: false
+  xy: 121, 392
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_15X8
+  rotate: false
+  xy: 245, 397
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_19X11
+  rotate: false
+  xy: 215, 151
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_20X14
+  rotate: false
+  xy: 142, 147
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_23X35
+  rotate: false
+  xy: 241, 363
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_24X33
+  rotate: false
+  xy: 148, 429
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_27X25
+  rotate: false
+  xy: 233, 270
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_28X29
+  rotate: false
+  xy: 234, 424
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_29X29
+  rotate: false
+  xy: 170, 294
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_34X41
+  rotate: false
+  xy: 233, 242
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_38X34
+  rotate: false
+  xy: 121, 419
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_40X25
+  rotate: false
+  xy: 1, 428
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_40X60
+  rotate: false
+  xy: 133, 378
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_40X60_2
+  rotate: false
+  xy: 33, 392
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_40X64
+  rotate: false
+  xy: 229, 289
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_41X30
+  rotate: false
+  xy: 61, 424
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_41X31
+  rotate: false
+  xy: 221, 85
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_41X43
+  rotate: false
+  xy: 93, 392
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_43X48
+  rotate: false
+  xy: 226, 209
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_44X24
+  rotate: false
+  xy: 89, 424
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_46X59
+  rotate: false
+  xy: 133, 338
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_46X59_2
+  rotate: false
+  xy: 209, 363
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_47X36
+  rotate: false
+  xy: 161, 404
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_47X53
+  rotate: false
+  xy: 1, 392
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_50X70
+  rotate: false
+  xy: 221, 1
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_51X55
+  rotate: false
+  xy: 221, 48
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_55X66
+  rotate: false
+  xy: 192, 289
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_55X66_2
+  rotate: false
+  xy: 133, 294
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_58X29
+  rotate: false
+  xy: 206, 403
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_58X60
+  rotate: false
+  xy: 170, 333
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_61X63
+  rotate: false
+  xy: 215, 108
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_61X63_2
+  rotate: false
+  xy: 192, 246
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_65X43
+  rotate: false
+  xy: 209, 333
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_75X72
+  rotate: false
+  xy: 195, 161
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_75X72_2
+  rotate: false
+  xy: 142, 246
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_79X80
+  rotate: false
+  xy: 162, 108
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_79X80_2
+  rotate: false
+  xy: 142, 161
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOURSHOT_SOURSHOT_7X7
+  rotate: false
+  xy: 249, 85
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

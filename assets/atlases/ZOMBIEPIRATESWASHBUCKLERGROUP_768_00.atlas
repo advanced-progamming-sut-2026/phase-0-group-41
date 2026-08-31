@@ -1,0 +1,215 @@
+ZOMBIEPIRATESWASHBUCKLERGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_IKNODE_1
+  rotate: false
+  xy: 115, 107
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_118X101
+  rotate: false
+  xy: 1, 1
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_135X8
+  rotate: false
+  xy: 18, 187
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_20X39
+  rotate: false
+  xy: 65, 217
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_21X39
+  rotate: false
+  xy: 1, 196
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_21X47
+  rotate: false
+  xy: 107, 187
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_22X40
+  rotate: false
+  xy: 87, 194
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_23X47
+  rotate: false
+  xy: 1, 164
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_23X57
+  rotate: false
+  xy: 54, 68
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_27X45
+  rotate: false
+  xy: 84, 139
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_28X33
+  rotate: false
+  xy: 67, 194
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_30X21
+  rotate: false
+  xy: 103, 219
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_30X31
+  rotate: false
+  xy: 46, 194
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_30X37
+  rotate: false
+  xy: 104, 139
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_31X42
+  rotate: false
+  xy: 62, 137
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_33X24
+  rotate: false
+  xy: 42, 216
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_34X31
+  rotate: false
+  xy: 104, 165
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_36X23
+  rotate: false
+  xy: 17, 212
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_36X39
+  rotate: false
+  xy: 1, 137
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_36X47
+  rotate: false
+  xy: 90, 107
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_38X29
+  rotate: false
+  xy: 26, 155
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_40X25
+  rotate: false
+  xy: 18, 194
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_43X25
+  rotate: false
+  xy: 53, 166
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_52X25
+  rotate: false
+  xy: 26, 137
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_52X44
+  rotate: false
+  xy: 54, 107
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_68X32
+  rotate: false
+  xy: 1, 114
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_69X87
+  rotate: false
+  xy: 79, 1
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_6X6
+  rotate: false
+  xy: 71, 68
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_70X72
+  rotate: false
+  xy: 79, 59
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_ZOMBIE_SWASHBUCKLER_79X69
+  rotate: false
+  xy: 1, 68
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1

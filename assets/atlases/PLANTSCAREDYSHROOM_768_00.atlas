@@ -1,0 +1,404 @@
+PLANTSCAREDYSHROOM_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SCAREDYSHROOM_PROJECTILE_SCAREDYSHROOM_PROJECTILE_128X47
+  rotate: false
+  xy: 170, 168
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCAREDYSHROOM_PROJECTILE_SCAREDYSHROOM_PROJECTILE_45X45
+  rotate: false
+  xy: 190, 200
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCAREDYSHROOM_PROJECTILE_SCAREDYSHROOM_PROJECTILE_7X8
+  rotate: false
+  xy: 212, 231
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCAREDYSHROOM_PROJECTILE_SCAREDYSHROOM_PROJECTILE_88X38
+  rotate: false
+  xy: 104, 194
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_106X69
+  rotate: false
+  xy: 1, 145
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_106X76
+  rotate: false
+  xy: 170, 117
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_108X30
+  rotate: false
+  xy: 31, 242
+  size: 69, 19
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_108X77
+  rotate: false
+  xy: 99, 117
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_10X8
+  rotate: false
+  xy: 248, 243
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_115X86
+  rotate: false
+  xy: 163, 60
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_116X35
+  rotate: false
+  xy: 71, 169
+  size: 74, 23
+  orig: 74, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_119X89
+  rotate: false
+  xy: 163, 1
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_11X17
+  rotate: false
+  xy: 239, 243
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_11X19
+  rotate: false
+  xy: 212, 241
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_11X19_2
+  rotate: false
+  xy: 221, 241
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_11X19_3
+  rotate: false
+  xy: 230, 241
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_12X18
+  rotate: false
+  xy: 202, 231
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_13X10
+  rotate: false
+  xy: 147, 185
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_13X13
+  rotate: false
+  xy: 190, 243
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_13X20
+  rotate: false
+  xy: 244, 214
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_149X69
+  rotate: false
+  xy: 1, 99
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_14X18
+  rotate: false
+  xy: 244, 229
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_14X22
+  rotate: false
+  xy: 240, 149
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_14X22_2
+  rotate: false
+  xy: 147, 169
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_14X22_3
+  rotate: false
+  xy: 158, 169
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_14X9
+  rotate: false
+  xy: 158, 185
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_15X17
+  rotate: false
+  xy: 147, 221
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_15X20
+  rotate: false
+  xy: 240, 134
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_15X24
+  rotate: false
+  xy: 149, 99
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_15X8
+  rotate: false
+  xy: 147, 245
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_16X13
+  rotate: false
+  xy: 147, 234
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_16X16
+  rotate: false
+  xy: 190, 231
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_16X18
+  rotate: false
+  xy: 244, 200
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_18X17
+  rotate: false
+  xy: 240, 121
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_19X28
+  rotate: false
+  xy: 241, 24
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_20X22
+  rotate: false
+  xy: 240, 105
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_21X22
+  rotate: false
+  xy: 241, 44
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_21X32
+  rotate: false
+  xy: 241, 1
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_22X22
+  rotate: false
+  xy: 117, 99
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_22X22_2
+  rotate: false
+  xy: 133, 99
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_23X31
+  rotate: false
+  xy: 239, 83
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_249X149
+  rotate: false
+  xy: 1, 1
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_24X21
+  rotate: false
+  xy: 99, 99
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_25X32
+  rotate: false
+  xy: 239, 60
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_27X39
+  rotate: false
+  xy: 127, 221
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_32X61
+  rotate: false
+  xy: 221, 200
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_33X35
+  rotate: false
+  xy: 104, 221
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_34X28
+  rotate: false
+  xy: 71, 145
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_39X86
+  rotate: false
+  xy: 163, 200
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_43X93
+  rotate: false
+  xy: 1, 191
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_53X71
+  rotate: false
+  xy: 68, 194
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_55X75
+  rotate: false
+  xy: 31, 191
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_6X8
+  rotate: false
+  xy: 163, 193
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_7X7
+  rotate: false
+  xy: 201, 245
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_7X8
+  rotate: false
+  xy: 102, 246
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_8X17
+  rotate: false
+  xy: 251, 149
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SCAREDYSHROOM_SCAREDYSHROOM_8X8
+  rotate: false
+  xy: 109, 246
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

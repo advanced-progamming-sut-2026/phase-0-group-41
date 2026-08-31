@@ -17,17 +17,23 @@ import controller.ShopController;
 import model.user.User;
 import model.user.UserManager;
 
+import gdx.screens.GameScreen;
 import gdx.screens.GreenhouseScreen;
 import gdx.screens.LeaderboardScreen;
 import gdx.screens.LoginScreen;
 import gdx.screens.MainMenuScreen;
+import gdx.screens.MiniGameScreen;
+import gdx.screens.MiniGamesScreen;
 import gdx.screens.NewsScreen;
+import gdx.screens.PlantSelectionScreen;
 import gdx.screens.ProfileScreen;
 import gdx.screens.QuestScreen;
 import gdx.screens.RegisterScreen;
 import gdx.screens.SettingsScreen;
 import gdx.screens.ShopScreen;
 import gdx.util.SkinFactory;
+import model.game.GameSession;
+import model.minigame.MiniGameSession;
 
 /**
  * کلاس اصلی برنامه‌ی گرافیکی (جایگزین AppController.run() کنسولی).
@@ -118,8 +124,61 @@ public class PvZGame extends Game {
         setScreen(new GreenhouseScreen(this));
     }
 
-    // TODO: goToPlay() / goToPlantSelection() / goToGameScreen() را در ادامه‌ی
-    // پیاده‌سازی صفحه‌ی گرافیکی بازی اصلی (grid کاشت، زامبی‌ها و ...) اضافه کنید.
+    public void goToPlantSelection() {
+        setScreen(new PlantSelectionScreen(this));
+    }
+
+    /** ورود به صفحه‌ی گرافیکی گیم‌پلی اصلی (grid کاشت، زامبی‌ها، خورشید، پرتابه‌ها و ...). */
+    public void goToGameScreen(int chapter, int level) {
+        // فصل بازی (Season)، نوع مرحله (LevelMode) و سختی موج از منبع واحد
+        // ChapterPlan خوانده می‌شود تا دقیقاً همان رفتار AppController کنسولی را
+        // داشته باشیم (بدون این کار هر مرحله عین مرحله‌ی عادی پیش‌فرض اجرا می‌شد).
+        model.game.Season season = model.game.ChapterPlan.seasonFor(chapter);
+        model.levelrules.LevelMode mode = model.game.ChapterPlan.levelModeFor(chapter, level);
+        int totalWaves = model.game.ChapterPlan.totalWavesFor(chapter, level);
+        double baseWaveCost = model.game.ChapterPlan.baseWaveCostFor(chapter, level);
+
+        GameSession session = new GameSession(loggedInUser, totalWaves, baseWaveCost, season, mode);
+        setScreen(new GameScreen(this, session, chapter, level));
+    }
+
+    /** ورود به منوی مینی‌گیم‌ها (طبق سند فاز یک: قابل‌دسترس از منوی اصلی). */
+    public void goToMiniGames() {
+        setScreen(new MiniGamesScreen(this));
+    }
+
+    /**
+     * شروع یک نشست مینی‌گیم مشخص با سطح داده‌شده.
+     *
+     * @param name  یکی از: vasebreaker, wallnutbowling, izombie, beghouled
+     * @param level سطح سختی (۱ تا ۳؛ هرچه بیشتر سخت‌تر)
+     */
+    public void startMiniGame(String name, int level) {
+        if (loggedInUser == null) {
+            return;
+        }
+        if (!loggedInUser.isMiniGameLevelUnlocked(name.toLowerCase(), level)) {
+            return; // سطح قفل است؛ نباید بدون بردن سطح قبلی شروع شود
+        }
+        MiniGameSession session;
+        switch (name.toLowerCase()) {
+            case "vasebreaker":
+                session = new model.minigame.VasebreakerSession(loggedInUser, level);
+                break;
+            case "wallnutbowling":
+                session = new model.minigame.WallnutBowlingSession(loggedInUser, level);
+                break;
+            case "izombie":
+                session = new model.minigame.IZombieSession(loggedInUser, level);
+                break;
+            case "beghouled":
+                session = new model.minigame.BeghouledSession(loggedInUser, level);
+                break;
+            default:
+                return;
+        }
+        setScreen(new MiniGameScreen(this, session, name, level));
+    }
 
     public void logout() {
         mainController.logout(loggedInUser);
@@ -206,6 +265,7 @@ public class PvZGame extends Game {
         }
         skin.dispose();
         gdx.util.ImageUtils.disposeAll();
+        gdx.util.SoundManager.disposeAll();
     }
 }
 

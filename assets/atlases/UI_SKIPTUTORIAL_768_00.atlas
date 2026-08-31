@@ -1,0 +1,12 @@
+UI_SKIPTUTORIAL_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_SKIPTUTORIAL_CHALKBOARD
+  rotate: false
+  xy: 1, 1
+  size: 500, 263
+  orig: 500, 263
+  offset: 0, 0
+  index: -1

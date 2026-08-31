@@ -1,0 +1,12 @@
+DELAYLOAD_BACKGROUND_ZEN_768_00.PNG
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_ZEN_GARDEN
+  rotate: false
+  xy: 1, 1
+  size: 1750, 774
+  orig: 1750, 774
+  offset: 0, 0
+  index: -1

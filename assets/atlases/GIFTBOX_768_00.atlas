@@ -1,0 +1,117 @@
+GIFTBOX_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_100X133
+  rotate: false
+  xy: 442, 1
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_107X93
+  rotate: false
+  xy: 442, 88
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_110X79
+  rotate: false
+  xy: 161, 367
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_116X79
+  rotate: false
+  xy: 85, 338
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_127X103
+  rotate: false
+  xy: 1, 338
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_159X569
+  rotate: false
+  xy: 196, 1
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_192X192
+  rotate: false
+  xy: 1, 213
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_219X240
+  rotate: false
+  xy: 300, 1
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_224X105
+  rotate: false
+  xy: 300, 262
+  size: 144, 67
+  orig: 144, 67
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_232X57
+  rotate: false
+  xy: 300, 331
+  size: 149, 37
+  orig: 149, 37
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_301X328
+  rotate: false
+  xy: 1, 1
+  size: 193, 210
+  orig: 193, 210
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_309X161
+  rotate: false
+  xy: 300, 157
+  size: 198, 103
+  orig: 198, 103
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_61X37
+  rotate: false
+  xy: 451, 326
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_70X97
+  rotate: false
+  xy: 446, 262
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_85X78
+  rotate: false
+  xy: 126, 273
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+IMAGE_GIFTBOX_GIFTBOX_GIFTBOX_85X90
+  rotate: false
+  xy: 126, 213
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1

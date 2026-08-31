@@ -1,0 +1,376 @@
+ZOMBIEEGYPTPHARAOHGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_119X238
+  rotate: false
+  xy: 302, 1
+  size: 76, 153
+  orig: 76, 153
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_119X238_2
+  rotate: false
+  xy: 380, 1
+  size: 76, 153
+  orig: 76, 153
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_125X238
+  rotate: false
+  xy: 220, 1
+  size: 80, 153
+  orig: 80, 153
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_135X8
+  rotate: false
+  xy: 1, 299
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_13X14
+  rotate: false
+  xy: 218, 302
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_149X69
+  rotate: false
+  xy: 396, 219
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_14X35
+  rotate: false
+  xy: 204, 220
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_173X135
+  rotate: false
+  xy: 220, 156
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_18X37
+  rotate: false
+  xy: 377, 297
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_19X37
+  rotate: false
+  xy: 189, 302
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_1X1
+  rotate: false
+  xy: 508, 33
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_20X20
+  rotate: false
+  xy: 203, 302
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_20X40
+  rotate: false
+  xy: 285, 291
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_21X49
+  rotate: false
+  xy: 494, 212
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_22X49
+  rotate: false
+  xy: 113, 295
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_22X56
+  rotate: false
+  xy: 492, 33
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_230X95
+  rotate: false
+  xy: 333, 156
+  size: 147, 61
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_23X21
+  rotate: false
+  xy: 494, 246
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_26X46
+  rotate: false
+  xy: 492, 1
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_27X40
+  rotate: false
+  xy: 492, 71
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_28X28
+  rotate: false
+  xy: 90, 297
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_28X33
+  rotate: false
+  xy: 492, 125
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_30X37
+  rotate: false
+  xy: 492, 99
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_30X37_2
+  rotate: false
+  xy: 264, 291
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_32X21
+  rotate: false
+  xy: 354, 297
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_339X339
+  rotate: false
+  xy: 1, 1
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_33X38
+  rotate: false
+  xy: 90, 270
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_34X47
+  rotate: false
+  xy: 301, 245
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_35X31
+  rotate: false
+  xy: 239, 291
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_36X39
+  rotate: false
+  xy: 301, 277
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_36X45
+  rotate: false
+  xy: 482, 181
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_37X46
+  rotate: false
+  xy: 482, 149
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_40X24
+  rotate: false
+  xy: 326, 297
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_43X25
+  rotate: false
+  xy: 129, 295
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_43X25_2
+  rotate: false
+  xy: 159, 295
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_46X60
+  rotate: false
+  xy: 478, 265
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_46X76
+  rotate: false
+  xy: 446, 265
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_49X228
+  rotate: false
+  xy: 458, 1
+  size: 32, 146
+  orig: 32, 146
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_52X42
+  rotate: false
+  xy: 54, 270
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_58X32
+  rotate: false
+  xy: 159, 272
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_61X22
+  rotate: false
+  xy: 198, 286
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_62X30
+  rotate: false
+  xy: 1, 277
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_63X68
+  rotate: false
+  xy: 258, 245
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_63X77
+  rotate: false
+  xy: 161, 220
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_67X39
+  rotate: false
+  xy: 114, 268
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_6X6
+  rotate: false
+  xy: 508, 148
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_70X71
+  rotate: false
+  xy: 114, 220
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_74X55
+  rotate: false
+  xy: 396, 265
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_79X86
+  rotate: false
+  xy: 1, 220
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_7X7
+  rotate: false
+  xy: 458, 149
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_81X61
+  rotate: false
+  xy: 204, 245
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_91X75
+  rotate: false
+  xy: 54, 220
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_SARCOPHAGUS_ZOMBIE_EGYPT_SARCOPHAGUS_95X118
+  rotate: false
+  xy: 333, 219
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1

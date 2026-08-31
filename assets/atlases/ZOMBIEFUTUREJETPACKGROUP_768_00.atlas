@@ -1,0 +1,292 @@
+ZOMBIEFUTUREJETPACKGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_107X98
+  rotate: false
+  xy: 186, 90
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_112X70
+  rotate: false
+  xy: 1, 140
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_118X112
+  rotate: false
+  xy: 86, 95
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_130X213
+  rotate: false
+  xy: 1, 1
+  size: 83, 137
+  orig: 83, 137
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_135X8
+  rotate: false
+  xy: 91, 282
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_152X144
+  rotate: false
+  xy: 86, 1
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_1X1
+  rotate: false
+  xy: 251, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_20X39
+  rotate: false
+  xy: 241, 236
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_23X55
+  rotate: false
+  xy: 207, 236
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_23X55_2
+  rotate: false
+  xy: 224, 236
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_24X40
+  rotate: false
+  xy: 1, 265
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_24X65
+  rotate: false
+  xy: 164, 95
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_25X54
+  rotate: false
+  xy: 22, 233
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_26X25
+  rotate: false
+  xy: 180, 282
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_26X42
+  rotate: false
+  xy: 182, 253
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_26X45
+  rotate: false
+  xy: 54, 187
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_27X24
+  rotate: false
+  xy: 40, 276
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_28X33
+  rotate: false
+  xy: 134, 259
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_29X32
+  rotate: false
+  xy: 113, 259
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_29X46
+  rotate: false
+  xy: 1, 233
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_30X24
+  rotate: false
+  xy: 19, 276
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_30X36
+  rotate: false
+  xy: 70, 258
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_30X37
+  rotate: false
+  xy: 92, 256
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_31X27
+  rotate: false
+  xy: 226, 273
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_31X46
+  rotate: false
+  xy: 160, 226
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_34X30
+  rotate: false
+  xy: 157, 258
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_35X24
+  rotate: false
+  xy: 201, 273
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_36X39
+  rotate: false
+  xy: 182, 226
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_43X25
+  rotate: false
+  xy: 40, 258
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_47X55
+  rotate: false
+  xy: 92, 219
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_48X23
+  rotate: false
+  xy: 124, 242
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_48X76
+  rotate: false
+  xy: 126, 169
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_52X31
+  rotate: false
+  xy: 124, 220
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_56X57
+  rotate: false
+  xy: 54, 219
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_68X107
+  rotate: false
+  xy: 164, 155
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_6X6
+  rotate: false
+  xy: 245, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_70X48
+  rotate: false
+  xy: 210, 203
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_70X71
+  rotate: false
+  xy: 210, 155
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_76X74
+  rotate: false
+  xy: 75, 169
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_79X69
+  rotate: false
+  xy: 1, 187
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_JETPACK_BASIC_ZOMBIE_FUTURE_JETPACK_BASIC_88X136
+  rotate: false
+  xy: 186, 1
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1

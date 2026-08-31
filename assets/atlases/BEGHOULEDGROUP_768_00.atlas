@@ -1,0 +1,33 @@
+BEGHOULEDGROUP_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_CRATER_CRATER_129X131
+  rotate: false
+  xy: 1, 1
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CRATER_CRATER_56X50
+  rotate: false
+  xy: 86, 42
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CRATER_CRATER_62X61
+  rotate: false
+  xy: 86, 1
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CRATER_CRATER_84X53
+  rotate: false
+  xy: 1, 87
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,313 @@
+PLANTPERFUMESHROOM_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PERFSHROOM_CLOUDS_PERFSHROOM_CLOUDS_14X14
+  rotate: false
+  xy: 246, 187
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PERFSHROOM_CLOUDS_PERFSHROOM_CLOUDS_17X29
+  rotate: false
+  xy: 244, 106
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PERFSHROOM_CLOUDS_PERFSHROOM_CLOUDS_18X29
+  rotate: false
+  xy: 200, 211
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PERFSHROOM_CLOUDS_PERFSHROOM_CLOUDS_24X38
+  rotate: false
+  xy: 215, 207
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PERFSHROOM_CLOUDS_PERFSHROOM_CLOUDS_60X38
+  rotate: false
+  xy: 110, 172
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_10X16
+  rotate: false
+  xy: 249, 198
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_115X74
+  rotate: false
+  xy: 1, 172
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_11X11
+  rotate: false
+  xy: 249, 210
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_11X8
+  rotate: false
+  xy: 249, 219
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_11X8_2
+  rotate: false
+  xy: 67, 222
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_12X15
+  rotate: false
+  xy: 135, 229
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_12X15_2
+  rotate: false
+  xy: 145, 229
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_12X16
+  rotate: false
+  xy: 155, 230
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_12X21
+  rotate: false
+  xy: 246, 171
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_12X7
+  rotate: false
+  xy: 235, 171
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_13X13
+  rotate: false
+  xy: 56, 222
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_13X14
+  rotate: false
+  xy: 102, 226
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_13X9
+  rotate: false
+  xy: 165, 230
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_14X14
+  rotate: false
+  xy: 113, 226
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_14X14_2
+  rotate: false
+  xy: 124, 226
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_15X17
+  rotate: false
+  xy: 44, 222
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_15X23
+  rotate: false
+  xy: 244, 127
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_17X18
+  rotate: false
+  xy: 17, 222
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_18X16
+  rotate: false
+  xy: 30, 222
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_1X1
+  rotate: false
+  xy: 251, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_21X17
+  rotate: false
+  xy: 1, 222
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_22X37
+  rotate: false
+  xy: 233, 207
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_23X37
+  rotate: false
+  xy: 165, 204
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_24X28
+  rotate: false
+  xy: 182, 211
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_28X37
+  rotate: false
+  xy: 235, 145
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_29X39
+  rotate: false
+  xy: 235, 60
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_30X26
+  rotate: false
+  xy: 235, 87
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_35X35
+  rotate: false
+  xy: 77, 206
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_38X38
+  rotate: false
+  xy: 110, 199
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_41X35
+  rotate: false
+  xy: 137, 204
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_45X40
+  rotate: false
+  xy: 215, 179
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_47X47
+  rotate: false
+  xy: 151, 172
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_47X47_2
+  rotate: false
+  xy: 183, 179
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_48X50
+  rotate: false
+  xy: 77, 172
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_65X50
+  rotate: false
+  xy: 191, 145
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_65X73
+  rotate: false
+  xy: 191, 60
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_79X52
+  rotate: false
+  xy: 191, 109
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PERFSHROOM_PERFSHROOM_91X88
+  rotate: false
+  xy: 191, 1
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,313 @@
+PLANTCELERYSTALKER_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_131X76
+  rotate: false
+  xy: 111, 1
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_136X71
+  rotate: false
+  xy: 111, 52
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_14X25
+  rotate: false
+  xy: 241, 74
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_15X14
+  rotate: false
+  xy: 13, 246
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_15X35
+  rotate: false
+  xy: 241, 49
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_169X152
+  rotate: false
+  xy: 1, 1
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_16X16
+  rotate: false
+  xy: 1, 246
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_18X17
+  rotate: false
+  xy: 20, 233
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_21X15
+  rotate: false
+  xy: 241, 92
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_21X31
+  rotate: false
+  xy: 241, 27
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_22X37
+  rotate: false
+  xy: 241, 1
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_24X19
+  rotate: false
+  xy: 234, 222
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_24X21
+  rotate: false
+  xy: 234, 193
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_26X17
+  rotate: false
+  xy: 1, 233
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_26X34
+  rotate: false
+  xy: 82, 128
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_27X15
+  rotate: false
+  xy: 234, 236
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_27X20
+  rotate: false
+  xy: 86, 188
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_28X22
+  rotate: false
+  xy: 82, 172
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_28X28
+  rotate: false
+  xy: 82, 152
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_29X17
+  rotate: false
+  xy: 234, 209
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_39X38
+  rotate: false
+  xy: 82, 101
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_47X136
+  rotate: false
+  xy: 225, 104
+  size: 30, 87
+  orig: 30, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_47X159
+  rotate: false
+  xy: 193, 104
+  size: 30, 102
+  orig: 30, 102
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_55X19
+  rotate: false
+  xy: 1, 205
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_55X19_2
+  rotate: false
+  xy: 1, 219
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_58X159
+  rotate: false
+  xy: 1, 101
+  size: 37, 102
+  orig: 37, 102
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_60X155
+  rotate: false
+  xy: 152, 100
+  size: 39, 99
+  orig: 39, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_60X158
+  rotate: false
+  xy: 200, 1
+  size: 39, 101
+  orig: 39, 101
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_60X158_2
+  rotate: false
+  xy: 111, 100
+  size: 39, 101
+  orig: 39, 101
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_62X134
+  rotate: false
+  xy: 40, 101
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_62X67
+  rotate: false
+  xy: 51, 312
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_68X102
+  rotate: false
+  xy: 86, 203
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_69X105
+  rotate: false
+  xy: 40, 189
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_69X23
+  rotate: false
+  xy: 93, 322
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_69X31
+  rotate: false
+  xy: 183, 316
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_74X56
+  rotate: false
+  xy: 1, 311
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_74X93
+  rotate: false
+  xy: 132, 203
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_76X60
+  rotate: false
+  xy: 56, 271
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_76X85
+  rotate: false
+  xy: 132, 265
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_77X86
+  rotate: false
+  xy: 182, 208
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_7X9
+  rotate: false
+  xy: 101, 137
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_82X80
+  rotate: false
+  xy: 1, 258
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_83X76
+  rotate: false
+  xy: 183, 265
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CELERYSTALKER_CELERYSTALKER_9X11
+  rotate: false
+  xy: 101, 128
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1

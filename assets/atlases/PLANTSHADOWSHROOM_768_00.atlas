@@ -1,0 +1,495 @@
+PLANTSHADOWSHROOM_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_149X149
+  rotate: false
+  xy: 233, 108
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_149X149_2
+  rotate: false
+  xy: 331, 108
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_149X149_3
+  rotate: false
+  xy: 1, 178
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_149X149_4
+  rotate: false
+  xy: 99, 178
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_149X149_5
+  rotate: false
+  xy: 197, 206
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_51X51
+  rotate: false
+  xy: 473, 276
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_55X70
+  rotate: false
+  xy: 473, 195
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_CONTAGION_EFFECT_SHADOWSHROOM_CONTAGION_EFFECT_67X67
+  rotate: false
+  xy: 237, 349
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_13X13
+  rotate: false
+  xy: 417, 58
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_141X163
+  rotate: false
+  xy: 233, 1
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_178X273
+  rotate: false
+  xy: 1, 1
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_53X148
+  rotate: false
+  xy: 473, 1
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_66X190
+  rotate: false
+  xy: 429, 1
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_76X147
+  rotate: false
+  xy: 77, 276
+  size: 49, 94
+  orig: 49, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_82X146
+  rotate: false
+  xy: 295, 206
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SHADOWSHROOM_SPLAT_EFFECT_SHADOWSHROOM_SPLAT_EFFECT_87X119
+  rotate: false
+  xy: 295, 302
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_103X115
+  rotate: false
+  xy: 405, 249
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_116X101
+  rotate: false
+  xy: 1, 276
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_12X19
+  rotate: false
+  xy: 417, 32
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_13X13
+  rotate: false
+  xy: 417, 69
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_13X20
+  rotate: false
+  xy: 417, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_13X21
+  rotate: false
+  xy: 417, 1
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_140X61
+  rotate: false
+  xy: 353, 325
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_140X61_2
+  rotate: false
+  xy: 353, 366
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_141X163
+  rotate: false
+  xy: 325, 1
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_14X16
+  rotate: false
+  xy: 417, 46
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_14X9
+  rotate: false
+  xy: 417, 80
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_14X9_2
+  rotate: false
+  xy: 417, 88
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_15X11
+  rotate: false
+  xy: 1, 388
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_15X22
+  rotate: false
+  xy: 282, 377
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_15X41
+  rotate: false
+  xy: 282, 349
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_16X10
+  rotate: false
+  xy: 13, 388
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_16X10_2
+  rotate: false
+  xy: 25, 388
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_16X24
+  rotate: false
+  xy: 473, 374
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_178X273
+  rotate: false
+  xy: 117, 1
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_17X12
+  rotate: false
+  xy: 223, 382
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_17X17
+  rotate: false
+  xy: 196, 382
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_17X39
+  rotate: false
+  xy: 179, 276
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_18X12
+  rotate: false
+  xy: 499, 385
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_18X22
+  rotate: false
+  xy: 445, 374
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_18X22_2
+  rotate: false
+  xy: 459, 374
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_18X7
+  rotate: false
+  xy: 197, 198
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_19X13
+  rotate: false
+  xy: 485, 385
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_19X15
+  rotate: false
+  xy: 209, 382
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_19X17
+  rotate: false
+  xy: 310, 380
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_21X15
+  rotate: false
+  xy: 294, 380
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_23X17
+  rotate: false
+  xy: 473, 311
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_24X13
+  rotate: false
+  xy: 485, 374
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_25X12
+  rotate: false
+  xy: 324, 380
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_25X26
+  rotate: false
+  xy: 140, 372
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_25X26_2
+  rotate: false
+  xy: 158, 372
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_25X64
+  rotate: false
+  xy: 405, 206
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_26X26
+  rotate: false
+  xy: 102, 372
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_26X26_2
+  rotate: false
+  xy: 121, 372
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_27X10
+  rotate: false
+  xy: 176, 382
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_28X14
+  rotate: false
+  xy: 490, 311
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_31X30
+  rotate: false
+  xy: 51, 343
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_31X30_2
+  rotate: false
+  xy: 80, 372
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_42X27
+  rotate: false
+  xy: 197, 178
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_42X27_2
+  rotate: false
+  xy: 51, 372
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_53X148
+  rotate: false
+  xy: 473, 98
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_57X50
+  rotate: false
+  xy: 473, 242
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_66X190
+  rotate: false
+  xy: 429, 125
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_67X26
+  rotate: false
+  xy: 353, 302
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_75X67
+  rotate: false
+  xy: 237, 304
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_75X67_2
+  rotate: false
+  xy: 1, 343
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_76X147
+  rotate: false
+  xy: 128, 276
+  size: 49, 94
+  orig: 49, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_82X146
+  rotate: false
+  xy: 350, 206
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_87X119
+  rotate: false
+  xy: 179, 304
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHADOWSHROOM_SHADOWSHROOM_95X73
+  rotate: false
+  xy: 445, 325
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1

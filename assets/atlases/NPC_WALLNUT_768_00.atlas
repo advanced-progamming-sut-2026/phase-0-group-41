@@ -1,0 +1,89 @@
+NPC_WALLNUT_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_WALLNUT_WALLNUT_111X125
+  rotate: false
+  xy: 81, 339
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_119X66
+  rotate: false
+  xy: 154, 345
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_122X119
+  rotate: false
+  xy: 406, 279
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_122X119_2
+  rotate: false
+  xy: 1, 339
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_148X431
+  rotate: false
+  xy: 406, 1
+  size: 95, 276
+  orig: 95, 276
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_268X534
+  rotate: false
+  xy: 232, 1
+  size: 172, 342
+  orig: 172, 342
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_357X525
+  rotate: false
+  xy: 1, 1
+  size: 229, 336
+  orig: 229, 336
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_40X40
+  rotate: false
+  xy: 486, 339
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_41X36
+  rotate: false
+  xy: 356, 345
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_44X37
+  rotate: false
+  xy: 326, 345
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_67X42
+  rotate: false
+  xy: 281, 345
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_WALLNUT_WALLNUT_73X64
+  rotate: false
+  xy: 232, 345
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1

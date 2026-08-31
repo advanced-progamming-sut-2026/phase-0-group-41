@@ -1,0 +1,68 @@
+UI_PERK_PROGRESSION_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_PROGRESS_MARKER
+  rotate: false
+  xy: 194, 76
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_GLOW
+  rotate: false
+  xy: 232, 1
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_GLOWBACKER
+  rotate: false
+  xy: 232, 33
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_GLOWCIRCLE
+  rotate: false
+  xy: 1, 193
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_GODRAY
+  rotate: false
+  xy: 1, 1
+  size: 191, 190
+  orig: 191, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_LEVEL_BACKER
+  rotate: false
+  xy: 194, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_LEVEL_GLOWCIRCLE
+  rotate: false
+  xy: 100, 193
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_UPARROW
+  rotate: false
+  xy: 225, 76
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_PERK_PROGRESSION_RIFT_PERK_UPGRADE_UPARROWBACKER
+  rotate: false
+  xy: 194, 39
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

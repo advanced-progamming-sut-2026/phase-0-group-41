@@ -1,0 +1,47 @@
+UI_ALMANAC_GRADIENTS_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_ALMANAC_EDGE_GRADIENT
+  rotate: false
+  xy: 1, 1
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_EDGE_GRADIENT_LEFT
+  rotate: false
+  xy: 35, 1
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_GRADIENT_BOTTOM
+  rotate: false
+  xy: 109, 1
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_GRADIENT_TOP
+  rotate: false
+  xy: 116, 1
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SEED_GRADIENT_LEFT
+  rotate: false
+  xy: 69, 1
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SEED_GRADIENT_RIGHT
+  rotate: false
+  xy: 89, 1
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1

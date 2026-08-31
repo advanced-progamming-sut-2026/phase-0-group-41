@@ -1,0 +1,502 @@
+ZOMBIECARNIEMAGICIANGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_104X93
+  rotate: false
+  xy: 147, 172
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_108X109
+  rotate: false
+  xy: 1, 172
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_113X103
+  rotate: false
+  xy: 72, 172
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_11X21
+  rotate: false
+  xy: 504, 218
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_130X117
+  rotate: false
+  xy: 381, 95
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_135X8
+  rotate: false
+  xy: 1, 281
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_137X144
+  rotate: false
+  xy: 381, 1
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_14X14
+  rotate: false
+  xy: 309, 270
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_14X17
+  rotate: false
+  xy: 502, 143
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_14X17_2
+  rotate: false
+  xy: 502, 156
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_14X17_3
+  rotate: false
+  xy: 262, 251
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_19X55
+  rotate: false
+  xy: 90, 281
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_1X1
+  rotate: false
+  xy: 507, 73
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_20X22
+  rotate: false
+  xy: 65, 288
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_20X38
+  rotate: false
+  xy: 447, 285
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_21X54
+  rotate: false
+  xy: 293, 270
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_21X61
+  rotate: false
+  xy: 490, 259
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_23X44
+  rotate: false
+  xy: 240, 281
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_23X45
+  rotate: false
+  xy: 203, 278
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_23X59
+  rotate: false
+  xy: 435, 219
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_26X26
+  rotate: false
+  xy: 46, 288
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_27X28
+  rotate: false
+  xy: 1, 288
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_27X37
+  rotate: false
+  xy: 220, 281
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_28X33
+  rotate: false
+  xy: 427, 285
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_293X263_2
+  rotate: false
+  xy: 191, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_29X40
+  rotate: false
+  xy: 406, 263
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_30X37
+  rotate: false
+  xy: 106, 276
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_30X52
+  rotate: false
+  xy: 49, 244
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_32X29
+  rotate: false
+  xy: 463, 284
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_33X48
+  rotate: false
+  xy: 26, 244
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_35X21
+  rotate: false
+  xy: 21, 288
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_35X54
+  rotate: false
+  xy: 1, 244
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_36X35
+  rotate: false
+  xy: 381, 263
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_36X44
+  rotate: false
+  xy: 237, 251
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_36X79
+  rotate: false
+  xy: 322, 228
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_37X52
+  rotate: false
+  xy: 114, 240
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_38X54
+  rotate: false
+  xy: 147, 234
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_39X35
+  rotate: false
+  xy: 463, 259
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_41X27
+  rotate: false
+  xy: 140, 271
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_41X29
+  rotate: false
+  xy: 347, 264
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_41X37
+  rotate: false
+  xy: 435, 259
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_41X39
+  rotate: false
+  xy: 209, 251
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_42X33
+  rotate: false
+  xy: 174, 262
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_45X21
+  rotate: false
+  xy: 309, 281
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_45X21_2
+  rotate: false
+  xy: 168, 285
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_45X22
+  rotate: false
+  xy: 340, 285
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_45X26
+  rotate: false
+  xy: 262, 270
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_49X53
+  rotate: false
+  xy: 347, 228
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_51X40
+  rotate: false
+  xy: 174, 234
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_52X43
+  rotate: false
+  xy: 471, 61
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_53X24
+  rotate: false
+  xy: 70, 263
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_53X41
+  rotate: false
+  xy: 466, 143
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_61X90
+  rotate: false
+  xy: 471, 1
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_62X32
+  rotate: false
+  xy: 72, 240
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_67X66
+  rotate: false
+  xy: 390, 219
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_69X62
+  rotate: false
+  xy: 276, 228
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_6X6
+  rotate: false
+  xy: 507, 61
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_6X6_2
+  rotate: false
+  xy: 507, 67
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_70X71
+  rotate: false
+  xy: 466, 95
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_76X61
+  rotate: false
+  xy: 453, 218
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_79X69
+  rotate: false
+  xy: 453, 172
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_79X84
+  rotate: false
+  xy: 337, 172
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_7X7
+  rotate: false
+  xy: 506, 193
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_86X31
+  rotate: false
+  xy: 216, 229
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_8X9
+  rotate: false
+  xy: 506, 169
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_8X9_2
+  rotate: false
+  xy: 506, 177
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_8X9_3
+  rotate: false
+  xy: 506, 185
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_90X85
+  rotate: false
+  xy: 216, 172
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_92X84
+  rotate: false
+  xy: 276, 172
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MAGICIAN_ZOMBIE_MAGICIAN_95X70
+  rotate: false
+  xy: 390, 172
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1

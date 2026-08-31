@@ -1,0 +1,54 @@
+DELAYLOAD_BACKGROUND_PIRATE_COMPRESSED_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_PIRATE_PLANK
+  rotate: false
+  xy: 371, 1541
+  size: 370, 156
+  orig: 370, 156
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PIRATE_PLANK_02
+  rotate: false
+  xy: 1, 1541
+  size: 368, 157
+  orig: 368, 157
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PIRATE_PLANK_02_SHADOW
+  rotate: false
+  xy: 743, 1541
+  size: 181, 63
+  orig: 181, 63
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PIRATE_PLANK_SHADOW
+  rotate: false
+  xy: 743, 1606
+  size: 181, 63
+  orig: 181, 63
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PIRATE_TEXTURE
+  rotate: false
+  xy: 0, 1
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PIRATE_TEXTURE_LEFT
+  rotate: false
+  xy: 676, 771
+  size: 278, 768
+  orig: 278, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PIRATE_TEXTURE_RIGHT
+  rotate: false
+  xy: 1, 771
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1

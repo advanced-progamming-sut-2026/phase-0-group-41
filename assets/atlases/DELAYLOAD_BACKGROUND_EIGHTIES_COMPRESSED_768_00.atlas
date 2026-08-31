@@ -1,0 +1,26 @@
+DELAYLOAD_BACKGROUND_EIGHTIES_COMPRESSED_768_00.PNG
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_EIGHTIES_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1026, 768
+  orig: 1026, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_EIGHTIES_TEXTURE_LEFT
+  rotate: false
+  xy: 1704, 1
+  size: 278, 768
+  orig: 278, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_EIGHTIES_TEXTURE_RIGHT
+  rotate: false
+  xy: 1029, 1
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1

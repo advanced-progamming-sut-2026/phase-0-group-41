@@ -1,0 +1,327 @@
+ZOMBIEBEACHZOMBOSSEFFECTSGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_1X1
+  rotate: false
+  xy: 509, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_206X83
+  rotate: false
+  xy: 214, 419
+  size: 132, 53
+  orig: 132, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_209X75
+  rotate: false
+  xy: 348, 419
+  size: 134, 48
+  orig: 134, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_36X34
+  rotate: false
+  xy: 488, 293
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_54X54
+  rotate: false
+  xy: 476, 378
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_73X70
+  rotate: false
+  xy: 356, 526
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_79X83
+  rotate: false
+  xy: 95, 526
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_PLANT_PULLED_ZOMBOSS_PLANT_PULLED_80X76
+  rotate: false
+  xy: 148, 526
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_135X8
+  rotate: false
+  xy: 95, 502
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_141X169
+  rotate: false
+  xy: 396, 268
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_144X66
+  rotate: false
+  xy: 1, 488
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_152X68
+  rotate: false
+  xy: 348, 469
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_176X60
+  rotate: false
+  xy: 1, 447
+  size: 113, 39
+  orig: 113, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_228X414
+  rotate: false
+  xy: 343, 1
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_25X27
+  rotate: false
+  xy: 491, 21
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_264X376
+  rotate: false
+  xy: 172, 1
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_264X41
+  rotate: false
+  xy: 116, 474
+  size: 169, 26
+  orig: 169, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_264X412
+  rotate: false
+  xy: 1, 1
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_281X140
+  rotate: false
+  xy: 214, 268
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_317X61
+  rotate: false
+  xy: 214, 378
+  size: 203, 39
+  orig: 203, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_31X28
+  rotate: false
+  xy: 491, 1
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_329X278
+  rotate: false
+  xy: 1, 267
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_35X35
+  rotate: false
+  xy: 488, 268
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_36X10
+  rotate: false
+  xy: 172, 244
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_37X37
+  rotate: false
+  xy: 484, 415
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_43X39
+  rotate: false
+  xy: 116, 447
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_6X6
+  rotate: false
+  xy: 505, 41
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_71X19
+  rotate: false
+  xy: 460, 532
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_74X34
+  rotate: false
+  xy: 214, 244
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_76X70
+  rotate: false
+  xy: 305, 526
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_76X77
+  rotate: false
+  xy: 201, 526
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_80X71
+  rotate: false
+  xy: 252, 526
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_82X18
+  rotate: false
+  xy: 287, 474
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_82X18_2
+  rotate: false
+  xy: 287, 488
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_82X19
+  rotate: false
+  xy: 1, 532
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_82X20
+  rotate: false
+  xy: 264, 244
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_83X19
+  rotate: false
+  xy: 405, 532
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_83X19_2
+  rotate: false
+  xy: 1, 546
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_85X19
+  rotate: false
+  xy: 214, 360
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_85X46
+  rotate: false
+  xy: 419, 378
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_86X18
+  rotate: false
+  xy: 271, 360
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_86X19
+  rotate: false
+  xy: 328, 360
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_86X19_2
+  rotate: false
+  xy: 146, 447
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_SHARK_PROJECTILE_ZOMBOSS_SHARK_PROJECTILE_91X95
+  rotate: false
+  xy: 448, 469
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_TURBINE_WIND_ZOMBOSS_TURBINE_WIND_19X18
+  rotate: false
+  xy: 491, 41
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_TURBINE_WIND_ZOMBOSS_TURBINE_WIND_481X13
+  rotate: false
+  xy: 95, 515
+  size: 308, 9
+  orig: 308, 9
+  offset: 0, 0
+  index: -1

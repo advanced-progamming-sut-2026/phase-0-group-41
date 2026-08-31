@@ -1,0 +1,222 @@
+PLANTPHATBEET_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PHATBEETS_ATTACK_PULSE_PHATBEETS_ATTACK_PULSE_138X138
+  rotate: false
+  xy: 121, 121
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_IDLE_PULSE_PHATBEETS_IDLE_PULSE_184X184
+  rotate: false
+  xy: 1, 1
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_PF_PULSE_PHATBEETS_PF_PULSE_184X184
+  rotate: false
+  xy: 121, 1
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_PF_PULSE_PHATBEETS_PF_PULSE_184X184_2
+  rotate: false
+  xy: 1, 121
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_TILE_HIT_PHATBEETS_TILE_HIT_152X38
+  rotate: false
+  xy: 1, 284
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_TILE_HIT_PHATBEETS_TILE_HIT_15X20
+  rotate: false
+  xy: 241, 60
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_TILE_HIT_PHATBEETS_TILE_HIT_22X22
+  rotate: false
+  xy: 241, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_TILE_HIT_SMALL_PHATBEETS_TILE_HIT_SMALL_152X38
+  rotate: false
+  xy: 101, 293
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_TILE_HIT_SMALL_PHATBEETS_TILE_HIT_SMALL_15X20
+  rotate: false
+  xy: 241, 75
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PHATBEETS_TILE_HIT_SMALL_PHATBEETS_TILE_HIT_SMALL_22X22
+  rotate: false
+  xy: 241, 17
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_105X123
+  rotate: false
+  xy: 121, 212
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_134X64
+  rotate: false
+  xy: 1, 241
+  size: 86, 41
+  orig: 86, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_14X14
+  rotate: false
+  xy: 242, 157
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_15X14
+  rotate: false
+  xy: 241, 102
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_16X16
+  rotate: false
+  xy: 241, 90
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_17X18
+  rotate: false
+  xy: 241, 33
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_18X17
+  rotate: false
+  xy: 241, 47
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_24X21
+  rotate: false
+  xy: 101, 277
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_26X27
+  rotate: false
+  xy: 238, 267
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_31X25
+  rotate: false
+  xy: 52, 311
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_33X20
+  rotate: false
+  xy: 74, 311
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_34X24
+  rotate: false
+  xy: 28, 311
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_37X52
+  rotate: false
+  xy: 89, 241
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_38X28
+  rotate: false
+  xy: 1, 311
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_43X20
+  rotate: false
+  xy: 212, 197
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_44X59
+  rotate: false
+  xy: 212, 157
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_46X14
+  rotate: false
+  xy: 201, 312
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_51X52
+  rotate: false
+  xy: 212, 121
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_54X40
+  rotate: false
+  xy: 201, 267
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_69X23
+  rotate: false
+  xy: 201, 295
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PHATBEETS_PHATBEETS_96X83
+  rotate: false
+  xy: 190, 212
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1

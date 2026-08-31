@@ -14,5 +14,6 @@ public enum MenuType {
     LEADERBOARD,
     PLANT_SELECTION,
     IN_GAME,
-    SHOP
+    SHOP,
+    MINI_GAMES
 }

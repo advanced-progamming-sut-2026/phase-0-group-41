@@ -1,0 +1,292 @@
+ZOMBIEHALLOWEENFLAGGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_123X95
+  rotate: false
+  xy: 95, 1
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_12X9
+  rotate: false
+  xy: 48, 134
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_135X8
+  rotate: false
+  xy: 167, 160
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_138X83
+  rotate: false
+  xy: 1, 58
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_144X85
+  rotate: false
+  xy: 1, 1
+  size: 92, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_20X40
+  rotate: false
+  xy: 46, 170
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_21X41
+  rotate: false
+  xy: 208, 167
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_21X48
+  rotate: false
+  xy: 85, 162
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_21X49
+  rotate: false
+  xy: 69, 144
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_21X58
+  rotate: false
+  xy: 131, 135
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_22X45
+  rotate: false
+  xy: 147, 163
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_27X30
+  rotate: false
+  xy: 224, 167
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_27X41
+  rotate: false
+  xy: 147, 135
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_28X33
+  rotate: false
+  xy: 163, 167
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_30X21
+  rotate: false
+  xy: 125, 174
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_30X31
+  rotate: false
+  xy: 25, 164
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_30X37
+  rotate: false
+  xy: 48, 144
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_31X30
+  rotate: false
+  xy: 1, 167
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_31X43
+  rotate: false
+  xy: 26, 134
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_32X214
+  rotate: false
+  xy: 176, 1
+  size: 21, 137
+  orig: 21, 137
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_33X23
+  rotate: false
+  xy: 61, 178
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_34X30
+  rotate: false
+  xy: 101, 162
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_34X31
+  rotate: false
+  xy: 1, 145
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_35X16
+  rotate: false
+  xy: 1, 188
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_36X16
+  rotate: false
+  xy: 224, 188
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_36X24
+  rotate: false
+  xy: 183, 167
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_36X39
+  rotate: false
+  xy: 224, 124
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_36X45
+  rotate: false
+  xy: 64, 113
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_36X45_2
+  rotate: false
+  xy: 199, 124
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_36X47
+  rotate: false
+  xy: 1, 113
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_40X27
+  rotate: false
+  xy: 167, 140
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_43X25
+  rotate: false
+  xy: 85, 144
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_51X73
+  rotate: false
+  xy: 139, 64
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_52X31
+  rotate: false
+  xy: 131, 113
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_56X30
+  rotate: false
+  xy: 26, 113
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_58X46
+  rotate: false
+  xy: 92, 112
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_6X6
+  rotate: false
+  xy: 252, 58
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_70X71
+  rotate: false
+  xy: 92, 64
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_78X45
+  rotate: false
+  xy: 199, 93
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_79X69
+  rotate: false
+  xy: 199, 47
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_HALLOWEEN_ZOMBIE_BASIC_FLAG_HALLOWEEN_ZOMBIE_BASIC_FLAG_82X69
+  rotate: false
+  xy: 199, 1
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+TUTORIAL_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TUTORIAL_DIAMOND_TUTORIAL_DIAMOND_131X136
+  rotate: false
+  xy: 89, 189
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TUTORIAL_DIAMOND_TUTORIAL_DIAMOND_134X140
+  rotate: false
+  xy: 132, 97
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TUTORIAL_DIAMOND_TUTORIAL_DIAMOND_134X140_2
+  rotate: false
+  xy: 1, 136
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TUTORIAL_DIAMOND_TUTORIAL_DIAMOND_141X146
+  rotate: false
+  xy: 132, 1
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TUTORIAL_DIAMOND_TUTORIAL_DIAMOND_18X18
+  rotate: false
+  xy: 224, 1
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TUTORIAL_DIAMOND_TUTORIAL_DIAMOND_201X207
+  rotate: false
+  xy: 1, 1
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TUTORIAL_DIAMOND_TUTORIAL_DIAMOND_99X139
+  rotate: false
+  xy: 175, 189
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1

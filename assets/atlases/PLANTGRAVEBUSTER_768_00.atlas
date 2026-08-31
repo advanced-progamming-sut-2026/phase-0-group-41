@@ -1,0 +1,236 @@
+PLANTGRAVEBUSTER_768_00.PNG
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GRAVEBUSTER_DIRT_GRAVEBUSTER_DIRT_187X59
+  rotate: false
+  xy: 275, 68
+  size: 120, 38
+  orig: 120, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_DIRT_GRAVEBUSTER_DIRT_PILE
+  rotate: false
+  xy: 70, 96
+  size: 117, 35
+  orig: 117, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_DIRT_GRAVEBUSTER_DIRT_ROCK_02
+  rotate: false
+  xy: 157, 179
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_DIRT_GRAVEBUSTER_DIRT_ROCK_03
+  rotate: false
+  xy: 329, 178
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_DIRT_GRAVEBUSTER_DIRT__ROCK_01
+  rotate: false
+  xy: 487, 96
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_104X99
+  rotate: false
+  xy: 1, 96
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_116X101
+  rotate: false
+  xy: 374, 1
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_144X54
+  rotate: false
+  xy: 285, 108
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_147X54
+  rotate: false
+  xy: 189, 108
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_14X15
+  rotate: false
+  xy: 201, 96
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_16X15
+  rotate: false
+  xy: 189, 96
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_19X17
+  rotate: false
+  xy: 157, 165
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_424X145
+  rotate: false
+  xy: 1, 1
+  size: 272, 93
+  orig: 272, 93
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_57X50
+  rotate: false
+  xy: 118, 165
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_61X81
+  rotate: false
+  xy: 469, 119
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRAVEBUSTER_EXPLOSION_POTATOMINE_GRAVEBUSTER_EXPLOSION_POTATOMINE_95X73
+  rotate: false
+  xy: 450, 1
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_111X41
+  rotate: false
+  xy: 1, 165
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_128X48
+  rotate: false
+  xy: 266, 145
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_130X45
+  rotate: false
+  xy: 350, 157
+  size: 83, 29
+  orig: 83, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_137X56
+  rotate: false
+  xy: 379, 119
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_137X76
+  rotate: false
+  xy: 397, 68
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_138X50
+  rotate: false
+  xy: 175, 145
+  size: 89, 32
+  orig: 89, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_151X95
+  rotate: false
+  xy: 275, 1
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_161X46
+  rotate: false
+  xy: 70, 133
+  size: 103, 30
+  orig: 103, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_18X20
+  rotate: false
+  xy: 451, 157
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_21X20
+  rotate: false
+  xy: 435, 157
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_31X26
+  rotate: false
+  xy: 487, 69
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_35X26
+  rotate: false
+  xy: 487, 50
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_40X23
+  rotate: false
+  xy: 301, 178
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_51X39
+  rotate: false
+  xy: 266, 178
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_53X22
+  rotate: false
+  xy: 450, 50
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_66X63
+  rotate: false
+  xy: 74, 165
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRAVEBUSTER_GRAVEBUSTER_95X36
+  rotate: false
+  xy: 435, 173
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1

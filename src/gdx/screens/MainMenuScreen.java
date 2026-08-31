@@ -8,12 +8,15 @@ import gdx.PvZGame;
 import gdx.assets.AssetPaths;
 import gdx.util.HudBar;
 import gdx.util.ImageUtils;
+import gdx.util.SoundManager;
 import model.user.User;
 
 public class MainMenuScreen extends BaseMenuScreen {
 
     public MainMenuScreen(PvZGame game) {
         super(game);
+
+        SoundManager.playMusic(AssetPaths.MUSIC_MENU);
 
         User user = game.getLoggedInUser();
 
@@ -47,6 +50,8 @@ public class MainMenuScreen extends BaseMenuScreen {
         addButton(grid, "Greenhouse", game::goToGreenhouse);
         grid.row();
         addButton(grid, "Quests", game::goToQuests);
+        grid.row();
+        addButton(grid, "Mini Games", game::goToMiniGames);
         grid.row();
         addButton(grid, "Leaderboard", game::goToLeaderboard);
         grid.row();

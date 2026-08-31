@@ -1,0 +1,334 @@
+PLANTSHINEVINE_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_SHINEVINE_SHINEVINE_103X31
+  rotate: false
+  xy: 182, 221
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_10X10
+  rotate: false
+  xy: 203, 127
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_117X53
+  rotate: false
+  xy: 136, 140
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_118X84
+  rotate: false
+  xy: 137, 41
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_13X13
+  rotate: false
+  xy: 140, 288
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_13X13_2
+  rotate: false
+  xy: 151, 288
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_13X17
+  rotate: false
+  xy: 118, 285
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_14X16
+  rotate: false
+  xy: 129, 288
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_14X18
+  rotate: false
+  xy: 245, 76
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_14X23
+  rotate: false
+  xy: 245, 59
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_14X25
+  rotate: false
+  xy: 245, 41
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_16X10
+  rotate: false
+  xy: 162, 288
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_17X13
+  rotate: false
+  xy: 239, 286
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_184X59
+  rotate: false
+  xy: 137, 1
+  size: 118, 38
+  orig: 118, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_18X31
+  rotate: false
+  xy: 225, 273
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_199X95
+  rotate: false
+  xy: 1, 222
+  size: 128, 61
+  orig: 128, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_1X1
+  rotate: false
+  xy: 243, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_208X129
+  rotate: false
+  xy: 1, 137
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_209X209
+  rotate: false
+  xy: 1, 1
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_20X16
+  rotate: false
+  xy: 103, 285
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_21X27
+  rotate: false
+  xy: 240, 243
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_22X22
+  rotate: false
+  xy: 87, 285
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_25X28
+  rotate: false
+  xy: 240, 266
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_26X24
+  rotate: false
+  xy: 49, 285
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_26X24_2
+  rotate: false
+  xy: 68, 285
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_27X34
+  rotate: false
+  xy: 213, 127
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_27X34_2
+  rotate: false
+  xy: 233, 127
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_28X17
+  rotate: false
+  xy: 154, 226
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_29X28
+  rotate: false
+  xy: 227, 172
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_29X29
+  rotate: false
+  xy: 213, 151
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_29X29_2
+  rotate: false
+  xy: 234, 151
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_32X23
+  rotate: false
+  xy: 131, 226
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_34X17
+  rotate: false
+  xy: 227, 207
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_39X20
+  rotate: false
+  xy: 227, 192
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_40X20
+  rotate: false
+  xy: 215, 81
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_43X27
+  rotate: false
+  xy: 215, 41
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_43X27_2
+  rotate: false
+  xy: 215, 61
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_67X43
+  rotate: false
+  xy: 195, 243
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_67X67
+  rotate: false
+  xy: 182, 176
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_69X31
+  rotate: false
+  xy: 131, 266
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_69X75
+  rotate: false
+  xy: 136, 176
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_71X26
+  rotate: false
+  xy: 1, 285
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_71X43
+  rotate: false
+  xy: 203, 97
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_72X29
+  rotate: false
+  xy: 177, 273
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_7X10
+  rotate: false
+  xy: 248, 172
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_96X33
+  rotate: false
+  xy: 131, 243
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SHINEVINE_SHINEVINE_99X63
+  rotate: false
+  xy: 137, 97
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1

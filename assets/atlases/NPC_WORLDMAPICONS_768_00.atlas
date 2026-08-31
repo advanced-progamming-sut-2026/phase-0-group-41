@@ -1,0 +1,656 @@
+NPC_WORLDMAPICONS_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_106X77
+  rotate: false
+  xy: 867, 470
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_108X73
+  rotate: false
+  xy: 937, 470
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_11X18
+  rotate: false
+  xy: 635, 351
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_121X88
+  rotate: false
+  xy: 742, 463
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_125X154
+  rotate: false
+  xy: 553, 351
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_125X62
+  rotate: false
+  xy: 379, 479
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_13X36
+  rotate: false
+  xy: 179, 444
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_144X95
+  rotate: false
+  xy: 930, 407
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_146X60
+  rotate: false
+  xy: 154, 470
+  size: 94, 39
+  orig: 94, 39
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_152X38
+  rotate: false
+  xy: 1, 489
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_15X26
+  rotate: false
+  xy: 303, 470
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_162X128
+  rotate: false
+  xy: 1, 405
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_164X80
+  rotate: false
+  xy: 635, 433
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_16X14
+  rotate: false
+  xy: 786, 335
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_16X15
+  rotate: false
+  xy: 774, 335
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_184X84
+  rotate: false
+  xy: 810, 407
+  size: 118, 54
+  orig: 118, 54
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_189X63
+  rotate: false
+  xy: 503, 452
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_18X32
+  rotate: false
+  xy: 620, 533
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_190X109
+  rotate: false
+  xy: 193, 398
+  size: 122, 70
+  orig: 122, 70
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_191X72
+  rotate: false
+  xy: 379, 431
+  size: 122, 46
+  orig: 122, 46
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_198X215
+  rotate: false
+  xy: 645, 207
+  size: 127, 138
+  orig: 127, 138
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_198X222
+  rotate: false
+  xy: 516, 207
+  size: 127, 142
+  orig: 127, 142
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_19X18
+  rotate: false
+  xy: 677, 533
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_203X239
+  rotate: false
+  xy: 384, 207
+  size: 130, 153
+  orig: 130, 153
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_21X20
+  rotate: false
+  xy: 600, 535
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_21X21
+  rotate: false
+  xy: 357, 534
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_22X29
+  rotate: false
+  xy: 183, 531
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_23X18
+  rotate: false
+  xy: 28, 536
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_23X28
+  rotate: false
+  xy: 1008, 499
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_23X29
+  rotate: false
+  xy: 565, 527
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_24X18
+  rotate: false
+  xy: 582, 535
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_255X131
+  rotate: false
+  xy: 645, 347
+  size: 163, 84
+  orig: 163, 84
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_25X30
+  rotate: false
+  xy: 82, 516
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_25X42
+  rotate: false
+  xy: 1008, 470
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_261X105
+  rotate: false
+  xy: 384, 362
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_27X36
+  rotate: false
+  xy: 984, 519
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_28X17
+  rotate: false
+  xy: 657, 533
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_28X28
+  rotate: false
+  xy: 915, 522
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_28X35
+  rotate: false
+  xy: 1004, 519
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_28X38
+  rotate: false
+  xy: 227, 511
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_295X295
+  rotate: false
+  xy: 193, 207
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_297X306
+  rotate: false
+  xy: 1, 207
+  size: 190, 196
+  orig: 190, 196
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_29X40
+  rotate: false
+  xy: 357, 506
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_30X23
+  rotate: false
+  xy: 162, 531
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_312X318
+  rotate: false
+  xy: 413, 1
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_312X318_2
+  rotate: false
+  xy: 615, 1
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_315X314
+  rotate: false
+  xy: 817, 1
+  size: 202, 201
+  orig: 202, 201
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_315X314_2
+  rotate: false
+  xy: 817, 204
+  size: 202, 201
+  orig: 202, 201
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_319X319
+  rotate: false
+  xy: 1, 1
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_319X319_2
+  rotate: false
+  xy: 207, 1
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_31X33
+  rotate: false
+  xy: 962, 519
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_32X24
+  rotate: false
+  xy: 892, 522
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_33X18
+  rotate: false
+  xy: 634, 533
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_33X29
+  rotate: false
+  xy: 378, 521
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_33X29_2
+  rotate: false
+  xy: 401, 521
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_34X23
+  rotate: false
+  xy: 541, 527
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_34X23_2
+  rotate: false
+  xy: 486, 528
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_34X25
+  rotate: false
+  xy: 784, 522
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_34X27
+  rotate: false
+  xy: 424, 521
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_34X28
+  rotate: false
+  xy: 735, 522
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_35X23
+  rotate: false
+  xy: 867, 522
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_35X27
+  rotate: false
+  xy: 461, 520
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_35X29
+  rotate: false
+  xy: 937, 519
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_35X40
+  rotate: false
+  xy: 202, 511
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_36X25
+  rotate: false
+  xy: 759, 522
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_36X35
+  rotate: false
+  xy: 154, 444
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_37X44
+  rotate: false
+  xy: 781, 433
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_38X27
+  rotate: false
+  xy: 28, 516
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_38X31
+  rotate: false
+  xy: 1, 516
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_39X27
+  rotate: false
+  xy: 55, 516
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_39X50
+  rotate: false
+  xy: 330, 506
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_39X55
+  rotate: false
+  xy: 303, 506
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_42X17
+  rotate: false
+  xy: 510, 528
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_43X42
+  rotate: false
+  xy: 132, 511
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_45X64
+  rotate: false
+  xy: 101, 506
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_49X68
+  rotate: false
+  xy: 774, 289
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_51X59
+  rotate: false
+  xy: 585, 495
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_53X60
+  rotate: false
+  xy: 461, 479
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_56X58
+  rotate: false
+  xy: 154, 405
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_58X35
+  rotate: false
+  xy: 742, 433
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_58X63
+  rotate: false
+  xy: 774, 207
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_59X28
+  rotate: false
+  xy: 162, 511
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_59X30
+  rotate: false
+  xy: 503, 431
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_62X57
+  rotate: false
+  xy: 774, 250
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_63X86
+  rotate: false
+  xy: 692, 486
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_66X46
+  rotate: false
+  xy: 541, 495
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_66X48
+  rotate: false
+  xy: 497, 495
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_67X135
+  rotate: false
+  xy: 822, 463
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_70X155
+  rotate: false
+  xy: 107, 405
+  size: 45, 99
+  orig: 45, 99
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_80X102
+  rotate: false
+  xy: 250, 470
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_94X165
+  rotate: false
+  xy: 317, 398
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_99X70
+  rotate: false
+  xy: 626, 486
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+IMAGE_CRAZYDAVE_DAVEWINNIE_NARRATIONICONS_DAVEWINNIE_NARRATIONICONS_9X9
+  rotate: false
+  xy: 808, 289
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

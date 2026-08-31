@@ -1,0 +1,131 @@
+PLANTBLOVER_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_BLOWVER_BLOWVER_105X105
+  rotate: false
+  xy: 1, 105
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_122X159
+  rotate: false
+  xy: 1, 1
+  size: 78, 102
+  orig: 78, 102
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_12X10
+  rotate: false
+  xy: 70, 105
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_140X11
+  rotate: false
+  xy: 1, 202
+  size: 90, 7
+  orig: 90, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_15X28
+  rotate: false
+  xy: 116, 153
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_17X15
+  rotate: false
+  xy: 56, 190
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_20X43
+  rotate: false
+  xy: 93, 177
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_24X11
+  rotate: false
+  xy: 38, 188
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_26X17
+  rotate: false
+  xy: 108, 177
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_29X18
+  rotate: false
+  xy: 38, 174
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_30X17
+  rotate: false
+  xy: 59, 177
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_55X41
+  rotate: false
+  xy: 1, 174
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_61X66
+  rotate: false
+  xy: 81, 45
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_63X60
+  rotate: false
+  xy: 81, 89
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_69X34
+  rotate: false
+  xy: 70, 153
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_70X65
+  rotate: false
+  xy: 81, 1
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_75X33
+  rotate: false
+  xy: 70, 130
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOWVER_BLOWVER_9X9
+  rotate: false
+  xy: 70, 114
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

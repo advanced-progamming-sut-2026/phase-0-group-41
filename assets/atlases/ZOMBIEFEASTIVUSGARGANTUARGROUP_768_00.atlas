@@ -1,0 +1,523 @@
+ZOMBIEFEASTIVUSGARGANTUARGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_101X74
+  rotate: false
+  xy: 1, 452
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_102X102
+  rotate: false
+  xy: 1, 384
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_102X78
+  rotate: false
+  xy: 355, 458
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_103X117
+  rotate: false
+  xy: 79, 311
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_105X78
+  rotate: false
+  xy: 213, 428
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_105X89
+  rotate: false
+  xy: 286, 421
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_107X75
+  rotate: false
+  xy: 130, 437
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_10X19
+  rotate: false
+  xy: 327, 359
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_111X105
+  rotate: false
+  xy: 213, 359
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_113X63
+  rotate: false
+  xy: 423, 458
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_116X123
+  rotate: false
+  xy: 437, 307
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_119X111
+  rotate: false
+  xy: 1, 311
+  size: 76, 71
+  orig: 76, 71
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_12X15
+  rotate: false
+  xy: 393, 376
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_135X8
+  rotate: false
+  xy: 151, 552
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_14X11
+  rotate: false
+  xy: 497, 298
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_153X104
+  rotate: false
+  xy: 337, 307
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_15X26
+  rotate: false
+  xy: 175, 229
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_163X67
+  rotate: false
+  xy: 286, 376
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_16X24
+  rotate: false
+  xy: 130, 388
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_16X27
+  rotate: false
+  xy: 175, 209
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_16X29
+  rotate: false
+  xy: 175, 188
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_17X23
+  rotate: false
+  xy: 286, 359
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_17X24
+  rotate: false
+  xy: 497, 280
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_187X102
+  rotate: false
+  xy: 366, 79
+  size: 120, 66
+  orig: 120, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_18X13
+  rotate: false
+  xy: 299, 359
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_18X13_2
+  rotate: false
+  xy: 313, 359
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_19X29
+  rotate: false
+  xy: 497, 220
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_19X30
+  rotate: false
+  xy: 497, 241
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_20X20
+  rotate: false
+  xy: 170, 344
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_21X25
+  rotate: false
+  xy: 497, 262
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_223X118
+  rotate: false
+  xy: 366, 1
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_22X27
+  rotate: false
+  xy: 497, 180
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_22X28
+  rotate: false
+  xy: 497, 200
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_230X270
+  rotate: false
+  xy: 188, 184
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_247X189
+  rotate: false
+  xy: 337, 184
+  size: 158, 121
+  orig: 158, 121
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_25X25
+  rotate: false
+  xy: 151, 533
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_269X95
+  rotate: false
+  xy: 1, 188
+  size: 172, 61
+  orig: 172, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_274X90
+  rotate: false
+  xy: 1, 251
+  size: 176, 58
+  orig: 176, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_275X283
+  rotate: false
+  xy: 188, 1
+  size: 176, 181
+  orig: 176, 181
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_288X288
+  rotate: false
+  xy: 1, 1
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_30X30
+  rotate: false
+  xy: 1, 543
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_31X47
+  rotate: false
+  xy: 174, 487
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_32X19
+  rotate: false
+  xy: 147, 344
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_32X40
+  rotate: false
+  xy: 479, 528
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_33X36
+  rotate: false
+  xy: 414, 542
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_34X48
+  rotate: false
+  xy: 488, 79
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_35X28
+  rotate: false
+  xy: 437, 542
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_36X44
+  rotate: false
+  xy: 488, 112
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_38X38
+  rotate: false
+  xy: 479, 501
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_43X39
+  rotate: false
+  xy: 355, 421
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_49X48
+  rotate: false
+  xy: 147, 311
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_52X29
+  rotate: false
+  xy: 317, 480
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_53X28
+  rotate: false
+  xy: 215, 524
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_60X48
+  rotate: false
+  xy: 470, 147
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_61X41
+  rotate: false
+  xy: 174, 524
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_65X60
+  rotate: false
+  xy: 259, 522
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_66X33
+  rotate: false
+  xy: 107, 533
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_6X6
+  rotate: false
+  xy: 179, 255
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_70X71
+  rotate: false
+  xy: 317, 510
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_73X54
+  rotate: false
+  xy: 421, 147
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_74X65
+  rotate: false
+  xy: 364, 510
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_75X66
+  rotate: false
+  xy: 57, 518
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_77X68
+  rotate: false
+  xy: 122, 487
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_79X85
+  rotate: false
+  xy: 456, 388
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_7X7
+  rotate: false
+  xy: 179, 248
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_81X83
+  rotate: false
+  xy: 68, 463
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_82X51
+  rotate: false
+  xy: 366, 147
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_84X60
+  rotate: false
+  xy: 423, 501
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_84X60_2
+  rotate: false
+  xy: 1, 502
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_87X62
+  rotate: false
+  xy: 259, 480
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_87X65
+  rotate: false
+  xy: 201, 480
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_92X113
+  rotate: false
+  xy: 69, 388
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_95X106
+  rotate: false
+  xy: 393, 388
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_FEASTIVUS_GARGANTUAR_FEASTIVUS_GARGANTUAR_99X118
+  rotate: false
+  xy: 147, 359
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1

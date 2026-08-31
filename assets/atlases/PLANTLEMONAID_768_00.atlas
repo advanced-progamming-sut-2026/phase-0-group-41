@@ -1,0 +1,670 @@
+PLANTLEMONAID_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_106X71
+  rotate: false
+  xy: 263, 158
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_112X165
+  rotate: false
+  xy: 375, 1
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_12X12
+  rotate: false
+  xy: 76, 166
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_140X57
+  rotate: false
+  xy: 171, 119
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_140X57_2
+  rotate: false
+  xy: 263, 119
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_146X181
+  rotate: false
+  xy: 87, 1
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_146X181_2
+  rotate: false
+  xy: 183, 1
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_17X17
+  rotate: false
+  xy: 227, 268
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_17X17_2
+  rotate: false
+  xy: 240, 268
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_36X19
+  rotate: false
+  xy: 455, 179
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_45X12
+  rotate: false
+  xy: 134, 187
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_EFFECTS_LEMONAID_EFFECTS_99X64
+  rotate: false
+  xy: 134, 197
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_PROJECTILE_LEMONAID_PROJECTILE_12X27
+  rotate: false
+  xy: 76, 134
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_PROJECTILE_LEMONAID_PROJECTILE_21X17
+  rotate: false
+  xy: 196, 268
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_PROJECTILE_LEMONAID_PROJECTILE_28X49
+  rotate: false
+  xy: 261, 243
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEMONAID_PROJECTILE_LEMONAID_PROJECTILE_50X45
+  rotate: false
+  xy: 333, 158
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_103X54
+  rotate: false
+  xy: 262, 206
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_103X54_2
+  rotate: false
+  xy: 1, 229
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_106X71
+  rotate: false
+  xy: 1, 181
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_114X70
+  rotate: false
+  xy: 1, 134
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_122X135
+  rotate: false
+  xy: 375, 109
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_128X102
+  rotate: false
+  xy: 87, 119
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_12X15
+  rotate: false
+  xy: 76, 154
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_131X204
+  rotate: false
+  xy: 1, 1
+  size: 84, 131
+  orig: 84, 131
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_134X46
+  rotate: false
+  xy: 399, 198
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_13X10
+  rotate: false
+  xy: 333, 189
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_13X10_2
+  rotate: false
+  xy: 344, 189
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_13X12
+  rotate: false
+  xy: 115, 270
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_13X13
+  rotate: false
+  xy: 104, 270
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_140X57
+  rotate: false
+  xy: 171, 158
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_146X181
+  rotate: false
+  xy: 279, 1
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_14X15
+  rotate: false
+  xy: 170, 268
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_14X9
+  rotate: false
+  xy: 355, 189
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_15X8
+  rotate: false
+  xy: 313, 259
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_16X14
+  rotate: false
+  xy: 92, 270
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_16X16
+  rotate: false
+  xy: 80, 270
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_17X15
+  rotate: false
+  xy: 419, 268
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_17X23
+  rotate: false
+  xy: 53, 266
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_17X25
+  rotate: false
+  xy: 384, 241
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_17X26
+  rotate: false
+  xy: 499, 124
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_18X13
+  rotate: false
+  xy: 432, 268
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_18X13_2
+  rotate: false
+  xy: 66, 270
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_18X23
+  rotate: false
+  xy: 499, 143
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_18X23_2
+  rotate: false
+  xy: 499, 160
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_19X16
+  rotate: false
+  xy: 391, 268
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_19X16_2
+  rotate: false
+  xy: 405, 268
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_19X21
+  rotate: false
+  xy: 182, 261
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_20X17
+  rotate: false
+  xy: 212, 268
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_22X22
+  rotate: false
+  xy: 313, 243
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_22X29
+  rotate: false
+  xy: 182, 240
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_23X23
+  rotate: false
+  xy: 355, 139
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_23X27
+  rotate: false
+  xy: 496, 104
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_24X19
+  rotate: false
+  xy: 373, 267
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_24X22
+  rotate: false
+  xy: 337, 267
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_24X22_2
+  rotate: false
+  xy: 355, 267
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_24X29
+  rotate: false
+  xy: 496, 1
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_24X29_2
+  rotate: false
+  xy: 496, 22
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_24X29_3
+  rotate: false
+  xy: 496, 43
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_25X19
+  rotate: false
+  xy: 132, 268
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_25X27
+  rotate: false
+  xy: 496, 64
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_25X27_2
+  rotate: false
+  xy: 496, 84
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_26X27
+  rotate: false
+  xy: 355, 119
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_28X15
+  rotate: false
+  xy: 150, 268
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_35X35
+  rotate: false
+  xy: 281, 263
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_35X55
+  rotate: false
+  xy: 487, 179
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_36X19
+  rotate: false
+  xy: 487, 216
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_36X30
+  rotate: false
+  xy: 28, 266
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_38X32
+  rotate: false
+  xy: 456, 264
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_39X30
+  rotate: false
+  xy: 1, 266
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_39X32
+  rotate: false
+  xy: 483, 264
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_45X12
+  rotate: false
+  xy: 306, 267
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_47X27
+  rotate: false
+  xy: 281, 243
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_61X196
+  rotate: false
+  xy: 455, 1
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_65X74
+  rotate: false
+  xy: 455, 129
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_6X6
+  rotate: false
+  xy: 480, 179
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_6X6_2
+  rotate: false
+  xy: 480, 185
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_6X6_3
+  rotate: false
+  xy: 480, 191
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_74X40
+  rotate: false
+  xy: 132, 240
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_78X49
+  rotate: false
+  xy: 456, 230
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_7X7
+  rotate: false
+  xy: 367, 156
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_7X7_2
+  rotate: false
+  xy: 367, 163
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_81X37
+  rotate: false
+  xy: 330, 241
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_86X56
+  rotate: false
+  xy: 399, 230
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_8X8
+  rotate: false
+  xy: 367, 170
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_8X8_2
+  rotate: false
+  xy: 367, 177
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_92X43
+  rotate: false
+  xy: 200, 238
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_93X60
+  rotate: false
+  xy: 200, 197
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_95X48
+  rotate: false
+  xy: 69, 237
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_95X74
+  rotate: false
+  xy: 71, 187
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_99X64
+  rotate: false
+  xy: 333, 198
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_9X9
+  rotate: false
+  xy: 76, 176
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_9X9_2
+  rotate: false
+  xy: 366, 189
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_9X9_3
+  rotate: false
+  xy: 384, 259
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_9X9_4
+  rotate: false
+  xy: 446, 268
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LEMONAID_LEMONAID_9X9_5
+  rotate: false
+  xy: 446, 276
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

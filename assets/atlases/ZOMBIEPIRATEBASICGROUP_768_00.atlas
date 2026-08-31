@@ -1,0 +1,999 @@
+ZOMBIEPIRATEBASICGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_106X104
+  rotate: false
+  xy: 153, 1
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_106X66
+  rotate: false
+  xy: 212, 70
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_10X10
+  rotate: false
+  xy: 71, 104
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_135X8
+  rotate: false
+  xy: 112, 312
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_17X33
+  rotate: false
+  xy: 500, 321
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_20X39
+  rotate: false
+  xy: 48, 326
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_21X40
+  rotate: false
+  xy: 286, 319
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_21X49
+  rotate: false
+  xy: 473, 287
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_22X26
+  rotate: false
+  xy: 360, 343
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_23X50
+  rotate: false
+  xy: 362, 170
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_24X45
+  rotate: false
+  xy: 325, 279
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_25X25
+  rotate: false
+  xy: 242, 337
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_26X48
+  rotate: false
+  xy: 135, 271
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_27X24
+  rotate: false
+  xy: 164, 337
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_28X33
+  rotate: false
+  xy: 221, 314
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_29X25
+  rotate: false
+  xy: 388, 331
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_29X30
+  rotate: false
+  xy: 323, 323
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_30X24
+  rotate: false
+  xy: 409, 331
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_30X36
+  rotate: false
+  xy: 382, 291
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_30X37
+  rotate: false
+  xy: 452, 287
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_30X44
+  rotate: false
+  xy: 73, 261
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_31X27
+  rotate: false
+  xy: 366, 323
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_31X50
+  rotate: false
+  xy: 387, 257
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_33X12
+  rotate: false
+  xy: 260, 345
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_33X87
+  rotate: false
+  xy: 267, 216
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_35X25
+  rotate: false
+  xy: 143, 319
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_36X39
+  rotate: false
+  xy: 456, 260
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_37X45
+  rotate: false
+  xy: 48, 230
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_37X46
+  rotate: false
+  xy: 116, 217
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_37X65
+  rotate: false
+  xy: 303, 216
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_41X24
+  rotate: false
+  xy: 237, 296
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_52X31
+  rotate: false
+  xy: 152, 249
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_55X76
+  rotate: false
+  xy: 430, 209
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_70X71
+  rotate: false
+  xy: 1, 194
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_79X69
+  rotate: false
+  xy: 433, 163
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_80X83
+  rotate: false
+  xy: 124, 162
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_80X83_2
+  rotate: false
+  xy: 177, 162
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_82X82
+  rotate: false
+  xy: 325, 115
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_89X86
+  rotate: false
+  xy: 83, 70
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_89X87
+  rotate: false
+  xy: 353, 57
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_96X70
+  rotate: false
+  xy: 444, 116
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_97X72
+  rotate: false
+  xy: 206, 114
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_BRICK_ZOMBIE_PIRATE_BASIC_BRICK_98X104
+  rotate: false
+  xy: 288, 1
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_106X66
+  rotate: false
+  xy: 282, 70
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_110X84
+  rotate: false
+  xy: 353, 1
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_135X8
+  rotate: false
+  xy: 303, 316
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_17X33
+  rotate: false
+  xy: 1, 335
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_20X157
+  rotate: false
+  xy: 101, 182
+  size: 13, 101
+  orig: 13, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_20X39
+  rotate: false
+  xy: 63, 326
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_21X40
+  rotate: false
+  xy: 484, 321
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_21X49
+  rotate: false
+  xy: 489, 287
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_23X50
+  rotate: false
+  xy: 192, 271
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_24X45
+  rotate: false
+  xy: 343, 279
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_25X25
+  rotate: false
+  xy: 451, 339
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_26X48
+  rotate: false
+  xy: 154, 271
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_27X24
+  rotate: false
+  xy: 184, 337
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_28X33
+  rotate: false
+  xy: 241, 314
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_30X24
+  rotate: false
+  xy: 430, 331
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_30X31
+  rotate: false
+  xy: 303, 294
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_30X44
+  rotate: false
+  xy: 224, 266
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_31X50
+  rotate: false
+  xy: 303, 260
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_34X31
+  rotate: false
+  xy: 34, 291
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_35X25
+  rotate: false
+  xy: 168, 319
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_36X39
+  rotate: false
+  xy: 481, 260
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_37X45
+  rotate: false
+  xy: 74, 230
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_37X46
+  rotate: false
+  xy: 142, 217
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_41X24
+  rotate: false
+  xy: 403, 313
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_52X31
+  rotate: false
+  xy: 188, 249
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_55X76
+  rotate: false
+  xy: 467, 209
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_70X71
+  rotate: false
+  xy: 336, 209
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_FLAG_ZOMBIE_PIRATE_BASIC_FLAG_79X69
+  rotate: false
+  xy: 230, 169
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_106X66
+  rotate: false
+  xy: 1, 95
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_125X143
+  rotate: false
+  xy: 1, 1
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_135X8
+  rotate: false
+  xy: 34, 319
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_17X157
+  rotate: false
+  xy: 290, 216
+  size: 11, 101
+  orig: 11, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_17X33
+  rotate: false
+  xy: 469, 339
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_20X39
+  rotate: false
+  xy: 78, 326
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_21X40
+  rotate: false
+  xy: 17, 322
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_21X49
+  rotate: false
+  xy: 18, 288
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_23X50
+  rotate: false
+  xy: 1, 273
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_24X45
+  rotate: false
+  xy: 94, 285
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_25X25
+  rotate: false
+  xy: 114, 342
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_26X48
+  rotate: false
+  xy: 173, 271
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_27X24
+  rotate: false
+  xy: 204, 337
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_28X33
+  rotate: false
+  xy: 123, 319
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_30X24
+  rotate: false
+  xy: 143, 337
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_30X31
+  rotate: false
+  xy: 265, 305
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_30X44
+  rotate: false
+  xy: 245, 266
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_31X50
+  rotate: false
+  xy: 409, 260
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_34X31
+  rotate: false
+  xy: 58, 291
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_35X25
+  rotate: false
+  xy: 459, 321
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_36X39
+  rotate: false
+  xy: 27, 261
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_37X45
+  rotate: false
+  xy: 1, 242
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_37X46
+  rotate: false
+  xy: 168, 217
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_41X24
+  rotate: false
+  xy: 431, 313
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_52X31
+  rotate: false
+  xy: 329, 257
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_55X76
+  rotate: false
+  xy: 230, 215
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_70X71
+  rotate: false
+  xy: 383, 209
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_VET_FLAG_ZOMBIE_PIRATE_BASIC_VET_FLAG_79X69
+  rotate: false
+  xy: 283, 170
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_106X104
+  rotate: false
+  xy: 83, 1
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_106X66
+  rotate: false
+  xy: 142, 70
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_10X10
+  rotate: false
+  xy: 71, 95
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_135X8
+  rotate: false
+  xy: 112, 305
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_17X33
+  rotate: false
+  xy: 209, 271
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_20X39
+  rotate: false
+  xy: 33, 326
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_21X40
+  rotate: false
+  xy: 1, 307
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_21X49
+  rotate: false
+  xy: 54, 139
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_22X26
+  rotate: false
+  xy: 344, 343
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_23X50
+  rotate: false
+  xy: 124, 127
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_24X45
+  rotate: false
+  xy: 266, 274
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_25X25
+  rotate: false
+  xy: 224, 337
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_26X48
+  rotate: false
+  xy: 116, 271
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_27X24
+  rotate: false
+  xy: 27, 242
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_28X33
+  rotate: false
+  xy: 201, 314
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_29X25
+  rotate: false
+  xy: 93, 326
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_29X30
+  rotate: false
+  xy: 302, 323
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_30X24
+  rotate: false
+  xy: 261, 327
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_30X36
+  rotate: false
+  xy: 361, 291
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_30X37
+  rotate: false
+  xy: 431, 287
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_30X44
+  rotate: false
+  xy: 52, 261
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_31X27
+  rotate: false
+  xy: 344, 323
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_31X50
+  rotate: false
+  xy: 365, 257
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_33X12
+  rotate: false
+  xy: 302, 344
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_33X87
+  rotate: false
+  xy: 485, 1
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_35X25
+  rotate: false
+  xy: 403, 294
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_36X39
+  rotate: false
+  xy: 431, 260
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_37X45
+  rotate: false
+  xy: 194, 217
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_37X46
+  rotate: false
+  xy: 336, 170
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_37X65
+  rotate: false
+  xy: 486, 163
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_41X24
+  rotate: false
+  xy: 209, 296
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_52X31
+  rotate: false
+  xy: 116, 249
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_55X76
+  rotate: false
+  xy: 471, 59
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_70X71
+  rotate: false
+  xy: 54, 182
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_79X69
+  rotate: false
+  xy: 380, 163
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_80X83
+  rotate: false
+  xy: 71, 127
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_80X83_2
+  rotate: false
+  xy: 1, 139
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_82X82
+  rotate: false
+  xy: 270, 114
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_89X86
+  rotate: false
+  xy: 412, 59
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_89X87
+  rotate: false
+  xy: 426, 1
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_96X70
+  rotate: false
+  xy: 380, 116
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_97X72
+  rotate: false
+  xy: 142, 114
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_BASIC_ZOMBIE_PIRATE_BASIC_98X104
+  rotate: false
+  xy: 223, 1
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1

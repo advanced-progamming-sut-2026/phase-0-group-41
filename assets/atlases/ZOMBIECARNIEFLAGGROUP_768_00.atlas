@@ -1,0 +1,264 @@
+ZOMBIECARNIEFLAGGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_126X94
+  rotate: false
+  xy: 1, 1
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_135X8
+  rotate: false
+  xy: 115, 141
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_16X16
+  rotate: false
+  xy: 245, 52
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_21X37
+  rotate: false
+  xy: 204, 143
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_21X43
+  rotate: false
+  xy: 233, 122
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_21X53
+  rotate: false
+  xy: 175, 105
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_21X55
+  rotate: false
+  xy: 59, 105
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_22X43
+  rotate: false
+  xy: 1, 125
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_22X62
+  rotate: false
+  xy: 63, 63
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_25X45
+  rotate: false
+  xy: 191, 105
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_26X16
+  rotate: false
+  xy: 139, 124
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_28X33
+  rotate: false
+  xy: 60, 142
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_30X31
+  rotate: false
+  xy: 17, 128
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_30X37
+  rotate: false
+  xy: 236, 75
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_30X43
+  rotate: false
+  xy: 1, 95
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_31X30
+  rotate: false
+  xy: 38, 142
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_34X30
+  rotate: false
+  xy: 209, 122
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_34X31
+  rotate: false
+  xy: 115, 118
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_34X43
+  rotate: false
+  xy: 187, 75
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_35X31
+  rotate: false
+  xy: 22, 106
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_36X39
+  rotate: false
+  xy: 211, 75
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_36X45
+  rotate: false
+  xy: 162, 73
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_37X46
+  rotate: false
+  xy: 1, 63
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_40X33
+  rotate: false
+  xy: 115, 95
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_45X245
+  rotate: false
+  xy: 84, 1
+  size: 29, 157
+  orig: 29, 157
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_46X28
+  rotate: false
+  xy: 211, 102
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_47X28
+  rotate: false
+  xy: 143, 104
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_47X29
+  rotate: false
+  xy: 27, 85
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_50X76
+  rotate: false
+  xy: 223, 1
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_52X31
+  rotate: false
+  xy: 27, 63
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_61X37
+  rotate: false
+  xy: 162, 47
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_62X32
+  rotate: false
+  xy: 203, 52
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_6X6
+  rotate: false
+  xy: 252, 64
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_70X71
+  rotate: false
+  xy: 115, 47
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_79X69
+  rotate: false
+  xy: 170, 1
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_7X7
+  rotate: false
+  xy: 245, 64
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_FLAG_ZOMBIE_CARNIE_FLAG_82X69
+  rotate: false
+  xy: 115, 1
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,47 @@
+DELAYLOAD_BACKGROUND_LOSTCITY_COMPRESSED_768_00.PNG
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_LOSTCITY_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1028, 768
+  orig: 1028, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_LOSTCITY_TEXTURE_LEFT
+  rotate: false
+  xy: 1703, 1
+  size: 277, 768
+  orig: 277, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_LOSTCITY_TEXTURE_RIGHT
+  rotate: false
+  xy: 1031, 1
+  size: 670, 768
+  orig: 670, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_LOST_CITY_BUSH_BOTTOM_LEFT
+  rotate: false
+  xy: 846, 771
+  size: 266, 176
+  orig: 266, 176
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_LOST_CITY_BUSH_BOTTOM_RIGHT
+  rotate: false
+  xy: 1114, 771
+  size: 165, 116
+  orig: 165, 116
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_LOST_CITY_MIDDLE_VINE
+  rotate: false
+  xy: 1, 771
+  size: 843, 124
+  orig: 843, 124
+  offset: 0, 0
+  index: -1

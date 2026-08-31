@@ -24,14 +24,25 @@ public class BeghouledSession extends MiniGameSession {
     private final String[] activePlantPool = {"peashooter", "wallnut", "puffshroom", "cabbagepult", "magnetshroom"};
     
     private int matchCount = 0;
-    private static final int TARGET_MATCHES = 75; // شرط برد
+    private final int targetMatches; // شرط برد، بسته به سطح سختی
     private boolean isGameWon = false;
 
     private final List<String> recentEvents = new ArrayList<>();
     private final Random random = new Random();
 
     public BeghouledSession(User user) {
-        super(user, 1);
+        this(user, 1);
+    }
+
+    public BeghouledSession(User user, int level) {
+        super(user, 1, level);
+
+        switch (getLevel()) {
+            case 2: targetMatches = 12; break;
+            case 3: targetMatches = 18; break;
+            default: targetMatches = 8; break;
+        }
+
         getSunManager().addSun(0); // خورشید اولیه صفر
         fillBoard();
         // پاکسازی مچ‌های اولیه‌ای که تصادفی ایجاد شده‌اند بدون دادن امتیاز
@@ -186,12 +197,13 @@ public class BeghouledSession extends MiniGameSession {
         int sunsToGive = (length - 2) * 50; // ۳تایی = ۵۰، ۴تایی = ۱۰۰، ۵تایی = ۱۵۰
         getSunManager().addSun(sunsToGive);
         
-        recentEvents.add("ترکیب " + length + "تایی! دریافت " + sunsToGive + " خورشید. (مجموع مچ‌ها: " + matchCount + "/" + TARGET_MATCHES + ")");
+        recentEvents.add("ترکیب " + length + "تایی! دریافت " + sunsToGive + " خورشید. (مجموع مچ‌ها: " + matchCount + "/" + targetMatches + ")");
 
-        if (matchCount >= TARGET_MATCHES && !isGameWon) {
+        if (matchCount >= targetMatches && !isGameWon) {
             isGameWon = true;
             getAliveZombies().clear(); // نابودی تمام زامبی‌ها طبق داک
-            recentEvents.add("تبریک! شما به هدف " + TARGET_MATCHES + " مچ رسیدید و برنده شدید!");
+            recentEvents.add("تبریک! شما به هدف " + targetMatches + " مچ رسیدید و برنده شدید!");
+            endGame(true);
         }
     }
 
@@ -248,7 +260,7 @@ public class BeghouledSession extends MiniGameSession {
 
     @Override
     protected void customMiniGameTick() {
-        if (isGameWon) return;
+        if (isGameOver() || isGameWon) return;
         getFallingSuns().clear(); // بدون بارش خورشید از آسمان
     }
 

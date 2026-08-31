@@ -1,0 +1,75 @@
+UI_LEAGUES_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_LEAGUES_CUP_BRICK
+  rotate: false
+  xy: 1, 1
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_BRONZE
+  rotate: false
+  xy: 135, 1
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_COPPER
+  rotate: false
+  xy: 403, 1
+  size: 91, 153
+  orig: 91, 153
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_CRYSTAL
+  rotate: false
+  xy: 269, 1
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_GOLD
+  rotate: false
+  xy: 1, 270
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_IRON
+  rotate: false
+  xy: 135, 270
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_JADE
+  rotate: false
+  xy: 269, 270
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_SILVER
+  rotate: false
+  xy: 1, 539
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_SOIL
+  rotate: false
+  xy: 135, 539
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUES_CUP_WOOD
+  rotate: false
+  xy: 269, 539
+  size: 132, 267
+  orig: 132, 267
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1979 @@
+UI_SEEDPACKETS_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PACKETS_AILMINT
+  rotate: false
+  xy: 1, 312
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_AKEE
+  rotate: false
+  xy: 82, 965
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ALOE
+  rotate: false
+  xy: 698, 456
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_APPEASEMINT
+  rotate: false
+  xy: 833, 310
+  size: 103, 61
+  orig: 103, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_APPLEMORTAR
+  rotate: false
+  xy: 428, 1148
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_AQUAVINE
+  rotate: false
+  xy: 557, 1152
+  size: 100, 44
+  orig: 100, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ARMAMINT
+  rotate: false
+  xy: 405, 381
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BAMBOOSPARTAN
+  rotate: false
+  xy: 313, 1020
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BANANA
+  rotate: false
+  xy: 551, 1014
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BEACH
+  rotate: false
+  xy: 859, 79
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BEANSPROUT
+  rotate: false
+  xy: 449, 1387
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLASTBERRY
+  rotate: false
+  xy: 85, 528
+  size: 95, 59
+  orig: 95, 59
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLASTSPINNER
+  rotate: false
+  xy: 825, 1222
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLAZELEAF
+  rotate: false
+  xy: 818, 1282
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLAZINGKNIGHT
+  rotate: false
+  xy: 319, 308
+  size: 84, 79
+  orig: 84, 79
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLOCKOLI
+  rotate: false
+  xy: 1, 529
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLOOMERANG
+  rotate: false
+  xy: 771, 591
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLOOMINGHEARTS
+  rotate: false
+  xy: 238, 814
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BLOVER
+  rotate: false
+  xy: 890, 1376
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BOINGSETTA
+  rotate: false
+  xy: 916, 807
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BOMBARDMINT
+  rotate: false
+  xy: 599, 424
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BOMBEGRANATE
+  rotate: false
+  xy: 163, 679
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BONKCHOY
+  rotate: false
+  xy: 742, 310
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BOOMBERRY
+  rotate: false
+  xy: 660, 807
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BOOMFLOWER
+  rotate: false
+  xy: 562, 813
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BOOST
+  rotate: false
+  xy: 127, 81
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BOWLINGBULB
+  rotate: false
+  xy: 853, 660
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BRAINSTEM
+  rotate: false
+  xy: 216, 1480
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BRAMBLEBUSH
+  rotate: false
+  xy: 157, 891
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BUDUHBOOM
+  rotate: false
+  xy: 926, 1018
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BUTTERCUP
+  rotate: false
+  xy: 94, 380
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_BUZZBUTTON
+  rotate: false
+  xy: 688, 1080
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CABBAGEPULT
+  rotate: false
+  xy: 828, 1159
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CACTUS
+  rotate: false
+  xy: 448, 235
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CAULIPOWER
+  rotate: false
+  xy: 960, 446
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CELERYSTALKER
+  rotate: false
+  xy: 340, 661
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CHARDGUARD
+  rotate: false
+  xy: 207, 1203
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CHERRY_BOMB
+  rotate: false
+  xy: 1, 674
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CHILIBEAN
+  rotate: false
+  xy: 969, 233
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CHILLYPEPPER
+  rotate: false
+  xy: 980, 74
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CHOMPER
+  rotate: false
+  xy: 858, 735
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CITRON
+  rotate: false
+  xy: 463, 881
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_COCONUTCANNON
+  rotate: false
+  xy: 535, 544
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_COLDSNAPDRAGON
+  rotate: false
+  xy: 1, 1140
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CONCEALMINT
+  rotate: false
+  xy: 582, 742
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CONTAINMINT
+  rotate: false
+  xy: 233, 235
+  size: 108, 71
+  orig: 108, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_COOLDOWN
+  rotate: false
+  xy: 1, 159
+  size: 115, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CORNFETTI
+  rotate: false
+  xy: 185, 1328
+  size: 75, 52
+  orig: 75, 52
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_COWBOY
+  rotate: false
+  xy: 248, 81
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_CRANJELLY
+  rotate: false
+  xy: 255, 937
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DANDELION
+  rotate: false
+  xy: 861, 518
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DARK
+  rotate: false
+  xy: 369, 81
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DARTICHOKE
+  rotate: false
+  xy: 362, 1095
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DAZEYCHAIN
+  rotate: false
+  xy: 241, 743
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DEVOURBLOOM
+  rotate: false
+  xy: 480, 952
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DINO
+  rotate: false
+  xy: 490, 81
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DOOMSHROOM
+  rotate: false
+  xy: 688, 1207
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DOTS_BOTTOM
+  rotate: false
+  xy: 853, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DOTS_LEFT
+  rotate: false
+  xy: 1023, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DOTS_RIGHT
+  rotate: false
+  xy: 122, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DRAFTODIL
+  rotate: false
+  xy: 902, 1204
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DRAGONBRUIT
+  rotate: false
+  xy: 330, 724
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_DUSKLOBBER
+  rotate: false
+  xy: 625, 1206
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_EGYPT
+  rotate: false
+  xy: 611, 81
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_EIGHTIES
+  rotate: false
+  xy: 732, 81
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ELECTRICBLUEBERRY
+  rotate: false
+  xy: 395, 803
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ELECTRICCURRANT
+  rotate: false
+  xy: 783, 1007
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ELECTRICITEA
+  rotate: false
+  xy: 232, 1001
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ELECTRICPEASHOOTER
+  rotate: false
+  xy: 430, 580
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ELECTRICPEEL
+  rotate: false
+  xy: 782, 662
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_EMPEA
+  rotate: false
+  xy: 560, 1404
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_EMPTY_PACKET
+  rotate: false
+  xy: 1, 82
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ENCHANTMINT
+  rotate: false
+  xy: 452, 508
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ENDURIAN
+  rotate: false
+  xy: 390, 874
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ENFORCEMINT
+  rotate: false
+  xy: 551, 235
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ENLIGHTENMINT
+  rotate: false
+  xy: 654, 235
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ESCAPEROOT
+  rotate: false
+  xy: 505, 675
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_EXPLODEONUT
+  rotate: false
+  xy: 937, 591
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_EXPLODEOVINE
+  rotate: false
+  xy: 882, 1330
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_FILAMINT
+  rotate: false
+  xy: 866, 947
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_FIREPEASHOOTER
+  rotate: false
+  xy: 453, 1083
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_FROSTBONNET
+  rotate: false
+  xy: 504, 1394
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_FUMESHROOM
+  rotate: false
+  xy: 623, 601
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_FUTURE
+  rotate: false
+  xy: 853, 156
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GARLIC
+  rotate: false
+  xy: 538, 948
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GHOSTPEPPER
+  rotate: false
+  xy: 966, 1204
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GLOOMVINE
+  rotate: false
+  xy: 652, 1403
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GOLDBLOOM
+  rotate: false
+  xy: 500, 374
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GOLDLEAF
+  rotate: false
+  xy: 264, 535
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GRAPESHOT
+  rotate: false
+  xy: 354, 454
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GRAVEBUSTER
+  rotate: false
+  xy: 788, 445
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GRIMROSE
+  rotate: false
+  xy: 250, 608
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GUACODILE
+  rotate: false
+  xy: 916, 1146
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GUARDSHROOM
+  rotate: false
+  xy: 57, 1396
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_GUMNUT
+  rotate: false
+  xy: 662, 1332
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HAMMERUIT
+  rotate: false
+  xy: 142, 1079
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HEADBUTTER
+  rotate: false
+  xy: 648, 875
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HEATHSEEKER
+  rotate: false
+  xy: 600, 673
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HOCUS
+  rotate: false
+  xy: 948, 947
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HOLLYKNIGHT
+  rotate: false
+  xy: 83, 819
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HOLONUT
+  rotate: false
+  xy: 1, 863
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HOMELESS
+  rotate: false
+  xy: 859, 1
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HOMINGTHISTLE
+  rotate: false
+  xy: 558, 876
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HOTDATE
+  rotate: false
+  xy: 762, 1207
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HOTPOTATO
+  rotate: false
+  xy: 492, 439
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HURRIKALE
+  rotate: false
+  xy: 702, 383
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_HYPNOSHROOM
+  rotate: false
+  xy: 124, 1279
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICEAGE
+  rotate: false
+  xy: 122, 158
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICEBLOOM
+  rotate: false
+  xy: 493, 1151
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICEBURG
+  rotate: false
+  xy: 1, 997
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICESHROOM
+  rotate: false
+  xy: 312, 868
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICEWEED
+  rotate: false
+  xy: 900, 1276
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICON
+  rotate: false
+  xy: 991, 1465
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICON_PREMIUM
+  rotate: false
+  xy: 112, 1488
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ICYCURRANT
+  rotate: false
+  xy: 620, 1014
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_IMITATER
+  rotate: false
+  xy: 82, 892
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_IMPPEAR
+  rotate: false
+  xy: 385, 1023
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_INFERNO
+  rotate: false
+  xy: 720, 876
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_INTENSIVECARROT
+  rotate: false
+  xy: 1, 1359
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_JACKOLANTERN
+  rotate: false
+  xy: 398, 1292
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_JALAPENO
+  rotate: false
+  xy: 980, 1
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_KERNELPULT
+  rotate: false
+  xy: 932, 664
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_KIWIBEAST
+  rotate: false
+  xy: 337, 947
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LASER_BEAN
+  rotate: false
+  xy: 971, 1330
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LAVAGUAVA
+  rotate: false
+  xy: 696, 1008
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LEMONAID
+  rotate: false
+  xy: 359, 1491
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LEVEL_TAB_BRONZE
+  rotate: false
+  xy: 216, 1440
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LEVEL_TAB_GOLD
+  rotate: false
+  xy: 794, 876
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LEVEL_TAB_MASTERY
+  rotate: false
+  xy: 841, 1494
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LEVEL_TAB_SILVER
+  rotate: false
+  xy: 725, 1437
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LEVITATER
+  rotate: false
+  xy: 286, 1168
+  size: 88, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LIGHTNINGREED
+  rotate: false
+  xy: 1, 1213
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LILYPAD
+  rotate: false
+  xy: 582, 1279
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LOCKED
+  rotate: false
+  xy: 452, 454
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LOCK_SMALL
+  rotate: false
+  xy: 94, 312
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_LOSTCITY
+  rotate: false
+  xy: 243, 158
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MAGNETSHROOM
+  rotate: false
+  xy: 63, 1254
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MAGNIFYINGGRASS
+  rotate: false
+  xy: 594, 1334
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MANGOFIER
+  rotate: false
+  xy: 465, 1318
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MARIGOLD
+  rotate: false
+  xy: 332, 1346
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MAYBEE
+  rotate: false
+  xy: 183, 380
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MEGAGATLING
+  rotate: false
+  xy: 332, 1280
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MELONPULT
+  rotate: false
+  xy: 938, 310
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_METEORFLOWER
+  rotate: false
+  xy: 68, 1110
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_BANNER
+  rotate: false
+  xy: 431, 653
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_COLD
+  rotate: false
+  xy: 623, 544
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_DEFENSE
+  rotate: false
+  xy: 759, 1422
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_ELECTRICITY
+  rotate: false
+  xy: 817, 1422
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_EXPLOSIVE
+  rotate: false
+  xy: 609, 1437
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_FIRE
+  rotate: false
+  xy: 667, 1437
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_LOBBER
+  rotate: false
+  xy: 875, 1438
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_MAGIC
+  rotate: false
+  xy: 158, 1440
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_MELEE
+  rotate: false
+  xy: 432, 1456
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_PEASHOOTER
+  rotate: false
+  xy: 301, 1458
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_POISON
+  rotate: false
+  xy: 490, 1461
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_SHADOW
+  rotate: false
+  xy: 1, 1463
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_SHARP
+  rotate: false
+  xy: 933, 1465
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_SLOW
+  rotate: false
+  xy: 548, 1477
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_SUN
+  rotate: false
+  xy: 725, 1478
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MINTFAM_TRAP
+  rotate: false
+  xy: 783, 1478
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MISSILETOE
+  rotate: false
+  xy: 483, 748
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MODERNDAY
+  rotate: false
+  xy: 364, 158
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MOONFLOWER
+  rotate: false
+  xy: 134, 1146
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_MURKADAMIA
+  rotate: false
+  xy: 182, 1382
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_NIGHTCAP
+  rotate: false
+  xy: 215, 1136
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_NIGHTSHADE
+  rotate: false
+  xy: 250, 672
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_NOCTARINE
+  rotate: false
+  xy: 66, 1183
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_OLIVEPIT
+  rotate: false
+  xy: 696, 949
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PARSNIP
+  rotate: false
+  xy: 83, 589
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PEANUT
+  rotate: false
+  xy: 758, 1279
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PEAPOD
+  rotate: false
+  xy: 78, 725
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PEASHOOTER
+  rotate: false
+  xy: 157, 751
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PEPPERMINT
+  rotate: false
+  xy: 500, 308
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PEPPERPULT
+  rotate: false
+  xy: 617, 949
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PERFUMESHROOM
+  rotate: false
+  xy: 935, 735
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PHATBEET
+  rotate: false
+  xy: 268, 389
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PIRATE
+  rotate: false
+  xy: 485, 158
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_POISONPEASHOOTER
+  rotate: false
+  xy: 262, 1353
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_POKRA
+  rotate: false
+  xy: 794, 934
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_POTATOMINE
+  rotate: false
+  xy: 179, 455
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_POWERLILY
+  rotate: false
+  xy: 198, 1268
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_POWERPLANT
+  rotate: false
+  xy: 1, 1286
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_POWERVINE
+  rotate: false
+  xy: 496, 1266
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_POWERVINE_CONNECTED2
+  rotate: false
+  xy: 604, 308
+  size: 136, 47
+  orig: 136, 47
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PRICE_TAB
+  rotate: false
+  xy: 1, 747
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PRICE_TAB_PREMIUM
+  rotate: false
+  xy: 496, 1224
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PRICE_TAB_SELECTED
+  rotate: false
+  xy: 649, 1493
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PRIMALPEASHOOTER
+  rotate: false
+  xy: 344, 588
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PRIMALPOTATOMINE
+  rotate: false
+  xy: 874, 446
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PRIMALSUNFLOWER
+  rotate: false
+  xy: 170, 607
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PRIMALWALLNUT
+  rotate: false
+  xy: 408, 952
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PUFFBALL
+  rotate: false
+  xy: 278, 1220
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PUFFSHROOM
+  rotate: false
+  xy: 953, 1402
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PUMPKIN
+  rotate: false
+  xy: 916, 1087
+  size: 80, 57
+  orig: 80, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PVINE
+  rotate: false
+  xy: 722, 1352
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PYREVINE
+  rotate: false
+  xy: 835, 874
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_PYROAK
+  rotate: false
+  xy: 689, 529
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_READY
+  rotate: false
+  xy: 606, 158
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_READY_PREMIUM
+  rotate: false
+  xy: 727, 158
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_REDSTINGER
+  rotate: false
+  xy: 343, 235
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_REINFORCEMINT
+  rotate: false
+  xy: 154, 945
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_REPEATER
+  rotate: false
+  xy: 758, 805
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_RHUBARBARIAN
+  rotate: false
+  xy: 152, 1012
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ROSE
+  rotate: false
+  xy: 354, 389
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SAKURA
+  rotate: false
+  xy: 781, 517
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SAPFLING
+  rotate: false
+  xy: 528, 1086
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SCAREDYSHROOM
+  rotate: false
+  xy: 430, 1224
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SEAFLORA
+  rotate: false
+  xy: 835, 807
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SEASHOOTER
+  rotate: false
+  xy: 526, 1334
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SEASHROOM
+  rotate: false
+  xy: 390, 1355
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SELECT
+  rotate: false
+  xy: 1, 1
+  size: 124, 79
+  orig: 124, 79
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SELECTED
+  rotate: false
+  xy: 848, 233
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SELECTED_PREMIUM
+  rotate: false
+  xy: 1, 235
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SHADOWPEASHOOTER
+  rotate: false
+  xy: 272, 1280
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SHADOWSHROOM
+  rotate: false
+  xy: 1, 796
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SHINEVINE
+  rotate: false
+  xy: 122, 235
+  size: 109, 71
+  orig: 109, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SHRINKINGVIOLET
+  rotate: false
+  xy: 782, 732
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SLINGPEA
+  rotate: false
+  xy: 766, 1079
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SNAPDRAGON
+  rotate: false
+  xy: 295, 1088
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SNAPPEA
+  rotate: false
+  xy: 1, 456
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SNOWPEA
+  rotate: false
+  xy: 80, 656
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SOLARSAGE
+  rotate: false
+  xy: 319, 796
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SOLARTOMATO
+  rotate: false
+  xy: 405, 308
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SOURSHOT
+  rotate: false
+  xy: 408, 729
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SPEARMINT
+  rotate: false
+  xy: 221, 308
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SPIKEROCK
+  rotate: false
+  xy: 802, 1376
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SPIKEWEED
+  rotate: false
+  xy: 301, 1416
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SPLITPEA
+  rotate: false
+  xy: 604, 357
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SPORESHROOM
+  rotate: false
+  xy: 682, 734
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SPRINGBEAN
+  rotate: false
+  xy: 111, 1416
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SQUASH
+  rotate: false
+  xy: 74, 1038
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_STALLIA
+  rotate: false
+  xy: 346, 517
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_STARFRUIT
+  rotate: false
+  xy: 88, 452
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_STICKYBOMBRICE
+  rotate: false
+  xy: 182, 535
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_STRAWBURST
+  rotate: false
+  xy: 924, 373
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_STUNION
+  rotate: false
+  xy: 703, 601
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SUNBEAN
+  rotate: false
+  xy: 60, 1327
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SUNDEWTANGLER
+  rotate: false
+  xy: 249, 1412
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SUNFLOWER
+  rotate: false
+  xy: 480, 1013
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SUNSHROOM
+  rotate: false
+  xy: 59, 1488
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SWEETHEARTSNARE
+  rotate: false
+  xy: 131, 1211
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_SWEETPOTATO
+  rotate: false
+  xy: 1, 1067
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TACTICALCUKE
+  rotate: false
+  xy: 974, 156
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TALLNUT
+  rotate: false
+  xy: 227, 1064
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TANGLEKELP
+  rotate: false
+  xy: 942, 518
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TELEPORTATOMINE
+  rotate: false
+  xy: 678, 1146
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_THORNWHIP
+  rotate: false
+  xy: 752, 235
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_THREEPEATER
+  rotate: false
+  xy: 122, 308
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_THYMEWARP
+  rotate: false
+  xy: 1, 601
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TIGERGRASS
+  rotate: false
+  xy: 354, 1220
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOADSTOOL
+  rotate: false
+  xy: 853, 591
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOMBTANGLER
+  rotate: false
+  xy: 1, 383
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_POWERTILE_ALPHA
+  rotate: false
+  xy: 255, 887
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_POWERTILE_BETA
+  rotate: false
+  xy: 376, 1168
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_POWERTILE_DELTA
+  rotate: false
+  xy: 982, 1276
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_POWERTILE_EPSILON
+  rotate: false
+  xy: 788, 383
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_POWERTILE_GAMMA
+  rotate: false
+  xy: 606, 1493
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB1
+  rotate: false
+  xy: 127, 1
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB2
+  rotate: false
+  xy: 249, 1
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB3
+  rotate: false
+  xy: 371, 1
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB_EXPLODE
+  rotate: false
+  xy: 493, 1
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_PROJECTILE_BOWLINGBULB_MEGA
+  rotate: false
+  xy: 615, 1
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TOOLS_TOP
+  rotate: false
+  xy: 582, 487
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TORCHWOOD
+  rotate: false
+  xy: 510, 611
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TUMBLEWEED
+  rotate: false
+  xy: 853, 1010
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TURKEYPULT
+  rotate: false
+  xy: 1, 932
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_TWINSUNFLOWER
+  rotate: false
+  xy: 833, 373
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ULTOMATO
+  rotate: false
+  xy: 157, 819
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_VAMPORCINI
+  rotate: false
+  xy: 603, 1087
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_VOLTSNAPDRAGON
+  rotate: false
+  xy: 855, 1079
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_WALLNUT
+  rotate: false
+  xy: 557, 1198
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_WASABIWHIP
+  rotate: false
+  xy: 924, 874
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_WATERRABBIT
+  rotate: false
+  xy: 762, 1134
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_WINTERMELON
+  rotate: false
+  xy: 472, 818
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_WINTERMINT
+  rotate: false
+  xy: 688, 1269
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_WITCHHAZEL
+  rotate: false
+  xy: 263, 462
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_XSHOT
+  rotate: false
+  xy: 703, 662
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ZNAKELILY
+  rotate: false
+  xy: 383, 1422
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PACKETS_ZOYBEANPOD
+  rotate: false
+  xy: 120, 1351
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STOREMULTI_SEEDPACKETICON
+  rotate: false
+  xy: 737, 1
+  size: 120, 78
+  orig: 120, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STOREMULTI_SEEDPACKETMINIICON
+  rotate: false
+  xy: 883, 1494
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STOREMULTI_SEEDPACKETMINIICONPREMIUM
+  rotate: false
+  xy: 148, 1496
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1

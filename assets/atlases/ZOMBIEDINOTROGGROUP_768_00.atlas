@@ -1,0 +1,523 @@
+ZOMBIEDINOTROGGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_100X78
+  rotate: false
+  xy: 431, 167
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_115X74
+  rotate: false
+  xy: 191, 152
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_135X8
+  rotate: false
+  xy: 1, 342
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_143X129
+  rotate: false
+  xy: 410, 1
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_156X233
+  rotate: false
+  xy: 191, 1
+  size: 100, 149
+  orig: 100, 149
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_179X153
+  rotate: false
+  xy: 293, 1
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_23X23
+  rotate: false
+  xy: 373, 149
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_27X26
+  rotate: false
+  xy: 329, 182
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_29X56
+  rotate: false
+  xy: 171, 250
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_31X31
+  rotate: false
+  xy: 267, 152
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_34X54
+  rotate: false
+  xy: 340, 306
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_35X60
+  rotate: false
+  xy: 51, 295
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_38X27
+  rotate: false
+  xy: 471, 328
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_38X30
+  rotate: false
+  xy: 304, 325
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_40X40
+  rotate: false
+  xy: 296, 234
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_41X66
+  rotate: false
+  xy: 476, 262
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_44X29
+  rotate: false
+  xy: 107, 321
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_44X30
+  rotate: false
+  xy: 137, 321
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_45X30
+  rotate: false
+  xy: 1, 320
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_45X48
+  rotate: false
+  xy: 168, 289
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_52X50
+  rotate: false
+  xy: 243, 275
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_53X41
+  rotate: false
+  xy: 129, 172
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_57X61
+  rotate: false
+  xy: 472, 86
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_59X53
+  rotate: false
+  xy: 384, 265
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_65X31
+  rotate: false
+  xy: 1, 298
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_6X6
+  rotate: false
+  xy: 504, 15
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_70X72
+  rotate: false
+  xy: 382, 217
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_73X50
+  rotate: false
+  xy: 51, 261
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_74X60
+  rotate: false
+  xy: 246, 234
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_75X55
+  rotate: false
+  xy: 121, 250
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_76X72
+  rotate: false
+  xy: 355, 101
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_79X69
+  rotate: false
+  xy: 193, 202
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_7X7
+  rotate: false
+  xy: 504, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_90X55
+  rotate: false
+  xy: 1, 224
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_93X123
+  rotate: false
+  xy: 410, 86
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_94X78
+  rotate: false
+  xy: 67, 172
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ROCKPUNCHER_ZOMBIE_DINO_ROCKPUNCHER_96X72
+  rotate: false
+  xy: 129, 202
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_100X78
+  rotate: false
+  xy: 1, 172
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_115X74
+  rotate: false
+  xy: 355, 167
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_135X8
+  rotate: false
+  xy: 90, 343
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_23X23
+  rotate: false
+  xy: 390, 149
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_24X24
+  rotate: false
+  xy: 355, 149
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_27X26
+  rotate: false
+  xy: 246, 202
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_29X56
+  rotate: false
+  xy: 452, 267
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_31X31
+  rotate: false
+  xy: 165, 172
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_34X54
+  rotate: false
+  xy: 230, 309
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_35X60
+  rotate: false
+  xy: 279, 297
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_38X27
+  rotate: false
+  xy: 364, 331
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_38X30
+  rotate: false
+  xy: 444, 328
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_40X40
+  rotate: false
+  xy: 416, 311
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_41X66
+  rotate: false
+  xy: 424, 267
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_44X29
+  rotate: false
+  xy: 167, 322
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_44X30
+  rotate: false
+  xy: 197, 322
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_45X30
+  rotate: false
+  xy: 76, 321
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_45X48
+  rotate: false
+  xy: 199, 289
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_46X44
+  rotate: false
+  xy: 384, 301
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_46X50
+  rotate: false
+  xy: 136, 287
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_52X50
+  rotate: false
+  xy: 100, 287
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_53X41
+  rotate: false
+  xy: 304, 297
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_53X64
+  rotate: false
+  xy: 476, 219
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_57X61
+  rotate: false
+  xy: 345, 265
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_59X54
+  rotate: false
+  xy: 472, 127
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_65X31
+  rotate: false
+  xy: 452, 306
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_6X6
+  rotate: false
+  xy: 504, 21
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_70X72
+  rotate: false
+  xy: 429, 219
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_73X50
+  rotate: false
+  xy: 296, 263
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_74X60
+  rotate: false
+  xy: 193, 248
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_75X55
+  rotate: false
+  xy: 1, 261
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_79X69
+  rotate: false
+  xy: 329, 217
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_7X7
+  rotate: false
+  xy: 504, 8
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_90X55
+  rotate: false
+  xy: 61, 224
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_93X123
+  rotate: false
+  xy: 293, 101
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_TROGLOBITE_ZOMBIE_DINO_TROGLOBITE_94X78
+  rotate: false
+  xy: 267, 182
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1

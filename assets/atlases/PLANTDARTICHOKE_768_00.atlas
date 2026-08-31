@@ -1,0 +1,1167 @@
+PLANTDARTICHOKE_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_131X62
+  rotate: false
+  xy: 1, 621
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_166X82
+  rotate: false
+  xy: 259, 464
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_43X25
+  rotate: false
+  xy: 775, 503
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_66X43
+  rotate: false
+  xy: 55, 675
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_78X54
+  rotate: false
+  xy: 356, 660
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_81X47
+  rotate: false
+  xy: 1, 663
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_91X122
+  rotate: false
+  xy: 343, 519
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_91X83
+  rotate: false
+  xy: 446, 621
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_DARTICHOKE_CRITICAL_PROJECTILE_9X9
+  rotate: false
+  xy: 898, 189
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_104X104
+  rotate: false
+  xy: 143, 554
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_105X126
+  rotate: false
+  xy: 632, 498
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_107X108
+  rotate: false
+  xy: 1, 550
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_112X111
+  rotate: false
+  xy: 701, 503
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_114X103
+  rotate: false
+  xy: 775, 521
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_12X8
+  rotate: false
+  xy: 898, 161
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_147X160
+  rotate: false
+  xy: 604, 302
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_147X160_2
+  rotate: false
+  xy: 700, 309
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_149X210
+  rotate: false
+  xy: 909, 1
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_149X210_2
+  rotate: false
+  xy: 909, 138
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_153X153
+  rotate: false
+  xy: 163, 332
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_155X105
+  rotate: false
+  xy: 808, 452
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_17X19
+  rotate: false
+  xy: 1007, 255
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_1X1
+  rotate: false
+  xy: 1019, 126
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_1X1_2
+  rotate: false
+  xy: 1022, 126
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_24X24
+  rotate: false
+  xy: 1007, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_273X246
+  rotate: false
+  xy: 732, 1
+  size: 175, 158
+  orig: 175, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_293X263
+  rotate: false
+  xy: 352, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_32X31
+  rotate: false
+  xy: 70, 705
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_39X39
+  rotate: false
+  xy: 412, 703
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_41X49
+  rotate: false
+  xy: 356, 697
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_46X46
+  rotate: false
+  xy: 272, 676
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_47X47
+  rotate: false
+  xy: 752, 683
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_47X47_2
+  rotate: false
+  xy: 784, 683
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_47X47_3
+  rotate: false
+  xy: 554, 684
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_47X47_4
+  rotate: false
+  xy: 855, 686
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_49X44
+  rotate: false
+  xy: 135, 697
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_545X514
+  rotate: false
+  xy: 1, 1
+  size: 349, 329
+  orig: 349, 329
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_57X112
+  rotate: false
+  xy: 147, 623
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_64X131
+  rotate: false
+  xy: 403, 574
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_68X68
+  rotate: false
+  xy: 568, 638
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_73X140
+  rotate: false
+  xy: 519, 574
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_89X89
+  rotate: false
+  xy: 319, 599
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_90X78
+  rotate: false
+  xy: 87, 623
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_CRITICAL_PROJECTILE_HIT_DARTICHOKE_CRITICAL_PROJECTILE_HIT_90X97
+  rotate: false
+  xy: 568, 574
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_102X53
+  rotate: false
+  xy: 808, 414
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_103X83
+  rotate: false
+  xy: 251, 578
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_15X21
+  rotate: false
+  xy: 1007, 199
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_166X82
+  rotate: false
+  xy: 448, 495
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_1X1
+  rotate: false
+  xy: 1019, 129
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_21X19
+  rotate: false
+  xy: 1007, 146
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_31X38
+  rotate: false
+  xy: 186, 623
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_48X28
+  rotate: false
+  xy: 267, 708
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_49X28
+  rotate: false
+  xy: 439, 706
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_52X25
+  rotate: false
+  xy: 544, 388
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_52X34
+  rotate: false
+  xy: 519, 550
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_55X28
+  rotate: false
+  xy: 33, 705
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_56X43
+  rotate: false
+  xy: 980, 678
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_56X43_2
+  rotate: false
+  xy: 817, 680
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_72X28
+  rotate: false
+  xy: 304, 702
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_72X38
+  rotate: false
+  xy: 224, 676
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_72X43
+  rotate: false
+  xy: 506, 666
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_DARTICHOKE_PROJECTILE_77X57
+  rotate: false
+  xy: 817, 641
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_104X104
+  rotate: false
+  xy: 850, 572
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_107X108
+  rotate: false
+  xy: 72, 550
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_107X108_2
+  rotate: false
+  xy: 448, 550
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_12X8
+  rotate: false
+  xy: 898, 168
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_12X8_2
+  rotate: false
+  xy: 898, 175
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_12X8_3
+  rotate: false
+  xy: 898, 182
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_140X127
+  rotate: false
+  xy: 632, 414
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_147X160
+  rotate: false
+  xy: 796, 309
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_147X160_2
+  rotate: false
+  xy: 1, 332
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_149X210
+  rotate: false
+  xy: 352, 268
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_14X15
+  rotate: false
+  xy: 719, 297
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_17X19
+  rotate: false
+  xy: 1012, 269
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_17X19_2
+  rotate: false
+  xy: 1012, 283
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_1X1
+  rotate: false
+  xy: 1022, 129
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_293X263
+  rotate: false
+  xy: 542, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_41X49
+  rotate: false
+  xy: 650, 699
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_41X49_2
+  rotate: false
+  xy: 678, 699
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_46X46
+  rotate: false
+  xy: 586, 693
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_47X47
+  rotate: false
+  xy: 618, 693
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_47X47_2
+  rotate: false
+  xy: 1, 695
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_47X47_3
+  rotate: false
+  xy: 484, 696
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_47X47_4
+  rotate: false
+  xy: 516, 696
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_52X52
+  rotate: false
+  xy: 99, 675
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_58X52
+  rotate: false
+  xy: 914, 672
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DARTICHOKE_PROJECTILE_HIT_DARTICHOKE_PROJECTILE_HIT_88X64
+  rotate: false
+  xy: 251, 633
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_100X59
+  rotate: false
+  xy: 919, 632
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_104X98
+  rotate: false
+  xy: 701, 576
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_108X19
+  rotate: false
+  xy: 169, 705
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_115X115
+  rotate: false
+  xy: 556, 498
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_115X69
+  rotate: false
+  xy: 770, 589
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_115X90
+  rotate: false
+  xy: 919, 572
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_116X45
+  rotate: false
+  xy: 450, 268
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_127X136
+  rotate: false
+  xy: 724, 414
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_127X99
+  rotate: false
+  xy: 263, 332
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_132X88
+  rotate: false
+  xy: 256, 519
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_134X134
+  rotate: false
+  xy: 544, 407
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_138X98
+  rotate: false
+  xy: 58, 485
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_143X143
+  rotate: false
+  xy: 450, 388
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_146X106
+  rotate: false
+  xy: 163, 432
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_150X81
+  rotate: false
+  xy: 909, 518
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_153X100
+  rotate: false
+  xy: 909, 452
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_161X131
+  rotate: false
+  xy: 892, 366
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_164X77
+  rotate: false
+  xy: 149, 502
+  size: 105, 50
+  orig: 105, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_16X22
+  rotate: false
+  xy: 1007, 215
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_16X27
+  rotate: false
+  xy: 1007, 126
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_170X26
+  rotate: false
+  xy: 614, 645
+  size: 109, 17
+  orig: 109, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_175X139
+  rotate: false
+  xy: 898, 275
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_19X22
+  rotate: false
+  xy: 1007, 160
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_1X1
+  rotate: false
+  xy: 1019, 132
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_1X1_2
+  rotate: false
+  xy: 1022, 132
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_209X199
+  rotate: false
+  xy: 552, 172
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_20X10
+  rotate: false
+  xy: 876, 414
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_217X89
+  rotate: false
+  xy: 263, 405
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_21X15
+  rotate: false
+  xy: 1007, 231
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_21X8
+  rotate: false
+  xy: 263, 398
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_22X16
+  rotate: false
+  xy: 1007, 243
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_22X22
+  rotate: false
+  xy: 1007, 110
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_22X50
+  rotate: false
+  xy: 1007, 58
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_237X131
+  rotate: false
+  xy: 450, 302
+  size: 152, 84
+  orig: 152, 84
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_24X13
+  rotate: false
+  xy: 1007, 188
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_256X227
+  rotate: false
+  xy: 732, 161
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_25X15
+  rotate: false
+  xy: 1007, 176
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_25X85
+  rotate: false
+  xy: 1007, 1
+  size: 16, 55
+  orig: 16, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_26X9
+  rotate: false
+  xy: 700, 297
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_28X27
+  rotate: false
+  xy: 484, 676
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_29X30
+  rotate: false
+  xy: 319, 578
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_309X146
+  rotate: false
+  xy: 352, 172
+  size: 198, 94
+  orig: 198, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_32X24
+  rotate: false
+  xy: 580, 388
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_32X32
+  rotate: false
+  xy: 887, 686
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_33X17
+  rotate: false
+  xy: 448, 482
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_33X20
+  rotate: false
+  xy: 378, 643
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_33X43
+  rotate: false
+  xy: 526, 268
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_34X28
+  rotate: false
+  xy: 910, 708
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_34X66
+  rotate: false
+  xy: 378, 599
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_35X21
+  rotate: false
+  xy: 186, 650
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_38X21
+  rotate: false
+  xy: 816, 710
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_38X23
+  rotate: false
+  xy: 980, 708
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_38X49
+  rotate: false
+  xy: 240, 703
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_38X78
+  rotate: false
+  xy: 997, 366
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_39X67
+  rotate: false
+  xy: 953, 672
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_41X47
+  rotate: false
+  xy: 384, 703
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_42X50
+  rotate: false
+  xy: 997, 418
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_43X69
+  rotate: false
+  xy: 995, 572
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_49X78
+  rotate: false
+  xy: 367, 464
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_51X64
+  rotate: false
+  xy: 408, 660
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_51X69
+  rotate: false
+  xy: 985, 632
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_55X67
+  rotate: false
+  xy: 58, 437
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_56X57
+  rotate: false
+  xy: 186, 666
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_57X39
+  rotate: false
+  xy: 713, 681
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_57X59
+  rotate: false
+  xy: 725, 641
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_58X171
+  rotate: false
+  xy: 212, 554
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_61X44
+  rotate: false
+  xy: 443, 676
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_64X192
+  rotate: false
+  xy: 688, 172
+  size: 41, 123
+  orig: 41, 123
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_65X18
+  rotate: false
+  xy: 706, 708
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_66X261
+  rotate: false
+  xy: 404, 405
+  size: 42, 167
+  orig: 42, 167
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_66X51
+  rotate: false
+  xy: 669, 664
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_67X67
+  rotate: false
+  xy: 869, 641
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_68X66
+  rotate: false
+  xy: 310, 658
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_70X71
+  rotate: false
+  xy: 770, 635
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_79X69
+  rotate: false
+  xy: 850, 521
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_83X42
+  rotate: false
+  xy: 614, 664
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_83X96
+  rotate: false
+  xy: 628, 581
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_85X169
+  rotate: false
+  xy: 1, 437
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DARTICHOKE_DARTICHOKE_99X235
+  rotate: false
+  xy: 97, 332
+  size: 64, 151
+  orig: 64, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,383 @@
+ZOMBIESPRINGWIZARDGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_102X135
+  rotate: false
+  xy: 318, 233
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_104X137
+  rotate: false
+  xy: 249, 163
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_141X90
+  rotate: false
+  xy: 386, 233
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_163X65
+  rotate: false
+  xy: 1, 270
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_168X101
+  rotate: false
+  xy: 372, 83
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_189X249
+  rotate: false
+  xy: 249, 1
+  size: 121, 160
+  orig: 121, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_21X49
+  rotate: false
+  xy: 479, 331
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_22X34
+  rotate: false
+  xy: 495, 331
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_49X59
+  rotate: false
+  xy: 478, 231
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EASTER_WIZARD_SHEEPENING_EASTER_WIZARD_SHEEPENING_78X19
+  rotate: false
+  xy: 162, 316
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_125X126
+  rotate: false
+  xy: 372, 150
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_135X8
+  rotate: false
+  xy: 385, 343
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_148X125
+  rotate: false
+  xy: 372, 1
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_14X36
+  rotate: false
+  xy: 113, 339
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_15X39
+  rotate: false
+  xy: 149, 337
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_1X1
+  rotate: false
+  xy: 507, 44
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_23X57
+  rotate: false
+  xy: 286, 320
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_25X45
+  rotate: false
+  xy: 162, 330
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_26X46
+  rotate: false
+  xy: 345, 322
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_26X48
+  rotate: false
+  xy: 303, 322
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_28X33
+  rotate: false
+  xy: 201, 343
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_29X48
+  rotate: false
+  xy: 286, 287
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_29X49
+  rotate: false
+  xy: 286, 253
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_30X31
+  rotate: false
+  xy: 92, 339
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_30X37
+  rotate: false
+  xy: 180, 330
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_30X40
+  rotate: false
+  xy: 364, 322
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_32X21
+  rotate: false
+  xy: 364, 350
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_33X39
+  rotate: false
+  xy: 322, 322
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_34X31
+  rotate: false
+  xy: 125, 337
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_35X23
+  rotate: false
+  xy: 221, 343
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_35X40
+  rotate: false
+  xy: 220, 270
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_36X27
+  rotate: false
+  xy: 39, 339
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_36X39
+  rotate: false
+  xy: 220, 298
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_36X45
+  rotate: false
+  xy: 482, 109
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_384X417
+  rotate: false
+  xy: 1, 1
+  size: 246, 267
+  orig: 246, 267
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_40X23
+  rotate: false
+  xy: 64, 339
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_42X38
+  rotate: false
+  xy: 482, 82
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_46X25
+  rotate: false
+  xy: 214, 325
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_50X37
+  rotate: false
+  xy: 479, 305
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_50X50
+  rotate: false
+  xy: 479, 271
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_55X226
+  rotate: false
+  xy: 249, 253
+  size: 35, 145
+  orig: 35, 145
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_55X29
+  rotate: false
+  xy: 125, 316
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_55X32
+  rotate: false
+  xy: 88, 316
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_56X56
+  rotate: false
+  xy: 469, 44
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_56X68
+  rotate: false
+  xy: 1, 314
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_63X63
+  rotate: false
+  xy: 469, 1
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_68X74
+  rotate: false
+  xy: 386, 293
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_69X87
+  rotate: false
+  xy: 318, 163
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_70X72
+  rotate: false
+  xy: 432, 293
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_73X35
+  rotate: false
+  xy: 39, 314
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_75X41
+  rotate: false
+  xy: 454, 203
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_79X69
+  rotate: false
+  xy: 167, 270
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_79X80
+  rotate: false
+  xy: 454, 150
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EASTER_WIZARD_ZOMBIE_EASTER_WIZARD_89X69
+  rotate: false
+  xy: 108, 270
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1

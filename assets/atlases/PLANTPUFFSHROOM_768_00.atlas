@@ -1,0 +1,299 @@
+PLANTPUFFSHROOM_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_MUSHROOM_EXPIRATION_MUSHROOM_EXPIRATION_143X129
+  rotate: false
+  xy: 398, 1
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MUSHROOM_EXPIRATION_MUSHROOM_EXPIRATION_153X130
+  rotate: false
+  xy: 298, 1
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MUSHROOM_EXPIRATION_MUSHROOM_EXPIRATION_1X1
+  rotate: false
+  xy: 509, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MUSHROOM_EXPIRATION_MUSHROOM_EXPIRATION_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MUSHROOM_EXPIRATION_MUSHROOM_EXPIRATION_59X53
+  rotate: false
+  xy: 467, 218
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MUSHROOM_EXPIRATION_MUSHROOM_EXPIRATION_89X64
+  rotate: false
+  xy: 76, 201
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_146X84
+  rotate: false
+  xy: 191, 108
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_163X163
+  rotate: false
+  xy: 191, 1
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_29X29
+  rotate: false
+  xy: 492, 1
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_40X37
+  rotate: false
+  xy: 479, 152
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_55X149
+  rotate: false
+  xy: 339, 156
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_63X88
+  rotate: false
+  xy: 424, 182
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_66X190
+  rotate: false
+  xy: 380, 86
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_75X21
+  rotate: false
+  xy: 51, 244
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_78X149
+  rotate: false
+  xy: 287, 156
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_83X147
+  rotate: false
+  xy: 424, 86
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_HIT_T_PUFFSHROOM_HIT_88X120
+  rotate: false
+  xy: 191, 164
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_138X42
+  rotate: false
+  xy: 76, 172
+  size: 89, 27
+  orig: 89, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_15X14
+  rotate: false
+  xy: 167, 188
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_16X12
+  rotate: false
+  xy: 376, 210
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_16X16
+  rotate: false
+  xy: 492, 72
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_22X21
+  rotate: false
+  xy: 167, 172
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_23X22
+  rotate: false
+  xy: 492, 40
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_23X22_2
+  rotate: false
+  xy: 492, 56
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PUFFSHROOM_PROJECTILE_T_PUFFSHROOM_PROJECTILE_95X22
+  rotate: false
+  xy: 185, 243
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_10X16
+  rotate: false
+  xy: 504, 72
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_113X86
+  rotate: false
+  xy: 1, 172
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_11X14
+  rotate: false
+  xy: 287, 108
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_125X106
+  rotate: false
+  xy: 298, 86
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_12X8
+  rotate: false
+  xy: 287, 119
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_13X16
+  rotate: false
+  xy: 179, 188
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_23X25
+  rotate: false
+  xy: 492, 22
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_36X30
+  rotate: false
+  xy: 250, 200
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_47X48
+  rotate: false
+  xy: 479, 119
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_50X48
+  rotate: false
+  xy: 479, 86
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_53X52
+  rotate: false
+  xy: 250, 164
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_69X52
+  rotate: false
+  xy: 467, 182
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_74X53
+  rotate: false
+  xy: 376, 241
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_75X55
+  rotate: false
+  xy: 135, 201
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_75X55_2
+  rotate: false
+  xy: 1, 229
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_75X55_3
+  rotate: false
+  xy: 135, 238
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFSHROOM_PUFFSHROOM_8X11
+  rotate: false
+  xy: 287, 126
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1

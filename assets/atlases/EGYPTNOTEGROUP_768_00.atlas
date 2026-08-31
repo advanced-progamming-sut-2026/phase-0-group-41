@@ -1,0 +1,12 @@
+EGYPTNOTEGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NOTES_ZNOTE_EGYPTBG
+  rotate: false
+  xy: 1, 1
+  size: 475, 300
+  orig: 475, 300
+  offset: 0, 0
+  index: -1

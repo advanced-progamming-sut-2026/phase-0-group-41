@@ -1,0 +1,187 @@
+ZOMBIEFEASTIVUSIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_14X11
+  rotate: false
+  xy: 54, 123
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_15X26
+  rotate: false
+  xy: 118, 43
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_167X8
+  rotate: false
+  xy: 1, 116
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_16X24
+  rotate: false
+  xy: 42, 123
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_16X27
+  rotate: false
+  xy: 37, 95
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_16X29
+  rotate: false
+  xy: 118, 22
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_17X23
+  rotate: false
+  xy: 29, 123
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_17X24
+  rotate: false
+  xy: 1, 123
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_18X13
+  rotate: false
+  xy: 102, 83
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_18X13_2
+  rotate: false
+  xy: 116, 83
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_19X29
+  rotate: false
+  xy: 102, 62
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_19X30
+  rotate: false
+  xy: 116, 62
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_20X20
+  rotate: false
+  xy: 14, 123
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_21X25
+  rotate: false
+  xy: 110, 115
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_22X27
+  rotate: false
+  xy: 101, 22
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_22X28
+  rotate: false
+  xy: 102, 42
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_30X30
+  rotate: false
+  xy: 101, 1
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_52X29
+  rotate: false
+  xy: 1, 95
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_53X28
+  rotate: false
+  xy: 94, 95
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_66X33
+  rotate: false
+  xy: 50, 91
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_6X6
+  rotate: false
+  xy: 122, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_70X71
+  rotate: false
+  xy: 54, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_71X62
+  rotate: false
+  xy: 54, 49
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_73X54
+  rotate: false
+  xy: 1, 58
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_79X85
+  rotate: false
+  xy: 1, 1
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FEASTIVUS_IMP_ZOMBIE_FEASTIVUS_IMP_7X7
+  rotate: false
+  xy: 122, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

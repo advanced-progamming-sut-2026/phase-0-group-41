@@ -18,7 +18,9 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
 import gdx.PvZGame;
+import gdx.assets.AssetPaths;
 import gdx.util.ImageUtils;
+import gdx.util.SoundManager;
 
 /**
  * کلاس پایه‌ی مشترک برای همه‌ی صفحات منو.
@@ -68,6 +70,7 @@ public abstract class BaseMenuScreen implements Screen {
         button.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
+                SoundManager.playSound(AssetPaths.SFX_CLICK);
                 onClick.run();
             }
         });
@@ -94,8 +97,8 @@ public abstract class BaseMenuScreen implements Screen {
         String bg = backgroundPath();
         if (!bg.isEmpty()) {
             stage.getBatch().begin();
-            Texture texture = ImageUtils.load(bg);
-            stage.getBatch().draw(texture, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
+            TextureRegion region = ImageUtils.loadRegion(bg);
+            stage.getBatch().draw(region, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
             stage.getBatch().end();
         }
 

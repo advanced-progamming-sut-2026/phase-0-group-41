@@ -33,6 +33,7 @@ public class MenuController {
     private final GreenhouseView greenhouseView;
     private final PlantSelectionView plantSelectionView;
     private final LeaderboardView leaderboardView;
+    private final MiniGamesView miniGamesView;
     public MenuController(UserManager userManager, ConsoleView consoleView, AppController appController) {
         this.appController = appController;
         this.userManager = userManager;
@@ -50,6 +51,7 @@ public class MenuController {
         this.questView = new QuestView(new QuestController(userManager), consoleView);
         this.greenhouseView = new GreenhouseView(new GreenhouseController(userManager), consoleView);
         this.plantSelectionView = new PlantSelectionView(new PlantSelectionController(), consoleView, this);
+        this.miniGamesView = new MiniGamesView(appController, consoleView, this);
     }
 
     public boolean handle(String rawLine, CommandLine cmd) {
@@ -102,6 +104,8 @@ public class MenuController {
                 return greenhouseView.checkCommand(loggedInUser, t, cmd);
             case PLANT_SELECTION:
                 return plantSelectionView.checkCommand(loggedInUser, t, cmd);
+            case MINI_GAMES:
+                return miniGamesView.checkCommand(t, cmd);
             case IN_GAME:
                 return true;
 
@@ -131,7 +135,8 @@ public class MenuController {
             case MAIN:
                 if (target == MenuType.GAME || target == MenuType.SETTINGS ||
                         target == MenuType.NEWS || target == MenuType.PROFILE ||
-                        target == MenuType.GREENHOUSE || target == MenuType.SHOP || target == MenuType.TRAVEL_LOG || target == MenuType.PLANT_SELECTION) {
+                        target == MenuType.GREENHOUSE || target == MenuType.SHOP || target == MenuType.TRAVEL_LOG ||
+                        target == MenuType.PLANT_SELECTION || target == MenuType.MINI_GAMES) {
                     canEnter = true;
                 }
                 break;
@@ -171,6 +176,7 @@ public class MenuController {
             case NEWS:
             case PROFILE:
             case GREENHOUSE:
+            case MINI_GAMES:
                 setCurrentMenu(MenuType.MAIN);
                 consoleView.printMessage("به منوی اصلی بازگشتید.");
                 break;

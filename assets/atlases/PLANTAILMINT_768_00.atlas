@@ -1,0 +1,236 @@
+PLANTAILMINT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_116X101
+  rotate: false
+  xy: 1, 178
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_119X119
+  rotate: false
+  xy: 117, 108
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_13X13
+  rotate: false
+  xy: 64, 256
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_141X163
+  rotate: false
+  xy: 117, 1
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_14X13
+  rotate: false
+  xy: 64, 267
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_14X13_2
+  rotate: false
+  xy: 246, 300
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_14X8
+  rotate: false
+  xy: 77, 178
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_15X10
+  rotate: false
+  xy: 105, 303
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_15X14
+  rotate: false
+  xy: 64, 245
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_15X17
+  rotate: false
+  xy: 195, 108
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_178X273
+  rotate: false
+  xy: 1, 1
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_19X17
+  rotate: false
+  xy: 240, 221
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_20X16
+  rotate: false
+  xy: 240, 234
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_20X16_2
+  rotate: false
+  xy: 240, 246
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_25X29
+  rotate: false
+  xy: 105, 282
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_25X64
+  rotate: false
+  xy: 222, 221
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_27X14
+  rotate: false
+  xy: 222, 312
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_33X16
+  rotate: false
+  xy: 40, 294
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_34X15
+  rotate: false
+  xy: 222, 300
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_43X15
+  rotate: false
+  xy: 222, 288
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_49X15
+  rotate: false
+  xy: 222, 276
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_52X16
+  rotate: false
+  xy: 222, 264
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_53X148
+  rotate: false
+  xy: 186, 221
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_55X48
+  rotate: false
+  xy: 105, 313
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_57X50
+  rotate: false
+  xy: 1, 294
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_61X49
+  rotate: false
+  xy: 64, 282
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_66X190
+  rotate: false
+  xy: 209, 1
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_72X73
+  rotate: false
+  xy: 128, 264
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_76X147
+  rotate: false
+  xy: 77, 186
+  size: 49, 94
+  orig: 49, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_82X146
+  rotate: false
+  xy: 195, 125
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_82X24
+  rotate: false
+  xy: 40, 316
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_87X119
+  rotate: false
+  xy: 128, 186
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_AILMINT_AILMINT_95X73
+  rotate: false
+  xy: 1, 245
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1

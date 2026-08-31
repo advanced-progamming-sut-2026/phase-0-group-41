@@ -1,0 +1,502 @@
+ZOMBIELEPRACHAUNDODOGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_12X22
+  rotate: false
+  xy: 72, 246
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_135X8
+  rotate: false
+  xy: 1, 220
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_13X15
+  rotate: false
+  xy: 424, 231
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_14X11
+  rotate: false
+  xy: 195, 246
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_14X29
+  rotate: false
+  xy: 337, 242
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_16X24
+  rotate: false
+  xy: 60, 246
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_16X26
+  rotate: false
+  xy: 286, 245
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_17X17
+  rotate: false
+  xy: 174, 213
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_17X23
+  rotate: false
+  xy: 22, 246
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_17X25
+  rotate: false
+  xy: 501, 239
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_17X27
+  rotate: false
+  xy: 488, 239
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_186X195
+  rotate: false
+  xy: 339, 1
+  size: 119, 125
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_18X39
+  rotate: false
+  xy: 307, 227
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_19X26
+  rotate: false
+  xy: 232, 234
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_20X20
+  rotate: false
+  xy: 464, 245
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_20X29
+  rotate: false
+  xy: 88, 233
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_21X25
+  rotate: false
+  xy: 216, 234
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_21X30
+  rotate: false
+  xy: 392, 231
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_227X228
+  rotate: false
+  xy: 191, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_22X22
+  rotate: false
+  xy: 350, 241
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_22X22_2
+  rotate: false
+  xy: 321, 242
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_22X22_3
+  rotate: false
+  xy: 44, 243
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_22X28
+  rotate: false
+  xy: 408, 231
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_23X23
+  rotate: false
+  xy: 149, 234
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_23X35
+  rotate: false
+  xy: 269, 225
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_25X18
+  rotate: false
+  xy: 424, 244
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_25X42
+  rotate: false
+  xy: 470, 216
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_27X26
+  rotate: false
+  xy: 68, 227
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_28X76
+  rotate: false
+  xy: 309, 149
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_29X17
+  rotate: false
+  xy: 124, 237
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_29X18
+  rotate: false
+  xy: 103, 233
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_29X24
+  rotate: false
+  xy: 286, 227
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_29X27
+  rotate: false
+  xy: 195, 226
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_30X28
+  rotate: false
+  xy: 1, 227
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_30X30
+  rotate: false
+  xy: 350, 220
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_30X30_2
+  rotate: false
+  xy: 248, 225
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_30X30_3
+  rotate: false
+  xy: 371, 225
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_30X30_4
+  rotate: false
+  xy: 174, 226
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_31X14
+  rotate: false
+  xy: 442, 244
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_31X26
+  rotate: false
+  xy: 22, 227
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_31X33
+  rotate: false
+  xy: 488, 216
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_32X34
+  rotate: false
+  xy: 126, 213
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_33X31
+  rotate: false
+  xy: 327, 220
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_33X40
+  rotate: false
+  xy: 225, 206
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_34X21
+  rotate: false
+  xy: 44, 227
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_35X30
+  rotate: false
+  xy: 149, 213
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_36X28
+  rotate: false
+  xy: 436, 224
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_37X41
+  rotate: false
+  xy: 373, 197
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_42X34
+  rotate: false
+  xy: 97, 209
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_49X55
+  rotate: false
+  xy: 436, 187
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_50X69
+  rotate: false
+  xy: 402, 185
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_53X28
+  rotate: false
+  xy: 189, 206
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_54X39
+  rotate: false
+  xy: 290, 200
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_59X42
+  rotate: false
+  xy: 470, 187
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_59X42_2
+  rotate: false
+  xy: 250, 196
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_61X69
+  rotate: false
+  xy: 56, 172
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_63X60
+  rotate: false
+  xy: 146, 172
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_66X33
+  rotate: false
+  xy: 329, 197
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_6X6
+  rotate: false
+  xy: 329, 156
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_70X71
+  rotate: false
+  xy: 463, 98
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_73X54
+  rotate: false
+  xy: 97, 172
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_74X68
+  rotate: false
+  xy: 460, 52
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_76X56
+  rotate: false
+  xy: 463, 149
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_76X76
+  rotate: false
+  xy: 460, 1
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_7X7
+  rotate: false
+  xy: 329, 149
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_83X72
+  rotate: false
+  xy: 1, 172
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_88X85
+  rotate: false
+  xy: 191, 149
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_89X70
+  rotate: false
+  xy: 250, 149
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_92X85
+  rotate: false
+  xy: 402, 128
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_DODORIDER_ZOMBIE_STPATRICKS_DODORIDER_95X105
+  rotate: false
+  xy: 339, 128
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1

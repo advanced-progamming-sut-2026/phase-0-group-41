@@ -1,0 +1,26 @@
+PROTECTTHEPLANTCHALLENGEMODULE_768_00.PNG
+size: 256, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_PROTECT_TILE_PROTECT_TILE_112X125
+  rotate: false
+  xy: 174, 1
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PROTECT_TILE_PROTECT_TILE_131X155
+  rotate: false
+  xy: 88, 1
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_PROTECT_TILE_PROTECT_TILE_133X157
+  rotate: false
+  xy: 1, 1
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1

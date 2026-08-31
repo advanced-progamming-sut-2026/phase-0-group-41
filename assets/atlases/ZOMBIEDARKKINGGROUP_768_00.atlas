@@ -1,0 +1,474 @@
+ZOMBIEDARKKINGGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_101X51
+  rotate: false
+  xy: 215, 332
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_10X12
+  rotate: false
+  xy: 307, 413
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_132X239
+  rotate: false
+  xy: 352, 159
+  size: 85, 153
+  orig: 85, 153
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_13X13
+  rotate: false
+  xy: 467, 302
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_13X22
+  rotate: false
+  xy: 501, 226
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_13X23
+  rotate: false
+  xy: 501, 209
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_14X11
+  rotate: false
+  xy: 479, 149
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_156X117
+  rotate: false
+  xy: 1, 332
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_15X16
+  rotate: false
+  xy: 501, 242
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_15X26
+  rotate: false
+  xy: 499, 190
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_16X29
+  rotate: false
+  xy: 499, 169
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_171X71
+  rotate: false
+  xy: 103, 332
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_17X17
+  rotate: false
+  xy: 500, 413
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_17X21
+  rotate: false
+  xy: 500, 397
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_17X27
+  rotate: false
+  xy: 499, 149
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_17X7
+  rotate: false
+  xy: 306, 450
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_18X13
+  rotate: false
+  xy: 439, 302
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_18X13_2
+  rotate: false
+  xy: 453, 302
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_195X243
+  rotate: false
+  xy: 352, 1
+  size: 125, 156
+  orig: 125, 156
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_201X136
+  rotate: false
+  xy: 352, 314
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_20X20
+  rotate: false
+  xy: 291, 438
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_21X25
+  rotate: false
+  xy: 262, 367
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_22X27
+  rotate: false
+  xy: 385, 447
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_22X28
+  rotate: false
+  xy: 401, 447
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_29X31
+  rotate: false
+  xy: 492, 280
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_30X30
+  rotate: false
+  xy: 270, 438
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_30X32
+  rotate: false
+  xy: 492, 257
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_31X21
+  rotate: false
+  xy: 150, 443
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_31X30
+  rotate: false
+  xy: 248, 438
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_32X31
+  rotate: false
+  xy: 325, 376
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_32X49
+  rotate: false
+  xy: 190, 380
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_32X59
+  rotate: false
+  xy: 429, 424
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_34X103
+  rotate: false
+  xy: 483, 302
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_34X27
+  rotate: false
+  xy: 488, 431
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_34X41
+  rotate: false
+  xy: 37, 430
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_36X38
+  rotate: false
+  xy: 483, 370
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_37X66
+  rotate: false
+  xy: 325, 332
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_39X66
+  rotate: false
+  xy: 67, 409
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_41X116
+  rotate: false
+  xy: 479, 1
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_41X20
+  rotate: false
+  xy: 94, 439
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_41X20_2
+  rotate: false
+  xy: 122, 443
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_47X31
+  rotate: false
+  xy: 479, 127
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_48X25
+  rotate: false
+  xy: 215, 436
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_48X74
+  rotate: false
+  xy: 479, 77
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_51X30
+  rotate: false
+  xy: 180, 436
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_52X29
+  rotate: false
+  xy: 452, 431
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_52X31
+  rotate: false
+  xy: 1, 430
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_545X514
+  rotate: false
+  xy: 1, 1
+  size: 349, 329
+  orig: 349, 329
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_56X88
+  rotate: false
+  xy: 103, 380
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_58X37
+  rotate: false
+  xy: 141, 417
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_58X37_2
+  rotate: false
+  xy: 307, 424
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_58X37_3
+  rotate: false
+  xy: 346, 424
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_64X79
+  rotate: false
+  xy: 282, 332
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_66X33
+  rotate: false
+  xy: 385, 424
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_67X35
+  rotate: false
+  xy: 262, 413
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_68X41
+  rotate: false
+  xy: 454, 403
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_70X71
+  rotate: false
+  xy: 215, 367
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_73X54
+  rotate: false
+  xy: 141, 380
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_7X7
+  rotate: false
+  xy: 490, 149
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_80X67
+  rotate: false
+  xy: 439, 257
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_90X86
+  rotate: false
+  xy: 439, 159
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_91X40
+  rotate: false
+  xy: 262, 385
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_93X60
+  rotate: false
+  xy: 439, 216
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_99X29
+  rotate: false
+  xy: 322, 403
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_99X29_2
+  rotate: false
+  xy: 388, 403
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_99X29_3
+  rotate: false
+  xy: 1, 409
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DARK_KING_ZOMBIE_DARK_KING_99X29_4
+  rotate: false
+  xy: 190, 415
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,334 @@
+PLANTBLOCKOLI_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BLOCKOLI_SHOCKWAVE_FX_BLOCKOLI_SHOCKWAVE_FX_173X92
+  rotate: false
+  xy: 178, 519
+  size: 111, 59
+  orig: 111, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_105X155
+  rotate: false
+  xy: 282, 318
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_106X69
+  rotate: false
+  xy: 1, 532
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_111X155
+  rotate: false
+  xy: 105, 440
+  size: 71, 99
+  orig: 71, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_119X112
+  rotate: false
+  xy: 178, 440
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_123X152
+  rotate: false
+  xy: 282, 419
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_123X153
+  rotate: false
+  xy: 363, 419
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_128X122
+  rotate: false
+  xy: 1, 452
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_12X13
+  rotate: false
+  xy: 183, 288
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_13X14
+  rotate: false
+  xy: 180, 302
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_159X149
+  rotate: false
+  xy: 1, 354
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_15X13
+  rotate: false
+  xy: 168, 302
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_16X15
+  rotate: false
+  xy: 501, 163
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_16X21
+  rotate: false
+  xy: 501, 147
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_174X187
+  rotate: false
+  xy: 168, 318
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_177X249
+  rotate: false
+  xy: 359, 147
+  size: 114, 160
+  orig: 114, 160
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_199X168
+  rotate: false
+  xy: 353, 309
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_20X19
+  rotate: false
+  xy: 168, 288
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_22X21
+  rotate: false
+  xy: 168, 272
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_232X225
+  rotate: false
+  xy: 359, 1
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_245X218
+  rotate: false
+  xy: 194, 176
+  size: 157, 140
+  orig: 157, 140
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_24X22
+  rotate: false
+  xy: 168, 244
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_24X28
+  rotate: false
+  xy: 168, 224
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_254X270
+  rotate: false
+  xy: 194, 1
+  size: 163, 173
+  orig: 163, 173
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_258X200
+  rotate: false
+  xy: 1, 224
+  size: 165, 128
+  orig: 165, 128
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_298X345
+  rotate: false
+  xy: 1, 1
+  size: 191, 221
+  orig: 191, 221
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_33X15
+  rotate: false
+  xy: 168, 260
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_37X33
+  rotate: false
+  xy: 475, 147
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_37X33_2
+  rotate: false
+  xy: 483, 308
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_37X33_3
+  rotate: false
+  xy: 483, 331
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_38X28
+  rotate: false
+  xy: 483, 354
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_47X50
+  rotate: false
+  xy: 235, 580
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_51X71
+  rotate: false
+  xy: 164, 580
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_52X78
+  rotate: false
+  xy: 475, 226
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_53X53
+  rotate: false
+  xy: 199, 580
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_56X43
+  rotate: false
+  xy: 475, 278
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_57X75
+  rotate: false
+  xy: 475, 176
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_59X29
+  rotate: false
+  xy: 112, 587
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_60X113
+  rotate: false
+  xy: 448, 520
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_61X91
+  rotate: false
+  xy: 71, 541
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_72X117
+  rotate: false
+  xy: 400, 520
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_76X67
+  rotate: false
+  xy: 1, 578
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_77X150
+  rotate: false
+  xy: 291, 519
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_78X69
+  rotate: false
+  xy: 112, 541
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_82X155
+  rotate: false
+  xy: 444, 419
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_86X134
+  rotate: false
+  xy: 343, 519
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOCKOLI_BLOCKOLI_94X108
+  rotate: false
+  xy: 105, 354
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,327 @@
+ZOMBIEZOYBEANPODBASICGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_101X48
+  rotate: false
+  xy: 63, 287
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_104X46
+  rotate: false
+  xy: 130, 315
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_105X78
+  rotate: false
+  xy: 124, 185
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_116X46
+  rotate: false
+  xy: 156, 283
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_116X90
+  rotate: false
+  xy: 168, 125
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_124X124
+  rotate: false
+  xy: 86, 49
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_130X151
+  rotate: false
+  xy: 1, 1
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_135X8
+  rotate: false
+  xy: 1, 363
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_13X40
+  rotate: false
+  xy: 246, 63
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_14X32
+  rotate: false
+  xy: 152, 161
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_15X39
+  rotate: false
+  xy: 105, 198
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_15X46
+  rotate: false
+  xy: 244, 149
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_16X36
+  rotate: false
+  xy: 246, 233
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_17X44
+  rotate: false
+  xy: 152, 131
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_17X50
+  rotate: false
+  xy: 244, 115
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_21X42
+  rotate: false
+  xy: 230, 63
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_223X72
+  rotate: false
+  xy: 86, 1
+  size: 143, 46
+  orig: 143, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_23X35
+  rotate: false
+  xy: 63, 100
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_28X33
+  rotate: false
+  xy: 230, 92
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_30X22
+  rotate: false
+  xy: 107, 320
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_32X23
+  rotate: false
+  xy: 130, 287
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_36X23
+  rotate: false
+  xy: 232, 283
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_37X43
+  rotate: false
+  xy: 231, 33
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_37X46
+  rotate: false
+  xy: 231, 1
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_40X78
+  rotate: false
+  xy: 124, 131
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_42X35
+  rotate: false
+  xy: 182, 356
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_44X26
+  rotate: false
+  xy: 156, 263
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_52X37
+  rotate: false
+  xy: 156, 237
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_53X30
+  rotate: false
+  xy: 146, 347
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_54X54
+  rotate: false
+  xy: 1, 326
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_57X42
+  rotate: false
+  xy: 107, 347
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_66X63
+  rotate: false
+  xy: 63, 320
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_6X6
+  rotate: false
+  xy: 250, 98
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_71X85
+  rotate: false
+  xy: 57, 198
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_76X47
+  rotate: false
+  xy: 52, 255
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_76X61
+  rotate: false
+  xy: 199, 315
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_76X75
+  rotate: false
+  xy: 1, 237
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_76X75_2
+  rotate: false
+  xy: 105, 237
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_7X7
+  rotate: false
+  xy: 250, 91
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_80X75
+  rotate: false
+  xy: 193, 233
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_84X92
+  rotate: false
+  xy: 1, 176
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_91X72
+  rotate: false
+  xy: 193, 185
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_92X101
+  rotate: false
+  xy: 63, 131
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_94X116
+  rotate: false
+  xy: 168, 49
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_94X116_2
+  rotate: false
+  xy: 1, 100
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOYBEANPOD_ZOMBIE_ZOYBEANPOD_ZOMBIE_94X57
+  rotate: false
+  xy: 1, 287
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,824 @@
+WORLDMAP_EIGHTIES_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_DANGER_LEVEL_EIGHTIES
+  rotate: false
+  xy: 1872, 679
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_104X72
+  rotate: false
+  xy: 1, 920
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_106X76
+  rotate: false
+  xy: 1268, 293
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_114X193
+  rotate: false
+  xy: 287, 863
+  size: 73, 124
+  orig: 73, 124
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_116X54
+  rotate: false
+  xy: 1903, 162
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_118X40
+  rotate: false
+  xy: 1382, 1043
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_118X49
+  rotate: false
+  xy: 1308, 729
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_128X215
+  rotate: false
+  xy: 203, 774
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_136X129
+  rotate: false
+  xy: 1, 974
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_144X136
+  rotate: false
+  xy: 191, 914
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_14X74
+  rotate: false
+  xy: 2039, 200
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_174X165
+  rotate: false
+  xy: 89, 774
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_177X75
+  rotate: false
+  xy: 586, 1043
+  size: 114, 48
+  orig: 114, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_177X89
+  rotate: false
+  xy: 176, 1003
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_181X165
+  rotate: false
+  xy: 1308, 621
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_194X194
+  rotate: false
+  xy: 1182, 621
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_1X1
+  rotate: false
+  xy: 2045, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_1X1_2
+  rotate: false
+  xy: 2045, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_202X135
+  rotate: false
+  xy: 287, 774
+  size: 130, 87
+  orig: 130, 87
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_20X60
+  rotate: false
+  xy: 2032, 159
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_249X267
+  rotate: false
+  xy: 1268, 448
+  size: 160, 171
+  orig: 160, 171
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_273X258
+  rotate: false
+  xy: 1823, 365
+  size: 175, 165
+  orig: 175, 165
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_288X87
+  rotate: false
+  xy: 1426, 703
+  size: 185, 56
+  orig: 185, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_28X118
+  rotate: false
+  xy: 2026, 931
+  size: 18, 76
+  orig: 18, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_303X7
+  rotate: false
+  xy: 151, 1080
+  size: 194, 5
+  orig: 194, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_30X28
+  rotate: false
+  xy: 1763, 680
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_30X30
+  rotate: false
+  xy: 1785, 657
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_313X254
+  rotate: false
+  xy: 1620, 365
+  size: 201, 163
+  orig: 201, 163
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_31X172
+  rotate: false
+  xy: 1282, 1043
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_31X182
+  rotate: false
+  xy: 1260, 1043
+  size: 20, 117
+  orig: 20, 117
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_31X244
+  rotate: false
+  xy: 2017, 1
+  size: 20, 156
+  orig: 20, 156
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_31X244_2
+  rotate: false
+  xy: 1244, 452
+  size: 20, 156
+  orig: 20, 156
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_31X33
+  rotate: false
+  xy: 1763, 657
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_34X90
+  rotate: false
+  xy: 1753, 1043
+  size: 22, 58
+  orig: 22, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_37X36
+  rotate: false
+  xy: 2022, 804
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_39X100
+  rotate: false
+  xy: 2022, 738
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_39X74
+  rotate: false
+  xy: 90, 1057
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_40X80
+  rotate: false
+  xy: 1725, 1043
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_41X87
+  rotate: false
+  xy: 1934, 679
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_43X141
+  rotate: false
+  xy: 1827, 880
+  size: 28, 90
+  orig: 28, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_43X81
+  rotate: false
+  xy: 1657, 1043
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_43X95
+  rotate: false
+  xy: 460, 923
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_44X161
+  rotate: false
+  xy: 1075, 1043
+  size: 28, 103
+  orig: 28, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_46X129
+  rotate: false
+  xy: 1146, 680
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_46X55
+  rotate: false
+  xy: 1, 1059
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_46X55_2
+  rotate: false
+  xy: 33, 1059
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_47X98
+  rotate: false
+  xy: 1545, 1043
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_485X320
+  rotate: false
+  xy: 1339, 1
+  size: 311, 205
+  orig: 311, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_50X54
+  rotate: false
+  xy: 117, 1057
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_51X53
+  rotate: false
+  xy: 1386, 729
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_51X83
+  rotate: false
+  xy: 1622, 1043
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_56X57
+  rotate: false
+  xy: 1687, 1043
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_57X26
+  rotate: false
+  xy: 2000, 512
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_58X344
+  rotate: false
+  xy: 491, 774
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_58X83
+  rotate: false
+  xy: 1460, 1043
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_61X159
+  rotate: false
+  xy: 867, 1043
+  size: 39, 102
+  orig: 39, 102
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_62X93
+  rotate: false
+  xy: 1735, 703
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_62X93_2
+  rotate: false
+  xy: 1169, 1043
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_66X160
+  rotate: false
+  xy: 777, 1043
+  size: 42, 103
+  orig: 42, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_67X64
+  rotate: false
+  xy: 1577, 1043
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_68X132
+  rotate: false
+  xy: 908, 1043
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_68X145
+  rotate: false
+  xy: 821, 1043
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_6X36
+  rotate: false
+  xy: 2039, 24
+  size: 4, 23
+  orig: 4, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_73X78
+  rotate: false
+  xy: 1211, 1043
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_75X88
+  rotate: false
+  xy: 1763, 598
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_79X58
+  rotate: false
+  xy: 1979, 162
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_89X85
+  rotate: false
+  xy: 1016, 1043
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_93X91
+  rotate: false
+  xy: 954, 1043
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_95X36
+  rotate: false
+  xy: 292, 989
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_97X71
+  rotate: false
+  xy: 1105, 1043
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_EIGHTIES_DANGER_NODE_EIGHTIES_9X32
+  rotate: false
+  xy: 2039, 1
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND1
+  rotate: false
+  xy: 1, 774
+  size: 86, 144
+  orig: 86, 144
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND10
+  rotate: false
+  xy: 1430, 598
+  size: 178, 95
+  orig: 178, 95
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND11
+  rotate: false
+  xy: 1304, 1043
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND12
+  rotate: false
+  xy: 1872, 738
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND13
+  rotate: false
+  xy: 504, 1043
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND14
+  rotate: false
+  xy: 1182, 570
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND15
+  rotate: false
+  xy: 1788, 679
+  size: 82, 199
+  orig: 82, 199
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND16
+  rotate: false
+  xy: 292, 1016
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND17
+  rotate: false
+  xy: 362, 923
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND18
+  rotate: false
+  xy: 1788, 880
+  size: 37, 180
+  orig: 37, 180
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND19
+  rotate: false
+  xy: 2000, 365
+  size: 37, 145
+  orig: 37, 145
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND2
+  rotate: false
+  xy: 1613, 703
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND20
+  rotate: false
+  xy: 736, 1043
+  size: 39, 117
+  orig: 39, 117
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND21
+  rotate: false
+  xy: 702, 1043
+  size: 32, 155
+  orig: 32, 155
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND22
+  rotate: false
+  xy: 398, 1016
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND23
+  rotate: false
+  xy: 89, 882
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND24
+  rotate: false
+  xy: 1015, 570
+  size: 165, 108
+  orig: 165, 108
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND25
+  rotate: false
+  xy: 1888, 1018
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND26
+  rotate: false
+  xy: 1937, 832
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND27
+  rotate: false
+  xy: 1015, 452
+  size: 227, 116
+  orig: 227, 116
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND28
+  rotate: false
+  xy: 1827, 983
+  size: 59, 111
+  orig: 59, 111
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND29
+  rotate: false
+  xy: 1268, 347
+  size: 350, 99
+  orig: 350, 99
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND3
+  rotate: false
+  xy: 90, 974
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND30
+  rotate: false
+  xy: 1994, 1018
+  size: 49, 111
+  orig: 49, 111
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND31
+  rotate: false
+  xy: 1818, 532
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND32
+  rotate: false
+  xy: 1903, 1
+  size: 112, 159
+  orig: 112, 159
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND33
+  rotate: false
+  xy: 419, 774
+  size: 70, 147
+  orig: 70, 147
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND34
+  rotate: false
+  xy: 1786, 206
+  size: 251, 157
+  orig: 251, 157
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND35
+  rotate: false
+  xy: 1015, 293
+  size: 251, 157
+  orig: 251, 157
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND36
+  rotate: false
+  xy: 1499, 1043
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND37
+  rotate: false
+  xy: 1610, 598
+  size: 151, 103
+  orig: 151, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND38
+  rotate: false
+  xy: 536, 765
+  size: 1250, 276
+  orig: 1250, 276
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND39
+  rotate: false
+  xy: 536, 1
+  size: 477, 762
+  orig: 477, 762
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND4
+  rotate: false
+  xy: 1965, 532
+  size: 82, 204
+  orig: 82, 204
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND40
+  rotate: false
+  xy: 1430, 448
+  size: 181, 68
+  orig: 181, 68
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND41
+  rotate: false
+  xy: 1430, 530
+  size: 386, 66
+  orig: 386, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND42
+  rotate: false
+  xy: 1339, 208
+  size: 445, 137
+  orig: 445, 137
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND43
+  rotate: false
+  xy: 1652, 1
+  size: 249, 203
+  orig: 249, 203
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND44
+  rotate: false
+  xy: 1015, 1
+  size: 322, 290
+  orig: 322, 290
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND45
+  rotate: false
+  xy: 1872, 832
+  size: 63, 149
+  orig: 63, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND5
+  rotate: false
+  xy: 1015, 680
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND6
+  rotate: false
+  xy: 1888, 983
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND7
+  rotate: false
+  xy: 504, 996
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND8
+  rotate: false
+  xy: 362, 863
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EIGHTIES_ISLAND9
+  rotate: false
+  xy: 1937, 931
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_EIGHTIES_ZOMBOSS_NODE_EIGHTIES_833X1205
+  rotate: false
+  xy: 1, 1
+  size: 533, 771
+  orig: 533, 771
+  offset: 0, 0
+  index: -1

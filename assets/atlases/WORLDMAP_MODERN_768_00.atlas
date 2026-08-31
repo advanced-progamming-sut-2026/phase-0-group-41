@@ -1,0 +1,271 @@
+WORLDMAP_MODERN_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_MODERN_ISLAND1
+  rotate: false
+  xy: 200, 758
+  size: 225, 118
+  orig: 225, 118
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND10
+  rotate: false
+  xy: 1579, 496
+  size: 288, 348
+  orig: 288, 348
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND11
+  rotate: false
+  xy: 494, 941
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND12
+  rotate: false
+  xy: 1432, 509
+  size: 117, 248
+  orig: 117, 248
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND13
+  rotate: false
+  xy: 1432, 759
+  size: 105, 79
+  orig: 105, 79
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND14
+  rotate: false
+  xy: 1579, 1
+  size: 298, 493
+  orig: 298, 493
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND15
+  rotate: false
+  xy: 1869, 671
+  size: 179, 150
+  orig: 179, 150
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND16
+  rotate: false
+  xy: 648, 858
+  size: 137, 146
+  orig: 137, 146
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND17
+  rotate: false
+  xy: 1, 901
+  size: 96, 138
+  orig: 96, 138
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND18
+  rotate: false
+  xy: 1369, 856
+  size: 58, 188
+  orig: 58, 188
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND19
+  rotate: false
+  xy: 1869, 823
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND2
+  rotate: false
+  xy: 787, 858
+  size: 189, 96
+  orig: 189, 96
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND20
+  rotate: false
+  xy: 1147, 1
+  size: 430, 506
+  orig: 430, 506
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND21
+  rotate: false
+  xy: 680, 509
+  size: 495, 347
+  orig: 495, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND22
+  rotate: false
+  xy: 1879, 439
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND23
+  rotate: false
+  xy: 335, 878
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND24
+  rotate: false
+  xy: 1177, 722
+  size: 253, 132
+  orig: 253, 132
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND25
+  rotate: false
+  xy: 427, 863
+  size: 193, 76
+  orig: 193, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND26
+  rotate: false
+  xy: 1879, 1
+  size: 166, 239
+  orig: 166, 239
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND27
+  rotate: false
+  xy: 1432, 846
+  size: 203, 107
+  orig: 203, 107
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND28
+  rotate: false
+  xy: 427, 758
+  size: 219, 103
+  orig: 219, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND29
+  rotate: false
+  xy: 1, 758
+  size: 197, 141
+  orig: 197, 141
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND3
+  rotate: false
+  xy: 1177, 856
+  size: 190, 107
+  orig: 190, 107
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND30
+  rotate: false
+  xy: 1780, 846
+  size: 78, 172
+  orig: 78, 172
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND31
+  rotate: false
+  xy: 1375, 509
+  size: 52, 130
+  orig: 52, 130
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND32
+  rotate: false
+  xy: 1429, 955
+  size: 53, 114
+  orig: 53, 114
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND33
+  rotate: false
+  xy: 1177, 509
+  size: 196, 211
+  orig: 196, 211
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND34
+  rotate: false
+  xy: 1869, 496
+  size: 178, 173
+  orig: 178, 173
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND35
+  rotate: false
+  xy: 1637, 846
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND36
+  rotate: false
+  xy: 1484, 955
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND4
+  rotate: false
+  xy: 335, 941
+  size: 157, 80
+  orig: 157, 80
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND5
+  rotate: false
+  xy: 99, 901
+  size: 63, 149
+  orig: 63, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND6
+  rotate: false
+  xy: 978, 858
+  size: 189, 94
+  orig: 189, 94
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND7
+  rotate: false
+  xy: 200, 878
+  size: 133, 104
+  orig: 133, 104
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND8
+  rotate: false
+  xy: 978, 954
+  size: 149, 72
+  orig: 149, 72
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ISLAND9
+  rotate: false
+  xy: 1879, 242
+  size: 160, 195
+  orig: 160, 195
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ZOMBOSS_MODERN_DAY
+  rotate: false
+  xy: 680, 1
+  size: 465, 471
+  orig: 465, 471
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_MODERN_ZOMBOSS_NODE_MODERN_1058X1180
+  rotate: false
+  xy: 1, 1
+  size: 677, 755
+  orig: 677, 755
+  offset: 0, 0
+  index: -1

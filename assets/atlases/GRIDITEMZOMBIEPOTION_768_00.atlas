@@ -1,0 +1,439 @@
+GRIDITEMZOMBIEPOTION_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_104X93
+  rotate: false
+  xy: 416, 201
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_147X152
+  rotate: false
+  xy: 381, 1
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_1X1
+  rotate: false
+  xy: 505, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_23X14
+  rotate: false
+  xy: 188, 336
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_56X44
+  rotate: false
+  xy: 112, 336
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_74X78
+  rotate: false
+  xy: 365, 323
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_DESTROYED_EFFECT_POWER_POTION_DESTROYED_EFFECT_85X77
+  rotate: false
+  xy: 112, 284
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_POOF_EFFECT_POWER_POTION_POOF_EFFECT_163X65
+  rotate: false
+  xy: 72, 172
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_POOF_EFFECT_POWER_POTION_POOF_EFFECT_49X59
+  rotate: false
+  xy: 477, 1
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_SPLASH_EFFECT_POWER_POTION_SPLASH_EFFECT_23X14
+  rotate: false
+  xy: 205, 336
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_SPLASH_EFFECT_POWER_POTION_SPLASH_EFFECT_78X89
+  rotate: false
+  xy: 313, 270
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POWER_POTION_SPLASH_EFFECT_POWER_POTION_SPLASH_EFFECT_85X77
+  rotate: false
+  xy: 169, 284
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_104X93
+  rotate: false
+  xy: 72, 216
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_147X152
+  rotate: false
+  xy: 381, 101
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_1X1
+  rotate: false
+  xy: 508, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_23X14
+  rotate: false
+  xy: 333, 341
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_293X263
+  rotate: false
+  xy: 191, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_56X44
+  rotate: false
+  xy: 150, 336
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_74X78
+  rotate: false
+  xy: 415, 325
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_DESTROYED_EFFECT_SPEED_POTION_DESTROYED_EFFECT_85X77
+  rotate: false
+  xy: 226, 304
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_POOF_EFFECT_SPEED_POTION_POOF_EFFECT_163X65
+  rotate: false
+  xy: 179, 172
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_POOF_EFFECT_SPEED_POTION_POOF_EFFECT_49X59
+  rotate: false
+  xy: 477, 41
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_SPLASH_EFFECT_SPEED_POTION_SPLASH_EFFECT_23X14
+  rotate: false
+  xy: 333, 352
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_SPLASH_EFFECT_SPEED_POTION_SPLASH_EFFECT_78X89
+  rotate: false
+  xy: 60, 278
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPEED_POTION_SPLASH_EFFECT_SPEED_POTION_SPLASH_EFFECT_85X77
+  rotate: false
+  xy: 1, 306
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_100X105
+  rotate: false
+  xy: 350, 201
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_107X102
+  rotate: false
+  xy: 1, 172
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_179X50
+  rotate: false
+  xy: 141, 216
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_17X15
+  rotate: false
+  xy: 298, 317
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_17X17
+  rotate: false
+  xy: 298, 304
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_20X22
+  rotate: false
+  xy: 242, 284
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_20X25
+  rotate: false
+  xy: 485, 242
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_22X22
+  rotate: false
+  xy: 328, 244
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_22X49
+  rotate: false
+  xy: 497, 131
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_26X16
+  rotate: false
+  xy: 333, 329
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_27X33
+  rotate: false
+  xy: 258, 216
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_27X42
+  rotate: false
+  xy: 477, 131
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_34X28
+  rotate: false
+  xy: 350, 172
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_61X78
+  rotate: false
+  xy: 469, 263
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_72X18
+  rotate: false
+  xy: 188, 356
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_80X93
+  rotate: false
+  xy: 416, 263
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_89X99
+  rotate: false
+  xy: 1, 240
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_POWER_POTION_POWER_96X109
+  rotate: false
+  xy: 286, 172
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_15X15
+  rotate: false
+  xy: 352, 329
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_179X50
+  rotate: false
+  xy: 141, 250
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_18X14
+  rotate: false
+  xy: 97, 337
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_18X18
+  rotate: false
+  xy: 500, 242
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_20X22
+  rotate: false
+  xy: 283, 304
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_20X25
+  rotate: false
+  xy: 313, 244
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_22X22
+  rotate: false
+  xy: 226, 284
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_22X49
+  rotate: false
+  xy: 497, 165
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_27X33
+  rotate: false
+  xy: 485, 219
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_27X42
+  rotate: false
+  xy: 477, 160
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_34X28
+  rotate: false
+  xy: 485, 199
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_41X42
+  rotate: false
+  xy: 477, 81
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_50X30
+  rotate: false
+  xy: 477, 110
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_58X41
+  rotate: false
+  xy: 58, 337
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_61X78
+  rotate: false
+  xy: 469, 315
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_74X80
+  rotate: false
+  xy: 365, 270
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_75X70
+  rotate: false
+  xy: 283, 329
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_POTION_SPEED_POTION_SPEED_83X91
+  rotate: false
+  xy: 258, 244
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1

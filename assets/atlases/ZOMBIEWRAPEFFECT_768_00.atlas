@@ -1,0 +1,47 @@
+ZOMBIEWRAPEFFECT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_THYMEWARP_GARGANTUAR_WARP_THYMEWARP_GARGANTUAR_WARP_162X149
+  rotate: false
+  xy: 130, 102
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_THYMEWARP_GARGANTUAR_WARP_THYMEWARP_GARGANTUAR_WARP_178X70
+  rotate: false
+  xy: 107, 200
+  size: 114, 45
+  orig: 114, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_THYMEWARP_GARGANTUAR_WARP_THYMEWARP_GARGANTUAR_WARP_265X155
+  rotate: false
+  xy: 1, 1
+  size: 170, 99
+  orig: 170, 99
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_THYMEWARP_ZOMBIE_WARP_THYMEWARP_ZOMBIE_WARP_162X149
+  rotate: false
+  xy: 1, 184
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_THYMEWARP_ZOMBIE_WARP_THYMEWARP_ZOMBIE_WARP_178X70
+  rotate: false
+  xy: 107, 247
+  size: 114, 45
+  orig: 114, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_THYMEWARP_ZOMBIE_WARP_THYMEWARP_ZOMBIE_WARP_198X124
+  rotate: false
+  xy: 1, 102
+  size: 127, 80
+  orig: 127, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,327 @@
+LOSTCITYLOOTPINATAS_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PLACEHOLDER
+  rotate: false
+  xy: 498, 1
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_102X202
+  rotate: false
+  xy: 375, 93
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_109X109
+  rotate: false
+  xy: 344, 634
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_113X113
+  rotate: false
+  xy: 269, 634
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_120X129
+  rotate: false
+  xy: 375, 225
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_162X39
+  rotate: false
+  xy: 375, 310
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_188X141
+  rotate: false
+  xy: 375, 1
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_24X20
+  rotate: false
+  xy: 495, 128
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_24X23
+  rotate: false
+  xy: 495, 111
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_25X25
+  rotate: false
+  xy: 495, 93
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_26X23
+  rotate: false
+  xy: 495, 445
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_280X245
+  rotate: false
+  xy: 267, 365
+  size: 179, 157
+  orig: 179, 157
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_28X26
+  rotate: false
+  xy: 448, 445
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_28X29
+  rotate: false
+  xy: 492, 409
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_29X29
+  rotate: false
+  xy: 493, 207
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_29X31
+  rotate: false
+  xy: 448, 407
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_30X25
+  rotate: false
+  xy: 468, 448
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_318X169
+  rotate: false
+  xy: 269, 524
+  size: 204, 108
+  orig: 204, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_31X24
+  rotate: false
+  xy: 473, 430
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_32X29
+  rotate: false
+  xy: 485, 347
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_32X30
+  rotate: false
+  xy: 485, 368
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_32X30_2
+  rotate: false
+  xy: 448, 386
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_32X35
+  rotate: false
+  xy: 454, 282
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_33X27
+  rotate: false
+  xy: 469, 409
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_34X27
+  rotate: false
+  xy: 471, 389
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_35X22
+  rotate: false
+  xy: 448, 429
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_35X33
+  rotate: false
+  xy: 435, 337
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_35X39
+  rotate: false
+  xy: 454, 255
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_36X33
+  rotate: false
+  xy: 460, 347
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_36X35
+  rotate: false
+  xy: 410, 337
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_38X35
+  rotate: false
+  xy: 479, 276
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_39X35
+  rotate: false
+  xy: 481, 301
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_39X39
+  rotate: false
+  xy: 454, 228
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_412X372
+  rotate: false
+  xy: 1, 365
+  size: 264, 238
+  orig: 264, 238
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_415X240
+  rotate: false
+  xy: 1, 605
+  size: 266, 154
+  orig: 266, 154
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_41X36
+  rotate: false
+  xy: 481, 228
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_44X33
+  rotate: false
+  xy: 481, 253
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_46X30
+  rotate: false
+  xy: 481, 326
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_47X21
+  rotate: false
+  xy: 448, 370
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_47X32
+  rotate: false
+  xy: 477, 184
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_49X34
+  rotate: false
+  xy: 443, 184
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_51X26
+  rotate: false
+  xy: 375, 337
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_581X565
+  rotate: false
+  xy: 1, 1
+  size: 372, 362
+  orig: 372, 362
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_58X27
+  rotate: false
+  xy: 454, 208
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_77X77
+  rotate: false
+  xy: 443, 93
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_LOST_PRIZE_PINATA_LOST_94X57
+  rotate: false
+  xy: 443, 145
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+DELAYLOAD_BACKGROUND_DINO_COMPRESSED_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_DINO_PLANTS
+  rotate: false
+  xy: 1, 1541
+  size: 743, 361
+  orig: 743, 361
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_DINO_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1022, 768
+  orig: 1022, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_DINO_TEXTURE_LEFT
+  rotate: false
+  xy: 678, 771
+  size: 279, 768
+  orig: 279, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_DINO_TEXTURE_RIGHT
+  rotate: false
+  xy: 1, 771
+  size: 675, 768
+  orig: 675, 768
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,782 @@
+PLANTICEBLOOM_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_128X114
+  rotate: false
+  xy: 314, 610
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_134X190
+  rotate: false
+  xy: 246, 424
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_135X248
+  rotate: false
+  xy: 291, 1
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_135X248_2
+  rotate: false
+  xy: 380, 1
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_135X248_3
+  rotate: false
+  xy: 1, 143
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_ICEBLOOM_ICE_BLOCK_ZOMBIE_BEHIND_135X248_4
+  rotate: false
+  xy: 90, 152
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_102X249
+  rotate: false
+  xy: 90, 418
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_147X140
+  rotate: false
+  xy: 1, 580
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_14X14
+  rotate: false
+  xy: 499, 701
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_16X12
+  rotate: false
+  xy: 223, 312
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_16X15
+  rotate: false
+  xy: 500, 484
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_1X1
+  rotate: false
+  xy: 143, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_1X1_2
+  rotate: false
+  xy: 146, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_1X1_3
+  rotate: false
+  xy: 143, 146
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_231X219
+  rotate: false
+  xy: 1, 1
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_29X23
+  rotate: false
+  xy: 314, 731
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_30X29
+  rotate: false
+  xy: 398, 630
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_32X28
+  rotate: false
+  xy: 398, 610
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_33X26
+  rotate: false
+  xy: 283, 661
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_36X26
+  rotate: false
+  xy: 446, 299
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_40X35
+  rotate: false
+  xy: 320, 863
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_48X33
+  rotate: false
+  xy: 472, 388
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_57X52
+  rotate: false
+  xy: 1, 836
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_63X61
+  rotate: false
+  xy: 103, 830
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_73X58
+  rotate: false
+  xy: 390, 822
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_86X174
+  rotate: false
+  xy: 446, 162
+  size: 55, 112
+  orig: 55, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_87X79
+  rotate: false
+  xy: 140, 777
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_ICEBLOOM_ICE_BLOCK_ZOMBIE_EFFECT_94X94
+  rotate: false
+  xy: 170, 715
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_ICEBLOOM_ICE_BLOCK_ZOMBIE_128X116
+  rotate: false
+  xy: 423, 582
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_ICEBLOOM_ICE_BLOCK_ZOMBIE_134X190
+  rotate: false
+  xy: 158, 424
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_ICEBLOOM_ICE_BLOCK_ZOMBIE_135X247
+  rotate: false
+  xy: 179, 152
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_ICEBLOOM_ICE_BLOCK_ZOMBIE_135X247_2
+  rotate: false
+  xy: 268, 162
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_ICEBLOOM_ICE_BLOCK_ZOMBIE_135X247_3
+  rotate: false
+  xy: 357, 162
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICEBLOOM_ICE_BLOCK_ZOMBIE_ICEBLOOM_ICE_BLOCK_ZOMBIE_135X247_4
+  rotate: false
+  xy: 1, 313
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_106X110
+  rotate: false
+  xy: 170, 642
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_108X19
+  rotate: false
+  xy: 1, 561
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_109X89
+  rotate: false
+  xy: 338, 718
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_111X128
+  rotate: false
+  xy: 97, 642
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_115X90
+  rotate: false
+  xy: 398, 658
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_117X87
+  rotate: false
+  xy: 1, 672
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_124X57
+  rotate: false
+  xy: 232, 731
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_125X40
+  rotate: false
+  xy: 198, 819
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_12X8
+  rotate: false
+  xy: 503, 161
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_130X124
+  rotate: false
+  xy: 423, 500
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_134X134
+  rotate: false
+  xy: 1, 473
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_135X168
+  rotate: false
+  xy: 334, 500
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_13X8
+  rotate: false
+  xy: 17, 304
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_149X69
+  rotate: false
+  xy: 240, 685
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_151X143
+  rotate: false
+  xy: 158, 548
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_178X156
+  rotate: false
+  xy: 223, 322
+  size: 114, 100
+  orig: 114, 100
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_18X35
+  rotate: false
+  xy: 78, 672
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_18X35_2
+  rotate: false
+  xy: 377, 685
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_1X1
+  rotate: false
+  xy: 146, 146
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_1X1_2
+  rotate: false
+  xy: 143, 149
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_201X135
+  rotate: false
+  xy: 339, 411
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_204X161
+  rotate: false
+  xy: 90, 313
+  size: 131, 103
+  orig: 131, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_205X135
+  rotate: false
+  xy: 339, 322
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_20X25
+  rotate: false
+  xy: 72, 561
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_216X232
+  rotate: false
+  xy: 151, 1
+  size: 138, 149
+  orig: 138, 149
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_21X10
+  rotate: false
+  xy: 127, 143
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_21X10_2
+  rotate: false
+  xy: 1, 304
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_21X21
+  rotate: false
+  xy: 240, 642
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_22X12
+  rotate: false
+  xy: 268, 152
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_22X18
+  rotate: false
+  xy: 166, 870
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_22X90
+  rotate: false
+  xy: 314, 548
+  size: 14, 58
+  orig: 14, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_24X24
+  rotate: false
+  xy: 78, 697
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_26X23
+  rotate: false
+  xy: 80, 844
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_28X20
+  rotate: false
+  xy: 80, 861
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_28X20_2
+  rotate: false
+  xy: 146, 870
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_31X120
+  rotate: false
+  xy: 492, 789
+  size: 20, 77
+  orig: 20, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_33X20
+  rotate: false
+  xy: 314, 748
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_35X32
+  rotate: false
+  xy: 446, 276
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_36X23
+  rotate: false
+  xy: 474, 701
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_36X23_2
+  rotate: false
+  xy: 416, 869
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_37X35
+  rotate: false
+  xy: 483, 868
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_38X36
+  rotate: false
+  xy: 348, 863
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_38X45
+  rotate: false
+  xy: 217, 847
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_40X50
+  rotate: false
+  xy: 198, 777
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_41X38
+  rotate: false
+  xy: 388, 861
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_41X67
+  rotate: false
+  xy: 140, 726
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_43X63
+  rotate: false
+  xy: 187, 847
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_44X20
+  rotate: false
+  xy: 470, 484
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_45X38
+  rotate: false
+  xy: 244, 847
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_52X57
+  rotate: false
+  xy: 103, 781
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_53X13
+  rotate: false
+  xy: 441, 869
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_54X8
+  rotate: false
+  xy: 90, 143
+  size: 35, 5
+  orig: 35, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_57X44
+  rotate: false
+  xy: 338, 685
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_57X63
+  rotate: false
+  xy: 474, 658
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_58X171
+  rotate: false
+  xy: 472, 276
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_59X108
+  rotate: false
+  xy: 295, 770
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_59X49
+  rotate: false
+  xy: 40, 844
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_59X51
+  rotate: false
+  xy: 280, 841
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_59X95
+  rotate: false
+  xy: 63, 781
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_61X59
+  rotate: false
+  xy: 146, 830
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_63X108
+  rotate: false
+  xy: 468, 718
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_63X111
+  rotate: false
+  xy: 470, 411
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_64X192
+  rotate: false
+  xy: 469, 1
+  size: 41, 123
+  orig: 41, 123
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_64X33
+  rotate: false
+  xy: 240, 661
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_64X68
+  rotate: false
+  xy: 449, 789
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_65X49
+  rotate: false
+  xy: 439, 835
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_66X51
+  rotate: false
+  xy: 469, 126
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_68X79
+  rotate: false
+  xy: 1, 783
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_80X52
+  rotate: false
+  xy: 335, 827
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_82X74
+  rotate: false
+  xy: 335, 777
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_86X173
+  rotate: false
+  xy: 257, 548
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_87X92
+  rotate: false
+  xy: 410, 718
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_88X63
+  rotate: false
+  xy: 390, 779
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_88X92
+  rotate: false
+  xy: 97, 580
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_93X79
+  rotate: false
+  xy: 1, 730
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_93X83
+  rotate: false
+  xy: 78, 726
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICE_BLOOM_ICE_BLOOM_95X73
+  rotate: false
+  xy: 232, 770
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1

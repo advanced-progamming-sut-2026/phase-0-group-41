@@ -1,0 +1,26 @@
+DELAYLOAD_BACKGROUND_EGYPT_COMPRESSED_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_EGYPT_TEXTURE
+  rotate: false
+  xy: 0, 1
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_EGYPT_TEXTURE_LEFT
+  rotate: false
+  xy: 676, 771
+  size: 278, 768
+  orig: 278, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_EGYPT_TEXTURE_RIGHT
+  rotate: false
+  xy: 1, 771
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1

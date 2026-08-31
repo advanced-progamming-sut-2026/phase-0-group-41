@@ -1,0 +1,320 @@
+PLANTPOKRA_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_POKRA_HIT_POKRA_HIT_115X51
+  rotate: false
+  xy: 390, 228
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_HIT_POKRA_HIT_19X23
+  rotate: false
+  xy: 494, 72
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_HIT_POKRA_HIT_43X93
+  rotate: false
+  xy: 483, 157
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_HIT_POKRA_HIT_67X62
+  rotate: false
+  xy: 466, 228
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_HIT_POKRA_HIT_84X31
+  rotate: false
+  xy: 1, 267
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_PROJECTILE_POKRA_PROJECTILE_120X116
+  rotate: false
+  xy: 1, 150
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_PROJECTILE_POKRA_PROJECTILE_126X120
+  rotate: false
+  xy: 400, 90
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_PROJECTILE_POKRA_PROJECTILE_94X55
+  rotate: false
+  xy: 203, 234
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_PROJECTILE_POKRA_PROJECTILE_94X55_2
+  rotate: false
+  xy: 265, 234
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_PROJECTILE_POKRA_PROJECTILE_99X60
+  rotate: false
+  xy: 137, 221
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_POKRA_PROJECTILE_POKRA_PROJECTILE_99X60_2
+  rotate: false
+  xy: 1, 226
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_10X13
+  rotate: false
+  xy: 390, 122
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_122X115
+  rotate: false
+  xy: 136, 145
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_141X88
+  rotate: false
+  xy: 390, 169
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_143X136
+  rotate: false
+  xy: 400, 1
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_194X172
+  rotate: false
+  xy: 264, 122
+  size: 124, 110
+  orig: 124, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_197X222
+  rotate: false
+  xy: 136, 1
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_1X1
+  rotate: false
+  xy: 508, 72
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_1X1_2
+  rotate: false
+  xy: 508, 75
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_207X230
+  rotate: false
+  xy: 1, 1
+  size: 133, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_209X186
+  rotate: false
+  xy: 264, 1
+  size: 134, 119
+  orig: 134, 119
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_24X34
+  rotate: false
+  xy: 494, 24
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_25X29
+  rotate: false
+  xy: 104, 276
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_25X34
+  rotate: false
+  xy: 494, 48
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_26X33
+  rotate: false
+  xy: 494, 1
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_31X46
+  rotate: false
+  xy: 57, 267
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_31X46_2
+  rotate: false
+  xy: 298, 271
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_32X36
+  rotate: false
+  xy: 320, 271
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_36X22
+  rotate: false
+  xy: 79, 276
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_39X87
+  rotate: false
+  xy: 432, 263
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_41X101
+  rotate: false
+  xy: 483, 90
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_42X17
+  rotate: false
+  xy: 343, 287
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_51X83
+  rotate: false
+  xy: 216, 145
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_53X19
+  rotate: false
+  xy: 80, 207
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_53X21
+  rotate: false
+  xy: 343, 271
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_63X57
+  rotate: false
+  xy: 389, 263
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_66X37
+  rotate: false
+  xy: 459, 270
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_67X40
+  rotate: false
+  xy: 216, 200
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_70X24
+  rotate: false
+  xy: 251, 271
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_81X86
+  rotate: false
+  xy: 80, 150
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_83X29
+  rotate: false
+  xy: 196, 271
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_86X83
+  rotate: false
+  xy: 80, 221
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_88X51
+  rotate: false
+  xy: 137, 262
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_94X55
+  rotate: false
+  xy: 327, 234
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POKRA_POKRA_9X12
+  rotate: false
+  xy: 390, 133
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
