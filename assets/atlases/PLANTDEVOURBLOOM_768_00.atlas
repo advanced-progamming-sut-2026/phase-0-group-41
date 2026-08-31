@@ -1,0 +1,425 @@
+PLANTDEVOURBLOOM_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_104X142
+  rotate: false
+  xy: 272, 1
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_110X52
+  rotate: false
+  xy: 58, 179
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_117X82
+  rotate: false
+  xy: 252, 158
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_118X97
+  rotate: false
+  xy: 252, 94
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_119X45
+  rotate: false
+  xy: 131, 181
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_126X133
+  rotate: false
+  xy: 189, 1
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_130X137
+  rotate: false
+  xy: 104, 1
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_13X10
+  rotate: false
+  xy: 329, 158
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_14X9
+  rotate: false
+  xy: 329, 167
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_157X174
+  rotate: false
+  xy: 1, 1
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_15X8
+  rotate: false
+  xy: 387, 231
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_16X16
+  rotate: false
+  xy: 387, 219
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_17X40
+  rotate: false
+  xy: 371, 252
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_18X17
+  rotate: false
+  xy: 431, 273
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_21X36
+  rotate: false
+  xy: 191, 272
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_24X21
+  rotate: false
+  xy: 349, 272
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_24X39
+  rotate: false
+  xy: 231, 249
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_27X18
+  rotate: false
+  xy: 327, 273
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_28X23
+  rotate: false
+  xy: 282, 272
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_28X61
+  rotate: false
+  xy: 164, 138
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_29X34
+  rotate: false
+  xy: 109, 215
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_30X31
+  rotate: false
+  xy: 306, 252
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_31X28
+  rotate: false
+  xy: 349, 252
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_31X29
+  rotate: false
+  xy: 327, 252
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_31X42
+  rotate: false
+  xy: 209, 249
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_33X41
+  rotate: false
+  xy: 431, 245
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_34X27
+  rotate: false
+  xy: 282, 252
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_34X70
+  rotate: false
+  xy: 164, 91
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_36X80
+  rotate: false
+  xy: 69, 243
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_39X85
+  rotate: false
+  xy: 42, 243
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_41X98
+  rotate: false
+  xy: 254, 213
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_43X19
+  rotate: false
+  xy: 161, 272
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_45X47
+  rotate: false
+  xy: 209, 181
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_46X56
+  rotate: false
+  xy: 129, 249
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_51X52
+  rotate: false
+  xy: 94, 243
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_52X95
+  rotate: false
+  xy: 58, 115
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_59X134
+  rotate: false
+  xy: 469, 1
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_61X61
+  rotate: false
+  xy: 1, 238
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_65X42
+  rotate: false
+  xy: 387, 245
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_65X71
+  rotate: false
+  xy: 461, 154
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_67X69
+  rotate: false
+  xy: 1, 192
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_69X50
+  rotate: false
+  xy: 458, 239
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_71X32
+  rotate: false
+  xy: 161, 249
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_75X90
+  rotate: false
+  xy: 461, 94
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_76X54
+  rotate: false
+  xy: 458, 202
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_78X48
+  rotate: false
+  xy: 335, 219
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_79X48
+  rotate: false
+  xy: 282, 219
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_7X7
+  rotate: false
+  xy: 330, 94
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_85X117
+  rotate: false
+  xy: 1, 115
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_86X112
+  rotate: false
+  xy: 401, 171
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_90X117
+  rotate: false
+  xy: 401, 94
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_90X132
+  rotate: false
+  xy: 341, 93
+  size: 58, 85
+  orig: 58, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_90X134
+  rotate: false
+  xy: 104, 91
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_92X52
+  rotate: false
+  xy: 193, 213
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_93X54
+  rotate: false
+  xy: 131, 212
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_95X142
+  rotate: false
+  xy: 406, 1
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_95X142_2
+  rotate: false
+  xy: 189, 88
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_95X41
+  rotate: false
+  xy: 46, 215
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_98X140
+  rotate: false
+  xy: 341, 1
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DEVOURBLOOM_DEVOURBLOOM_98X57
+  rotate: false
+  xy: 329, 180
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1

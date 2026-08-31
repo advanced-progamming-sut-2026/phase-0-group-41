@@ -1,0 +1,607 @@
+PLANTEXPLODEOVINE_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_104X99
+  rotate: false
+  xy: 73, 245
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_106X117
+  rotate: false
+  xy: 280, 190
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_109X112
+  rotate: false
+  xy: 161, 208
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_109X99
+  rotate: false
+  xy: 1, 245
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_136X134
+  rotate: false
+  xy: 191, 120
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_14X24
+  rotate: false
+  xy: 403, 190
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_166X159
+  rotate: false
+  xy: 315, 1
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_191X182
+  rotate: false
+  xy: 191, 1
+  size: 122, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_19X15
+  rotate: false
+  xy: 417, 355
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_19X23
+  rotate: false
+  xy: 499, 177
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_1X1
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_1X1_2
+  rotate: false
+  xy: 509, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_243X49
+  rotate: false
+  xy: 1, 211
+  size: 156, 32
+  orig: 156, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_247X58
+  rotate: false
+  xy: 1, 172
+  size: 158, 37
+  orig: 158, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_31X30
+  rotate: false
+  xy: 108, 378
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_45X44
+  rotate: false
+  xy: 280, 120
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_53X53
+  rotate: false
+  xy: 194, 282
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_54X82
+  rotate: false
+  xy: 339, 332
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_61X44
+  rotate: false
+  xy: 417, 376
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_64X66
+  rotate: false
+  xy: 283, 335
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_68X78
+  rotate: false
+  xy: 436, 297
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_77X79
+  rotate: false
+  xy: 142, 282
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_79X141
+  rotate: false
+  xy: 350, 190
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_79X75
+  rotate: false
+  xy: 339, 282
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_EXPLODEOVINE_EXPLOSION_EXPLODEOVINE_EXPLOSION_92X204
+  rotate: false
+  xy: 423, 1
+  size: 59, 131
+  orig: 59, 131
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_106X42
+  rotate: false
+  xy: 1, 337
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_108X36
+  rotate: false
+  xy: 190, 351
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_108X38
+  rotate: false
+  xy: 436, 349
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_11X15
+  rotate: false
+  xy: 339, 267
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_11X17
+  rotate: false
+  xy: 503, 261
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_128X122
+  rotate: false
+  xy: 415, 134
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_130X28
+  rotate: false
+  xy: 71, 358
+  size: 83, 18
+  orig: 83, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_135X37
+  rotate: false
+  xy: 1, 311
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_135X37_2
+  rotate: false
+  xy: 194, 325
+  size: 87, 24
+  orig: 87, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_152X33
+  rotate: false
+  xy: 90, 335
+  size: 98, 21
+  orig: 98, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_152X52
+  rotate: false
+  xy: 403, 261
+  size: 98, 34
+  orig: 98, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_153X130
+  rotate: false
+  xy: 315, 105
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_159X70
+  rotate: false
+  xy: 403, 214
+  size: 102, 45
+  orig: 102, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_16X12
+  rotate: false
+  xy: 298, 180
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_18X18
+  rotate: false
+  xy: 499, 194
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_19X19
+  rotate: false
+  xy: 376, 332
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_1X1
+  rotate: false
+  xy: 509, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_20X34
+  rotate: false
+  xy: 499, 153
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_20X35
+  rotate: false
+  xy: 499, 128
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_21X24
+  rotate: false
+  xy: 142, 245
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_22X24
+  rotate: false
+  xy: 142, 263
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_23X21
+  rotate: false
+  xy: 261, 351
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_23X59
+  rotate: false
+  xy: 484, 1
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_24X12
+  rotate: false
+  xy: 280, 180
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_24X21
+  rotate: false
+  xy: 71, 337
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_25X11
+  rotate: false
+  xy: 48, 366
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_28X10
+  rotate: false
+  xy: 482, 340
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_29X34
+  rotate: false
+  xy: 484, 64
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_29X34_2
+  rotate: false
+  xy: 484, 88
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_30X34
+  rotate: false
+  xy: 161, 172
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X24
+  rotate: false
+  xy: 156, 358
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X29
+  rotate: false
+  xy: 130, 378
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X29_2
+  rotate: false
+  xy: 340, 387
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X29_3
+  rotate: false
+  xy: 458, 393
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X30
+  rotate: false
+  xy: 480, 393
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X30_2
+  rotate: false
+  xy: 362, 395
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X30_3
+  rotate: false
+  xy: 384, 395
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_31X33
+  rotate: false
+  xy: 484, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_32X23
+  rotate: false
+  xy: 48, 398
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_35X16
+  rotate: false
+  xy: 161, 196
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_39X17
+  rotate: false
+  xy: 71, 398
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_43X43
+  rotate: false
+  xy: 280, 150
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_44X21
+  rotate: false
+  xy: 484, 112
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_45X21
+  rotate: false
+  xy: 482, 324
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_47X38
+  rotate: false
+  xy: 482, 297
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_52X23
+  rotate: false
+  xy: 458, 376
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_57X55
+  rotate: false
+  xy: 243, 376
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_59X54
+  rotate: false
+  xy: 203, 376
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_61X59
+  rotate: false
+  xy: 376, 355
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_66X87
+  rotate: false
+  xy: 233, 208
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_66X87_2
+  rotate: false
+  xy: 392, 297
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_69X28
+  rotate: false
+  xy: 90, 311
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_70X48
+  rotate: false
+  xy: 1, 366
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_70X48_2
+  rotate: false
+  xy: 156, 376
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_71X102
+  rotate: false
+  xy: 291, 267
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_7X8
+  rotate: false
+  xy: 506, 40
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_87X19
+  rotate: false
+  xy: 282, 387
+  size: 56, 12
+  orig: 56, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_87X87
+  rotate: false
+  xy: 233, 267
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_91X28
+  rotate: false
+  xy: 48, 378
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_EXPLODEOVINE_EXPLODEOVINE_9X57
+  rotate: false
+  xy: 501, 1
+  size: 6, 37
+  orig: 6, 37
+  offset: 0, 0
+  index: -1

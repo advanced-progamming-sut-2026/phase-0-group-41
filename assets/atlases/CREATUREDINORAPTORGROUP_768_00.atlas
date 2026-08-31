@@ -1,0 +1,334 @@
+CREATUREDINORAPTORGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_10X12
+  rotate: false
+  xy: 124, 60
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_112X66
+  rotate: false
+  xy: 1, 1
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_11X13
+  rotate: false
+  xy: 124, 49
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_135X8
+  rotate: false
+  xy: 71, 130
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_13X13
+  rotate: false
+  xy: 245, 115
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_14X14
+  rotate: false
+  xy: 245, 126
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_14X14_2
+  rotate: false
+  xy: 160, 130
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_16X24
+  rotate: false
+  xy: 106, 110
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_17X17
+  rotate: false
+  xy: 74, 93
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_22X37
+  rotate: false
+  xy: 88, 137
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_23X37
+  rotate: false
+  xy: 71, 137
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_25X30
+  rotate: false
+  xy: 104, 137
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_25X30_2
+  rotate: false
+  xy: 122, 137
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_25X30_3
+  rotate: false
+  xy: 140, 137
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_25X30_4
+  rotate: false
+  xy: 223, 142
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_26X35
+  rotate: false
+  xy: 204, 123
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_28X49
+  rotate: false
+  xy: 204, 89
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_29X38
+  rotate: false
+  xy: 26, 110
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_29X39
+  rotate: false
+  xy: 224, 115
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_29X44
+  rotate: false
+  xy: 151, 100
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_31X32
+  rotate: false
+  xy: 172, 126
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_31X54
+  rotate: false
+  xy: 182, 89
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_34X20
+  rotate: false
+  xy: 194, 148
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_34X32
+  rotate: false
+  xy: 47, 125
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_34X39
+  rotate: false
+  xy: 127, 100
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_35X35
+  rotate: false
+  xy: 1, 110
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_36X46
+  rotate: false
+  xy: 49, 93
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_37X51
+  rotate: false
+  xy: 231, 1
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_39X16
+  rotate: false
+  xy: 158, 149
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_39X18
+  rotate: false
+  xy: 31, 148
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_39X51
+  rotate: false
+  xy: 225, 80
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_44X22
+  rotate: false
+  xy: 1, 137
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_45X51
+  rotate: false
+  xy: 225, 45
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_47X24
+  rotate: false
+  xy: 74, 110
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_48X46
+  rotate: false
+  xy: 91, 49
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_51X65
+  rotate: false
+  xy: 56, 49
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_52X42
+  rotate: false
+  xy: 91, 81
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_56X65
+  rotate: false
+  xy: 187, 45
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_66X66
+  rotate: false
+  xy: 187, 1
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_6X6
+  rotate: false
+  xy: 231, 36
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_70X51
+  rotate: false
+  xy: 135, 47
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_72X45
+  rotate: false
+  xy: 1, 79
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_77X69
+  rotate: false
+  xy: 135, 1
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_7X12
+  rotate: false
+  xy: 124, 70
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_83X24
+  rotate: false
+  xy: 127, 82
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_83X49
+  rotate: false
+  xy: 1, 45
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_RAPTOR_ZOMBIE_DINO_RAPTOR_91X72
+  rotate: false
+  xy: 75, 1
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1

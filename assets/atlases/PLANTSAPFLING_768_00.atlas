@@ -1,0 +1,264 @@
+PLANTSAPFLING_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_117X102
+  rotate: false
+  xy: 136, 1
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_14X15
+  rotate: false
+  xy: 246, 147
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_16X15
+  rotate: false
+  xy: 246, 135
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_1X1
+  rotate: false
+  xy: 248, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_26X65
+  rotate: false
+  xy: 147, 279
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_40X35
+  rotate: false
+  xy: 212, 285
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_51X71
+  rotate: false
+  xy: 213, 1
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_53X48
+  rotate: false
+  xy: 147, 246
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_PROJECTILE_SAPFLING_PROJECTILE_96X74
+  rotate: false
+  xy: 147, 133
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPFLING_SAP_SAPFLING_SAP_208X221
+  rotate: false
+  xy: 1, 1
+  size: 133, 142
+  orig: 133, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SAPLING_SAP_LAYERED_SAPLING_SAP_LAYERED_188X50
+  rotate: false
+  xy: 1, 350
+  size: 121, 32
+  orig: 121, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_10X13
+  rotate: false
+  xy: 248, 1
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_12X28
+  rotate: false
+  xy: 246, 115
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_19X14
+  rotate: false
+  xy: 165, 226
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_211X100
+  rotate: false
+  xy: 1, 284
+  size: 135, 64
+  orig: 135, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_21X28
+  rotate: false
+  xy: 240, 306
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_224X103
+  rotate: false
+  xy: 1, 216
+  size: 144, 66
+  orig: 144, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_224X108
+  rotate: false
+  xy: 1, 145
+  size: 144, 69
+  orig: 144, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_24X27
+  rotate: false
+  xy: 147, 226
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_25X16
+  rotate: false
+  xy: 166, 313
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_25X24
+  rotate: false
+  xy: 188, 298
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_25X30
+  rotate: false
+  xy: 240, 285
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_26X17
+  rotate: false
+  xy: 206, 310
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_30X27
+  rotate: false
+  xy: 180, 183
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_31X20
+  rotate: false
+  xy: 166, 298
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_42X54
+  rotate: false
+  xy: 213, 248
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_43X53
+  rotate: false
+  xy: 183, 246
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_45X61
+  rotate: false
+  xy: 215, 207
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_48X63
+  rotate: false
+  xy: 147, 183
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_51X57
+  rotate: false
+  xy: 180, 207
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_51X71
+  rotate: false
+  xy: 211, 115
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_53X65
+  rotate: false
+  xy: 211, 163
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_56X22
+  rotate: false
+  xy: 213, 49
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_69X21
+  rotate: false
+  xy: 166, 282
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_76X68
+  rotate: false
+  xy: 200, 69
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_97X96
+  rotate: false
+  xy: 136, 69
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SAPFLING_SAPFLING_9X12
+  rotate: false
+  xy: 248, 12
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1

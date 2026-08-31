@@ -1,0 +1,320 @@
+WORLDMAP_MODERN_NONPVR_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_DANGER_LEVEL_MODERN
+  rotate: false
+  xy: 952, 692
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_104X72
+  rotate: false
+  xy: 952, 751
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_113X141
+  rotate: false
+  xy: 428, 738
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_116X54
+  rotate: false
+  xy: 939, 799
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_118X40
+  rotate: false
+  xy: 562, 830
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_118X49
+  rotate: false
+  xy: 717, 824
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_11X21
+  rotate: false
+  xy: 1015, 249
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_150X74
+  rotate: false
+  xy: 619, 780
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_154X66
+  rotate: false
+  xy: 717, 780
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_177X70
+  rotate: false
+  xy: 503, 738
+  size: 114, 45
+  orig: 114, 45
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_253X272
+  rotate: false
+  xy: 264, 738
+  size: 162, 174
+  orig: 162, 174
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_25X34
+  rotate: false
+  xy: 1001, 185
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_27X41
+  rotate: false
+  xy: 1001, 113
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_28X28
+  rotate: false
+  xy: 1001, 229
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_29X29
+  rotate: false
+  xy: 1001, 164
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_30X28
+  rotate: false
+  xy: 1001, 209
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_31X172
+  rotate: false
+  xy: 1001, 1
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_31X33
+  rotate: false
+  xy: 1001, 141
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_35X23
+  rotate: false
+  xy: 1001, 420
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_36X41
+  rotate: false
+  xy: 1001, 392
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_37X36
+  rotate: false
+  xy: 991, 470
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_407X603
+  rotate: false
+  xy: 689, 392
+  size: 261, 386
+  orig: 261, 386
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_408X538
+  rotate: false
+  xy: 1, 738
+  size: 261, 345
+  orig: 261, 345
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_411X607
+  rotate: false
+  xy: 689, 1
+  size: 263, 389
+  orig: 263, 389
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_45X17
+  rotate: false
+  xy: 991, 495
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_51X36
+  rotate: false
+  xy: 505, 835
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_56X59
+  rotate: false
+  xy: 562, 785
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_56X70
+  rotate: false
+  xy: 428, 830
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_58X344
+  rotate: false
+  xy: 952, 470
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_58X49
+  rotate: false
+  xy: 466, 835
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_70X730
+  rotate: false
+  xy: 954, 1
+  size: 45, 467
+  orig: 45, 467
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_79X58
+  rotate: false
+  xy: 619, 738
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_86X86
+  rotate: false
+  xy: 818, 780
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_89X51
+  rotate: false
+  xy: 875, 828
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_95X36
+  rotate: false
+  xy: 640, 830
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_MODERN_DANGER_NODE_MODERN_97X71
+  rotate: false
+  xy: 875, 780
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_1072X1148
+  rotate: false
+  xy: 1, 1
+  size: 686, 735
+  orig: 686, 735
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_11X14
+  rotate: false
+  xy: 1001, 293
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_13X13
+  rotate: false
+  xy: 1012, 281
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_13X14
+  rotate: false
+  xy: 1012, 292
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_13X18
+  rotate: false
+  xy: 1001, 279
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_14X21
+  rotate: false
+  xy: 1014, 265
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_17X19
+  rotate: false
+  xy: 1001, 265
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_19X21
+  rotate: false
+  xy: 1001, 249
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MODERN_ANIM23_ANIM23_89X75
+  rotate: false
+  xy: 503, 785
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1

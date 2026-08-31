@@ -1,0 +1,684 @@
+PLANTBRAINSTEM_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_164X67
+  rotate: false
+  xy: 894, 724
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_207X187
+  rotate: false
+  xy: 156, 750
+  size: 133, 120
+  orig: 133, 120
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_221X210
+  rotate: false
+  xy: 295, 740
+  size: 142, 135
+  orig: 142, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_225X221
+  rotate: false
+  xy: 1, 477
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_227X219
+  rotate: false
+  xy: 449, 589
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_227X221
+  rotate: false
+  xy: 152, 322
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_227X222
+  rotate: false
+  xy: 1, 333
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_228X218
+  rotate: false
+  xy: 298, 598
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_229X217
+  rotate: false
+  xy: 745, 724
+  size: 147, 139
+  orig: 147, 139
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_229X222
+  rotate: false
+  xy: 557, 303
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_22X34
+  rotate: false
+  xy: 557, 188
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_230X219
+  rotate: false
+  xy: 509, 447
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_230X219_2
+  rotate: false
+  xy: 300, 456
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_232X221
+  rotate: false
+  xy: 406, 168
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_232X222
+  rotate: false
+  xy: 209, 178
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_238X223
+  rotate: false
+  xy: 769, 147
+  size: 153, 143
+  orig: 153, 143
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAINSTEM_EFFECT_BRAINSTEM_EFFECT_36X48
+  rotate: false
+  xy: 989, 59
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_13X10
+  rotate: false
+  xy: 1014, 59
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_14X9
+  rotate: false
+  xy: 1014, 68
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_155X129
+  rotate: false
+  xy: 924, 147
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_15X8
+  rotate: false
+  xy: 1014, 115
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_164X67
+  rotate: false
+  xy: 894, 769
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X16
+  rotate: false
+  xy: 966, 246
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21
+  rotate: false
+  xy: 1014, 99
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21_2
+  rotate: false
+  xy: 580, 168
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21_3
+  rotate: false
+  xy: 984, 232
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21_4
+  rotate: false
+  xy: 996, 232
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21_5
+  rotate: false
+  xy: 1008, 232
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21_6
+  rotate: false
+  xy: 375, 233
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21_7
+  rotate: false
+  xy: 387, 234
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X21_8
+  rotate: false
+  xy: 360, 239
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_16X22
+  rotate: false
+  xy: 181, 246
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_189X160
+  rotate: false
+  xy: 899, 292
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_18X17
+  rotate: false
+  xy: 193, 246
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X24
+  rotate: false
+  xy: 748, 229
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X25
+  rotate: false
+  xy: 167, 230
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X25_2
+  rotate: false
+  xy: 572, 230
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X25_3
+  rotate: false
+  xy: 557, 231
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X25_4
+  rotate: false
+  xy: 924, 232
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X25_5
+  rotate: false
+  xy: 938, 232
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X25_6
+  rotate: false
+  xy: 952, 232
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_19X26
+  rotate: false
+  xy: 391, 215
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_205X175
+  rotate: false
+  xy: 874, 865
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_207X187
+  rotate: false
+  xy: 739, 865
+  size: 133, 120
+  orig: 133, 120
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_20X23
+  rotate: false
+  xy: 184, 229
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_20X24
+  rotate: false
+  xy: 572, 212
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_20X24_2
+  rotate: false
+  xy: 376, 215
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_20X25
+  rotate: false
+  xy: 360, 221
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_20X25_2
+  rotate: false
+  xy: 152, 229
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_20X26
+  rotate: false
+  xy: 557, 212
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_221X210
+  rotate: false
+  xy: 595, 864
+  size: 142, 135
+  orig: 142, 135
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_223X193
+  rotate: false
+  xy: 1, 621
+  size: 143, 124
+  orig: 143, 124
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_225X221
+  rotate: false
+  xy: 807, 580
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_227X219
+  rotate: false
+  xy: 147, 608
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_227X221
+  rotate: false
+  xy: 706, 436
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_227X222
+  rotate: false
+  xy: 854, 436
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_228X218
+  rotate: false
+  xy: 597, 722
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_229X217
+  rotate: false
+  xy: 446, 731
+  size: 147, 139
+  orig: 147, 139
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_229X222
+  rotate: false
+  xy: 360, 312
+  size: 147, 142
+  orig: 147, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27
+  rotate: false
+  xy: 187, 189
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27_2
+  rotate: false
+  xy: 748, 189
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27_3
+  rotate: false
+  xy: 379, 195
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27_4
+  rotate: false
+  xy: 360, 201
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27_5
+  rotate: false
+  xy: 152, 209
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27_6
+  rotate: false
+  xy: 187, 209
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27_7
+  rotate: false
+  xy: 748, 209
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X27_8
+  rotate: false
+  xy: 168, 210
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X29
+  rotate: false
+  xy: 171, 189
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_22X34
+  rotate: false
+  xy: 573, 188
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_230X219
+  rotate: false
+  xy: 149, 466
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_230X219_2
+  rotate: false
+  xy: 658, 580
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_232X221
+  rotate: false
+  xy: 1, 189
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_232X222
+  rotate: false
+  xy: 748, 292
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_238X208
+  rotate: false
+  xy: 1, 750
+  size: 153, 133
+  orig: 153, 133
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_238X223
+  rotate: false
+  xy: 593, 158
+  size: 153, 143
+  orig: 153, 143
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_23X45
+  rotate: false
+  xy: 748, 158
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_24X18
+  rotate: false
+  xy: 966, 232
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_24X21
+  rotate: false
+  xy: 934, 129
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_254X224
+  rotate: false
+  xy: 769, 1
+  size: 163, 144
+  orig: 163, 144
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_26X27
+  rotate: false
+  xy: 152, 189
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_26X33
+  rotate: false
+  xy: 360, 178
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_272X242
+  rotate: false
+  xy: 593, 1
+  size: 174, 155
+  orig: 174, 155
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_288X257
+  rotate: false
+  xy: 406, 1
+  size: 185, 165
+  orig: 185, 165
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_304X273
+  rotate: false
+  xy: 209, 1
+  size: 195, 175
+  orig: 195, 175
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_322X290
+  rotate: false
+  xy: 1, 1
+  size: 206, 186
+  orig: 206, 186
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_32X28
+  rotate: false
+  xy: 557, 168
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_34X23
+  rotate: false
+  xy: 379, 178
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_34X43
+  rotate: false
+  xy: 934, 99
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_36X26
+  rotate: false
+  xy: 990, 125
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_36X33
+  rotate: false
+  xy: 958, 99
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_36X48
+  rotate: false
+  xy: 989, 92
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_46X29
+  rotate: false
+  xy: 958, 125
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_47X44
+  rotate: false
+  xy: 991, 1
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_50X40
+  rotate: false
+  xy: 991, 31
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_7X7
+  rotate: false
+  xy: 1014, 76
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_82X68
+  rotate: false
+  xy: 934, 53
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAINSTEM_BRAINSTEM_85X78
+  rotate: false
+  xy: 934, 1
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1

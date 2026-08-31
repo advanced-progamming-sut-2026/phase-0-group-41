@@ -1,0 +1,82 @@
+UI_NIMBLE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_NIMBLE_LINKACCOUNTEA
+  rotate: false
+  xy: 94, 177
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_LINKACCOUNTGAMECENTER
+  rotate: false
+  xy: 171, 177
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_LINKACCOUNTGOOGLEPLAY
+  rotate: false
+  xy: 1, 177
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_LINKEDINFOBORDER
+  rotate: false
+  xy: 228, 88
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_LIST_BG
+  rotate: false
+  xy: 195, 54
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_PCPID_EA
+  rotate: false
+  xy: 1, 1
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_PCPID_GAMECENTER
+  rotate: false
+  xy: 98, 1
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_PCPID_GOOGLEPLAY
+  rotate: false
+  xy: 1, 89
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_PCPID_ICON
+  rotate: false
+  xy: 98, 89
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_RADIOCHECKOVERLAY
+  rotate: false
+  xy: 195, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_NIMBLE_RADIOEMPTY
+  rotate: false
+  xy: 195, 88
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

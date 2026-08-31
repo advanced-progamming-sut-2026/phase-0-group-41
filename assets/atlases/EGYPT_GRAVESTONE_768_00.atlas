@@ -1,0 +1,110 @@
+EGYPT_GRAVESTONE_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_113X53
+  rotate: false
+  xy: 73, 333
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_172X96
+  rotate: false
+  xy: 1, 269
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_1X1
+  rotate: false
+  xy: 247, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_23X24
+  rotate: false
+  xy: 232, 53
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_39X36
+  rotate: false
+  xy: 224, 132
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_48X48
+  rotate: false
+  xy: 191, 132
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_60X67
+  rotate: false
+  xy: 191, 53
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_65X50
+  rotate: false
+  xy: 191, 98
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_TOMBSTONE_EGYPT_HIEROGLYPH_DAMAGE_84X77
+  rotate: false
+  xy: 191, 1
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_109X119
+  rotate: false
+  xy: 1, 333
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_110X145
+  rotate: false
+  xy: 157, 267
+  size: 71, 93
+  orig: 71, 93
+  offset: 0, 0
+  index: -1
+IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_113X145
+  rotate: false
+  xy: 157, 172
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_118X148
+  rotate: false
+  xy: 1, 172
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_118X148_2
+  rotate: false
+  xy: 79, 172
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1

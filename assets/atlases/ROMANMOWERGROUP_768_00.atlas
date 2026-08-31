@@ -1,0 +1,327 @@
+ROMANMOWERGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_13X11
+  rotate: false
+  xy: 27, 76
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_13X12
+  rotate: false
+  xy: 119, 105
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_14X14
+  rotate: false
+  xy: 118, 59
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_15X14
+  rotate: false
+  xy: 42, 133
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_15X15
+  rotate: false
+  xy: 118, 76
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_15X16
+  rotate: false
+  xy: 117, 117
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_16X10
+  rotate: false
+  xy: 15, 76
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_16X13
+  rotate: false
+  xy: 42, 144
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_16X24
+  rotate: false
+  xy: 118, 41
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_17X17
+  rotate: false
+  xy: 117, 133
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_17X17_2
+  rotate: false
+  xy: 28, 170
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_18X32
+  rotate: false
+  xy: 70, 210
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_19X10
+  rotate: false
+  xy: 1, 76
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_19X15
+  rotate: false
+  xy: 84, 216
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_20X35
+  rotate: false
+  xy: 106, 177
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_21X14
+  rotate: false
+  xy: 60, 156
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_22X20
+  rotate: false
+  xy: 36, 211
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_22X77
+  rotate: false
+  xy: 78, 117
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_23X20
+  rotate: false
+  xy: 1, 215
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_23X22
+  rotate: false
+  xy: 19, 211
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_23X26
+  rotate: false
+  xy: 53, 210
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_23X57
+  rotate: false
+  xy: 89, 177
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_24X24
+  rotate: false
+  xy: 1, 197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_25X14
+  rotate: false
+  xy: 42, 156
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_25X25
+  rotate: false
+  xy: 106, 202
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_27X84
+  rotate: false
+  xy: 1, 105
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_29X84
+  rotate: false
+  xy: 97, 40
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_30X55
+  rotate: false
+  xy: 21, 133
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_32X14
+  rotate: false
+  xy: 65, 85
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_32X51
+  rotate: false
+  xy: 94, 117
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_32X57
+  rotate: false
+  xy: 55, 117
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_35X35
+  rotate: false
+  xy: 53, 185
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_35X37
+  rotate: false
+  xy: 28, 185
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_38X38
+  rotate: false
+  xy: 1, 170
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_43X58
+  rotate: false
+  xy: 97, 1
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_44X36
+  rotate: false
+  xy: 94, 152
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_50X40
+  rotate: false
+  xy: 21, 105
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_54X78
+  rotate: false
+  xy: 60, 1
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_60X46
+  rotate: false
+  xy: 56, 53
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_70X22
+  rotate: false
+  xy: 42, 169
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_81X30
+  rotate: false
+  xy: 65, 96
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_83X51
+  rotate: false
+  xy: 1, 41
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_89X59
+  rotate: false
+  xy: 1, 1
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_8X10
+  rotate: false
+  xy: 46, 76
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_96X28
+  rotate: false
+  xy: 1, 85
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_ROMAN_MOWER_ROMAN_9X9
+  rotate: false
+  xy: 38, 76
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

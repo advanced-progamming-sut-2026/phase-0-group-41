@@ -1,0 +1,236 @@
+ZOMBIEDARKZOMBOSSEFFECTSGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_110X122
+  rotate: false
+  xy: 1, 582
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_148X146
+  rotate: false
+  xy: 415, 577
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_158X59
+  rotate: false
+  xy: 143, 606
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_160X38
+  rotate: false
+  xy: 261, 660
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_1X1
+  rotate: false
+  xy: 507, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_1X1_2
+  rotate: false
+  xy: 510, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_1X1_3
+  rotate: false
+  xy: 507, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_205X126
+  rotate: false
+  xy: 282, 577
+  size: 131, 81
+  orig: 131, 81
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_206X128
+  rotate: false
+  xy: 313, 493
+  size: 132, 82
+  orig: 132, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_208X125
+  rotate: false
+  xy: 147, 524
+  size: 133, 80
+  orig: 133, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_208X128
+  rotate: false
+  xy: 1, 421
+  size: 133, 82
+  orig: 133, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_214X127
+  rotate: false
+  xy: 313, 409
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_33X183
+  rotate: false
+  xy: 457, 1
+  size: 21, 117
+  orig: 21, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_34X52
+  rotate: false
+  xy: 457, 168
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_38X55
+  rotate: false
+  xy: 480, 1
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_40X49
+  rotate: false
+  xy: 480, 38
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_40X49_2
+  rotate: false
+  xy: 480, 72
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_69X72
+  rotate: false
+  xy: 457, 120
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_87X98
+  rotate: false
+  xy: 143, 646
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_90X94
+  rotate: false
+  xy: 201, 646
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_DARK_FIREBALL_ZOMBOSS_DARK_FIREBALL_98X106
+  rotate: false
+  xy: 447, 493
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_104X259
+  rotate: false
+  xy: 443, 206
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_104X98
+  rotate: false
+  xy: 74, 582
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_184X176
+  rotate: false
+  xy: 193, 409
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_1X1
+  rotate: false
+  xy: 510, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_1X1_2
+  rotate: false
+  xy: 507, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_225X117
+  rotate: false
+  xy: 1, 505
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_296X279
+  rotate: false
+  xy: 1, 240
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_313X313
+  rotate: false
+  xy: 240, 206
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_336X317
+  rotate: false
+  xy: 240, 1
+  size: 215, 203
+  orig: 215, 203
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_370X370
+  rotate: false
+  xy: 1, 1
+  size: 237, 237
+  orig: 237, 237
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_87X142
+  rotate: false
+  xy: 452, 374
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_MISSILE_EXPLOSION_DARK_ZOMBOSS_MISSILE_EXPLOSION_DARK_98X51
+  rotate: false
+  xy: 74, 647
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1

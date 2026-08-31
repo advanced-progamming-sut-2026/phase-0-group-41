@@ -1,0 +1,824 @@
+PLANTREDSTINGER_768_00.PNG
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_REDSTINGER_BEAM_REDSTINGER_BEAM_1062X175
+  rotate: false
+  xy: 1, 1
+  size: 680, 112
+  orig: 680, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_REDSTINGER_PROJECTILE_HIT_REDSTINGER_PROJECTILE_HIT_46X46
+  rotate: false
+  xy: 858, 204
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_REDSTINGER_PROJECTILE_HIT_REDSTINGER_PROJECTILE_HIT_47X47
+  rotate: false
+  xy: 1, 205
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_REDSTINGER_PROJECTILE_HIT_REDSTINGER_PROJECTILE_HIT_47X47_2
+  rotate: false
+  xy: 179, 207
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_REDSTINGER_PROJECTILE_HIT_REDSTINGER_PROJECTILE_HIT_47X47_3
+  rotate: false
+  xy: 275, 207
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_REDSTINGER_PROJECTILE_HIT_REDSTINGER_PROJECTILE_HIT_47X47_4
+  rotate: false
+  xy: 307, 207
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_REDSTINGER_PROJECTILE_REDSTINGER_PROJECTILE_29X18
+  rotate: false
+  xy: 339, 236
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_REDSTINGER_PROJECTILE_REDSTINGER_PROJECTILE_29X19
+  rotate: false
+  xy: 360, 236
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_38X33
+  rotate: false
+  xy: 956, 216
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_46X46
+  rotate: false
+  xy: 751, 199
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_47X47
+  rotate: false
+  xy: 243, 200
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_47X47_2
+  rotate: false
+  xy: 897, 200
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_47X47_3
+  rotate: false
+  xy: 51, 204
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_47X47_4
+  rotate: false
+  xy: 350, 204
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_67X67
+  rotate: false
+  xy: 627, 168
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_67X77
+  rotate: false
+  xy: 51, 152
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_76X97
+  rotate: false
+  xy: 101, 115
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_85X97
+  rotate: false
+  xy: 751, 106
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_98X99
+  rotate: false
+  xy: 899, 81
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_HIT_T_REDSTINGER_PROJECTILE_HIT_99X127
+  rotate: false
+  xy: 833, 80
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_T_REDSTINGER_PROJECTILE_29X18
+  rotate: false
+  xy: 929, 200
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_T_REDSTINGER_PROJECTILE_29X18_2
+  rotate: false
+  xy: 33, 236
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_T_REDSTINGER_PROJECTILE_29X19
+  rotate: false
+  xy: 54, 236
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_REDSTINGER_PROJECTILE_T_REDSTINGER_PROJECTILE_38X24
+  rotate: false
+  xy: 751, 231
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_110X53
+  rotate: false
+  xy: 952, 157
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_114X121
+  rotate: false
+  xy: 909, 1
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_115X120
+  rotate: false
+  xy: 833, 1
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_12X15
+  rotate: false
+  xy: 672, 168
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_153X54
+  rotate: false
+  xy: 1, 115
+  size: 98, 35
+  orig: 98, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_156X160
+  rotate: false
+  xy: 731, 1
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_15X9
+  rotate: false
+  xy: 808, 155
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_16X15
+  rotate: false
+  xy: 589, 233
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_16X8
+  rotate: false
+  xy: 820, 155
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_17X19
+  rotate: false
+  xy: 660, 236
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_17X20
+  rotate: false
+  xy: 844, 234
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_19X25
+  rotate: false
+  xy: 629, 236
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_1X1
+  rotate: false
+  xy: 1018, 67
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_20X29
+  rotate: false
+  xy: 611, 169
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_20X29_2
+  rotate: false
+  xy: 611, 190
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_21X21
+  rotate: false
+  xy: 503, 236
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_21X29
+  rotate: false
+  xy: 33, 205
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_23X14
+  rotate: false
+  xy: 643, 236
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_24X32
+  rotate: false
+  xy: 659, 213
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_24X32_2
+  rotate: false
+  xy: 465, 227
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_25X24
+  rotate: false
+  xy: 778, 234
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_26X37
+  rotate: false
+  xy: 808, 129
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_27X15
+  rotate: false
+  xy: 393, 192
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_27X318
+  rotate: false
+  xy: 731, 106
+  size: 18, 204
+  orig: 18, 204
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_28X17
+  rotate: false
+  xy: 483, 236
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_28X30
+  rotate: false
+  xy: 393, 171
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_28X30_2
+  rotate: false
+  xy: 157, 208
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_31X31
+  rotate: false
+  xy: 179, 180
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_32X20
+  rotate: false
+  xy: 211, 234
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_32X24
+  rotate: false
+  xy: 566, 233
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_33X17
+  rotate: false
+  xy: 796, 234
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_34X23
+  rotate: false
+  xy: 783, 199
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_34X32
+  rotate: false
+  xy: 808, 106
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_35X25
+  rotate: false
+  xy: 382, 231
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_35X33
+  rotate: false
+  xy: 409, 218
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_36X15
+  rotate: false
+  xy: 819, 234
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_37X78
+  rotate: false
+  xy: 464, 175
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_38X38
+  rotate: false
+  xy: 490, 175
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_39X20
+  rotate: false
+  xy: 119, 234
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_39X20_2
+  rotate: false
+  xy: 146, 234
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_39X34
+  rotate: false
+  xy: 929, 216
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_39X37
+  rotate: false
+  xy: 602, 213
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_39X39
+  rotate: false
+  xy: 997, 193
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_39X39_2
+  rotate: false
+  xy: 382, 204
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_39X39_3
+  rotate: false
+  xy: 211, 207
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_42X19
+  rotate: false
+  xy: 527, 234
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_43X22
+  rotate: false
+  xy: 238, 232
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_44X32
+  rotate: false
+  xy: 629, 213
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_45X21
+  rotate: false
+  xy: 434, 227
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_47X21
+  rotate: false
+  xy: 983, 220
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_49X49
+  rotate: false
+  xy: 984, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_52X28
+  rotate: false
+  xy: 566, 213
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_53X17
+  rotate: false
+  xy: 890, 232
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_53X17_2
+  rotate: false
+  xy: 83, 234
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_54X25
+  rotate: false
+  xy: 783, 216
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_54X25_2
+  rotate: false
+  xy: 820, 216
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_54X37
+  rotate: false
+  xy: 83, 208
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_54X37_2
+  rotate: false
+  xy: 120, 208
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_54X37_3
+  rotate: false
+  xy: 490, 210
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_58X34
+  rotate: false
+  xy: 527, 210
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_58X59
+  rotate: false
+  xy: 858, 164
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_58X61
+  rotate: false
+  xy: 984, 1
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_5X5
+  rotate: false
+  xy: 1018, 42
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_5X5_2
+  rotate: false
+  xy: 1018, 47
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_5X5_3
+  rotate: false
+  xy: 1018, 52
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_5X5_4
+  rotate: false
+  xy: 1018, 57
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_5X5_5
+  rotate: false
+  xy: 1018, 62
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_60X41
+  rotate: false
+  xy: 202, 179
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_60X41_2
+  rotate: false
+  xy: 138, 180
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_62X42
+  rotate: false
+  xy: 96, 179
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_62X65
+  rotate: false
+  xy: 569, 169
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_63X48
+  rotate: false
+  xy: 350, 171
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_63X52
+  rotate: false
+  xy: 307, 171
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_67X32
+  rotate: false
+  xy: 952, 193
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_71X460
+  rotate: false
+  xy: 683, 1
+  size: 46, 295
+  orig: 46, 295
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_72X60
+  rotate: false
+  xy: 521, 169
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_74X74
+  rotate: false
+  xy: 414, 168
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_75X77
+  rotate: false
+  xy: 808, 164
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_75X80
+  rotate: false
+  xy: 1, 152
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_75X90
+  rotate: false
+  xy: 471, 115
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_75X97
+  rotate: false
+  xy: 202, 115
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_75X98
+  rotate: false
+  xy: 152, 115
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_80X79
+  rotate: false
+  xy: 627, 115
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_80X79_2
+  rotate: false
+  xy: 899, 147
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_80X81
+  rotate: false
+  xy: 521, 115
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_80X81_2
+  rotate: false
+  xy: 574, 115
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_81X84
+  rotate: false
+  xy: 252, 115
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_81X84_2
+  rotate: false
+  xy: 306, 115
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_81X84_3
+  rotate: false
+  xy: 360, 115
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_82X115
+  rotate: false
+  xy: 964, 81
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_83X42
+  rotate: false
+  xy: 751, 170
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_83X42_2
+  rotate: false
+  xy: 252, 171
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_REDSTINGER_REDSTINGER_86X80
+  rotate: false
+  xy: 414, 115
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1

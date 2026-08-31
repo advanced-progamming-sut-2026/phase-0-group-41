@@ -1,0 +1,180 @@
+PLANTCOLDSNAPDRAGONEFFECTS_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_122X83
+  rotate: false
+  xy: 330, 424
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_122X83_2
+  rotate: false
+  xy: 1, 433
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_14X14
+  rotate: false
+  xy: 497, 255
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_1X1
+  rotate: false
+  xy: 506, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_1X1_2
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_235X269
+  rotate: false
+  xy: 353, 1
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_235X269_2
+  rotate: false
+  xy: 1, 170
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_36X34
+  rotate: false
+  xy: 460, 289
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_75X122
+  rotate: false
+  xy: 460, 175
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_COLD_SNAPDRAGON_ICE_93X89
+  rotate: false
+  xy: 241, 441
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_BOTTOM_COLD_SNAPDRAGON_ICE_PF_BOTTOM_135X114
+  rotate: false
+  xy: 330, 349
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_BOTTOM_COLD_SNAPDRAGON_ICE_PF_BOTTOM_152X139
+  rotate: false
+  xy: 134, 344
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_BOTTOM_COLD_SNAPDRAGON_ICE_PF_BOTTOM_205X135
+  rotate: false
+  xy: 1, 344
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_BOTTOM_COLD_SNAPDRAGON_ICE_PF_BOTTOM_546X260
+  rotate: false
+  xy: 1, 1
+  size: 350, 167
+  orig: 350, 167
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_BOTTOM_COLD_SNAPDRAGON_ICE_PF_BOTTOM_81X69
+  rotate: false
+  xy: 410, 458
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_122X83
+  rotate: false
+  xy: 81, 435
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_122X83_2
+  rotate: false
+  xy: 161, 441
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_147X140
+  rotate: false
+  xy: 234, 349
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_14X14
+  rotate: false
+  xy: 497, 266
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_1X1
+  rotate: false
+  xy: 506, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_1X1_2
+  rotate: false
+  xy: 509, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_235X269
+  rotate: false
+  xy: 154, 170
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_235X269_2
+  rotate: false
+  xy: 307, 175
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_54X50
+  rotate: false
+  xy: 460, 255
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_COLD_SNAPDRAGON_ICE_PF_COLD_SNAPDRAGON_ICE_PF_85X167
+  rotate: false
+  xy: 419, 349
+  size: 55, 107
+  orig: 55, 107
+  offset: 0, 0
+  index: -1

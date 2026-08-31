@@ -1,0 +1,103 @@
+WORLDMAP_FUTURE_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_FUTURE_ISLAND10
+  rotate: false
+  xy: 579, 1
+  size: 430, 506
+  orig: 430, 506
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND11
+  rotate: false
+  xy: 1, 675
+  size: 495, 347
+  orig: 495, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND12
+  rotate: false
+  xy: 866, 509
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND13
+  rotate: false
+  xy: 1, 1024
+  size: 298, 290
+  orig: 298, 290
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND18
+  rotate: false
+  xy: 538, 1075
+  size: 441, 74
+  orig: 441, 74
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND19
+  rotate: false
+  xy: 538, 1151
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND20
+  rotate: false
+  xy: 866, 626
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND21
+  rotate: false
+  xy: 301, 1214
+  size: 198, 33
+  orig: 198, 33
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND22
+  rotate: false
+  xy: 579, 509
+  size: 285, 564
+  orig: 285, 564
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND5
+  rotate: false
+  xy: 713, 1151
+  size: 203, 138
+  orig: 203, 138
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND6
+  rotate: false
+  xy: 301, 1024
+  size: 235, 188
+  orig: 235, 188
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND7
+  rotate: false
+  xy: 949, 626
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_FUTURE_ISLAND8
+  rotate: false
+  xy: 498, 675
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_FUTURE_ZOMBOSS_NODE_FUTURE_900X1049
+  rotate: false
+  xy: 1, 1
+  size: 576, 672
+  orig: 576, 672
+  offset: 0, 0
+  index: -1

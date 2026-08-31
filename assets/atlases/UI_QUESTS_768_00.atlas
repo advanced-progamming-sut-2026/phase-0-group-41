@@ -1,0 +1,1041 @@
+UI_QUESTS_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_QUESTS_ACHIEVEMENTS_ACTIVE
+  rotate: false
+  xy: 535, 1010
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_ACHIEVEMENTS_INACTIVE
+  rotate: false
+  xy: 324, 1076
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_CLOSE_BTN
+  rotate: false
+  xy: 958, 1094
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_CLOSE_TAB
+  rotate: false
+  xy: 447, 1472
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_CLOSE_TAB_DOWN
+  rotate: false
+  xy: 517, 1483
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_COIN_ICON
+  rotate: false
+  xy: 977, 723
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DAILY_ACTIVE
+  rotate: false
+  xy: 676, 1010
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DAILY_INACTIVE
+  rotate: false
+  xy: 817, 1094
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DAILY_QUEST_BANNER
+  rotate: false
+  xy: 98, 1139
+  size: 176, 48
+  orig: 176, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DAILY_QUEST_CLOCK_ICON_DAILY_QUEST_CLOCK_ICON_13X30
+  rotate: false
+  xy: 1014, 426
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DAILY_QUEST_CLOCK_ICON_DAILY_QUEST_CLOCK_ICON_15X30
+  rotate: false
+  xy: 1014, 409
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DAILY_QUEST_CLOCK_ICON_DAILY_QUEST_CLOCK_ICON_21X21
+  rotate: false
+  xy: 452, 842
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DAILY_QUEST_CLOCK_ICON_DAILY_QUEST_CLOCK_ICON_77X78
+  rotate: false
+  xy: 285, 761
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_BG
+  rotate: false
+  xy: 995, 163
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_13X12
+  rotate: false
+  xy: 980, 471
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_177X115
+  rotate: false
+  xy: 748, 1361
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_177X115_2
+  rotate: false
+  xy: 839, 1361
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_179X115
+  rotate: false
+  xy: 563, 1349
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_181X114
+  rotate: false
+  xy: 655, 1361
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_198X120
+  rotate: false
+  xy: 913, 409
+  size: 99, 60
+  orig: 99, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_1X1
+  rotate: false
+  xy: 1022, 343
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_21X26
+  rotate: false
+  xy: 1011, 824
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_23X23
+  rotate: false
+  xy: 452, 815
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_25X22
+  rotate: false
+  xy: 285, 802
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_25X22_2
+  rotate: false
+  xy: 300, 802
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_25X22_3
+  rotate: false
+  xy: 452, 829
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_26X25
+  rotate: false
+  xy: 1011, 809
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_34X34
+  rotate: false
+  xy: 1003, 844
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_35X35
+  rotate: false
+  xy: 265, 671
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_35X35_2
+  rotate: false
+  xy: 285, 671
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_36X36
+  rotate: false
+  xy: 305, 671
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_45X65
+  rotate: false
+  xy: 427, 815
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_46X49
+  rotate: false
+  xy: 853, 867
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_47X69
+  rotate: false
+  xy: 992, 507
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_48X51
+  rotate: false
+  xy: 992, 544
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_48X51_2
+  rotate: false
+  xy: 977, 844
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_50X55
+  rotate: false
+  xy: 885, 451
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_50X67
+  rotate: false
+  xy: 995, 343
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_50X67_2
+  rotate: false
+  xy: 992, 471
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_54X56
+  rotate: false
+  xy: 995, 379
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_8X8
+  rotate: false
+  xy: 1019, 477
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_98X131
+  rotate: false
+  xy: 975, 1284
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_98X131_2
+  rotate: false
+  xy: 639, 1494
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_98X132
+  rotate: false
+  xy: 690, 1495
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_99X132
+  rotate: false
+  xy: 140, 1494
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_METER_DIFFICULTY_METER_99X132_2
+  rotate: false
+  xy: 587, 1494
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_TIER1_FILL
+  rotate: false
+  xy: 995, 208
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_TIER2_FILL
+  rotate: false
+  xy: 995, 253
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_DIFFICULTY_TIER3_FILL
+  rotate: false
+  xy: 995, 298
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EARMARK_EPIC
+  rotate: false
+  xy: 142, 1076
+  size: 180, 61
+  orig: 180, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EARMARK_PREMIUM
+  rotate: false
+  xy: 281, 958
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EARMARK_PRIMARY
+  rotate: false
+  xy: 217, 1465
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EDGE_GRADIENT_BOTTOM
+  rotate: false
+  xy: 63, 1493
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EPIC_ACTIVE
+  rotate: false
+  xy: 1, 1043
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EPIC_INACTIVE
+  rotate: false
+  xy: 465, 1098
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EPIC_REWARD_COINS
+  rotate: false
+  xy: 1, 1305
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EPIC_REWARD_GEMS
+  rotate: false
+  xy: 155, 1344
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EPIC_REWARD_MINTS
+  rotate: false
+  xy: 1, 1455
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EQ_GRID_SEGMENT_HORIZONTAL
+  rotate: false
+  xy: 347, 994
+  size: 67, 3
+  orig: 67, 3
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_EQ_GRID_SEGMENT_VERTICAL
+  rotate: false
+  xy: 1019, 443
+  size: 3, 32
+  orig: 3, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_GEM_ICON
+  rotate: false
+  xy: 977, 766
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_ICON_EPIC
+  rotate: false
+  xy: 177, 1189
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_LEVEL_NODE_CONNECTOR_EMPTY
+  rotate: false
+  xy: 281, 994
+  size: 64, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_LEVEL_NODE_CONNECTOR_FILL
+  rotate: false
+  xy: 912, 471
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_LEVEL_NODE_CONNECTOR_ROW_CONNECTION_EMPTY
+  rotate: false
+  xy: 523, 575
+  size: 500, 72
+  orig: 500, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_LEVEL_NODE_CONNECTOR_ROW_CONNECTION_FILL
+  rotate: false
+  xy: 523, 649
+  size: 500, 72
+  orig: 500, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_NEW_BANNER
+  rotate: false
+  xy: 800, 1161
+  size: 169, 44
+  orig: 169, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_PANEL_EDGE_TO_EDGE
+  rotate: false
+  xy: 281, 1010
+  size: 252, 64
+  orig: 252, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTBORDER
+  rotate: false
+  xy: 853, 969
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_80S
+  rotate: false
+  xy: 592, 1195
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_ADS
+  rotate: false
+  xy: 408, 1344
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_ARENA
+  rotate: false
+  xy: 77, 1345
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_ASH
+  rotate: false
+  xy: 669, 1195
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_BIGWAVEBEACH
+  rotate: false
+  xy: 746, 1207
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_DARKAGES
+  rotate: false
+  xy: 823, 1207
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_EGYPT
+  rotate: false
+  xy: 900, 1207
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_ELECTROCUTE
+  rotate: false
+  xy: 1, 1228
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_EXPANSIONLEVEL
+  rotate: false
+  xy: 255, 1233
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_FALLFESTIVAL
+  rotate: false
+  xy: 696, 1421
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_FARFUTURE
+  rotate: false
+  xy: 332, 1237
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_FEASTIVUS
+  rotate: false
+  xy: 767, 1421
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_FOODFIGHT
+  rotate: false
+  xy: 838, 1421
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_FROSTBITECAVES
+  rotate: false
+  xy: 513, 1244
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_GARGANTUAR
+  rotate: false
+  xy: 930, 1361
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_JURASSICMARSH
+  rotate: false
+  xy: 177, 1267
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_KNOCKBACK
+  rotate: false
+  xy: 409, 1267
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_LAWNOFDOOM
+  rotate: false
+  xy: 231, 1387
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_LEVELUP
+  rotate: false
+  xy: 78, 1268
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_LOSTCITY
+  rotate: false
+  xy: 590, 1272
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_LOTD
+  rotate: false
+  xy: 1, 1381
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_MINTS
+  rotate: false
+  xy: 303, 1391
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_MODERN
+  rotate: false
+  xy: 667, 1272
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_PIRATE
+  rotate: false
+  xy: 744, 1284
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_PLANT
+  rotate: false
+  xy: 480, 1398
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_POWERUPS
+  rotate: false
+  xy: 552, 1409
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_PREMIUMPLANTS
+  rotate: false
+  xy: 821, 1284
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_PREMIUMSEEDS
+  rotate: false
+  xy: 898, 1284
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_PREMIUMSEEDS2
+  rotate: false
+  xy: 254, 1310
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_REFRIGERATE
+  rotate: false
+  xy: 331, 1314
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_RENT_A_PLANT
+  rotate: false
+  xy: 909, 1435
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_RIFT
+  rotate: false
+  xy: 375, 1418
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_STUNNED
+  rotate: false
+  xy: 73, 1419
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_WILDWEST
+  rotate: false
+  xy: 486, 1321
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_ZOMBIE
+  rotate: false
+  xy: 145, 1420
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTICONS_ZOMBOSS
+  rotate: false
+  xy: 624, 1420
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUESTS_TITLE_PLAQUE_TIER0
+  rotate: false
+  xy: 771, 1
+  size: 251, 160
+  orig: 251, 160
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_ICON_BROWN
+  rotate: false
+  xy: 366, 1143
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_LEVEL_NODE_COMPLETE
+  rotate: false
+  xy: 741, 1495
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_LEVEL_NODE_NEXT
+  rotate: false
+  xy: 798, 1495
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_LEVEL_NODE_UPCOMING
+  rotate: false
+  xy: 192, 1501
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_LIST_BG
+  rotate: false
+  xy: 969, 1509
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_COMPLETE
+  rotate: false
+  xy: 606, 1098
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_COMPLETE_NEW
+  rotate: false
+  xy: 143, 761
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_DAILY
+  rotate: false
+  xy: 523, 481
+  size: 467, 92
+  orig: 467, 92
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_DEFAULT
+  rotate: false
+  xy: 285, 815
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_EPIC
+  rotate: false
+  xy: 771, 163
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_EPIC_COMPLETE
+  rotate: false
+  xy: 771, 307
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_EXPIRED
+  rotate: false
+  xy: 427, 867
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_NEW
+  rotate: false
+  xy: 703, 1098
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_NEW_EPIC
+  rotate: false
+  xy: 1, 1131
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_PANEL_TROUGH
+  rotate: false
+  xy: 447, 1165
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_POINTS_FILLBAR_BG
+  rotate: false
+  xy: 771, 451
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_POINTS_FILLBAR_FILL
+  rotate: false
+  xy: 828, 451
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_POINTS_FILLBAR_FILL_GREEN
+  rotate: false
+  xy: 142, 1043
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_REWARDS_BG
+  rotate: false
+  xy: 977, 809
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_REWARDS_BG_EPIC
+  rotate: false
+  xy: 359, 1492
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_REWARDS_STEPS_CURRENT_GLOW
+  rotate: false
+  xy: 469, 671
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_REWARDS_STEPS_GRID
+  rotate: false
+  xy: 1, 692
+  size: 324, 67
+  orig: 324, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_TOAST
+  rotate: false
+  xy: 913, 163
+  size: 80, 244
+  orig: 80, 244
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_QUEST_TOAST_EPIC
+  rotate: false
+  xy: 895, 723
+  size: 80, 244
+  orig: 80, 244
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_REPLACE_QUEST_BUTTON
+  rotate: false
+  xy: 513, 1165
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_REPLACE_QUEST_BUTTON_DOWN
+  rotate: false
+  xy: 98, 1189
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_CORNER
+  rotate: false
+  xy: 1, 481
+  size: 262, 209
+  orig: 262, 209
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_CORNER_NORANK
+  rotate: false
+  xy: 265, 481
+  size: 256, 188
+  orig: 256, 188
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_FINAL
+  rotate: false
+  xy: 1, 1
+  size: 768, 478
+  orig: 768, 478
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_NODE_COMPLETE
+  rotate: false
+  xy: 249, 1501
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_NODE_NEXT
+  rotate: false
+  xy: 855, 1509
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_NODE_UPCOMING
+  rotate: false
+  xy: 912, 1509
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_CLAIM_ALL
+  rotate: false
+  xy: 276, 1143
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_COMPLETE
+  rotate: false
+  xy: 1, 905
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_DEFAULT
+  rotate: false
+  xy: 569, 867
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_EPIC
+  rotate: false
+  xy: 327, 671
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_EPIC_COMPLETE
+  rotate: false
+  xy: 143, 904
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_EXPIRED
+  rotate: false
+  xy: 711, 867
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HOLIDAY_FALLFESTIVAL
+  rotate: false
+  xy: 469, 723
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HOLIDAY_FEASTIVUS
+  rotate: false
+  xy: 611, 723
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HOLIDAY_FOODFIGHT
+  rotate: false
+  xy: 753, 723
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HOLIDAY_LAWNOFDOOM
+  rotate: false
+  xy: 1, 761
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,166 @@
+PLANTPEANUT_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_PEANUT_PEANUT_102X24
+  rotate: false
+  xy: 58, 198
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_106X26
+  rotate: false
+  xy: 58, 179
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_113X57
+  rotate: false
+  xy: 1, 1
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_12X13
+  rotate: false
+  xy: 13, 93
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_12X17
+  rotate: false
+  xy: 64, 40
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_16X16
+  rotate: false
+  xy: 1, 93
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_17X17
+  rotate: false
+  xy: 51, 40
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_19X8
+  rotate: false
+  xy: 23, 93
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_27X32
+  rotate: false
+  xy: 108, 100
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_30X30
+  rotate: false
+  xy: 108, 123
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_30X30_2
+  rotate: false
+  xy: 108, 144
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_32X30
+  rotate: false
+  xy: 24, 208
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_33X31
+  rotate: false
+  xy: 101, 56
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_33X31_2
+  rotate: false
+  xy: 101, 78
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_33X31_3
+  rotate: false
+  xy: 1, 208
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_45X25
+  rotate: false
+  xy: 1, 158
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_74X73
+  rotate: false
+  xy: 1, 109
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_74X80
+  rotate: false
+  xy: 1, 40
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_75X79
+  rotate: false
+  xy: 51, 56
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_75X82
+  rotate: false
+  xy: 76, 1
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_86X42
+  rotate: false
+  xy: 1, 179
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_86X51
+  rotate: false
+  xy: 51, 109
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PEANUT_PEANUT_86X51_2
+  rotate: false
+  xy: 51, 144
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,117 @@
+UI_DIFFICULTY_MODIFIERS_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_HEADSTART_12
+  rotate: false
+  xy: 1, 1
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_HEADSTART_6
+  rotate: false
+  xy: 67, 1
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_HEADSTART_9
+  rotate: false
+  xy: 133, 1
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_MOVERS
+  rotate: false
+  xy: 1, 72
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_NOSTARTING_SUN
+  rotate: false
+  xy: 67, 143
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_NO_MOVERS
+  rotate: false
+  xy: 67, 72
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_NO_PF
+  rotate: false
+  xy: 133, 72
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_NO_SUN
+  rotate: false
+  xy: 1, 143
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_PF
+  rotate: false
+  xy: 133, 143
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_SEED_PACKET
+  rotate: false
+  xy: 1, 214
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_STARTING_SUN
+  rotate: false
+  xy: 67, 214
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_SUN_HALFWAY
+  rotate: false
+  xy: 133, 214
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_SUN_OUT
+  rotate: false
+  xy: 1, 285
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_ZOMBIE_LEVEL_ANGRY
+  rotate: false
+  xy: 67, 285
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_ZOMBIE_LEVEL_BASIC
+  rotate: false
+  xy: 133, 285
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_MODIFIER_ICONS_DIFFICULTY_MODIFIER_ZOMBIE_LEVEL_MED
+  rotate: false
+  xy: 1, 356
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1

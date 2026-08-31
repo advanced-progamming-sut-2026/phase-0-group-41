@@ -1,0 +1,999 @@
+ZOMBIEFUTUREBASICGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_135X8
+  rotate: false
+  xy: 1, 354
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_141X133
+  rotate: false
+  xy: 192, 1
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_143X137
+  rotate: false
+  xy: 98, 1
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_148X142
+  rotate: false
+  xy: 1, 1
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_19X19
+  rotate: false
+  xy: 497, 166
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_20X40
+  rotate: false
+  xy: 498, 312
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_23X55
+  rotate: false
+  xy: 51, 299
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_23X55_2
+  rotate: false
+  xy: 68, 299
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_24X65
+  rotate: false
+  xy: 495, 224
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_25X25
+  rotate: false
+  xy: 199, 376
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_26X42
+  rotate: false
+  xy: 447, 318
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_26X42_2
+  rotate: false
+  xy: 1, 321
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_26X45
+  rotate: false
+  xy: 371, 317
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_27X24
+  rotate: false
+  xy: 266, 369
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_28X12
+  rotate: false
+  xy: 128, 187
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_28X12_2
+  rotate: false
+  xy: 22, 208
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_28X33
+  rotate: false
+  xy: 43, 361
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_29X45
+  rotate: false
+  xy: 158, 297
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_30X24
+  rotate: false
+  xy: 397, 362
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_30X37
+  rotate: false
+  xy: 123, 328
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_31X46
+  rotate: false
+  xy: 459, 286
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_35X24
+  rotate: false
+  xy: 128, 361
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_36X39
+  rotate: false
+  xy: 1, 294
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_36X45
+  rotate: false
+  xy: 248, 286
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_37X46
+  rotate: false
+  xy: 325, 248
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_40X24
+  rotate: false
+  xy: 238, 353
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_40X44
+  rotate: false
+  xy: 128, 157
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_40X45
+  rotate: false
+  xy: 160, 91
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_43X25
+  rotate: false
+  xy: 276, 329
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_48X76
+  rotate: false
+  xy: 124, 246
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_52X31
+  rotate: false
+  xy: 22, 272
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_56X31
+  rotate: false
+  xy: 351, 248
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_6X6
+  rotate: false
+  xy: 185, 128
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_70X71
+  rotate: false
+  xy: 22, 224
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_76X74
+  rotate: false
+  xy: 270, 158
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_79X69
+  rotate: false
+  xy: 128, 200
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_80X100
+  rotate: false
+  xy: 389, 92
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_82X76
+  rotate: false
+  xy: 215, 149
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_83X95
+  rotate: false
+  xy: 442, 129
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_85X59
+  rotate: false
+  xy: 344, 208
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_94X100
+  rotate: false
+  xy: 274, 92
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_BRICK_ZOMBIE_FUTURE_BASIC_BRICK_96X97
+  rotate: false
+  xy: 448, 65
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_135X8
+  rotate: false
+  xy: 367, 348
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_20X40
+  rotate: false
+  xy: 423, 158
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_23X55
+  rotate: false
+  xy: 497, 129
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_23X55_2
+  rotate: false
+  xy: 295, 292
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_24X65
+  rotate: false
+  xy: 77, 94
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_25X25
+  rotate: false
+  xy: 231, 371
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_26X42
+  rotate: false
+  xy: 401, 208
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_26X42_2
+  rotate: false
+  xy: 428, 318
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_26X45
+  rotate: false
+  xy: 238, 317
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_27X24
+  rotate: false
+  xy: 77, 138
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_28X33
+  rotate: false
+  xy: 23, 361
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_29X45
+  rotate: false
+  xy: 137, 297
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_30X24
+  rotate: false
+  xy: 376, 362
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_30X37
+  rotate: false
+  xy: 346, 324
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_31X46
+  rotate: false
+  xy: 437, 286
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_35X24
+  rotate: false
+  xy: 103, 361
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_36X39
+  rotate: false
+  xy: 160, 122
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_36X45
+  rotate: false
+  xy: 223, 286
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_37X46
+  rotate: false
+  xy: 476, 192
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_43X25
+  rotate: false
+  xy: 186, 328
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_48X76
+  rotate: false
+  xy: 22, 157
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_52X31
+  rotate: false
+  xy: 351, 270
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_56X31
+  rotate: false
+  xy: 287, 248
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_6X6
+  rotate: false
+  xy: 185, 122
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_70X71
+  rotate: false
+  xy: 77, 207
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_76X74
+  rotate: false
+  xy: 77, 157
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_79X69
+  rotate: false
+  xy: 423, 192
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_80X100
+  rotate: false
+  xy: 336, 92
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_82X76
+  rotate: false
+  xy: 160, 149
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_83X95
+  rotate: false
+  xy: 1, 94
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_85X59
+  rotate: false
+  xy: 287, 208
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_94X100
+  rotate: false
+  xy: 98, 91
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_BASIC_ZOMBIE_FUTURE_BASIC_96X97
+  rotate: false
+  xy: 448, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_124X92
+  rotate: false
+  xy: 192, 88
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_135X8
+  rotate: false
+  xy: 90, 354
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_20X40
+  rotate: false
+  xy: 346, 362
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_23X55
+  rotate: false
+  xy: 312, 302
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_23X55_2
+  rotate: false
+  xy: 329, 302
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_24X65
+  rotate: false
+  xy: 495, 268
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_25X25
+  rotate: false
+  xy: 418, 376
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_26X42
+  rotate: false
+  xy: 20, 321
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_26X42_2
+  rotate: false
+  xy: 85, 321
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_26X45
+  rotate: false
+  xy: 390, 317
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_27X24
+  rotate: false
+  xy: 468, 370
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_28X33
+  rotate: false
+  xy: 63, 361
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_29X200
+  rotate: false
+  xy: 56, 94
+  size: 19, 128
+  orig: 19, 128
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_29X45
+  rotate: false
+  xy: 179, 297
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_30X24
+  rotate: false
+  xy: 178, 368
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_30X31
+  rotate: false
+  xy: 210, 354
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_30X37
+  rotate: false
+  xy: 144, 328
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_31X30
+  rotate: false
+  xy: 425, 355
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_31X46
+  rotate: false
+  xy: 273, 292
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_34X30
+  rotate: false
+  xy: 456, 347
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_34X31
+  rotate: false
+  xy: 186, 346
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_35X24
+  rotate: false
+  xy: 153, 361
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_36X39
+  rotate: false
+  xy: 26, 294
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_36X45
+  rotate: false
+  xy: 387, 286
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_37X46
+  rotate: false
+  xy: 223, 254
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_43X25
+  rotate: false
+  xy: 39, 336
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_48X76
+  rotate: false
+  xy: 157, 246
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_52X31
+  rotate: false
+  xy: 58, 277
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_56X31
+  rotate: false
+  xy: 69, 255
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_6X6
+  rotate: false
+  xy: 185, 134
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_70X71
+  rotate: false
+  xy: 401, 238
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_76X74
+  rotate: false
+  xy: 321, 158
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_FLAG_ZOMBIE_FUTURE_FLAG_79X69
+  rotate: false
+  xy: 181, 200
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_125X139
+  rotate: false
+  xy: 284, 1
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_125X139_2
+  rotate: false
+  xy: 366, 1
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_135X8
+  rotate: false
+  xy: 336, 355
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_20X40
+  rotate: false
+  xy: 361, 362
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_23X55
+  rotate: false
+  xy: 481, 312
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_23X55_2
+  rotate: false
+  xy: 221, 317
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_24X65
+  rotate: false
+  xy: 94, 277
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_25X25
+  rotate: false
+  xy: 103, 379
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_26X42
+  rotate: false
+  xy: 104, 324
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_26X42_2
+  rotate: false
+  xy: 257, 324
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_26X45
+  rotate: false
+  xy: 409, 317
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_27X24
+  rotate: false
+  xy: 488, 370
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_28X33
+  rotate: false
+  xy: 83, 361
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_29X200
+  rotate: false
+  xy: 1, 157
+  size: 19, 128
+  orig: 19, 128
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_29X45
+  rotate: false
+  xy: 200, 297
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_30X24
+  rotate: false
+  xy: 447, 368
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_30X31
+  rotate: false
+  xy: 300, 357
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_30X37
+  rotate: false
+  xy: 165, 328
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_31X30
+  rotate: false
+  xy: 1, 361
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_31X46
+  rotate: false
+  xy: 349, 292
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_34X30
+  rotate: false
+  xy: 480, 349
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_34X31
+  rotate: false
+  xy: 276, 347
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_35X24
+  rotate: false
+  xy: 321, 362
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_36X39
+  rotate: false
+  xy: 112, 297
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_36X45
+  rotate: false
+  xy: 412, 286
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_37X46
+  rotate: false
+  xy: 249, 254
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_43X25
+  rotate: false
+  xy: 306, 339
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_48X76
+  rotate: false
+  xy: 190, 246
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_52X31
+  rotate: false
+  xy: 313, 280
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_56X31
+  rotate: false
+  xy: 275, 270
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_6X6
+  rotate: false
+  xy: 185, 140
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_70X71
+  rotate: false
+  xy: 448, 238
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_76X74
+  rotate: false
+  xy: 372, 158
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_VET_FLAG_ZOMBIE_FUTURE_VET_FLAG_79X69
+  rotate: false
+  xy: 234, 208
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1

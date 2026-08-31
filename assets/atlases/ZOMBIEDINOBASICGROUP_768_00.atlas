@@ -1,0 +1,768 @@
+ZOMBIEDINOBASICGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_100X100
+  rotate: false
+  xy: 160, 82
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_103X97
+  rotate: false
+  xy: 1, 96
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_103X97_2
+  rotate: false
+  xy: 410, 133
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_106X100
+  rotate: false
+  xy: 90, 82
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_115X94
+  rotate: false
+  xy: 334, 79
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_119X119
+  rotate: false
+  xy: 336, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_123X100
+  rotate: false
+  xy: 414, 67
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_128X123
+  rotate: false
+  xy: 174, 1
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_135X145
+  rotate: false
+  xy: 1, 1
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_135X8
+  rotate: false
+  xy: 235, 400
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_16X40
+  rotate: false
+  xy: 455, 414
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_16X52
+  rotate: false
+  xy: 376, 401
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_18X50
+  rotate: false
+  xy: 494, 398
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_18X50_2
+  rotate: false
+  xy: 1, 401
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_19X42
+  rotate: false
+  xy: 199, 406
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_19X61
+  rotate: false
+  xy: 392, 141
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_24X36
+  rotate: false
+  xy: 181, 406
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_24X39
+  rotate: false
+  xy: 275, 320
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_24X39_2
+  rotate: false
+  xy: 80, 397
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_24X40
+  rotate: false
+  xy: 372, 265
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_26X44
+  rotate: false
+  xy: 69, 96
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_27X39
+  rotate: false
+  xy: 412, 388
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_28X33
+  rotate: false
+  xy: 161, 406
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_30X24
+  rotate: false
+  xy: 234, 407
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_30X31
+  rotate: false
+  xy: 120, 401
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_30X37
+  rotate: false
+  xy: 125, 375
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_31X30
+  rotate: false
+  xy: 354, 401
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_33X21
+  rotate: false
+  xy: 432, 414
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_33X59
+  rotate: false
+  xy: 196, 148
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_34X30
+  rotate: false
+  xy: 56, 397
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_34X31
+  rotate: false
+  xy: 456, 392
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_36X39
+  rotate: false
+  xy: 367, 374
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_36X45
+  rotate: false
+  xy: 232, 368
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_37X45
+  rotate: false
+  xy: 206, 368
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_39X19
+  rotate: false
+  xy: 282, 407
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_42X19
+  rotate: false
+  xy: 196, 188
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_49X190
+  rotate: false
+  xy: 358, 141
+  size: 32, 122
+  orig: 32, 122
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_55X26
+  rotate: false
+  xy: 330, 374
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_60X35
+  rotate: false
+  xy: 443, 367
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_69X79
+  rotate: false
+  xy: 350, 321
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_6X6
+  rotate: false
+  xy: 249, 88
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_70X71
+  rotate: false
+  xy: 111, 327
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_72X51
+  rotate: false
+  xy: 158, 364
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_76X72
+  rotate: false
+  xy: 224, 320
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_76X78
+  rotate: false
+  xy: 118, 275
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_79X94
+  rotate: false
+  xy: 392, 259
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_79X95
+  rotate: false
+  xy: 1, 224
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_7X7
+  rotate: false
+  xy: 502, 70
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_82X67
+  rotate: false
+  xy: 169, 319
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_82X69
+  rotate: false
+  xy: 56, 316
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_83X58
+  rotate: false
+  xy: 1, 362
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_84X95
+  rotate: false
+  xy: 252, 205
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_90X94
+  rotate: false
+  xy: 392, 197
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_92X96
+  rotate: false
+  xy: 1, 160
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_97X76
+  rotate: false
+  xy: 54, 265
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_97X76_2
+  rotate: false
+  xy: 308, 265
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_97X76_3
+  rotate: false
+  xy: 180, 268
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_98X80
+  rotate: false
+  xy: 62, 212
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_99X97
+  rotate: false
+  xy: 226, 141
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_99X97_2
+  rotate: false
+  xy: 292, 141
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_BRICK_ZOMBIE_DINO_BASIC_BRICK_99X97_3
+  rotate: false
+  xy: 69, 148
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_115X94
+  rotate: false
+  xy: 258, 79
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_119X119
+  rotate: false
+  xy: 258, 1
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_123X100
+  rotate: false
+  xy: 414, 1
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_128X123
+  rotate: false
+  xy: 90, 1
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_135X8
+  rotate: false
+  xy: 146, 399
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_16X40
+  rotate: false
+  xy: 332, 414
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_16X52
+  rotate: false
+  xy: 295, 268
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_18X50
+  rotate: false
+  xy: 180, 212
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_18X50_2
+  rotate: false
+  xy: 480, 398
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_19X42
+  rotate: false
+  xy: 257, 368
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_19X61
+  rotate: false
+  xy: 495, 1
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_24X36
+  rotate: false
+  xy: 36, 401
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_24X39
+  rotate: false
+  xy: 372, 293
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_24X39_2
+  rotate: false
+  xy: 496, 319
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_24X40
+  rotate: false
+  xy: 495, 42
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_26X44
+  rotate: false
+  xy: 495, 79
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_27X39
+  rotate: false
+  xy: 392, 388
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_28X33
+  rotate: false
+  xy: 141, 406
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_30X24
+  rotate: false
+  xy: 213, 406
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_30X31
+  rotate: false
+  xy: 15, 401
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_30X37
+  rotate: false
+  xy: 104, 375
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_31X30
+  rotate: false
+  xy: 98, 401
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_33X21
+  rotate: false
+  xy: 309, 414
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_33X59
+  rotate: false
+  xy: 226, 82
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_34X30
+  rotate: false
+  xy: 330, 393
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_34X31
+  rotate: false
+  xy: 432, 392
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_36X39
+  rotate: false
+  xy: 452, 228
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_36X45
+  rotate: false
+  xy: 452, 197
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_37X45
+  rotate: false
+  xy: 484, 367
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_39X19
+  rotate: false
+  xy: 255, 407
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_42X19
+  rotate: false
+  xy: 226, 122
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_49X190
+  rotate: false
+  xy: 478, 133
+  size: 32, 122
+  orig: 32, 122
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_55X26
+  rotate: false
+  xy: 396, 369
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_60X35
+  rotate: false
+  xy: 1, 287
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_69X79
+  rotate: false
+  xy: 308, 205
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_6X6
+  rotate: false
+  xy: 249, 82
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_70X71
+  rotate: false
+  xy: 396, 321
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_72X51
+  rotate: false
+  xy: 56, 362
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_76X72
+  rotate: false
+  xy: 445, 319
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_76X78
+  rotate: false
+  xy: 244, 268
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_79X94
+  rotate: false
+  xy: 452, 257
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_79X95
+  rotate: false
+  xy: 127, 212
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_7X7
+  rotate: false
+  xy: 495, 70
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_82X67
+  rotate: false
+  xy: 295, 316
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_82X69
+  rotate: false
+  xy: 1, 316
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_83X58
+  rotate: false
+  xy: 275, 361
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_84X95
+  rotate: false
+  xy: 196, 205
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_BASIC_ZOMBIE_DINO_BASIC_92X96
+  rotate: false
+  xy: 135, 148
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1

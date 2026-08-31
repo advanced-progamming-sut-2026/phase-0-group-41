@@ -1,0 +1,40 @@
+DIRT_SPAWN_GRASS_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DIRT_SPAWN_GRASS_DIRT_SPAWN_GRASS_179X50
+  rotate: false
+  xy: 1, 1
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_GRASS_DIRT_SPAWN_GRASS_20X22
+  rotate: false
+  xy: 82, 35
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_GRASS_DIRT_SPAWN_GRASS_22X22
+  rotate: false
+  xy: 66, 35
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_GRASS_DIRT_SPAWN_GRASS_34X28
+  rotate: false
+  xy: 42, 35
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_GRASS_DIRT_SPAWN_GRASS_61X78
+  rotate: false
+  xy: 1, 35
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1

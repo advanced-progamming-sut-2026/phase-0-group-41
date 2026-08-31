@@ -1,0 +1,82 @@
+JOUST_WINSTREAK_EXPLOSION_768_00.PNG
+size: 64, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_14X17
+  rotate: false
+  xy: 54, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_14X17_2
+  rotate: false
+  xy: 54, 14
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_14X17_3
+  rotate: false
+  xy: 54, 27
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_27X27
+  rotate: false
+  xy: 36, 85
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_27X28
+  rotate: false
+  xy: 36, 105
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_41X40
+  rotate: false
+  xy: 36, 57
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_51X73
+  rotate: false
+  xy: 1, 57
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_79X84
+  rotate: false
+  xy: 1, 1
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_8X9
+  rotate: false
+  xy: 54, 40
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_8X9_2
+  rotate: false
+  xy: 54, 48
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WINSTREAK_EXPLOSION_WINSTREAK_EXPLOSION_8X9_3
+  rotate: false
+  xy: 56, 85
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1

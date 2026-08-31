@@ -1,0 +1,40 @@
+ZOMBIEEGYPTPHARAOHEFFECTSGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_DOWN_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM
+  rotate: false
+  xy: 193, 1
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_DOWN_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_BURST
+  rotate: false
+  xy: 1, 1
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_DOWN_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_DOWN_CIRCLES
+  rotate: false
+  xy: 97, 1
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_UP_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM
+  rotate: false
+  xy: 193, 84
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_UP_ZOMBIE_EGYPT_SARCOPHAGUS_BEAM_BURST
+  rotate: false
+  xy: 1, 97
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

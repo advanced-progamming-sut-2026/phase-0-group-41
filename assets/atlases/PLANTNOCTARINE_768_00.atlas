@@ -1,0 +1,1349 @@
+PLANTNOCTARINE_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_113X53
+  rotate: false
+  xy: 314, 864
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_34X34
+  rotate: false
+  xy: 126, 909
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_34X34_2
+  rotate: false
+  xy: 150, 909
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_51X51
+  rotate: false
+  xy: 981, 499
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_51X51_2
+  rotate: false
+  xy: 987, 605
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_70X69
+  rotate: false
+  xy: 708, 647
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_70X69_2
+  rotate: false
+  xy: 979, 789
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_76X72
+  rotate: false
+  xy: 93, 763
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_EFFECT_NOCTARINE_CLOUD_EFFECT_76X72_2
+  rotate: false
+  xy: 586, 867
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_109X106
+  rotate: false
+  xy: 563, 715
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_113X53
+  rotate: false
+  xy: 1, 863
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_1146X255
+  rotate: false
+  xy: 1, 1
+  size: 734, 163
+  orig: 734, 163
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_1146X255_2
+  rotate: false
+  xy: 1, 166
+  size: 734, 163
+  orig: 734, 163
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_1180X244
+  rotate: false
+  xy: 1, 331
+  size: 755, 156
+  orig: 755, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_1180X244_2
+  rotate: false
+  xy: 1, 489
+  size: 755, 156
+  orig: 755, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_143X124
+  rotate: false
+  xy: 758, 644
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_185X203
+  rotate: false
+  xy: 737, 1
+  size: 119, 130
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_76X75
+  rotate: false
+  xy: 389, 864
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CLOUD_NOCTARINE_CLOUD_93X86
+  rotate: false
+  xy: 769, 822
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_103X101
+  rotate: false
+  xy: 149, 755
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_10X15
+  rotate: false
+  xy: 1016, 196
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_112X82
+  rotate: false
+  xy: 841, 789
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_133X222
+  rotate: false
+  xy: 758, 374
+  size: 85, 142
+  orig: 85, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_136X102
+  rotate: false
+  xy: 563, 647
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_140X71
+  rotate: false
+  xy: 1, 763
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_14X74
+  rotate: false
+  xy: 1012, 253
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_190X117
+  rotate: false
+  xy: 863, 605
+  size: 122, 75
+  orig: 122, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_194X194
+  rotate: false
+  xy: 858, 1
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_1X1
+  rotate: false
+  xy: 1022, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_1X1_2
+  rotate: false
+  xy: 1022, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_20X60
+  rotate: false
+  xy: 842, 133
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_34X34
+  rotate: false
+  xy: 731, 911
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_46X46
+  rotate: false
+  xy: 667, 897
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_47X47
+  rotate: false
+  xy: 699, 897
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_47X47_2
+  rotate: false
+  xy: 817, 898
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_47X47_3
+  rotate: false
+  xy: 849, 898
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_47X47_4
+  rotate: false
+  xy: 1, 899
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_51X51
+  rotate: false
+  xy: 987, 640
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_56X57
+  rotate: false
+  xy: 984, 1
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_77X129
+  rotate: false
+  xy: 217, 755
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_CORPSE_EXPLOSION_NOCTARINE_CORPSE_EXPLOSION_78X81
+  rotate: false
+  xy: 831, 844
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_100X47
+  rotate: false
+  xy: 500, 876
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_100X47_2
+  rotate: false
+  xy: 751, 879
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_103X254
+  rotate: false
+  xy: 845, 374
+  size: 66, 163
+  orig: 66, 163
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_103X254_2
+  rotate: false
+  xy: 913, 374
+  size: 66, 163
+  orig: 66, 163
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_111X78
+  rotate: false
+  xy: 1, 811
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_111X78_2
+  rotate: false
+  xy: 74, 811
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_122X51
+  rotate: false
+  xy: 938, 850
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_122X51_2
+  rotate: false
+  xy: 234, 853
+  size: 78, 33
+  orig: 78, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_133X60
+  rotate: false
+  xy: 385, 823
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_133X60_2
+  rotate: false
+  xy: 147, 840
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_14X74
+  rotate: false
+  xy: 1012, 303
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_161X160
+  rotate: false
+  xy: 737, 133
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_161X160_2
+  rotate: false
+  xy: 758, 539
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_175X39
+  rotate: false
+  xy: 472, 849
+  size: 112, 25
+  orig: 112, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_177X46
+  rotate: false
+  xy: 269, 821
+  size: 114, 30
+  orig: 114, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_17X18
+  rotate: false
+  xy: 827, 238
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_17X18_2
+  rotate: false
+  xy: 840, 238
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_18X18
+  rotate: false
+  xy: 799, 238
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_18X18_2
+  rotate: false
+  xy: 813, 238
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_18X30
+  rotate: false
+  xy: 206, 921
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_18X33
+  rotate: false
+  xy: 546, 908
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_194X194
+  rotate: false
+  xy: 858, 127
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_195X186
+  rotate: false
+  xy: 758, 253
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_195X186_2
+  rotate: false
+  xy: 885, 253
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_1X1
+  rotate: false
+  xy: 1022, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_1X1_2
+  rotate: false
+  xy: 1022, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_20X24
+  rotate: false
+  xy: 309, 733
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_20X24_2
+  rotate: false
+  xy: 608, 849
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_20X60
+  rotate: false
+  xy: 842, 174
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_22X33
+  rotate: false
+  xy: 740, 693
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_23X18
+  rotate: false
+  xy: 984, 118
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_241X99
+  rotate: false
+  xy: 863, 539
+  size: 154, 64
+  orig: 154, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_247X49
+  rotate: false
+  xy: 149, 687
+  size: 158, 32
+  orig: 158, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_247X49_2
+  rotate: false
+  xy: 149, 721
+  size: 158, 32
+  orig: 158, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_250X59
+  rotate: false
+  xy: 1, 647
+  size: 160, 38
+  orig: 160, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_250X59_2
+  rotate: false
+  xy: 163, 647
+  size: 160, 38
+  orig: 160, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_28X29
+  rotate: false
+  xy: 604, 915
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_28X29_2
+  rotate: false
+  xy: 1002, 915
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_28X30
+  rotate: false
+  xy: 932, 919
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_28X30_2
+  rotate: false
+  xy: 952, 919
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_29X36
+  rotate: false
+  xy: 419, 914
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_29X36_2
+  rotate: false
+  xy: 440, 914
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_30X29
+  rotate: false
+  xy: 91, 915
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_30X29_2
+  rotate: false
+  xy: 583, 915
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_31X23
+  rotate: false
+  xy: 586, 849
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_31X23_2
+  rotate: false
+  xy: 972, 919
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_32X42
+  rotate: false
+  xy: 909, 901
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_32X42_2
+  rotate: false
+  xy: 637, 907
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_33X30
+  rotate: false
+  xy: 461, 914
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_33X30_2
+  rotate: false
+  xy: 68, 915
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_34X31
+  rotate: false
+  xy: 755, 911
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_34X31_2
+  rotate: false
+  xy: 779, 911
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_41X39
+  rotate: false
+  xy: 667, 867
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_41X39_2
+  rotate: false
+  xy: 881, 901
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_44X59
+  rotate: false
+  xy: 637, 867
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_44X59_2
+  rotate: false
+  xy: 192, 881
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_46X50
+  rotate: false
+  xy: 938, 885
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_46X50_2
+  rotate: false
+  xy: 970, 885
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_47X48
+  rotate: false
+  xy: 708, 693
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_47X50
+  rotate: false
+  xy: 222, 888
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_47X50_2
+  rotate: false
+  xy: 254, 888
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_49X23
+  rotate: false
+  xy: 758, 518
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_49X23_2
+  rotate: false
+  xy: 792, 518
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_56X57
+  rotate: false
+  xy: 984, 40
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_56X57_2
+  rotate: false
+  xy: 984, 79
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_59X45
+  rotate: false
+  xy: 981, 437
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_59X45_2
+  rotate: false
+  xy: 981, 468
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_62X95
+  rotate: false
+  xy: 984, 133
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_62X95_2
+  rotate: false
+  xy: 981, 374
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_70X146
+  rotate: false
+  xy: 794, 726
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_70X146_2
+  rotate: false
+  xy: 513, 753
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_75X77
+  rotate: false
+  xy: 76, 863
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_82X163
+  rotate: false
+  xy: 908, 682
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_82X163_2
+  rotate: false
+  xy: 963, 682
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_83X76
+  rotate: false
+  xy: 696, 846
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_83X76_2
+  rotate: false
+  xy: 883, 850
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_84X164
+  rotate: false
+  xy: 652, 647
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_84X164_2
+  rotate: false
+  xy: 852, 682
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_87X162
+  rotate: false
+  xy: 447, 647
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_87X162_2
+  rotate: false
+  xy: 505, 647
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_91X56
+  rotate: false
+  xy: 440, 876
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_92X159
+  rotate: false
+  xy: 325, 647
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_92X159_2
+  rotate: false
+  xy: 386, 647
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_99X41
+  rotate: false
+  xy: 126, 881
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_99X96
+  rotate: false
+  xy: 703, 782
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NOCTARINE_EFFECT_NOCTARINE_EFFECT_99X96_2
+  rotate: false
+  xy: 560, 785
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_103X105
+  rotate: false
+  xy: 635, 754
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_103X106
+  rotate: false
+  xy: 309, 751
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_103X106_2
+  rotate: false
+  xy: 377, 751
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_103X106_3
+  rotate: false
+  xy: 445, 753
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_106X66
+  rotate: false
+  xy: 626, 823
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_10X12
+  rotate: false
+  xy: 1016, 208
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_10X12_2
+  rotate: false
+  xy: 1016, 218
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_112X115
+  rotate: false
+  xy: 1, 687
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_112X115_2
+  rotate: false
+  xy: 75, 687
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_11X11
+  rotate: false
+  xy: 1016, 499
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_11X11_2
+  rotate: false
+  xy: 1016, 508
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_131X84
+  rotate: false
+  xy: 708, 726
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_16X20
+  rotate: false
+  xy: 1012, 353
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_16X20_2
+  rotate: false
+  xy: 635, 738
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_18X28
+  rotate: false
+  xy: 290, 923
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_18X30
+  rotate: false
+  xy: 51, 922
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_18X31
+  rotate: false
+  xy: 484, 914
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_18X33
+  rotate: false
+  xy: 174, 909
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_19X20
+  rotate: false
+  xy: 771, 238
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_19X20_2
+  rotate: false
+  xy: 785, 238
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_19X29
+  rotate: false
+  xy: 220, 922
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_19X29_2
+  rotate: false
+  xy: 234, 922
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_19X29_3
+  rotate: false
+  xy: 248, 922
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_19X29_4
+  rotate: false
+  xy: 262, 922
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_19X29_5
+  rotate: false
+  xy: 276, 923
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_1X1
+  rotate: false
+  xy: 1022, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X16
+  rotate: false
+  xy: 979, 835
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X16_2
+  rotate: false
+  xy: 994, 835
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X16_3
+  rotate: false
+  xy: 1009, 835
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X16_4
+  rotate: false
+  xy: 234, 840
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X24
+  rotate: false
+  xy: 304, 923
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X24_2
+  rotate: false
+  xy: 881, 928
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X32
+  rotate: false
+  xy: 842, 215
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X32_2
+  rotate: false
+  xy: 309, 687
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X32_3
+  rotate: false
+  xy: 309, 710
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X32_4
+  rotate: false
+  xy: 635, 715
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_20X32_5
+  rotate: false
+  xy: 751, 846
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_23X19
+  rotate: false
+  xy: 1001, 118
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_23X19_2
+  rotate: false
+  xy: 754, 238
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_23X65
+  rotate: false
+  xy: 737, 238
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_23X65_2
+  rotate: false
+  xy: 737, 282
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_23X65_3
+  rotate: false
+  xy: 566, 876
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_24X23
+  rotate: false
+  xy: 826, 518
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_25X23
+  rotate: false
+  xy: 126, 863
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_25X23_2
+  rotate: false
+  xy: 560, 920
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_25X23_3
+  rotate: false
+  xy: 188, 921
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_25X23_4
+  rotate: false
+  xy: 33, 922
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_32X42
+  rotate: false
+  xy: 500, 908
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_32X42_2
+  rotate: false
+  xy: 523, 908
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_32X43
+  rotate: false
+  xy: 769, 782
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_32X43_2
+  rotate: false
+  xy: 1002, 885
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_34X31
+  rotate: false
+  xy: 371, 914
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_34X31_2
+  rotate: false
+  xy: 395, 914
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_35X45
+  rotate: false
+  xy: 321, 900
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_35X45_2
+  rotate: false
+  xy: 346, 900
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_46X56
+  rotate: false
+  xy: 269, 755
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_47X57
+  rotate: false
+  xy: 984, 196
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_49X23
+  rotate: false
+  xy: 147, 822
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_49X23_2
+  rotate: false
+  xy: 181, 822
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_51X32
+  rotate: false
+  xy: 269, 793
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_51X32_2
+  rotate: false
+  xy: 472, 823
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_51X32_3
+  rotate: false
+  xy: 33, 899
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_51X32_4
+  rotate: false
+  xy: 286, 900
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_60X25
+  rotate: false
+  xy: 984, 235
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NOCTARINE_NOCTARINE_96X92
+  rotate: false
+  xy: 915, 789
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1

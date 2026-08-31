@@ -1,0 +1,110 @@
+UI_UNIVERSE_LOCK_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_128X120
+  rotate: false
+  xy: 415, 159
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_153X145
+  rotate: false
+  xy: 406, 263
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_165X121
+  rotate: false
+  xy: 1, 282
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_190X146
+  rotate: false
+  xy: 282, 263
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_205X188
+  rotate: false
+  xy: 282, 140
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_230X213
+  rotate: false
+  xy: 282, 1
+  size: 147, 137
+  orig: 147, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_33X31
+  rotate: false
+  xy: 486, 1
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_435X435
+  rotate: false
+  xy: 1, 1
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_56X56
+  rotate: false
+  xy: 406, 358
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_59X57
+  rotate: false
+  xy: 211, 353
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_64X98
+  rotate: false
+  xy: 168, 348
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_77X108
+  rotate: false
+  xy: 224, 282
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_83X243
+  rotate: false
+  xy: 431, 1
+  size: 53, 156
+  orig: 53, 156
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_84X99
+  rotate: false
+  xy: 168, 282
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLD_LOCK_WORLD_LOCK_89X123
+  rotate: false
+  xy: 109, 282
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1

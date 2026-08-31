@@ -1,0 +1,313 @@
+PLANTGRIMROSE_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GRIMROSE_CONNECT_BEAM_GRIMROSE_CONNECT_BEAM_66X30
+  rotate: false
+  xy: 89, 322
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRIMROSE_UNDERZOMBIE_EFFECT_GRIMROSE_UNDERZOMBIE_EFFECT_135X154
+  rotate: false
+  xy: 1, 1
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GRIMROSE_UNDERZOMBIE_EFFECT_GRIMROSE_UNDERZOMBIE_EFFECT_167X52
+  rotate: false
+  xy: 1, 103
+  size: 107, 34
+  orig: 107, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_12X12
+  rotate: false
+  xy: 231, 58
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_13X14
+  rotate: false
+  xy: 243, 55
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_13X7
+  rotate: false
+  xy: 190, 72
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_141X59
+  rotate: false
+  xy: 1, 139
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_141X59_2
+  rotate: false
+  xy: 93, 139
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_14X19
+  rotate: false
+  xy: 243, 41
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_152X77
+  rotate: false
+  xy: 90, 51
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_163X75
+  rotate: false
+  xy: 90, 1
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_167X52
+  rotate: false
+  xy: 110, 103
+  size: 107, 34
+  orig: 107, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_16X23
+  rotate: false
+  xy: 231, 41
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_36X28
+  rotate: false
+  xy: 231, 1
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_36X28_2
+  rotate: false
+  xy: 231, 21
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_44X56
+  rotate: false
+  xy: 191, 289
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_45X56
+  rotate: false
+  xy: 224, 182
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_45X56_2
+  rotate: false
+  xy: 128, 253
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_47X52
+  rotate: false
+  xy: 159, 253
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_47X52_2
+  rotate: false
+  xy: 191, 253
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_47X52_3
+  rotate: false
+  xy: 223, 253
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_47X52_4
+  rotate: false
+  xy: 54, 260
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_47X52_5
+  rotate: false
+  xy: 86, 260
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_47X52_6
+  rotate: false
+  xy: 1, 272
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_47X52_7
+  rotate: false
+  xy: 159, 289
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_49X107
+  rotate: false
+  xy: 197, 1
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_49X107_2
+  rotate: false
+  xy: 219, 72
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_49X70
+  rotate: false
+  xy: 60, 213
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_49X70_2
+  rotate: false
+  xy: 94, 213
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_60X37
+  rotate: false
+  xy: 33, 296
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_60X37_2
+  rotate: false
+  xy: 74, 296
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_62X25
+  rotate: false
+  xy: 115, 296
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_62X25_2
+  rotate: false
+  xy: 133, 325
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_65X32
+  rotate: false
+  xy: 1, 322
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_65X32_2
+  rotate: false
+  xy: 45, 322
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_65X65
+  rotate: false
+  xy: 180, 182
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_79X38
+  rotate: false
+  xy: 1, 218
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_79X38_2
+  rotate: false
+  xy: 1, 245
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_88X39
+  rotate: false
+  xy: 128, 226
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_88X39_2
+  rotate: false
+  xy: 187, 226
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_88X57
+  rotate: false
+  xy: 185, 143
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_88X57_2
+  rotate: false
+  xy: 1, 179
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_91X50
+  rotate: false
+  xy: 60, 179
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GRIMROSE_GRIMROSE_91X50_2
+  rotate: false
+  xy: 120, 179
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1

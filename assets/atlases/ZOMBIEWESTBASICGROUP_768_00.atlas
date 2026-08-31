@@ -1,0 +1,859 @@
+ZOMBIEWESTBASICGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_100X75
+  rotate: false
+  xy: 1, 160
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_101X91
+  rotate: false
+  xy: 200, 103
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_135X8
+  rotate: false
+  xy: 106, 375
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_136X156
+  rotate: false
+  xy: 286, 1
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_149X150
+  rotate: false
+  xy: 99, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_15X35
+  rotate: false
+  xy: 366, 257
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_21X45
+  rotate: false
+  xy: 324, 303
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_24X39
+  rotate: false
+  xy: 420, 386
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_24X48
+  rotate: false
+  xy: 239, 346
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_24X57
+  rotate: false
+  xy: 459, 315
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_28X33
+  rotate: false
+  xy: 253, 387
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_28X44
+  rotate: false
+  xy: 134, 341
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_30X36
+  rotate: false
+  xy: 381, 364
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_31X48
+  rotate: false
+  xy: 94, 308
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_32X45
+  rotate: false
+  xy: 436, 315
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_32X47
+  rotate: false
+  xy: 48, 307
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_36X22
+  rotate: false
+  xy: 338, 394
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_36X43
+  rotate: false
+  xy: 341, 257
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_42X25
+  rotate: false
+  xy: 346, 376
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_44X23
+  rotate: false
+  xy: 136, 382
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_44X24
+  rotate: false
+  xy: 442, 354
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_48X28
+  rotate: false
+  xy: 48, 339
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_52X33
+  rotate: false
+  xy: 333, 126
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_70X72
+  rotate: false
+  xy: 162, 270
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_72X77
+  rotate: false
+  xy: 465, 163
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_79X69
+  rotate: false
+  xy: 1, 257
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_80X83
+  rotate: false
+  xy: 120, 163
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_80X83_2
+  rotate: false
+  xy: 173, 163
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_82X82
+  rotate: false
+  xy: 457, 56
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_83X66
+  rotate: false
+  xy: 107, 264
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_93X70
+  rotate: false
+  xy: 1, 210
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_99X87
+  rotate: false
+  xy: 333, 152
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_BRICK_ZOMBIE_WEST_BASIC_BRICK_99X92
+  rotate: false
+  xy: 67, 99
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_100X75
+  rotate: false
+  xy: 399, 152
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_101X91
+  rotate: false
+  xy: 133, 103
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_135X8
+  rotate: false
+  xy: 257, 373
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_136X156
+  rotate: false
+  xy: 197, 1
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_149X150
+  rotate: false
+  xy: 1, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_15X35
+  rotate: false
+  xy: 320, 161
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_21X45
+  rotate: false
+  xy: 382, 210
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_24X39
+  rotate: false
+  xy: 402, 386
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_24X48
+  rotate: false
+  xy: 363, 343
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_24X57
+  rotate: false
+  xy: 254, 307
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_28X33
+  rotate: false
+  xy: 233, 387
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_28X44
+  rotate: false
+  xy: 114, 341
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_30X36
+  rotate: false
+  xy: 85, 361
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_31X48
+  rotate: false
+  xy: 232, 307
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_32X45
+  rotate: false
+  xy: 413, 315
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_32X47
+  rotate: false
+  xy: 301, 303
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_36X22
+  rotate: false
+  xy: 435, 249
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_36X43
+  rotate: false
+  xy: 288, 216
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_42X25
+  rotate: false
+  xy: 1, 369
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_44X23
+  rotate: false
+  xy: 106, 382
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_44X24
+  rotate: false
+  xy: 1, 351
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_48X28
+  rotate: false
+  xy: 290, 335
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_52X33
+  rotate: false
+  xy: 333, 103
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_70X72
+  rotate: false
+  xy: 435, 267
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_72X77
+  rotate: false
+  xy: 465, 111
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_79X69
+  rotate: false
+  xy: 382, 249
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_80X83
+  rotate: false
+  xy: 67, 160
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_80X83_2
+  rotate: false
+  xy: 267, 161
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_82X82
+  rotate: false
+  xy: 451, 1
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_83X66
+  rotate: false
+  xy: 221, 263
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_93X70
+  rotate: false
+  xy: 399, 202
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_99X87
+  rotate: false
+  xy: 267, 103
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BASIC_ZOMBIE_WEST_BASIC_99X92
+  rotate: false
+  xy: 1, 99
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_125X96
+  rotate: false
+  xy: 375, 88
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_135X8
+  rotate: false
+  xy: 402, 379
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_15X35
+  rotate: false
+  xy: 257, 346
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_20X157
+  rotate: false
+  xy: 482, 267
+  size: 13, 101
+  orig: 13, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_21X45
+  rotate: false
+  xy: 491, 370
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_24X39
+  rotate: false
+  xy: 438, 386
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_24X48
+  rotate: false
+  xy: 406, 346
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_24X57
+  rotate: false
+  xy: 388, 325
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_28X33
+  rotate: false
+  xy: 273, 387
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_28X44
+  rotate: false
+  xy: 323, 343
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_30X31
+  rotate: false
+  xy: 1, 387
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_30X37
+  rotate: false
+  xy: 154, 349
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_31X48
+  rotate: false
+  xy: 116, 308
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_32X45
+  rotate: false
+  xy: 160, 318
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_32X47
+  rotate: false
+  xy: 71, 307
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_34X31
+  rotate: false
+  xy: 196, 360
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_36X22
+  rotate: false
+  xy: 22, 395
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_36X43
+  rotate: false
+  xy: 388, 295
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_42X25
+  rotate: false
+  xy: 30, 377
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_44X23
+  rotate: false
+  xy: 166, 382
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_44X24
+  rotate: false
+  xy: 290, 355
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_48X28
+  rotate: false
+  xy: 206, 340
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_52X33
+  rotate: false
+  xy: 226, 163
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_70X72
+  rotate: false
+  xy: 341, 295
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_72X77
+  rotate: false
+  xy: 461, 215
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_79X69
+  rotate: false
+  xy: 288, 257
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_82X69
+  rotate: false
+  xy: 63, 215
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_FLAG_ZOMBIE_WEST_FLAG_93X70
+  rotate: false
+  xy: 320, 210
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_116X132
+  rotate: false
+  xy: 375, 1
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_135X8
+  rotate: false
+  xy: 220, 380
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_15X35
+  rotate: false
+  xy: 89, 386
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_17X157
+  rotate: false
+  xy: 497, 267
+  size: 11, 101
+  orig: 11, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_21X45
+  rotate: false
+  xy: 196, 382
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_24X39
+  rotate: false
+  xy: 456, 386
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_24X48
+  rotate: false
+  xy: 424, 346
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_24X57
+  rotate: false
+  xy: 272, 333
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_28X33
+  rotate: false
+  xy: 375, 389
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_28X44
+  rotate: false
+  xy: 343, 343
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_30X31
+  rotate: false
+  xy: 212, 387
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_30X37
+  rotate: false
+  xy: 175, 349
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_31X48
+  rotate: false
+  xy: 138, 308
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_32X45
+  rotate: false
+  xy: 183, 318
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_32X47
+  rotate: false
+  xy: 209, 307
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_34X31
+  rotate: false
+  xy: 61, 361
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_36X22
+  rotate: false
+  xy: 293, 398
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_36X43
+  rotate: false
+  xy: 276, 303
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_42X25
+  rotate: false
+  xy: 309, 380
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_44X23
+  rotate: false
+  xy: 59, 386
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_44X24
+  rotate: false
+  xy: 31, 359
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_48X28
+  rotate: false
+  xy: 81, 341
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_52X33
+  rotate: false
+  xy: 226, 186
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_70X72
+  rotate: false
+  xy: 1, 303
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_72X77
+  rotate: false
+  xy: 173, 218
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_79X69
+  rotate: false
+  xy: 54, 261
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_82X69
+  rotate: false
+  xy: 118, 218
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_VETERAN_FLAG_ZOMBIE_WEST_VETERAN_FLAG_93X70
+  rotate: false
+  xy: 226, 216
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1

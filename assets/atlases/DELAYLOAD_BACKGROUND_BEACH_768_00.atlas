@@ -1,0 +1,117 @@
+DELAYLOAD_BACKGROUND_BEACH_768_00.PNG
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_115X129
+  rotate: false
+  xy: 1152, 246
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_124X1335
+  rotate: false
+  xy: 1523, 1
+  size: 80, 855
+  orig: 80, 855
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_189X417
+  rotate: false
+  xy: 1884, 1
+  size: 121, 267
+  orig: 121, 267
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_197X359
+  rotate: false
+  xy: 872, 183
+  size: 126, 230
+  orig: 126, 230
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_234X275
+  rotate: false
+  xy: 1000, 183
+  size: 150, 176
+  orig: 150, 176
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_235X415
+  rotate: false
+  xy: 1687, 1
+  size: 151, 266
+  orig: 151, 266
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_335X95
+  rotate: false
+  xy: 1152, 183
+  size: 215, 61
+  orig: 215, 61
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_66X1299
+  rotate: false
+  xy: 1840, 1
+  size: 42, 832
+  orig: 42, 832
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_869X281
+  rotate: false
+  xy: 872, 1
+  size: 556, 180
+  orig: 556, 180
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_870X1262
+  rotate: false
+  xy: 1, 1
+  size: 557, 808
+  orig: 557, 808
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_UPPERLAYER_WAVE_UPPERLAYER_124X1335
+  rotate: false
+  xy: 1605, 1
+  size: 80, 855
+  orig: 80, 855
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_UPPERLAYER_WAVE_UPPERLAYER_142X1335
+  rotate: false
+  xy: 1430, 1
+  size: 91, 855
+  orig: 91, 855
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_UPPERLAYER_WAVE_UPPERLAYER_2852X86
+  rotate: false
+  xy: 1, 893
+  size: 1826, 55
+  orig: 1826, 55
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_UPPERLAYER_WAVE_UPPERLAYER_484X1390
+  rotate: false
+  xy: 560, 1
+  size: 310, 890
+  orig: 310, 890
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_UPPERLAYER_WAVE_UPPERLAYER_57X27
+  rotate: false
+  xy: 2007, 1
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_WAVE_UPPERLAYER_WAVE_UPPERLAYER_71X26
+  rotate: false
+  xy: 1369, 183
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1

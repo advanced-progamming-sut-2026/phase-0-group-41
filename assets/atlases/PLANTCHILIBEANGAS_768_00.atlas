@@ -1,0 +1,19 @@
+PLANTCHILIBEANGAS_768_00.PNG
+size: 128, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_CHILIBEAN_GAS_ATTACK_CHILIBEAN_FART_01
+  rotate: false
+  xy: 92, 1
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CHILIBEAN_GAS_ATTACK_CHILIBEAN_FART_CLOUD
+  rotate: false
+  xy: 1, 1
+  size: 89, 42
+  orig: 89, 42
+  offset: 0, 0
+  index: -1

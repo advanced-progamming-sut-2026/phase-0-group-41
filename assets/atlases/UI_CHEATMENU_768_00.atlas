@@ -1,0 +1,61 @@
+UI_CHEATMENU_768_00.PNG
+size: 64, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_CHEATMENU_ACTION
+  rotate: false
+  xy: 1, 1
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHEATMENU_CHECKBOX_OFF
+  rotate: false
+  xy: 24, 1
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHEATMENU_CHECKBOX_ON
+  rotate: false
+  xy: 1, 24
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHEATMENU_FAVORITE_OFF
+  rotate: false
+  xy: 24, 24
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHEATMENU_FAVORITE_ON
+  rotate: false
+  xy: 1, 47
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHEATMENU_FOLDER_COLLAPSED
+  rotate: false
+  xy: 24, 47
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHEATMENU_FOLDER_EXPANDED
+  rotate: false
+  xy: 1, 70
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHEATMENU_FOLDER_LANE
+  rotate: false
+  xy: 47, 1
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1

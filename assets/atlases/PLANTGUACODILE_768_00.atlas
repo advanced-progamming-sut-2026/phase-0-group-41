@@ -1,0 +1,215 @@
+PLANTGUACODILE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GUACODILE_PROJECTILE_GUACODILE_PROJECTILE_49X35
+  rotate: false
+  xy: 124, 102
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_GUACODILE_PROJECTILE_T_GUACODILE_PROJECTILE_116X28
+  rotate: false
+  xy: 90, 42
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_GUACODILE_PROJECTILE_T_GUACODILE_PROJECTILE_49X35
+  rotate: false
+  xy: 208, 96
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_GUACODILE_PROJECTILE_T_GUACODILE_PROJECTILE_50X66
+  rotate: false
+  xy: 193, 1
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_GUACODILE_PROJECTILE_T_GUACODILE_PROJECTILE_66X35
+  rotate: false
+  xy: 166, 45
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_GUACODILE_PROJECTILE_T_GUACODILE_PROJECTILE_66X35_2
+  rotate: false
+  xy: 210, 45
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_16X22
+  rotate: false
+  xy: 246, 70
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_18X16
+  rotate: false
+  xy: 242, 115
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_19X24
+  rotate: false
+  xy: 192, 100
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_21X26
+  rotate: false
+  xy: 242, 96
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_29X24
+  rotate: false
+  xy: 90, 121
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_29X33
+  rotate: false
+  xy: 22, 115
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_30X52
+  rotate: false
+  xy: 1, 90
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_31X29
+  rotate: false
+  xy: 55, 74
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_34X60
+  rotate: false
+  xy: 31, 74
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_44X53
+  rotate: false
+  xy: 1, 54
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_44X56
+  rotate: false
+  xy: 227, 1
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_47X47
+  rotate: false
+  xy: 143, 70
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_47X48
+  rotate: false
+  xy: 79, 62
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_47X48_2
+  rotate: false
+  xy: 111, 62
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_48X44
+  rotate: false
+  xy: 175, 70
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_49X35
+  rotate: false
+  xy: 158, 102
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_49X37
+  rotate: false
+  xy: 90, 95
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_51X39
+  rotate: false
+  xy: 55, 95
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_55X43
+  rotate: false
+  xy: 42, 44
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_56X37
+  rotate: false
+  xy: 208, 70
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_61X79
+  rotate: false
+  xy: 1, 1
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_71X64
+  rotate: false
+  xy: 42, 1
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_75X61
+  rotate: false
+  xy: 90, 1
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUACODILE_GUACODILE_79X56
+  rotate: false
+  xy: 140, 1
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1

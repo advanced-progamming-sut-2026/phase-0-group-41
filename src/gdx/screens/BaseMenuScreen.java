@@ -69,7 +69,8 @@ public abstract class BaseMenuScreen implements Screen {
         button.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
-                // Conflict resolved: click sound is fixed and included
+
+
                 SoundManager.playSound(AssetPaths.SFX_CLICK);
                 onClick.run();
             }
@@ -97,7 +98,11 @@ public abstract class BaseMenuScreen implements Screen {
         String bg = backgroundPath();
         if (!bg.isEmpty()) {
             stage.getBatch().begin();
+
+
             // Conflict resolved: Merged version using loadRegion, which is more robust
+
+
             TextureRegion region = ImageUtils.loadRegion(bg);
             stage.getBatch().draw(region, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
             stage.getBatch().end();

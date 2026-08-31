@@ -1,0 +1,194 @@
+ZOMBIEEIGHTIESIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_13X13
+  rotate: false
+  xy: 78, 128
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_13X22
+  rotate: false
+  xy: 37, 128
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_13X24
+  rotate: false
+  xy: 107, 117
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_14X11
+  rotate: false
+  xy: 89, 130
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_14X24
+  rotate: false
+  xy: 118, 117
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_15X24
+  rotate: false
+  xy: 116, 99
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_15X24_2
+  rotate: false
+  xy: 95, 112
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_167X8
+  rotate: false
+  xy: 1, 146
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_16X27
+  rotate: false
+  xy: 115, 62
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_17X23
+  rotate: false
+  xy: 116, 82
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_17X27
+  rotate: false
+  xy: 114, 22
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_17X28
+  rotate: false
+  xy: 115, 42
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_17X29
+  rotate: false
+  xy: 114, 1
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_19X14
+  rotate: false
+  xy: 64, 128
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_20X20
+  rotate: false
+  xy: 46, 75
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_21X14
+  rotate: false
+  xy: 48, 128
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_21X25
+  rotate: false
+  xy: 46, 57
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_30X30
+  rotate: false
+  xy: 95, 91
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_52X32
+  rotate: false
+  xy: 1, 123
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_66X33
+  rotate: false
+  xy: 1, 100
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_67X63
+  rotate: false
+  xy: 1, 57
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_6X6
+  rotate: false
+  xy: 107, 135
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_70X71
+  rotate: false
+  xy: 67, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_71X62
+  rotate: false
+  xy: 67, 49
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_73X54
+  rotate: false
+  xy: 46, 91
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_7X7
+  rotate: false
+  xy: 100, 135
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EIGHTIES_IMP_ZOMBIE_EIGHTIES_IMP_99X84
+  rotate: false
+  xy: 1, 1
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1

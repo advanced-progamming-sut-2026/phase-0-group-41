@@ -1,0 +1,530 @@
+SPINEPINATAS_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_80S
+  rotate: false
+  xy: 313, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_BEACH
+  rotate: false
+  xy: 475, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_COWBOY
+  rotate: false
+  xy: 637, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_DARK
+  rotate: false
+  xy: 799, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_DINO
+  rotate: false
+  xy: 961, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_EGYPT
+  rotate: false
+  xy: 1123, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_ELECTRIC
+  rotate: false
+  xy: 1285, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_EXPLOSIVE
+  rotate: false
+  xy: 1447, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_FIRE
+  rotate: false
+  xy: 1609, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_FREE
+  rotate: false
+  xy: 1771, 829
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_FRUITS
+  rotate: false
+  xy: 313, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_FUTURE
+  rotate: false
+  xy: 475, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_GREENS
+  rotate: false
+  xy: 637, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_ICE
+  rotate: false
+  xy: 799, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_ICEAGE
+  rotate: false
+  xy: 961, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_LOSTCITY
+  rotate: false
+  xy: 1123, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_MODERN
+  rotate: false
+  xy: 1285, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_MUSHROOM
+  rotate: false
+  xy: 1447, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_NUTS
+  rotate: false
+  xy: 1609, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_PIRATE
+  rotate: false
+  xy: 1771, 936
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATAS_DUST_SPINE_SUN
+  rotate: false
+  xy: 1, 1036
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_80S_SPINE
+  rotate: false
+  xy: 1, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_BEACH_SPINE
+  rotate: false
+  xy: 157, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_BIRTHDAYZ_SPINE
+  rotate: false
+  xy: 313, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_CARNIVAL_SPINE
+  rotate: false
+  xy: 469, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_COWBOY_SPINE
+  rotate: false
+  xy: 625, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_DARK_SPINE
+  rotate: false
+  xy: 781, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_DINO_SPINE
+  rotate: false
+  xy: 937, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_EGYPT_SPINE
+  rotate: false
+  xy: 1093, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_ELECTRICITY_SPINE
+  rotate: false
+  xy: 1249, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_EXPLOSIVES_SPINE
+  rotate: false
+  xy: 1405, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_FEASTIVUS_SPINE
+  rotate: false
+  xy: 1561, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_FIRE_SPINE
+  rotate: false
+  xy: 1717, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_FOODFIGHT_SPINE
+  rotate: false
+  xy: 1873, 1
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_FREE_SPINE
+  rotate: false
+  xy: 1, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_FRUIT_SPINE
+  rotate: false
+  xy: 157, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_FUTURE_SPINE
+  rotate: false
+  xy: 313, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_GREENS_SPINE
+  rotate: false
+  xy: 469, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_HARVEST_SPINE
+  rotate: false
+  xy: 625, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_ICEAGE_SPINE
+  rotate: false
+  xy: 937, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_ICE_SPINE
+  rotate: false
+  xy: 781, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_LAWNOFDOOM_SPINE
+  rotate: false
+  xy: 1093, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_LOSTCITY_SPINE
+  rotate: false
+  xy: 1249, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_LOTZ_SPINE
+  rotate: false
+  xy: 1405, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_LUNARNEWYEAR_SPINE
+  rotate: false
+  xy: 1561, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_MODERN_SPINE
+  rotate: false
+  xy: 1717, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_MUSHROOMS_SPINE
+  rotate: false
+  xy: 1873, 208
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_NUTS_SPINE
+  rotate: false
+  xy: 1, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_PIRATE_SPINE
+  rotate: false
+  xy: 157, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_SPORTZBALL_SPINE
+  rotate: false
+  xy: 313, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_SPRINGENING_SPINE
+  rotate: false
+  xy: 469, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_SUMMERNIGHT_SPINE
+  rotate: false
+  xy: 625, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_SUN_SPINE
+  rotate: false
+  xy: 781, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_TOMBTANGLER_SPINE
+  rotate: false
+  xy: 937, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_VALENBRAINZ_SPINE
+  rotate: false
+  xy: 1093, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PINATA_ZOMBOSS_SPINE
+  rotate: false
+  xy: 1249, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_AILMINT
+  rotate: false
+  xy: 1405, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_APPEASEMINT
+  rotate: false
+  xy: 1561, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_ARMAMINT
+  rotate: false
+  xy: 1717, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_BIGBEACH
+  rotate: false
+  xy: 1873, 415
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_BOMBARDMINT
+  rotate: false
+  xy: 1, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_CONCEALMINT
+  rotate: false
+  xy: 157, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_CONTAINMINT
+  rotate: false
+  xy: 313, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_ENCHANTMINT
+  rotate: false
+  xy: 469, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_ENFORCEMINT
+  rotate: false
+  xy: 625, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_ENLIGHTENMINT
+  rotate: false
+  xy: 781, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_FILAMINT
+  rotate: false
+  xy: 937, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_MGP
+  rotate: false
+  xy: 1093, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_PEPPERMINT
+  rotate: false
+  xy: 1249, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_PREMIUMMINT
+  rotate: false
+  xy: 1405, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_REINFORCEMINT
+  rotate: false
+  xy: 1561, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_ROMAN_WORLD
+  rotate: false
+  xy: 1717, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_SPEARMINT
+  rotate: false
+  xy: 1873, 622
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_WINTERMINT
+  rotate: false
+  xy: 1, 829
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPINE_PINATAS_PRIZE_PINATA_ZCORP
+  rotate: false
+  xy: 157, 829
+  size: 154, 205
+  orig: 154, 205
+  offset: 0, 0
+  index: -1

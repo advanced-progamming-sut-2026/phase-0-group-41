@@ -1,0 +1,12 @@
+UI_JOUST_CONNECTIVITY_768_00.PNG
+size: 128, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_WIFI_ICON
+  rotate: false
+  xy: 1, 1
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1

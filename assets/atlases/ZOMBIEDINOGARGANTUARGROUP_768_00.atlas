@@ -1,0 +1,530 @@
+ZOMBIEDINOGARGANTUARGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_101X74
+  rotate: false
+  xy: 420, 298
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_102X38
+  rotate: false
+  xy: 337, 366
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_103X76
+  rotate: false
+  xy: 124, 264
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_104X117
+  rotate: false
+  xy: 436, 221
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_106X58
+  rotate: false
+  xy: 202, 317
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_107X90
+  rotate: false
+  xy: 349, 253
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_10X19
+  rotate: false
+  xy: 504, 1
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_116X123
+  rotate: false
+  xy: 436, 140
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_119X63
+  rotate: false
+  xy: 124, 315
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_120X111
+  rotate: false
+  xy: 204, 244
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_125X113
+  rotate: false
+  xy: 122, 189
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_125X173
+  rotate: false
+  xy: 354, 140
+  size: 80, 111
+  orig: 80, 111
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_12X13
+  rotate: false
+  xy: 501, 335
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_12X15
+  rotate: false
+  xy: 192, 302
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_12X26
+  rotate: false
+  xy: 272, 317
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_12X27
+  rotate: false
+  xy: 192, 264
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_135X8
+  rotate: false
+  xy: 300, 426
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_13X22
+  rotate: false
+  xy: 337, 333
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_13X23
+  rotate: false
+  xy: 407, 331
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_14X11
+  rotate: false
+  xy: 337, 349
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_14X24
+  rotate: false
+  xy: 192, 284
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_14X24_2
+  rotate: false
+  xy: 337, 315
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_15X24
+  rotate: false
+  xy: 407, 313
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_15X24_2
+  rotate: false
+  xy: 100, 383
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_15X25
+  rotate: false
+  xy: 497, 396
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_174X102
+  rotate: false
+  xy: 205, 176
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_17X23
+  rotate: false
+  xy: 420, 268
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_185X84
+  rotate: false
+  xy: 1, 189
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_18X14
+  rotate: false
+  xy: 487, 335
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_19X15
+  rotate: false
+  xy: 420, 285
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_20X20
+  rotate: false
+  xy: 420, 253
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_21X25
+  rotate: false
+  xy: 100, 365
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_230X270
+  rotate: false
+  xy: 205, 1
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_231X214
+  rotate: false
+  xy: 354, 1
+  size: 148, 137
+  orig: 148, 137
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_25X25
+  rotate: false
+  xy: 97, 245
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_30X30
+  rotate: false
+  xy: 442, 425
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_315X290
+  rotate: false
+  xy: 1, 1
+  size: 202, 186
+  orig: 202, 186
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_31X47
+  rotate: false
+  xy: 194, 420
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_32X19
+  rotate: false
+  xy: 463, 425
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_32X40
+  rotate: false
+  xy: 396, 421
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_33X36
+  rotate: false
+  xy: 419, 421
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_34X48
+  rotate: false
+  xy: 168, 358
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_35X28
+  rotate: false
+  xy: 309, 370
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_36X44
+  rotate: false
+  xy: 142, 406
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_38X38
+  rotate: false
+  xy: 167, 420
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_39X54
+  rotate: false
+  xy: 487, 298
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_43X39
+  rotate: false
+  xy: 319, 217
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_45X60
+  rotate: false
+  xy: 319, 176
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_48X26
+  rotate: false
+  xy: 64, 245
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_49X48
+  rotate: false
+  xy: 225, 396
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_60X27
+  rotate: false
+  xy: 259, 407
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_60X48
+  rotate: false
+  xy: 355, 393
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_61X41
+  rotate: false
+  xy: 1, 401
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_62X37
+  rotate: false
+  xy: 100, 406
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_66X33
+  rotate: false
+  xy: 42, 407
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_67X62
+  rotate: false
+  xy: 55, 365
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_69X42
+  rotate: false
+  xy: 451, 396
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_69X43
+  rotate: false
+  xy: 309, 393
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_69X47
+  rotate: false
+  xy: 405, 389
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_6X6
+  rotate: false
+  xy: 504, 22
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_70X71
+  rotate: false
+  xy: 121, 358
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_72X71
+  rotate: false
+  xy: 466, 348
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_73X54
+  rotate: false
+  xy: 260, 370
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_7X7
+  rotate: false
+  xy: 504, 15
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_81X52
+  rotate: false
+  xy: 1, 365
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_81X83
+  rotate: false
+  xy: 283, 315
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_85X34
+  rotate: false
+  xy: 168, 396
+  size: 55, 22
+  orig: 55, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_87X59
+  rotate: false
+  xy: 202, 356
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_87X79
+  rotate: false
+  xy: 349, 313
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_88X61
+  rotate: false
+  xy: 407, 348
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_90X60
+  rotate: false
+  xy: 61, 324
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_90X75
+  rotate: false
+  xy: 1, 315
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_91X91
+  rotate: false
+  xy: 64, 264
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_95X106
+  rotate: false
+  xy: 1, 245
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_GARGANTUAR_ZOMBIE_DINO_GARGANTUAR_99X108
+  rotate: false
+  xy: 283, 244
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1

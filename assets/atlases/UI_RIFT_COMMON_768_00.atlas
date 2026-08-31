@@ -1,0 +1,75 @@
+UI_RIFT_COMMON_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_COMMON_BUTTON_PENNYPERK
+  rotate: false
+  xy: 1, 1
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_DIFFICULTY_ICON_BACKGROUND_DARK_SMALL
+  rotate: false
+  xy: 83, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_DIFFICULTY_ICON_BACKGROUND_SMALL
+  rotate: false
+  xy: 1, 196
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_DIFFICULTY_ICON_RING_SMALL
+  rotate: false
+  xy: 43, 196
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_EASY_HOLLOW_ICON_SMALL
+  rotate: false
+  xy: 1, 82
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_EASY_ICON_SMALL
+  rotate: false
+  xy: 49, 82
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_HARD_HOLLOW_ICON_SMALL
+  rotate: false
+  xy: 1, 120
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_HARD_ICON_SMALL
+  rotate: false
+  xy: 49, 120
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_MEDIUM_HOLLOW_ICON_SMALL
+  rotate: false
+  xy: 1, 158
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_COMMON_MEDIUM_ICON_SMALL
+  rotate: false
+  xy: 49, 158
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1

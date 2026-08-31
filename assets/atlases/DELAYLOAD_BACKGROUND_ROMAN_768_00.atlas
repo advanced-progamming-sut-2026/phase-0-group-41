@@ -1,0 +1,40 @@
+DELAYLOAD_BACKGROUND_ROMAN_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_ROMAN_BG_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ROMAN_BG_TEXTURE_RIGHT
+  rotate: false
+  xy: 1027, 1
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ROMAN_FLOODED_BG_CORNER_MARKERS
+  rotate: false
+  xy: 1, 1541
+  size: 593, 311
+  orig: 593, 311
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ROMAN_FLOODED_BG_TEXTURE
+  rotate: false
+  xy: 1, 771
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ROMAN_FLOODED_BG_TEXTURE_RIGHT
+  rotate: false
+  xy: 1027, 771
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1

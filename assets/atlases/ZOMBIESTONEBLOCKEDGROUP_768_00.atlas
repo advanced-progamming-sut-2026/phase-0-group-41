@@ -1,0 +1,138 @@
+ZOMBIESTONEBLOCKEDGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_13X12
+  rotate: false
+  xy: 246, 39
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_16X13
+  rotate: false
+  xy: 245, 84
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_16X15
+  rotate: false
+  xy: 245, 72
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_20X19
+  rotate: false
+  xy: 232, 25
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_25X27
+  rotate: false
+  xy: 183, 105
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_29X23
+  rotate: false
+  xy: 234, 113
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_29X25
+  rotate: false
+  xy: 234, 95
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_32X28
+  rotate: false
+  xy: 211, 95
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_34X34
+  rotate: false
+  xy: 232, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_40X35
+  rotate: false
+  xy: 183, 80
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_42X59
+  rotate: false
+  xy: 183, 40
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_48X33
+  rotate: false
+  xy: 212, 72
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_49X46
+  rotate: false
+  xy: 212, 40
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_EFFECT_ZOMBIE_ARMOR_STATUE_EFFECT_73X58
+  rotate: false
+  xy: 183, 1
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_FULL_ZOMBIE_ARMOR_STATUE_FULL_131X214
+  rotate: false
+  xy: 92, 140
+  size: 84, 137
+  orig: 84, 137
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_FULL_ZOMBIE_ARMOR_STATUE_FULL_131X214_2
+  rotate: false
+  xy: 1, 141
+  size: 84, 137
+  orig: 84, 137
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_FULL_ZOMBIE_ARMOR_STATUE_FULL_131X214_3
+  rotate: false
+  xy: 87, 279
+  size: 84, 137
+  orig: 84, 137
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_FULL_ZOMBIE_ARMOR_STATUE_FULL_138X214
+  rotate: false
+  xy: 92, 1
+  size: 89, 137
+  orig: 89, 137
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ARMOR_STATUE_FULL_ZOMBIE_ARMOR_STATUE_FULL_138X215
+  rotate: false
+  xy: 1, 1
+  size: 89, 138
+  orig: 89, 138
+  offset: 0, 0
+  index: -1

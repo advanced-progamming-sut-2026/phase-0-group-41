@@ -1,0 +1,243 @@
+UI_AVATARS_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_AVATARS_AVATAR_1
+  rotate: false
+  xy: 139, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_10
+  rotate: false
+  xy: 269, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_11
+  rotate: false
+  xy: 399, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_12
+  rotate: false
+  xy: 529, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_13
+  rotate: false
+  xy: 659, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_14
+  rotate: false
+  xy: 789, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_15
+  rotate: false
+  xy: 139, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_16
+  rotate: false
+  xy: 269, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_17
+  rotate: false
+  xy: 399, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_18
+  rotate: false
+  xy: 529, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_19
+  rotate: false
+  xy: 659, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_2
+  rotate: false
+  xy: 789, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_20
+  rotate: false
+  xy: 1, 139
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_21
+  rotate: false
+  xy: 131, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_22
+  rotate: false
+  xy: 261, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_23
+  rotate: false
+  xy: 391, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_24
+  rotate: false
+  xy: 521, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_25
+  rotate: false
+  xy: 651, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_26
+  rotate: false
+  xy: 781, 261
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_27
+  rotate: false
+  xy: 1, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_28
+  rotate: false
+  xy: 131, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_29
+  rotate: false
+  xy: 261, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_3
+  rotate: false
+  xy: 391, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_30
+  rotate: false
+  xy: 521, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_4
+  rotate: false
+  xy: 651, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_5
+  rotate: false
+  xy: 781, 391
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_6
+  rotate: false
+  xy: 1, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_7
+  rotate: false
+  xy: 131, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_8
+  rotate: false
+  xy: 261, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_9
+  rotate: false
+  xy: 391, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_BORDER
+  rotate: false
+  xy: 1, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_MYSTERY
+  rotate: false
+  xy: 919, 98
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_PRACTICE
+  rotate: false
+  xy: 521, 521
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_AVATARS_AVATAR_SELECTED
+  rotate: false
+  xy: 919, 1
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

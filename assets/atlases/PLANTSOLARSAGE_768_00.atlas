@@ -1,0 +1,579 @@
+PLANTSOLARSAGE_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_11X10
+  rotate: false
+  xy: 212, 321
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_11X11
+  rotate: false
+  xy: 212, 330
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_11X8
+  rotate: false
+  xy: 212, 339
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_122X105
+  rotate: false
+  xy: 314, 267
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_12X10
+  rotate: false
+  xy: 369, 377
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_12X13
+  rotate: false
+  xy: 348, 377
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_12X8
+  rotate: false
+  xy: 379, 377
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_12X9
+  rotate: false
+  xy: 368, 336
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_131X42
+  rotate: false
+  xy: 394, 315
+  size: 84, 27
+  orig: 84, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_13X11
+  rotate: false
+  xy: 82, 353
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_13X13
+  rotate: false
+  xy: 147, 377
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_13X19
+  rotate: false
+  xy: 499, 89
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_13X7
+  rotate: false
+  xy: 378, 336
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_13X8
+  rotate: false
+  xy: 22, 364
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_140X140
+  rotate: false
+  xy: 222, 216
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_14X11
+  rotate: false
+  xy: 358, 377
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_14X19
+  rotate: false
+  xy: 500, 266
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_14X19_2
+  rotate: false
+  xy: 500, 280
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_15X12
+  rotate: false
+  xy: 158, 377
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_15X12_2
+  rotate: false
+  xy: 300, 377
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_15X15
+  rotate: false
+  xy: 500, 294
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_15X16
+  rotate: false
+  xy: 236, 376
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_15X17
+  rotate: false
+  xy: 499, 76
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_15X28
+  rotate: false
+  xy: 499, 56
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_161X161
+  rotate: false
+  xy: 117, 216
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_162X332
+  rotate: false
+  xy: 1, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_162X332_2
+  rotate: false
+  xy: 107, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_162X332_3
+  rotate: false
+  xy: 213, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_162X72
+  rotate: false
+  xy: 394, 267
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_16X11
+  rotate: false
+  xy: 500, 306
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_16X12
+  rotate: false
+  xy: 312, 377
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_16X12_2
+  rotate: false
+  xy: 324, 377
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_16X12_3
+  rotate: false
+  xy: 336, 377
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_16X14
+  rotate: false
+  xy: 135, 377
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_177X152
+  rotate: false
+  xy: 1, 216
+  size: 114, 98
+  orig: 114, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_195X195
+  rotate: false
+  xy: 319, 140
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_19X13
+  rotate: false
+  xy: 197, 362
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_213X213
+  rotate: false
+  xy: 319, 1
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_21X21
+  rotate: false
+  xy: 495, 104
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_22X13
+  rotate: false
+  xy: 1, 376
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_23X13
+  rotate: false
+  xy: 63, 372
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_23X17
+  rotate: false
+  xy: 495, 120
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_23X8
+  rotate: false
+  xy: 495, 133
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_26X13
+  rotate: false
+  xy: 442, 373
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_27X11
+  rotate: false
+  xy: 196, 376
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_27X11_2
+  rotate: false
+  xy: 216, 376
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_27X12
+  rotate: false
+  xy: 176, 374
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_27X25
+  rotate: false
+  xy: 115, 362
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_28X14
+  rotate: false
+  xy: 43, 372
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_29X15
+  rotate: false
+  xy: 176, 362
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_29X16
+  rotate: false
+  xy: 1, 364
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_29X16_2
+  rotate: false
+  xy: 22, 372
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_30X54
+  rotate: false
+  xy: 279, 352
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_36X35
+  rotate: false
+  xy: 253, 358
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_42X42
+  rotate: false
+  xy: 442, 344
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_42X66
+  rotate: false
+  xy: 279, 308
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_42X66_2
+  rotate: false
+  xy: 480, 315
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_43X61
+  rotate: false
+  xy: 182, 321
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_43X61_2
+  rotate: false
+  xy: 308, 336
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_43X61_3
+  rotate: false
+  xy: 338, 336
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_48X28
+  rotate: false
+  xy: 82, 362
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_55X48
+  rotate: false
+  xy: 458, 104
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_55X48_2
+  rotate: false
+  xy: 368, 344
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_55X48_3
+  rotate: false
+  xy: 405, 344
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_59X26
+  rotate: false
+  xy: 42, 353
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_59X26_2
+  rotate: false
+  xy: 136, 358
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_60X24
+  rotate: false
+  xy: 212, 358
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_60X24_2
+  rotate: false
+  xy: 471, 359
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_61X72
+  rotate: false
+  xy: 458, 56
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_61X72_2
+  rotate: false
+  xy: 1, 316
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_62X61
+  rotate: false
+  xy: 94, 321
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_69X55
+  rotate: false
+  xy: 136, 321
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_6X6
+  rotate: false
+  xy: 506, 244
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_78X55
+  rotate: false
+  xy: 42, 316
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_82X82
+  rotate: false
+  xy: 458, 1
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_86X74
+  rotate: false
+  xy: 222, 308
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_8X8
+  rotate: false
+  xy: 506, 208
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_91X87
+  rotate: false
+  xy: 446, 208
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_99X102
+  rotate: false
+  xy: 446, 140
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_9X15
+  rotate: false
+  xy: 506, 216
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_9X9
+  rotate: false
+  xy: 506, 228
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLARSAGE_SOLARSAGE_9X9_2
+  rotate: false
+  xy: 506, 236
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

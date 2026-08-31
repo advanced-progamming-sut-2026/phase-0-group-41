@@ -1,0 +1,68 @@
+ZOMBIENUTCRACKEREFFECTS_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_130X130
+  rotate: false
+  xy: 1, 99
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_149X150
+  rotate: false
+  xy: 1, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_20X18
+  rotate: false
+  xy: 99, 53
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_33X27
+  rotate: false
+  xy: 99, 33
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_39X46
+  rotate: false
+  xy: 99, 1
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_47X31
+  rotate: false
+  xy: 86, 134
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_49X51
+  rotate: false
+  xy: 86, 99
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_92X87
+  rotate: false
+  xy: 65, 184
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ARMOR_BREAK_EFFECT_ARMOR_BREAK_EFFECT_96X91
+  rotate: false
+  xy: 1, 184
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1

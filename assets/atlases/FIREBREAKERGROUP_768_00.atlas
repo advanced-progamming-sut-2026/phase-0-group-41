@@ -1,0 +1,621 @@
+FIREBREAKERGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_10X10
+  rotate: false
+  xy: 501, 139
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_115X150
+  rotate: false
+  xy: 381, 1
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_115X150_2
+  rotate: false
+  xy: 381, 99
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_17X31
+  rotate: false
+  xy: 137, 443
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_18X20
+  rotate: false
+  xy: 296, 447
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_18X31
+  rotate: false
+  xy: 449, 437
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_1X1
+  rotate: false
+  xy: 507, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_1X1_2
+  rotate: false
+  xy: 510, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_22X24
+  rotate: false
+  xy: 494, 337
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_22X27
+  rotate: false
+  xy: 363, 172
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_23X37
+  rotate: false
+  xy: 495, 265
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_23X49
+  rotate: false
+  xy: 495, 197
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_28X28
+  rotate: false
+  xy: 343, 172
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_28X28_2
+  rotate: false
+  xy: 313, 270
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_28X28_3
+  rotate: false
+  xy: 350, 374
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_29X44
+  rotate: false
+  xy: 238, 406
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_29X66
+  rotate: false
+  xy: 121, 399
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_30X42
+  rotate: false
+  xy: 238, 436
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_30X43
+  rotate: false
+  xy: 70, 434
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_33X41
+  rotate: false
+  xy: 1, 434
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_35X37
+  rotate: false
+  xy: 299, 421
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_36X48
+  rotate: false
+  xy: 163, 406
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_41X57
+  rotate: false
+  xy: 476, 356
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_43X13
+  rotate: false
+  xy: 163, 439
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_58X70
+  rotate: false
+  xy: 311, 374
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_61X61
+  rotate: false
+  xy: 389, 396
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_65X85
+  rotate: false
+  xy: 457, 105
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_68X51
+  rotate: false
+  xy: 457, 162
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_75X78
+  rotate: false
+  xy: 457, 1
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_76X59
+  rotate: false
+  xy: 260, 349
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_86X84
+  rotate: false
+  xy: 1, 343
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_8X23
+  rotate: false
+  xy: 501, 105
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_91X92
+  rotate: false
+  xy: 374, 295
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_BROWN_FIREWORKS_VASE_BROWN_FIREWORKS_92X120
+  rotate: false
+  xy: 191, 270
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_115X150
+  rotate: false
+  xy: 191, 172
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_115X150_2
+  rotate: false
+  xy: 267, 172
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_17X31
+  rotate: false
+  xy: 349, 443
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_18X20
+  rotate: false
+  xy: 310, 447
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_1X1
+  rotate: false
+  xy: 507, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_1X1_2
+  rotate: false
+  xy: 510, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_22X27
+  rotate: false
+  xy: 494, 317
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_293X263
+  rotate: false
+  xy: 191, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_33X41
+  rotate: false
+  xy: 24, 434
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_36X48
+  rotate: false
+  xy: 188, 406
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_41X57
+  rotate: false
+  xy: 476, 395
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_43X13
+  rotate: false
+  xy: 193, 439
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_58X70
+  rotate: false
+  xy: 260, 389
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_65X85
+  rotate: false
+  xy: 172, 349
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_68X51
+  rotate: false
+  xy: 1, 399
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_76X59
+  rotate: false
+  xy: 374, 356
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_86X84
+  rotate: false
+  xy: 58, 343
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GARGANTUAR_FIREWORKS_VASE_GARGANTUAR_FIREWORKS_92X120
+  rotate: false
+  xy: 252, 270
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_10X10
+  rotate: false
+  xy: 501, 148
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_115X150
+  rotate: false
+  xy: 343, 197
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_115X150_2
+  rotate: false
+  xy: 419, 197
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_17X31
+  rotate: false
+  xy: 362, 443
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_18X20
+  rotate: false
+  xy: 324, 447
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_18X31
+  rotate: false
+  xy: 223, 439
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_1X1
+  rotate: false
+  xy: 507, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_1X1_2
+  rotate: false
+  xy: 510, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_22X24
+  rotate: false
+  xy: 121, 443
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_22X27
+  rotate: false
+  xy: 280, 436
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_23X37
+  rotate: false
+  xy: 495, 291
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_23X49
+  rotate: false
+  xy: 495, 231
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_28X28
+  rotate: false
+  xy: 389, 437
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_28X28_2
+  rotate: false
+  xy: 409, 437
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_28X28_3
+  rotate: false
+  xy: 429, 437
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_293X263
+  rotate: false
+  xy: 1, 172
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_29X44
+  rotate: false
+  xy: 471, 434
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_29X66
+  rotate: false
+  xy: 142, 399
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_30X42
+  rotate: false
+  xy: 259, 436
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_30X43
+  rotate: false
+  xy: 492, 434
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_33X41
+  rotate: false
+  xy: 47, 434
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_35X37
+  rotate: false
+  xy: 324, 421
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_36X48
+  rotate: false
+  xy: 213, 406
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_41X57
+  rotate: false
+  xy: 93, 399
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_43X13
+  rotate: false
+  xy: 91, 443
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_58X70
+  rotate: false
+  xy: 350, 396
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_61X61
+  rotate: false
+  xy: 430, 396
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_65X85
+  rotate: false
+  xy: 216, 349
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_68X51
+  rotate: false
+  xy: 47, 399
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_75X78
+  rotate: false
+  xy: 457, 53
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_76X59
+  rotate: false
+  xy: 425, 356
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_86X84
+  rotate: false
+  xy: 115, 343
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_8X23
+  rotate: false
+  xy: 501, 122
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_91X92
+  rotate: false
+  xy: 434, 295
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+IMAGE_FIREBREAKER_VASE_GREEN_FIREWORKS_VASE_GREEN_FIREWORKS_92X120
+  rotate: false
+  xy: 313, 295
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1

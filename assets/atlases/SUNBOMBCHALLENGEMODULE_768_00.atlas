@@ -1,0 +1,292 @@
+SUNBOMBCHALLENGEMODULE_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SUN_BOMB_BEAM_SUN_BOMB_BEAM_18X18
+  rotate: false
+  xy: 494, 1
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_BEAM_SUN_BOMB_BEAM_42X25
+  rotate: false
+  xy: 482, 352
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_BEAM_SUN_BOMB_BEAM_43X1115
+  rotate: false
+  xy: 356, 1
+  size: 28, 714
+  orig: 28, 714
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_100X90
+  rotate: false
+  xy: 228, 672
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_101X80
+  rotate: false
+  xy: 284, 509
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_115X79
+  rotate: false
+  xy: 152, 672
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_119X92
+  rotate: false
+  xy: 386, 668
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_121X112
+  rotate: false
+  xy: 386, 482
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_129X94
+  rotate: false
+  xy: 386, 556
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_140X46
+  rotate: false
+  xy: 410, 729
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_146X144
+  rotate: false
+  xy: 386, 322
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_160X75
+  rotate: false
+  xy: 386, 618
+  size: 103, 48
+  orig: 103, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_163X161
+  rotate: false
+  xy: 386, 217
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_166X166
+  rotate: false
+  xy: 386, 1
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_166X166_2
+  rotate: false
+  xy: 386, 109
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_170X99
+  rotate: false
+  xy: 386, 416
+  size: 109, 64
+  orig: 109, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_203X203
+  rotate: false
+  xy: 152, 432
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_204X233
+  rotate: false
+  xy: 168, 281
+  size: 131, 149
+  orig: 131, 149
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_215X165
+  rotate: false
+  xy: 152, 564
+  size: 138, 106
+  orig: 138, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_231X167
+  rotate: false
+  xy: 1, 446
+  size: 148, 107
+  orig: 148, 107
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_233X175
+  rotate: false
+  xy: 1, 564
+  size: 149, 112
+  orig: 149, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_233X178
+  rotate: false
+  xy: 1, 330
+  size: 149, 114
+  orig: 149, 114
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_248X201
+  rotate: false
+  xy: 193, 150
+  size: 159, 129
+  orig: 159, 129
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_251X230
+  rotate: false
+  xy: 193, 1
+  size: 161, 147
+  orig: 161, 147
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_258X188
+  rotate: false
+  xy: 1, 207
+  size: 165, 121
+  orig: 165, 121
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_297X319
+  rotate: false
+  xy: 1, 1
+  size: 190, 204
+  orig: 190, 204
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_43X43
+  rotate: false
+  xy: 482, 322
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_51X49
+  rotate: false
+  xy: 471, 548
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_56X99
+  rotate: false
+  xy: 466, 482
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_69X69
+  rotate: false
+  xy: 464, 668
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_75X78
+  rotate: false
+  xy: 301, 333
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_77X77
+  rotate: false
+  xy: 301, 281
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_81X70
+  rotate: false
+  xy: 301, 385
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_83X117
+  rotate: false
+  xy: 284, 432
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_87X87
+  rotate: false
+  xy: 294, 621
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_87X87_2
+  rotate: false
+  xy: 1, 678
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_87X87_3
+  rotate: false
+  xy: 59, 678
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_87X87_4
+  rotate: false
+  xy: 294, 679
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_87X87_5
+  rotate: false
+  xy: 117, 725
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_87X87_6
+  rotate: false
+  xy: 352, 729
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUN_BOMB_SUN_BOMB_89X89
+  rotate: false
+  xy: 292, 562
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

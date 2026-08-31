@@ -1,0 +1,236 @@
+UI_SEEDCHOOSER_768_00.PNG
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_CHOOSER_BUTTON_SORT_BY_FAMILY
+  rotate: false
+  xy: 914, 86
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_BUTTON_SORT_BY_FAMILY_PRESS
+  rotate: false
+  xy: 967, 86
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_FAVORITES_BUTTON_ADD
+  rotate: false
+  xy: 914, 139
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_FAVORITES_BUTTON_ADD_PRESS
+  rotate: false
+  xy: 769, 155
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_FAVORITES_BUTTON_REMOVE
+  rotate: false
+  xy: 827, 155
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_FAVORITES_BUTTON_REMOVE_PRESS
+  rotate: false
+  xy: 665, 184
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_FAVORITES_ICON
+  rotate: false
+  xy: 885, 155
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_GRADIENT_BOTTOM
+  rotate: false
+  xy: 1, 219
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_GRADIENT_TOP
+  rotate: false
+  xy: 96, 219
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_RENT_A_SEED_PACKET_OVERLAYS_RENT_A_SEED_PACKET_OVERLAYS_233X148
+  rotate: false
+  xy: 795, 79
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_RENT_A_SEED_PACKET_OVERLAYS_RENT_A_SEED_PACKET_OVERLAYS_236X151
+  rotate: false
+  xy: 795, 1
+  size: 118, 76
+  orig: 118, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_RENT_A_SEED_PACKET_OVERLAYS_RENT_A_SEED_PACKET_OVERLAYS_256X256
+  rotate: false
+  xy: 665, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SCORING_PLUS_BOX
+  rotate: false
+  xy: 800, 201
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SEASONAL_PLANT_ICON
+  rotate: false
+  xy: 665, 131
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SEASONAL_PLANT_ICON_DOWN
+  rotate: false
+  xy: 717, 131
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SEEDPACKET9SLICE_BKGD
+  rotate: false
+  xy: 885, 185
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SEED_CHOOSER_RECALL_BUTTON_ICON
+  rotate: false
+  xy: 972, 139
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_15X14
+  rotate: false
+  xy: 118, 219
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_166X166
+  rotate: false
+  xy: 915, 1
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_20X19
+  rotate: false
+  xy: 106, 219
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_22X30
+  rotate: false
+  xy: 83, 219
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_26X31
+  rotate: false
+  xy: 68, 219
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_28X27
+  rotate: false
+  xy: 1000, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_29X37
+  rotate: false
+  xy: 51, 219
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_31X86
+  rotate: false
+  xy: 1000, 1
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_38X36
+  rotate: false
+  xy: 769, 131
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_45X43
+  rotate: false
+  xy: 1000, 46
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_58X44
+  rotate: false
+  xy: 845, 201
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_71X66
+  rotate: false
+  xy: 925, 185
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_71X94
+  rotate: false
+  xy: 723, 184
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_73X60
+  rotate: false
+  xy: 761, 201
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SLOT_LOCK_SMALL_SLOT_LOCK_SMALL_86X80
+  rotate: false
+  xy: 972, 183
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CHOOSER_SUGGEST_A_PLANT_POPUP_BG
+  rotate: false
+  xy: 1, 1
+  size: 662, 216
+  orig: 662, 216
+  offset: 0, 0
+  index: -1

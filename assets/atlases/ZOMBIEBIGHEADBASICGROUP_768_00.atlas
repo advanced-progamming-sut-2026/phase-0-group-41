@@ -1,0 +1,243 @@
+ZOMBIEBIGHEADBASICGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_109X63
+  rotate: false
+  xy: 125, 99
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_135X8
+  rotate: false
+  xy: 142, 235
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_14X35
+  rotate: false
+  xy: 188, 242
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_173X150
+  rotate: false
+  xy: 117, 1
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_177X148
+  rotate: false
+  xy: 1, 1
+  size: 114, 95
+  orig: 114, 95
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_20X40
+  rotate: false
+  xy: 79, 238
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_21X48
+  rotate: false
+  xy: 47, 220
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_22X40
+  rotate: false
+  xy: 63, 238
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_22X49
+  rotate: false
+  xy: 1, 210
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_23X41
+  rotate: false
+  xy: 231, 225
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_24X58
+  rotate: false
+  xy: 231, 154
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_28X33
+  rotate: false
+  xy: 17, 228
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_28X46
+  rotate: false
+  xy: 231, 193
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_30X21
+  rotate: false
+  xy: 167, 242
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_30X37
+  rotate: false
+  xy: 206, 209
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_36X23
+  rotate: false
+  xy: 142, 242
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_36X39
+  rotate: false
+  xy: 95, 163
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_36X45
+  rotate: false
+  xy: 230, 65
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_36X47
+  rotate: false
+  xy: 230, 33
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_37X32
+  rotate: false
+  xy: 180, 209
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_37X46
+  rotate: false
+  xy: 230, 1
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_40X25
+  rotate: false
+  xy: 63, 220
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_43X25
+  rotate: false
+  xy: 17, 210
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_56X30
+  rotate: false
+  xy: 142, 209
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_60X86
+  rotate: false
+  xy: 54, 163
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_6X6
+  rotate: false
+  xy: 185, 142
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_70X71
+  rotate: false
+  xy: 95, 197
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_7X7
+  rotate: false
+  xy: 178, 142
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_80X72
+  rotate: false
+  xy: 1, 162
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_80X83
+  rotate: false
+  xy: 125, 142
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_80X83_2
+  rotate: false
+  xy: 178, 154
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_82X82
+  rotate: false
+  xy: 197, 99
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_91X97
+  rotate: false
+  xy: 65, 99
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BIGHEAD_ZOMBIE_BIGHEAD_96X97
+  rotate: false
+  xy: 1, 98
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1

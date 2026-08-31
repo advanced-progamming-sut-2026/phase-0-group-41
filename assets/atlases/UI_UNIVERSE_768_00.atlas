@@ -1,0 +1,173 @@
+UI_UNIVERSE_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_149X164
+  rotate: false
+  xy: 735, 840
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_157X126
+  rotate: false
+  xy: 1947, 1178
+  size: 101, 81
+  orig: 101, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_175X151
+  rotate: false
+  xy: 1200, 486
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_1X1
+  rotate: false
+  xy: 2047, 486
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_213X541
+  rotate: false
+  xy: 735, 492
+  size: 137, 346
+  orig: 137, 346
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_250X229
+  rotate: false
+  xy: 1785, 1178
+  size: 160, 147
+  orig: 160, 147
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_367X839
+  rotate: false
+  xy: 1, 1168
+  size: 235, 537
+  orig: 235, 537
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_INVASION_UNIVERSE_PORTAL_INVASION_UNIVERSE_PORTAL_82X55
+  rotate: false
+  xy: 1314, 486
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_UNIVERSE_PORTAL_UNIVERSE_PORTAL_149X154
+  rotate: false
+  xy: 735, 947
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_UNIVERSE_PORTAL_UNIVERSE_PORTAL_18X25
+  rotate: false
+  xy: 1314, 523
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_UNIVERSE_PORTAL_UNIVERSE_PORTAL_755X755
+  rotate: false
+  xy: 885, 1
+  size: 483, 483
+  orig: 483, 483
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_UNIVERSE_PORTAL_UNIVERSE_PORTAL_763X763
+  rotate: false
+  xy: 394, 1
+  size: 489, 489
+  orig: 489, 489
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_BEACH
+  rotate: false
+  xy: 1717, 1
+  size: 328, 612
+  orig: 328, 612
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_COWBOY
+  rotate: false
+  xy: 602, 1053
+  size: 266, 576
+  orig: 266, 576
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_DARK
+  rotate: false
+  xy: 1200, 615
+  size: 284, 664
+  orig: 284, 664
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_DINO
+  rotate: false
+  xy: 394, 492
+  size: 339, 559
+  orig: 339, 559
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_EGYPT
+  rotate: false
+  xy: 870, 1101
+  size: 275, 552
+  orig: 275, 552
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_EIGHTIES
+  rotate: false
+  xy: 1, 1
+  size: 391, 624
+  orig: 391, 624
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_FUTURE
+  rotate: false
+  xy: 1785, 615
+  size: 259, 561
+  orig: 259, 561
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_ICEAGE
+  rotate: false
+  xy: 1486, 615
+  size: 297, 617
+  orig: 297, 617
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_LOSTCITY
+  rotate: false
+  xy: 885, 486
+  size: 313, 613
+  orig: 313, 613
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_MODERN
+  rotate: false
+  xy: 1, 627
+  size: 326, 539
+  orig: 326, 539
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_PIRATE
+  rotate: false
+  xy: 329, 1053
+  size: 271, 616
+  orig: 271, 616
+  offset: 0, 0
+  index: -1
+IMAGE_UI_UNIVERSE_WORLDS_TWISTER
+  rotate: false
+  xy: 1370, 1
+  size: 345, 612
+  orig: 345, 612
+  offset: 0, 0
+  index: -1

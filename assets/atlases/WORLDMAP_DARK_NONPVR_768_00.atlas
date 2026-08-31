@@ -1,0 +1,558 @@
+WORLDMAP_DARK_NONPVR_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_DANGER_LEVEL_DARK
+  rotate: false
+  xy: 1467, 438
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_104X72
+  rotate: false
+  xy: 1948, 535
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_114X52
+  rotate: false
+  xy: 1948, 620
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_116X54
+  rotate: false
+  xy: 1948, 583
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_118X40
+  rotate: false
+  xy: 617, 908
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_118X49
+  rotate: false
+  xy: 1948, 656
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_148X91
+  rotate: false
+  xy: 1948, 411
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_172X162
+  rotate: false
+  xy: 1936, 1012
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_190X181
+  rotate: false
+  xy: 544, 1210
+  size: 122, 116
+  orig: 122, 116
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_196X313
+  rotate: false
+  xy: 1227, 1209
+  size: 126, 201
+  orig: 126, 201
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_211X184
+  rotate: false
+  xy: 407, 1210
+  size: 135, 118
+  orig: 135, 118
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_244X425
+  rotate: false
+  xy: 249, 1197
+  size: 156, 272
+  orig: 156, 272
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_246X263
+  rotate: false
+  xy: 1067, 1209
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_24X200
+  rotate: false
+  xy: 2026, 583
+  size: 16, 128
+  orig: 16, 128
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_29X29
+  rotate: false
+  xy: 1388, 1003
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_30X28
+  rotate: false
+  xy: 1067, 1011
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_31X172
+  rotate: false
+  xy: 2017, 471
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_31X33
+  rotate: false
+  xy: 713, 949
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_320X304
+  rotate: false
+  xy: 1, 1204
+  size: 205, 195
+  orig: 205, 195
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_326X432
+  rotate: false
+  xy: 856, 1011
+  size: 209, 277
+  orig: 209, 277
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_33X29
+  rotate: false
+  xy: 681, 990
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_37X36
+  rotate: false
+  xy: 1420, 993
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_37X37
+  rotate: false
+  xy: 745, 976
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_384X459
+  rotate: false
+  xy: 1, 908
+  size: 246, 294
+  orig: 246, 294
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_389X448
+  rotate: false
+  xy: 249, 908
+  size: 249, 287
+  orig: 249, 287
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_46X40
+  rotate: false
+  xy: 713, 976
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_471X471
+  rotate: false
+  xy: 1708, 708
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_53X94
+  rotate: false
+  xy: 2012, 713
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_545X514
+  rotate: false
+  xy: 1116, 378
+  size: 349, 329
+  orig: 349, 329
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_55X114
+  rotate: false
+  xy: 2007, 296
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_57X47
+  rotate: false
+  xy: 500, 967
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_58X344
+  rotate: false
+  xy: 1945, 1
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_63X41
+  rotate: false
+  xy: 539, 967
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_79X58
+  rotate: false
+  xy: 1467, 650
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_83X196
+  rotate: false
+  xy: 1984, 1
+  size: 53, 126
+  orig: 53, 126
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_88X176
+  rotate: false
+  xy: 1948, 296
+  size: 57, 113
+  orig: 57, 113
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_95X36
+  rotate: false
+  xy: 1984, 193
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_DARK_DANGER_NODE_DARK_97X71
+  rotate: false
+  xy: 1467, 552
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM10_ANIM10_352X358
+  rotate: false
+  xy: 1708, 1012
+  size: 226, 229
+  orig: 226, 229
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM10_ANIM10_46X61
+  rotate: false
+  xy: 681, 949
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM12_ANIM12_61X61
+  rotate: false
+  xy: 695, 908
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM13_ANIM13_147X111
+  rotate: false
+  xy: 1945, 223
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM14_ANIM14_62X57
+  rotate: false
+  xy: 2007, 371
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM15_ANIM15_102X97
+  rotate: false
+  xy: 1948, 471
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM16_ANIM16_55X63
+  rotate: false
+  xy: 2012, 832
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_1201X1413
+  rotate: false
+  xy: 1, 1
+  size: 769, 905
+  orig: 769, 905
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_326X355
+  rotate: false
+  xy: 1388, 1132
+  size: 209, 227
+  orig: 209, 227
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_46X48
+  rotate: false
+  xy: 1388, 970
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_47X49
+  rotate: false
+  xy: 582, 967
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_51X86
+  rotate: false
+  xy: 2012, 775
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_552X307
+  rotate: false
+  xy: 500, 1011
+  size: 354, 197
+  orig: 354, 197
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_87X84
+  rotate: false
+  xy: 1467, 496
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM1_ANIM1_89X90
+  rotate: false
+  xy: 1467, 378
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM22_ANIM22_534X1169
+  rotate: false
+  xy: 772, 1
+  size: 342, 748
+  orig: 342, 748
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_29X102
+  rotate: false
+  xy: 639, 936
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_30X102
+  rotate: false
+  xy: 660, 936
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_30X102_2
+  rotate: false
+  xy: 2012, 943
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_31X102
+  rotate: false
+  xy: 617, 936
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_32X102
+  rotate: false
+  xy: 1091, 819
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_32X102_2
+  rotate: false
+  xy: 1437, 857
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_33X102
+  rotate: false
+  xy: 2012, 875
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_33X102_2
+  rotate: false
+  xy: 1091, 887
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_33X102_3
+  rotate: false
+  xy: 736, 908
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_33X102_4
+  rotate: false
+  xy: 1437, 925
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_34X102
+  rotate: false
+  xy: 1091, 751
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_37X102
+  rotate: false
+  xy: 1437, 789
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM3_ANIM3_41X121
+  rotate: false
+  xy: 1437, 709
+  size: 26, 78
+  orig: 26, 78
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM4_ANIM4_23X23
+  rotate: false
+  xy: 1467, 689
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM4_ANIM4_74X75
+  rotate: false
+  xy: 1467, 600
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM5_ANIM5_96X97
+  rotate: false
+  xy: 1984, 129
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM6_ANIM6_639X570
+  rotate: false
+  xy: 1534, 1
+  size: 409, 365
+  orig: 409, 365
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM6_ANIM6_644X528
+  rotate: false
+  xy: 1534, 368
+  size: 412, 338
+  orig: 412, 338
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM6_ANIM6_649X585
+  rotate: false
+  xy: 1116, 1
+  size: 416, 375
+  orig: 416, 375
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM7_ANIM7_460X370
+  rotate: false
+  xy: 1091, 970
+  size: 295, 237
+  orig: 295, 237
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM7_ANIM7_495X403
+  rotate: false
+  xy: 772, 751
+  size: 317, 258
+  orig: 317, 258
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM7_ANIM7_498X405
+  rotate: false
+  xy: 1116, 709
+  size: 319, 259
+  orig: 319, 259
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM9_ANIM9_180X89
+  rotate: false
+  xy: 500, 908
+  size: 115, 57
+  orig: 115, 57
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM9_ANIM9_373X659
+  rotate: false
+  xy: 1467, 708
+  size: 239, 422
+  orig: 239, 422
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ANIM9_ANIM9_8X6
+  rotate: false
+  xy: 2039, 1
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1

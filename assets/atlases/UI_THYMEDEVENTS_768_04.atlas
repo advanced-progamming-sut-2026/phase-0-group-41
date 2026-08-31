@@ -1,0 +1,103 @@
+UI_THYMEDEVENTS_768_04.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_MGPADVENTURES
+  rotate: false
+  xy: 833, 1329
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_SPRINGENING
+  rotate: false
+  xy: 1339, 1329
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_SUMMERNIGHTS
+  rotate: false
+  xy: 833, 1597
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_TOMBASTIC_ADVENTURE
+  rotate: false
+  xy: 1339, 1597
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_VALENBRAINZ
+  rotate: false
+  xy: 1, 1661
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_SUMMERNIGHTS_EVENT_BG
+  rotate: false
+  xy: 833, 1
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_SUMMERNIGHT_EVENT_BG
+  rotate: false
+  xy: 1, 1
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_TOMBTANGLED_EVENT_BG
+  rotate: false
+  xy: 1, 333
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_TRIGGER_EVENT_BG
+  rotate: false
+  xy: 833, 333
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_UNIVERSAL_ADVENTURE_WORLDS_EVENT_BG
+  rotate: false
+  xy: 1, 665
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_VALENBRAINZ_EVENT_BG
+  rotate: false
+  xy: 833, 665
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ZCORP_2025_EVENT_BG
+  rotate: false
+  xy: 1, 997
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ZCORP_EVENT_BG
+  rotate: false
+  xy: 833, 997
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ZOMBOSSUM_EVENT_BG
+  rotate: false
+  xy: 1, 1329
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1

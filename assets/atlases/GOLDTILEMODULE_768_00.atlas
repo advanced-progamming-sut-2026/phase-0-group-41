@@ -1,0 +1,117 @@
+GOLDTILEMODULE_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_100X124
+  rotate: false
+  xy: 395, 211
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_123X148
+  rotate: false
+  xy: 314, 211
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_133X156
+  rotate: false
+  xy: 1, 150
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_136X158
+  rotate: false
+  xy: 225, 109
+  size: 87, 101
+  orig: 87, 101
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_136X160
+  rotate: false
+  xy: 320, 1
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_136X160_2
+  rotate: false
+  xy: 409, 1
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_136X160_3
+  rotate: false
+  xy: 320, 106
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_136X160_4
+  rotate: false
+  xy: 409, 106
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_136X160_5
+  rotate: false
+  xy: 136, 109
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_140X165
+  rotate: false
+  xy: 136, 1
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_141X165
+  rotate: false
+  xy: 228, 1
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_207X230
+  rotate: false
+  xy: 1, 1
+  size: 133, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_30X49
+  rotate: false
+  xy: 461, 211
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_40X40
+  rotate: false
+  xy: 88, 204
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_57X81
+  rotate: false
+  xy: 88, 150
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_GOLDTILE_GOLDTILE_88X120
+  rotate: false
+  xy: 225, 212
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1

@@ -51,6 +51,8 @@ public class MainMenuScreen extends BaseMenuScreen {
         grid.row();
         addButton(grid, "Quests", game::goToQuests);
         grid.row();
+        addButton(grid, "Mini Games", game::goToMiniGames);
+        grid.row();
         addButton(grid, "Leaderboard", game::goToLeaderboard);
         grid.row();
         addButton(grid, "Logout", game::logout);

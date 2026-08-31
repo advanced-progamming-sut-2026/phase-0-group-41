@@ -1,0 +1,397 @@
+PLANTIMPPEAR_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_IMPEAR_IMPEAR_10X11
+  rotate: false
+  xy: 242, 32
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_12X20
+  rotate: false
+  xy: 242, 17
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_182X96
+  rotate: false
+  xy: 1, 77
+  size: 117, 62
+  orig: 117, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_18X21
+  rotate: false
+  xy: 242, 1
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_1X1
+  rotate: false
+  xy: 252, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_1X1_2
+  rotate: false
+  xy: 252, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_23X24
+  rotate: false
+  xy: 94, 205
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_23X24_2
+  rotate: false
+  xy: 94, 223
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_23X24_3
+  rotate: false
+  xy: 152, 247
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_277X115
+  rotate: false
+  xy: 1, 1
+  size: 178, 74
+  orig: 178, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_27X14
+  rotate: false
+  xy: 233, 200
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_27X14_2
+  rotate: false
+  xy: 52, 310
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_27X14_3
+  rotate: false
+  xy: 72, 310
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_27X14_4
+  rotate: false
+  xy: 100, 328
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_27X32
+  rotate: false
+  xy: 234, 308
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_29X14
+  rotate: false
+  xy: 233, 126
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_33X30
+  rotate: false
+  xy: 233, 105
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_35X42
+  rotate: false
+  xy: 233, 171
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_35X44
+  rotate: false
+  xy: 233, 141
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_38X39
+  rotate: false
+  xy: 146, 349
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_38X39_2
+  rotate: false
+  xy: 106, 403
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_38X40
+  rotate: false
+  xy: 231, 342
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_39X20
+  rotate: false
+  xy: 219, 252
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_39X39
+  rotate: false
+  xy: 133, 403
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_39X41
+  rotate: false
+  xy: 79, 403
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_40X60
+  rotate: false
+  xy: 186, 376
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_45X31
+  rotate: false
+  xy: 214, 411
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_45X51
+  rotate: false
+  xy: 214, 376
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_47X42
+  rotate: false
+  xy: 47, 389
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_52X59
+  rotate: false
+  xy: 219, 212
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_62X95
+  rotate: false
+  xy: 1, 237
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_64X60
+  rotate: false
+  xy: 140, 308
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_65X28
+  rotate: false
+  xy: 1, 398
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_68X99
+  rotate: false
+  xy: 48, 205
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_69X39
+  rotate: false
+  xy: 100, 349
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_69X39_2
+  rotate: false
+  xy: 48, 362
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_69X39_3
+  rotate: false
+  xy: 1, 371
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_69X39_4
+  rotate: false
+  xy: 94, 376
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_69X39_5
+  rotate: false
+  xy: 140, 376
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_70X146
+  rotate: false
+  xy: 1, 141
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_70X39
+  rotate: false
+  xy: 1, 344
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_70X57
+  rotate: false
+  xy: 93, 289
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_71X49
+  rotate: false
+  xy: 52, 328
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_71X49_2
+  rotate: false
+  xy: 183, 342
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_73X85
+  rotate: false
+  xy: 170, 212
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_75X57
+  rotate: false
+  xy: 152, 269
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_75X57_2
+  rotate: false
+  xy: 202, 269
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_75X57_3
+  rotate: false
+  xy: 43, 271
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_76X50
+  rotate: false
+  xy: 183, 308
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_76X50_2
+  rotate: false
+  xy: 1, 310
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_82X163
+  rotate: false
+  xy: 178, 105
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_84X96
+  rotate: false
+  xy: 114, 183
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_87X162
+  rotate: false
+  xy: 120, 77
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_87X62
+  rotate: false
+  xy: 94, 247
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_92X159
+  rotate: false
+  xy: 181, 1
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_IMPEAR_IMPEAR_99X96
+  rotate: false
+  xy: 48, 141
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1

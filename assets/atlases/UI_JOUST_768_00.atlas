@@ -1,0 +1,75 @@
+UI_JOUST_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_CONNECTION_DIALOG_OFFLINE_IMAGE
+  rotate: false
+  xy: 359, 1
+  size: 151, 129
+  orig: 151, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUE_INFO_BG_DARK
+  rotate: false
+  xy: 480, 164
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUE_INFO_BG_LIGHT
+  rotate: false
+  xy: 446, 166
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUE_INFO_DIVIDER
+  rotate: false
+  xy: 411, 177
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEAGUE_PLACEMENT_ICON
+  rotate: false
+  xy: 359, 132
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LOCK_SMALL
+  rotate: false
+  xy: 411, 132
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCHLOADING_OPPONENTPANEL_BG
+  rotate: false
+  xy: 1, 1
+  size: 356, 134
+  orig: 356, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCHLOADING_PLAYERPANEL_BG
+  rotate: false
+  xy: 1, 137
+  size: 356, 134
+  orig: 356, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_SEASON_TIMER_BACKGROUND
+  rotate: false
+  xy: 480, 132
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_TOURNAMENT_RESULTS_LEAGUE_ICON_FRAME_FILL
+  rotate: false
+  xy: 446, 132
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

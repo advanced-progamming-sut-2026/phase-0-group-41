@@ -1,0 +1,19 @@
+DELAYLOAD_BACKGROUND_ROMAN_768_01.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_ROMAN_BG_TEXTURE_LEFT
+  rotate: false
+  xy: 1, 1
+  size: 578, 768
+  orig: 578, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ROMAN_FLOODED_BG_TEXTURE_LEFT
+  rotate: false
+  xy: 1, 771
+  size: 578, 768
+  orig: 578, 768
+  offset: 0, 0
+  index: -1

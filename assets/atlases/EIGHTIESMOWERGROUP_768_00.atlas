@@ -1,0 +1,145 @@
+EIGHTIESMOWERGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_116X72
+  rotate: false
+  xy: 1, 69
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_23X40
+  rotate: false
+  xy: 106, 131
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_24X23
+  rotate: false
+  xy: 60, 158
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_25X11
+  rotate: false
+  xy: 55, 117
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_25X11_2
+  rotate: false
+  xy: 1, 159
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_25X38
+  rotate: false
+  xy: 106, 104
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_26X45
+  rotate: false
+  xy: 107, 73
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_35X13
+  rotate: false
+  xy: 29, 144
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_36X36
+  rotate: false
+  xy: 81, 133
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_37X13
+  rotate: false
+  xy: 78, 158
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_37X36
+  rotate: false
+  xy: 55, 133
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_39X39
+  rotate: false
+  xy: 1, 117
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_39X39_2
+  rotate: false
+  xy: 28, 117
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_41X20
+  rotate: false
+  xy: 1, 144
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_42X42
+  rotate: false
+  xy: 77, 104
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_44X45
+  rotate: false
+  xy: 77, 73
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_45X16
+  rotate: false
+  xy: 29, 158
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_65X36
+  rotate: false
+  xy: 77, 48
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_80X70
+  rotate: false
+  xy: 60, 1
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_EIGHTIES_MOWER_EIGHTIES_89X103
+  rotate: false
+  xy: 1, 1
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1

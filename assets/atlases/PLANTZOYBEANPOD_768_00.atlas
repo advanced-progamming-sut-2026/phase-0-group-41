@@ -1,0 +1,208 @@
+PLANTZOYBEANPOD_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOYBEANPOD_SMOKE_ZOYBEANPOD_SMOKE_126X58
+  rotate: false
+  xy: 348, 366
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOYBEANPOD_SMOKE_ZOYBEANPOD_SMOKE_137X62
+  rotate: false
+  xy: 77, 329
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_108X60
+  rotate: false
+  xy: 88, 371
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_112X124
+  rotate: false
+  xy: 406, 226
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_115X115
+  rotate: false
+  xy: 1, 273
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_122X25
+  rotate: false
+  xy: 230, 377
+  size: 78, 16
+  orig: 78, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_124X246
+  rotate: false
+  xy: 324, 111
+  size: 80, 158
+  orig: 80, 158
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_128X176
+  rotate: false
+  xy: 406, 111
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_128X87
+  rotate: false
+  xy: 348, 308
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_133X245
+  rotate: false
+  xy: 237, 111
+  size: 85, 157
+  orig: 85, 157
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_133X51
+  rotate: false
+  xy: 1, 371
+  size: 85, 33
+  orig: 85, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_145X337
+  rotate: false
+  xy: 142, 111
+  size: 93, 216
+  orig: 93, 216
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_14X19
+  rotate: false
+  xy: 490, 190
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_170X162
+  rotate: false
+  xy: 237, 271
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_18X90
+  rotate: false
+  xy: 473, 1
+  size: 12, 58
+  orig: 12, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_19X66
+  rotate: false
+  xy: 473, 61
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_217X249
+  rotate: false
+  xy: 1, 111
+  size: 139, 160
+  orig: 139, 160
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_27X204
+  rotate: false
+  xy: 490, 1
+  size: 18, 131
+  orig: 18, 131
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_27X48
+  rotate: false
+  xy: 490, 134
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_32X32
+  rotate: false
+  xy: 490, 167
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_366X168
+  rotate: false
+  xy: 1, 1
+  size: 234, 108
+  orig: 234, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_366X168_2
+  rotate: false
+  xy: 237, 1
+  size: 234, 108
+  orig: 234, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_39X21
+  rotate: false
+  xy: 480, 226
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_60X54
+  rotate: false
+  xy: 431, 375
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_81X50
+  rotate: false
+  xy: 348, 271
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_88X77
+  rotate: false
+  xy: 77, 273
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_92X54
+  rotate: false
+  xy: 167, 329
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_95X43
+  rotate: false
+  xy: 167, 366
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ZOYBEANPOD_ZOYBEANPOD_98X101
+  rotate: false
+  xy: 432, 308
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1

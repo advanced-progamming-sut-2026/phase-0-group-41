@@ -1,0 +1,537 @@
+PLANTHOCUSCROCUS_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_HOCUS_CROCUS_ATTACK_HOCUS_CROCUS_ATTACK_11X11
+  rotate: false
+  xy: 503, 36
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_ATTACK_HOCUS_CROCUS_ATTACK_12X18
+  rotate: false
+  xy: 503, 1
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_ATTACK_HOCUS_CROCUS_ATTACK_163X66
+  rotate: false
+  xy: 109, 92
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_ATTACK_HOCUS_CROCUS_ATTACK_21X33
+  rotate: false
+  xy: 166, 258
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_ATTACK_HOCUS_CROCUS_ATTACK_49X59
+  rotate: false
+  xy: 57, 159
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_ATTACK_HOCUS_CROCUS_ATTACK_84X61
+  rotate: false
+  xy: 1, 159
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_104X21
+  rotate: false
+  xy: 91, 188
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_117X25
+  rotate: false
+  xy: 210, 187
+  size: 75, 16
+  orig: 75, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_132X80
+  rotate: false
+  xy: 216, 99
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_134X51
+  rotate: false
+  xy: 210, 152
+  size: 86, 33
+  orig: 86, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_134X7
+  rotate: false
+  xy: 345, 270
+  size: 86, 5
+  orig: 86, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_145X68
+  rotate: false
+  xy: 1, 113
+  size: 93, 44
+  orig: 93, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_20X22
+  rotate: false
+  xy: 298, 170
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_44X26
+  rotate: false
+  xy: 287, 187
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_494X14
+  rotate: false
+  xy: 1, 206
+  size: 316, 9
+  orig: 316, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOCUS_CROCUS_BOLT_HOCUS_CROCUS_BOLT_96X109
+  rotate: false
+  xy: 412, 65
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_100X71
+  rotate: false
+  xy: 385, 137
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_102X77
+  rotate: false
+  xy: 96, 136
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_10X13
+  rotate: false
+  xy: 503, 15
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_113X97
+  rotate: false
+  xy: 428, 1
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_11X12
+  rotate: false
+  xy: 503, 26
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_125X72
+  rotate: false
+  xy: 303, 122
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_141X150
+  rotate: false
+  xy: 226, 1
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_143X92
+  rotate: false
+  xy: 318, 61
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_15X22
+  rotate: false
+  xy: 96, 113
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_15X7
+  rotate: false
+  xy: 303, 113
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_166X171
+  rotate: false
+  xy: 1, 1
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_168X90
+  rotate: false
+  xy: 318, 1
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_180X138
+  rotate: false
+  xy: 109, 1
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_18X13
+  rotate: false
+  xy: 392, 277
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_18X18
+  rotate: false
+  xy: 303, 99
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_19X12
+  rotate: false
+  xy: 406, 277
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_20X22
+  rotate: false
+  xy: 345, 277
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_20X30
+  rotate: false
+  xy: 444, 234
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_21X14
+  rotate: false
+  xy: 360, 277
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_22X12
+  rotate: false
+  xy: 376, 277
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_22X19
+  rotate: false
+  xy: 365, 170
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_22X29
+  rotate: false
+  xy: 251, 277
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_22X39
+  rotate: false
+  xy: 208, 251
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_24X28
+  rotate: false
+  xy: 495, 259
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_26X19
+  rotate: false
+  xy: 385, 122
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_30X27
+  rotate: false
+  xy: 104, 276
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_31X28
+  rotate: false
+  xy: 35, 276
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_31X75
+  rotate: false
+  xy: 268, 251
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_32X26
+  rotate: false
+  xy: 57, 276
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_33X35
+  rotate: false
+  xy: 444, 259
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_34X25
+  rotate: false
+  xy: 80, 276
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_35X69
+  rotate: false
+  xy: 183, 251
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_36X49
+  rotate: false
+  xy: 320, 253
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_38X20
+  rotate: false
+  xy: 224, 277
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_41X25
+  rotate: false
+  xy: 467, 259
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_44X31
+  rotate: false
+  xy: 136, 258
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_44X49
+  rotate: false
+  xy: 290, 253
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_48X52
+  rotate: false
+  xy: 411, 234
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_49X28
+  rotate: false
+  xy: 1, 258
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_52X47
+  rotate: false
+  xy: 476, 102
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_55X26
+  rotate: false
+  xy: 99, 257
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_55X55
+  rotate: false
+  xy: 476, 65
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_57X44
+  rotate: false
+  xy: 358, 235
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_60X41
+  rotate: false
+  xy: 227, 249
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_61X50
+  rotate: false
+  xy: 271, 217
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_62X61
+  rotate: false
+  xy: 141, 217
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_65X49
+  rotate: false
+  xy: 183, 217
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_66X47
+  rotate: false
+  xy: 227, 217
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_67X43
+  rotate: false
+  xy: 460, 229
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_68X75
+  rotate: false
+  xy: 365, 185
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_68X79
+  rotate: false
+  xy: 319, 170
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_69X106
+  rotate: false
+  xy: 164, 136
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_69X43
+  rotate: false
+  xy: 312, 223
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_69X59
+  rotate: false
+  xy: 95, 217
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_69X61
+  rotate: false
+  xy: 1, 217
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_71X57
+  rotate: false
+  xy: 47, 217
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_73X66
+  rotate: false
+  xy: 411, 190
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_77X26
+  rotate: false
+  xy: 47, 257
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_77X58
+  rotate: false
+  xy: 460, 190
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOCUS_CROCUS_HOCUS_CROCUS_85X80
+  rotate: false
+  xy: 451, 137
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+UI_GAMEOVER_768_00.PNG
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_GAMEOVER_FAIL_SCREEN_BRAIN_ONLY
+  rotate: false
+  xy: 1, 1
+  size: 586, 383
+  orig: 586, 383
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,82 @@
+PLANTGARLICEFFECTS_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GARLIC_PROJECTILE_GARLIC_PROJECTILE_101X72
+  rotate: false
+  xy: 1, 120
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_PROJECTILE_GARLIC_PROJECTILE_125X62
+  rotate: false
+  xy: 1, 78
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_164X117
+  rotate: false
+  xy: 1, 1
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_21X21
+  rotate: false
+  xy: 108, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_21X21_2
+  rotate: false
+  xy: 108, 17
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_21X21_3
+  rotate: false
+  xy: 108, 33
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_34X42
+  rotate: false
+  xy: 96, 133
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_35X35
+  rotate: false
+  xy: 96, 162
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_35X35_2
+  rotate: false
+  xy: 1, 168
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_40X55
+  rotate: false
+  xy: 68, 133
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GARLIC_STINK_LINES_GARLIC_STINK_LINES_47X82
+  rotate: false
+  xy: 83, 78
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1

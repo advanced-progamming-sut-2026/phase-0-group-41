@@ -1,0 +1,320 @@
+PLANTSTUNION_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_STUNION_PF_BURPCLOUD_PROJECTILE_STUNION_PF_BURPCLOUD_PROJECTILE_101X72
+  rotate: false
+  xy: 1, 195
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STUNION_PF_BURPCLOUD_PROJECTILE_STUNION_PF_BURPCLOUD_PROJECTILE_125X62
+  rotate: false
+  xy: 125, 187
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_103X77
+  rotate: false
+  xy: 125, 135
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_114X105
+  rotate: false
+  xy: 125, 66
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_129X42
+  rotate: false
+  xy: 68, 229
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_182X98
+  rotate: false
+  xy: 125, 1
+  size: 117, 63
+  orig: 117, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_18X11
+  rotate: false
+  xy: 28, 176
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_191X115
+  rotate: false
+  xy: 1, 1
+  size: 122, 74
+  orig: 122, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_19X39
+  rotate: false
+  xy: 237, 152
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_1X1
+  rotate: false
+  xy: 244, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_1X1_2
+  rotate: false
+  xy: 247, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_20X18
+  rotate: false
+  xy: 23, 259
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_23X23
+  rotate: false
+  xy: 106, 116
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_25X22
+  rotate: false
+  xy: 23, 243
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_27X13
+  rotate: false
+  xy: 1, 261
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_27X16
+  rotate: false
+  xy: 90, 258
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_27X16_2
+  rotate: false
+  xy: 110, 258
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_27X18
+  rotate: false
+  xy: 41, 243
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_27X18_2
+  rotate: false
+  xy: 178, 250
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_27X18_3
+  rotate: false
+  xy: 153, 251
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_28X87
+  rotate: false
+  xy: 43, 137
+  size: 18, 56
+  orig: 18, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_30X13
+  rotate: false
+  xy: 130, 258
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_31X25
+  rotate: false
+  xy: 1, 243
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_33X14
+  rotate: false
+  xy: 67, 258
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_33X35
+  rotate: false
+  xy: 232, 216
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_35X14
+  rotate: false
+  xy: 224, 257
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_35X29
+  rotate: false
+  xy: 178, 229
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_35X36
+  rotate: false
+  xy: 207, 216
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_36X31
+  rotate: false
+  xy: 153, 229
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_37X14
+  rotate: false
+  xy: 41, 257
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_37X14_2
+  rotate: false
+  xy: 198, 257
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_37X22
+  rotate: false
+  xy: 230, 241
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_39X22
+  rotate: false
+  xy: 1, 176
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_39X22_2
+  rotate: false
+  xy: 203, 241
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_44X55
+  rotate: false
+  xy: 207, 152
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_57X39
+  rotate: false
+  xy: 207, 189
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_61X25
+  rotate: false
+  xy: 65, 116
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_62X58
+  rotate: false
+  xy: 1, 137
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_66X21
+  rotate: false
+  xy: 68, 195
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_66X21_2
+  rotate: false
+  xy: 68, 211
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_69X62
+  rotate: false
+  xy: 200, 110
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_82X58
+  rotate: false
+  xy: 65, 77
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_82X66
+  rotate: false
+  xy: 200, 66
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_90X91
+  rotate: false
+  xy: 65, 135
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STUNION_STUNION_96X91
+  rotate: false
+  xy: 1, 77
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1

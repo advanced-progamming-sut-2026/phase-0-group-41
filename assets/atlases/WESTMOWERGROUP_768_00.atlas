@@ -1,0 +1,103 @@
+WESTMOWERGROUP_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_12X6
+  rotate: false
+  xy: 78, 63
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_14X14
+  rotate: false
+  xy: 112, 24
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_15X42
+  rotate: false
+  xy: 97, 48
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_25X32
+  rotate: false
+  xy: 112, 37
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_26X89
+  rotate: false
+  xy: 1, 37
+  size: 17, 57
+  orig: 17, 57
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_27X23
+  rotate: false
+  xy: 109, 60
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_31X11
+  rotate: false
+  xy: 20, 70
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_36X15
+  rotate: false
+  xy: 53, 63
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_48X48
+  rotate: false
+  xy: 20, 37
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_66X20
+  rotate: false
+  xy: 53, 48
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_74X34
+  rotate: false
+  xy: 62, 24
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_92X32
+  rotate: false
+  xy: 62, 1
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_92X53
+  rotate: false
+  xy: 1, 1
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_WILDWEST_MOWER_WILDWEST_9X9
+  rotate: false
+  xy: 53, 37
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

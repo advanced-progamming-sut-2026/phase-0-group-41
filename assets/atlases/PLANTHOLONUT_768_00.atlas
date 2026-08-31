@@ -1,0 +1,243 @@
+PLANTHOLONUT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_INFINUT_PLANTFOOD_SHIELD_INFINUT_PLANTFOOD_SHIELD_110X138
+  rotate: false
+  xy: 1, 149
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFINUT_PLANTFOOD_SHIELD_INFINUT_PLANTFOOD_SHIELD_114X227
+  rotate: false
+  xy: 1, 1
+  size: 73, 146
+  orig: 73, 146
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_100X106
+  rotate: false
+  xy: 74, 196
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_110X138
+  rotate: false
+  xy: 150, 192
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_112X137
+  rotate: false
+  xy: 168, 102
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_112X137_2
+  rotate: false
+  xy: 76, 106
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_114X55
+  rotate: false
+  xy: 1, 266
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_136X154
+  rotate: false
+  xy: 168, 1
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_141X161
+  rotate: false
+  xy: 76, 1
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_14X17
+  rotate: false
+  xy: 150, 131
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_14X18
+  rotate: false
+  xy: 242, 130
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_20X14
+  rotate: false
+  xy: 150, 120
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_21X13
+  rotate: false
+  xy: 242, 119
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_21X17
+  rotate: false
+  xy: 242, 106
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_22X19
+  rotate: false
+  xy: 150, 106
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_25X11
+  rotate: false
+  xy: 82, 323
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_26X12
+  rotate: false
+  xy: 199, 322
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_31X35
+  rotate: false
+  xy: 220, 292
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_34X17
+  rotate: false
+  xy: 175, 322
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_34X20
+  rotate: false
+  xy: 151, 313
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_34X23
+  rotate: false
+  xy: 122, 266
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_34X33
+  rotate: false
+  xy: 223, 246
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_34X33_2
+  rotate: false
+  xy: 223, 269
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_35X19
+  rotate: false
+  xy: 220, 317
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_37X37
+  rotate: false
+  xy: 223, 220
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_40X40
+  rotate: false
+  xy: 223, 192
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_46X21
+  rotate: false
+  xy: 82, 307
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_55X18
+  rotate: false
+  xy: 114, 313
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_58X58
+  rotate: false
+  xy: 181, 283
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_59X31
+  rotate: false
+  xy: 42, 307
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_61X46
+  rotate: false
+  xy: 1, 303
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_68X60
+  rotate: false
+  xy: 76, 266
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_83X28
+  rotate: false
+  xy: 1, 240
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFINUT_INFINUT_89X44
+  rotate: false
+  xy: 122, 283
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1

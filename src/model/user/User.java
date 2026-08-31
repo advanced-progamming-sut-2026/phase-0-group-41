@@ -30,10 +30,18 @@ public class User implements Serializable, PlayerProfile {
     // === متغیرهای لیدربورد ===
     private int lastCompletedChapter = 0;
     private int lastCompletedLevel = 0;
+    // پیشرفت جداگانه‌ی فصل Beginner (شماره‌ی ۰)؛ چون ۰ برای lastCompletedChapter
+    // معنای «هنوز هیچ فصل واقعی‌ای تمام نشده» را دارد، نمی‌توان همان فیلد را برای
+    // فصل Beginner هم استفاده کرد و باید جدا نگه‌داری شود.
+    private int beginnerLastCompletedLevel = 0;
     private int miniGamesCompleted = 0;
     private int dailyQuestsCompleted = 0;
     private int nonDailyQuestsCompleted = 0;
     private int highScore = 0;
+
+    // بالاترین سطح مینی‌گیمی که این کاربر با موفقیت تمام کرده (کلید: نام مینی‌گیم،
+    // مقدار: شماره‌ی آخرین سطحی که برده - ۰ یعنی هنوز هیچ سطحی برده نشده و فقط سطح ۱ باز است)
+    private Map<String, Integer> miniGameHighestLevelWon;
 
     private int coins = 0;
     private int diamonds = 0;
@@ -320,8 +328,42 @@ public class User implements Serializable, PlayerProfile {
     public int getLastCompletedLevel() { return lastCompletedLevel; }
     public void setLastCompletedLevel(int lastCompletedLevel) { this.lastCompletedLevel = lastCompletedLevel; }
 
+    public int getBeginnerLastCompletedLevel() { return beginnerLastCompletedLevel; }
+    public void setBeginnerLastCompletedLevel(int level) { this.beginnerLastCompletedLevel = level; }
+
     public int getMiniGamesCompleted() { return miniGamesCompleted; }
     public void setMiniGamesCompleted(int miniGamesCompleted) { this.miniGamesCompleted = miniGamesCompleted; }
+
+    /** آیا سطح داده‌شده از این مینی‌گیم برای کاربر باز است؟ سطح ۱ همیشه باز است؛
+     *  سطح n>1 فقط وقتی باز می‌شود که کاربر سطح n-1 را برده باشد. */
+    public boolean isMiniGameLevelUnlocked(String miniGameName, int level) {
+        if (level <= 1) return true;
+        Integer highest = getMiniGameHighestLevelWon().get(miniGameName.toLowerCase());
+        int won = (highest == null) ? 0 : highest;
+        return level <= won + 1;
+    }
+
+    /** ثبت برد یک سطح از یک مینی‌گیم (اگر از قبل بالاتر بوده، تغییری نمی‌کند). */
+    public void recordMiniGameLevelWon(String miniGameName, int level) {
+        Map<String, Integer> map = getMiniGameHighestLevelWon();
+        String key = miniGameName.toLowerCase();
+        Integer current = map.get(key);
+        if (current == null || level > current) {
+            map.put(key, level);
+        }
+    }
+
+    public int getMiniGameHighestLevel(String miniGameName) {
+        Integer v = getMiniGameHighestLevelWon().get(miniGameName.toLowerCase());
+        return v == null ? 0 : v;
+    }
+
+    private Map<String, Integer> getMiniGameHighestLevelWon() {
+        if (miniGameHighestLevelWon == null) {
+            miniGameHighestLevelWon = new HashMap<>();
+        }
+        return miniGameHighestLevelWon;
+    }
 
     public int getDailyQuestsCompleted() { return dailyQuestsCompleted; }
     public void setDailyQuestsCompleted(int dailyQuestsCompleted) { this.dailyQuestsCompleted = dailyQuestsCompleted; }

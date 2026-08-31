@@ -1,0 +1,376 @@
+PLANTMAGNIFYINGGRASS_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_MAGNIFYING_GRASS_BLAST_MAGNIFYING_GRASS_BLAST_116X81
+  rotate: false
+  xy: 430, 395
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_BLAST_MAGNIFYING_GRASS_BLAST_137X75
+  rotate: false
+  xy: 380, 226
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_BLAST_MAGNIFYING_GRASS_BLAST_137X98
+  rotate: false
+  xy: 380, 161
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_BLAST_MAGNIFYING_GRASS_BLAST_163X127
+  rotate: false
+  xy: 399, 1
+  size: 105, 82
+  orig: 105, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_BLAST_MAGNIFYING_GRASS_BLAST_1X1
+  rotate: false
+  xy: 506, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_BLAST_MAGNIFYING_GRASS_BLAST_30X29
+  rotate: false
+  xy: 453, 499
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_BLAST_MAGNIFYING_GRASS_BLAST_313X222
+  rotate: false
+  xy: 1, 157
+  size: 201, 142
+  orig: 201, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_HIT_MG_HIT_RAY_01
+  rotate: false
+  xy: 216, 409
+  size: 148, 29
+  orig: 148, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_CAP_MAGNIFYING_GRASS_PLANTFOOD_BEAM_CAP_87X87
+  rotate: false
+  xy: 89, 411
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_IN_MAGNIFYING_GRASS_PLANTFOOD_BEAM_IN_108X11
+  rotate: false
+  xy: 1, 301
+  size: 69, 7
+  orig: 69, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_IN_MAGNIFYING_GRASS_PLANTFOOD_BEAM_IN_148X23
+  rotate: false
+  xy: 380, 280
+  size: 95, 15
+  orig: 95, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_IN_MAGNIFYING_GRASS_PLANTFOOD_BEAM_IN_16X13
+  rotate: false
+  xy: 95, 301
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_325X18
+  rotate: false
+  xy: 1, 502
+  size: 208, 12
+  orig: 208, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_331X41
+  rotate: false
+  xy: 216, 381
+  size: 212, 26
+  orig: 212, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_333X43
+  rotate: false
+  xy: 1, 321
+  size: 213, 28
+  orig: 213, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_333X43_2
+  rotate: false
+  xy: 216, 321
+  size: 213, 28
+  orig: 213, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_333X43_3
+  rotate: false
+  xy: 1, 351
+  size: 213, 28
+  orig: 213, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_333X43_4
+  rotate: false
+  xy: 216, 351
+  size: 213, 28
+  orig: 213, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_333X43_5
+  rotate: false
+  xy: 1, 381
+  size: 213, 28
+  orig: 213, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_MAGNIFYING_GRASS_PLANTFOOD_BEAM_434X34
+  rotate: false
+  xy: 204, 297
+  size: 278, 22
+  orig: 278, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_BEAM_ORIGIN_MAGNIFYING_GRASS_PLANTFOOD_BEAM_ORIGIN_87X87
+  rotate: false
+  xy: 147, 411
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_ENDCAP_MAGNIFYING_GRASS_PLANTFOOD_ENDCAP_15X15
+  rotate: false
+  xy: 83, 301
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_ENDCAP_MAGNIFYING_GRASS_PLANTFOOD_ENDCAP_30X39
+  rotate: false
+  xy: 492, 449
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_HIT_MAGNIFYING_GRASS_PLANTFOOD_HIT_139X115
+  rotate: false
+  xy: 399, 85
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_HIT_MAGNIFYING_GRASS_PLANTFOOD_HIT_1X1
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_HIT_MAGNIFYING_GRASS_PLANTFOOD_HIT_271X212
+  rotate: false
+  xy: 204, 159
+  size: 174, 136
+  orig: 174, 136
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_HIT_MAGNIFYING_GRASS_PLANTFOOD_HIT_64X64
+  rotate: false
+  xy: 470, 237
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_HIT_MAGNIFYING_GRASS_PLANTFOOD_HIT_95X74
+  rotate: false
+  xy: 429, 449
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_HIT_MAGNIFYING_GRASS_PLANTFOOD_HIT_95X95
+  rotate: false
+  xy: 366, 409
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_ORIGIN_MAGNIFYING_GRASS_PLANTFOOD_ORIGIN_112X112
+  rotate: false
+  xy: 431, 321
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_ORIGIN_MAGNIFYING_GRASS_PLANTFOOD_ORIGIN_30X50
+  rotate: false
+  xy: 490, 85
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MAGNIFYING_GRASS_PLANTFOOD_ORIGIN_MAGNIFYING_GRASS_PLANTFOOD_ORIGIN_46X46
+  rotate: false
+  xy: 163, 469
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_12X6
+  rotate: false
+  xy: 490, 153
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_12X92
+  rotate: false
+  xy: 492, 476
+  size: 8, 59
+  orig: 8, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_14X23
+  rotate: false
+  xy: 72, 301
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_1X1
+  rotate: false
+  xy: 506, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_28X49
+  rotate: false
+  xy: 490, 119
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_294X244
+  rotate: false
+  xy: 209, 1
+  size: 188, 156
+  orig: 188, 156
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_30X43
+  rotate: false
+  xy: 344, 440
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_321X240
+  rotate: false
+  xy: 1, 1
+  size: 206, 154
+  orig: 206, 154
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_35X35
+  rotate: false
+  xy: 428, 499
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_36X44
+  rotate: false
+  xy: 403, 472
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_41X61
+  rotate: false
+  xy: 484, 280
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_41X61_2
+  rotate: false
+  xy: 344, 472
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_45X40
+  rotate: false
+  xy: 372, 472
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_55X41
+  rotate: false
+  xy: 126, 469
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_55X46
+  rotate: false
+  xy: 89, 469
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_64X116
+  rotate: false
+  xy: 470, 161
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_64X116_2
+  rotate: false
+  xy: 258, 440
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_64X116_3
+  rotate: false
+  xy: 301, 440
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_65X117
+  rotate: false
+  xy: 1, 411
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_65X117_2
+  rotate: false
+  xy: 45, 411
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MAGNIFYING_GRASS_MAGNIFYING_GRASS_80X94
+  rotate: false
+  xy: 205, 440
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1

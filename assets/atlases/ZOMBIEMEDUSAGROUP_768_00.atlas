@@ -1,0 +1,418 @@
+ZOMBIEMEDUSAGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_103X152
+  rotate: false
+  xy: 91, 1
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_135X8
+  rotate: false
+  xy: 1, 326
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_137X137
+  rotate: false
+  xy: 1, 1
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_23X23
+  rotate: false
+  xy: 165, 234
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_24X24
+  rotate: false
+  xy: 164, 216
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_24X25
+  rotate: false
+  xy: 90, 321
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_26X25
+  rotate: false
+  xy: 87, 151
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_28X14
+  rotate: false
+  xy: 236, 178
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_29X56
+  rotate: false
+  xy: 195, 279
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_29X57
+  rotate: false
+  xy: 142, 262
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_29X64
+  rotate: false
+  xy: 227, 251
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_31X31
+  rotate: false
+  xy: 54, 190
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_31X31_2
+  rotate: false
+  xy: 236, 190
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_31X43
+  rotate: false
+  xy: 115, 299
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_32X21
+  rotate: false
+  xy: 190, 317
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_34X54
+  rotate: false
+  xy: 118, 262
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_35X39
+  rotate: false
+  xy: 32, 297
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_36X39
+  rotate: false
+  xy: 57, 299
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_36X45
+  rotate: false
+  xy: 216, 294
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_37X35
+  rotate: false
+  xy: 137, 310
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_38X32
+  rotate: false
+  xy: 163, 310
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_38X46
+  rotate: false
+  xy: 34, 265
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_38X46_2
+  rotate: false
+  xy: 61, 267
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_39X29
+  rotate: false
+  xy: 223, 40
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_39X37
+  rotate: false
+  xy: 88, 295
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_40X40
+  rotate: false
+  xy: 163, 282
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_42X41
+  rotate: false
+  xy: 88, 267
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_43X45
+  rotate: false
+  xy: 165, 251
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_45X36
+  rotate: false
+  xy: 1, 299
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_45X37
+  rotate: false
+  xy: 1, 273
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_45X48
+  rotate: false
+  xy: 225, 145
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_45X51
+  rotate: false
+  xy: 225, 110
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_45X58
+  rotate: false
+  xy: 223, 1
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_47X41
+  rotate: false
+  xy: 195, 251
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_48X51
+  rotate: false
+  xy: 1, 238
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_48X53
+  rotate: false
+  xy: 223, 215
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_53X53
+  rotate: false
+  xy: 187, 215
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_55X87
+  rotate: false
+  xy: 1, 148
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_60X40
+  rotate: false
+  xy: 107, 101
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_62X39
+  rotate: false
+  xy: 34, 238
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_62X39_2
+  rotate: false
+  xy: 76, 240
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_6X6
+  rotate: false
+  xy: 52, 91
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_70X31
+  rotate: false
+  xy: 118, 240
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_70X72
+  rotate: false
+  xy: 210, 62
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_73X52
+  rotate: false
+  xy: 187, 179
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_73X58
+  rotate: false
+  xy: 38, 151
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_75X55
+  rotate: false
+  xy: 137, 179
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_75X56
+  rotate: false
+  xy: 87, 174
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_76X105
+  rotate: false
+  xy: 159, 62
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_76X85
+  rotate: false
+  xy: 1, 91
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_80X34
+  rotate: false
+  xy: 111, 216
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_80X47
+  rotate: false
+  xy: 1, 206
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_82X72
+  rotate: false
+  xy: 170, 131
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_82X75
+  rotate: false
+  xy: 52, 101
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_86X37
+  rotate: false
+  xy: 54, 212
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_8X12
+  rotate: false
+  xy: 250, 52
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_8X15
+  rotate: false
+  xy: 250, 40
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_95X63
+  rotate: false
+  xy: 107, 131
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_MEDUSA_ZOMBIE_ROMAN_MEDUSA_96X92
+  rotate: false
+  xy: 159, 1
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1

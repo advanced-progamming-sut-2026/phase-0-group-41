@@ -1,0 +1,425 @@
+PLANTBLASTBERRY_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_104X108
+  rotate: false
+  xy: 306, 505
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_112X107
+  rotate: false
+  xy: 396, 478
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_132X120
+  rotate: false
+  xy: 1, 447
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_144X66
+  rotate: false
+  xy: 1, 568
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_152X68
+  rotate: false
+  xy: 375, 549
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_183X39
+  rotate: false
+  xy: 175, 629
+  size: 117, 25
+  orig: 117, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_183X62
+  rotate: false
+  xy: 1, 526
+  size: 117, 40
+  orig: 117, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_18X18
+  rotate: false
+  xy: 491, 122
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_1X1
+  rotate: false
+  xy: 510, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_1X1_2
+  rotate: false
+  xy: 510, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_228X414
+  rotate: false
+  xy: 343, 1
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_264X376
+  rotate: false
+  xy: 172, 1
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_264X412
+  rotate: false
+  xy: 1, 1
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_281X140
+  rotate: false
+  xy: 214, 413
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_30X28
+  rotate: false
+  xy: 491, 21
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_31X28
+  rotate: false
+  xy: 491, 1
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_329X278
+  rotate: false
+  xy: 1, 267
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_41X110
+  rotate: false
+  xy: 482, 389
+  size: 26, 71
+  orig: 26, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_43X39
+  rotate: false
+  xy: 166, 656
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_58X58
+  rotate: false
+  xy: 418, 648
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_61X61
+  rotate: false
+  xy: 167, 447
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_75X119
+  rotate: false
+  xy: 306, 576
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_94X89
+  rotate: false
+  xy: 356, 595
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_VINE_BLASTBERRY_PROJECTILE_GRENADE_EXPLOSION_98X95
+  rotate: false
+  xy: 175, 566
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_PIECE_VINE_BLASTBERRY_PROJECTILE_GRENADE_PIECE_21X21
+  rotate: false
+  xy: 491, 106
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_PIECE_VINE_BLASTBERRY_PROJECTILE_GRENADE_PIECE_41X42
+  rotate: false
+  xy: 371, 654
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_PIECE_VINE_BLASTBERRY_PROJECTILE_GRENADE_PIECE_49X49
+  rotate: false
+  xy: 475, 560
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_VINE_BLASTBERRY_PROJECTILE_GRENADE_131X135
+  rotate: false
+  xy: 396, 389
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_VINE_BLASTBERRY_PROJECTILE_GRENADE_57X60
+  rotate: false
+  xy: 470, 478
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_VINE_BLASTBERRY_PROJECTILE_GRENADE_VINE_BLASTBERRY_PROJECTILE_GRENADE_78X80
+  rotate: false
+  xy: 418, 595
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_104X30
+  rotate: false
+  xy: 172, 244
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_106X53
+  rotate: false
+  xy: 1, 637
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_10X10
+  rotate: false
+  xy: 504, 147
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_120X116
+  rotate: false
+  xy: 88, 447
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_129X92
+  rotate: false
+  xy: 167, 505
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_170X35
+  rotate: false
+  xy: 1, 612
+  size: 109, 23
+  orig: 109, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_17X14
+  rotate: false
+  xy: 491, 147
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_196X185
+  rotate: false
+  xy: 367, 268
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_19X26
+  rotate: false
+  xy: 491, 87
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_1X1
+  rotate: false
+  xy: 510, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_1X1_2
+  rotate: false
+  xy: 510, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_21X23
+  rotate: false
+  xy: 491, 70
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_235X223
+  rotate: false
+  xy: 214, 268
+  size: 151, 143
+  orig: 151, 143
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_24X13
+  rotate: false
+  xy: 491, 136
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_26X20
+  rotate: false
+  xy: 491, 55
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_31X19
+  rotate: false
+  xy: 491, 41
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_33X26
+  rotate: false
+  xy: 270, 244
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_38X19
+  rotate: false
+  xy: 293, 244
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_42X24
+  rotate: false
+  xy: 241, 244
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_56X57
+  rotate: false
+  xy: 294, 654
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_57X60
+  rotate: false
+  xy: 475, 519
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_57X60_2
+  rotate: false
+  xy: 120, 523
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_58X54
+  rotate: false
+  xy: 332, 654
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_60X57
+  rotate: false
+  xy: 470, 595
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_60X57_2
+  rotate: false
+  xy: 470, 634
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_60X57_3
+  rotate: false
+  xy: 125, 642
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_65X37
+  rotate: false
+  xy: 240, 601
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_81X147
+  rotate: false
+  xy: 252, 505
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_81X48
+  rotate: false
+  xy: 71, 642
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_BLASTBERRY_VINE_BLASTBERRY_83X116
+  rotate: false
+  xy: 120, 566
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1

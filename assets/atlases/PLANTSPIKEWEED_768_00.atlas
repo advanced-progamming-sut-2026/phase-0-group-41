@@ -1,0 +1,215 @@
+PLANTSPIKEWEED_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKEWEED_DIRTWAVE
+  rotate: false
+  xy: 107, 61
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKEWEED_DUST_CLOUD
+  rotate: false
+  xy: 1, 107
+  size: 98, 46
+  orig: 98, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKEWEED_PLANTFOOD
+  rotate: false
+  xy: 107, 1
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKEWEED_PLANTFOOD_BUZZSAW_7X16
+  rotate: false
+  xy: 247, 92
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKEWEED_ROCK
+  rotate: false
+  xy: 221, 193
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKEWEED_SPINSHINE
+  rotate: false
+  xy: 217, 47
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKEWEED_SPINSTREAK
+  rotate: false
+  xy: 243, 1
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKE_RINGBLUR
+  rotate: false
+  xy: 1, 1
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKE_SMEAR
+  rotate: false
+  xy: 213, 79
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_BUZZSAW_SPIKE_SMEAR2
+  rotate: false
+  xy: 213, 108
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_SPIKES_SPIKEWEED_PLANTFOOD_SPIKES_16X16
+  rotate: false
+  xy: 195, 109
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_SPIKES_SPIKEWEED_PLANTFOOD_SPIKES_18X17
+  rotate: false
+  xy: 243, 26
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_SPIKES_SPIKEWEED_PLANTFOOD_SPIKES_24X21
+  rotate: false
+  xy: 240, 193
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_SPIKES_SPIKEWEED_PLANTFOOD_SPIKES_26X71
+  rotate: false
+  xy: 71, 155
+  size: 17, 46
+  orig: 17, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_SPIKES_SPIKEWEED_PLANTFOOD_SPIKES_37X36
+  rotate: false
+  xy: 199, 166
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEWEED_PLANTFOOD_SPIKES_SPIKEWEED_PLANTFOOD_SPIKES_37X68
+  rotate: false
+  xy: 217, 1
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_104X57
+  rotate: false
+  xy: 101, 141
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_106X38
+  rotate: false
+  xy: 1, 155
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_10X17
+  rotate: false
+  xy: 247, 79
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_120X36
+  rotate: false
+  xy: 170, 141
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_143X46
+  rotate: false
+  xy: 101, 109
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_24X30
+  rotate: false
+  xy: 203, 191
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_29X38
+  rotate: false
+  xy: 225, 166
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_40X24
+  rotate: false
+  xy: 1, 182
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_41X18
+  rotate: false
+  xy: 147, 192
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_41X19
+  rotate: false
+  xy: 175, 192
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_41X27
+  rotate: false
+  xy: 90, 180
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_42X21
+  rotate: false
+  xy: 29, 182
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_42X26
+  rotate: false
+  xy: 118, 180
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEWEED_SPIKEWEED_42X37
+  rotate: false
+  xy: 170, 166
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1

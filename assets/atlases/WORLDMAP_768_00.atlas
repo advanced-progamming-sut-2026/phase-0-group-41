@@ -1,0 +1,474 @@
+WORLDMAP_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_COMMON_MISSSING_ARTPIECE
+  rotate: false
+  xy: 329, 497
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_STAR
+  rotate: false
+  xy: 663, 588
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_STAR_EMPTY
+  rotate: false
+  xy: 106, 409
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_EDITOR_NARRATION
+  rotate: false
+  xy: 995, 351
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_INFO_ICON
+  rotate: false
+  xy: 929, 587
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_POP_SPROUT_POP_20X22
+  rotate: false
+  xy: 1005, 144
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_POP_SPROUT_POP_22X22
+  rotate: false
+  xy: 1005, 112
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_POP_SPROUT_POP_22X22_2
+  rotate: false
+  xy: 1005, 128
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_POP_SPROUT_POP_293X263
+  rotate: false
+  xy: 703, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_POP_SPROUT_POP_34X28
+  rotate: false
+  xy: 675, 262
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_SPROUT_179X50
+  rotate: false
+  xy: 276, 587
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_SPROUT_17X15
+  rotate: false
+  xy: 1005, 160
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_SPROUT_23X47
+  rotate: false
+  xy: 1005, 1
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_SPROUT_SPROUT_39X25
+  rotate: false
+  xy: 675, 244
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON
+  rotate: false
+  xy: 675, 336
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_128X133
+  rotate: false
+  xy: 106, 521
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_137X137
+  rotate: false
+  xy: 631, 498
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_137X137_2
+  rotate: false
+  xy: 721, 498
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_140X142
+  rotate: false
+  xy: 539, 479
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_140X142_2
+  rotate: false
+  xy: 837, 494
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_140X142_3
+  rotate: false
+  xy: 929, 494
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_143X142
+  rotate: false
+  xy: 164, 245
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_143X142_2
+  rotate: false
+  xy: 329, 404
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_161X182
+  rotate: false
+  xy: 1, 409
+  size: 103, 117
+  orig: 103, 117
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_175X169
+  rotate: false
+  xy: 869, 194
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_244X244
+  rotate: false
+  xy: 837, 336
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_251X253
+  rotate: false
+  xy: 1, 245
+  size: 161, 162
+  orig: 161, 162
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_253X252
+  rotate: false
+  xy: 265, 240
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_256X253
+  rotate: false
+  xy: 703, 172
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_30X57
+  rotate: false
+  xy: 675, 205
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_44X42
+  rotate: false
+  xy: 995, 322
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_50X102
+  rotate: false
+  xy: 983, 254
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_53X63
+  rotate: false
+  xy: 990, 587
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_59X91
+  rotate: false
+  xy: 983, 194
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_7X7
+  rotate: false
+  xy: 1017, 33
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_81X75
+  rotate: false
+  xy: 1, 593
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_90X107
+  rotate: false
+  xy: 429, 240
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_91X100
+  rotate: false
+  xy: 482, 572
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_YETI_ICON_YETI_ICON_94X90
+  rotate: false
+  xy: 601, 588
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_104X75
+  rotate: false
+  xy: 429, 311
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_130X98
+  rotate: false
+  xy: 164, 338
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_130X98_2
+  rotate: false
+  xy: 1, 528
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_131X120
+  rotate: false
+  xy: 190, 521
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_162X181
+  rotate: false
+  xy: 539, 361
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_168X293
+  rotate: false
+  xy: 429, 361
+  size: 108, 188
+  orig: 108, 188
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_168X34
+  rotate: false
+  xy: 869, 304
+  size: 108, 22
+  orig: 108, 22
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_16X16
+  rotate: false
+  xy: 1005, 172
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_171X298
+  rotate: false
+  xy: 893, 1
+  size: 110, 191
+  orig: 110, 191
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_255X179
+  rotate: false
+  xy: 164, 404
+  size: 163, 115
+  orig: 163, 115
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_269X240
+  rotate: false
+  xy: 501, 205
+  size: 172, 154
+  orig: 172, 154
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_312X316
+  rotate: false
+  xy: 501, 1
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_32X9
+  rotate: false
+  xy: 869, 172
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_34X11
+  rotate: false
+  xy: 675, 298
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_34X22
+  rotate: false
+  xy: 675, 282
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_34X8
+  rotate: false
+  xy: 675, 307
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_366X370
+  rotate: false
+  xy: 265, 1
+  size: 234, 237
+  orig: 234, 237
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_409X378
+  rotate: false
+  xy: 1, 1
+  size: 262, 242
+  orig: 262, 242
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_6X120
+  rotate: false
+  xy: 1005, 33
+  size: 4, 77
+  orig: 4, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_6X120_2
+  rotate: false
+  xy: 1011, 33
+  size: 4, 77
+  orig: 4, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_6X6
+  rotate: false
+  xy: 1017, 40
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_73X85
+  rotate: false
+  xy: 106, 461
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_73X85_2
+  rotate: false
+  xy: 276, 521
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_73X85_3
+  rotate: false
+  xy: 724, 588
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_89X96
+  rotate: false
+  xy: 542, 572
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_89X96_2
+  rotate: false
+  xy: 811, 587
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_89X96_3
+  rotate: false
+  xy: 870, 587
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_HOLOGRAM_ZOMBOSS_NODE_HOLOGRAM_95X95
+  rotate: false
+  xy: 419, 551
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1

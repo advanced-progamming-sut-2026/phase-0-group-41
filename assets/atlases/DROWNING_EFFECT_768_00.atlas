@@ -1,0 +1,222 @@
+DROWNING_EFFECT_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_105X12
+  rotate: false
+  xy: 104, 461
+  size: 67, 8
+  orig: 67, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_109X89
+  rotate: false
+  xy: 353, 389
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_136X114
+  rotate: false
+  xy: 396, 268
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_144X66
+  rotate: false
+  xy: 214, 423
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_152X68
+  rotate: false
+  xy: 396, 343
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_16X20
+  rotate: false
+  xy: 491, 21
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_214X95
+  rotate: false
+  xy: 214, 360
+  size: 137, 61
+  orig: 137, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_228X414
+  rotate: false
+  xy: 343, 1
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_264X376
+  rotate: false
+  xy: 172, 1
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_264X412
+  rotate: false
+  xy: 1, 1
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_281X140
+  rotate: false
+  xy: 214, 268
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_31X28
+  rotate: false
+  xy: 491, 1
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_329X278
+  rotate: false
+  xy: 1, 267
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_36X10
+  rotate: false
+  xy: 313, 244
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_41X41
+  rotate: false
+  xy: 485, 268
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_43X39
+  rotate: false
+  xy: 353, 360
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_49X18
+  rotate: false
+  xy: 172, 244
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_71X19
+  rotate: false
+  xy: 56, 461
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_73X25
+  rotate: false
+  xy: 264, 244
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_74X34
+  rotate: false
+  xy: 214, 244
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_82X18
+  rotate: false
+  xy: 115, 447
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_82X18_2
+  rotate: false
+  xy: 308, 448
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_82X19
+  rotate: false
+  xy: 363, 448
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_82X20
+  rotate: false
+  xy: 425, 416
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_83X19
+  rotate: false
+  xy: 418, 459
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_83X19_2
+  rotate: false
+  xy: 1, 461
+  size: 53, 12
+  orig: 53, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_85X19
+  rotate: false
+  xy: 425, 431
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_86X18
+  rotate: false
+  xy: 425, 445
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_86X19
+  rotate: false
+  xy: 1, 447
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_86X19_2
+  rotate: false
+  xy: 58, 447
+  size: 55, 12
+  orig: 55, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PLANT_DROWNING_PLANT_DROWNING_88X38
+  rotate: false
+  xy: 425, 389
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1

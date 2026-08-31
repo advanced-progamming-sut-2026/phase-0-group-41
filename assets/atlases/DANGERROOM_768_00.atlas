@@ -1,0 +1,47 @@
+DANGERROOM_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_DANGERROOM_ACTIVE_STATE
+  rotate: false
+  xy: 453, 88
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+IMAGE_DANGERROOM_CARD_BACK
+  rotate: false
+  xy: 1, 1
+  size: 174, 275
+  orig: 174, 275
+  offset: 0, 0
+  index: -1
+IMAGE_DANGERROOM_CARD_FACE
+  rotate: false
+  xy: 177, 1
+  size: 174, 275
+  orig: 174, 275
+  offset: 0, 0
+  index: -1
+IMAGE_DANGERROOM_CARD_MOWER
+  rotate: false
+  xy: 353, 1
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+IMAGE_DANGERROOM_CARD_PLANTFOOD
+  rotate: false
+  xy: 353, 88
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+IMAGE_DANGERROOM_CARD_SUN
+  rotate: false
+  xy: 353, 181
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1

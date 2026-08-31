@@ -1,0 +1,138 @@
+UI_RIFT_ZPS_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZOMBOSS_METER_ICON
+  rotate: false
+  xy: 293, 862
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_105X89
+  rotate: false
+  xy: 934, 93
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_129X141
+  rotate: false
+  xy: 934, 1
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_204X215
+  rotate: false
+  xy: 860, 357
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_213X158
+  rotate: false
+  xy: 860, 497
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_237X134
+  rotate: false
+  xy: 860, 600
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_452X158
+  rotate: false
+  xy: 1, 862
+  size: 290, 101
+  orig: 290, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_452X158_2
+  rotate: false
+  xy: 333, 1368
+  size: 290, 101
+  orig: 290, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_477X433
+  rotate: false
+  xy: 396, 731
+  size: 306, 277
+  orig: 306, 277
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_477X433_2
+  rotate: false
+  xy: 704, 731
+  size: 306, 277
+  orig: 306, 277
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_515X288
+  rotate: false
+  xy: 1, 1213
+  size: 330, 185
+  orig: 330, 185
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_580X276
+  rotate: false
+  xy: 419, 1010
+  size: 371, 177
+  orig: 371, 177
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_580X276_2
+  rotate: false
+  xy: 419, 1189
+  size: 371, 177
+  orig: 371, 177
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_581X581
+  rotate: false
+  xy: 486, 357
+  size: 372, 372
+  orig: 372, 372
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_613X338
+  rotate: false
+  xy: 1, 643
+  size: 393, 217
+  orig: 393, 217
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_649X313
+  rotate: false
+  xy: 1, 1010
+  size: 416, 201
+  orig: 416, 201
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_697X553
+  rotate: false
+  xy: 486, 1
+  size: 446, 354
+  orig: 446, 354
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_699X394
+  rotate: false
+  xy: 1, 389
+  size: 448, 252
+  orig: 448, 252
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZPS_ZPS_METER_ZPS_METER_755X602
+  rotate: false
+  xy: 1, 1
+  size: 483, 386
+  orig: 483, 386
+  offset: 0, 0
+  index: -1

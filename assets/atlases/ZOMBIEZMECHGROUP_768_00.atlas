@@ -1,0 +1,992 @@
+ZOMBIEZMECHGROUP_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_102X172
+  rotate: false
+  xy: 474, 500
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_104X259
+  rotate: false
+  xy: 405, 500
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_109X109
+  rotate: false
+  xy: 941, 623
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_10X24
+  rotate: false
+  xy: 533, 264
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_10X49
+  rotate: false
+  xy: 533, 230
+  size: 7, 32
+  orig: 7, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_111X61
+  rotate: false
+  xy: 347, 668
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_120X227
+  rotate: false
+  xy: 945, 377
+  size: 77, 146
+  orig: 77, 146
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_122X125
+  rotate: false
+  xy: 196, 252
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_123X123
+  rotate: false
+  xy: 778, 615
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_124X112
+  rotate: false
+  xy: 859, 623
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_125X49
+  rotate: false
+  xy: 1, 695
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_125X695
+  rotate: false
+  xy: 544, 198
+  size: 80, 445
+  orig: 80, 445
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_125X85
+  rotate: false
+  xy: 537, 645
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_134X174
+  rotate: false
+  xy: 626, 512
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_135X8
+  rotate: false
+  xy: 626, 198
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_13X22
+  rotate: false
+  xy: 83, 695
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_13X23
+  rotate: false
+  xy: 1013, 678
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_144X150
+  rotate: false
+  xy: 875, 525
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_146X133
+  rotate: false
+  xy: 1, 608
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_148X153
+  rotate: false
+  xy: 778, 515
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_14X11
+  rotate: false
+  xy: 988, 197
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_155X155
+  rotate: false
+  xy: 270, 507
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_159X159
+  rotate: false
+  xy: 429, 230
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_15X24
+  rotate: false
+  xy: 208, 685
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_15X26
+  rotate: false
+  xy: 1013, 623
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_15X26_2
+  rotate: false
+  xy: 1013, 642
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_15X40
+  rotate: false
+  xy: 1008, 225
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_163X131
+  rotate: false
+  xy: 121, 580
+  size: 105, 84
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_16X16
+  rotate: false
+  xy: 524, 705
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_16X25
+  rotate: false
+  xy: 460, 685
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_16X29
+  rotate: false
+  xy: 1008, 349
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_17X23
+  rotate: false
+  xy: 1013, 661
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_17X23_2
+  rotate: false
+  xy: 460, 668
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_17X27
+  rotate: false
+  xy: 1008, 329
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_184X176
+  rotate: false
+  xy: 1, 493
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_18X13
+  rotate: false
+  xy: 925, 697
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_18X13_2
+  rotate: false
+  xy: 607, 702
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_18X14
+  rotate: false
+  xy: 208, 703
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_18X40
+  rotate: false
+  xy: 1008, 197
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_190X221
+  rotate: false
+  xy: 281, 363
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_193X192
+  rotate: false
+  xy: 626, 387
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_195X212
+  rotate: false
+  xy: 818, 377
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_197X210
+  rotate: false
+  xy: 405, 363
+  size: 126, 135
+  orig: 126, 135
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_1X1
+  rotate: false
+  xy: 1022, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_1X1_2
+  rotate: false
+  xy: 1022, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_20X20
+  rotate: false
+  xy: 97, 651
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_216X216
+  rotate: false
+  xy: 1, 353
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_216X216_2
+  rotate: false
+  xy: 141, 363
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_21X25
+  rotate: false
+  xy: 1008, 311
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_229X117
+  rotate: false
+  xy: 121, 503
+  size: 147, 75
+  orig: 147, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_22X15
+  rotate: false
+  xy: 527, 350
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_22X21
+  rotate: false
+  xy: 527, 334
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_22X27
+  rotate: false
+  xy: 1008, 271
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_22X28
+  rotate: false
+  xy: 1008, 291
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_234X205
+  rotate: false
+  xy: 277, 230
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_24X14
+  rotate: false
+  xy: 589, 702
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_24X25
+  rotate: false
+  xy: 1008, 253
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_26X26
+  rotate: false
+  xy: 208, 666
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_293X263
+  rotate: false
+  xy: 818, 206
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_296X279
+  rotate: false
+  xy: 626, 206
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_301X155
+  rotate: false
+  xy: 1, 252
+  size: 193, 99
+  orig: 193, 99
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_30X30
+  rotate: false
+  xy: 727, 684
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_32X64
+  rotate: false
+  xy: 97, 608
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_336X317
+  rotate: false
+  xy: 771, 1
+  size: 215, 203
+  orig: 215, 203
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_351X305
+  rotate: false
+  xy: 544, 1
+  size: 225, 195
+  orig: 225, 195
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_35X107
+  rotate: false
+  xy: 371, 507
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_35X40
+  rotate: false
+  xy: 248, 334
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_36X38
+  rotate: false
+  xy: 127, 758
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_37X18
+  rotate: false
+  xy: 51, 772
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_37X50
+  rotate: false
+  xy: 127, 724
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_37X695
+  rotate: false
+  xy: 752, 387
+  size: 24, 445
+  orig: 24, 445
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_40X30
+  rotate: false
+  xy: 152, 773
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_413X354
+  rotate: false
+  xy: 277, 1
+  size: 265, 227
+  orig: 265, 227
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_428X389
+  rotate: false
+  xy: 1, 1
+  size: 274, 249
+  orig: 274, 249
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_43X107
+  rotate: false
+  xy: 988, 72
+  size: 28, 69
+  orig: 28, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_44X43
+  rotate: false
+  xy: 371, 578
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_45X38
+  rotate: false
+  xy: 228, 580
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X16
+  rotate: false
+  xy: 778, 503
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X34
+  rotate: false
+  xy: 203, 765
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X47
+  rotate: false
+  xy: 547, 745
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X62
+  rotate: false
+  xy: 906, 741
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64
+  rotate: false
+  xy: 714, 557
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64_2
+  rotate: false
+  xy: 990, 695
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64_3
+  rotate: false
+  xy: 45, 729
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64_4
+  rotate: false
+  xy: 990, 738
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64_5
+  rotate: false
+  xy: 480, 740
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64_6
+  rotate: false
+  xy: 683, 741
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64_7
+  rotate: false
+  xy: 716, 741
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_48X64_8
+  rotate: false
+  xy: 873, 741
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_49X108
+  rotate: false
+  xy: 988, 1
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_50X50
+  rotate: false
+  xy: 513, 745
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_50X67
+  rotate: false
+  xy: 714, 512
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_53X28
+  rotate: false
+  xy: 236, 765
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_53X33
+  rotate: false
+  xy: 714, 600
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_55X81
+  rotate: false
+  xy: 988, 143
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_56X48
+  rotate: false
+  xy: 778, 742
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_57X65
+  rotate: false
+  xy: 395, 737
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_58X20
+  rotate: false
+  xy: 816, 773
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_58X43
+  rotate: false
+  xy: 939, 744
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_58X85
+  rotate: false
+  xy: 778, 446
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_58X88
+  rotate: false
+  xy: 778, 387
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_59X105
+  rotate: false
+  xy: 420, 668
+  size: 38, 67
+  orig: 38, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_61X28
+  rotate: false
+  xy: 626, 759
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_64X86
+  rotate: false
+  xy: 684, 684
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_66X33
+  rotate: false
+  xy: 816, 750
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_66X65
+  rotate: false
+  xy: 83, 724
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_66X65_2
+  rotate: false
+  xy: 1, 729
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_66X79
+  rotate: false
+  xy: 829, 697
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_67X67
+  rotate: false
+  xy: 638, 714
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_68X55
+  rotate: false
+  xy: 434, 740
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_69X26
+  rotate: false
+  xy: 580, 758
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_6X6
+  rotate: false
+  xy: 1018, 79
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_70X18
+  rotate: false
+  xy: 272, 767
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_70X19
+  rotate: false
+  xy: 78, 768
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_71X31
+  rotate: false
+  xy: 479, 334
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_71X67
+  rotate: false
+  xy: 347, 709
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_72X30
+  rotate: false
+  xy: 337, 754
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_73X54
+  rotate: false
+  xy: 288, 730
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_73X66
+  rotate: false
+  xy: 589, 714
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_73X73
+  rotate: false
+  xy: 941, 695
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_74X25
+  rotate: false
+  xy: 153, 755
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_74X31
+  rotate: false
+  xy: 429, 334
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_75X17
+  rotate: false
+  xy: 1, 773
+  size: 48, 11
+  orig: 48, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_75X56
+  rotate: false
+  xy: 969, 585
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_76X68
+  rotate: false
+  xy: 778, 696
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_77X31
+  rotate: false
+  xy: 196, 334
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_77X63
+  rotate: false
+  xy: 537, 702
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_78X66
+  rotate: false
+  xy: 873, 697
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_78X88
+  rotate: false
+  xy: 347, 608
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_79X49
+  rotate: false
+  xy: 218, 731
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_7X7
+  rotate: false
+  xy: 1018, 72
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_80X82
+  rotate: false
+  xy: 155, 666
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_81X90
+  rotate: false
+  xy: 969, 525
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_87X134
+  rotate: false
+  xy: 626, 626
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_87X87
+  rotate: false
+  xy: 684, 626
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_87X87_2
+  rotate: false
+  xy: 97, 666
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_89X187
+  rotate: false
+  xy: 288, 608
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_90X188
+  rotate: false
+  xy: 228, 608
+  size: 58, 121
+  orig: 58, 121
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_95X142
+  rotate: false
+  xy: 474, 612
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_95X50
+  rotate: false
+  xy: 155, 721
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_ZMECH_ZOMBIE_MECH_ZMECH_96X51
+  rotate: false
+  xy: 460, 705
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1

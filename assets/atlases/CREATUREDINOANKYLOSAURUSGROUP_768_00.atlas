@@ -1,0 +1,250 @@
+CREATUREDINOANKYLOSAURUSGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_10X12
+  rotate: false
+  xy: 248, 72
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_114X80
+  rotate: false
+  xy: 145, 96
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_11X13
+  rotate: false
+  xy: 248, 61
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_12X23
+  rotate: false
+  xy: 247, 86
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_13X13
+  rotate: false
+  xy: 245, 138
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_14X14
+  rotate: false
+  xy: 32, 246
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_14X14_2
+  rotate: false
+  xy: 194, 252
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_14X16
+  rotate: false
+  xy: 21, 246
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_16X24
+  rotate: false
+  xy: 245, 120
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_211X80
+  rotate: false
+  xy: 1, 157
+  size: 135, 51
+  orig: 135, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_218X152
+  rotate: false
+  xy: 1, 1
+  size: 140, 98
+  orig: 140, 98
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_222X84
+  rotate: false
+  xy: 1, 101
+  size: 142, 54
+  orig: 142, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_22X37
+  rotate: false
+  xy: 116, 235
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_23X37
+  rotate: false
+  xy: 239, 231
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_26X35
+  rotate: false
+  xy: 116, 210
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_27X23
+  rotate: false
+  xy: 1, 246
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_29X31
+  rotate: false
+  xy: 218, 231
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_29X39
+  rotate: false
+  xy: 95, 210
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_30X23
+  rotate: false
+  xy: 45, 240
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_31X29
+  rotate: false
+  xy: 70, 235
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_31X30
+  rotate: false
+  xy: 92, 237
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_34X30
+  rotate: false
+  xy: 194, 231
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_35X35
+  rotate: false
+  xy: 70, 210
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_36X41
+  rotate: false
+  xy: 220, 120
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_36X44
+  rotate: false
+  xy: 45, 210
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_39X49
+  rotate: false
+  xy: 220, 86
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_66X53
+  rotate: false
+  xy: 1, 210
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_67X57
+  rotate: false
+  xy: 203, 47
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_68X75
+  rotate: false
+  xy: 204, 149
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_77X47
+  rotate: false
+  xy: 204, 199
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_77X69
+  rotate: false
+  xy: 203, 1
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_84X84
+  rotate: false
+  xy: 138, 208
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_88X88
+  rotate: false
+  xy: 145, 149
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_91X145
+  rotate: false
+  xy: 143, 1
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_DINO_ANKYLOSAURUS_ZOMBIE_DINO_ANKYLOSAURUS_9X19
+  rotate: false
+  xy: 248, 47
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1

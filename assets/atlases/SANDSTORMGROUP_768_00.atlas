@@ -1,0 +1,68 @@
+SANDSTORMGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SANDSTORM_REAR_SANDSTORM_BACK1
+  rotate: false
+  xy: 1, 1
+  size: 160, 188
+  orig: 160, 188
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_REAR_SANDSTORM_BACK2
+  rotate: false
+  xy: 163, 1
+  size: 159, 188
+  orig: 159, 188
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_REAR_SANDSTORM_SPEEDLINE_FILTERED
+  rotate: false
+  xy: 77, 191
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_REAR_SANDSTORM_STREAKS
+  rotate: false
+  xy: 227, 191
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_TOP_SANDSTORM_CLOUD
+  rotate: false
+  xy: 1, 191
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_TOP_SANDSTORM_FRONT1
+  rotate: false
+  xy: 324, 1
+  size: 167, 172
+  orig: 167, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_TOP_SANDSTORM_FRONT2
+  rotate: false
+  xy: 324, 175
+  size: 167, 172
+  orig: 167, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_TOP_SANDSTORM_SPEEDLINE_FILTERED
+  rotate: false
+  xy: 152, 191
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SANDSTORM_TOP_SANDSTORM_STREAKS
+  rotate: false
+  xy: 254, 191
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1

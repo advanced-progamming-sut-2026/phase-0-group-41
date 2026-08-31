@@ -1,0 +1,628 @@
+PLANTWITCHHAZEL_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_101X53
+  rotate: false
+  xy: 97, 1
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_18X22
+  rotate: false
+  xy: 230, 123
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_21X17
+  rotate: false
+  xy: 188, 77
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_22X17
+  rotate: false
+  xy: 39, 128
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_24X54
+  rotate: false
+  xy: 262, 260
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_24X71
+  rotate: false
+  xy: 97, 246
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_25X28
+  rotate: false
+  xy: 247, 90
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_26X53
+  rotate: false
+  xy: 118, 83
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_29X69
+  rotate: false
+  xy: 395, 260
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_29X91
+  rotate: false
+  xy: 281, 238
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_33X69
+  rotate: false
+  xy: 372, 260
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_34X24
+  rotate: false
+  xy: 393, 114
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_34X72
+  rotate: false
+  xy: 211, 260
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_35X74
+  rotate: false
+  xy: 1, 244
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_35X90
+  rotate: false
+  xy: 487, 173
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_36X26
+  rotate: false
+  xy: 302, 261
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_37X21
+  rotate: false
+  xy: 177, 279
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_37X23
+  rotate: false
+  xy: 481, 270
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_39X25
+  rotate: false
+  xy: 1, 176
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_39X61
+  rotate: false
+  xy: 235, 260
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_39X63
+  rotate: false
+  xy: 345, 256
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_40X63
+  rotate: false
+  xy: 425, 250
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_40X66
+  rotate: false
+  xy: 69, 246
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_41X22
+  rotate: false
+  xy: 453, 270
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_42X27
+  rotate: false
+  xy: 267, 49
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_42X66
+  rotate: false
+  xy: 117, 241
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_44X63
+  rotate: false
+  xy: 39, 239
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_44X67
+  rotate: false
+  xy: 395, 215
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_45X61
+  rotate: false
+  xy: 146, 242
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_48X51
+  rotate: false
+  xy: 58, 47
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_50X55
+  rotate: false
+  xy: 177, 242
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_51X61
+  rotate: false
+  xy: 360, 215
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_51X62
+  rotate: false
+  xy: 82, 204
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_53X55
+  rotate: false
+  xy: 466, 233
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_55X58
+  rotate: false
+  xy: 429, 211
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_56X62
+  rotate: false
+  xy: 1, 202
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_56X72
+  rotate: false
+  xy: 1, 128
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_57X51
+  rotate: false
+  xy: 306, 226
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_58X64
+  rotate: false
+  xy: 223, 196
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_58X66
+  rotate: false
+  xy: 184, 164
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_58X71
+  rotate: false
+  xy: 56, 116
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_59X60
+  rotate: false
+  xy: 135, 200
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_59X67
+  rotate: false
+  xy: 95, 159
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_59X69
+  rotate: false
+  xy: 459, 127
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_59X70
+  rotate: false
+  xy: 353, 114
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_59X83
+  rotate: false
+  xy: 215, 1
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_60X66
+  rotate: false
+  xy: 273, 158
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_60X69
+  rotate: false
+  xy: 418, 96
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_61X75
+  rotate: false
+  xy: 419, 46
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_62X66
+  rotate: false
+  xy: 143, 120
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_63X62
+  rotate: false
+  xy: 230, 154
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_63X65
+  rotate: false
+  xy: 310, 114
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_63X86
+  rotate: false
+  xy: 1, 1
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_64X50
+  rotate: false
+  xy: 175, 208
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_64X54
+  rotate: false
+  xy: 39, 202
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_64X69
+  rotate: false
+  xy: 267, 74
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_66X53
+  rotate: false
+  xy: 262, 202
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_66X67
+  rotate: false
+  xy: 460, 46
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_67X60
+  rotate: false
+  xy: 185, 123
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_67X68
+  rotate: false
+  xy: 97, 37
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_67X71
+  rotate: false
+  xy: 255, 1
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_68X55
+  rotate: false
+  xy: 314, 189
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_68X56
+  rotate: false
+  xy: 441, 173
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_68X64
+  rotate: false
+  xy: 142, 77
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_70X56
+  rotate: false
+  xy: 39, 164
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_70X67
+  rotate: false
+  xy: 416, 1
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_70X67_2
+  rotate: false
+  xy: 463, 1
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_71X57
+  rotate: false
+  xy: 95, 120
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_72X56
+  rotate: false
+  xy: 393, 142
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_73X52
+  rotate: false
+  xy: 135, 164
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_74X51
+  rotate: false
+  xy: 379, 180
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_76X65
+  rotate: false
+  xy: 164, 1
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_79X59
+  rotate: false
+  xy: 363, 1
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_79X68
+  rotate: false
+  xy: 44, 1
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_80X53
+  rotate: false
+  xy: 365, 78
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_80X53_2
+  rotate: false
+  xy: 460, 91
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_81X57
+  rotate: false
+  xy: 300, 35
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_82X51
+  rotate: false
+  xy: 1, 93
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_82X53
+  rotate: false
+  xy: 310, 78
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_83X50
+  rotate: false
+  xy: 247, 120
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_85X51
+  rotate: false
+  xy: 1, 58
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_89X48
+  rotate: false
+  xy: 188, 90
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_90X48
+  rotate: false
+  xy: 58, 83
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_91X50
+  rotate: false
+  xy: 207, 56
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_95X29
+  rotate: false
+  xy: 218, 239
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_95X50
+  rotate: false
+  xy: 300, 1
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_98X41
+  rotate: false
+  xy: 314, 161
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_98X46
+  rotate: false
+  xy: 142, 45
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_WITCH_HAZEL_WITCH_HAZEL_98X47
+  rotate: false
+  xy: 354, 46
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1

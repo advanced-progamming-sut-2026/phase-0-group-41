@@ -1,0 +1,166 @@
+ZOMBIEPIRATECANNONGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_113X82
+  rotate: false
+  xy: 91, 212
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_136X100
+  rotate: false
+  xy: 325, 226
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_137X115
+  rotate: false
+  xy: 1, 212
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_14X11
+  rotate: false
+  xy: 491, 72
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_17X23
+  rotate: false
+  xy: 491, 55
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_190X166
+  rotate: false
+  xy: 367, 1
+  size: 122, 106
+  orig: 122, 106
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_20X20
+  rotate: false
+  xy: 491, 40
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_21X25
+  rotate: false
+  xy: 491, 22
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_237X134
+  rotate: false
+  xy: 171, 155
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_250X108
+  rotate: false
+  xy: 325, 155
+  size: 160, 69
+  orig: 160, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_262X326
+  rotate: false
+  xy: 1, 1
+  size: 168, 209
+  orig: 168, 209
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_302X237
+  rotate: false
+  xy: 171, 1
+  size: 194, 152
+  orig: 194, 152
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_30X30
+  rotate: false
+  xy: 491, 1
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_38X40
+  rotate: false
+  xy: 272, 243
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_45X45
+  rotate: false
+  xy: 210, 243
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_45X45_2
+  rotate: false
+  xy: 241, 243
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_57X58
+  rotate: false
+  xy: 468, 109
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_63X48
+  rotate: false
+  xy: 461, 226
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_66X33
+  rotate: false
+  xy: 166, 243
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_70X71
+  rotate: false
+  xy: 414, 226
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_73X54
+  rotate: false
+  xy: 367, 109
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_77X46
+  rotate: false
+  xy: 416, 109
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_CANNON_ZOMBIE_PIRATE_CANNON_7X7
+  rotate: false
+  xy: 506, 40
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

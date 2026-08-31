@@ -1,0 +1,33 @@
+PLANTLIGHTNINGREEDHIT_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_LIGHTNINGREED_HIT_LIGHTNINGREED_HIT_1X1
+  rotate: false
+  xy: 118, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LIGHTNINGREED_HIT_LIGHTNINGREED_HIT_61X61
+  rotate: false
+  xy: 55, 66
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LIGHTNINGREED_HIT_LIGHTNINGREED_HIT_81X132
+  rotate: false
+  xy: 1, 1
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LIGHTNINGREED_HIT_LIGHTNINGREED_HIT_95X98
+  rotate: false
+  xy: 55, 1
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1

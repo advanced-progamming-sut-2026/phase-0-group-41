@@ -1,0 +1,516 @@
+EGGBREAKERGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_102X108
+  rotate: false
+  xy: 68, 433
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_102X135
+  rotate: false
+  xy: 391, 348
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_104X137
+  rotate: false
+  xy: 191, 301
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_114X74
+  rotate: false
+  xy: 1, 521
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_136X83
+  rotate: false
+  xy: 328, 437
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_151X198
+  rotate: false
+  xy: 381, 1
+  size: 97, 127
+  orig: 97, 127
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_155X188
+  rotate: false
+  xy: 290, 259
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_18X20
+  rotate: false
+  xy: 244, 438
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_1X1
+  rotate: false
+  xy: 508, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_21X49
+  rotate: false
+  xy: 489, 563
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_22X27
+  rotate: false
+  xy: 260, 357
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_33X41
+  rotate: false
+  xy: 260, 301
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_36X48
+  rotate: false
+  xy: 480, 124
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_41X61
+  rotate: false
+  xy: 480, 1
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_47X32
+  rotate: false
+  xy: 480, 223
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_55X44
+  rotate: false
+  xy: 207, 438
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_61X56
+  rotate: false
+  xy: 428, 597
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_68X51
+  rotate: false
+  xy: 466, 305
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_76X70
+  rotate: false
+  xy: 139, 343
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_78X19
+  rotate: false
+  xy: 459, 420
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_79X103
+  rotate: false
+  xy: 269, 560
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_83X109
+  rotate: false
+  xy: 459, 348
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_87X120
+  rotate: false
+  xy: 136, 480
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_BROWN_VASE_EGG_BROWN_92X48
+  rotate: false
+  xy: 428, 564
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_101X134
+  rotate: false
+  xy: 1, 433
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_102X135
+  rotate: false
+  xy: 260, 382
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_104X137
+  rotate: false
+  xy: 1, 343
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_114X74
+  rotate: false
+  xy: 194, 526
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_122X115
+  rotate: false
+  xy: 290, 172
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_136X83
+  rotate: false
+  xy: 417, 437
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_151X198
+  rotate: false
+  xy: 381, 130
+  size: 97, 127
+  orig: 97, 127
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_18X20
+  rotate: false
+  xy: 244, 453
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_1X1
+  rotate: false
+  xy: 508, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_21X49
+  rotate: false
+  xy: 117, 609
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_22X27
+  rotate: false
+  xy: 296, 471
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_293X263
+  rotate: false
+  xy: 191, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_33X41
+  rotate: false
+  xy: 260, 329
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_36X48
+  rotate: false
+  xy: 480, 157
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_41X61
+  rotate: false
+  xy: 480, 42
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_47X32
+  rotate: false
+  xy: 1, 604
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_55X44
+  rotate: false
+  xy: 470, 533
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_68X51
+  rotate: false
+  xy: 76, 504
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_78X19
+  rotate: false
+  xy: 76, 539
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_78X70
+  rotate: false
+  xy: 207, 391
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_79X103
+  rotate: false
+  xy: 322, 564
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_82X77
+  rotate: false
+  xy: 328, 382
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_83X109
+  rotate: false
+  xy: 360, 492
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GARGANTUAR_VASE_EGG_GARGANTUAR_92X48
+  rotate: false
+  xy: 1, 571
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_102X135
+  rotate: false
+  xy: 139, 391
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_104X137
+  rotate: false
+  xy: 70, 343
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_114X136
+  rotate: false
+  xy: 391, 259
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_114X74
+  rotate: false
+  xy: 76, 559
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_136X83
+  rotate: false
+  xy: 207, 471
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_151X198
+  rotate: false
+  xy: 191, 172
+  size: 97, 127
+  orig: 97, 127
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_18X20
+  rotate: false
+  xy: 312, 471
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_1X1
+  rotate: false
+  xy: 508, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_21X49
+  rotate: false
+  xy: 133, 609
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_22X27
+  rotate: false
+  xy: 149, 609
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_293X263
+  rotate: false
+  xy: 1, 172
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_33X41
+  rotate: false
+  xy: 269, 526
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_36X48
+  rotate: false
+  xy: 480, 190
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_41X61
+  rotate: false
+  xy: 480, 83
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_47X32
+  rotate: false
+  xy: 33, 604
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_55X44
+  rotate: false
+  xy: 469, 597
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_57X61
+  rotate: false
+  xy: 470, 492
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_65X69
+  rotate: false
+  xy: 466, 259
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_68X51
+  rotate: false
+  xy: 212, 576
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_78X19
+  rotate: false
+  xy: 65, 609
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_79X103
+  rotate: false
+  xy: 375, 564
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_83X109
+  rotate: false
+  xy: 415, 492
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_92X48
+  rotate: false
+  xy: 151, 576
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EGGBREAKER_VASE_EGG_GREEN_VASE_EGG_GREEN_97X103
+  rotate: false
+  xy: 296, 492
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1

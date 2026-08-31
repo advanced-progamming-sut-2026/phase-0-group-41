@@ -1,0 +1,1321 @@
+PLANTSEAFLORA_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_103X93
+  rotate: false
+  xy: 300, 390
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_111X198
+  rotate: false
+  xy: 453, 181
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_120X110
+  rotate: false
+  xy: 594, 318
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_123X117
+  rotate: false
+  xy: 940, 267
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_124X124
+  rotate: false
+  xy: 85, 244
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_128X180
+  rotate: false
+  xy: 1, 244
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_144X66
+  rotate: false
+  xy: 146, 453
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_152X68
+  rotate: false
+  xy: 459, 429
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_19X18
+  rotate: false
+  xy: 413, 543
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_1X1
+  rotate: false
+  xy: 1023, 119
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_205X131
+  rotate: false
+  xy: 320, 181
+  size: 131, 84
+  orig: 131, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_228X414
+  rotate: false
+  xy: 172, 1
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_25X23
+  rotate: false
+  xy: 938, 482
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_264X376
+  rotate: false
+  xy: 1, 1
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_281X140
+  rotate: false
+  xy: 533, 168
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_329X278
+  rotate: false
+  xy: 320, 1
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_40X20
+  rotate: false
+  xy: 1, 629
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_42X21
+  rotate: false
+  xy: 211, 624
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_49X75
+  rotate: false
+  xy: 413, 564
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_86X73
+  rotate: false
+  xy: 219, 517
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_EXPLOSION_SEAFLORA_EXPLOSION_99X92
+  rotate: false
+  xy: 1, 440
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_PROJECTILE_SEAFLORA_PROJECTILE_140X11
+  rotate: false
+  xy: 737, 472
+  size: 90, 7
+  orig: 90, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_PROJECTILE_SEAFLORA_PROJECTILE_14X14
+  rotate: false
+  xy: 752, 381
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_PROJECTILE_SEAFLORA_PROJECTILE_258X258
+  rotate: false
+  xy: 533, 1
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_PROJECTILE_SEAFLORA_PROJECTILE_32X23
+  rotate: false
+  xy: 113, 553
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_PROJECTILE_SEAFLORA_PROJECTILE_36X35
+  rotate: false
+  xy: 163, 570
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_PROJECTILE_SEAFLORA_PROJECTILE_43X41
+  rotate: false
+  xy: 684, 260
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SEAFLORA_PROJECTILE_SEAFLORA_PROJECTILE_45X45
+  rotate: false
+  xy: 143, 602
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_101X77
+  rotate: false
+  xy: 765, 291
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_103X40
+  rotate: false
+  xy: 67, 459
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_104X73
+  rotate: false
+  xy: 869, 482
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_104X73_2
+  rotate: false
+  xy: 359, 494
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_108X19
+  rotate: false
+  xy: 174, 610
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_108X19_2
+  rotate: false
+  xy: 478, 612
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_109X105
+  rotate: false
+  xy: 74, 390
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_10X8
+  rotate: false
+  xy: 850, 168
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_111X120
+  rotate: false
+  xy: 1, 361
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_117X95
+  rotate: false
+  xy: 146, 390
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_117X95_2
+  rotate: false
+  xy: 223, 390
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_118X118
+  rotate: false
+  xy: 516, 318
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_118X21
+  rotate: false
+  xy: 85, 326
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_118X21_2
+  rotate: false
+  xy: 564, 601
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_120X110
+  rotate: false
+  xy: 673, 368
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_120X110_2
+  rotate: false
+  xy: 380, 380
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_123X117
+  rotate: false
+  xy: 167, 268
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_123X117_2
+  rotate: false
+  xy: 684, 291
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_123X47
+  rotate: false
+  xy: 58, 521
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_123X51
+  rotate: false
+  xy: 588, 467
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_125X45
+  rotate: false
+  xy: 428, 533
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_12X14
+  rotate: false
+  xy: 673, 344
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_12X17
+  rotate: false
+  xy: 673, 318
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_12X17_2
+  rotate: false
+  xy: 673, 331
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_134X106
+  rotate: false
+  xy: 428, 310
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_135X23
+  rotate: false
+  xy: 564, 584
+  size: 87, 15
+  orig: 87, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_135X23_2
+  rotate: false
+  xy: 713, 585
+  size: 87, 15
+  orig: 87, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_13X10
+  rotate: false
+  xy: 368, 390
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_142X268
+  rotate: false
+  xy: 867, 1
+  size: 91, 172
+  orig: 91, 172
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_148X60
+  rotate: false
+  xy: 359, 453
+  size: 95, 39
+  orig: 95, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_149X21
+  rotate: false
+  xy: 926, 578
+  size: 96, 14
+  orig: 96, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_149X21_2
+  rotate: false
+  xy: 1, 579
+  size: 96, 14
+  orig: 96, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_149X53
+  rotate: false
+  xy: 588, 502
+  size: 96, 34
+  orig: 96, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_14X10
+  rotate: false
+  xy: 368, 399
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_14X17
+  rotate: false
+  xy: 752, 368
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_14X9
+  rotate: false
+  xy: 368, 408
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_156X118
+  rotate: false
+  xy: 838, 267
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_157X61
+  rotate: false
+  xy: 752, 431
+  size: 101, 39
+  orig: 101, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_158X61
+  rotate: false
+  xy: 855, 441
+  size: 101, 39
+  orig: 101, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_15X18
+  rotate: false
+  xy: 960, 154
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_15X27
+  rotate: false
+  xy: 960, 119
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_15X8
+  rotate: false
+  xy: 838, 168
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_166X117
+  rotate: false
+  xy: 320, 267
+  size: 106, 75
+  orig: 106, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_169X63
+  rotate: false
+  xy: 898, 398
+  size: 108, 41
+  orig: 108, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_169X79
+  rotate: false
+  xy: 887, 345
+  size: 108, 51
+  orig: 108, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_16X20
+  rotate: false
+  xy: 960, 139
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_16X9
+  rotate: false
+  xy: 573, 467
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_170X43
+  rotate: false
+  xy: 428, 503
+  size: 109, 28
+  orig: 109, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_171X27
+  rotate: false
+  xy: 911, 558
+  size: 110, 18
+  orig: 110, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_171X27_2
+  rotate: false
+  xy: 1, 559
+  size: 110, 18
+  orig: 110, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_171X39
+  rotate: false
+  xy: 746, 510
+  size: 110, 25
+  orig: 110, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_171X56
+  rotate: false
+  xy: 559, 429
+  size: 110, 36
+  orig: 110, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_17X13
+  rotate: false
+  xy: 190, 555
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_17X16
+  rotate: false
+  xy: 502, 380
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_17X33
+  rotate: false
+  xy: 844, 537
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_187X72
+  rotate: false
+  xy: 765, 345
+  size: 120, 46
+  orig: 120, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_188X188
+  rotate: false
+  xy: 715, 168
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_18X12
+  rotate: false
+  xy: 880, 431
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_18X34
+  rotate: false
+  xy: 737, 441
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_19X25
+  rotate: false
+  xy: 219, 497
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_19X9
+  rotate: false
+  xy: 559, 467
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_202X41
+  rotate: false
+  xy: 456, 475
+  size: 130, 26
+  orig: 130, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_202X41_2
+  rotate: false
+  xy: 737, 482
+  size: 130, 26
+  orig: 130, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_203X69
+  rotate: false
+  xy: 248, 344
+  size: 130, 44
+  orig: 130, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_207X67
+  rotate: false
+  xy: 85, 345
+  size: 133, 43
+  orig: 133, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_208X141
+  rotate: false
+  xy: 838, 175
+  size: 133, 90
+  orig: 133, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_20X11
+  rotate: false
+  xy: 67, 487
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_20X21
+  rotate: false
+  xy: 1008, 425
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_21X51
+  rotate: false
+  xy: 1008, 390
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_224X48
+  rotate: false
+  xy: 459, 396
+  size: 144, 31
+  orig: 144, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_224X48_2
+  rotate: false
+  xy: 752, 398
+  size: 144, 31
+  orig: 144, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_22X35
+  rotate: false
+  xy: 1009, 241
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_234X34
+  rotate: false
+  xy: 67, 497
+  size: 150, 22
+  orig: 150, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_243X87
+  rotate: false
+  xy: 526, 260
+  size: 156, 56
+  orig: 156, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_258X258
+  rotate: false
+  xy: 700, 1
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_27X10
+  rotate: false
+  xy: 829, 472
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_28X55
+  rotate: false
+  xy: 1003, 594
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_30X31
+  rotate: false
+  xy: 653, 579
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_30X59
+  rotate: false
+  xy: 428, 267
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_32X19
+  rotate: false
+  xy: 775, 627
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_33X14
+  rotate: false
+  xy: 996, 546
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_35X37
+  rotate: false
+  xy: 911, 531
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_36X12
+  rotate: false
+  xy: 855, 431
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_36X35
+  rotate: false
+  xy: 775, 602
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_37X24
+  rotate: false
+  xy: 70, 623
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_37X40
+  rotate: false
+  xy: 510, 533
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_37X63
+  rotate: false
+  xy: 220, 345
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_38X69
+  rotate: false
+  xy: 997, 344
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_38X69_2
+  rotate: false
+  xy: 976, 594
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_40X29
+  rotate: false
+  xy: 329, 520
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_40X50
+  rotate: false
+  xy: 190, 521
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_41X27
+  rotate: false
+  xy: 299, 571
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_41X37
+  rotate: false
+  xy: 418, 614
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_41X37_2
+  rotate: false
+  xy: 579, 617
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_43X28
+  rotate: false
+  xy: 312, 619
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_43X35
+  rotate: false
+  xy: 245, 616
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_43X35_2
+  rotate: false
+  xy: 549, 617
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_43X41
+  rotate: false
+  xy: 832, 615
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_44X20
+  rotate: false
+  xy: 515, 626
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_44X20_2
+  rotate: false
+  xy: 37, 628
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_44X26
+  rotate: false
+  xy: 899, 621
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_44X48
+  rotate: false
+  xy: 642, 601
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_44X66
+  rotate: false
+  xy: 996, 502
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_44X66_2
+  rotate: false
+  xy: 802, 585
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_45X45
+  rotate: false
+  xy: 713, 602
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_45X45_2
+  rotate: false
+  xy: 744, 602
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_45X45_3
+  rotate: false
+  xy: 447, 605
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_46X27
+  rotate: false
+  xy: 713, 564
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_46X27_2
+  rotate: false
+  xy: 607, 617
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_46X41
+  rotate: false
+  xy: 386, 614
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_48X48
+  rotate: false
+  xy: 37, 595
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_51X38
+  rotate: false
+  xy: 351, 609
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_51X67
+  rotate: false
+  xy: 264, 571
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_51X71
+  rotate: false
+  xy: 488, 564
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_51X71_2
+  rotate: false
+  xy: 678, 564
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_52X38
+  rotate: false
+  xy: 107, 602
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_53X35
+  rotate: false
+  xy: 973, 241
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_53X35_2
+  rotate: false
+  xy: 672, 612
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_53X49
+  rotate: false
+  xy: 1, 595
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_53X71
+  rotate: false
+  xy: 329, 543
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_54X17
+  rotate: false
+  xy: 174, 624
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_54X17_2
+  rotate: false
+  xy: 478, 626
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_54X26
+  rotate: false
+  xy: 275, 619
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_54X30
+  rotate: false
+  xy: 862, 615
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_54X65
+  rotate: false
+  xy: 190, 566
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_54X65_2
+  rotate: false
+  xy: 227, 566
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_55X41
+  rotate: false
+  xy: 70, 595
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_60X54
+  rotate: false
+  xy: 523, 572
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_60X55
+  rotate: false
+  xy: 844, 578
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_61X55
+  rotate: false
+  xy: 885, 578
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_61X61
+  rotate: false
+  xy: 447, 564
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_62X104
+  rotate: false
+  xy: 539, 503
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_63X16
+  rotate: false
+  xy: 459, 380
+  size: 41, 10
+  orig: 41, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_63X16_2
+  rotate: false
+  xy: 929, 621
+  size: 41, 10
+  orig: 41, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_64X48
+  rotate: false
+  xy: 380, 344
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_70X43
+  rotate: false
+  xy: 365, 579
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_70X61
+  rotate: false
+  xy: 631, 538
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_71X52
+  rotate: false
+  xy: 365, 543
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_72X72
+  rotate: false
+  xy: 796, 537
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_74X39
+  rotate: false
+  xy: 926, 594
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_74X46
+  rotate: false
+  xy: 113, 570
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_74X68
+  rotate: false
+  xy: 581, 538
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_74X98
+  rotate: false
+  xy: 973, 119
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_75X70
+  rotate: false
+  xy: 746, 537
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_76X73
+  rotate: false
+  xy: 139, 521
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_76X86
+  rotate: false
+  xy: 973, 184
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_77X41
+  rotate: false
+  xy: 299, 591
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_79X76
+  rotate: false
+  xy: 276, 520
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_7X7
+  rotate: false
+  xy: 859, 168
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_80X70
+  rotate: false
+  xy: 858, 531
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_85X87
+  rotate: false
+  xy: 1, 501
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_85X97
+  rotate: false
+  xy: 240, 453
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_87X46
+  rotate: false
+  xy: 605, 391
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_87X84
+  rotate: false
+  xy: 938, 502
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_88X103
+  rotate: false
+  xy: 300, 452
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_90X81
+  rotate: false
+  xy: 686, 510
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_94X113
+  rotate: false
+  xy: 248, 268
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_97X181
+  rotate: false
+  xy: 960, 1
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_99X92
+  rotate: false
+  xy: 671, 441
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SEAFLORA_SEAFLORA_99X92_2
+  rotate: false
+  xy: 958, 441
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1

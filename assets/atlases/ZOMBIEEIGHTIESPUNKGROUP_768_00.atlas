@@ -1,0 +1,243 @@
+ZOMBIEEIGHTIESPUNKGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_135X8
+  rotate: false
+  xy: 142, 104
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_16X40
+  rotate: false
+  xy: 188, 111
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_17X14
+  rotate: false
+  xy: 244, 80
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_19X36
+  rotate: false
+  xy: 174, 111
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_19X41
+  rotate: false
+  xy: 142, 111
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_19X61
+  rotate: false
+  xy: 84, 76
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_22X57
+  rotate: false
+  xy: 126, 74
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_22X59
+  rotate: false
+  xy: 110, 74
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_23X52
+  rotate: false
+  xy: 67, 76
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_24X28
+  rotate: false
+  xy: 156, 111
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_24X38
+  rotate: false
+  xy: 21, 104
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_26X40
+  rotate: false
+  xy: 42, 77
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_27X39
+  rotate: false
+  xy: 22, 77
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_28X35
+  rotate: false
+  xy: 1, 103
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_28X40
+  rotate: false
+  xy: 194, 76
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_30X37
+  rotate: false
+  xy: 1, 77
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_31X32
+  rotate: false
+  xy: 231, 98
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_33X28
+  rotate: false
+  xy: 39, 105
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_36X29
+  rotate: false
+  xy: 142, 82
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_36X29_2
+  rotate: false
+  xy: 167, 82
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_36X42
+  rotate: false
+  xy: 226, 51
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_36X48
+  rotate: false
+  xy: 169, 49
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_37X48
+  rotate: false
+  xy: 143, 49
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_43X25
+  rotate: false
+  xy: 214, 80
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_46X36
+  rotate: false
+  xy: 194, 51
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_48X38
+  rotate: false
+  xy: 110, 47
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_59X33
+  rotate: false
+  xy: 210, 28
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_64X113
+  rotate: false
+  xy: 67, 1
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_65X38
+  rotate: false
+  xy: 210, 1
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_6X6
+  rotate: false
+  xy: 250, 35
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_70X71
+  rotate: false
+  xy: 163, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_79X69
+  rotate: false
+  xy: 110, 1
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_7X7
+  rotate: false
+  xy: 250, 28
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_PUNK_ZOMBIE_80S_PUNK_99X115
+  rotate: false
+  xy: 1, 1
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1

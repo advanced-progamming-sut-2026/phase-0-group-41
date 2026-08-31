@@ -1,0 +1,194 @@
+ICEAGE_GRAVESTONE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_147X140
+  rotate: false
+  xy: 1, 1
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_14X14
+  rotate: false
+  xy: 193, 63
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_16X12
+  rotate: false
+  xy: 243, 102
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_1X1
+  rotate: false
+  xy: 253, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_1X1_2
+  rotate: false
+  xy: 253, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_1X1_3
+  rotate: false
+  xy: 253, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_23X30
+  rotate: false
+  xy: 214, 137
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_23X38
+  rotate: false
+  xy: 165, 123
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_32X34
+  rotate: false
+  xy: 234, 78
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_36X26
+  rotate: false
+  xy: 71, 93
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_36X32
+  rotate: false
+  xy: 100, 136
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_37X45
+  rotate: false
+  xy: 188, 111
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_38X31
+  rotate: false
+  xy: 36, 123
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_42X35
+  rotate: false
+  xy: 71, 115
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_42X37
+  rotate: false
+  xy: 214, 111
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_46X30
+  rotate: false
+  xy: 100, 115
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_48X25
+  rotate: false
+  xy: 132, 123
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_48X43
+  rotate: false
+  xy: 38, 93
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_50X34
+  rotate: false
+  xy: 154, 99
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_51X25
+  rotate: false
+  xy: 1, 123
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_54X44
+  rotate: false
+  xy: 1, 93
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_54X56
+  rotate: false
+  xy: 216, 40
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_54X58
+  rotate: false
+  xy: 216, 1
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_57X52
+  rotate: false
+  xy: 154, 63
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_60X48
+  rotate: false
+  xy: 193, 78
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_86X174
+  rotate: false
+  xy: 97, 1
+  size: 55, 112
+  orig: 55, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_ICEAGE_DAMAGE_TOMBSTONE_ICEAGE_DAMAGE_94X94
+  rotate: false
+  xy: 154, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

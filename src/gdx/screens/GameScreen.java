@@ -18,6 +18,11 @@ import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
+import gdx.render.AnimatedEntity;
+import gdx.render.PamAssets;
+import gdx.render.PlantVisualManager;
+import gdx.render.ZombieVisualManager;
+
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
 import gdx.util.ImageUtils;
@@ -62,6 +67,9 @@ public class GameScreen implements Screen {
     private final Label sunLabel;
     private final Label plantFoodLabel;
     private final Table zombieProgressBar = new Table();
+
+    private final ZombieVisualManager zombieVisuals = new ZombieVisualManager();
+    private final PlantVisualManager plantVisuals = new PlantVisualManager();
 
     private String selectedPlantToPlant = null; // Plant to be planted
     private boolean shovelSelected = false;      // Shovel selected
@@ -277,6 +285,17 @@ public class GameScreen implements Screen {
             while (tickAccumulator >= SECONDS_PER_TICK) {
                 tickAccumulator -= SECONDS_PER_TICK;
                 session.advanceOneTick();
+                zombieVisuals.sync(session.getAliveZombies(), new ZombieVisualManager.TileMapper() {
+                    public float x(double col) { return tileXFloat((float) col); }
+                    public float y(int row) { return tileY(row); }
+                });
+                plantVisuals.sync(session.getBoard(), new PlantVisualManager.TileMapper() {
+                    public float x(int col) { return tileX(col); }
+                    public float y(int row) { return tileY(row); }
+                });
+                zombieVisuals.update(delta);
+                plantVisuals.update(delta);
+                PamAssets.get().update();
 
                 FallingSun newSun = session.getSunManager().tick(session.getBoard());
                 if (newSun != null) {
@@ -341,7 +360,9 @@ public class GameScreen implements Screen {
     }
 
     // ==================== Entity Drawing ====================
-
+    private float tileXFloat(float col) {
+        return BOARD_LEFT + col * TILE_W;
+    }
     private float tileX(int col) {
         return BOARD_LEFT + col * TILE_W;
     }
@@ -392,59 +413,29 @@ public class GameScreen implements Screen {
     }
 
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        plantVisuals.draw(batch);
+
         Board board = session.getBoard();
-        // Drawing order: bottom row over top row
-        for (int r = Board.ROWS - 1; r >= 0; r--) {
+        for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 0; c < Board.COLS; c++) {
-                Tile tile = board.getTile(r, c);
-                Plant plant = tile.getPlant();
-                if (plant == null) {
-                    continue;
-                }
-                String path = AssetPaths.plantIcon(plant.getName());
-                TextureRegion tex = ImageUtils.loadRegion(path);
-
-                if (plant.isFrozenSolid()) {
-                    batch.setColor(0.6f, 0.85f, 1f, 1f);
-                }
-                batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
-                batch.setColor(Color.WHITE);
-
-                // Simple health bar
-                if (plant.getHealth() < plant.getMaxHealth()) {
+                Plant plant = board.getTile(r, c).getPlant();
+                if (plant != null && plant.getHealth() < plant.getMaxHealth()) {
                     drawHealthBar(batch, tileX(c) + 8f, tileY(r) + TILE_H - 6f, TILE_W - 16f,
                             plant.getHealth() / (float) plant.getMaxHealth());
                 }
             }
         }
     }
-
     private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        zombieVisuals.draw(batch);
+
+        // نوار سلامتی همچنان طبق منطق قدیمی رسم می‌شه (اختیاری، نگه‌داشتیم)
         for (Zombie z : session.getAliveZombies()) {
-            String path = AssetPaths.zombieIcon(z.getTypeName());
-            TextureRegion tex = ImageUtils.loadRegion(path);
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
-
-            if (z.getFrozenTicks() > 0) {
-                batch.setColor(0.6f, 0.8f, 1f, 1f);
-            } else if (z.getChilledTicks() > 0) {
-                batch.setColor(0.75f, 0.9f, 1f, 1f);
-            }
-            batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
-            batch.setColor(Color.WHITE);
-
             drawHealthBar(batch, x, y + TILE_H - 16f, TILE_W - 10f, z.getHealth() / (float) z.getMaxHealth());
-
-            // Warning effect near end line
-            if (z.getXPosition() < 1.0) {
-                batch.setColor(1f, 0.4f, 0.4f, 1f);
-                batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
-                batch.setColor(Color.WHITE);
-            }
         }
     }
-
     private void drawProjectiles(com.badlogic.gdx.graphics.g2d.Batch batch) {
         for (Projectile p : session.getActiveProjectiles()) {
             if (p.isDead()) {

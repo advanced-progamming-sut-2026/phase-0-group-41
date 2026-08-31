@@ -1,0 +1,257 @@
+VASEBREAKERGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_115X150
+  rotate: false
+  xy: 381, 1
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_115X150_2
+  rotate: false
+  xy: 381, 99
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_18X20
+  rotate: false
+  xy: 359, 172
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_1X1
+  rotate: false
+  xy: 508, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_22X27
+  rotate: false
+  xy: 496, 121
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_33X41
+  rotate: false
+  xy: 457, 168
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_36X48
+  rotate: false
+  xy: 269, 305
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_41X57
+  rotate: false
+  xy: 407, 295
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_58X70
+  rotate: false
+  xy: 457, 121
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_68X51
+  rotate: false
+  xy: 269, 270
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_76X59
+  rotate: false
+  xy: 457, 1
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_115X150
+  rotate: false
+  xy: 191, 172
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_115X150_2
+  rotate: false
+  xy: 267, 172
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_18X20
+  rotate: false
+  xy: 495, 196
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_1X1
+  rotate: false
+  xy: 508, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_22X27
+  rotate: false
+  xy: 496, 141
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_293X263
+  rotate: false
+  xy: 191, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_33X41
+  rotate: false
+  xy: 480, 168
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_36X48
+  rotate: false
+  xy: 191, 317
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_41X57
+  rotate: false
+  xy: 435, 295
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_58X70
+  rotate: false
+  xy: 191, 270
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_68X51
+  rotate: false
+  xy: 315, 295
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_76X59
+  rotate: false
+  xy: 457, 41
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_115X150
+  rotate: false
+  xy: 343, 197
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_115X150_2
+  rotate: false
+  xy: 419, 197
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_18X20
+  rotate: false
+  xy: 495, 211
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_1X1
+  rotate: false
+  xy: 508, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_22X27
+  rotate: false
+  xy: 343, 172
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_293X263
+  rotate: false
+  xy: 1, 172
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_33X41
+  rotate: false
+  xy: 491, 305
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_36X48
+  rotate: false
+  xy: 216, 317
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_41X57
+  rotate: false
+  xy: 463, 295
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_58X70
+  rotate: false
+  xy: 230, 270
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_68X51
+  rotate: false
+  xy: 361, 295
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_76X59
+  rotate: false
+  xy: 457, 81
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1

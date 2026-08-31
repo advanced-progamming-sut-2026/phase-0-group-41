@@ -1,0 +1,775 @@
+ZOMBIECATAPULTGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_CATAPULT_PROJECTILE_CATAPULT_PROJECTILE_13X29
+  rotate: false
+  xy: 499, 600
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CATAPULT_PROJECTILE_CATAPULT_PROJECTILE_52X52
+  rotate: false
+  xy: 108, 708
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CATAPULT_PROJECTILE_CATAPULT_PROJECTILE_54X54
+  rotate: false
+  xy: 331, 698
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CATAPULT_PROJECTILE_CATAPULT_PROJECTILE_8X16
+  rotate: false
+  xy: 109, 514
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_101X115
+  rotate: false
+  xy: 417, 299
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_101X115_2
+  rotate: false
+  xy: 1, 514
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_101X115_3
+  rotate: false
+  xy: 361, 527
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_101X99
+  rotate: false
+  xy: 151, 529
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_103X87
+  rotate: false
+  xy: 291, 577
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_104X42
+  rotate: false
+  xy: 1, 646
+  size: 67, 27
+  orig: 67, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_107X85
+  rotate: false
+  xy: 428, 584
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_111X90
+  rotate: false
+  xy: 218, 577
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_115X7
+  rotate: false
+  xy: 384, 792
+  size: 74, 5
+  orig: 74, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_120X42
+  rotate: false
+  xy: 417, 375
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_126X85
+  rotate: false
+  xy: 428, 527
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_126X85_2
+  rotate: false
+  xy: 68, 529
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_128X67
+  rotate: false
+  xy: 132, 595
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_139X95
+  rotate: false
+  xy: 417, 236
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_149X69
+  rotate: false
+  xy: 239, 478
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_14X35
+  rotate: false
+  xy: 499, 199
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_15X19
+  rotate: false
+  xy: 97, 514
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_16X15
+  rotate: false
+  xy: 499, 224
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_16X18
+  rotate: false
+  xy: 414, 603
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_178X138
+  rotate: false
+  xy: 1, 423
+  size: 114, 89
+  orig: 114, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_17X17
+  rotate: false
+  xy: 84, 514
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_187X75
+  rotate: false
+  xy: 239, 527
+  size: 120, 48
+  orig: 120, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_187X76
+  rotate: false
+  xy: 341, 476
+  size: 120, 49
+  orig: 120, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_187X76_2
+  rotate: false
+  xy: 117, 478
+  size: 120, 49
+  orig: 120, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_1X1
+  rotate: false
+  xy: 507, 67
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_1X1_2
+  rotate: false
+  xy: 510, 67
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_20X22
+  rotate: false
+  xy: 499, 584
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_21X15
+  rotate: false
+  xy: 68, 514
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_21X37
+  rotate: false
+  xy: 496, 375
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_24X29
+  rotate: false
+  xy: 113, 646
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_258X105
+  rotate: false
+  xy: 341, 407
+  size: 165, 67
+  orig: 165, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_262X108
+  rotate: false
+  xy: 1, 281
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_262X108_2
+  rotate: false
+  xy: 1, 352
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_262X108_3
+  rotate: false
+  xy: 171, 407
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_27X28
+  rotate: false
+  xy: 218, 552
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_28X33
+  rotate: false
+  xy: 218, 529
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_293X263
+  rotate: false
+  xy: 227, 236
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_32X34
+  rotate: false
+  xy: 361, 770
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_33X30
+  rotate: false
+  xy: 488, 178
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_33X33
+  rotate: false
+  xy: 161, 776
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_33X43
+  rotate: false
+  xy: 488, 148
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_347X364
+  rotate: false
+  xy: 227, 1
+  size: 222, 233
+  orig: 222, 233
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_349X434
+  rotate: false
+  xy: 1, 1
+  size: 224, 278
+  orig: 224, 278
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_35X40
+  rotate: false
+  xy: 488, 120
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_36X39
+  rotate: false
+  xy: 63, 765
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_37X34
+  rotate: false
+  xy: 234, 773
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_37X44
+  rotate: false
+  xy: 445, 762
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_39X34
+  rotate: false
+  xy: 307, 767
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_39X34_2
+  rotate: false
+  xy: 334, 770
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_39X34_3
+  rotate: false
+  xy: 31, 772
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_39X48
+  rotate: false
+  xy: 487, 691
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_40X28
+  rotate: false
+  xy: 88, 774
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_40X40
+  rotate: false
+  xy: 417, 762
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_41X47
+  rotate: false
+  xy: 206, 746
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_41X58
+  rotate: false
+  xy: 484, 336
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_43X38
+  rotate: false
+  xy: 1, 754
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_43X49
+  rotate: false
+  xy: 33, 738
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_43X55
+  rotate: false
+  xy: 484, 299
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_44X31
+  rotate: false
+  xy: 131, 765
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_44X39
+  rotate: false
+  xy: 387, 757
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_44X43
+  rotate: false
+  xy: 176, 746
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_46X46
+  rotate: false
+  xy: 442, 730
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_46X46_2
+  rotate: false
+  xy: 474, 730
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_46X46_3
+  rotate: false
+  xy: 291, 732
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_46X46_4
+  rotate: false
+  xy: 144, 733
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_46X46_5
+  rotate: false
+  xy: 323, 735
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X43
+  rotate: false
+  xy: 355, 740
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X43_2
+  rotate: false
+  xy: 240, 743
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X43_3
+  rotate: false
+  xy: 99, 744
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X52
+  rotate: false
+  xy: 1, 718
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X70
+  rotate: false
+  xy: 259, 696
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X71
+  rotate: false
+  xy: 167, 685
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X71_2
+  rotate: false
+  xy: 44, 690
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_47X71_3
+  rotate: false
+  xy: 76, 690
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_50X32
+  rotate: false
+  xy: 471, 762
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_51X102
+  rotate: false
+  xy: 132, 640
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_51X30
+  rotate: false
+  xy: 272, 764
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_51X65
+  rotate: false
+  xy: 413, 682
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_52X38
+  rotate: false
+  xy: 63, 738
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_54X122
+  rotate: false
+  xy: 451, 120
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_54X45
+  rotate: false
+  xy: 405, 726
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_54X54
+  rotate: false
+  xy: 368, 703
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_54X72
+  rotate: false
+  xy: 376, 655
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_57X57
+  rotate: false
+  xy: 448, 691
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_57X75
+  rotate: false
+  xy: 465, 641
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_59X53
+  rotate: false
+  xy: 291, 696
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_60X42
+  rotate: false
+  xy: 199, 717
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_61X92
+  rotate: false
+  xy: 291, 635
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_63X63
+  rotate: false
+  xy: 1, 675
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_63X66
+  rotate: false
+  xy: 70, 646
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_65X64
+  rotate: false
+  xy: 332, 655
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_66X56
+  rotate: false
+  xy: 215, 679
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_70X72
+  rotate: false
+  xy: 463, 476
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_72X53
+  rotate: false
+  xy: 451, 200
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_72X67
+  rotate: false
+  xy: 167, 640
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_74X87
+  rotate: false
+  xy: 171, 281
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_74X87_2
+  rotate: false
+  xy: 171, 339
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_76X61
+  rotate: false
+  xy: 414, 641
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_7X7
+  rotate: false
+  xy: 171, 397
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_80X75
+  rotate: false
+  xy: 117, 423
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_83X78
+  rotate: false
+  xy: 359, 603
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_84X80
+  rotate: false
+  xy: 451, 67
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_85X62
+  rotate: false
+  xy: 216, 637
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_90X100
+  rotate: false
+  xy: 451, 1
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_96X91
+  rotate: false
+  xy: 68, 586
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CATAPULT_ZOMBIE_CATAPULT_98X77
+  rotate: false
+  xy: 1, 590
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
