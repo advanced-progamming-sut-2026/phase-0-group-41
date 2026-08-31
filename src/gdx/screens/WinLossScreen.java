@@ -5,10 +5,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Table;
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
-<<<<<<< HEAD
 import gdx.util.SoundManager;
-=======
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 import model.user.User;
 
 /**
@@ -23,11 +20,8 @@ public class WinLossScreen extends BaseMenuScreen {
 
         User user = game.getLoggedInUser();
 
-<<<<<<< HEAD
         SoundManager.playMusic(won ? AssetPaths.MUSIC_WIN : AssetPaths.MUSIC_LOSE);
 
-=======
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         String headline = won ? "You Win!" : "You Lose!";
         rootTable.add(title(headline)).padBottom(16f).row();
         rootTable.add(new Label("Chapter " + chapter + " - Level " + level, skin)).padBottom(10f).row();

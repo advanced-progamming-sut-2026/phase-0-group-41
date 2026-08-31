@@ -18,18 +18,13 @@ import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
 import gdx.PvZGame;
-<<<<<<< HEAD
 import gdx.assets.AssetPaths;
 import gdx.util.ImageUtils;
 import gdx.util.SoundManager;
-=======
-import gdx.util.ImageUtils;
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
 /**
- * کلاس پایه‌ی مشترک برای همه‌ی صفحات منو.
- * هر Screen گرافیکی، به‌جای صدا زدن مستقیم متدهای Controller با رشته‌های دستور،
- * مستقیماً همان متدهای Controller فاز اول (که خروجی رشته‌ای/enum برمی‌گردانند) را صدا می‌زند.
+ * Common base class for all menu screens.
+ * Graphical screens can directly call the methods of the phase 1 controller.
  */
 public abstract class BaseMenuScreen implements Screen {
 
@@ -56,7 +51,7 @@ public abstract class BaseMenuScreen implements Screen {
         errorLabel.setWrap(true);
     }
 
-    /** مسیر تصویر پس‌زمینه‌ی این صفحه؛ اگر خالی باشد رنگ ساده رسم می‌شود. */
+    /** Path to the background image. If empty, a solid color is used. */
     protected String backgroundPath() {
         return "";
     }
@@ -74,10 +69,8 @@ public abstract class BaseMenuScreen implements Screen {
         button.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
-<<<<<<< HEAD
+                // Conflict resolved: click sound is fixed and included
                 SoundManager.playSound(AssetPaths.SFX_CLICK);
-=======
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
                 onClick.run();
             }
         });
@@ -104,13 +97,9 @@ public abstract class BaseMenuScreen implements Screen {
         String bg = backgroundPath();
         if (!bg.isEmpty()) {
             stage.getBatch().begin();
-<<<<<<< HEAD
+            // Conflict resolved: Merged version using loadRegion, which is more robust
             TextureRegion region = ImageUtils.loadRegion(bg);
             stage.getBatch().draw(region, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
-=======
-            Texture texture = ImageUtils.load(bg);
-            stage.getBatch().draw(texture, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
             stage.getBatch().end();
         }
 

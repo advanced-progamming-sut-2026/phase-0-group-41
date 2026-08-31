@@ -9,11 +9,7 @@ import gdx.assets.AssetPaths;
 import java.util.List;
 
 /**
- * منوی "آغاز مرحله": در ابتدای هر مرحله، مأموریت‌ها/محدودیت‌های آن مرحله
- * (مثلاً "بیش از ۳۰۰۰ خورشید خرج نکنید") به کاربر نمایش داده می‌شود.
- * طبق سند فاز دو نیازی نیست حتماً پنجره‌ی شناور (Modal) باشد؛ اینجا به‌صورت
- * یک صفحه‌ی کامل با دکمه‌ی "Continue" پیاده شده که پس از تایید کاربر،
- * وارد صفحه‌ی گرافیکی گیم‌پلی (GameScreen) می‌شود.
+ * Level objectives screen.
  */
 public class LevelObjectivesScreen extends BaseMenuScreen {
 
@@ -35,15 +31,8 @@ public class LevelObjectivesScreen extends BaseMenuScreen {
         }
         rootTable.add(list).width(600f).padBottom(24f).row();
 
-<<<<<<< HEAD
+        // Conflict resolved: Merged version using functional navigation
         addButton(rootTable, "Continue", () -> game.goToGameScreen(chapter, level, 10));
-=======
-        addButton(rootTable, "Continue", () -> {
-            // TODO: وقتی GameScreen گرافیکی ساخته شد، اینجا باید به آن screen سوییچ شود
-            // (به‌جای Start Game که فعلاً کاربر را به همین‌جا آورده است).
-            game.goToPlantSelection();
-        });
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     }
 
     @Override

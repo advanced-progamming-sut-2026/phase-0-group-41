@@ -5,16 +5,8 @@ import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.SelectBox;
 import com.badlogic.gdx.scenes.scene2d.ui.Slider;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
-<<<<<<< HEAD
 import com.badlogic.gdx.scenes.scene2d.ui.TextField;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
-=======
-<<<<<<< HEAD
-import com.badlogic.gdx.scenes.scene2d.ui.TextField;
-import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
-=======
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
@@ -26,21 +18,12 @@ public class SettingsScreen extends BaseMenuScreen {
     private final Slider speedSlider;
     private final CheckBox hitboxBox;
     private final CheckBox debugBox;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     private final CheckBox networkGridBox;
 
     // بخش تقلب (Cheat) - فقط وقتی حالت دیباگ فعال است نمایش داده می‌شود.
     private final Table cheatSection = new Table();
     private final TextField cheatAmountField;
     private final Label cheatResultLabel;
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
     public SettingsScreen(PvZGame game) {
         super(game);
@@ -59,23 +42,11 @@ public class SettingsScreen extends BaseMenuScreen {
         form.add(difficultyBox).width(120f).padBottom(10f).row();
 
         speedSlider = new Slider(1f, 3f, 1f, false, skin);
-<<<<<<< HEAD
         speedSlider.setValue(user != null ? user.getGameSpeed() : 1f);
-=======
-<<<<<<< HEAD
-        speedSlider.setValue(user != null ? user.getGameSpeed() : 1f);
-=======
-        speedSlider.setValue(1f);
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         form.add(new Label("Game Speed (1 to 3):", skin)).right().padRight(10f).padBottom(10f);
         form.add(speedSlider).width(200f).padBottom(10f).row();
 
         hitboxBox = new CheckBox(" Show grid / hitboxes", skin);
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         hitboxBox.setChecked(user != null && user.isShowHitboxes());
         form.add().padRight(10f);
         form.add(hitboxBox).left().padBottom(10f).row();
@@ -107,29 +78,12 @@ public class SettingsScreen extends BaseMenuScreen {
             }
         });
 
-<<<<<<< HEAD
-=======
-=======
-        form.add().padRight(10f);
-        form.add(hitboxBox).left().padBottom(10f).row();
-
-        debugBox = new CheckBox(" Debug mode", skin);
-        form.add().padRight(10f);
-        form.add(debugBox).left().padBottom(10f).row();
-
-        rootTable.add(form).padBottom(16f).row();
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         rootTable.add(errorLabel).width(500f).padBottom(10f).row();
 
         addButton(rootTable, "Save Settings", this::doSave);
         addButton(rootTable, "Back to Main Menu", game::goToMainMenu);
     }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     private void buildCheatSection() {
         cheatSection.add(new Label("Cheats (debug mode):", skin)).colspan(3).padBottom(8f).row();
 
@@ -175,11 +129,6 @@ public class SettingsScreen extends BaseMenuScreen {
         }
     }
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     private void doSave() {
         clearError();
         User user = game.getLoggedInUser();
@@ -188,10 +137,6 @@ public class SettingsScreen extends BaseMenuScreen {
             showError("Invalid difficulty level.");
             return;
         }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         String speedResult = game.getSettingsController().changeGameSettings(
                 user, speedSlider.getValue(), hitboxBox.isChecked(), debugBox.isChecked());
         if (!"SUCCESS".equals(speedResult)) {
@@ -199,12 +144,6 @@ public class SettingsScreen extends BaseMenuScreen {
             return;
         }
         game.getSettingsController().changeNetworkGridVisibility(user, networkGridBox.isChecked());
-<<<<<<< HEAD
-=======
-=======
-        // TODO: game speed, grid display and debug mode should be applied in the GameSession/gameplay controller.
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         game.goToMainMenu();
     }
 

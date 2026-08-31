@@ -37,22 +37,14 @@ import model.zombie.Zombie;
 import java.util.List;
 
 /**
- * صفحه‌ی گرافیکی اصلی گیم‌پلی. این صفحه دقیقاً همان چیزی است که در سند فاز دو
- * زیر بخش‌های «اطلاعات بازی»، «المان‌های محیط بازی» و «تعاملات کاربر با بازی»
- * توضیح داده شده: نمایش تخته‌ی ۵×۹، گیاهان/زامبی‌ها روی خانه‌ها، پرتابه‌ها،
- * خورشیدهای سقوط‌کننده، قبرها، چمن‌زن‌ها، نوار پیشرفت زامبی‌ها، شمارنده‌ی
- * غذای گیاه، و نوار کناری برای کاشت/برداشت/غذادهی/تقلب.
- * <p>
- * منطق بازی (Model) به‌طور کامل توسط {@link GameSession} انجام می‌شود؛ این
- * کلاس فقط وضعیت را می‌خواند و روی صفحه رسم می‌کند، و ورودی کاربر را به
- * متدهای مدل ترجمه می‌کند (دقیقاً هم‌ارز با GameController کنسولی).
+ * Main gameplay screen (fixed).
  */
 public class GameScreen implements Screen {
 
     public static final float WORLD_WIDTH = 1280f;
     public static final float WORLD_HEIGHT = 720f;
 
-    // ابعاد و مبدأ شبکه‌ی بازی روی صفحه
+    // Board configuration
     private static final float BOARD_LEFT = 260f;
     private static final float BOARD_TOP = 640f;
     private static final float TILE_W = 100f;
@@ -71,12 +63,12 @@ public class GameScreen implements Screen {
     private final Label plantFoodLabel;
     private final Table zombieProgressBar = new Table();
 
-    private String selectedPlantToPlant = null; // نام گیاهی که کاربر برای کاشت انتخاب کرده (از نوار کناری)
-    private boolean shovelSelected = false;      // حالت انتخاب بیلچه برای برداشت گیاه
-    private boolean plantFoodSelected = false;   // حالت انتخاب غذای گیاه برای اعمال روی یک گیاه
+    private String selectedPlantToPlant = null; // Plant to be planted
+    private boolean shovelSelected = false;      // Shovel selected
+    private boolean plantFoodSelected = false;   // Plant food selected
 
     private float tickAccumulator = 0f;
-    private static final float SECONDS_PER_TICK = 0.1f; // هر تیک = ۰.۱ ثانیه (طبق مدل)
+    private static final float SECONDS_PER_TICK = 0.1f; // Defined by model
 
     private boolean announcedGameOver = false;
 
@@ -102,10 +94,10 @@ public class GameScreen implements Screen {
         Gdx.input.setInputProcessor(stage);
     }
 
-    // ==================== ساخت رابط کاربری ثابت (HUD) ====================
+    // ==================== HUD Construction ====================
 
     private void buildHud() {
-        // --- منوی توقف (دکمه‌ی Pause بالای صفحه، طبق بخش «توقف بازی») ---
+        // --- Pause menu ---
         TextButton pauseButton = new TextButton("II", skin);
         pauseButton.addListener(new ClickListener() {
             @Override
@@ -114,17 +106,17 @@ public class GameScreen implements Screen {
             }
         });
 
-        // --- شمارنده‌ی خورشید (تعداد خورشیدهای جمع‌آوری‌شده) ---
+        // --- Sun counter ---
         Table sunBox = new Table();
         sunBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(36f).padRight(4f);
         sunBox.add(sunLabel).padRight(16f);
 
-        // --- شمارنده‌ی غذای گیاه (Plant Food) ---
+        // --- Plant food counter ---
         Table foodBox = new Table();
         foodBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_PLANT_FOOD_LEAF))).size(30f).padRight(4f);
         foodBox.add(plantFoodLabel).padRight(16f);
 
-        // --- سکه و الماس (طبق سند: در تمامی منوها حتی حین بازی قابل مشاهده باشد) ---
+        // --- Coins and Diamonds ---
         User user = session.getUser();
         Table coinBox = new Table();
         coinBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_COIN))).size(28f).padRight(4f);
@@ -143,7 +135,7 @@ public class GameScreen implements Screen {
         topRow.add(coinBox);
         topRow.add(diamondBox);
 
-        // --- خانه‌های دیباگ: نمایش فقط وقتی حالت دیباگ کاربر فعال باشد ---
+        // --- Debug functions ---
         if (user.isDebugMode()) {
             TextButton addSunCheat = new TextButton("+ Sun", skin);
             addSunCheat.addListener(new ClickListener() {
@@ -168,9 +160,6 @@ public class GameScreen implements Screen {
     }
 
     private void buildZombieProgressBar() {
-        // نوار پیشرفت زامبی‌ها: نوار در ابتدای مرحله خالی و در انتهای آن پر است
-        // (طبق بخش «پیشروی زامبی‌ها»). این پیاده‌سازی ساده، بر اساس شماره‌ی موج فعلی
-        // نسبت به تعداد کل موج‌ها است.
         zombieProgressBar.setFillParent(false);
         Table wrapper = new Table();
         wrapper.setFillParent(true);
@@ -206,7 +195,7 @@ public class GameScreen implements Screen {
         }
         sidebarTable.add(cardsTable).row();
 
-        // --- دکمه‌ی برداشت گیاه (بیلچه) ---
+        // --- Shovel button ---
         TextButton shovelButton = new TextButton("Shovel", skin);
         shovelButton.addListener(new ClickListener() {
             @Override
@@ -219,7 +208,7 @@ public class GameScreen implements Screen {
         });
         sidebarTable.add(shovelButton).padTop(10f).width(70f).row();
 
-        // --- دکمه‌ی استفاده از غذای گیاه ---
+        // --- Plant food button ---
         TextButton foodButton = new TextButton("Plant Food", skin);
         foodButton.addListener(new ClickListener() {
             @Override
@@ -255,7 +244,7 @@ public class GameScreen implements Screen {
             @Override
             public void clicked(InputEvent event, float x, float y) {
                 if (session.isPlantOnCooldown(plantName)) {
-                    return; // در حال شارژ (Cooldown) - طبق سند، قابل انتخاب نیست
+                    return; // On cooldown
                 }
                 selectedPlantToPlant = plantName;
                 shovelSelected = false;
@@ -265,7 +254,7 @@ public class GameScreen implements Screen {
         return stack;
     }
 
-    // ==================== منوی توقف ====================
+    // ==================== Pause Menu ====================
 
     private void openPauseMenu() {
         game.setScreen(new PauseScreen(game, this, this::restartLevel));
@@ -276,7 +265,7 @@ public class GameScreen implements Screen {
         game.setScreen(new GameScreen(game, fresh, chapter, level));
     }
 
-    // ==================== حلقه‌ی اصلی رندر ====================
+    // ==================== Render Loop ====================
 
     @Override
     public void render(float delta) {
@@ -304,7 +293,7 @@ public class GameScreen implements Screen {
             return;
         }
 
-        // --- رسم پس‌زمینه‌ی صحنه بر اساس فصل مرحله (طبق بخش «فصل‌ها») ---
+        // --- Background drawing ---
         stage.getBatch().begin();
         String bg = seasonBackground();
         if (!bg.isEmpty()) {
@@ -319,7 +308,7 @@ public class GameScreen implements Screen {
         drawFallingSuns(stage.getBatch());
         stage.getBatch().end();
 
-        // --- به‌روزرسانی برچسب‌های HUD ---
+        // --- Update HUD labels ---
         sunLabel.setText(String.valueOf(session.getSunManager().getCurrentSun()));
         plantFoodLabel.setText(String.valueOf(session.getPlantFoodCount()));
         refreshZombieProgressBar();
@@ -331,8 +320,7 @@ public class GameScreen implements Screen {
     }
 
     private String seasonBackground() {
-        // Season در GameSession خصوصی است؛ در این پیاده‌سازی ساده بر اساس فصل عددی حدس زده می‌شود.
-        // وقتی GameSession یک getter عمومی برای Season داشته باشد، این متد باید همان مقدار را بخواند.
+        // Simplified فصل (Chapter) fallback
         switch (chapter) {
             case 1: return AssetPaths.BG_LAWN_ANCIENT_EGYPT;
             case 2: return AssetPaths.BG_LAWN_FROSTBITE_CAVES;
@@ -342,7 +330,6 @@ public class GameScreen implements Screen {
         }
     }
 
-    /** چمن‌زن مخصوص فصل فعلی مرحله (طبق بخش «پس‌زمینه‌ی هر فصل باید همان چمن‌زن مخصوص را داشته باشد»). */
     private String seasonMowerPath(boolean used) {
         switch (chapter) {
             case 1: return used ? AssetPaths.LAWN_MOWER_USED_EGYPT : AssetPaths.LAWN_MOWER_IDLE_EGYPT;
@@ -353,7 +340,7 @@ public class GameScreen implements Screen {
         }
     }
 
-    // ==================== رسم تخته و موجودیت‌ها ====================
+    // ==================== Entity Drawing ====================
 
     private float tileX(int col) {
         return BOARD_LEFT + col * TILE_W;
@@ -364,10 +351,9 @@ public class GameScreen implements Screen {
     }
 
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        // پس‌زمینه‌ی خود تخته (اگر بخواهیم مجزا از پس‌زمینه‌ی کلی رسم شود) در همین‌جا اضافه می‌شود.
-        // فعلاً چون BG_LAWN_* کل صفحه را می‌پوشاند، چیزی اضافه نمی‌کنیم؛ فقط نوار نقاله (در صورت وجود) رسم می‌شود.
+        // Implement special conveyor features here if needed
         if (!AssetPaths.CONVEYOR_BELT_BG.isEmpty()) {
-            // TODO: در مراحل نوع "نوار نقاله" (Conveyor Belt)، نوار کناری باید به‌جای کارت‌های ثابت این تصویر را نشان دهد.
+            // TODO: Special conveyor logic
         }
     }
 
@@ -388,8 +374,6 @@ public class GameScreen implements Screen {
     }
 
     private String graveTexturePath(Grave grave) {
-        // سه نوع قبر مختلف طبق سند («قبرها ... انواع مختلف از قبرها»)؛ در نبود اطلاعات نوع دقیق،
-        // بر اساس سلامتی باقیمانده یکی از سه ظاهر انتخاب می‌شود تا تخریب قبر هم قابل مشاهده باشد.
         double ratio = grave.getHealth() / 700.0;
         if (ratio > 0.66) return AssetPaths.GRAVE_TYPE_1;
         if (ratio > 0.33) return AssetPaths.GRAVE_TYPE_2;
@@ -400,7 +384,7 @@ public class GameScreen implements Screen {
         Board board = session.getBoard();
         for (int r = 0; r < Board.ROWS; r++) {
             if (!board.isLawnMowerAvailable(r)) {
-                continue; // برای مراحلی که ماشین چمن‌زنی ندارند
+                continue; // Level without lawn mowers
             }
             String path = seasonMowerPath(board.isLawnMowerUsed(r));
             batch.draw(ImageUtils.loadRegion(path), BOARD_LEFT - 50f, tileY(r), 44f, TILE_H);
@@ -409,7 +393,7 @@ public class GameScreen implements Screen {
 
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
         Board board = session.getBoard();
-        // ترتیب رسم: سطرهای پایین‌تر روی سطرهای بالاتر نمایش داده شوند (طبق بخش «ترتیب درست نمایش موجودیت‌ها»)
+        // Drawing order: bottom row over top row
         for (int r = Board.ROWS - 1; r >= 0; r--) {
             for (int c = 0; c < Board.COLS; c++) {
                 Tile tile = board.getTile(r, c);
@@ -420,14 +404,13 @@ public class GameScreen implements Screen {
                 String path = AssetPaths.plantIcon(plant.getName());
                 TextureRegion tex = ImageUtils.loadRegion(path);
 
-                // تغییر رنگ گیاه هنگام یخ‌زدگی (طبق بخش «غارهای یخی») به‌عنوان جایگزین ساده‌ی افکت گرافیکی واقعی
                 if (plant.isFrozenSolid()) {
                     batch.setColor(0.6f, 0.85f, 1f, 1f);
                 }
                 batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
                 batch.setColor(Color.WHITE);
 
-                // نوار سلامتی ساده‌ی گیاه در صورت آسیب‌دیدگی
+                // Simple health bar
                 if (plant.getHealth() < plant.getMaxHealth()) {
                     drawHealthBar(batch, tileX(c) + 8f, tileY(r) + TILE_H - 6f, TILE_W - 16f,
                             plant.getHealth() / (float) plant.getMaxHealth());
@@ -443,7 +426,6 @@ public class GameScreen implements Screen {
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
 
-            // تغییر رنگ زامبی هنگام یخ‌زدن/چیل شدن (جایگزین ساده‌ی جلوه‌ی گرافیکی افکت‌های وضعیتی)
             if (z.getFrozenTicks() > 0) {
                 batch.setColor(0.6f, 0.8f, 1f, 1f);
             } else if (z.getChilledTicks() > 0) {
@@ -454,7 +436,7 @@ public class GameScreen implements Screen {
 
             drawHealthBar(batch, x, y + TILE_H - 16f, TILE_W - 10f, z.getHealth() / (float) z.getMaxHealth());
 
-            // جلوه‌ی هشدار برای زامبی‌های نزدیک به خط پایان (طبق بخش «جلوه زامبی‌های نزدیک خط پایان»)
+            // Warning effect near end line
             if (z.getXPosition() < 1.0) {
                 batch.setColor(1f, 0.4f, 0.4f, 1f);
                 batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
@@ -488,16 +470,16 @@ public class GameScreen implements Screen {
             TextureRegion tex = ImageUtils.loadRegion(path);
             float x = tileX(fs.getCol()) + TILE_W / 2f - 16f;
             float y = fs.isLanded() ? tileY(fs.getRow()) + TILE_H / 2f - 16f
-                    : tileY(fs.getRow()) + TILE_H + 40f; // قبل از فرود، بالاتر از خانه نمایش داده می‌شود
+                    : tileY(fs.getRow()) + TILE_H + 40f; // Before landing
             batch.draw(tex, x, y, 32f, 32f);
         }
     }
 
     private void drawHealthBar(com.badlogic.gdx.graphics.g2d.Batch batch, float x, float y, float width, float ratio) {
-        // TODO: می‌توان به‌جای رسم دستی، از یک تکسچر ساده (white pixel) رنگ‌شده استفاده کرد.
+        // TODO: Advanced drawing (using simple white pixel texture colored)
     }
 
-    // ==================== ورودی کاربر روی تخته (کاشت/برداشت/غذادهی/برداشت خورشید) ====================
+    // ==================== User Input Handler ====================
 
     private void handleBoardClick() {
         if (!Gdx.input.justTouched()) {
@@ -506,7 +488,7 @@ public class GameScreen implements Screen {
         com.badlogic.gdx.math.Vector2 touch = stage.screenToStageCoordinates(
                 new com.badlogic.gdx.math.Vector2(Gdx.input.getX(), Gdx.input.getY()));
 
-        // اول بررسی می‌کنیم که کلیک روی یک خورشید سقوط‌کرده باشد (برداشت خورشید آسمانی)
+        // Collect special falling suns
         for (int i = 0; i < session.getFallingSuns().size(); i++) {
             FallingSun fs = session.getFallingSuns().get(i);
             float x = tileX(fs.getCol()) + TILE_W / 2f - 16f;
@@ -520,7 +502,7 @@ public class GameScreen implements Screen {
         int col = (int) ((touch.x - BOARD_LEFT) / TILE_W);
         int row = (int) ((BOARD_TOP - touch.y) / TILE_H) - 1;
         if (col < 0 || col >= Board.COLS || row < 0 || row >= Board.ROWS) {
-            return; // کلیک خارج از تخته بوده (مثلاً روی نوار کناری)
+            return; // Clicked outside the grid
         }
 
         Tile tile = session.getBoard().getTile(row, col);
@@ -546,7 +528,7 @@ public class GameScreen implements Screen {
             return;
         }
 
-        // اگر گیاه تولیدکننده‌ی خورشید آماده باشد، کلیک روی خودش هم خورشید را جمع می‌کند
+        // Collect sun directly from producer plant
         collectSunAt(row, col);
     }
 
@@ -580,7 +562,9 @@ public class GameScreen implements Screen {
             return;
         }
         Tile tile = session.getBoard().getTile(row, col);
-        if (tile == null || !tile.canPlant(PlantFactory.create(type))) {
+        // Simplified syntax check to ensure type exists. Actual logic in creating/validating plant.
+        Plant testPlant = PlantFactory.create(type);
+        if (tile == null || testPlant == null || !tile.canPlant(testPlant)) {
             return;
         }
         Plant plant = PlantFactory.create(type);
@@ -593,7 +577,7 @@ public class GameScreen implements Screen {
             user.consumeGreenhouseBoost(type);
         }
         if (!session.getSunManager().spendSun(plant.getSunCost())) {
-            return; // خورشید کافی نیست
+            return; // Not enough sun
         }
         plant.place(row, col);
         tile.setPlant(plant);
@@ -602,7 +586,7 @@ public class GameScreen implements Screen {
         SoundManager.playSound(AssetPaths.SFX_PLANT);
     }
 
-    // ==================== متدهای استاندارد Screen ====================
+    // ==================== Standard Screen Methods ====================
 
     @Override
     public void show() {

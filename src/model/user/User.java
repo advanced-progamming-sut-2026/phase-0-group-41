@@ -42,21 +42,14 @@ public class User implements Serializable, PlayerProfile {
     private int levelsCompleted = 0;
     private int maxMowPoints = 0;
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
+
     // === تنظیمات نمایشی/گیم‌پلی (منوی Settings) ===
     private float gameSpeed = 1f;
     private boolean showHitboxes = false;
     private boolean debugMode = false;
     private boolean showNetworkGrid = false;
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
+
     private Greenhouse greenhouse;
     private Map<String, Boolean> greenhouseBoosts;
     private final Set<String> unlockedPlants = new HashSet<>();
@@ -237,10 +230,7 @@ public class User implements Serializable, PlayerProfile {
     public int getDifficultyLevel() { return difficultyLevel; }
     public void setDifficultyLevel(int difficultyLevel) { this.difficultyLevel = difficultyLevel; }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
+
     public float getGameSpeed() { return gameSpeed; }
     public void setGameSpeed(float gameSpeed) { this.gameSpeed = gameSpeed; }
 
@@ -253,11 +243,7 @@ public class User implements Serializable, PlayerProfile {
     public boolean isShowNetworkGrid() { return showNetworkGrid; }
     public void setShowNetworkGrid(boolean showNetworkGrid) { this.showNetworkGrid = showNetworkGrid; }
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
+
     public int getGamesPlayed() { return gamesPlayed; }
     public void incrementGamesPlayed() { gamesPlayed++; }
 

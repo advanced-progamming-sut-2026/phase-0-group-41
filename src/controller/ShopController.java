@@ -21,10 +21,6 @@ public class ShopController {
         }
         return success;
     }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
     /** پیشنهاد روزانه را در صورت نیاز تازه‌سازی می‌کند (طبق تاریخ روز جاری). */
     public void refreshDailyOffer(User user) {
@@ -45,9 +41,4 @@ public class ShopController {
         userManager.save();
         return "SUCCESS";
     }
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 }
