@@ -17,34 +17,62 @@ public class IZombieSession extends MiniGameSession {
     }
 
     private static final int RED_LINE_COL = 5; // زامبی‌ها فقط در ستون ۵ به بعد (سمت راست) کاشته می‌شوند
-    private static final int CHEAPEST_ZOMBIE_COST = 50; // حداقل خورشید لازم (مثلا برای Imp)
 
     private final boolean[] brainsEaten = new boolean[Board.ROWS];
     private boolean isGameWon = false;
     private boolean isGameLost = false;
+    private final int cheapestZombieCost;
 
     // لیستی برای گزارش رخدادها به کنترلر هنگام رد شدن زمان
     private final List<String> recentEvents = new ArrayList<>();
 
     public IZombieSession(User user) {
-        super(user, 1);
-        getSunManager().addSun(100); // 100 + 50 (پایه) = 150 خورشید طبق داک
-        setupCardboardPlants();
+        this(user, 1);
+    }
+
+    public IZombieSession(User user, int level) {
+        super(user, 1, level);
+
+        int startingSun;
+        int plantDensityPercent; // چقدر از خانه‌های سمت چپ گیاه دارند (سختی بیشتر = گیاهان مدافع بیشتر)
+        switch (getLevel()) {
+            case 2:
+                startingSun = 130;
+                plantDensityPercent = 70;
+                cheapestZombieCost = 50;
+                break;
+            case 3:
+                startingSun = 110;
+                plantDensityPercent = 90;
+                cheapestZombieCost = 50;
+                break;
+            default:
+                startingSun = 150;
+                plantDensityPercent = 50;
+                cheapestZombieCost = 50;
+                break;
+        }
+        getSunManager().addSun(startingSun);
+        setupCardboardPlants(plantDensityPercent);
         setupSunProducerZombies();
     }
 
-    private void setupCardboardPlants() {
+    private void setupCardboardPlants(int densityPercent) {
         Random rand = new Random();
         // چیدن تصادفی گیاهان در نیمه چپ زمین
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 1; c < RED_LINE_COL; c++) {
                 int chance = rand.nextInt(100);
-                if (chance < 30) {
+                if (chance >= densityPercent) {
+                    continue; // این خانه خالی می‌ماند
+                }
+                int subChance = rand.nextInt(100);
+                if (subChance < 30) {
                     // آفتابگردان‌ها منبع اصلی درآمد شما هستند (با خورده شدنشان خورشید می‌گیرید)
                     getBoard().getTile(r, c).setPlant(PlantFactory.create("sunflower"));
-                } else if (chance < 60) {
+                } else if (subChance < 60) {
                     getBoard().getTile(r, c).setPlant(PlantFactory.create("peashooter"));
-                } else if (chance < 80) {
+                } else if (subChance < 80) {
                     getBoard().getTile(r, c).setPlant(PlantFactory.create("squash"));
                 }
             }
@@ -76,7 +104,7 @@ public class IZombieSession extends MiniGameSession {
 
     @Override
     protected void customMiniGameTick() {
-        if (isGameWon || isGameLost) return;
+        if (isGameOver() || isGameWon || isGameLost) return;
 
         getFallingSuns().clear(); // بدون بارش خورشید از آسمان
 
@@ -102,12 +130,15 @@ public class IZombieSession extends MiniGameSession {
         if (allEaten) {
             isGameWon = true;
             recentEvents.add("شما تمام مغزهای باغچه را خوردید! برنده شدید!");
+            endGame(true);
+            return;
         }
 
         // ۳. بررسی شرط باخت (زامبی زنده‌ای نمانده و خورشید هم کافی نیست)
-        if (!isGameWon && getAliveZombies().isEmpty() && getSunManager().getCurrentSun() < CHEAPEST_ZOMBIE_COST) {
+        if (getAliveZombies().isEmpty() && getSunManager().getCurrentSun() < cheapestZombieCost) {
             isGameLost = true;
             recentEvents.add("شما خورشید کافی برای تولید زامبی جدید ندارید و تمام زامبی‌هایتان از بین رفتند. باختید!");
+            endGame(false);
         }
     }
 

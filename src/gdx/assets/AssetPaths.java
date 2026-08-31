@@ -5,6 +5,12 @@ import java.util.Map;
 
 /**
  * تمام مسیرهای فایل‌های گرافیکی (Assets) در این کلاس نگه‌داری می‌شوند.
+ * دو نوع مسیر پشتیبانی می‌شود:
+ *   ۱) مسیر ساده‌ی یک فایل PNG نسبت به پوشه‌ی assets/، مثل "ui/card_bg.png"
+ *   ۲) مسیر یک ناحیه (Region) داخل یک TextureAtlas رسمی بازی، با فرمت
+ *      "atlas:ATLAS_NAME:REGION_NAME" که توسط ImageUtils.loadRegion خوانده می‌شود.
+ *      فایل‌های اتلس در assets/atlases/ATLAS_NAME.atlas (+ .PNG) قرار دارند.
+ *
  * منابع گرافیکی این پروژه از دامپ رسمی اسپرایت‌های Plants vs. Zombies 2 استخراج شده‌اند.
  */
 public final class AssetPaths {
@@ -38,7 +44,10 @@ public final class AssetPaths {
     public static final String BG_LEVEL_SELECT = atlas("DELAYLOAD_BACKGROUND_FRONTLAWN", "IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE");
     public static final String BG_COLLECTION = atlas("DELAYLOAD_BACKGROUND_FRONTLAWN", "IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE");
 
+    // لوگوی رسمی هنوز آپلود نشده.
     public static final String LOGO_PVZ2 = "";
+
+    // پس‌زمینه‌ی عمومی کارت‌ها (گیاه/آیتم) در فروشگاه و انتخاب گیاه
     public static final String CARD_BACKGROUND = "ui/card_bg.png";
 
     // ==================== آیکون‌های نوار بالا (HUD) ====================
@@ -53,26 +62,33 @@ public final class AssetPaths {
     public static final String ICON_SUN = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");
     public static final String ICON_PLANT_FOOD = atlas("UI_ALWAYSLOADED", "IMAGE_UI_HUD_INGAME_PLANTFOOD_BUTTON");
 
-    // ==================== صحنه‌ی اصلی گیم‌پلی ====================
+    // ==================== صحنه‌ی اصلی گیم‌پلی (Game Screen) ====================
     public static final String BG_LAWN_NORMAL = atlas("DELAYLOAD_BACKGROUND_FRONTLAWN", "IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE");
     public static final String BG_LAWN_ANCIENT_EGYPT = atlas("DELAYLOAD_BACKGROUND_EGYPT_COMPRESSED", "IMAGE_BACKGROUNDS_EGYPT_TEXTURE");
     public static final String BG_LAWN_FROSTBITE_CAVES = atlas("DELAYLOAD_BACKGROUND_ICEAGE_COMPRESSED", "IMAGE_BACKGROUNDS_ICEAGE_TEXTURE");
     public static final String BG_LAWN_BIG_WAVE_BEACH = atlas("DELAYLOAD_BACKGROUND_BEACH_COMPRESSED", "IMAGE_BACKGROUNDS_BEACH_TEXTURE");
     public static final String BG_LAWN_DARK_AGES = atlas("DELAYLOAD_BACKGROUND_DARK_COMPRESSED", "IMAGE_BACKGROUNDS_DARK_TEXTURE");
 
+    // خورشید سقوط‌کننده (طیف رنگی SPECIAL/RADIOACTIVE با تینت رنگی روی همان اسپرایت اعمال می‌شود؛
+    // چون در منابع استخراج‌شده نسخه‌ی رنگ جداگانه‌ای برای آن‌ها پیدا نشد)
     public static final String SUN_NORMAL = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");
     public static final String SUN_SPECIAL = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");
     public static final String SUN_RADIOACTIVE = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");
 
+    // سکه، گلدان (پات) و الماس که از زامبی‌ها می‌افتند
     public static final String DROP_COIN = atlas("UI_ALWAYSLOADED", "IMAGE_UI_COINS_STACK_1");
     public static final String DROP_GREENHOUSE_POT = "";
     public static final String DROP_DIAMOND = atlas("UI_ALWAYSLOADED", "IMAGE_UI_GEMS_STACK_3");
 
+    // قبرها (Graves) - سه نوع مختلف (منبع موجود فقط یک شکل پایه‌ی «Dark Ages» دارد؛
+    // سه سایز نزدیک به هم برای تمایز نسبی سه نوع استفاده شده)
     public static final String GRAVE_TYPE_1 = atlas("TOMBSTONE_DARK_BASE", "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X160");
     public static final String GRAVE_TYPE_2 = atlas("TOMBSTONE_DARK_BASE", "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X160_2");
     public static final String GRAVE_TYPE_3 = atlas("TOMBSTONE_DARK_BASE", "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X156");
+    // خانه‌ی نکرومنسی (زمینه‌ی مشخص که زیرش زامبی بیرون می‌آید)
     public static final String NECROMANCY_TILE_MARKER = "";
 
+    // چمن‌زن (Lawn Mower) - حالت آماده و حالت درحال حرکت/استفاده‌شده، به تفکیک فصل
     public static final String LAWN_MOWER_IDLE_NORMAL = atlas("FRONTLAWNMOWERGROUP", "IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_114X67");
     public static final String LAWN_MOWER_USED_NORMAL = atlas("FRONTLAWNMOWERGROUP", "IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_67X52");
     public static final String LAWN_MOWER_IDLE_EGYPT = atlas("EGYPTMOWERGROUP", "IMAGE_MOWERS_MOWER_EGYPT_MOWER_EGYPT_76X120");
@@ -83,10 +99,11 @@ public final class AssetPaths {
     public static final String LAWN_MOWER_USED_BEACH = atlas("BEACHMOWERGROUP", "IMAGE_MOWERS_MOWER_BEACH_MOWER_BEACH_206X83");
     public static final String LAWN_MOWER_IDLE_DARK = atlas("DARKMOWERGROUP", "IMAGE_MOWERS_MOWER_DARK_MOWER_DARK_130X103");
     public static final String LAWN_MOWER_USED_DARK = atlas("DARKMOWERGROUP", "IMAGE_MOWERS_MOWER_DARK_MOWER_DARK_101X53");
-
+    // پیش‌فرض (وقتی فصل نامشخص است): چمن‌زن فصل معمولی
     public static final String LAWN_MOWER_IDLE = LAWN_MOWER_IDLE_NORMAL;
     public static final String LAWN_MOWER_USED = LAWN_MOWER_USED_NORMAL;
 
+    // دکمه‌ها و آیکون‌های صفحه‌ی گیم‌پلی
     public static final String ICON_PAUSE_BUTTON = "";
     public static final String ICON_FAST_FORWARD = "";
     public static final String ICON_PLANT_FOOD_LEAF = atlas("UI_ALWAYSLOADED", "IMAGE_UI_HUD_INGAME_PLANTFOOD_BUTTON");
@@ -96,8 +113,13 @@ public final class AssetPaths {
     public static final String ZOMBIE_PROGRESS_BAR_BG = "";
     public static final String ZOMBIE_PROGRESS_BAR_FILL = "";
     public static final String ZOMBIE_PROGRESS_BAR_ICON = "";
+
     public static final String PLANT_FOOD_COUNTER_BG = atlas("UI_ALWAYSLOADED", "IMAGE_UI_HUD_INGAME_PLANTFOOD_BANK");
 
+    // انواع پرتابه (برای رسم پرتابه‌های عادی/آتشین/یخی در GameScreen).
+    // در منابع استخراج‌شده، ناحیه‌ی مجزا و صریحاً نام‌گذاری‌شده برای «دانه‌ی نخود در حال پرواز»
+    // پیدا نشد (فقط فریم‌های انیمیشن خود گیاه موجود است)؛ فعلاً خالی مانده تا با Placeholder
+    // رنگی جایگزین شود و بعداً با یک اسپرایت مشخص از سوی شما جایگزین گردد.
     public static final String PROJECTILE_NORMAL = "";
     public static final String PROJECTILE_FIRE = "";
     public static final String PROJECTILE_ICE = "";
@@ -109,7 +131,8 @@ public final class AssetPaths {
     public static final String BTN_PLAY_DOWN = "";
     public static final String BTN_CLOSE = "";
 
-    // ==================== گیاهان ====================
+    // ==================== گیاهان (کارت‌ها/آیکون بسته بذر) ====================
+    // نگاشت: نام داخلی گیاه (خروجی Plant.getName()) -> ناحیه‌ی مربوطه در اتلس گیاه واقعی بازی
     private static final Map<String, String> PLANT_ATLAS = new HashMap<>();
     private static final Map<String, String> PLANT_REGION = new HashMap<>();
     private static final Map<String, String> PLANT_SEED_REGION = new HashMap<>();
@@ -305,17 +328,23 @@ public final class AssetPaths {
         PLANT_SEED_REGION.put("wintermelon", "IMAGE_UI_PACKETS_WINTERMELON");
     }
 
+    // گیاهانی که هنوز اسپرایت رسمی برایشان پیدا نشده (منتظر ارسال منبع تکمیلی)
+    private static final java.util.Set<String> PLANTS_WITHOUT_ASSET = new java.util.HashSet<>(java.util.Arrays.asList(
+        "cattail", "cattailmint", "goopeashooter", "iceberglettuce", "piercemint", "rotobaga"
+    ));
+
     public static String plantIcon(String plantName) {
         if (plantName == null) return "";
         String key = plantName.toLowerCase();
         String atlas = PLANT_ATLAS.get(key);
         String region = PLANT_REGION.get(key);
         if (atlas == null || region == null) {
-            return "";
+            return ""; // Placeholder رنگی (طبق ImageUtils) - شامل گیاهانی مثل cattail, cattailmint, goopeashooter, iceberglettuce, piercemint, rotobaga
         }
         return atlas(atlas, region);
     }
 
+    /** آیکون بسته‌ی بذر (Seed Packet) مخصوص منوی انتخاب گیاه و فروشگاه؛ در نبود آن، از آیکون گیاه استفاده می‌شود. */
     public static String plantSeedPacket(String plantName) {
         if (plantName == null) return "";
         String key = plantName.toLowerCase();
@@ -385,13 +414,18 @@ public final class AssetPaths {
         ZOMBIE_REGION.put("wizard", "IMAGE_ZOMBIE_ZOMBIE_DARK_WIZARD_VETERAN_ZOMBIE_DARK_WIZARD_VETERAN_384X417");
     }
 
+    // زامبی‌هایی که هنوز اسپرایت رسمی برایشان پیدا نشده (منتظر ارسال منبع تکمیلی)
+    private static final java.util.Set<String> ZOMBIES_WITHOUT_ASSET = new java.util.HashSet<>(java.util.Arrays.asList(
+        "blockhead", "knight", "turquoise", "blockhead", "knight"
+    ));
+
     public static String zombieIcon(String zombieName) {
         if (zombieName == null) return "";
         String key = zombieName.toLowerCase();
         String atlas = ZOMBIE_ATLAS.get(key);
         String region = ZOMBIE_REGION.get(key);
         if (atlas == null || region == null) {
-            return "";
+            return ""; // Placeholder رنگی - شامل blockhead, knight, turquoise, blockhead, knight
         }
         return atlas(atlas, region);
     }

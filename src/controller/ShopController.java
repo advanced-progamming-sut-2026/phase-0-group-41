@@ -22,7 +22,6 @@ public class ShopController {
         return success;
     }
 
-
     /** پیشنهاد روزانه را در صورت نیاز تازه‌سازی می‌کند (طبق تاریخ روز جاری). */
     public void refreshDailyOffer(User user) {
         Shop.updateDailyOffer(user);
@@ -42,5 +41,4 @@ public class ShopController {
         userManager.save();
         return "SUCCESS";
     }
-
 }

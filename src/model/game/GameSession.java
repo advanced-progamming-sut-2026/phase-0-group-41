@@ -150,6 +150,21 @@ public class GameSession {
     public boolean isWon() {
         return won;
     }
+
+    /**
+     * راهی امن برای زیرکلاس‌ها (مثل مینی‌گیم‌ها) تا بازی را با نتیجه‌ی برد/باخت
+     * مشخص پایان دهند، بدون نیاز به شرط‌های عادی مرحله (رسیدن زامبی به خانه یا
+     * تمام شدن موج‌ها). بعد از فراخوانی این متد advanceOneTick دیگر کاری انجام
+     * نمی‌دهد چون gameOver بررسی می‌شود.
+     */
+    protected void endGame(boolean playerWon) {
+        if (gameOver) {
+            return; // یک بار کافی است
+        }
+        this.won = playerWon;
+        this.gameOver = true;
+    }
+
     public List<FallingSun> getFallingSuns() {
         return fallingSuns;
     }
@@ -292,8 +307,19 @@ public class GameSession {
             }
         }
 
-        checkWaveProgress();
-        checkGameOverConditions();
+        if (isWaveSystemEnabled()) {
+            checkWaveProgress();
+            checkGameOverConditions();
+        }
+    }
+
+    /**
+     * آیا سامانه‌ی موج/چمن‌زن/شرط باخت مرحله‌ی عادی برای این نشست فعال باشد؟
+     * مینی‌گیم‌ها (که شرط برد/باخت کاملاً متفاوتی دارند و نباید موج زامبی
+     * تصادفی مرحله‌ی عادی روی زمینشان اسپاون شود) این متد را false می‌کنند.
+     */
+    protected boolean isWaveSystemEnabled() {
+        return true;
     }
 
     public void advanceTicks(int count) {

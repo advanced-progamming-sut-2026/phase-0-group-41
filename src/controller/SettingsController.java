@@ -24,7 +24,6 @@ public class SettingsController {
         return "SUCCESS";
     }
 
-
     public String changeGameSettings(User user, float gameSpeed, boolean showHitboxes, boolean debugMode) {
         if (gameSpeed < 1f || gameSpeed > 3f) {
             return "ERR_INVALID_SPEED";
@@ -66,5 +65,4 @@ public class SettingsController {
 
         return "ERR_INVALID_CHEAT_TYPE";
     }
-
 }

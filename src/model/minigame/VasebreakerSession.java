@@ -57,18 +57,45 @@ public class VasebreakerSession extends MiniGameSession {
     private final List<DroppedSeedPacket> recentlyDecayedSeeds = new ArrayList<>();
     private final Random random = new Random();
 
+    // تعداد کوزه‌های شکسته‌نشده‌ی باقی‌مانده؛ وقتی صفر شود بازیکن برنده است
+    private int remainingVases = 0;
+
     public VasebreakerSession(User user) {
-        super(user, 1);
+        this(user, 1);
+    }
+
+    public VasebreakerSession(User user, int level) {
+        super(user, 1, level);
         initializeVases();
     }
 
     private void initializeVases() {
+        int level = getLevel();
+        // هرچه سطح بالاتر، کوزه‌ها ستون بیشتری از زمین را می‌پوشانند و احتمال
+        // کوزه‌ی بنفش (غول) بیشتر می‌شود؛ یعنی مرحله سخت‌تر می‌شود.
+        int startCol;
+        int purpleChance;
+        switch (level) {
+            case 2:
+                startCol = 3;
+                purpleChance = 8;
+                break;
+            case 3:
+                startCol = 2;
+                purpleChance = 12;
+                break;
+            default:
+                startCol = 4;
+                purpleChance = 5;
+                break;
+        }
         for (int r = 0; r < Board.ROWS; r++) {
-            for (int c = 4; c < Board.COLS; c++) {
+            for (int c = startCol; c < Board.COLS; c++) {
                 int chance = random.nextInt(100);
-                if (chance < 5) vases[r][c] = VaseType.PURPLE;
-                else if (chance < 25) vases[r][c] = VaseType.GREEN;
+                if (chance < purpleChance) vases[r][c] = VaseType.PURPLE;
+                else if (chance < purpleChance + 20) vases[r][c] = VaseType.GREEN;
                 else vases[r][c] = VaseType.NORMAL;
+                remainingVases++;
             }
         }
     }
@@ -83,6 +110,10 @@ public class VasebreakerSession extends MiniGameSession {
 
         VaseType type = vases[row][col];
         vases[row][col] = null; // کوزه شکسته شد
+        remainingVases--;
+        if (remainingVases <= 0) {
+            endGame(true);
+        }
 
         if (type == VaseType.GREEN) {
             String plant = getRandomPlant();
@@ -153,7 +184,16 @@ public class VasebreakerSession extends MiniGameSession {
 
     @Override
     protected void customMiniGameTick() {
+        if (isGameOver()) return;
         getFallingSuns().clear();
+
+        // شرط باخت: یک زامبی به انتهای چپ زمین برسد
+        for (Zombie z : getAliveZombies()) {
+            if (z.getXPosition() <= 0) {
+                endGame(false);
+                return;
+            }
+        }
 
         Iterator<DroppedSeedPacket> it = droppedSeeds.iterator();
         while (it.hasNext()) {

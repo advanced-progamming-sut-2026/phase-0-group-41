@@ -76,8 +76,13 @@ public class MainView {
                 menuController.setCurrentMenu(MenuType.PROFILE);
                 consoleView.printMessage("وارد منوی پروفایل شدید.");
                 return true;
+            case "minigames":
+            case "mini-games":
+                menuController.setCurrentMenu(MenuType.MINI_GAMES);
+                consoleView.printMessage("وارد منوی مینی‌گیم‌ها شدید.");
+                return true;
             default:
-                consoleView.printError("نام منو نامعتبر است. منوهای مجاز: play, settings, news, profile");
+                consoleView.printError("نام منو نامعتبر است. منوهای مجاز: play, settings, news, profile, minigames");
                 return true;
         }
     }
@@ -96,6 +101,7 @@ public class MainView {
         consoleView.printMessage("2. Profile");
         consoleView.printMessage("3. News" + newsNotification);
         consoleView.printMessage("4. Settings");
+        consoleView.printMessage("5. Mini Games");
         consoleView.printMessage("-----------------");
     }
 }

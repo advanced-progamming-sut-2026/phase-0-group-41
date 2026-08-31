@@ -1,4 +1,3 @@
-
 package gdx.screens;
 
 import com.badlogic.gdx.scenes.scene2d.ui.CheckBox;
