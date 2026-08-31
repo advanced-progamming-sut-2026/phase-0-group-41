@@ -5,10 +5,7 @@ import com.badlogic.gdx.files.FileHandle;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Texture;
-<<<<<<< HEAD
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
-=======
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
 import java.util.HashMap;
@@ -19,7 +16,6 @@ import java.util.Map;
  * اگر مسیر داده‌شده خالی باشد یا فایل وجود نداشته باشد،
  * به‌جای کرش کردن برنامه، یک بافت (Texture) رنگی جایگزین ساخته می‌شود
  * تا رابط گرافیکی قابل اجرا و تست باشد حتی پیش از اضافه‌شدن Asset های نهایی.
-<<<<<<< HEAD
  *
  * پشتیبانی از Atlas: علاوه بر مسیر ساده‌ی یک فایل PNG (مثل "ui/card_bg.png")،
  * می‌توان با فرمت ویژه‌ی "atlas:ATLAS_NAME:REGION_NAME" یک ناحیه (Region) مشخص
@@ -35,18 +31,10 @@ public final class ImageUtils {
     private static final Map<String, TextureAtlas> ATLAS_CACHE = new HashMap<>();
     private static Texture placeholderTexture;
     private static TextureRegion placeholderRegionCache;
-=======
- */
-public final class ImageUtils {
-
-    private static final Map<String, Texture> CACHE = new HashMap<>();
-    private static Texture placeholderTexture;
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
     private ImageUtils() {
     }
 
-<<<<<<< HEAD
     private static boolean isAtlasPath(String path) {
         return path != null && path.startsWith(ATLAS_PREFIX);
     }
@@ -116,20 +104,14 @@ public final class ImageUtils {
      * این متد؛ این متد در آن حالت کل بافت زیرین اتلس (تمام صفحه) را برمی‌گرداند که
      * برای رسم مستقیم مناسب نیست.
      */
-=======
-    /** بافت را از cache یا دیسک برمی‌گرداند؛ در نبود فایل، Placeholder رنگی می‌سازد. */
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     public static Texture load(String path) {
         if (path == null || path.isEmpty()) {
             return getPlaceholder();
         }
-<<<<<<< HEAD
         if (isAtlasPath(path)) {
             TextureRegion region = loadAtlasRegion(path);
             return region.getTexture();
         }
-=======
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         Texture cached = CACHE.get(path);
         if (cached != null) {
             return cached;
@@ -144,7 +126,6 @@ public final class ImageUtils {
         return texture;
     }
 
-<<<<<<< HEAD
     /**
      * روش صحیح و اصلی برای بارگذاری تصاویر در این پروژه. هم مسیر ساده‌ی یک PNG
      * تک و هم فرمت "atlas:ATLAS_NAME:REGION_NAME" را پشتیبانی می‌کند.
@@ -156,9 +137,6 @@ public final class ImageUtils {
         if (isAtlasPath(path)) {
             return loadAtlasRegion(path);
         }
-=======
-    public static TextureRegion loadRegion(String path) {
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         return new TextureRegion(load(path));
     }
 
@@ -177,7 +155,6 @@ public final class ImageUtils {
         return placeholderTexture;
     }
 
-<<<<<<< HEAD
     private static TextureRegion getPlaceholderRegion() {
         if (placeholderRegionCache == null) {
             placeholderRegionCache = new TextureRegion(getPlaceholder());
@@ -186,28 +163,19 @@ public final class ImageUtils {
     }
 
     /** آزادسازی تمام بافت‌ها و اتلس‌های بارگذاری‌شده؛ در dispose() کلاس اصلی بازی صدا زده شود. */
-=======
-    /** آزادسازی تمام بافت‌های بارگذاری‌شده؛ در dispose() کلاس اصلی بازی صدا زده شود. */
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     public static void disposeAll() {
         for (Texture t : CACHE.values()) {
             t.dispose();
         }
         CACHE.clear();
-<<<<<<< HEAD
         for (TextureAtlas a : ATLAS_CACHE.values()) {
             a.dispose();
         }
         ATLAS_CACHE.clear();
-=======
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         if (placeholderTexture != null) {
             placeholderTexture.dispose();
             placeholderTexture = null;
         }
-<<<<<<< HEAD
         placeholderRegionCache = null;
-=======
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     }
 }

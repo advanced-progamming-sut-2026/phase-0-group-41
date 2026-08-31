@@ -101,11 +101,7 @@ public class PlantSelectionScreen extends BaseMenuScreen {
     }
 
     private Stack buildPlantCell(String plantName, boolean isFromUnlockedList) {
-<<<<<<< HEAD
         Image icon = new Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(plantName)));
-=======
-        Image icon = new Image(ImageUtils.loadRegion(AssetPaths.plantIcon(plantName)));
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         Label label = new Label(plantName, skin);
         label.setFontScale(0.6f);
 
@@ -153,10 +149,6 @@ public class PlantSelectionScreen extends BaseMenuScreen {
             showError("Select at least one plant.");
             return;
         }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         User user = game.getLoggedInUser();
         // TODO: chapter/level باید از یک صفحه انتخاب فصل/مرحله (Chapter/Level Select) بیاید؛
         // فعلاً طبق منطق enterChapter (فصل جاری کاربر) استفاده می‌شود تا جریان کامل باشد.
@@ -167,14 +159,6 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         // فعلاً یک لیست نمونه پاس داده می‌شود تا صفحه‌ی "آغاز مرحله" قابل تست باشد.
         java.util.List<String> objectives = java.util.Collections.emptyList();
         game.setScreen(new LevelObjectivesScreen(game, chapter, level, objectives));
-<<<<<<< HEAD
-=======
-=======
-        // TODO: once the graphical gameplay screen exists, get the chosen chapter/level from a
-        // "Chapter/Level Select" screen here and transition to the gameplay Screen.
-        showError("The graphical gameplay screen is not implemented yet (planned for a later step).");
->>>>>>> 68d6cdba585587d383ae1535892381be1eff1432
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     }
 
     @Override

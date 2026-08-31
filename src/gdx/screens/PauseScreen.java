@@ -5,17 +5,11 @@ import com.badlogic.gdx.scenes.scene2d.ui.CheckBox;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.Slider;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
-<<<<<<< HEAD
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
 import gdx.util.SoundManager;
-=======
-
-import gdx.PvZGame;
-import gdx.assets.AssetPaths;
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
 
 /**
  * منوی توقف بازی. طبق سند: کاربر باید بتواند با کلیک یا فشردن یک دکمه/کلید
@@ -42,7 +36,6 @@ public class PauseScreen extends BaseMenuScreen {
         Table form = new Table();
 
         Slider musicSlider = new Slider(0f, 1f, 0.05f, false, skin);
-<<<<<<< HEAD
         musicSlider.setValue(SoundManager.getMusicVolume());
         musicSlider.addListener(new ChangeListener() {
             @Override
@@ -50,14 +43,10 @@ public class PauseScreen extends BaseMenuScreen {
                 SoundManager.setMusicVolume(musicSlider.getValue());
             }
         });
-=======
-        musicSlider.setValue(1f);
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         form.add(new Label("Music:", skin)).right().padRight(10f).padBottom(10f);
         form.add(musicSlider).width(220f).padBottom(10f).row();
 
         Slider sfxSlider = new Slider(0f, 1f, 0.05f, false, skin);
-<<<<<<< HEAD
         sfxSlider.setValue(SoundManager.getSoundVolume());
         sfxSlider.addListener(new ChangeListener() {
             @Override
@@ -65,9 +54,6 @@ public class PauseScreen extends BaseMenuScreen {
                 SoundManager.setSoundVolume(sfxSlider.getValue());
             }
         });
-=======
-        sfxSlider.setValue(1f);
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
         form.add(new Label("Sound FX:", skin)).right().padRight(10f).padBottom(10f);
         form.add(sfxSlider).width(220f).padBottom(10f).row();
 

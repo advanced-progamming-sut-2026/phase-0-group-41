@@ -35,15 +35,7 @@ public class LevelObjectivesScreen extends BaseMenuScreen {
         }
         rootTable.add(list).width(600f).padBottom(24f).row();
 
-<<<<<<< HEAD
         addButton(rootTable, "Continue", () -> game.goToGameScreen(chapter, level, 10));
-=======
-        addButton(rootTable, "Continue", () -> {
-            // TODO: وقتی GameScreen گرافیکی ساخته شد، اینجا باید به آن screen سوییچ شود
-            // (به‌جای Start Game که فعلاً کاربر را به همین‌جا آورده است).
-            game.goToPlantSelection();
-        });
->>>>>>> 5d404d1a02ab01c27673ae3e6350a8f1f059068a
     }
 
     @Override
