@@ -1,0 +1,12 @@
+UI_MAINMENULOGO_768_00.PNG
+size: 512, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_MAINMENU_PVZ2_LOGO_HORIZONTAL
+  rotate: false
+  xy: 1, 1
+  size: 402, 68
+  orig: 402, 68
+  offset: 0, 0
+  index: -1

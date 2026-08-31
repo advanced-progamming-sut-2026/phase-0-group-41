@@ -1,0 +1,551 @@
+ZOMBIEBOBSLEDTEAMGROUP_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_134X120
+  rotate: false
+  xy: 918, 171
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_148X101
+  rotate: false
+  xy: 860, 549
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_153X130
+  rotate: false
+  xy: 918, 1
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_1X1
+  rotate: false
+  xy: 1018, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_258X233
+  rotate: false
+  xy: 365, 259
+  size: 165, 149
+  orig: 165, 149
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_ZOMBIE_BOBSLED_TEAM_DAMAGE_FX_293X263
+  rotate: false
+  xy: 728, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_117X47
+  rotate: false
+  xy: 860, 616
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_11X15
+  rotate: false
+  xy: 1006, 205
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_131X78
+  rotate: false
+  xy: 372, 583
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_132X78
+  rotate: false
+  xy: 187, 583
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_134X120
+  rotate: false
+  xy: 918, 250
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_135X8
+  rotate: false
+  xy: 1, 487
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_136X78
+  rotate: false
+  xy: 98, 583
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_143X40
+  rotate: false
+  xy: 741, 507
+  size: 92, 26
+  orig: 92, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_148X101
+  rotate: false
+  xy: 1, 583
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_149X69
+  rotate: false
+  xy: 274, 583
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_153X130
+  rotate: false
+  xy: 918, 86
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_167X45
+  rotate: false
+  xy: 622, 583
+  size: 107, 29
+  orig: 107, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_16X34
+  rotate: false
+  xy: 429, 223
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_17X38
+  rotate: false
+  xy: 1011, 642
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_17X52
+  rotate: false
+  xy: 1008, 469
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_180X139
+  rotate: false
+  xy: 505, 495
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_183X115
+  rotate: false
+  xy: 622, 507
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_183X115_2
+  rotate: false
+  xy: 741, 549
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_18X42
+  rotate: false
+  xy: 937, 616
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_194X194
+  rotate: false
+  xy: 843, 343
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_19X44
+  rotate: false
+  xy: 1011, 612
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_19X50
+  rotate: false
+  xy: 1006, 171
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_1X1
+  rotate: false
+  xy: 1021, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_1X1_2
+  rotate: false
+  xy: 1018, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_200X50
+  rotate: false
+  xy: 458, 586
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_203X26
+  rotate: false
+  xy: 98, 635
+  size: 130, 17
+  orig: 130, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_203X26_2
+  rotate: false
+  xy: 230, 635
+  size: 130, 17
+  orig: 130, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_203X26_3
+  rotate: false
+  xy: 362, 635
+  size: 130, 17
+  orig: 130, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_20X44
+  rotate: false
+  xy: 1008, 505
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_222X253
+  rotate: false
+  xy: 699, 343
+  size: 142, 162
+  orig: 142, 162
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_240X130
+  rotate: false
+  xy: 505, 410
+  size: 154, 83
+  orig: 154, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_255X122
+  rotate: false
+  xy: 843, 469
+  size: 163, 78
+  orig: 163, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_258X233
+  rotate: false
+  xy: 532, 259
+  size: 165, 149
+  orig: 165, 149
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_27X39
+  rotate: false
+  xy: 1006, 253
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_27X43
+  rotate: false
+  xy: 1006, 223
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_28X38
+  rotate: false
+  xy: 1006, 280
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_293X263
+  rotate: false
+  xy: 728, 172
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_31X31
+  rotate: false
+  xy: 86, 654
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_32X48
+  rotate: false
+  xy: 927, 648
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_390X142
+  rotate: false
+  xy: 1, 394
+  size: 250, 91
+  orig: 250, 91
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_390X142_2
+  rotate: false
+  xy: 253, 410
+  size: 250, 91
+  orig: 250, 91
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_391X121
+  rotate: false
+  xy: 1, 503
+  size: 250, 78
+  orig: 250, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_391X121_2
+  rotate: false
+  xy: 253, 503
+  size: 250, 78
+  orig: 250, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_39X32
+  rotate: false
+  xy: 699, 320
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_39X35
+  rotate: false
+  xy: 59, 650
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_39X43
+  rotate: false
+  xy: 699, 290
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_39X45
+  rotate: false
+  xy: 699, 259
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_444X399
+  rotate: false
+  xy: 442, 1
+  size: 284, 256
+  orig: 284, 256
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_46X32
+  rotate: false
+  xy: 588, 586
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_47X35
+  rotate: false
+  xy: 661, 460
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_47X74
+  rotate: false
+  xy: 661, 410
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_49X24
+  rotate: false
+  xy: 806, 625
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_52X31
+  rotate: false
+  xy: 661, 485
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_566X263
+  rotate: false
+  xy: 1, 223
+  size: 362, 169
+  orig: 362, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_56X20
+  rotate: false
+  xy: 253, 394
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_59X67
+  rotate: false
+  xy: 541, 620
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_66X90
+  rotate: false
+  xy: 588, 614
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_686X344
+  rotate: false
+  xy: 1, 1
+  size: 439, 220
+  orig: 439, 220
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_6X6
+  rotate: false
+  xy: 1018, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_70X103
+  rotate: false
+  xy: 969, 401
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_70X71
+  rotate: false
+  xy: 494, 620
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_76X109
+  rotate: false
+  xy: 969, 329
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_79X69
+  rotate: false
+  xy: 687, 614
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_7X7
+  rotate: false
+  xy: 1018, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_81X83
+  rotate: false
+  xy: 957, 612
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_82X50
+  rotate: false
+  xy: 872, 648
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_82X69
+  rotate: false
+  xy: 632, 614
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_87X45
+  rotate: false
+  xy: 1, 650
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_93X95
+  rotate: false
+  xy: 957, 549
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_96X52
+  rotate: false
+  xy: 365, 223
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_99X44
+  rotate: false
+  xy: 806, 648
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_TEAM_ZOMBIE_BOBSLED_TEAM_99X45
+  rotate: false
+  xy: 740, 625
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1

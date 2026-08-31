@@ -1,0 +1,40 @@
+CREDITS_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_CREDITS_SPACE_DEBRIS_CLOCK
+  rotate: false
+  xy: 1, 1
+  size: 150, 169
+  orig: 150, 169
+  offset: 0, 0
+  index: -1
+IMAGE_CREDITS_SPACE_DEBRIS_HEAD_01
+  rotate: false
+  xy: 1, 172
+  size: 150, 136
+  orig: 150, 136
+  offset: 0, 0
+  index: -1
+IMAGE_CREDITS_SPACE_DEBRIS_HEAD_02
+  rotate: false
+  xy: 153, 1
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1
+IMAGE_CREDITS_SPACE_DEBRIS_HOURGLASS
+  rotate: false
+  xy: 305, 161
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
+IMAGE_CREDITS_SPACE_DEBRIS_PYRAMID
+  rotate: false
+  xy: 305, 1
+  size: 150, 158
+  orig: 150, 158
+  offset: 0, 0
+  index: -1

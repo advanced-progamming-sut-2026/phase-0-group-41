@@ -1,0 +1,82 @@
+EFFECTSJALAPENO_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_158X59
+  rotate: false
+  xy: 1, 71
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_160X38
+  rotate: false
+  xy: 1, 111
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_1X1
+  rotate: false
+  xy: 124, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_33X183
+  rotate: false
+  xy: 106, 66
+  size: 21, 117
+  orig: 21, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_34X52
+  rotate: false
+  xy: 47, 175
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_38X55
+  rotate: false
+  xy: 47, 138
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_40X49
+  rotate: false
+  xy: 74, 138
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_40X49_2
+  rotate: false
+  xy: 74, 172
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_69X72
+  rotate: false
+  xy: 1, 138
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_87X98
+  rotate: false
+  xy: 66, 1
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JALAPENO_FIRE_JALAPENO_FIRE_98X106
+  rotate: false
+  xy: 1, 1
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1

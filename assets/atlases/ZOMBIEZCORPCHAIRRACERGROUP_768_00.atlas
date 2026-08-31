@@ -1,0 +1,628 @@
+ZOMBIEZCORPCHAIRRACERGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_110X102
+  rotate: false
+  xy: 395, 243
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_115X7
+  rotate: false
+  xy: 30, 441
+  size: 74, 5
+  orig: 74, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_132X119
+  rotate: false
+  xy: 117, 185
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_13X37
+  rotate: false
+  xy: 503, 310
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_147X160
+  rotate: false
+  xy: 395, 138
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_149X210
+  rotate: false
+  xy: 395, 1
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_14X15
+  rotate: false
+  xy: 491, 230
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_14X15_2
+  rotate: false
+  xy: 502, 230
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_15X35
+  rotate: false
+  xy: 191, 289
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_15X37
+  rotate: false
+  xy: 191, 263
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_16X13
+  rotate: false
+  xy: 191, 314
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_177X119
+  rotate: false
+  xy: 1, 185
+  size: 114, 76
+  orig: 114, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_1X1
+  rotate: false
+  xy: 509, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_20X27
+  rotate: false
+  xy: 444, 435
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_21X20
+  rotate: false
+  xy: 18, 448
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_21X37
+  rotate: false
+  xy: 143, 446
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_21X51
+  rotate: false
+  xy: 405, 424
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_21X53
+  rotate: false
+  xy: 369, 412
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_21X53_2
+  rotate: false
+  xy: 460, 421
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_22X23
+  rotate: false
+  xy: 296, 447
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_22X24
+  rotate: false
+  xy: 246, 447
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_22X52
+  rotate: false
+  xy: 476, 421
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_22X55
+  rotate: false
+  xy: 493, 42
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_23X23
+  rotate: false
+  xy: 178, 446
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_23X23_2
+  rotate: false
+  xy: 1, 447
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_24X61
+  rotate: false
+  xy: 493, 1
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_26X23
+  rotate: false
+  xy: 159, 446
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_26X38
+  rotate: false
+  xy: 205, 429
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_27X41
+  rotate: false
+  xy: 492, 421
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_27X41_2
+  rotate: false
+  xy: 385, 424
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_27X42
+  rotate: false
+  xy: 493, 79
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_27X42_2
+  rotate: false
+  xy: 493, 108
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_28X33
+  rotate: false
+  xy: 93, 385
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_293X263
+  rotate: false
+  xy: 205, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_293X263_2
+  rotate: false
+  xy: 205, 172
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_30X37
+  rotate: false
+  xy: 275, 425
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_315X284
+  rotate: false
+  xy: 1, 1
+  size: 202, 182
+  orig: 202, 182
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_31X32
+  rotate: false
+  xy: 224, 429
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_31X41
+  rotate: false
+  xy: 491, 202
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_31X46
+  rotate: false
+  xy: 491, 138
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_31X46_2
+  rotate: false
+  xy: 491, 170
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_32X26
+  rotate: false
+  xy: 421, 435
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_36X28
+  rotate: false
+  xy: 118, 430
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_36X31
+  rotate: false
+  xy: 250, 425
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_36X39
+  rotate: false
+  xy: 155, 419
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_36X39_2
+  rotate: false
+  xy: 180, 419
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_36X45
+  rotate: false
+  xy: 93, 410
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_37X46
+  rotate: false
+  xy: 434, 403
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_39X52
+  rotate: false
+  xy: 305, 395
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_42X21
+  rotate: false
+  xy: 172, 327
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_42X22
+  rotate: false
+  xy: 1, 431
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_42X22_2
+  rotate: false
+  xy: 296, 431
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_42X22_3
+  rotate: false
+  xy: 325, 432
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_52X31
+  rotate: false
+  xy: 1, 409
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_53X78
+  rotate: false
+  xy: 273, 343
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_53X78_2
+  rotate: false
+  xy: 309, 343
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_54X28
+  rotate: false
+  xy: 118, 410
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_54X28_2
+  rotate: false
+  xy: 332, 412
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_55X68
+  rotate: false
+  xy: 433, 357
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_57X31
+  rotate: false
+  xy: 211, 407
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_57X67
+  rotate: false
+  xy: 394, 357
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_60X72
+  rotate: false
+  xy: 172, 343
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_61X37
+  rotate: false
+  xy: 470, 395
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_63X56
+  rotate: false
+  xy: 470, 357
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_63X76
+  rotate: false
+  xy: 468, 243
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_64X29
+  rotate: false
+  xy: 391, 403
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_65X50
+  rotate: false
+  xy: 49, 385
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_66X22
+  rotate: false
+  xy: 468, 294
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_66X22_2
+  rotate: false
+  xy: 37, 419
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_66X44
+  rotate: false
+  xy: 261, 395
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_69X48
+  rotate: false
+  xy: 345, 379
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_69X51
+  rotate: false
+  xy: 114, 375
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_6X19
+  rotate: false
+  xy: 503, 336
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_6X6
+  rotate: false
+  xy: 503, 350
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_70X71
+  rotate: false
+  xy: 125, 327
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_71X47
+  rotate: false
+  xy: 213, 375
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_71X62
+  rotate: false
+  xy: 66, 343
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_72X46
+  rotate: false
+  xy: 1, 377
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_73X52
+  rotate: false
+  xy: 345, 343
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_76X41
+  rotate: false
+  xy: 160, 391
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_79X69
+  rotate: false
+  xy: 450, 311
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_7X7
+  rotate: false
+  xy: 114, 343
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_82X69
+  rotate: false
+  xy: 395, 311
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_8X7
+  rotate: false
+  xy: 114, 350
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_91X47
+  rotate: false
+  xy: 213, 343
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_94X121
+  rotate: false
+  xy: 1, 263
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_94X121_2
+  rotate: false
+  xy: 63, 263
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_98X50
+  rotate: false
+  xy: 1, 343
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CHAIR_RACER_ZOMBIE_CHAIR_RACER_99X96
+  rotate: false
+  xy: 125, 263
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1

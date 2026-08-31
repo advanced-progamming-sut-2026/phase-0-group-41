@@ -1,0 +1,222 @@
+UI_JOUST_MATCHRESULT_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_MATCH_RESULTS_CROWN_COLLECT_ANIM_CROWN_COLLECT_ANIM_135X94
+  rotate: false
+  xy: 1768, 1
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_28X79
+  rotate: false
+  xy: 1996, 99
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_31X88
+  rotate: false
+  xy: 1879, 63
+  size: 20, 57
+  orig: 20, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_48X63
+  rotate: false
+  xy: 1808, 63
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_56X54
+  rotate: false
+  xy: 1841, 63
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_58X85
+  rotate: false
+  xy: 1916, 58
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_59X54
+  rotate: false
+  xy: 1768, 63
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_61X61
+  rotate: false
+  xy: 1996, 58
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_61X63
+  rotate: false
+  xy: 1955, 58
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_89X93
+  rotate: false
+  xy: 1857, 1
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_92X85
+  rotate: false
+  xy: 1916, 1
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_JOUST_SHIELD_JOUST_SHIELD_92X86
+  rotate: false
+  xy: 1977, 1
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_LTE_YOU_LOST_TEXT_LTE_YOU_LOST_TEXT_1432X249
+  rotate: false
+  xy: 1, 286
+  size: 917, 160
+  orig: 917, 160
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_LTE_YOU_LOST_TEXT_LTE_YOU_LOST_TEXT_686X256
+  rotate: false
+  xy: 1480, 613
+  size: 439, 164
+  orig: 439, 164
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_LTE_YOU_LOST_TEXT_LTE_YOU_LOST_TEXT_699X208
+  rotate: false
+  xy: 906, 928
+  size: 448, 133
+  orig: 448, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_LTE_YOU_LOST_TEXT_LTE_YOU_LOST_TEXT_723X203
+  rotate: false
+  xy: 1374, 919
+  size: 463, 130
+  orig: 463, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_LTE_YOU_LOST_TEXT_LTE_YOU_LOST_TEXT_755X254
+  rotate: false
+  xy: 1463, 448
+  size: 483, 163
+  orig: 483, 163
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_LTE_YOU_LOST_TEXT_LTE_YOU_LOST_TEXT_773X240
+  rotate: false
+  xy: 486, 606
+  size: 495, 154
+  orig: 495, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_LOST_TEXT_YOU_LOST_TEXT_1432X249
+  rotate: false
+  xy: 920, 286
+  size: 917, 160
+  orig: 917, 160
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_LOST_TEXT_YOU_LOST_TEXT_686X256
+  rotate: false
+  xy: 486, 762
+  size: 439, 164
+  orig: 439, 164
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_LOST_TEXT_YOU_LOST_TEXT_699X208
+  rotate: false
+  xy: 1356, 1051
+  size: 448, 133
+  orig: 448, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_LOST_TEXT_YOU_LOST_TEXT_723X203
+  rotate: false
+  xy: 441, 928
+  size: 463, 130
+  orig: 463, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_LOST_TEXT_YOU_LOST_TEXT_755X254
+  rotate: false
+  xy: 1, 604
+  size: 483, 163
+  orig: 483, 163
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_LOST_TEXT_YOU_LOST_TEXT_773X240
+  rotate: false
+  xy: 983, 613
+  size: 495, 154
+  orig: 495, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_WON_TEXT_YOU_WON_TEXT_1464X241
+  rotate: false
+  xy: 1, 448
+  size: 937, 154
+  orig: 937, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_WON_TEXT_YOU_WON_TEXT_1950X442
+  rotate: false
+  xy: 1, 1
+  size: 1248, 283
+  orig: 1248, 283
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_WON_TEXT_YOU_WON_TEXT_684X256
+  rotate: false
+  xy: 1, 769
+  size: 438, 164
+  orig: 438, 164
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_WON_TEXT_YOU_WON_TEXT_695X233
+  rotate: false
+  xy: 927, 769
+  size: 445, 149
+  orig: 445, 149
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_WON_TEXT_YOU_WON_TEXT_715X216
+  rotate: false
+  xy: 1374, 779
+  size: 458, 138
+  orig: 458, 138
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_WON_TEXT_YOU_WON_TEXT_805X249
+  rotate: false
+  xy: 1251, 1
+  size: 515, 160
+  orig: 515, 160
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_MATCH_RESULTS_YOU_WON_TEXT_YOU_WON_TEXT_814X243
+  rotate: false
+  xy: 940, 448
+  size: 521, 156
+  orig: 521, 156
+  offset: 0, 0
+  index: -1

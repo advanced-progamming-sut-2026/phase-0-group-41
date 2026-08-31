@@ -1,0 +1,453 @@
+PLANTDOOMSHROOM_768_01.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_103X79
+  rotate: false
+  xy: 880, 730
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_103X90
+  rotate: false
+  xy: 315, 730
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_106X88
+  rotate: false
+  xy: 388, 725
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_107X91
+  rotate: false
+  xy: 611, 602
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_108X75
+  rotate: false
+  xy: 948, 730
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_109X71
+  rotate: false
+  xy: 458, 734
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_111X97
+  rotate: false
+  xy: 315, 666
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_115X100
+  rotate: false
+  xy: 239, 666
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_116X112_2
+  rotate: false
+  xy: 81, 655
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_117X92
+  rotate: false
+  xy: 474, 673
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_122X111
+  rotate: false
+  xy: 1, 649
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_124X103
+  rotate: false
+  xy: 157, 655
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_124X64
+  rotate: false
+  xy: 194, 732
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_129X95
+  rotate: false
+  xy: 389, 662
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_131X111
+  rotate: false
+  xy: 913, 607
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_132X110
+  rotate: false
+  xy: 928, 444
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_132X115
+  rotate: false
+  xy: 930, 368
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_132X80
+  rotate: false
+  xy: 703, 716
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_137X74
+  rotate: false
+  xy: 790, 722
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_138X119
+  rotate: false
+  xy: 930, 290
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_138X70
+  rotate: false
+  xy: 103, 729
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_139X412
+  rotate: false
+  xy: 325, 1
+  size: 89, 264
+  orig: 89, 264
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_139X435
+  rotate: false
+  xy: 1, 1
+  size: 89, 279
+  orig: 89, 279
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_139X95
+  rotate: false
+  xy: 199, 201
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_140X86
+  rotate: false
+  xy: 611, 663
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_144X75
+  rotate: false
+  xy: 895, 680
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_146X280
+  rotate: false
+  xy: 916, 109
+  size: 94, 179
+  orig: 94, 179
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_146X70
+  rotate: false
+  xy: 551, 720
+  size: 94, 45
+  orig: 94, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_146X75
+  rotate: false
+  xy: 799, 672
+  size: 94, 48
+  orig: 94, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_146X80
+  rotate: false
+  xy: 703, 663
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_151X137
+  rotate: false
+  xy: 915, 517
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_156X66
+  rotate: false
+  xy: 1, 729
+  size: 100, 42
+  orig: 100, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_157X121
+  rotate: false
+  xy: 810, 592
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_163X301
+  rotate: false
+  xy: 92, 109
+  size: 105, 193
+  orig: 105, 193
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_165X108
+  rotate: false
+  xy: 503, 602
+  size: 106, 69
+  orig: 106, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_175X121
+  rotate: false
+  xy: 389, 582
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_176X315
+  rotate: false
+  xy: 416, 1
+  size: 113, 202
+  orig: 113, 202
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_183X128
+  rotate: false
+  xy: 270, 582
+  size: 117, 82
+  orig: 117, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_187X140
+  rotate: false
+  xy: 199, 109
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_191X108
+  rotate: false
+  xy: 686, 592
+  size: 122, 69
+  orig: 122, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_191X127
+  rotate: false
+  xy: 146, 571
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_223X120
+  rotate: false
+  xy: 541, 523
+  size: 143, 77
+  orig: 143, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_223X120_2
+  rotate: false
+  xy: 1, 570
+  size: 143, 77
+  orig: 143, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_239X142
+  rotate: false
+  xy: 227, 478
+  size: 153, 91
+  orig: 153, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_240X170
+  rotate: false
+  xy: 227, 367
+  size: 154, 109
+  orig: 154, 109
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_245X115
+  rotate: false
+  xy: 382, 506
+  size: 157, 74
+  orig: 157, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_251X153
+  rotate: false
+  xy: 383, 406
+  size: 161, 98
+  orig: 161, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_262X137
+  rotate: false
+  xy: 1, 480
+  size: 168, 88
+  orig: 168, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_263X164
+  rotate: false
+  xy: 580, 328
+  size: 169, 105
+  orig: 169, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_273X134
+  rotate: false
+  xy: 751, 429
+  size: 175, 86
+  orig: 175, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_273X134_2
+  rotate: false
+  xy: 546, 435
+  size: 175, 86
+  orig: 175, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_275X175
+  rotate: false
+  xy: 738, 214
+  size: 176, 112
+  orig: 176, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_276X155
+  rotate: false
+  xy: 751, 328
+  size: 177, 99
+  orig: 177, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_278X163
+  rotate: false
+  xy: 400, 299
+  size: 178, 105
+  orig: 178, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_288X187
+  rotate: false
+  xy: 531, 106
+  size: 185, 120
+  orig: 185, 120
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_297X113
+  rotate: false
+  xy: 723, 517
+  size: 190, 73
+  orig: 190, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_298X147
+  rotate: false
+  xy: 1, 304
+  size: 191, 94
+  orig: 191, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_305X161
+  rotate: false
+  xy: 718, 109
+  size: 195, 103
+  orig: 195, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_310X153
+  rotate: false
+  xy: 199, 267
+  size: 199, 98
+  orig: 199, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_328X166
+  rotate: false
+  xy: 753, 1
+  size: 210, 106
+  orig: 210, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_343X161
+  rotate: false
+  xy: 531, 1
+  size: 220, 103
+  orig: 220, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_349X122
+  rotate: false
+  xy: 1, 400
+  size: 224, 78
+  orig: 224, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_360X166
+  rotate: false
+  xy: 92, 1
+  size: 231, 106
+  orig: 231, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DOOMSHROOM_DOOMSHROOM_499X107
+  rotate: false
+  xy: 416, 228
+  size: 320, 69
+  orig: 320, 69
+  offset: 0, 0
+  index: -1

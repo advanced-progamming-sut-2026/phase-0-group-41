@@ -1,0 +1,439 @@
+PLANTTOADSTOOL_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TOADSTOOL_TONGUE_PROJECTILE_BASE_TOADSTOOL_TONGUE_PROJECTILE_BASE_395X24
+  rotate: false
+  xy: 1, 236
+  size: 253, 16
+  orig: 253, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOADSTOOL_TONGUE_PROJECTILE_TIP_TOADSTOOL_TONGUE_PROJECTILE_TIP_45X44
+  rotate: false
+  xy: 476, 47
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOADSTOOL_TONGUE_ROTATING_CONNECTOR_TOADSTOOL_TONGUE_ROTATING_CONNECTOR_49X34
+  rotate: false
+  xy: 1, 209
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_101X56
+  rotate: false
+  xy: 427, 261
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_107X113
+  rotate: false
+  xy: 306, 111
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_118X103
+  rotate: false
+  xy: 197, 117
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_119X168
+  rotate: false
+  xy: 306, 1
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_122X74
+  rotate: false
+  xy: 1, 159
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_123X107
+  rotate: false
+  xy: 1, 88
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_125X59
+  rotate: false
+  xy: 345, 261
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_127X178
+  rotate: false
+  xy: 222, 1
+  size: 82, 114
+  orig: 82, 114
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_127X70
+  rotate: false
+  xy: 1, 254
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_136X69
+  rotate: false
+  xy: 256, 237
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_136X76
+  rotate: false
+  xy: 197, 185
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_136X76_2
+  rotate: false
+  xy: 286, 186
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_136X76_3
+  rotate: false
+  xy: 375, 210
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_137X79
+  rotate: false
+  xy: 377, 157
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_140X129
+  rotate: false
+  xy: 384, 1
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_144X168
+  rotate: false
+  xy: 128, 1
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_158X107
+  rotate: false
+  xy: 384, 86
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_16X12
+  rotate: false
+  xy: 87, 225
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_16X12_2
+  rotate: false
+  xy: 99, 225
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_16X26
+  rotate: false
+  xy: 494, 278
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_16X26_2
+  rotate: false
+  xy: 267, 283
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_16X26_3
+  rotate: false
+  xy: 279, 283
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_195X133
+  rotate: false
+  xy: 1, 1
+  size: 125, 85
+  orig: 125, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_19X10
+  rotate: false
+  xy: 73, 225
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_19X19
+  rotate: false
+  xy: 307, 283
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_19X23
+  rotate: false
+  xy: 494, 261
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_20X17
+  rotate: false
+  xy: 238, 270
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_20X22
+  rotate: false
+  xy: 179, 218
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_20X22_2
+  rotate: false
+  xy: 238, 254
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_22X12
+  rotate: false
+  xy: 487, 147
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_22X18
+  rotate: false
+  xy: 291, 283
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_22X32
+  rotate: false
+  xy: 496, 201
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_22X33
+  rotate: false
+  xy: 57, 209
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_22X33_2
+  rotate: false
+  xy: 496, 224
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_23X33
+  rotate: false
+  xy: 177, 195
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_24X19
+  rotate: false
+  xy: 494, 247
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_28X23
+  rotate: false
+  xy: 275, 164
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_29X32
+  rotate: false
+  xy: 106, 88
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_30X21
+  rotate: false
+  xy: 345, 237
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_31X34
+  rotate: false
+  xy: 487, 123
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_31X34_2
+  rotate: false
+  xy: 35, 209
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_34X18
+  rotate: false
+  xy: 131, 221
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_34X19
+  rotate: false
+  xy: 155, 221
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_34X32
+  rotate: false
+  xy: 82, 88
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_34X32_2
+  rotate: false
+  xy: 487, 100
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_35X32
+  rotate: false
+  xy: 487, 77
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_42X40
+  rotate: false
+  xy: 238, 283
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_42X46
+  rotate: false
+  xy: 467, 201
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_42X46_2
+  rotate: false
+  xy: 209, 254
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_43X41
+  rotate: false
+  xy: 464, 233
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_44X70
+  rotate: false
+  xy: 275, 117
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_45X69
+  rotate: false
+  xy: 476, 1
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_61X66
+  rotate: false
+  xy: 467, 157
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_69X37
+  rotate: false
+  xy: 131, 195
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_73X175
+  rotate: false
+  xy: 82, 111
+  size: 47, 112
+  orig: 47, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_8X11
+  rotate: false
+  xy: 476, 77
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_93X89
+  rotate: false
+  xy: 147, 254
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_94X90
+  rotate: false
+  xy: 85, 254
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TOADSTOOL_TOADSTOOL_99X128
+  rotate: false
+  xy: 131, 111
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1

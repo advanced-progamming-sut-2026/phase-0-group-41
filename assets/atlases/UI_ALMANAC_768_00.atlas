@@ -1,0 +1,656 @@
+UI_ALMANAC_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_ALMANAC_ALMANAC_BOOST
+  rotate: false
+  xy: 668, 417
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_BOOST_LARGE
+  rotate: false
+  xy: 572, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PIERCE
+  rotate: false
+  xy: 744, 406
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PIERCE_LARGE
+  rotate: false
+  xy: 378, 1
+  size: 192, 195
+  orig: 192, 195
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_108X108
+  rotate: false
+  xy: 966, 269
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_117X105
+  rotate: false
+  xy: 352, 380
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_121X145
+  rotate: false
+  xy: 681, 342
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_30X29
+  rotate: false
+  xy: 700, 467
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_30X30
+  rotate: false
+  xy: 700, 484
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_33X35
+  rotate: false
+  xy: 375, 485
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_33X36
+  rotate: false
+  xy: 394, 485
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_41X38
+  rotate: false
+  xy: 352, 485
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_42X40
+  rotate: false
+  xy: 994, 480
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_44X40
+  rotate: false
+  xy: 994, 458
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_44X48
+  rotate: false
+  xy: 994, 432
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_44X49
+  rotate: false
+  xy: 718, 417
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_46X47
+  rotate: false
+  xy: 572, 409
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_49X76
+  rotate: false
+  xy: 542, 198
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_54X43
+  rotate: false
+  xy: 844, 406
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_54X55
+  rotate: false
+  xy: 542, 238
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_56X54
+  rotate: false
+  xy: 572, 380
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_62X76
+  rotate: false
+  xy: 759, 457
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_67X73
+  rotate: false
+  xy: 73, 484
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_68X92
+  rotate: false
+  xy: 1, 443
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_68X92_2
+  rotate: false
+  xy: 37, 443
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_71X101
+  rotate: false
+  xy: 985, 204
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_71X54
+  rotate: false
+  xy: 153, 484
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_71X57
+  rotate: false
+  xy: 900, 236
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_84X56
+  rotate: false
+  xy: 109, 484
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_84X84
+  rotate: false
+  xy: 615, 442
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_88X112
+  rotate: false
+  xy: 892, 178
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_PLANTTAB_UPGRADE_ALMANAC_PLANTTAB_UPGRADE_89X66
+  rotate: false
+  xy: 681, 303
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LAYER_0
+  rotate: false
+  xy: 794, 406
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LAYER_1
+  rotate: false
+  xy: 954, 482
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LAYER_2
+  rotate: false
+  xy: 413, 380
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LAYER_4
+  rotate: false
+  xy: 835, 482
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LAYER_4_COPY
+  rotate: false
+  xy: 155, 443
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LAYER_4_COPY_2
+  rotate: false
+  xy: 1014, 350
+  size: 9, 40
+  orig: 9, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LAYER_4_COPY_3
+  rotate: false
+  xy: 985, 257
+  size: 39, 10
+  orig: 39, 10
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_BUTTONS_HUD_BACK_NORMAL
+  rotate: false
+  xy: 603, 303
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_BUTTONS_HUD_BACK_SELECTED
+  rotate: false
+  xy: 378, 306
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_CARD_PLANT_SCROLLBAR
+  rotate: false
+  xy: 322, 378
+  size: 13, 248
+  orig: 13, 248
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_CARD_ZOMBIE_SCROLLBAR
+  rotate: false
+  xy: 337, 378
+  size: 13, 248
+  orig: 13, 248
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_CHECKBOX_DISABLED
+  rotate: false
+  xy: 196, 442
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_CHECKBOX_DISABLED_SHARP
+  rotate: false
+  xy: 884, 367
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_CHECKBOX_ENABLED
+  rotate: false
+  xy: 567, 442
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_CHECKBOX_ENABLED_SHARP
+  rotate: false
+  xy: 949, 367
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_COSTUME_BUTTON_DOWN
+  rotate: false
+  xy: 260, 378
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_COSTUME_BUTTON_UP
+  rotate: false
+  xy: 455, 378
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_FILTER_BUTTON_DOWN
+  rotate: false
+  xy: 966, 325
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_FILTER_BUTTON_UP
+  rotate: false
+  xy: 73, 443
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_FINDMORE_STORE
+  rotate: false
+  xy: 766, 1
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_GENERAL_FUELBAR_FILL
+  rotate: false
+  xy: 413, 485
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_GENERAL_SCROLLBAR
+  rotate: false
+  xy: 542, 268
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_GENERAL_SCROLLBAR_BKGD
+  rotate: false
+  xy: 1007, 325
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_GENERIC_LTE_IMAGE
+  rotate: false
+  xy: 526, 303
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_GENERIC_RIFT_IMAGE
+  rotate: false
+  xy: 1, 1
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_LEVEL_UP_OFF_SCREEN_INDICATOR_V2
+  rotate: false
+  xy: 900, 269
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_LEVEL_UP_OFF_SCREEN_INDICATOR_V2_DOWN
+  rotate: false
+  xy: 460, 280
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANTS_DAMAGE_ICON
+  rotate: false
+  xy: 844, 432
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANTS_PLANT_FUELBAR
+  rotate: false
+  xy: 430, 485
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANTS_POWERAREA_ICON
+  rotate: false
+  xy: 894, 432
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANTS_RANGE_ICON
+  rotate: false
+  xy: 944, 432
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANTS_RECHARGE_ICON
+  rotate: false
+  xy: 352, 435
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANTS_TOUGHNESS_ICON
+  rotate: false
+  xy: 402, 435
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANTS_VARIABLE_ICON
+  rotate: false
+  xy: 517, 435
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANT_FOOD_STAT_ICON
+  rotate: false
+  xy: 517, 380
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PLANT_SELECT_PKT
+  rotate: false
+  xy: 766, 178
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SCROLL_SLIDER
+  rotate: false
+  xy: 736, 195
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SELECTOR_BKGD
+  rotate: false
+  xy: 985, 1
+  size: 36, 201
+  orig: 36, 201
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SORT_ASCENDING_DOWN
+  rotate: false
+  xy: 114, 443
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SORT_ASCENDING_UP
+  rotate: false
+  xy: 794, 456
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SORT_BUTTON_DOWN
+  rotate: false
+  xy: 876, 482
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SORT_BUTTON_UP
+  rotate: false
+  xy: 915, 482
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SORT_DESCENDING_DOWN
+  rotate: false
+  xy: 718, 457
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_SORT_DESCENDING_UP
+  rotate: false
+  xy: 659, 467
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_STATS_SCREEN_NAV_ARROW_NEXT
+  rotate: false
+  xy: 603, 377
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_STATS_SCREEN_NAV_ARROW_NEXT_DOWN
+  rotate: false
+  xy: 1, 378
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_STATS_SCREEN_NAV_ARROW_PREVIOUS
+  rotate: false
+  xy: 66, 378
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_STATS_SCREEN_NAV_ARROW_PREVIOUS_DOWN
+  rotate: false
+  xy: 131, 378
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_CLOSE_TAB
+  rotate: false
+  xy: 744, 342
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_CLOSE_TAB_DOWN
+  rotate: false
+  xy: 814, 342
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_PLANTS_ACTIVE
+  rotate: false
+  xy: 572, 195
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_PLANTS_DOWN
+  rotate: false
+  xy: 460, 198
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_UPGRADES_ACTIVE
+  rotate: false
+  xy: 654, 195
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_UPGRADES_DOWN
+  rotate: false
+  xy: 736, 260
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_ZOMBIES_ACTIVE
+  rotate: false
+  xy: 378, 198
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_TABS_ZOMBIES_DOWN
+  rotate: false
+  xy: 818, 260
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_UPGRADE_SCROLL_CTA
+  rotate: false
+  xy: 943, 1
+  size: 40, 266
+  orig: 40, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ZOMBIES_ZOMBIESPEED_ICON
+  rotate: false
+  xy: 260, 440
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ZOMBIES_ZOMBIETOUGHNESS_ICON
+  rotate: false
+  xy: 452, 440
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ZOMBIES_ZOMBIE_FUELBAR
+  rotate: false
+  xy: 502, 485
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ZOMBIE_SEED_PKT
+  rotate: false
+  xy: 196, 378
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1

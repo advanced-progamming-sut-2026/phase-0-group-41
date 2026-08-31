@@ -1,0 +1,516 @@
+ZOMBIESPORTZBALLGARGANTUARGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_100X118
+  rotate: false
+  xy: 1, 353
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_100X79
+  rotate: false
+  xy: 444, 477
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_101X74
+  rotate: false
+  xy: 276, 486
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_103X117
+  rotate: false
+  xy: 404, 329
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_104X84
+  rotate: false
+  xy: 375, 477
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_105X108
+  rotate: false
+  xy: 67, 353
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_105X89
+  rotate: false
+  xy: 207, 434
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_106X124
+  rotate: false
+  xy: 443, 175
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_107X102
+  rotate: false
+  xy: 136, 389
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_109X82
+  rotate: false
+  xy: 128, 457
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_10X19
+  rotate: false
+  xy: 503, 392
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_113X66
+  rotate: false
+  xy: 200, 493
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_116X123
+  rotate: false
+  xy: 328, 329
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_12X15
+  rotate: false
+  xy: 415, 175
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_12X26
+  rotate: false
+  xy: 171, 512
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_12X27
+  rotate: false
+  xy: 355, 486
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_135X8
+  rotate: false
+  xy: 150, 321
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_13X22
+  rotate: false
+  xy: 136, 373
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_13X23
+  rotate: false
+  xy: 181, 512
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_14X11
+  rotate: false
+  xy: 425, 175
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_14X24
+  rotate: false
+  xy: 343, 504
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_14X25
+  rotate: false
+  xy: 354, 506
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_153X104
+  rotate: false
+  xy: 387, 106
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_158X160
+  rotate: false
+  xy: 387, 1
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_15X24
+  rotate: false
+  xy: 390, 458
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_15X24_2
+  rotate: false
+  xy: 343, 486
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_15X28
+  rotate: false
+  xy: 136, 353
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_164X67
+  rotate: false
+  xy: 207, 389
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_17X23
+  rotate: false
+  xy: 314, 389
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_18X14
+  rotate: false
+  xy: 401, 175
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_19X15
+  rotate: false
+  xy: 387, 175
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_20X20
+  rotate: false
+  xy: 375, 458
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_21X25
+  rotate: false
+  xy: 493, 456
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_223X118
+  rotate: false
+  xy: 298, 188
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_228X204
+  rotate: false
+  xy: 150, 188
+  size: 146, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_230X270
+  rotate: false
+  xy: 1, 178
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_25X25
+  rotate: false
+  xy: 487, 156
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_269X95
+  rotate: false
+  xy: 298, 266
+  size: 172, 61
+  orig: 172, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_26X28
+  rotate: false
+  xy: 490, 86
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_274X90
+  rotate: false
+  xy: 150, 329
+  size: 176, 58
+  orig: 176, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_288X288
+  rotate: false
+  xy: 200, 1
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_307X273
+  rotate: false
+  xy: 1, 1
+  size: 197, 175
+  orig: 197, 175
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_30X30
+  rotate: false
+  xy: 375, 437
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_31X47
+  rotate: false
+  xy: 490, 1
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_32X19
+  rotate: false
+  xy: 470, 456
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_32X40
+  rotate: false
+  xy: 490, 33
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_33X36
+  rotate: false
+  xy: 490, 61
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_35X28
+  rotate: false
+  xy: 487, 136
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_36X44
+  rotate: false
+  xy: 487, 106
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_38X38
+  rotate: false
+  xy: 375, 410
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_43X39
+  rotate: false
+  xy: 276, 457
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_45X18
+  rotate: false
+  xy: 472, 392
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_49X48
+  rotate: false
+  xy: 472, 359
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_52X32
+  rotate: false
+  xy: 276, 434
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_57X60
+  rotate: false
+  xy: 472, 257
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_60X48
+  rotate: false
+  xy: 472, 298
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_61X41
+  rotate: false
+  xy: 472, 331
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_63X74
+  rotate: false
+  xy: 470, 406
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_66X33
+  rotate: false
+  xy: 399, 533
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_6X6
+  rotate: false
+  xy: 505, 163
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_70X71
+  rotate: false
+  xy: 275, 536
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_73X54
+  rotate: false
+  xy: 221, 537
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_75X66
+  rotate: false
+  xy: 171, 537
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_7X7
+  rotate: false
+  xy: 505, 156
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_81X83
+  rotate: false
+  xy: 1, 497
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_84X60
+  rotate: false
+  xy: 343, 533
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_85X60
+  rotate: false
+  xy: 444, 530
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_87X100
+  rotate: false
+  xy: 1, 431
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_87X62
+  rotate: false
+  xy: 113, 512
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_87X65
+  rotate: false
+  xy: 55, 499
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_92X113
+  rotate: false
+  xy: 67, 424
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_92X116
+  rotate: false
+  xy: 314, 410
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_GARGANTUAR_ZOMBIE_SPORTZBALL_GARGANTUAR_99X108
+  rotate: false
+  xy: 404, 406
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1

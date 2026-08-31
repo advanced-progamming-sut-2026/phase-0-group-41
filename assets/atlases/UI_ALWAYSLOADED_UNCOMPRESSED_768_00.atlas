@@ -1,0 +1,446 @@
+UI_ALWAYSLOADED_UNCOMPRESSED_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_CARDS_ALMANAC_DEMOTION_CARD
+  rotate: false
+  xy: 430, 673
+  size: 83, 442
+  orig: 83, 442
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_ALMANAC_PLANT_CARD
+  rotate: false
+  xy: 515, 673
+  size: 83, 442
+  orig: 83, 442
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_ALMANAC_UPGRADES_CARD
+  rotate: false
+  xy: 1, 747
+  size: 83, 442
+  orig: 83, 442
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_ALMANAC_ZOMBIE_CARD
+  rotate: false
+  xy: 86, 747
+  size: 83, 442
+  orig: 83, 442
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_CARD_TABLE_FRAME
+  rotate: false
+  xy: 171, 949
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_CARD_TABLE_LINE_HORIZONTAL
+  rotate: false
+  xy: 223, 666
+  size: 165, 4
+  orig: 165, 4
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_CARD_TABLE_LINE_VERTICAL
+  rotate: false
+  xy: 1004, 1
+  size: 4, 165
+  orig: 4, 165
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_CHOOSER_CHOOSER_PLANT_CARD
+  rotate: false
+  xy: 967, 1471
+  size: 51, 203
+  orig: 51, 203
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_CHOOSER_CHOOSER_PLANT_CARD_COLOR_CUTOUT
+  rotate: false
+  xy: 530, 1117
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_CLAIM_MEDIUM
+  rotate: false
+  xy: 256, 1115
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_JOUST_TOURNAMENT_RESULTS_CARD_DEMOTION
+  rotate: false
+  xy: 870, 643
+  size: 108, 345
+  orig: 108, 345
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_LOCK_MEDIUM
+  rotate: false
+  xy: 162, 1436
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_LOCK_MEDIUM_GOLD
+  rotate: false
+  xy: 838, 1791
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_PLANT_SUN_COST_BKGD
+  rotate: false
+  xy: 223, 598
+  size: 127, 55
+  orig: 127, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_SCROLLBAR
+  rotate: false
+  xy: 395, 468
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_SCROLLBAR_BKGD
+  rotate: false
+  xy: 756, 383
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_NO_AD_BACKGROUND
+  rotate: false
+  xy: 223, 673
+  size: 205, 274
+  orig: 205, 274
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_PROMO_RIBBON
+  rotate: false
+  xy: 396, 1765
+  size: 219, 64
+  orig: 219, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_PROMO_RIBBON_SMALL
+  rotate: false
+  xy: 617, 1791
+  size: 219, 41
+  orig: 219, 41
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_BUNDLE_CARD
+  rotate: false
+  xy: 337, 949
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_BLUE
+  rotate: false
+  xy: 782, 1
+  size: 220, 319
+  orig: 220, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_GREEN
+  rotate: false
+  xy: 782, 322
+  size: 220, 319
+  orig: 220, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_IF_BUNDLE
+  rotate: false
+  xy: 323, 1765
+  size: 71, 266
+  orig: 71, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_PURPLE
+  rotate: false
+  xy: 426, 352
+  size: 220, 319
+  orig: 220, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_RAYS_IF_BUNDLE
+  rotate: false
+  xy: 1, 1
+  size: 423, 423
+  orig: 423, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_SHINE_BORDER
+  rotate: false
+  xy: 696, 594
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_SINGLE_BACKGROUND
+  rotate: false
+  xy: 426, 1
+  size: 354, 349
+  orig: 354, 349
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_CARD_YELLOW
+  rotate: false
+  xy: 1, 426
+  size: 220, 319
+  orig: 220, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_COIN_CARD
+  rotate: false
+  xy: 600, 964
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_COMINGSOON_CARD
+  rotate: false
+  xy: 685, 964
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_DYNAMIC_SLOT_CARD
+  rotate: false
+  xy: 648, 643
+  size: 220, 319
+  orig: 220, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_GEM_CARD
+  rotate: false
+  xy: 770, 964
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_PLANT_CARD
+  rotate: false
+  xy: 855, 990
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_SPROUT_CARD
+  rotate: false
+  xy: 940, 990
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_STORE_STORE_UPGRADE_CARD
+  rotate: false
+  xy: 171, 1115
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER
+  rotate: false
+  xy: 1, 1191
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_BIGWAVEBEACH
+  rotate: false
+  xy: 256, 1270
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_BIRTHDAYZ
+  rotate: false
+  xy: 162, 1765
+  size: 159, 153
+  orig: 159, 153
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_BLACKFRIDAY
+  rotate: false
+  xy: 530, 1285
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_CARNIVAL
+  rotate: false
+  xy: 691, 1285
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_FALLFESTIVAL
+  rotate: false
+  xy: 852, 1311
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_FEASTIVUS
+  rotate: false
+  xy: 1, 1351
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_FOODFIGHT
+  rotate: false
+  xy: 256, 1430
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_LAWNOFDOOM
+  rotate: false
+  xy: 417, 1445
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 578, 1445
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_LUNAR_NEW_YEAR
+  rotate: false
+  xy: 739, 1471
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_MGPWINTEREVENT
+  rotate: false
+  xy: 1, 1511
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_ROMAN
+  rotate: false
+  xy: 162, 1590
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_SPRINGENING
+  rotate: false
+  xy: 323, 1605
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_SUMMERNIGHTS
+  rotate: false
+  xy: 484, 1605
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_TOMBTANGLED
+  rotate: false
+  xy: 645, 1631
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_VALENBRAINZ
+  rotate: false
+  xy: 806, 1631
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGBORDER_ZCORP
+  rotate: false
+  xy: 1, 1750
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOGTEXTURE
+  rotate: false
+  xy: 223, 426
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOG_CENTER
+  rotate: false
+  xy: 756, 414
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_DIALOG_CENTER_TROUGH
+  rotate: false
+  xy: 756, 437
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_INNER_BKGD
+  rotate: false
+  xy: 352, 598
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_SCROLLBAR
+  rotate: false
+  xy: 395, 426
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_SCROLLBAR_BKGD
+  rotate: false
+  xy: 756, 352
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_THYMED_EVENT_PANEL_GRADIENT_OVERLAY
+  rotate: false
+  xy: 980, 643
+  size: 32, 215
+  orig: 32, 215
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_TINT_ROUNDED_BOX_9SLICE
+  rotate: false
+  xy: 648, 594
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_TRAVEL_LOG_BACKGROUND_LEFT_IMAGE
+  rotate: false
+  xy: 648, 352
+  size: 106, 240
+  orig: 106, 240
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DIALOG_ASSET_TRAVEL_LOG_BACKGROUND_RIGHT_IMAGE
+  rotate: false
+  xy: 422, 1117
+  size: 106, 240
+  orig: 106, 240
+  offset: 0, 0
+  index: -1

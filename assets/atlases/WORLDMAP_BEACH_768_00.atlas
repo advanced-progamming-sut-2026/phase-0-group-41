@@ -1,0 +1,131 @@
+WORLDMAP_BEACH_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_BEACH_ISLAND1
+  rotate: false
+  xy: 582, 509
+  size: 254, 473
+  orig: 254, 473
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND13
+  rotate: false
+  xy: 140, 1054
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND14
+  rotate: false
+  xy: 275, 1054
+  size: 133, 134
+  orig: 133, 134
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND15
+  rotate: false
+  xy: 838, 738
+  size: 136, 181
+  orig: 136, 181
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND16
+  rotate: false
+  xy: 693, 984
+  size: 205, 186
+  orig: 205, 186
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND22
+  rotate: false
+  xy: 838, 509
+  size: 173, 227
+  orig: 173, 227
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND23
+  rotate: false
+  xy: 1, 1054
+  size: 137, 146
+  orig: 137, 146
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND24
+  rotate: false
+  xy: 498, 984
+  size: 193, 239
+  orig: 193, 239
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND27
+  rotate: false
+  xy: 900, 1038
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND28
+  rotate: false
+  xy: 693, 1172
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND34
+  rotate: false
+  xy: 976, 738
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND35
+  rotate: false
+  xy: 976, 776
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND37
+  rotate: false
+  xy: 823, 1172
+  size: 136, 53
+  orig: 136, 53
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND38
+  rotate: false
+  xy: 900, 921
+  size: 99, 115
+  orig: 99, 115
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND39
+  rotate: false
+  xy: 498, 705
+  size: 49, 104
+  orig: 49, 104
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND41
+  rotate: false
+  xy: 582, 1
+  size: 430, 506
+  orig: 430, 506
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ISLAND42
+  rotate: false
+  xy: 1, 705
+  size: 495, 347
+  orig: 495, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_BEACH_ZOMBOSS_NODE_BEACH_905X1096
+  rotate: false
+  xy: 1, 1
+  size: 579, 702
+  orig: 579, 702
+  offset: 0, 0
+  index: -1

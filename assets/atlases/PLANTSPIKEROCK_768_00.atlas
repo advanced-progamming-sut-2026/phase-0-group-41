@@ -1,0 +1,166 @@
+PLANTSPIKEROCK_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SPIKEROCK_PLANTFOOD_SPIKES_SPIKEROCK_PLANTFOOD_SPIKES_16X16
+  rotate: false
+  xy: 117, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEROCK_PLANTFOOD_SPIKES_SPIKEROCK_PLANTFOOD_SPIKES_18X17
+  rotate: false
+  xy: 113, 83
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEROCK_PLANTFOOD_SPIKES_SPIKEROCK_PLANTFOOD_SPIKES_24X21
+  rotate: false
+  xy: 108, 127
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEROCK_PLANTFOOD_SPIKES_SPIKEROCK_PLANTFOOD_SPIKES_36X83
+  rotate: false
+  xy: 92, 1
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEROCK_PLANTFOOD_SPIKES_SPIKEROCK_PLANTFOOD_SPIKES_37X36
+  rotate: false
+  xy: 85, 160
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPIKEROCK_PLANTFOOD_SPIKES_SPIKEROCK_PLANTFOOD_SPIKES_44X66
+  rotate: false
+  xy: 83, 83
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_123X41
+  rotate: false
+  xy: 1, 30
+  size: 79, 26
+  orig: 79, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_124X33
+  rotate: false
+  xy: 1, 94
+  size: 80, 21
+  orig: 80, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_138X42
+  rotate: false
+  xy: 1, 1
+  size: 89, 27
+  orig: 89, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_32X48
+  rotate: false
+  xy: 85, 127
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_32X48_2
+  rotate: false
+  xy: 1, 154
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_33X21
+  rotate: false
+  xy: 78, 185
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_33X21_2
+  rotate: false
+  xy: 101, 185
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_33X21_3
+  rotate: false
+  xy: 1, 200
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_34X54
+  rotate: false
+  xy: 61, 127
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_38X27
+  rotate: false
+  xy: 53, 164
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_39X27
+  rotate: false
+  xy: 24, 180
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_39X28
+  rotate: false
+  xy: 51, 184
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_42X37
+  rotate: false
+  xy: 24, 154
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_79X22
+  rotate: false
+  xy: 1, 138
+  size: 51, 14
+  orig: 51, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_86X53
+  rotate: false
+  xy: 1, 58
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_88X36
+  rotate: false
+  xy: 58, 58
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPIKEROCK_SPIKEROCK_91X29
+  rotate: false
+  xy: 1, 117
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1

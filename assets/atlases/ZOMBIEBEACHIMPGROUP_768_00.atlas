@@ -1,0 +1,173 @@
+ZOMBIEBEACHIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_12X26
+  rotate: false
+  xy: 114, 109
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_12X27
+  rotate: false
+  xy: 104, 73
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_13X22
+  rotate: false
+  xy: 114, 128
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_13X24
+  rotate: false
+  xy: 118, 1
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_14X24
+  rotate: false
+  xy: 114, 73
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_14X24_2
+  rotate: false
+  xy: 114, 91
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_15X24
+  rotate: false
+  xy: 115, 19
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_15X24_2
+  rotate: false
+  xy: 110, 37
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_15X25
+  rotate: false
+  xy: 110, 55
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_167X8
+  rotate: false
+  xy: 1, 152
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_17X23
+  rotate: false
+  xy: 102, 19
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_18X14
+  rotate: false
+  xy: 90, 138
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_19X15
+  rotate: false
+  xy: 76, 138
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_21X25
+  rotate: false
+  xy: 102, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_47X52
+  rotate: false
+  xy: 44, 114
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_56X34
+  rotate: false
+  xy: 76, 114
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_64X63
+  rotate: false
+  xy: 1, 109
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_66X33
+  rotate: false
+  xy: 1, 49
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_6X6
+  rotate: false
+  xy: 122, 37
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_70X71
+  rotate: false
+  xy: 1, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_71X62
+  rotate: false
+  xy: 56, 72
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_81X56
+  rotate: false
+  xy: 48, 1
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_83X54
+  rotate: false
+  xy: 1, 72
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_IMP_MERMAID_ZOMBIE_BEACH_IMP_MERMAID_93X48
+  rotate: false
+  xy: 48, 39
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1

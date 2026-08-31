@@ -1,0 +1,446 @@
+ZOMBIEFUTUREMECHFOOTBALLGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_122X32
+  rotate: false
+  xy: 295, 358
+  size: 78, 21
+  orig: 78, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_127X86
+  rotate: false
+  xy: 238, 239
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_135X8
+  rotate: false
+  xy: 276, 381
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_149X69
+  rotate: false
+  xy: 1, 288
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_158X89
+  rotate: false
+  xy: 376, 231
+  size: 101, 57
+  orig: 101, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_159X79
+  rotate: false
+  xy: 1, 235
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_164X127
+  rotate: false
+  xy: 131, 215
+  size: 105, 82
+  orig: 105, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_16X14
+  rotate: false
+  xy: 501, 1
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_180X139
+  rotate: false
+  xy: 131, 124
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_192X182
+  rotate: false
+  xy: 251, 1
+  size: 123, 117
+  orig: 123, 117
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_192X182_2
+  rotate: false
+  xy: 376, 1
+  size: 123, 117
+  orig: 123, 117
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_192X182_3
+  rotate: false
+  xy: 251, 120
+  size: 123, 117
+  orig: 123, 117
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_192X188
+  rotate: false
+  xy: 126, 1
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_192X190
+  rotate: false
+  xy: 1, 1
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_200X169
+  rotate: false
+  xy: 1, 125
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_202X170
+  rotate: false
+  xy: 376, 120
+  size: 130, 109
+  orig: 130, 109
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_20X20
+  rotate: false
+  xy: 346, 388
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_23X55
+  rotate: false
+  xy: 105, 235
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_24X23
+  rotate: false
+  xy: 299, 388
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_25X26
+  rotate: false
+  xy: 94, 384
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_25X41
+  rotate: false
+  xy: 300, 327
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_25X41_2
+  rotate: false
+  xy: 414, 362
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_26X15
+  rotate: false
+  xy: 473, 389
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_27X45
+  rotate: false
+  xy: 300, 296
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_28X28
+  rotate: false
+  xy: 453, 383
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_30X27
+  rotate: false
+  xy: 218, 381
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_30X27_2
+  rotate: false
+  xy: 432, 383
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_32X19
+  rotate: false
+  xy: 276, 388
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_32X32
+  rotate: false
+  xy: 105, 272
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_32X32_2
+  rotate: false
+  xy: 487, 343
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_32X32_3
+  rotate: false
+  xy: 487, 366
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_33X20
+  rotate: false
+  xy: 71, 384
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_34X18
+  rotate: false
+  xy: 112, 384
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_37X61
+  rotate: false
+  xy: 484, 282
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_40X27
+  rotate: false
+  xy: 484, 323
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_42X12
+  rotate: false
+  xy: 317, 388
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_45X32
+  rotate: false
+  xy: 40, 379
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_48X76
+  rotate: false
+  xy: 479, 231
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_52X30
+  rotate: false
+  xy: 240, 377
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_52X31
+  rotate: false
+  xy: 141, 372
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_55X66
+  rotate: false
+  xy: 190, 299
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_56X17
+  rotate: false
+  xy: 365, 383
+  size: 36, 11
+  orig: 36, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_58X30
+  rotate: false
+  xy: 375, 362
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_58X30_2
+  rotate: false
+  xy: 1, 372
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_58X35
+  rotate: false
+  xy: 143, 347
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_59X67
+  rotate: false
+  xy: 51, 334
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_60X23
+  rotate: false
+  xy: 177, 381
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_66X90
+  rotate: false
+  xy: 99, 299
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_70X103
+  rotate: false
+  xy: 437, 290
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_70X71
+  rotate: false
+  xy: 143, 299
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_75X35
+  rotate: false
+  xy: 437, 358
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_75X35_2
+  rotate: false
+  xy: 91, 359
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_75X56
+  rotate: false
+  xy: 1, 334
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_75X56_2
+  rotate: false
+  xy: 190, 343
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_76X109
+  rotate: false
+  xy: 386, 290
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_76X74
+  rotate: false
+  xy: 322, 239
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_7X7
+  rotate: false
+  xy: 501, 36
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_82X50
+  rotate: false
+  xy: 240, 343
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_93X70
+  rotate: false
+  xy: 238, 296
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_96X102
+  rotate: false
+  xy: 322, 290
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_9X9
+  rotate: false
+  xy: 501, 12
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_9X9_2
+  rotate: false
+  xy: 501, 20
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_MECH_FOOTBALL_ZOMBIE_MECH_FOOTBALL_9X9_3
+  rotate: false
+  xy: 501, 28
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

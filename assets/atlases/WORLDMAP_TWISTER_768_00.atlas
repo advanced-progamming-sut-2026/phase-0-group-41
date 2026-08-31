@@ -1,0 +1,768 @@
+WORLDMAP_TWISTER_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_104X75
+  rotate: false
+  xy: 310, 1115
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_130X98
+  rotate: false
+  xy: 1244, 1181
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_130X98_2
+  rotate: false
+  xy: 1362, 1515
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_131X120
+  rotate: false
+  xy: 1767, 1664
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_162X181
+  rotate: false
+  xy: 1503, 1567
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_168X293
+  rotate: false
+  xy: 1939, 526
+  size: 84, 147
+  orig: 84, 147
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_168X34
+  rotate: false
+  xy: 1657, 1331
+  size: 84, 17
+  orig: 84, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_16X16
+  rotate: false
+  xy: 2034, 133
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_171X298
+  rotate: false
+  xy: 1942, 375
+  size: 86, 149
+  orig: 86, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_255X179
+  rotate: false
+  xy: 961, 1583
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_269X240
+  rotate: false
+  xy: 1869, 1512
+  size: 135, 120
+  orig: 135, 120
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_312X316
+  rotate: false
+  xy: 1848, 1352
+  size: 156, 158
+  orig: 156, 158
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_32X9
+  rotate: false
+  xy: 2016, 300
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_34X11
+  rotate: false
+  xy: 2016, 292
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_34X22
+  rotate: false
+  xy: 2016, 279
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_34X8
+  rotate: false
+  xy: 2016, 307
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_366X370
+  rotate: false
+  xy: 806, 1284
+  size: 183, 185
+  orig: 183, 185
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_409X378
+  rotate: false
+  xy: 430, 1159
+  size: 205, 189
+  orig: 205, 189
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_6X120
+  rotate: false
+  xy: 2043, 1
+  size: 3, 60
+  orig: 3, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_6X120_2
+  rotate: false
+  xy: 2043, 63
+  size: 3, 60
+  orig: 3, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_6X6
+  rotate: false
+  xy: 2034, 109
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_73X85
+  rotate: false
+  xy: 1939, 824
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_73X85_2
+  rotate: false
+  xy: 195, 1286
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_73X85_3
+  rotate: false
+  xy: 2006, 1309
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_89X96
+  rotate: false
+  xy: 1508, 751
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_89X96_2
+  rotate: false
+  xy: 1508, 801
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_89X96_3
+  rotate: false
+  xy: 1508, 851
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM11_ANIM11_95X95
+  rotate: false
+  xy: 1311, 1181
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM3_ANIM3_14X14
+  rotate: false
+  xy: 2034, 153
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM3_ANIM3_400X500
+  rotate: false
+  xy: 387, 415
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM6_ANIM6_352X358
+  rotate: false
+  xy: 430, 1350
+  size: 176, 179
+  orig: 176, 179
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM6_ANIM6_46X61
+  rotate: false
+  xy: 2016, 190
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM7_ANIM7_16X15
+  rotate: false
+  xy: 2034, 143
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM7_ANIM7_23X12
+  rotate: false
+  xy: 2034, 125
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM7_ANIM7_306X272
+  rotate: false
+  xy: 806, 1471
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM7_ANIM7_40X53
+  rotate: false
+  xy: 2016, 223
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM7_ANIM7_61X13
+  rotate: false
+  xy: 2016, 270
+  size: 31, 7
+  orig: 31, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM8_ANIM8_220X220
+  rotate: false
+  xy: 1244, 1069
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM8_ANIM8_73X73
+  rotate: false
+  xy: 195, 1331
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM9_ANIM9_14X14
+  rotate: false
+  xy: 2034, 162
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM9_ANIM9_33X31
+  rotate: false
+  xy: 2016, 252
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ANIM9_ANIM9_400X500
+  rotate: false
+  xy: 1778, 903
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND1
+  rotate: false
+  xy: 1, 865
+  size: 225, 229
+  orig: 225, 229
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND10
+  rotate: false
+  xy: 1, 1286
+  size: 192, 175
+  orig: 192, 175
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND11
+  rotate: false
+  xy: 776, 1609
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND12
+  rotate: false
+  xy: 617, 1619
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND13
+  rotate: false
+  xy: 1, 1096
+  size: 235, 188
+  orig: 235, 188
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND14
+  rotate: false
+  xy: 1778, 1155
+  size: 215, 195
+  orig: 215, 195
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND15
+  rotate: false
+  xy: 1244, 1235
+  size: 201, 183
+  orig: 201, 183
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND16
+  rotate: false
+  xy: 608, 1496
+  size: 166, 121
+  orig: 166, 121
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND17
+  rotate: false
+  xy: 637, 1159
+  size: 143, 123
+  orig: 143, 123
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND18
+  rotate: false
+  xy: 128, 1600
+  size: 151, 73
+  orig: 151, 73
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND19
+  rotate: false
+  xy: 1198, 1576
+  size: 126, 93
+  orig: 126, 93
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND2
+  rotate: false
+  xy: 238, 1159
+  size: 190, 216
+  orig: 190, 216
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND20
+  rotate: false
+  xy: 1744, 1512
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND21
+  rotate: false
+  xy: 1, 1463
+  size: 125, 181
+  orig: 125, 181
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND22
+  rotate: false
+  xy: 1942, 190
+  size: 72, 183
+  orig: 72, 183
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND23
+  rotate: false
+  xy: 342, 1531
+  size: 155, 95
+  orig: 155, 95
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND24
+  rotate: false
+  xy: 1657, 1235
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND25
+  rotate: false
+  xy: 499, 1619
+  size: 116, 77
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND26
+  rotate: false
+  xy: 281, 1628
+  size: 117, 69
+  orig: 117, 69
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND27
+  rotate: false
+  xy: 128, 1495
+  size: 212, 103
+  orig: 212, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND28
+  rotate: false
+  xy: 1503, 1660
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND29
+  rotate: false
+  xy: 1447, 1235
+  size: 208, 172
+  orig: 208, 172
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND3
+  rotate: false
+  xy: 1995, 1193
+  size: 53, 114
+  orig: 53, 114
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND30
+  rotate: false
+  xy: 1942, 1
+  size: 90, 187
+  orig: 90, 187
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND31
+  rotate: false
+  xy: 238, 1115
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND32
+  rotate: false
+  xy: 1995, 995
+  size: 47, 196
+  orig: 47, 196
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND33
+  rotate: false
+  xy: 1024, 1277
+  size: 185, 191
+  orig: 185, 191
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND34
+  rotate: false
+  xy: 2034, 1
+  size: 7, 106
+  orig: 7, 106
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND35
+  rotate: false
+  xy: 991, 1470
+  size: 205, 111
+  orig: 205, 111
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND36
+  rotate: false
+  xy: 387, 667
+  size: 165, 143
+  orig: 165, 143
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND37
+  rotate: false
+  xy: 400, 1628
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND38
+  rotate: false
+  xy: 803, 814
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND39
+  rotate: false
+  xy: 1362, 1420
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND4
+  rotate: false
+  xy: 238, 865
+  size: 117, 248
+  orig: 117, 248
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND40
+  rotate: false
+  xy: 1091, 1583
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND41
+  rotate: false
+  xy: 1, 1646
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND42
+  rotate: false
+  xy: 195, 1377
+  size: 227, 116
+  orig: 227, 116
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND43
+  rotate: false
+  xy: 803, 910
+  size: 412, 159
+  orig: 412, 159
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND44
+  rotate: false
+  xy: 1657, 1352
+  size: 189, 158
+  orig: 189, 158
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND45
+  rotate: false
+  xy: 1691, 1664
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND46
+  rotate: false
+  xy: 499, 1531
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND47
+  rotate: false
+  xy: 1980, 824
+  size: 60, 169
+  orig: 60, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND48
+  rotate: false
+  xy: 1447, 1409
+  size: 152, 156
+  orig: 152, 156
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND49
+  rotate: false
+  xy: 1601, 1409
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND5
+  rotate: false
+  xy: 803, 1071
+  size: 219, 211
+  orig: 219, 211
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND50
+  rotate: false
+  xy: 1362, 1567
+  size: 139, 102
+  orig: 139, 102
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND51
+  rotate: false
+  xy: 1939, 675
+  size: 80, 147
+  orig: 80, 147
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND52
+  rotate: false
+  xy: 1217, 910
+  size: 143, 157
+  orig: 143, 157
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND53
+  rotate: false
+  xy: 1363, 751
+  size: 143, 149
+  orig: 143, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND54
+  rotate: false
+  xy: 1211, 1420
+  size: 149, 154
+  orig: 149, 154
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND6
+  rotate: false
+  xy: 1586, 1648
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND7
+  rotate: false
+  xy: 1869, 1634
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND72
+  rotate: false
+  xy: 637, 1284
+  size: 167, 210
+  orig: 167, 210
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND73
+  rotate: false
+  xy: 1601, 1512
+  size: 141, 134
+  orig: 141, 134
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND74
+  rotate: false
+  xy: 1363, 496
+  size: 177, 253
+  orig: 177, 253
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND75
+  rotate: false
+  xy: 387, 814
+  size: 414, 343
+  orig: 414, 343
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND76
+  rotate: false
+  xy: 1, 1
+  size: 587, 412
+  orig: 587, 412
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND77
+  rotate: false
+  xy: 1165, 1
+  size: 391, 493
+  orig: 391, 493
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND78
+  rotate: false
+  xy: 590, 1
+  size: 573, 374
+  orig: 573, 374
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND79
+  rotate: false
+  xy: 1363, 903
+  size: 413, 330
+  orig: 413, 330
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND8
+  rotate: false
+  xy: 1024, 1071
+  size: 218, 204
+  orig: 218, 204
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND80
+  rotate: false
+  xy: 992, 496
+  size: 369, 412
+  orig: 369, 412
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND81
+  rotate: false
+  xy: 590, 377
+  size: 400, 435
+  orig: 400, 435
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND82
+  rotate: false
+  xy: 1558, 1
+  size: 382, 462
+  orig: 382, 462
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND83
+  rotate: false
+  xy: 1, 415
+  size: 384, 448
+  orig: 384, 448
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND84
+  rotate: false
+  xy: 1558, 465
+  size: 379, 436
+  orig: 379, 436
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TWISTER_ISLAND9
+  rotate: false
+  xy: 992, 377
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1

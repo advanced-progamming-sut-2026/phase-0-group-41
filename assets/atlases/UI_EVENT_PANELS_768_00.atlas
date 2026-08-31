@@ -1,0 +1,138 @@
+UI_EVENT_PANELS_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_EVENT_PANELS_BATTLEZ
+  rotate: false
+  xy: 1, 1
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_BEACH
+  rotate: false
+  xy: 470, 1
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_DARKAGES
+  rotate: false
+  xy: 1, 122
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_DINO
+  rotate: false
+  xy: 470, 122
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_EGYPT
+  rotate: false
+  xy: 1, 243
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_EIGHTIES
+  rotate: false
+  xy: 470, 243
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_EPIC
+  rotate: false
+  xy: 1, 364
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_FEASTIVUS_YETI_1
+  rotate: false
+  xy: 470, 364
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_FEASTIVUS_YETI_2
+  rotate: false
+  xy: 1, 485
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_FEASTIVUS_YETI_3
+  rotate: false
+  xy: 470, 485
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_FEASTIVUS_YETI_4
+  rotate: false
+  xy: 1, 606
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_FUTURE
+  rotate: false
+  xy: 470, 606
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_GENERIC
+  rotate: false
+  xy: 1, 727
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_ICEAGE
+  rotate: false
+  xy: 470, 727
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_LOST_CITY
+  rotate: false
+  xy: 1, 848
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_MODERN
+  rotate: false
+  xy: 470, 848
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_PIRATE
+  rotate: false
+  xy: 1, 969
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_PREMIUM_PLANT
+  rotate: false
+  xy: 470, 969
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_EVENT_PANELS_WEST
+  rotate: false
+  xy: 1, 1090
+  size: 467, 119
+  orig: 467, 119
+  offset: 0, 0
+  index: -1

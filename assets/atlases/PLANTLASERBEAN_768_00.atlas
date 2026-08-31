@@ -1,0 +1,341 @@
+PLANTLASERBEAN_768_00.PNG
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_LASERBEAN_LASER_HIT_LASERBEAN_LASER_HIT_34X35
+  rotate: false
+  xy: 550, 115
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LASERBEAN_LASER_HIT_LASERBEAN_LASER_HIT_52X54
+  rotate: false
+  xy: 845, 111
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LASERBEAN_LASER_HIT_LASERBEAN_LASER_HIT_5X5
+  rotate: false
+  xy: 987, 42
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LASERBEAN_LASER_HIT_LASERBEAN_LASER_HIT_76X35
+  rotate: false
+  xy: 250, 115
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LASERBEAN_LASER_HIT_LASERBEAN_LASER_HIT_79X40
+  rotate: false
+  xy: 197, 115
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LASERBEAN_LASER_HIT_LASERBEAN_LASER_HIT_84X43
+  rotate: false
+  xy: 96, 115
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LASERBEAN_LASER_LASERBEAN_BEAM
+  rotate: false
+  xy: 728, 84
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LASERBEAN_LASER_LASERBEAN_PARTICLE
+  rotate: false
+  xy: 665, 115
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_105X15
+  rotate: false
+  xy: 406, 115
+  size: 67, 10
+  orig: 67, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_1061X175
+  rotate: false
+  xy: 1, 1
+  size: 679, 112
+  orig: 679, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_110X122
+  rotate: false
+  xy: 682, 1
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_113X73
+  rotate: false
+  xy: 887, 83
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_133X39
+  rotate: false
+  xy: 799, 84
+  size: 85, 25
+  orig: 85, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_152X70
+  rotate: false
+  xy: 887, 1
+  size: 98, 45
+  orig: 98, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_15X11
+  rotate: false
+  xy: 995, 74
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_166X51
+  rotate: false
+  xy: 887, 48
+  size: 106, 33
+  orig: 106, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_17X17
+  rotate: false
+  xy: 574, 129
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_18X20
+  rotate: false
+  xy: 448, 127
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_1X1
+  rotate: false
+  xy: 1021, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_1X1_2
+  rotate: false
+  xy: 1021, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_1X1_3
+  rotate: false
+  xy: 1021, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_1X1_4
+  rotate: false
+  xy: 1021, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_1X1_5
+  rotate: false
+  xy: 1021, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_1X1_6
+  rotate: false
+  xy: 1021, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_21X20
+  rotate: false
+  xy: 432, 127
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_28X28
+  rotate: false
+  xy: 750, 123
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_28X29
+  rotate: false
+  xy: 645, 115
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_31X26
+  rotate: false
+  xy: 728, 123
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_35X20
+  rotate: false
+  xy: 770, 123
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_36X36
+  rotate: false
+  xy: 475, 115
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_36X36_2
+  rotate: false
+  xy: 500, 115
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_36X36_3
+  rotate: false
+  xy: 525, 115
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_37X17
+  rotate: false
+  xy: 406, 127
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_37X46
+  rotate: false
+  xy: 995, 42
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_44X20
+  rotate: false
+  xy: 615, 115
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_47X56
+  rotate: false
+  xy: 335, 115
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_49X52
+  rotate: false
+  xy: 301, 115
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_55X60
+  rotate: false
+  xy: 987, 1
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_57X38
+  rotate: false
+  xy: 367, 115
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_60X19
+  rotate: false
+  xy: 574, 115
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_62X65
+  rotate: false
+  xy: 54, 115
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_67X53
+  rotate: false
+  xy: 152, 115
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_68X71
+  rotate: false
+  xy: 799, 111
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_69X118
+  rotate: false
+  xy: 682, 81
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_80X58
+  rotate: false
+  xy: 1, 115
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_96X68
+  rotate: false
+  xy: 962, 83
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_99X126
+  rotate: false
+  xy: 755, 1
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_LASERBEAN_LASERBEAN_99X126_2
+  rotate: false
+  xy: 821, 1
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1

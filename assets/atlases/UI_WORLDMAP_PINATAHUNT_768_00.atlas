@@ -1,0 +1,96 @@
+UI_WORLDMAP_PINATAHUNT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PINATA_HUNT_BG
+  rotate: false
+  xy: 1, 1
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PINATA_HUNT_SLOT_EMPTY
+  rotate: false
+  xy: 1, 268
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_80S_SM
+  rotate: false
+  xy: 122, 1
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_BEACH_SM
+  rotate: false
+  xy: 172, 1
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_COWBOY_SM
+  rotate: false
+  xy: 1, 77
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_DARK_SM
+  rotate: false
+  xy: 51, 77
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_DINO_SM
+  rotate: false
+  xy: 101, 90
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_EGYPT_SM
+  rotate: false
+  xy: 151, 90
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_FUTURE_SM
+  rotate: false
+  xy: 201, 90
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_ICEAGE_SM
+  rotate: false
+  xy: 1, 166
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_LOSTCITY_SM
+  rotate: false
+  xy: 51, 179
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_MODERN_SM
+  rotate: false
+  xy: 101, 179
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_PINATA_HUNT_PRIZE_PINATA_PIRATE_SM
+  rotate: false
+  xy: 151, 179
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1

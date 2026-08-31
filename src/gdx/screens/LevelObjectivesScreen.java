@@ -35,7 +35,7 @@ public class LevelObjectivesScreen extends BaseMenuScreen {
         }
         rootTable.add(list).width(600f).padBottom(24f).row();
 
-        addButton(rootTable, "Continue", () -> game.goToGameScreen(chapter, level, 10));
+        addButton(rootTable, "Continue", () -> game.goToGameScreen(chapter, level));
     }
 
     @Override

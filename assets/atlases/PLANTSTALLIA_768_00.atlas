@@ -1,0 +1,257 @@
+PLANTSTALLIA_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_STALLIA_STALLIA_119X99
+  rotate: false
+  xy: 1, 1
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_15X18
+  rotate: false
+  xy: 28, 128
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_15X22
+  rotate: false
+  xy: 245, 113
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_16X12
+  rotate: false
+  xy: 213, 128
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_17X12
+  rotate: false
+  xy: 120, 76
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_17X17
+  rotate: false
+  xy: 15, 128
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_17X18
+  rotate: false
+  xy: 213, 114
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_18X23
+  rotate: false
+  xy: 1, 123
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_1X1
+  rotate: false
+  xy: 253, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_21X21
+  rotate: false
+  xy: 49, 121
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_21X23
+  rotate: false
+  xy: 168, 119
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_23X24
+  rotate: false
+  xy: 120, 58
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_24X26
+  rotate: false
+  xy: 195, 114
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_24X26_2
+  rotate: false
+  xy: 69, 119
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_25X27
+  rotate: false
+  xy: 227, 113
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_27X21
+  rotate: false
+  xy: 87, 119
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_27X22
+  rotate: false
+  xy: 148, 119
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_27X26
+  rotate: false
+  xy: 108, 113
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_28X26
+  rotate: false
+  xy: 128, 113
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_28X27
+  rotate: false
+  xy: 49, 101
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_32X40
+  rotate: false
+  xy: 235, 58
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_33X38
+  rotate: false
+  xy: 26, 101
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_35X40
+  rotate: false
+  xy: 1, 95
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_42X36
+  rotate: false
+  xy: 227, 88
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_42X49
+  rotate: false
+  xy: 47, 67
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_43X45
+  rotate: false
+  xy: 165, 88
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_46X36
+  rotate: false
+  xy: 76, 94
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_46X37
+  rotate: false
+  xy: 195, 88
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_60X53
+  rotate: false
+  xy: 79, 58
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_67X35
+  rotate: false
+  xy: 120, 88
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_68X40
+  rotate: false
+  xy: 1, 67
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_68X51
+  rotate: false
+  xy: 189, 53
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_76X57
+  rotate: false
+  xy: 138, 49
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_81X78
+  rotate: false
+  xy: 199, 1
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_89X85
+  rotate: false
+  xy: 79, 1
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STALLIA_STALLIA_92X71
+  rotate: false
+  xy: 138, 1
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1

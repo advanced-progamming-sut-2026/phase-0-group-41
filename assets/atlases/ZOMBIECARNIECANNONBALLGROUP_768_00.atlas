@@ -1,0 +1,201 @@
+ZOMBIECARNIECANNONBALLGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_113X82
+  rotate: false
+  xy: 363, 197
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_14X11
+  rotate: false
+  xy: 481, 57
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_14X17
+  rotate: false
+  xy: 502, 1
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_17X21
+  rotate: false
+  xy: 494, 53
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_17X21_2
+  rotate: false
+  xy: 481, 69
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_17X21_3
+  rotate: false
+  xy: 494, 69
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_17X23
+  rotate: false
+  xy: 481, 40
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_18X21
+  rotate: false
+  xy: 497, 37
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_190X165
+  rotate: false
+  xy: 327, 89
+  size: 122, 106
+  orig: 122, 106
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_20X20
+  rotate: false
+  xy: 497, 22
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_21X25
+  rotate: false
+  xy: 481, 22
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_235X127
+  rotate: false
+  xy: 1, 212
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_237X134
+  rotate: false
+  xy: 327, 1
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_240X318
+  rotate: false
+  xy: 171, 1
+  size: 154, 204
+  orig: 154, 204
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_262X326
+  rotate: false
+  xy: 1, 1
+  size: 168, 209
+  orig: 168, 209
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_296X237
+  rotate: false
+  xy: 171, 207
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_30X30
+  rotate: false
+  xy: 481, 1
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_57X58
+  rotate: false
+  xy: 53, 296
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_66X33
+  rotate: false
+  xy: 363, 300
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_70X71
+  rotate: false
+  xy: 363, 252
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_71X62
+  rotate: false
+  xy: 410, 279
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_73X54
+  rotate: false
+  xy: 458, 279
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_77X46
+  rotate: false
+  xy: 1, 296
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_7X7
+  rotate: false
+  xy: 502, 14
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_80X27
+  rotate: false
+  xy: 92, 296
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_87X71
+  rotate: false
+  xy: 438, 231
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_88X108
+  rotate: false
+  xy: 451, 160
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_CANNON_ZOMBIE_CARNIE_CANNON_91X107
+  rotate: false
+  xy: 451, 89
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1

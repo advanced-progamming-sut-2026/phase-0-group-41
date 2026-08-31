@@ -1,0 +1,1027 @@
+WORLDMAPSPINE_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_120X130
+  rotate: false
+  xy: 1, 391
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_123X65
+  rotate: false
+  xy: 592, 456
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_13X17
+  rotate: false
+  xy: 1014, 400
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_26X17
+  rotate: false
+  xy: 817, 390
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_35X33
+  rotate: false
+  xy: 390, 642
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_35X37
+  rotate: false
+  xy: 1000, 289
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_41X54
+  rotate: false
+  xy: 689, 604
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_44X39
+  rotate: false
+  xy: 929, 320
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_45X33
+  rotate: false
+  xy: 556, 521
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_47X33
+  rotate: false
+  xy: 342, 492
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_52X42
+  rotate: false
+  xy: 889, 404
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_90X43
+  rotate: false
+  xy: 1, 630
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_GIFTBOX_WORLD_MAP_GIFTBOX_WORLD_MAP_93X24
+  rotate: false
+  xy: 213, 641
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_104X72
+  rotate: false
+  xy: 1, 476
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_106X228
+  rotate: false
+  xy: 592, 308
+  size: 68, 146
+  orig: 68, 146
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_108X72
+  rotate: false
+  xy: 817, 454
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_109X75
+  rotate: false
+  xy: 817, 404
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_116X54
+  rotate: false
+  xy: 203, 531
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_116X54_2
+  rotate: false
+  xy: 77, 537
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_118X40
+  rotate: false
+  xy: 786, 584
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_118X40_2
+  rotate: false
+  xy: 1, 602
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_118X49
+  rotate: false
+  xy: 231, 568
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_118X49_2
+  rotate: false
+  xy: 309, 569
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_130X128
+  rotate: false
+  xy: 929, 350
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_140X209
+  rotate: false
+  xy: 684, 172
+  size: 90, 134
+  orig: 90, 134
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_15X27
+  rotate: false
+  xy: 1014, 360
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_171X125
+  rotate: false
+  xy: 1, 309
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_18X24
+  rotate: false
+  xy: 796, 522
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_203X211
+  rotate: false
+  xy: 133, 172
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_246X263
+  rotate: false
+  xy: 321, 1
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_246X263_2
+  rotate: false
+  xy: 481, 1
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_26X22
+  rotate: false
+  xy: 692, 456
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_26X26
+  rotate: false
+  xy: 609, 585
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_30X28
+  rotate: false
+  xy: 203, 509
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_31X172
+  rotate: false
+  xy: 742, 559
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_31X222
+  rotate: false
+  xy: 938, 172
+  size: 20, 142
+  orig: 20, 142
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_31X222_2
+  rotate: false
+  xy: 342, 309
+  size: 20, 142
+  orig: 20, 142
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_31X33
+  rotate: false
+  xy: 415, 642
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_31X33_2
+  rotate: false
+  xy: 786, 643
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_31X33_3
+  rotate: false
+  xy: 808, 643
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_37X36
+  rotate: false
+  xy: 507, 608
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_38X37
+  rotate: false
+  xy: 985, 618
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_58X344
+  rotate: false
+  xy: 264, 309
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_58X542
+  rotate: false
+  xy: 436, 172
+  size: 37, 347
+  orig: 37, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_58X542_2
+  rotate: false
+  xy: 475, 172
+  size: 37, 347
+  orig: 37, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_79X58
+  rotate: false
+  xy: 556, 585
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_79X58_2
+  rotate: false
+  xy: 235, 602
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_79X58_3
+  rotate: false
+  xy: 288, 603
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_84X55
+  rotate: false
+  xy: 279, 531
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_86X57
+  rotate: false
+  xy: 1, 561
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_91X45
+  rotate: false
+  xy: 786, 612
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_95X36
+  rotate: false
+  xy: 846, 636
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_97X71
+  rotate: false
+  xy: 592, 500
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_97X71_2
+  rotate: false
+  xy: 813, 502
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_GARGANTUAR_LEVEL_NODE_GARGANTUAR_97X71_3
+  rotate: false
+  xy: 342, 521
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_104X72
+  rotate: false
+  xy: 744, 474
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_106X228
+  rotate: false
+  xy: 868, 172
+  size: 68, 146
+  orig: 68, 146
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_108X72
+  rotate: false
+  xy: 148, 441
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_109X75
+  rotate: false
+  xy: 148, 391
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_116X54
+  rotate: false
+  xy: 720, 522
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_116X54_2
+  rotate: false
+  xy: 1, 524
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_118X40
+  rotate: false
+  xy: 58, 574
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_118X40_2
+  rotate: false
+  xy: 874, 577
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_118X49
+  rotate: false
+  xy: 796, 550
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_118X49_2
+  rotate: false
+  xy: 153, 568
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_130X128
+  rotate: false
+  xy: 844, 320
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_140X209
+  rotate: false
+  xy: 592, 172
+  size: 90, 134
+  orig: 90, 134
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_15X27
+  rotate: false
+  xy: 1014, 340
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_171X125
+  rotate: false
+  xy: 732, 308
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_18X24
+  rotate: false
+  xy: 656, 500
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_203X211
+  rotate: false
+  xy: 1, 172
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_246X263
+  rotate: false
+  xy: 1, 1
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_246X263_2
+  rotate: false
+  xy: 161, 1
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_26X22
+  rotate: false
+  xy: 673, 456
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_26X26
+  rotate: false
+  xy: 1005, 579
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_30X28
+  rotate: false
+  xy: 203, 489
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_31X172
+  rotate: false
+  xy: 720, 559
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_31X222
+  rotate: false
+  xy: 1000, 1
+  size: 20, 142
+  orig: 20, 142
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_31X222_2
+  rotate: false
+  xy: 1000, 145
+  size: 20, 142
+  orig: 20, 142
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_31X33
+  rotate: false
+  xy: 374, 492
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_31X33_2
+  rotate: false
+  xy: 180, 537
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_31X33_3
+  rotate: false
+  xy: 510, 633
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_37X36
+  rotate: false
+  xy: 1000, 315
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_38X37
+  rotate: false
+  xy: 153, 537
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_58X344
+  rotate: false
+  xy: 225, 309
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_58X542
+  rotate: false
+  xy: 961, 1
+  size: 37, 347
+  orig: 37, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_58X542_2
+  rotate: false
+  xy: 397, 172
+  size: 37, 347
+  orig: 37, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_79X58
+  rotate: false
+  xy: 342, 453
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_79X58_2
+  rotate: false
+  xy: 465, 569
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_79X58_3
+  rotate: false
+  xy: 952, 579
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_91X45
+  rotate: false
+  xy: 447, 608
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_95X36
+  rotate: false
+  xy: 150, 630
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_97X71
+  rotate: false
+  xy: 888, 484
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_97X71_2
+  rotate: false
+  xy: 139, 489
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_LEVEL_NODE_97X71_3
+  rotate: false
+  xy: 952, 492
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_104X57
+  rotate: false
+  xy: 953, 540
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_104X72
+  rotate: false
+  xy: 70, 476
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_106X228
+  rotate: false
+  xy: 662, 308
+  size: 68, 146
+  orig: 68, 146
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_108X72
+  rotate: false
+  xy: 673, 474
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_109X75
+  rotate: false
+  xy: 889, 434
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_116X54
+  rotate: false
+  xy: 877, 540
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_116X54_2
+  rotate: false
+  xy: 556, 548
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_118X40
+  rotate: false
+  xy: 79, 602
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_118X40_2
+  rotate: false
+  xy: 157, 602
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_118X49
+  rotate: false
+  xy: 387, 569
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_118X49_2
+  rotate: false
+  xy: 632, 570
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_130X128
+  rotate: false
+  xy: 732, 390
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_140X209
+  rotate: false
+  xy: 776, 172
+  size: 90, 134
+  orig: 90, 134
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_15X27
+  rotate: false
+  xy: 1014, 380
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_171X125
+  rotate: false
+  xy: 113, 309
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_18X24
+  rotate: false
+  xy: 518, 569
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_203X211
+  rotate: false
+  xy: 265, 172
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_246X263
+  rotate: false
+  xy: 641, 1
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_246X263_2
+  rotate: false
+  xy: 801, 1
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_26X22
+  rotate: false
+  xy: 711, 456
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_26X26
+  rotate: false
+  xy: 1005, 598
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_30X28
+  rotate: false
+  xy: 632, 548
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_31X172
+  rotate: false
+  xy: 764, 559
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_31X222
+  rotate: false
+  xy: 364, 309
+  size: 20, 142
+  orig: 20, 142
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_31X222_2
+  rotate: false
+  xy: 534, 521
+  size: 20, 142
+  orig: 20, 142
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_31X33
+  rotate: false
+  xy: 998, 644
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_31X33_2
+  rotate: false
+  xy: 150, 655
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_31X33_3
+  rotate: false
+  xy: 172, 655
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_37X36
+  rotate: false
+  xy: 364, 642
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_38X37
+  rotate: false
+  xy: 689, 641
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_58X344
+  rotate: false
+  xy: 303, 309
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_58X542
+  rotate: false
+  xy: 514, 172
+  size: 37, 347
+  orig: 37, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_58X542_2
+  rotate: false
+  xy: 553, 172
+  size: 37, 347
+  orig: 37, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_79X58
+  rotate: false
+  xy: 341, 603
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_79X58_2
+  rotate: false
+  xy: 394, 603
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_79X58_3
+  rotate: false
+  xy: 609, 604
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_91X45
+  rotate: false
+  xy: 925, 618
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_92X45
+  rotate: false
+  xy: 864, 605
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_95X36
+  rotate: false
+  xy: 447, 639
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_97X71
+  rotate: false
+  xy: 406, 521
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_97X71_2
+  rotate: false
+  xy: 470, 521
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_LEVEL_NODE_MINIGAME_LEVEL_NODE_MINIGAME_97X71_3
+  rotate: false
+  xy: 656, 522
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_102X102
+  rotate: false
+  xy: 80, 391
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_135X16
+  rotate: false
+  xy: 556, 643
+  size: 87, 10
+  orig: 87, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_135X16_2
+  rotate: false
+  xy: 909, 649
+  size: 87, 10
+  orig: 87, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_135X16_3
+  rotate: false
+  xy: 61, 655
+  size: 87, 10
+  orig: 87, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_135X17
+  rotate: false
+  xy: 275, 642
+  size: 87, 11
+  orig: 87, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_135X27
+  rotate: false
+  xy: 61, 630
+  size: 87, 18
+  orig: 87, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_39X82
+  rotate: false
+  xy: 662, 604
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_87X87
+  rotate: false
+  xy: 961, 434
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_MAP_PATH_MAP_PATH_8X12
+  rotate: false
+  xy: 844, 308
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+DELAYLOAD_BACKGROUND_ZCORP_768_00.PNG
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_ZCORP_BG_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1025, 768
+  orig: 1025, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ZCORP_BG_TEXTURE_LEFT
+  rotate: false
+  xy: 1703, 1
+  size: 279, 768
+  orig: 279, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_ZCORP_BG_TEXTURE_RIGHT
+  rotate: false
+  xy: 1028, 1
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1

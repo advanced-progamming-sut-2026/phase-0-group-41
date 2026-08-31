@@ -1,0 +1,243 @@
+ZOMBIEEGYPTCAMELTOUCHGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_100X150
+  rotate: false
+  xy: 143, 1
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_100X174
+  rotate: false
+  xy: 77, 1
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_112X75
+  rotate: false
+  xy: 1, 196
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_113X90
+  rotate: false
+  xy: 130, 188
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_113X94
+  rotate: false
+  xy: 1, 134
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_116X204
+  rotate: false
+  xy: 1, 1
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_121X67
+  rotate: false
+  xy: 1, 246
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_14X39
+  rotate: false
+  xy: 130, 115
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_18X38
+  rotate: false
+  xy: 158, 296
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_20X20
+  rotate: false
+  xy: 227, 171
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_20X40
+  rotate: false
+  xy: 107, 296
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_21X36
+  rotate: false
+  xy: 142, 296
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_21X50
+  rotate: false
+  xy: 45, 291
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_22X41
+  rotate: false
+  xy: 186, 248
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_22X49
+  rotate: false
+  xy: 61, 291
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_25X21
+  rotate: false
+  xy: 209, 171
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_26X46
+  rotate: false
+  xy: 1, 291
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_28X28
+  rotate: false
+  xy: 122, 296
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_36X31
+  rotate: false
+  xy: 20, 291
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_43X25
+  rotate: false
+  xy: 77, 296
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_49X32
+  rotate: false
+  xy: 222, 279
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_52X31
+  rotate: false
+  xy: 81, 226
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_52X76
+  rotate: false
+  xy: 186, 279
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_56X35
+  rotate: false
+  xy: 209, 146
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_60X71
+  rotate: false
+  xy: 145, 248
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_62X72
+  rotate: false
+  xy: 209, 98
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_68X74
+  rotate: false
+  xy: 209, 1
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_70X70
+  rotate: false
+  xy: 209, 51
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_75X75
+  rotate: false
+  xy: 205, 188
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_76X61
+  rotate: false
+  xy: 205, 238
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_7X7
+  rotate: false
+  xy: 251, 115
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_80X170
+  rotate: false
+  xy: 77, 115
+  size: 51, 109
+  orig: 51, 109
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_96X71
+  rotate: false
+  xy: 81, 248
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_ZOMBIE_EGYPT_CAMEL_BOARD_FLIP_99X136
+  rotate: false
+  xy: 143, 99
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1

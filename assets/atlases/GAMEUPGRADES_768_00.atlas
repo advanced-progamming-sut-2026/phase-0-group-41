@@ -1,0 +1,68 @@
+GAMEUPGRADES_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_COLLECTED_UPGRADE_EFFECT_COLLECTED_UPGRADE_EFFECT_259X263
+  rotate: false
+  xy: 1, 1
+  size: 166, 169
+  orig: 166, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_MANUAL_MOWERS
+  rotate: false
+  xy: 169, 1
+  size: 99, 125
+  orig: 99, 125
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_PINATAHUNT_SLOT
+  rotate: false
+  xy: 352, 1
+  size: 78, 125
+  orig: 78, 125
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_PLANTFOOD_REFRESH
+  rotate: false
+  xy: 1, 172
+  size: 81, 106
+  orig: 81, 106
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_PLANTFOOD_SLOT
+  rotate: false
+  xy: 84, 172
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_SEEDBANK_SLOT
+  rotate: false
+  xy: 169, 128
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_STARTING_SUN
+  rotate: false
+  xy: 254, 133
+  size: 80, 113
+  orig: 80, 113
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_SUN_SHOVEL
+  rotate: false
+  xy: 352, 128
+  size: 80, 115
+  orig: 80, 115
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COMMON_UPGRADE_WALLNUT_FIRSTAID
+  rotate: false
+  xy: 270, 1
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1

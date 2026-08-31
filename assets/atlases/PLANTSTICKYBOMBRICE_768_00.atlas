@@ -1,0 +1,656 @@
+PLANTSTICKYBOMBRICE_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_110X122
+  rotate: false
+  xy: 171, 256
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_112X106
+  rotate: false
+  xy: 322, 275
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_116X121
+  rotate: false
+  xy: 1, 219
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_118X107
+  rotate: false
+  xy: 244, 275
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_127X64
+  rotate: false
+  xy: 396, 275
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_143X141
+  rotate: false
+  xy: 1, 127
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_14X24
+  rotate: false
+  xy: 499, 373
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_175X168
+  rotate: false
+  xy: 133, 1
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_18X13
+  rotate: false
+  xy: 168, 376
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_1X1
+  rotate: false
+  xy: 506, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_1X1_2
+  rotate: false
+  xy: 509, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_202X193
+  rotate: false
+  xy: 1, 1
+  size: 130, 124
+  orig: 130, 124
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_22X20
+  rotate: false
+  xy: 395, 370
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_24X22
+  rotate: false
+  xy: 275, 369
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_25X25
+  rotate: false
+  xy: 116, 366
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_264X52
+  rotate: false
+  xy: 290, 239
+  size: 169, 34
+  orig: 169, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_267X62
+  rotate: false
+  xy: 290, 197
+  size: 171, 40
+  orig: 171, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_27X30
+  rotate: false
+  xy: 417, 354
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_35X33
+  rotate: false
+  xy: 242, 346
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_35X36
+  rotate: false
+  xy: 483, 328
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_48X31
+  rotate: false
+  xy: 95, 179
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_59X100
+  rotate: false
+  xy: 77, 296
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_61X44
+  rotate: false
+  xy: 442, 318
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_67X69
+  rotate: false
+  xy: 171, 209
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_73X84
+  rotate: false
+  xy: 463, 155
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_81X148
+  rotate: false
+  xy: 452, 1
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_82X85
+  rotate: false
+  xy: 452, 98
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_85X80
+  rotate: false
+  xy: 290, 115
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_EXPLOSION_STICKYBOMB_EXPLOSION_95X217
+  rotate: false
+  xy: 227, 115
+  size: 61, 139
+  orig: 61, 139
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_PROJECTILE_STICKYBOMB_PROJECTILE_18X13
+  rotate: false
+  xy: 182, 376
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_PROJECTILE_STICKYBOMB_PROJECTILE_22X20
+  rotate: false
+  xy: 411, 375
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_PROJECTILE_STICKYBOMB_PROJECTILE_24X22
+  rotate: false
+  xy: 293, 369
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_PROJECTILE_STICKYBOMB_PROJECTILE_27X30
+  rotate: false
+  xy: 1, 358
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_PROJECTILE_STICKYBOMB_PROJECTILE_35X36
+  rotate: false
+  xy: 217, 336
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STICKYBOMB_PROJECTILE_STICKYBOMB_PROJECTILE_48X31
+  rotate: false
+  xy: 322, 345
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_116X133
+  rotate: false
+  xy: 95, 209
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_11X16
+  rotate: false
+  xy: 347, 115
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_12X14
+  rotate: false
+  xy: 452, 155
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_144X149
+  rotate: false
+  xy: 133, 111
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_145X149
+  rotate: false
+  xy: 357, 1
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_145X149_2
+  rotate: false
+  xy: 357, 99
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_15X10
+  rotate: false
+  xy: 461, 266
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_169X175
+  rotate: false
+  xy: 247, 1
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_16X12
+  rotate: false
+  xy: 343, 184
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_16X9
+  rotate: false
+  xy: 95, 201
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_17X22
+  rotate: false
+  xy: 343, 168
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_18X12
+  rotate: false
+  xy: 1, 379
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_20X28
+  rotate: false
+  xy: 499, 353
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_22X23
+  rotate: false
+  xy: 134, 366
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_22X27
+  rotate: false
+  xy: 77, 219
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_22X27_2
+  rotate: false
+  xy: 77, 239
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_23X23
+  rotate: false
+  xy: 77, 277
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_23X25
+  rotate: false
+  xy: 77, 259
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_24X30
+  rotate: false
+  xy: 98, 362
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_24X30_2
+  rotate: false
+  xy: 437, 365
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X13
+  rotate: false
+  xy: 473, 375
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X14
+  rotate: false
+  xy: 150, 376
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X22
+  rotate: false
+  xy: 377, 370
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X24
+  rotate: false
+  xy: 316, 367
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X24_2
+  rotate: false
+  xy: 334, 367
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X25
+  rotate: false
+  xy: 237, 369
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X29
+  rotate: false
+  xy: 455, 365
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_25X31
+  rotate: false
+  xy: 80, 362
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_26X29
+  rotate: false
+  xy: 218, 361
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_26X30
+  rotate: false
+  xy: 61, 362
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_27X22
+  rotate: false
+  xy: 255, 369
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_27X28
+  rotate: false
+  xy: 198, 361
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_27X29
+  rotate: false
+  xy: 21, 358
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_28X29
+  rotate: false
+  xy: 41, 361
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_30X56
+  rotate: false
+  xy: 51, 299
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_31X24
+  rotate: false
+  xy: 355, 365
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_32X33
+  rotate: false
+  xy: 152, 353
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_33X32
+  rotate: false
+  xy: 175, 353
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_34X31
+  rotate: false
+  xy: 475, 353
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_34X33
+  rotate: false
+  xy: 292, 346
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_34X34
+  rotate: false
+  xy: 51, 337
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_35X32
+  rotate: false
+  xy: 267, 346
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_39X21
+  rotate: false
+  xy: 390, 354
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_40X36
+  rotate: false
+  xy: 483, 303
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_40X55
+  rotate: false
+  xy: 480, 266
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_48X23
+  rotate: false
+  xy: 442, 348
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_48X77
+  rotate: false
+  xy: 95, 127
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_51X27
+  rotate: false
+  xy: 355, 345
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_51X50
+  rotate: false
+  xy: 117, 332
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_53X22
+  rotate: false
+  xy: 244, 256
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_69X52
+  rotate: false
+  xy: 396, 318
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_72X83
+  rotate: false
+  xy: 463, 211
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_73X53
+  rotate: false
+  xy: 117, 296
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_73X53_2
+  rotate: false
+  xy: 1, 299
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_74X33
+  rotate: false
+  xy: 1, 335
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_79X37
+  rotate: false
+  xy: 290, 168
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_8X10
+  rotate: false
+  xy: 506, 1
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STICKYBOMB_RICE_STICKYBOMB_RICE_98X23
+  rotate: false
+  xy: 152, 336
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1

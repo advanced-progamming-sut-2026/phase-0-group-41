@@ -69,6 +69,30 @@ public final class AssetPaths {
     public static final String BG_LAWN_BIG_WAVE_BEACH = atlas("DELAYLOAD_BACKGROUND_BEACH_COMPRESSED", "IMAGE_BACKGROUNDS_BEACH_TEXTURE");
     public static final String BG_LAWN_DARK_AGES = atlas("DELAYLOAD_BACKGROUND_DARK_COMPRESSED", "IMAGE_BACKGROUNDS_DARK_TEXTURE");
 
+    // ==================== مینی‌گیم‌ها ====================
+    // پس‌زمینه‌ی اختصاصی هر مینی‌گیم (از دارایی‌های رسمی؛ کوزه‌شکنی و ترکیب سه‌تایی
+    // پس‌زمینه‌ی اختصاصی جدا ندارند و از همان حیاط معمولی استفاده می‌کنند، دقیقاً
+    // مثل رفتار GameScreen برای مراحل عادی).
+    public static final String BG_MINIGAME_VASEBREAKER = BG_LAWN_NORMAL;
+    public static final String BG_MINIGAME_WALLNUT_BOWLING = BG_LAWN_NORMAL;
+    public static final String BG_MINIGAME_IZOMBIE = atlas("DELAYLOAD_BACKGROUND_FRONTLAWN_BIGBRAINZ", "IMAGE_BACKGROUNDS_BACKGROUND_LOD_BIGBRAINZ_TEXTURE");
+    public static final String BG_MINIGAME_BEGHOULED = BG_LAWN_NORMAL;
+
+    // کوزه‌های سه‌رنگ کوزه‌شکنی (طبق سند: عادی/سبز/بنفش)
+    public static final String VASE_NORMAL = atlas("VASEBREAKERGROUP", "IMAGE_VASEBREAKER_VASE_BROWN_VASE_BROWN_115X150");
+    public static final String VASE_GREEN = atlas("VASEBREAKERGROUP", "IMAGE_VASEBREAKER_VASE_GREEN_VASE_GREEN_115X150");
+    public static final String VASE_PURPLE = atlas("VASEBREAKERGROUP", "IMAGE_VASEBREAKER_VASE_GARGANTUAR_VASE_GARGANTUAR_115X150");
+    // غول‌پیکری که از کوزه‌ی بنفش بیرون می‌آید
+    public static final String VASE_GARGANTUAR = atlas("ZOMBIEVASEGARGANTUARGROUP", "IMAGE_ZOMBIE_VASE_GARGANTUAR_VASE_GARGANTUAR_116X123");
+
+    // گردوهای بولینگ گردویی
+    public static final String NUT_BOWLING_NORMAL = atlas("PLANTWALLNUT", "IMAGE_PLANT_WALLNUT_WALLNUT_169X187");
+    public static final String NUT_BOWLING_EXPLOSIVE = atlas("PLANTEXPLODEONUT", "IMAGE_PLANT_EXPLODEONUT_EXPLODEONUT_179X212");
+    public static final String NUT_BOWLING_GIANT = atlas("PLANTPRIMALWALLNUT", "IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_187X225");
+
+    // گودال (Crater) که بعد از خوردن گیاه توسط زامبی در Beghouled ایجاد می‌شود
+    public static final String BEGHOULED_CRATER = atlas("BEGHOULEDGROUP", "IMAGE_EFFECTS_CRATER_CRATER_129X131");
+
     // خورشید سقوط‌کننده (طیف رنگی SPECIAL/RADIOACTIVE با تینت رنگی روی همان اسپرایت اعمال می‌شود؛
     // چون در منابع استخراج‌شده نسخه‌ی رنگ جداگانه‌ای برای آن‌ها پیدا نشد)
     public static final String SUN_NORMAL = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");

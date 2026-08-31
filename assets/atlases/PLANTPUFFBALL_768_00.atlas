@@ -1,0 +1,467 @@
+PLANTPUFFBALL_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_13X13
+  rotate: false
+  xy: 248, 171
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_38X33
+  rotate: false
+  xy: 274, 204
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_47X73
+  rotate: false
+  xy: 205, 202
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_58X171
+  rotate: false
+  xy: 474, 1
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_61X127
+  rotate: false
+  xy: 123, 144
+  size: 39, 82
+  orig: 39, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_64X100
+  rotate: false
+  xy: 440, 198
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_64X192
+  rotate: false
+  xy: 262, 79
+  size: 41, 123
+  orig: 41, 123
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_CONFETTI_PUFFBALL_EXPLOSION_CONFETTI_67X19
+  rotate: false
+  xy: 1, 256
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_122X105
+  rotate: false
+  xy: 182, 73
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_124X118
+  rotate: false
+  xy: 303, 1
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_15X19
+  rotate: false
+  xy: 502, 150
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_15X22
+  rotate: false
+  xy: 248, 142
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_15X25
+  rotate: false
+  xy: 502, 132
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_16X15
+  rotate: false
+  xy: 502, 164
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_16X17
+  rotate: false
+  xy: 248, 158
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_180X172
+  rotate: false
+  xy: 1, 1
+  size: 115, 110
+  orig: 115, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_18X18
+  rotate: false
+  xy: 149, 228
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_18X46
+  rotate: false
+  xy: 164, 144
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_1X1
+  rotate: false
+  xy: 262, 73
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_1X1_2
+  rotate: false
+  xy: 265, 73
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_205X43
+  rotate: false
+  xy: 305, 168
+  size: 131, 28
+  orig: 131, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_208X51
+  rotate: false
+  xy: 305, 133
+  size: 133, 33
+  orig: 133, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_23X21
+  rotate: false
+  xy: 164, 176
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_24X24
+  rotate: false
+  xy: 158, 268
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_26X27
+  rotate: false
+  xy: 416, 264
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_27X29
+  rotate: false
+  xy: 396, 264
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_28X33
+  rotate: false
+  xy: 376, 258
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_29X51
+  rotate: false
+  xy: 483, 233
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_34X51
+  rotate: false
+  xy: 483, 198
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_44X26
+  rotate: false
+  xy: 474, 113
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_46X47
+  rotate: false
+  xy: 237, 241
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_46X59
+  rotate: false
+  xy: 274, 230
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_46X81
+  rotate: false
+  xy: 347, 79
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_54X40
+  rotate: false
+  xy: 359, 230
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_54X55
+  rotate: false
+  xy: 237, 204
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_61X100
+  rotate: false
+  xy: 164, 202
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_61X44
+  rotate: false
+  xy: 60, 113
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_62X71
+  rotate: false
+  xy: 305, 79
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_63X99
+  rotate: false
+  xy: 397, 198
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_68X110
+  rotate: false
+  xy: 1, 183
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_89X106
+  rotate: false
+  xy: 1, 113
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_94X98
+  rotate: false
+  xy: 440, 133
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_95X90
+  rotate: false
+  xy: 60, 144
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_96X220
+  rotate: false
+  xy: 118, 1
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PUFFBALL_EXPLOSION_PUFFBALL_EXPLOSION_99X90
+  rotate: false
+  xy: 182, 142
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_107X31
+  rotate: false
+  xy: 47, 204
+  size: 69, 20
+  orig: 69, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_11X11
+  rotate: false
+  xy: 504, 113
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_136X100
+  rotate: false
+  xy: 385, 1
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_136X100_2
+  rotate: false
+  xy: 385, 67
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_141X46
+  rotate: false
+  xy: 305, 198
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_156X32
+  rotate: false
+  xy: 47, 228
+  size: 100, 21
+  orig: 100, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_185X109
+  rotate: false
+  xy: 182, 1
+  size: 119, 70
+  orig: 119, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_20X18
+  rotate: false
+  xy: 101, 128
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_22X20
+  rotate: false
+  xy: 101, 113
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_24X23
+  rotate: false
+  xy: 467, 268
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_24X23_2
+  rotate: false
+  xy: 485, 268
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_27X15
+  rotate: false
+  xy: 1, 270
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_34X17
+  rotate: false
+  xy: 176, 268
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_38X29
+  rotate: false
+  xy: 205, 251
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_44X22
+  rotate: false
+  xy: 346, 258
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_46X13
+  rotate: false
+  xy: 435, 264
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_55X32
+  rotate: false
+  xy: 47, 251
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_55X32_2
+  rotate: false
+  xy: 84, 251
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_55X32_3
+  rotate: false
+  xy: 121, 251
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_59X33
+  rotate: false
+  xy: 306, 250
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PUFFBALL_PUFFBALL_80X28
+  rotate: false
+  xy: 306, 230
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1

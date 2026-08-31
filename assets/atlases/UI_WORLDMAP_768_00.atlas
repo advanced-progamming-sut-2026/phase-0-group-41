@@ -1,0 +1,194 @@
+UI_WORLDMAP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_ALMANAC_NORMAL
+  rotate: false
+  xy: 1, 507
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_ALMANAC_SELECTED
+  rotate: false
+  xy: 78, 518
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_BACK_NORMAL
+  rotate: false
+  xy: 397, 471
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_BACK_SELECTED
+  rotate: false
+  xy: 155, 518
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_MENU_NORMAL
+  rotate: false
+  xy: 232, 518
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_MENU_SELECTED
+  rotate: false
+  xy: 309, 518
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_SOCIAL_NORMAL
+  rotate: false
+  xy: 386, 545
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_SOCIAL_SELECTED
+  rotate: false
+  xy: 1, 592
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_STORE_NORMAL
+  rotate: false
+  xy: 103, 266
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_BUTTONS_HUD_STORE_SELECTED
+  rotate: false
+  xy: 210, 266
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_FREE_COINS_BUTTON_169X169
+  rotate: false
+  xy: 407, 384
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_FREE_COINS_BUTTON_262X75
+  rotate: false
+  xy: 202, 592
+  size: 131, 38
+  orig: 131, 38
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_FREE_COINS_BUTTON_300X130
+  rotate: false
+  xy: 103, 373
+  size: 150, 65
+  orig: 150, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_FREE_COINS_BUTTON_300X130_2
+  rotate: false
+  xy: 255, 384
+  size: 150, 65
+  orig: 150, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_GOLDEN_FREE_COINS_BUTTON_GOLDEN_262X75
+  rotate: false
+  xy: 335, 619
+  size: 131, 38
+  orig: 131, 38
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_GOLDEN_FREE_COINS_BUTTON_GOLDEN_300X130
+  rotate: false
+  xy: 1, 440
+  size: 150, 65
+  orig: 150, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_GOLDEN_FREE_COINS_BUTTON_GOLDEN_300X130_2
+  rotate: false
+  xy: 153, 451
+  size: 150, 65
+  orig: 150, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FREE_COINS_BUTTON_GOLDEN_FREE_COINS_BUTTON_GOLDEN_90X90
+  rotate: false
+  xy: 78, 636
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FUEL_CURRENCY_COUNTER
+  rotate: false
+  xy: 317, 266
+  size: 181, 57
+  orig: 181, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_FUEL_CURRENCY_COUNTER_DOWN
+  rotate: false
+  xy: 317, 325
+  size: 181, 57
+  orig: 181, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_HUD_STORE_SALE_BANNER
+  rotate: false
+  xy: 78, 592
+  size: 122, 42
+  orig: 122, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_LEVEL_COUNTER
+  rotate: false
+  xy: 202, 632
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_TOP_BAR_FADE
+  rotate: false
+  xy: 503, 1
+  size: 3, 35
+  orig: 3, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_WORLDKEY
+  rotate: false
+  xy: 463, 545
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_WORLDKEY_BIRTHDAYZ_IMAGE
+  rotate: false
+  xy: 1, 1
+  size: 500, 263
+  orig: 500, 263
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_WORLDKEY_HUD
+  rotate: false
+  xy: 305, 451
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_WORLDMAP_YETI
+  rotate: false
+  xy: 1, 266
+  size: 100, 155
+  orig: 100, 155
+  offset: 0, 0
+  index: -1

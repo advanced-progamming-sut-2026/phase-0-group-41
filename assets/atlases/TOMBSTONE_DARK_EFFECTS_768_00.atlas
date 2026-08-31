@@ -1,0 +1,110 @@
+TOMBSTONE_DARK_EFFECTS_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_113X53
+  rotate: false
+  xy: 114, 275
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_173X96
+  rotate: false
+  xy: 1, 275
+  size: 111, 62
+  orig: 111, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_1X1
+  rotate: false
+  xy: 254, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_23X24
+  rotate: false
+  xy: 237, 1
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_35X42
+  rotate: false
+  xy: 232, 84
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_39X36
+  rotate: false
+  xy: 207, 225
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_48X48
+  rotate: false
+  xy: 207, 192
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_59X40
+  rotate: false
+  xy: 207, 164
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_60X67
+  rotate: false
+  xy: 191, 84
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_67X51
+  rotate: false
+  xy: 191, 129
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_BASE_DAMAGE_TOMBSTONE_DARK_BASE_DAMAGE_7X7
+  rotate: false
+  xy: 237, 19
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT_ZOMBIE_EGYPT_TOMBRAISER_BEAM_01
+  rotate: false
+  xy: 191, 1
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT_ZOMBIE_EGYPT_TOMBRAISER_DISC_01
+  rotate: false
+  xy: 1, 172
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_DARK_SPAWN_EFFECT_ZOMBIE_EGYPT_TOMBRAISER_DISC_02
+  rotate: false
+  xy: 104, 172
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1

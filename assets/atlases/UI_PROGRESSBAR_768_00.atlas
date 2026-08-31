@@ -1,0 +1,124 @@
+UI_PROGRESSBAR_768_00.PNG
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PROGRESSBAR_DIRT_BOTTOM
+  rotate: false
+  xy: 1, 1
+  size: 2035, 211
+  orig: 2035, 211
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_GRASS_TOP
+  rotate: false
+  xy: 1, 214
+  size: 2035, 211
+  orig: 2035, 211
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_11X11
+  rotate: false
+  xy: 2038, 12
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_149X69
+  rotate: false
+  xy: 1432, 475
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_14X14
+  rotate: false
+  xy: 2038, 1
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_160X161
+  rotate: false
+  xy: 1220, 475
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_163X72
+  rotate: false
+  xy: 1325, 475
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_186X179
+  rotate: false
+  xy: 1713, 427
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_1X1
+  rotate: false
+  xy: 2038, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_228X116
+  rotate: false
+  xy: 1834, 427
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_333X300
+  rotate: false
+  xy: 1, 427
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_56X53
+  rotate: false
+  xy: 1530, 475
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_66X103
+  rotate: false
+  xy: 1982, 427
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_767X72
+  rotate: false
+  xy: 1220, 427
+  size: 491, 46
+  orig: 491, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_777X75
+  rotate: false
+  xy: 720, 427
+  size: 498, 48
+  orig: 498, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_784X106
+  rotate: false
+  xy: 216, 427
+  size: 502, 68
+  orig: 502, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PROGRESSBAR_LOADER_SODROLL_LOADER_SODROLL_81X31
+  rotate: false
+  xy: 1568, 475
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,89 @@
+COLLECTABLEKEYS_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDKEY_ICON_KEY_BEACH
+  rotate: false
+  xy: 1, 1
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_COWBOY
+  rotate: false
+  xy: 1, 253
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_DARK
+  rotate: false
+  xy: 85, 1
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_DINO
+  rotate: false
+  xy: 169, 1
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_EGYPT
+  rotate: false
+  xy: 139, 254
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_EIGHTIES
+  rotate: false
+  xy: 1, 85
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_FOODFIGHT
+  rotate: false
+  xy: 85, 85
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_FUTURE
+  rotate: false
+  xy: 70, 253
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_ICEAGE
+  rotate: false
+  xy: 169, 85
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_LOSTCITY
+  rotate: false
+  xy: 1, 169
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_MODERN
+  rotate: false
+  xy: 85, 169
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDKEY_ICON_KEY_PIRATE
+  rotate: false
+  xy: 169, 169
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1

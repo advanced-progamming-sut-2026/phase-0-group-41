@@ -1,0 +1,544 @@
+PLANTDANDELION_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_102X250
+  rotate: false
+  xy: 319, 1
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_105X115
+  rotate: false
+  xy: 429, 193
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_107X108
+  rotate: false
+  xy: 85, 198
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_107X108_2
+  rotate: false
+  xy: 1, 210
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_143X141
+  rotate: false
+  xy: 99, 106
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_146X133
+  rotate: false
+  xy: 387, 106
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_147X160
+  rotate: false
+  xy: 387, 1
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_149X210
+  rotate: false
+  xy: 1, 1
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_151X135
+  rotate: false
+  xy: 209, 102
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_168X161
+  rotate: false
+  xy: 99, 1
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_169X155
+  rotate: false
+  xy: 209, 1
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_1X1
+  rotate: false
+  xy: 508, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_22X21
+  rotate: false
+  xy: 498, 190
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_58X53
+  rotate: false
+  xy: 394, 331
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_62X62
+  rotate: false
+  xy: 270, 329
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_62X63
+  rotate: false
+  xy: 154, 329
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_EXPLOSION_T_DANDELION_EXPLOSION_99X99
+  rotate: false
+  xy: 156, 263
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_10X12
+  rotate: false
+  xy: 308, 140
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_12X17
+  rotate: false
+  xy: 501, 49
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_12X18
+  rotate: false
+  xy: 308, 102
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_34X34
+  rotate: false
+  xy: 483, 62
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_34X34_2
+  rotate: false
+  xy: 483, 86
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_48X48
+  rotate: false
+  xy: 156, 198
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_69X69
+  rotate: false
+  xy: 108, 322
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_71X36
+  rotate: false
+  xy: 308, 163
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_DANDELION_PROJECTILE_T_DANDELION_PROJECTILE_72X72
+  rotate: false
+  xy: 346, 325
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_101X80
+  rotate: false
+  xy: 72, 269
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_105X105
+  rotate: false
+  xy: 277, 260
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_109X113
+  rotate: false
+  xy: 357, 193
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_11X10
+  rotate: false
+  xy: 308, 150
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_122X105
+  rotate: false
+  xy: 277, 191
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_128X109
+  rotate: false
+  xy: 1, 138
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_128X109_2
+  rotate: false
+  xy: 193, 191
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_12X16
+  rotate: false
+  xy: 308, 116
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_12X16_2
+  rotate: false
+  xy: 308, 128
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_13X10
+  rotate: false
+  xy: 500, 146
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_13X9
+  rotate: false
+  xy: 85, 156
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_14X10
+  rotate: false
+  xy: 85, 147
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_14X19
+  rotate: false
+  xy: 193, 132
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_15X11
+  rotate: false
+  xy: 85, 138
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_15X28
+  rotate: false
+  xy: 501, 29
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_15X9
+  rotate: false
+  xy: 193, 154
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_16X9
+  rotate: false
+  xy: 500, 155
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_17X17
+  rotate: false
+  xy: 500, 124
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_18X18
+  rotate: false
+  xy: 500, 110
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_19X11
+  rotate: false
+  xy: 500, 137
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_19X9
+  rotate: false
+  xy: 193, 146
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_20X15
+  rotate: false
+  xy: 193, 120
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_20X19
+  rotate: false
+  xy: 193, 106
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_21X10
+  rotate: false
+  xy: 357, 183
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_23X35
+  rotate: false
+  xy: 49, 281
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_23X49
+  rotate: false
+  xy: 483, 110
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_23X49_2
+  rotate: false
+  xy: 483, 144
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_23X49_3
+  rotate: false
+  xy: 497, 269
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_24X17
+  rotate: false
+  xy: 433, 331
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_24X48
+  rotate: false
+  xy: 483, 29
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_25X15
+  rotate: false
+  xy: 490, 344
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_29X28
+  rotate: false
+  xy: 237, 334
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_30X21
+  rotate: false
+  xy: 49, 306
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_33X24
+  rotate: false
+  xy: 467, 344
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_34X16
+  rotate: false
+  xy: 483, 178
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_35X14
+  rotate: false
+  xy: 156, 251
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_35X41
+  rotate: false
+  xy: 483, 1
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_40X28
+  rotate: false
+  xy: 356, 163
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_48X30
+  rotate: false
+  xy: 312, 329
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_49X27
+  rotate: false
+  xy: 433, 344
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_51X113
+  rotate: false
+  xy: 462, 269
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_53X28
+  rotate: false
+  xy: 156, 231
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_59X51
+  rotate: false
+  xy: 1, 334
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_5X5
+  rotate: false
+  xy: 508, 1
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_60X48
+  rotate: false
+  xy: 196, 334
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_71X107
+  rotate: false
+  xy: 222, 263
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_72X79
+  rotate: false
+  xy: 1, 281
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_77X93
+  rotate: false
+  xy: 410, 269
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_7X7
+  rotate: false
+  xy: 507, 102
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_88X63
+  rotate: false
+  xy: 49, 322
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DANDELION_DANDELION_96X85
+  rotate: false
+  xy: 346, 268
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1

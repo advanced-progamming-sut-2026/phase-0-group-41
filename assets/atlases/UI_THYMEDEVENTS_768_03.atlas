@@ -1,0 +1,89 @@
+UI_THYMEDEVENTS_768_03.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_THYMED_EVENTS_LNY_EVENT_BG
+  rotate: false
+  xy: 1, 1
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LUCKOTHEZOMBIE2025_EVENT_BG
+  rotate: false
+  xy: 833, 1
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LUCKOTHEZOMBIE_EVENT_BG
+  rotate: false
+  xy: 1, 333
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LUNARNEWYEAR_EVENT_BG
+  rotate: false
+  xy: 833, 333
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LUNARZOOYEAR_EVENT_BG
+  rotate: false
+  xy: 1, 665
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_MEGAGATLINGPEAWINTER_EVENT_BG
+  rotate: false
+  xy: 833, 665
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_POTW_EVENT_BG
+  rotate: false
+  xy: 1, 997
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ROMAN2025_EVENT_BG
+  rotate: false
+  xy: 833, 997
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ROMAN_EVENT_BG
+  rotate: false
+  xy: 1, 1329
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_SPORTZBALL_EVENT_BG
+  rotate: false
+  xy: 833, 1329
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_SPRINGENING2025_EVENT_BG
+  rotate: false
+  xy: 1, 1661
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_SPRINGENING_EVENT_BG
+  rotate: false
+  xy: 833, 1661
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1

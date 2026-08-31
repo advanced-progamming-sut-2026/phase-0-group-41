@@ -1,0 +1,68 @@
+FUTURE_GRAVESTONE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_1X1
+  rotate: false
+  xy: 242, 69
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_59X67
+  rotate: false
+  xy: 100, 172
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_65X50
+  rotate: false
+  xy: 140, 172
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_66X90
+  rotate: false
+  xy: 1, 172
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_70X103
+  rotate: false
+  xy: 191, 141
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_76X109
+  rotate: false
+  xy: 191, 69
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_82X50
+  rotate: false
+  xy: 45, 172
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TOMBSTONE_FUTURE_DAMAGE_TOMBSTONE_FUTURE_DAMAGE_96X102
+  rotate: false
+  xy: 191, 1
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1

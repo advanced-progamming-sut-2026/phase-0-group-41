@@ -1,0 +1,194 @@
+UI_THYMEDEVENTS_768_01.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_THYMED_EVENTS_CARNIVAL_EVENT_BG
+  rotate: false
+  xy: 1, 1276
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_LAWNOFDOOM
+  rotate: false
+  xy: 1273, 1
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 1273, 269
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_LUNARZOOYEAR
+  rotate: false
+  xy: 1273, 537
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_MGP
+  rotate: false
+  xy: 1273, 805
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_BIGTOP_2
+  rotate: false
+  xy: 1779, 981
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_FEASTIVUS_2
+  rotate: false
+  xy: 1273, 1073
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_FOODFIGHT_2
+  rotate: false
+  xy: 1464, 1073
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LAWNOFDOOM_2
+  rotate: false
+  xy: 1665, 1173
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LUCKOTHEZOMBIE_2
+  rotate: false
+  xy: 1856, 1173
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LUNARZOOYEAR_2
+  rotate: false
+  xy: 1665, 1365
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LUNARZOOYEAR_LUNARNEWYEAR_HUD_IMG
+  rotate: false
+  xy: 1856, 1365
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_ROMAN_1
+  rotate: false
+  xy: 1779, 1
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_ROMAN_2
+  rotate: false
+  xy: 1665, 1557
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SLIDE_3
+  rotate: false
+  xy: 1, 1
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SLIDE_4
+  rotate: false
+  xy: 1, 426
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SLIDE_5
+  rotate: false
+  xy: 1, 851
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SPRINGENING_1
+  rotate: false
+  xy: 1779, 197
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SPRINGENING_2
+  rotate: false
+  xy: 1856, 1557
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_TOMBASTIC_1
+  rotate: false
+  xy: 1779, 393
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_TOMBASTIC_2
+  rotate: false
+  xy: 1665, 1749
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_VALENBRAINZ_1
+  rotate: false
+  xy: 1779, 589
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_VALENBRAINZ_2
+  rotate: false
+  xy: 1856, 1749
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_ZCORP_1
+  rotate: false
+  xy: 1779, 785
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_HARVESTFESTIVAL_2023_EVENT_BG
+  rotate: false
+  xy: 833, 1276
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LUNARZOOYEAR
+  rotate: false
+  xy: 1, 1608
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LUNARZOOYEAR2025_EVENT_BG
+  rotate: false
+  xy: 833, 1608
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1

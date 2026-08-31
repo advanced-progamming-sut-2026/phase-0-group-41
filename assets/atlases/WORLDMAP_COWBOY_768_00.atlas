@@ -1,0 +1,236 @@
+WORLDMAP_COWBOY_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_COWBOY_ISLAND1
+  rotate: false
+  xy: 1365, 623
+  size: 518, 742
+  orig: 518, 742
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND10
+  rotate: false
+  xy: 1967, 1
+  size: 72, 193
+  orig: 72, 193
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND11
+  rotate: false
+  xy: 1885, 844
+  size: 156, 108
+  orig: 156, 108
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND12
+  rotate: false
+  xy: 1885, 954
+  size: 124, 101
+  orig: 124, 101
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND13
+  rotate: false
+  xy: 1885, 1057
+  size: 129, 93
+  orig: 129, 93
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND14
+  rotate: false
+  xy: 1722, 518
+  size: 94, 81
+  orig: 94, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND15
+  rotate: false
+  xy: 633, 944
+  size: 57, 153
+  orig: 57, 153
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND16
+  rotate: false
+  xy: 388, 1069
+  size: 50, 167
+  orig: 50, 167
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND17
+  rotate: false
+  xy: 1818, 565
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND18
+  rotate: false
+  xy: 1967, 196
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND19
+  rotate: false
+  xy: 1, 795
+  size: 385, 831
+  orig: 385, 831
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND20
+  rotate: false
+  xy: 2041, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND22
+  rotate: false
+  xy: 1, 1
+  size: 733, 792
+  orig: 733, 792
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND23
+  rotate: false
+  xy: 736, 1
+  size: 843, 620
+  orig: 843, 620
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND24
+  rotate: false
+  xy: 881, 1348
+  size: 428, 148
+  orig: 428, 148
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND25
+  rotate: false
+  xy: 388, 1348
+  size: 491, 320
+  orig: 491, 320
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND26
+  rotate: false
+  xy: 1581, 1
+  size: 384, 254
+  orig: 384, 254
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND27
+  rotate: false
+  xy: 542, 1069
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND28
+  rotate: false
+  xy: 528, 1131
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND3
+  rotate: false
+  xy: 1581, 518
+  size: 139, 102
+  orig: 139, 102
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND31
+  rotate: false
+  xy: 1885, 1152
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND32
+  rotate: false
+  xy: 440, 1123
+  size: 86, 32
+  orig: 86, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND34
+  rotate: false
+  xy: 1581, 257
+  size: 259, 259
+  orig: 259, 259
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND36
+  rotate: false
+  xy: 1842, 257
+  size: 191, 306
+  orig: 191, 306
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND37
+  rotate: false
+  xy: 440, 1069
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND39
+  rotate: false
+  xy: 388, 795
+  size: 243, 272
+  orig: 243, 272
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND4
+  rotate: false
+  xy: 1885, 723
+  size: 145, 119
+  orig: 145, 119
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND5
+  rotate: false
+  xy: 1885, 565
+  size: 152, 156
+  orig: 152, 156
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND6
+  rotate: false
+  xy: 633, 795
+  size: 80, 147
+  orig: 80, 147
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND7
+  rotate: false
+  xy: 609, 1099
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND8
+  rotate: false
+  xy: 667, 1099
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_COWBOY_ISLAND9
+  rotate: false
+  xy: 1975, 1152
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_COWBOY_ZOMBOSS_NODE_COWBOY_980X1130
+  rotate: false
+  xy: 736, 623
+  size: 627, 723
+  orig: 627, 723
+  offset: 0, 0
+  index: -1

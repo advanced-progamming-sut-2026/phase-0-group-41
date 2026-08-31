@@ -1,0 +1,187 @@
+ZOMBIEIMPPEARIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_12X26
+  rotate: false
+  xy: 23, 118
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_12X27
+  rotate: false
+  xy: 97, 58
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_13X22
+  rotate: false
+  xy: 33, 118
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_13X24
+  rotate: false
+  xy: 110, 103
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_14X11
+  rotate: false
+  xy: 72, 118
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_14X24
+  rotate: false
+  xy: 1, 118
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_14X24_2
+  rotate: false
+  xy: 12, 118
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_15X24
+  rotate: false
+  xy: 117, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_15X24_2
+  rotate: false
+  xy: 97, 40
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_15X25
+  rotate: false
+  xy: 109, 54
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_167X8
+  rotate: false
+  xy: 1, 111
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_17X23
+  rotate: false
+  xy: 112, 37
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_18X14
+  rotate: false
+  xy: 58, 118
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_19X15
+  rotate: false
+  xy: 44, 118
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_20X20
+  rotate: false
+  xy: 112, 22
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_21X25
+  rotate: false
+  xy: 96, 22
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_30X30
+  rotate: false
+  xy: 96, 1
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_52X29
+  rotate: false
+  xy: 1, 90
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_52X32
+  rotate: false
+  xy: 84, 80
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_57X60
+  rotate: false
+  xy: 1, 49
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_66X33
+  rotate: false
+  xy: 40, 80
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_6X6
+  rotate: false
+  xy: 121, 54
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_70X71
+  rotate: false
+  xy: 1, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_71X62
+  rotate: false
+  xy: 48, 1
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_73X54
+  rotate: false
+  xy: 48, 43
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_IMP_BARE_ZOMBIE_IMP_BARE_7X7
+  rotate: false
+  xy: 40, 49
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

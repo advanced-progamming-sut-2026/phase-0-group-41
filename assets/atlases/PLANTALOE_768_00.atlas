@@ -1,0 +1,327 @@
+PLANTALOE_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_114X91
+  rotate: false
+  xy: 81, 65
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_122X122
+  rotate: false
+  xy: 1, 1
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_12X18
+  rotate: false
+  xy: 247, 147
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_15X15
+  rotate: false
+  xy: 40, 177
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_16X17
+  rotate: false
+  xy: 127, 125
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_22X27
+  rotate: false
+  xy: 241, 60
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_34X34
+  rotate: false
+  xy: 56, 81
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_43X39
+  rotate: false
+  xy: 69, 236
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_49X53
+  rotate: false
+  xy: 175, 244
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_49X74
+  rotate: false
+  xy: 1, 208
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_59X130
+  rotate: false
+  xy: 201, 65
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ALOE_HEAL_EFFECT_ALOE_HEAL_EFFECT_66X102
+  rotate: false
+  xy: 56, 125
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_107X96
+  rotate: false
+  xy: 81, 1
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_108X96
+  rotate: false
+  xy: 152, 1
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_12X18
+  rotate: false
+  xy: 247, 161
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_13X14
+  rotate: false
+  xy: 247, 175
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_15X10
+  rotate: false
+  xy: 83, 201
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_15X15
+  rotate: false
+  xy: 139, 191
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_15X25
+  rotate: false
+  xy: 40, 159
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_15X99
+  rotate: false
+  xy: 243, 204
+  size: 10, 64
+  orig: 10, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_16X17
+  rotate: false
+  xy: 139, 125
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_17X19
+  rotate: false
+  xy: 100, 125
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_17X27
+  rotate: false
+  xy: 40, 139
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_18X9
+  rotate: false
+  xy: 83, 193
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_19X16
+  rotate: false
+  xy: 113, 125
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_22X24
+  rotate: false
+  xy: 241, 129
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_22X27
+  rotate: false
+  xy: 56, 105
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_23X72
+  rotate: false
+  xy: 241, 81
+  size: 15, 46
+  orig: 15, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_34X34
+  rotate: false
+  xy: 1, 258
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_43X39
+  rotate: false
+  xy: 99, 255
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_46X89
+  rotate: false
+  xy: 223, 1
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_49X53
+  rotate: false
+  xy: 209, 244
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_49X74
+  rotate: false
+  xy: 35, 236
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_53X52
+  rotate: false
+  xy: 139, 237
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_58X104
+  rotate: false
+  xy: 1, 139
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_58X97
+  rotate: false
+  xy: 100, 191
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_64X64
+  rotate: false
+  xy: 40, 193
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_64X94
+  rotate: false
+  xy: 157, 142
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_66X59
+  rotate: false
+  xy: 194, 204
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_67X117
+  rotate: false
+  xy: 156, 65
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_70X81
+  rotate: false
+  xy: 200, 150
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_7X8
+  rotate: false
+  xy: 72, 105
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_7X8_2
+  rotate: false
+  xy: 72, 112
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_82X87
+  rotate: false
+  xy: 1, 81
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_83X48
+  rotate: false
+  xy: 139, 204
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ALOE_ALOE_85X73
+  rotate: false
+  xy: 100, 142
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1

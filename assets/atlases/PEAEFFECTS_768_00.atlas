@@ -1,0 +1,40 @@
+PEAEFFECTS_768_00.PNG
+size: 512, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_T_PEA_PROJECTILE_T_PEA_PROJECTILE_142X42
+  rotate: false
+  xy: 1, 26
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEA_PROJECTILE_T_PEA_PROJECTILE_209X43
+  rotate: false
+  xy: 347, 1
+  size: 134, 28
+  orig: 134, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEA_PROJECTILE_T_PEA_PROJECTILE_39X36
+  rotate: false
+  xy: 483, 1
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEA_PROJECTILE_T_PEA_PROJECTILE_39X36_2
+  rotate: false
+  xy: 94, 26
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_PEA_PROJECTILE_T_PEA_PROJECTILE_537X35
+  rotate: false
+  xy: 1, 1
+  size: 344, 23
+  orig: 344, 23
+  offset: 0, 0
+  index: -1

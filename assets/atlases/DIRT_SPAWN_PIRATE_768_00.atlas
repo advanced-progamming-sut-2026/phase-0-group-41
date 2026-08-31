@@ -1,0 +1,110 @@
+DIRT_SPAWN_PIRATE_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_144X66
+  rotate: false
+  xy: 396, 314
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_152X68
+  rotate: false
+  xy: 396, 268
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_179X50
+  rotate: false
+  xy: 396, 358
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_20X22
+  rotate: false
+  xy: 491, 37
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_228X414
+  rotate: false
+  xy: 343, 1
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_22X22
+  rotate: false
+  xy: 491, 21
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_264X376
+  rotate: false
+  xy: 172, 1
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_264X412
+  rotate: false
+  xy: 1, 1
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_281X140
+  rotate: false
+  xy: 214, 268
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_31X28
+  rotate: false
+  xy: 491, 1
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_329X278
+  rotate: false
+  xy: 1, 267
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_34X28
+  rotate: false
+  xy: 172, 244
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_39X135
+  rotate: false
+  xy: 257, 360
+  size: 25, 87
+  orig: 25, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_43X39
+  rotate: false
+  xy: 284, 360
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_PIRATE_DIRT_SPAWN_PIRATE_63X116
+  rotate: false
+  xy: 214, 360
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1

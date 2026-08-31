@@ -12,8 +12,29 @@ java {
     }
 }
 
+// مجبور کردن javac/جاوا به خواندن و کامپایل سورس‌ها با UTF-8، صرف‌نظر از
+// انکودینگ پیش‌فرض سیستم‌عامل. بدون این تنظیم، روی ویندوز (که پیش‌فرضش
+// معمولاً windows-1252 است) کامنت‌های فارسی باعث خطای
+// "unmappable character (0x81) for encoding windows-1252" در ./gradlew run می‌شوند.
+compileJava {
+    options.encoding = 'UTF-8'
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
 application {
     mainClass = 'gdx.DesktopLauncher'
+    // اجرای برنامه هم باید با UTF-8 باشد (برای رشته‌های فارسی داخل خروجی/کنسول)
+    applicationDefaultJvmArgs = ['-Dfile.encoding=UTF-8']
+}
+
+// تسک استاندارد "run" (همانی که با ./gradlew run اجرا می‌شود) هم باید صراحتاً
+// UTF-8 بگیرد؛ فقط گذاشتن applicationDefaultJvmArgs روی بعضی نسخه‌های Gradle/JDK
+// برای این تسک به‌تنهایی کافی نیست.
+tasks.named('run', JavaExec) {
+    jvmArgs = ['-Dfile.encoding=UTF-8']
 }
 
 sourceSets {
@@ -49,6 +70,7 @@ tasks.register('runGdx', JavaExec) {
     description = 'اجرای نسخه‌ی گرافیکی بازی (libGDX / Scene2D)'
     classpath = sourceSets.main.runtimeClasspath
     mainClass.set('gdx.DesktopLauncher')
+    jvmArgs = ['-Dfile.encoding=UTF-8']
 }
 
 // اجرای نسخه‌ی کنسولی فاز یک (بدون تغییر): ./gradlew runConsole
@@ -58,4 +80,5 @@ tasks.register('runConsole', JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
     mainClass.set('Main')
     standardInput = System.in
+    jvmArgs = ['-Dfile.encoding=UTF-8']
 }

@@ -1,0 +1,187 @@
+PLANTPOWERLILY_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_POWERLILY_POWERLILY_110X110
+  rotate: false
+  xy: 1, 304
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_141X106
+  rotate: false
+  xy: 105, 302
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_156X103
+  rotate: false
+  xy: 105, 234
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_159X106
+  rotate: false
+  xy: 1, 234
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_17X21
+  rotate: false
+  xy: 234, 37
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_17X21_2
+  rotate: false
+  xy: 234, 53
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_17X25
+  rotate: false
+  xy: 234, 1
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_17X25_2
+  rotate: false
+  xy: 234, 19
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_361X361
+  rotate: false
+  xy: 1, 1
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_38X27
+  rotate: false
+  xy: 39, 377
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_38X27_2
+  rotate: false
+  xy: 39, 397
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_42X37
+  rotate: false
+  xy: 74, 341
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_43X54
+  rotate: false
+  xy: 74, 304
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_44X20
+  rotate: false
+  xy: 59, 432
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_44X20_2
+  rotate: false
+  xy: 213, 443
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_45X21
+  rotate: false
+  xy: 213, 427
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_45X21_2
+  rotate: false
+  xy: 115, 430
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_50X87
+  rotate: false
+  xy: 115, 372
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_56X63
+  rotate: false
+  xy: 1, 377
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_60X60
+  rotate: false
+  xy: 149, 372
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_60X96
+  rotate: false
+  xy: 207, 299
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_60X96_2
+  rotate: false
+  xy: 197, 363
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_61X90
+  rotate: false
+  xy: 74, 372
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_75X98
+  rotate: false
+  xy: 207, 234
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_87X39
+  rotate: false
+  xy: 1, 420
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERLILY_POWERLILY_97X30
+  rotate: false
+  xy: 149, 427
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1

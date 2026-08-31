@@ -1,0 +1,243 @@
+PLANTBLOOMERANG_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_HIT_T_BLOOMERANG_PROJECTILE_HIT_146X146
+  rotate: false
+  xy: 1, 1
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_HIT_T_BLOOMERANG_PROJECTILE_HIT_158X43
+  rotate: false
+  xy: 1, 111
+  size: 101, 28
+  orig: 101, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_HIT_T_BLOOMERANG_PROJECTILE_HIT_17X17
+  rotate: false
+  xy: 17, 97
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_HIT_T_BLOOMERANG_PROJECTILE_HIT_72X59
+  rotate: false
+  xy: 1, 141
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_HIT_T_BLOOMERANG_PROJECTILE_HIT_89X39
+  rotate: false
+  xy: 94, 165
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_T_BLOOMERANG_PROJECTILE_39X46
+  rotate: false
+  xy: 216, 209
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_T_BLOOMERANG_PROJECTILE_56X48
+  rotate: false
+  xy: 1, 181
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_T_BLOOMERANG_PROJECTILE_66X43
+  rotate: false
+  xy: 153, 165
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_T_BLOOMERANG_PROJECTILE_85X56
+  rotate: false
+  xy: 104, 127
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_T_BLOOMERANG_PROJECTILE_86X58
+  rotate: false
+  xy: 197, 1
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_T_BLOOMERANG_PROJECTILE_93X101
+  rotate: false
+  xy: 97, 44
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BLOOMERANG_PROJECTILE_T_BLOOMERANG_PROJECTILE_95X65
+  rotate: false
+  xy: 159, 83
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_10X21
+  rotate: false
+  xy: 94, 141
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_149X58
+  rotate: false
+  xy: 159, 44
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_153X63
+  rotate: false
+  xy: 97, 1
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_15X12
+  rotate: false
+  xy: 30, 97
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_22X17
+  rotate: false
+  xy: 1, 97
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_25X48
+  rotate: false
+  xy: 1, 214
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_34X22
+  rotate: false
+  xy: 68, 217
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_35X22
+  rotate: false
+  xy: 132, 111
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_36X52
+  rotate: false
+  xy: 110, 192
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_36X52_2
+  rotate: false
+  xy: 135, 195
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_40X22
+  rotate: false
+  xy: 104, 111
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_41X45
+  rotate: false
+  xy: 160, 195
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_41X45_2
+  rotate: false
+  xy: 188, 209
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_42X36
+  rotate: false
+  xy: 39, 211
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_49X40
+  rotate: false
+  xy: 39, 183
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_51X88
+  rotate: false
+  xy: 222, 83
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_54X35
+  rotate: false
+  xy: 73, 192
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_57X51
+  rotate: false
+  xy: 216, 142
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_61X47
+  rotate: false
+  xy: 197, 177
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_67X62
+  rotate: false
+  xy: 49, 141
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_82X56
+  rotate: false
+  xy: 161, 127
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLOOMERANG_BLOOMERANG_9X6
+  rotate: false
+  xy: 42, 97
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1

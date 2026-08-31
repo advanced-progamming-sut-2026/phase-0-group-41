@@ -1,0 +1,47 @@
+UI_THYMEDEVENTS_768_05.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_THYMED_EVENTS_ACTIVE_EVENT_INTERSTITIAL_FOODFIGHT
+  rotate: false
+  xy: 1, 269
+  size: 430, 270
+  orig: 430, 270
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_COMINGSOON_INTERSTITIAL_BIRTHDAYZ
+  rotate: false
+  xy: 433, 269
+  size: 430, 270
+  orig: 430, 270
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_COMINGSOON_INTERSTITIAL_FOODFIGHT
+  rotate: false
+  xy: 1, 541
+  size: 430, 270
+  orig: 430, 270
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_ZCORP
+  rotate: false
+  xy: 1, 1
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_ZOMBOSSEUM
+  rotate: false
+  xy: 507, 1
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_EVENT_TOAST_TIERED_SPENDER
+  rotate: false
+  xy: 433, 541
+  size: 446, 237
+  orig: 446, 237
+  offset: 0, 0
+  index: -1

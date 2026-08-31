@@ -1,0 +1,215 @@
+ZOMBIELOSTCITYRELICHUNTERGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_IKNODE_1
+  rotate: false
+  xy: 119, 98
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_113X89
+  rotate: false
+  xy: 1, 1
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_135X8
+  rotate: false
+  xy: 1, 186
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_20X39
+  rotate: false
+  xy: 81, 214
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_21X47
+  rotate: false
+  xy: 90, 182
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_22X40
+  rotate: false
+  xy: 49, 193
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_22X40_2
+  rotate: false
+  xy: 65, 193
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_25X45
+  rotate: false
+  xy: 26, 155
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_25X47
+  rotate: false
+  xy: 83, 139
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_25X60
+  rotate: false
+  xy: 101, 98
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_28X33
+  rotate: false
+  xy: 29, 193
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_29X42
+  rotate: false
+  xy: 62, 137
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_30X21
+  rotate: false
+  xy: 26, 216
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_30X31
+  rotate: false
+  xy: 106, 182
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_30X37
+  rotate: false
+  xy: 1, 156
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_33X24
+  rotate: false
+  xy: 106, 204
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_34X31
+  rotate: false
+  xy: 101, 160
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_36X23
+  rotate: false
+  xy: 1, 211
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_36X39
+  rotate: false
+  xy: 1, 129
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_36X47
+  rotate: false
+  xy: 101, 66
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_38X29
+  rotate: false
+  xy: 101, 139
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_40X25
+  rotate: false
+  xy: 1, 193
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_43X25
+  rotate: false
+  xy: 44, 166
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_52X25
+  rotate: false
+  xy: 26, 137
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_52X32
+  rotate: false
+  xy: 47, 114
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_68X32
+  rotate: false
+  xy: 1, 106
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_6X6
+  rotate: false
+  xy: 54, 60
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_70X72
+  rotate: false
+  xy: 54, 66
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_78X98
+  rotate: false
+  xy: 76, 1
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_RELICHUNTER_ZOMBIE_LOSTCITY_RELICHUNTER_79X69
+  rotate: false
+  xy: 1, 60
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1

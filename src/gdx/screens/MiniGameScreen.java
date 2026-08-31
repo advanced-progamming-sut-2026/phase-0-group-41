@@ -2,7 +2,6 @@ package gdx.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.math.Vector2;
@@ -84,7 +83,7 @@ public class MiniGameScreen implements Screen {
         buildHud();
         buildSidebar();
 
-        SoundManager.playMusic(AssetPaths.MUSIC_MENU);
+        SoundManager.playMusic(AssetPaths.MUSIC_MINIGAME);
         Gdx.input.setInputProcessor(stage);
     }
 
@@ -132,30 +131,13 @@ public class MiniGameScreen implements Screen {
             WallnutBowlingSession bowling = (WallnutBowlingSession) session;
             sidebarTable.add(new Label("Conveyor:", skin)).left().row();
             for (WallnutBowlingSession.NutType type : bowling.getConveyorBelt()) {
-                TextButton b = new TextButton(type.name(), skin);
-                final WallnutBowlingSession.NutType chosen = type;
-                b.addListener(new ClickListener() {
-                    @Override
-                    public void clicked(InputEvent event, float x, float y) {
-                        selectedNutType = chosen;
-                        selectedZombieType = null;
-                    }
-                });
-                sidebarTable.add(b).width(140f).padBottom(4f).row();
+                sidebarTable.add(buildNutCard(type)).size(80f, 80f).padBottom(6f).row();
             }
         } else if (session instanceof IZombieSession) {
             sidebarTable.add(new Label("Choose zombie:", skin)).left().row();
             String[] types = {"normal", "conehead", "buckethead", "imp"};
             for (String t : types) {
-                TextButton b = new TextButton(t, skin);
-                b.addListener(new ClickListener() {
-                    @Override
-                    public void clicked(InputEvent event, float x, float y) {
-                        selectedZombieType = t;
-                        selectedNutType = null;
-                    }
-                });
-                sidebarTable.add(b).width(140f).padBottom(4f).row();
+                sidebarTable.add(buildZombieCard(t)).size(80f, 80f).padBottom(6f).row();
             }
         } else if (session instanceof BeghouledSession) {
             sidebarTable.add(new Label("Tap two adjacent", skin)).left().row();
@@ -170,9 +152,43 @@ public class MiniGameScreen implements Screen {
         }
     }
 
+    /** کارت یک گردو در نوار نقاله، با آیکون واقعی همان گردو روی پس‌زمینه‌ی استاندارد کارت. */
+    private com.badlogic.gdx.scenes.scene2d.ui.Stack buildNutCard(WallnutBowlingSession.NutType type) {
+        com.badlogic.gdx.scenes.scene2d.ui.Stack stack = new com.badlogic.gdx.scenes.scene2d.ui.Stack();
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(nutTexturePath(type))));
+        stack.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                selectedNutType = type;
+                selectedZombieType = null;
+                SoundManager.playSound(AssetPaths.SFX_CLICK);
+            }
+        });
+        return stack;
+    }
+
+    /** کارت یک زامبی قابل‌انتخاب در «من زامبی»، با آیکون واقعی همان زامبی. */
+    private com.badlogic.gdx.scenes.scene2d.ui.Stack buildZombieCard(String zombieType) {
+        com.badlogic.gdx.scenes.scene2d.ui.Stack stack = new com.badlogic.gdx.scenes.scene2d.ui.Stack();
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.zombieIcon(zombieType))));
+        stack.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                selectedZombieType = zombieType;
+                selectedNutType = null;
+                SoundManager.playSound(AssetPaths.SFX_CLICK);
+            }
+        });
+        return stack;
+    }
+
     private void addUpgradeButton(String plantName, int cost) {
-        TextButton b = new TextButton("Upgrade " + plantName + " (" + cost + ")", skin);
-        b.addListener(new ClickListener() {
+        com.badlogic.gdx.scenes.scene2d.ui.Stack stack = new com.badlogic.gdx.scenes.scene2d.ui.Stack();
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(plantName))));
+        stack.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
                 BeghouledSession.UpgradeResult result = ((BeghouledSession) session).upgradePlant(plantName);
@@ -183,9 +199,10 @@ public class MiniGameScreen implements Screen {
                 } else {
                     statusLabel.setText(plantName + " upgraded!");
                 }
+                SoundManager.playSound(AssetPaths.SFX_CLICK);
             }
         });
-        sidebarTable.add(b).width(220f).padBottom(4f).row();
+        sidebarTable.add(stack).size(80f, 80f).padBottom(6f).row();
     }
 
     // ==================== حلقه‌ی اصلی رندر ====================
@@ -209,7 +226,10 @@ public class MiniGameScreen implements Screen {
 
         stage.getBatch().begin();
         drawBoard(stage.getBatch());
+        drawCraters(stage.getBatch());
+        drawVases(stage.getBatch());
         drawPlants(stage.getBatch());
+        drawRollingNuts(stage.getBatch());
         drawZombies(stage.getBatch());
         stage.getBatch().end();
 
@@ -231,10 +251,76 @@ public class MiniGameScreen implements Screen {
     }
 
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        // زمینه‌ی ساده‌ی چمن سبز برای تخته‌ی مینی‌گیم (مینی‌گیم‌ها پس‌زمینه‌ی فصلی ندارند)
-        batch.setColor(0.2f, 0.5f, 0.2f, 1f);
-        batch.draw(skin.getRegion("white"), BOARD_LEFT, tileY(Board.ROWS - 1), TILE_W * Board.COLS, TILE_H * Board.ROWS);
-        batch.setColor(Color.WHITE);
+        // پس‌زمینه‌ی واقعی حیاط (همان دارایی رسمی که در GameScreen/QuestScreen و بقیه‌ی
+        // منوها استفاده شده) - بدون رنگ خاکستری یا مستطیل دستی.
+        TextureRegion bg = ImageUtils.loadRegion(backgroundPath());
+        batch.draw(bg, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
+    }
+
+    private String backgroundPath() {
+        if (session instanceof IZombieSession) {
+            return AssetPaths.BG_MINIGAME_IZOMBIE;
+        }
+        return AssetPaths.BG_MINIGAME_VASEBREAKER; // frontlawn معمولی؛ برای بولینگ و Beghouled هم یکسان است
+    }
+
+    private void drawVases(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        if (!(session instanceof VasebreakerSession)) {
+            return;
+        }
+        VasebreakerSession vb = (VasebreakerSession) session;
+        for (int r = 0; r < Board.ROWS; r++) {
+            for (int c = 0; c < Board.COLS; c++) {
+                VasebreakerSession.VaseType type = vb.getVaseAt(r, c);
+                if (type == null) {
+                    continue;
+                }
+                String path;
+                switch (type) {
+                    case GREEN: path = AssetPaths.VASE_GREEN; break;
+                    case PURPLE: path = AssetPaths.VASE_PURPLE; break;
+                    default: path = AssetPaths.VASE_NORMAL; break;
+                }
+                TextureRegion tex = ImageUtils.loadRegion(path);
+                batch.draw(tex, tileX(c) + 14f, tileY(r), TILE_W - 28f, TILE_H + 4f);
+            }
+        }
+    }
+
+    private void drawCraters(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        if (!(session instanceof BeghouledSession)) {
+            return;
+        }
+        Board board = session.getBoard();
+        for (int r = 0; r < Board.ROWS; r++) {
+            for (int c = 0; c < Board.COLS; c++) {
+                if (board.getTile(r, c).getTerrainType() == model.game.TerrainType.CRATER) {
+                    TextureRegion tex = ImageUtils.loadRegion(AssetPaths.BEGHOULED_CRATER);
+                    batch.draw(tex, tileX(c) + 10f, tileY(r) + 6f, TILE_W - 20f, TILE_H - 12f);
+                }
+            }
+        }
+    }
+
+    private void drawRollingNuts(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        if (!(session instanceof WallnutBowlingSession)) {
+            return;
+        }
+        WallnutBowlingSession bowling = (WallnutBowlingSession) session;
+        for (WallnutBowlingSession.RollingNut nut : bowling.getActiveNuts()) {
+            TextureRegion tex = ImageUtils.loadRegion(nutTexturePath(nut.type));
+            float x = tileX(0) + (float) nut.x * TILE_W;
+            float y = tileY(nut.row);
+            batch.draw(tex, x, y, TILE_W - 12f, TILE_H - 12f);
+        }
+    }
+
+    private String nutTexturePath(WallnutBowlingSession.NutType type) {
+        switch (type) {
+            case EXPLOSIVE: return AssetPaths.NUT_BOWLING_EXPLOSIVE;
+            case GIANT: return AssetPaths.NUT_BOWLING_GIANT;
+            default: return AssetPaths.NUT_BOWLING_NORMAL;
+        }
     }
 
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
@@ -253,7 +339,12 @@ public class MiniGameScreen implements Screen {
 
     private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
         for (Zombie z : session.getAliveZombies()) {
-            TextureRegion tex = ImageUtils.loadRegion(AssetPaths.zombieIcon(z.getTypeName()));
+            // در کوزه‌شکنی، غول‌پیکرِ خارج‌شده از کوزه‌ی بنفش با اسپرایت اختصاصی
+            // «غول کوزه‌ای» رسم می‌شود؛ برای بقیه‌ی موارد، آیکون معمولی همان نوع زامبی.
+            boolean isVaseGargantuar = session instanceof VasebreakerSession
+                    && "gargantuar".equalsIgnoreCase(z.getTypeName());
+            String path = isVaseGargantuar ? AssetPaths.VASE_GARGANTUAR : AssetPaths.zombieIcon(z.getTypeName());
+            TextureRegion tex = ImageUtils.loadRegion(path);
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
             batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);

@@ -28,12 +28,16 @@ public class MiniGameResultScreen extends BaseMenuScreen {
 
         if (won && user != null) {
             user.setMiniGamesCompleted(user.getMiniGamesCompleted() + 1);
+            user.recordMiniGameLevelWon(gameNameToId(gameName), level);
             game.getUserManager().save();
         }
 
         Table buttons = new Table();
         if (!won) {
             addButton(buttons, "Retry", () -> game.startMiniGame(gameNameToId(gameName), level));
+        } else if (level < 3) {
+            final int nextLevel = level + 1;
+            addButton(buttons, "Next Level", () -> game.startMiniGame(gameNameToId(gameName), nextLevel));
         }
         addButton(buttons, "Mini Games Menu", game::goToMiniGames);
         addButton(buttons, "Main Menu", game::goToMainMenu);

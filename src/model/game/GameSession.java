@@ -49,12 +49,21 @@ public class GameSession {
 
     public GameSession(User user, int totalWaves) {
         // پاس دادن کار به سازنده‌ی اصلی با فصل دیفالت
-        this(user, totalWaves, Season.NORMAL, LevelMode.NORMAL); 
+        this(user, totalWaves, Season.NORMAL, LevelMode.NORMAL);
     }
-    
+
     public GameSession(User user, int totalWaves, Season season, LevelMode levelMode) {
+        this(user, totalWaves, 50, season, levelMode);
+    }
+
+    /**
+     * سازنده‌ی کامل که هزینه‌ی موج اول (baseWaveCost) را هم می‌پذیرد. برای اینکه
+     * مرحله‌ی دوم یک فصل از مرحله‌ی اول سخت‌تر باشد (طبق سند فاز یک)، مقدار
+     * baseWaveCost باید به ازای هر مرحله‌ی بعدی در همان فصل بیشتر داده شود.
+     */
+    public GameSession(User user, int totalWaves, double baseWaveCost, Season season, LevelMode levelMode) {
         this.user = user;
-        this.waveManager = new WaveManager(totalWaves, 50);
+        this.waveManager = new WaveManager(totalWaves, baseWaveCost);
         int userDifficulty = user.getDifficultyLevel();
         this.sunManager = new SunManager(userDifficulty);
         this.currentSeason = season;

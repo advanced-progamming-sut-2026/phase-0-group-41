@@ -100,6 +100,24 @@ public class VasebreakerSession extends MiniGameSession {
         }
     }
 
+    /** نوع کوزه‌ی خانه‌ی داده‌شده؛ اگر کوزه‌ای وجود نداشته باشد null برمی‌گرداند. برای رسم گرافیکی استفاده می‌شود. */
+    public VaseType getVaseAt(int row, int col) {
+        if (row < 0 || row >= Board.ROWS || col < 0 || col >= Board.COLS) {
+            return null;
+        }
+        return vases[row][col];
+    }
+
+    /** آیا در این خانه بذر افتاده‌ای وجود دارد که هنوز کاشته نشده؟ برای رسم گرافیکی استفاده می‌شود. */
+    public boolean hasDroppedSeedAt(int row, int col) {
+        for (DroppedSeedPacket ds : droppedSeeds) {
+            if (ds.row == row && ds.col == col) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public VaseBreakResult breakVase(int row, int col) {
         if (row < 0 || row >= Board.ROWS || col < 0 || col >= Board.COLS) {
             return new VaseBreakResult(BreakResultStatus.INVALID_LOCATION, null);

@@ -1,0 +1,411 @@
+PLANTPOWERPLANT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_100X95
+  rotate: false
+  xy: 78, 1
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_103X54
+  rotate: false
+  xy: 147, 156
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_105X45
+  rotate: false
+  xy: 63, 157
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_110X81
+  rotate: false
+  xy: 144, 54
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_117X79
+  rotate: false
+  xy: 144, 1
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_117X82
+  rotate: false
+  xy: 1, 1
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_11X11
+  rotate: false
+  xy: 247, 132
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_11X18
+  rotate: false
+  xy: 247, 118
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_127X70
+  rotate: false
+  xy: 1, 64
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_15X44
+  rotate: false
+  xy: 132, 157
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_16X16
+  rotate: false
+  xy: 117, 259
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_16X33
+  rotate: false
+  xy: 246, 240
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_17X49
+  rotate: false
+  xy: 240, 146
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_18X17
+  rotate: false
+  xy: 207, 256
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_18X8
+  rotate: false
+  xy: 1, 56
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_1X1
+  rotate: false
+  xy: 250, 29
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_24X12
+  rotate: false
+  xy: 157, 215
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_24X21
+  rotate: false
+  xy: 117, 243
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_26X18
+  rotate: false
+  xy: 26, 250
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_26X18_2
+  rotate: false
+  xy: 188, 256
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_26X18_3
+  rotate: false
+  xy: 45, 257
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_27X35
+  rotate: false
+  xy: 226, 240
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_28X11
+  rotate: false
+  xy: 136, 229
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_28X19
+  rotate: false
+  xy: 63, 143
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_29X31
+  rotate: false
+  xy: 75, 243
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_30X31
+  rotate: false
+  xy: 96, 243
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_30X47
+  rotate: false
+  xy: 63, 111
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_32X37
+  rotate: false
+  xy: 165, 240
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_34X20
+  rotate: false
+  xy: 230, 210
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_34X39
+  rotate: false
+  xy: 228, 183
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_35X55
+  rotate: false
+  xy: 215, 146
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_36X25
+  rotate: false
+  xy: 1, 250
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_42X30
+  rotate: false
+  xy: 221, 29
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_42X30_2
+  rotate: false
+  xy: 46, 236
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_42X30_3
+  rotate: false
+  xy: 136, 240
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_52X40
+  rotate: false
+  xy: 221, 1
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_55X41
+  rotate: false
+  xy: 210, 118
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_56X21
+  rotate: false
+  xy: 188, 240
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_58X46
+  rotate: false
+  xy: 217, 54
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_58X46_2
+  rotate: false
+  xy: 217, 86
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_65X26
+  rotate: false
+  xy: 184, 193
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_67X19
+  rotate: false
+  xy: 112, 215
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_67X19_2
+  rotate: false
+  xy: 1, 217
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_67X19_3
+  rotate: false
+  xy: 46, 222
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_67X19_4
+  rotate: false
+  xy: 157, 226
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_67X19_5
+  rotate: false
+  xy: 202, 226
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_67X19_6
+  rotate: false
+  xy: 91, 229
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_67X19_7
+  rotate: false
+  xy: 1, 236
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_68X19
+  rotate: false
+  xy: 66, 208
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_68X19_2
+  rotate: false
+  xy: 184, 212
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_79X31
+  rotate: false
+  xy: 131, 193
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_85X35
+  rotate: false
+  xy: 1, 158
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_86X56
+  rotate: false
+  xy: 85, 64
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_93X70
+  rotate: false
+  xy: 1, 111
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_93X73
+  rotate: false
+  xy: 85, 108
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_95X71
+  rotate: false
+  xy: 147, 108
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_98X27
+  rotate: false
+  xy: 66, 188
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_POWERPLANT_PROTO_POWERPLANT_PROTO_98X42
+  rotate: false
+  xy: 1, 188
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1

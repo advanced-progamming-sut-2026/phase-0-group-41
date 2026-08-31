@@ -1,0 +1,453 @@
+PLANTBOINGSETTA_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_106X110
+  rotate: false
+  xy: 320, 179
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_108X25
+  rotate: false
+  xy: 41, 327
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_10X16
+  rotate: false
+  xy: 178, 136
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_10X16_2
+  rotate: false
+  xy: 187, 136
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_10X6
+  rotate: false
+  xy: 479, 225
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_10X8
+  rotate: false
+  xy: 331, 170
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_117X87
+  rotate: false
+  xy: 1, 223
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_118X42
+  rotate: false
+  xy: 124, 295
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_11X6
+  rotate: false
+  xy: 488, 225
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_130X124
+  rotate: false
+  xy: 178, 152
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_134X134
+  rotate: false
+  xy: 90, 113
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_135X168
+  rotate: false
+  xy: 1, 113
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_135X85
+  rotate: false
+  xy: 390, 179
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_13X8
+  rotate: false
+  xy: 320, 170
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_18X45
+  rotate: false
+  xy: 53, 281
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_1X1
+  rotate: false
+  xy: 509, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_201X135
+  rotate: false
+  xy: 344, 90
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_205X135
+  rotate: false
+  xy: 344, 1
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_216X232
+  rotate: false
+  xy: 204, 1
+  size: 138, 149
+  orig: 138, 149
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_23X42
+  rotate: false
+  xy: 154, 201
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_24X24
+  rotate: false
+  xy: 320, 152
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_313X171
+  rotate: false
+  xy: 1, 1
+  size: 201, 110
+  orig: 201, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_35X32
+  rotate: false
+  xy: 178, 113
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_37X35
+  rotate: false
+  xy: 385, 352
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_40X37
+  rotate: false
+  xy: 318, 342
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_40X37_2
+  rotate: false
+  xy: 78, 345
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_40X50
+  rotate: false
+  xy: 479, 191
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_41X38
+  rotate: false
+  xy: 290, 342
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_43X28
+  rotate: false
+  xy: 168, 353
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_43X51
+  rotate: false
+  xy: 479, 156
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_45X38
+  rotate: false
+  xy: 477, 328
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_47X42
+  rotate: false
+  xy: 168, 324
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_47X59
+  rotate: false
+  xy: 477, 37
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_50X40
+  rotate: false
+  xy: 347, 301
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_52X23
+  rotate: false
+  xy: 346, 356
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_52X52
+  rotate: false
+  xy: 477, 1
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_53X28
+  rotate: false
+  xy: 200, 348
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_53X51
+  rotate: false
+  xy: 477, 77
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_55X23
+  rotate: false
+  xy: 468, 355
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_55X28
+  rotate: false
+  xy: 41, 345
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_55X48
+  rotate: false
+  xy: 477, 295
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_56X39
+  rotate: false
+  xy: 347, 329
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_56X43
+  rotate: false
+  xy: 252, 328
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_57X61
+  rotate: false
+  xy: 308, 301
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_57X63
+  rotate: false
+  xy: 475, 113
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_59X29
+  rotate: false
+  xy: 428, 335
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_59X49
+  rotate: false
+  xy: 1, 326
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_59X95
+  rotate: false
+  xy: 268, 265
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_61X59
+  rotate: false
+  xy: 436, 295
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_64X33
+  rotate: false
+  xy: 385, 329
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_66X51
+  rotate: false
+  xy: 124, 324
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_68X79
+  rotate: false
+  xy: 78, 274
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_69X45
+  rotate: false
+  xy: 213, 234
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_74X45
+  rotate: false
+  xy: 202, 317
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_77X67
+  rotate: false
+  xy: 1, 281
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_80X62
+  rotate: false
+  xy: 383, 287
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_83X77
+  rotate: false
+  xy: 213, 265
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_83X89
+  rotate: false
+  xy: 454, 236
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_86X173
+  rotate: false
+  xy: 263, 152
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_88X92
+  rotate: false
+  xy: 154, 234
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_95X73
+  rotate: false
+  xy: 320, 252
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_96X110
+  rotate: false
+  xy: 90, 201
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_97X76
+  rotate: false
+  xy: 390, 236
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BOINGSETTA_BOINGSETTA_9X7
+  rotate: false
+  xy: 78, 223
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

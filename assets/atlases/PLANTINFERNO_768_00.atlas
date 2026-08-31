@@ -1,0 +1,1622 @@
+PLANTINFERNO_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_134X137
+  rotate: false
+  xy: 763, 686
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_176X75
+  rotate: false
+  xy: 116, 931
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_181X72
+  rotate: false
+  xy: 698, 1040
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_182X71
+  rotate: false
+  xy: 592, 992
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_183X75
+  rotate: false
+  xy: 685, 892
+  size: 117, 48
+  orig: 117, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_183X77
+  rotate: false
+  xy: 757, 840
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_191X74
+  rotate: false
+  xy: 318, 782
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_326X168
+  rotate: false
+  xy: 1, 372
+  size: 209, 108
+  orig: 209, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_360X297
+  rotate: false
+  xy: 755, 1
+  size: 231, 190
+  orig: 231, 190
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_93X101
+  rotate: false
+  xy: 56, 1128
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_BACK_INFERNO_EFFECT_BACK_95X65
+  rotate: false
+  xy: 685, 848
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_101X103
+  rotate: false
+  xy: 951, 967
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_104X114
+  rotate: false
+  xy: 951, 892
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_106X79
+  rotate: false
+  xy: 719, 1136
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_114X75
+  rotate: false
+  xy: 160, 315
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_118X137
+  rotate: false
+  xy: 941, 385
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_133X132
+  rotate: false
+  xy: 851, 753
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_136X134
+  rotate: false
+  xy: 140, 715
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_143X162
+  rotate: false
+  xy: 160, 209
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_154X110
+  rotate: false
+  xy: 475, 754
+  size: 99, 71
+  orig: 99, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_157X157
+  rotate: false
+  xy: 872, 573
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_16X16
+  rotate: false
+  xy: 299, 557
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_176X75
+  rotate: false
+  xy: 231, 934
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_17X20
+  rotate: false
+  xy: 442, 800
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_181X72
+  rotate: false
+  xy: 816, 1040
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_1X1
+  rotate: false
+  xy: 1022, 107
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_210X128
+  rotate: false
+  xy: 140, 570
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_213X127
+  rotate: false
+  xy: 539, 490
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_214X89
+  rotate: false
+  xy: 624, 709
+  size: 137, 57
+  orig: 137, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_220X130
+  rotate: false
+  xy: 1, 482
+  size: 141, 83
+  orig: 141, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_22X22
+  rotate: false
+  xy: 851, 686
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_243X143
+  rotate: false
+  xy: 783, 385
+  size: 156, 92
+  orig: 156, 92
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_245X251
+  rotate: false
+  xy: 585, 206
+  size: 157, 161
+  orig: 157, 161
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_25X28
+  rotate: false
+  xy: 1008, 364
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_26X35
+  rotate: false
+  xy: 235, 315
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_278X161
+  rotate: false
+  xy: 423, 375
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_387X317
+  rotate: false
+  xy: 255, 1
+  size: 248, 203
+  orig: 248, 203
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_48X48
+  rotate: false
+  xy: 988, 331
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_49X75
+  rotate: false
+  xy: 988, 107
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_71X71
+  rotate: false
+  xy: 166, 1229
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_73X68
+  rotate: false
+  xy: 704, 1237
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_HIT_INFERNO_EFFECT_HIT_90X87
+  rotate: false
+  xy: 918, 1169
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_124X91
+  rotate: false
+  xy: 826, 1088
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_138X88
+  rotate: false
+  xy: 757, 776
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_164X117
+  rotate: false
+  xy: 872, 676
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_176X75
+  rotate: false
+  xy: 1, 926
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_181X72
+  rotate: false
+  xy: 580, 1040
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_182X71
+  rotate: false
+  xy: 116, 984
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_183X75
+  rotate: false
+  xy: 239, 884
+  size: 117, 48
+  orig: 117, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_183X77
+  rotate: false
+  xy: 249, 832
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_18X21
+  rotate: false
+  xy: 456, 798
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_191X74
+  rotate: false
+  xy: 1, 774
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_222X92
+  rotate: false
+  xy: 1, 654
+  size: 142, 59
+  orig: 142, 59
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_22X22
+  rotate: false
+  xy: 387, 674
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_23X26
+  rotate: false
+  xy: 624, 677
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_254X261
+  rotate: false
+  xy: 255, 206
+  size: 163, 167
+  orig: 163, 167
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_51X79
+  rotate: false
+  xy: 988, 1
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_EFFECT_INFERNO_EFFECT_77X75
+  rotate: false
+  xy: 918, 1227
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_120X36
+  rotate: false
+  xy: 410, 1255
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_134X137
+  rotate: false
+  xy: 387, 692
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_148X173
+  rotate: false
+  xy: 775, 573
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_176X75
+  rotate: false
+  xy: 836, 942
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_181X72
+  rotate: false
+  xy: 1, 1080
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_182X71
+  rotate: false
+  xy: 461, 1000
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_183X75
+  rotate: false
+  xy: 487, 900
+  size: 117, 48
+  orig: 117, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_183X77
+  rotate: false
+  xy: 1, 874
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_191X74
+  rotate: false
+  xy: 442, 827
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_326X168
+  rotate: false
+  xy: 212, 375
+  size: 209, 108
+  orig: 209, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_360X297
+  rotate: false
+  xy: 755, 193
+  size: 231, 190
+  orig: 231, 190
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_62X62
+  rotate: false
+  xy: 1, 1276
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_93X101
+  rotate: false
+  xy: 456, 1136
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_BACK_INFERNO_PROJECTILE_BACK_95X65
+  rotate: false
+  xy: 580, 1200
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_101X103
+  rotate: false
+  xy: 389, 1096
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_104X114
+  rotate: false
+  xy: 238, 1077
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_106X79
+  rotate: false
+  xy: 789, 1148
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_114X75
+  rotate: false
+  xy: 644, 1136
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_118X137
+  rotate: false
+  xy: 941, 475
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_133X132
+  rotate: false
+  xy: 938, 753
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_136X134
+  rotate: false
+  xy: 229, 741
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_143X162
+  rotate: false
+  xy: 642, 603
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_154X110
+  rotate: false
+  xy: 576, 768
+  size: 99, 71
+  orig: 99, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_157X157
+  rotate: false
+  xy: 539, 574
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_16X16
+  rotate: false
+  xy: 323, 557
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_176X75
+  rotate: false
+  xy: 477, 950
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_17X20
+  rotate: false
+  xy: 527, 877
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_181X72
+  rotate: false
+  xy: 472, 1088
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_1X1
+  rotate: false
+  xy: 1022, 113
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_210X128
+  rotate: false
+  xy: 277, 570
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_213X127
+  rotate: false
+  xy: 1, 567
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_214X89
+  rotate: false
+  xy: 1, 715
+  size: 137, 57
+  orig: 137, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_220X130
+  rotate: false
+  xy: 144, 485
+  size: 141, 83
+  orig: 141, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_22X22
+  rotate: false
+  xy: 851, 718
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_243X143
+  rotate: false
+  xy: 783, 479
+  size: 156, 92
+  orig: 156, 92
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_245X251
+  rotate: false
+  xy: 1, 209
+  size: 157, 161
+  orig: 157, 161
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_25X28
+  rotate: false
+  xy: 387, 654
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_26X35
+  rotate: false
+  xy: 642, 574
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_278X161
+  rotate: false
+  xy: 603, 385
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_387X317
+  rotate: false
+  xy: 505, 1
+  size: 248, 203
+  orig: 248, 203
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_48X48
+  rotate: false
+  xy: 736, 603
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_49X75
+  rotate: false
+  xy: 988, 157
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_71X71
+  rotate: false
+  xy: 834, 1229
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_73X68
+  rotate: false
+  xy: 558, 1244
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_HIT_INFERNO_PROJECTILE_HIT_90X87
+  rotate: false
+  xy: 644, 1186
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_120X36
+  rotate: false
+  xy: 125, 803
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_124X91
+  rotate: false
+  xy: 307, 1096
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_138X88
+  rotate: false
+  xy: 934, 1040
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_148X173
+  rotate: false
+  xy: 678, 490
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_164X117
+  rotate: false
+  xy: 517, 677
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_16X16
+  rotate: false
+  xy: 311, 557
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_176X75
+  rotate: false
+  xy: 606, 942
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_176X75_2
+  rotate: false
+  xy: 721, 942
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_181X72
+  rotate: false
+  xy: 354, 1048
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_181X72_2
+  rotate: false
+  xy: 120, 1077
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_182X71
+  rotate: false
+  xy: 711, 992
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_182X71_2
+  rotate: false
+  xy: 830, 992
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_183X75
+  rotate: false
+  xy: 804, 892
+  size: 117, 48
+  orig: 117, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_183X77
+  rotate: false
+  xy: 876, 840
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_183X77_2
+  rotate: false
+  xy: 566, 848
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_18X21
+  rotate: false
+  xy: 204, 803
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_191X74
+  rotate: false
+  xy: 1, 824
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_1X1
+  rotate: false
+  xy: 1022, 110
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_222X92
+  rotate: false
+  xy: 145, 654
+  size: 142, 59
+  orig: 142, 59
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_22X22
+  rotate: false
+  xy: 851, 702
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_23X26
+  rotate: false
+  xy: 736, 684
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_254X261
+  rotate: false
+  xy: 420, 206
+  size: 163, 167
+  orig: 163, 167
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_26X35
+  rotate: false
+  xy: 235, 340
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_51X79
+  rotate: false
+  xy: 988, 54
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_62X62
+  rotate: false
+  xy: 361, 1273
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_77X75
+  rotate: false
+  xy: 970, 1227
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_INFERNO_PROJECTILE_INFERNO_PROJECTILE_77X77
+  rotate: false
+  xy: 467, 1203
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_101X71
+  rotate: false
+  xy: 704, 1189
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_106X78
+  rotate: false
+  xy: 283, 1156
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_10X14
+  rotate: false
+  xy: 744, 206
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_122X121
+  rotate: false
+  xy: 677, 768
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_131X60
+  rotate: false
+  xy: 120, 1032
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_143X26
+  rotate: false
+  xy: 354, 1029
+  size: 92, 17
+  orig: 92, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_148X66
+  rotate: false
+  xy: 235, 984
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_14X12
+  rotate: false
+  xy: 212, 365
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_150X133
+  rotate: false
+  xy: 289, 654
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_157X157
+  rotate: false
+  xy: 414, 589
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_15X17
+  rotate: false
+  xy: 287, 557
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_163X41
+  rotate: false
+  xy: 472, 1048
+  size: 105, 26
+  orig: 105, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_163X41_2
+  rotate: false
+  xy: 114, 1201
+  size: 105, 26
+  orig: 105, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_16X16
+  rotate: false
+  xy: 335, 557
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_16X21
+  rotate: false
+  xy: 504, 716
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_176X75
+  rotate: false
+  xy: 346, 979
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_176X75_2
+  rotate: false
+  xy: 1, 981
+  size: 113, 48
+  orig: 113, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_177X167
+  rotate: false
+  xy: 423, 480
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_17X18
+  rotate: false
+  xy: 576, 754
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_181X72
+  rotate: false
+  xy: 590, 1088
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_181X72_2
+  rotate: false
+  xy: 708, 1088
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_182X71
+  rotate: false
+  xy: 235, 1029
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_182X71_2
+  rotate: false
+  xy: 1, 1032
+  size: 117, 46
+  orig: 117, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_183X75
+  rotate: false
+  xy: 358, 929
+  size: 117, 48
+  orig: 117, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_183X77
+  rotate: false
+  xy: 368, 877
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_183X77_2
+  rotate: false
+  xy: 120, 879
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_18X21
+  rotate: false
+  xy: 995, 840
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_18X21_2
+  rotate: false
+  xy: 1009, 840
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_18X21_3
+  rotate: false
+  xy: 995, 856
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_18X21_4
+  rotate: false
+  xy: 1009, 856
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_18X21_5
+  rotate: false
+  xy: 995, 872
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_18X21_6
+  rotate: false
+  xy: 1009, 872
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_18X25
+  rotate: false
+  xy: 125, 774
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_191X74
+  rotate: false
+  xy: 125, 829
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_193X109
+  rotate: false
+  xy: 287, 485
+  size: 124, 70
+  orig: 124, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_19X24
+  rotate: false
+  xy: 442, 782
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_1X1
+  rotate: false
+  xy: 1022, 116
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_20X21
+  rotate: false
+  xy: 456, 782
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_21X23
+  rotate: false
+  xy: 661, 574
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_22X22
+  rotate: false
+  xy: 851, 734
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_24X20
+  rotate: false
+  xy: 663, 369
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_24X20_2
+  rotate: false
+  xy: 681, 369
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_24X20_3
+  rotate: false
+  xy: 699, 369
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_24X20_4
+  rotate: false
+  xy: 717, 369
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_24X20_5
+  rotate: false
+  xy: 735, 369
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_25X24
+  rotate: false
+  xy: 736, 666
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_25X24_2
+  rotate: false
+  xy: 754, 666
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_26X35
+  rotate: false
+  xy: 517, 589
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_27X18
+  rotate: false
+  xy: 643, 369
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_27X23
+  rotate: false
+  xy: 517, 658
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_27X27
+  rotate: false
+  xy: 988, 364
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_28X21
+  rotate: false
+  xy: 603, 369
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_28X21_2
+  rotate: false
+  xy: 623, 369
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_29X8
+  rotate: false
+  xy: 160, 365
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_30X31
+  rotate: false
+  xy: 517, 614
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_30X31_2
+  rotate: false
+  xy: 517, 636
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_393X321
+  rotate: false
+  xy: 1, 1
+  size: 252, 206
+  orig: 252, 206
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_42X44
+  rotate: false
+  xy: 475, 716
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_42X60
+  rotate: false
+  xy: 988, 254
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_46X52
+  rotate: false
+  xy: 988, 295
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_48X44
+  rotate: false
+  xy: 736, 636
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_49X70
+  rotate: false
+  xy: 988, 207
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_58X105
+  rotate: false
+  xy: 519, 1203
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_58X105_2
+  rotate: false
+  xy: 1, 1204
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_58X105_3
+  rotate: false
+  xy: 283, 1208
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_58X105_4
+  rotate: false
+  xy: 221, 1220
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_58X105_5
+  rotate: false
+  xy: 322, 1224
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_58X34
+  rotate: false
+  xy: 475, 692
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_59X23
+  rotate: false
+  xy: 487, 877
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_64X88
+  rotate: false
+  xy: 979, 691
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_66X95
+  rotate: false
+  xy: 975, 565
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_66X95_2
+  rotate: false
+  xy: 979, 628
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_66X95_3
+  rotate: false
+  xy: 973, 1099
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_66X95_4
+  rotate: false
+  xy: 978, 1162
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_69X67
+  rotate: false
+  xy: 656, 1244
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_73X68
+  rotate: false
+  xy: 607, 1244
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_73X73
+  rotate: false
+  xy: 361, 1224
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_74X23
+  rotate: false
+  xy: 229, 715
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_74X48
+  rotate: false
+  xy: 159, 1277
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_74X67
+  rotate: false
+  xy: 753, 1245
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_75X58
+  rotate: false
+  xy: 606, 900
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_78X71
+  rotate: false
+  xy: 114, 1229
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_81X103
+  rotate: false
+  xy: 229, 1152
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_83X116
+  rotate: false
+  xy: 119, 1125
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_83X116_2
+  rotate: false
+  xy: 174, 1125
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_83X116_3
+  rotate: false
+  xy: 1, 1128
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_83X75
+  rotate: false
+  xy: 412, 1203
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_86X41
+  rotate: false
+  xy: 260, 1277
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_86X44
+  rotate: false
+  xy: 102, 1277
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_87X76
+  rotate: false
+  xy: 56, 1195
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_88X43
+  rotate: false
+  xy: 43, 1276
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_89X91
+  rotate: false
+  xy: 353, 1164
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_89X91_2
+  rotate: false
+  xy: 859, 1169
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_90X44
+  rotate: false
+  xy: 489, 1272
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_93X101
+  rotate: false
+  xy: 518, 1136
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_94X57
+  rotate: false
+  xy: 318, 741
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_95X44
+  rotate: false
+  xy: 40, 1246
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_95X65
+  rotate: false
+  xy: 771, 1201
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_97X65
+  rotate: false
+  xy: 368, 832
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_97X97
+  rotate: false
+  xy: 580, 1136
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_INFERNO_INFERNO_98X106
+  rotate: false
+  xy: 908, 1099
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1

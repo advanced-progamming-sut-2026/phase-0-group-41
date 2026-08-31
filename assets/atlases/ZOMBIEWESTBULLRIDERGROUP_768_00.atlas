@@ -1,0 +1,1195 @@
+ZOMBIEWESTBULLRIDERGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_BULL_SHOCK_ZOMBIE_BULL_SHOCK_BONE
+  rotate: false
+  xy: 1, 152
+  size: 270, 140
+  orig: 270, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_BULL_SHOCK_ZOMBIE_IMP_SHOCK_GLOW
+  rotate: false
+  xy: 1, 1
+  size: 278, 149
+  orig: 278, 149
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_109X63
+  rotate: false
+  xy: 298, 382
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_115X7
+  rotate: false
+  xy: 336, 635
+  size: 74, 5
+  orig: 74, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_130X125
+  rotate: false
+  xy: 425, 83
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_14X24
+  rotate: false
+  xy: 43, 656
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_14X24_2
+  rotate: false
+  xy: 54, 656
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_15X24
+  rotate: false
+  xy: 205, 552
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_15X26
+  rotate: false
+  xy: 265, 498
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_15X42
+  rotate: false
+  xy: 48, 374
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_16X18
+  rotate: false
+  xy: 357, 425
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_172X163
+  rotate: false
+  xy: 385, 275
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_17X23
+  rotate: false
+  xy: 19, 656
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_17X25
+  rotate: false
+  xy: 251, 532
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_1X1
+  rotate: false
+  xy: 510, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_20X13
+  rotate: false
+  xy: 142, 656
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_20X13_2
+  rotate: false
+  xy: 185, 656
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_21X25
+  rotate: false
+  xy: 247, 652
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_21X26
+  rotate: false
+  xy: 336, 642
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_21X29
+  rotate: false
+  xy: 304, 637
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_21X37
+  rotate: false
+  xy: 254, 327
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_222X210
+  rotate: false
+  xy: 281, 138
+  size: 142, 135
+  orig: 142, 135
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_23X23
+  rotate: false
+  xy: 168, 649
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_23X27
+  rotate: false
+  xy: 336, 615
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_23X27_2
+  rotate: false
+  xy: 287, 637
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_23X40
+  rotate: false
+  xy: 497, 322
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_24X25
+  rotate: false
+  xy: 124, 642
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_24X26
+  rotate: false
+  xy: 150, 637
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_24X29
+  rotate: false
+  xy: 459, 620
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_24X48
+  rotate: false
+  xy: 254, 294
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_25X17
+  rotate: false
+  xy: 370, 655
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_25X17_2
+  rotate: false
+  xy: 1, 656
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_25X26
+  rotate: false
+  xy: 196, 637
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_25X29
+  rotate: false
+  xy: 132, 621
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_26X26
+  rotate: false
+  xy: 39, 637
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_26X27
+  rotate: false
+  xy: 495, 539
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_27X18
+  rotate: false
+  xy: 398, 652
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_27X18_2
+  rotate: false
+  xy: 76, 653
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_27X37
+  rotate: false
+  xy: 204, 611
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_29X36
+  rotate: false
+  xy: 388, 610
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_31X31
+  rotate: false
+  xy: 314, 615
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_32X21
+  rotate: false
+  xy: 224, 632
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_32X21_2
+  rotate: false
+  xy: 173, 633
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_33X17
+  rotate: false
+  xy: 467, 643
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_33X17_2
+  rotate: false
+  xy: 490, 643
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_33X28
+  rotate: false
+  xy: 436, 620
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_33X38
+  rotate: false
+  xy: 31, 603
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_33X51
+  rotate: false
+  xy: 61, 592
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_33X51_2
+  rotate: false
+  xy: 239, 597
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_34X18
+  rotate: false
+  xy: 76, 639
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_34X18_2
+  rotate: false
+  xy: 100, 640
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_35X26
+  rotate: false
+  xy: 84, 620
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_37X23
+  rotate: false
+  xy: 141, 516
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_39X50
+  rotate: false
+  xy: 487, 199
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_41X58
+  rotate: false
+  xy: 387, 571
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_43X31
+  rotate: false
+  xy: 1, 603
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_44X43
+  rotate: false
+  xy: 324, 585
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_44X76
+  rotate: false
+  xy: 31, 552
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_47X77
+  rotate: false
+  xy: 173, 534
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_48X78
+  rotate: false
+  xy: 218, 532
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_49X38
+  rotate: false
+  xy: 415, 581
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_49X38_2
+  rotate: false
+  xy: 205, 584
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_51X43
+  rotate: false
+  xy: 460, 245
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_53X28
+  rotate: false
+  xy: 449, 600
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_57X99
+  rotate: false
+  xy: 378, 442
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_62X56
+  rotate: false
+  xy: 313, 547
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_64X47
+  rotate: false
+  xy: 251, 565
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_66X33
+  rotate: false
+  xy: 453, 577
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_66X72
+  rotate: false
+  xy: 49, 504
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_66X79
+  rotate: false
+  xy: 417, 476
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_66X79_2
+  rotate: false
+  xy: 221, 479
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_70X109
+  rotate: false
+  xy: 1, 374
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_70X71
+  rotate: false
+  xy: 461, 491
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_70X85
+  rotate: false
+  xy: 331, 442
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_71X62
+  rotate: false
+  xy: 372, 529
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_71X66
+  rotate: false
+  xy: 93, 516
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_74X70
+  rotate: false
+  xy: 278, 476
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_78X81
+  rotate: false
+  xy: 226, 425
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_80X76
+  rotate: false
+  xy: 418, 425
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_86X92
+  rotate: false
+  xy: 122, 354
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_88X95
+  rotate: false
+  xy: 63, 354
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_91X66
+  rotate: false
+  xy: 61, 460
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_94X121
+  rotate: false
+  xy: 1, 294
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_99X63
+  rotate: false
+  xy: 48, 417
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_VETERAN_ZOMBIE_WEST_BULLRIDER_VETERAN_99X91
+  rotate: false
+  xy: 129, 294
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_109X63
+  rotate: false
+  xy: 226, 382
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_115X7
+  rotate: false
+  xy: 1, 630
+  size: 74, 5
+  orig: 74, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_130X125
+  rotate: false
+  xy: 425, 1
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_14X24
+  rotate: false
+  xy: 418, 652
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_14X24_2
+  rotate: false
+  xy: 32, 656
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_15X24
+  rotate: false
+  xy: 205, 534
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_15X26
+  rotate: false
+  xy: 265, 479
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_15X42
+  rotate: false
+  xy: 497, 350
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_16X18
+  rotate: false
+  xy: 48, 403
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_172X163
+  rotate: false
+  xy: 273, 275
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_17X23
+  rotate: false
+  xy: 224, 611
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_17X25
+  rotate: false
+  xy: 313, 523
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_1X1
+  rotate: false
+  xy: 510, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_20X13
+  rotate: false
+  xy: 93, 504
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_20X13_2
+  rotate: false
+  xy: 271, 638
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_21X25
+  rotate: false
+  xy: 231, 652
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_21X26
+  rotate: false
+  xy: 320, 642
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_21X29
+  rotate: false
+  xy: 355, 547
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_21X37
+  rotate: false
+  xy: 497, 266
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_222X210
+  rotate: false
+  xy: 281, 1
+  size: 142, 135
+  orig: 142, 135
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_23X23
+  rotate: false
+  xy: 214, 648
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_23X27
+  rotate: false
+  xy: 497, 559
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_23X27_2
+  rotate: false
+  xy: 497, 579
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_23X40
+  rotate: false
+  xy: 497, 294
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_24X24
+  rotate: false
+  xy: 431, 640
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_24X24_2
+  rotate: false
+  xy: 449, 641
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_24X26
+  rotate: false
+  xy: 294, 565
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_24X29
+  rotate: false
+  xy: 118, 598
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_24X48
+  rotate: false
+  xy: 495, 233
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_25X17
+  rotate: false
+  xy: 96, 654
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_25X17_2
+  rotate: false
+  xy: 352, 655
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_25X26
+  rotate: false
+  xy: 58, 637
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_25X29
+  rotate: false
+  xy: 184, 612
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_26X26
+  rotate: false
+  xy: 412, 633
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_26X26_2
+  rotate: false
+  xy: 1, 637
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_26X26_3
+  rotate: false
+  xy: 20, 637
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_27X18
+  rotate: false
+  xy: 25, 446
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_27X18_2
+  rotate: false
+  xy: 263, 652
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_27X37
+  rotate: false
+  xy: 184, 586
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_29X36
+  rotate: false
+  xy: 415, 608
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_31X31
+  rotate: false
+  xy: 292, 615
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_32X21
+  rotate: false
+  xy: 150, 621
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_32X21_2
+  rotate: false
+  xy: 477, 627
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_33X17
+  rotate: false
+  xy: 352, 642
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_33X17_2
+  rotate: false
+  xy: 375, 642
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_33X28
+  rotate: false
+  xy: 109, 620
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_33X38
+  rotate: false
+  xy: 485, 600
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_33X51
+  rotate: false
+  xy: 138, 586
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_33X51_2
+  rotate: false
+  xy: 161, 586
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_34X18
+  rotate: false
+  xy: 1, 446
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_34X18_2
+  rotate: false
+  xy: 247, 638
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_35X26
+  rotate: false
+  xy: 262, 619
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_37X23
+  rotate: false
+  xy: 331, 425
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_39X50
+  rotate: false
+  xy: 487, 165
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_41X58
+  rotate: false
+  xy: 484, 382
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_43X31
+  rotate: false
+  xy: 262, 597
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_44X43
+  rotate: false
+  xy: 294, 585
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_44X76
+  rotate: false
+  xy: 1, 548
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_46X58
+  rotate: false
+  xy: 355, 571
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_47X77
+  rotate: false
+  xy: 141, 534
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_48X78
+  rotate: false
+  xy: 420, 529
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_49X25
+  rotate: false
+  xy: 354, 610
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_49X31
+  rotate: false
+  xy: 84, 598
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_49X56
+  rotate: false
+  xy: 104, 560
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_51X43
+  rotate: false
+  xy: 425, 245
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_53X28
+  rotate: false
+  xy: 372, 508
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_57X99
+  rotate: false
+  xy: 471, 425
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_62X56
+  rotate: false
+  xy: 453, 539
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_64X47
+  rotate: false
+  xy: 61, 560
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_66X33
+  rotate: false
+  xy: 226, 357
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_66X72
+  rotate: false
+  xy: 328, 499
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_70X109
+  rotate: false
+  xy: 179, 357
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_70X71
+  rotate: false
+  xy: 171, 486
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_70X85
+  rotate: false
+  xy: 174, 429
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_71X62
+  rotate: false
+  xy: 265, 523
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_71X66
+  rotate: false
+  xy: 1, 504
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_71X91
+  rotate: false
+  xy: 370, 382
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_74X70
+  rotate: false
+  xy: 121, 469
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_78X81
+  rotate: false
+  xy: 122, 415
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_80X76
+  rotate: false
+  xy: 278, 425
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_88X95
+  rotate: false
+  xy: 195, 294
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_91X66
+  rotate: false
+  xy: 1, 460
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_94X121
+  rotate: false
+  xy: 425, 165
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_99X63
+  rotate: false
+  xy: 418, 382
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_WEST_BULLRIDER_ZOMBIE_WEST_BULLRIDER_99X91
+  rotate: false
+  xy: 63, 294
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1

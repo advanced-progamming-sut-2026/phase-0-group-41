@@ -1,0 +1,40 @@
+DIRT_SPAWN_DIRT_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DIRT_SPAWN_DIRT_DIRT_SPAWN_DIRT_169X118
+  rotate: false
+  xy: 1, 1
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_DIRT_DIRT_SPAWN_DIRT_179X50
+  rotate: false
+  xy: 1, 79
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_DIRT_DIRT_SPAWN_DIRT_20X22
+  rotate: false
+  xy: 111, 17
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_DIRT_DIRT_SPAWN_DIRT_22X22
+  rotate: false
+  xy: 111, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_DIRT_DIRT_SPAWN_DIRT_34X28
+  rotate: false
+  xy: 1, 113
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1

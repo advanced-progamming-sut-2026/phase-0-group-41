@@ -1,0 +1,418 @@
+SLIDER_MODERN_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_102X16
+  rotate: false
+  xy: 227, 917
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_104X30
+  rotate: false
+  xy: 214, 510
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_141X169
+  rotate: false
+  xy: 113, 807
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_144X66
+  rotate: false
+  xy: 297, 873
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_14X26
+  rotate: false
+  xy: 491, 173
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_152X68
+  rotate: false
+  xy: 297, 827
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_172X172
+  rotate: false
+  xy: 365, 715
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_228X414
+  rotate: false
+  xy: 343, 1
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_25X27
+  rotate: false
+  xy: 491, 79
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_264X376
+  rotate: false
+  xy: 1, 267
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_264X412
+  rotate: false
+  xy: 1, 1
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_26X14
+  rotate: false
+  xy: 491, 192
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_27X21
+  rotate: false
+  xy: 491, 119
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_281X140
+  rotate: false
+  xy: 1, 690
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_28X14
+  rotate: false
+  xy: 491, 151
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_31X26
+  rotate: false
+  xy: 491, 41
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_31X28
+  rotate: false
+  xy: 491, 1
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_329X278
+  rotate: false
+  xy: 1, 510
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_32X10
+  rotate: false
+  xy: 491, 510
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_33X53
+  rotate: false
+  xy: 485, 873
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_36X12
+  rotate: false
+  xy: 283, 522
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_37X8
+  rotate: false
+  xy: 183, 690
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_38X15
+  rotate: false
+  xy: 283, 510
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_43X39
+  rotate: false
+  xy: 167, 917
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_43X87
+  rotate: false
+  xy: 477, 694
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_53X86
+  rotate: false
+  xy: 427, 535
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_56X77
+  rotate: false
+  xy: 427, 642
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_59X74
+  rotate: false
+  xy: 427, 592
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_DOWN_TILESLIDER_MODERN_DOWN_96X40
+  rotate: false
+  xy: 39, 894
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_102X16
+  rotate: false
+  xy: 295, 917
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_104X30
+  rotate: false
+  xy: 113, 782
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_141X169
+  rotate: false
+  xy: 205, 807
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_144X66
+  rotate: false
+  xy: 391, 873
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_14X26
+  rotate: false
+  xy: 502, 173
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_152X68
+  rotate: false
+  xy: 397, 827
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_172X172
+  rotate: false
+  xy: 1, 782
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_228X414
+  rotate: false
+  xy: 343, 268
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_25X27
+  rotate: false
+  xy: 491, 99
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_264X376
+  rotate: false
+  xy: 172, 267
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_264X412
+  rotate: false
+  xy: 172, 1
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_26X14
+  rotate: false
+  xy: 491, 203
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_27X21
+  rotate: false
+  xy: 491, 135
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_281X140
+  rotate: false
+  xy: 183, 715
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_28X14
+  rotate: false
+  xy: 491, 162
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_31X26
+  rotate: false
+  xy: 491, 60
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_31X28
+  rotate: false
+  xy: 491, 21
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_329X278
+  rotate: false
+  xy: 214, 535
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_32X10
+  rotate: false
+  xy: 491, 519
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_33X53
+  rotate: false
+  xy: 485, 909
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_36X12
+  rotate: false
+  xy: 308, 522
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_37X8
+  rotate: false
+  xy: 427, 694
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_38X15
+  rotate: false
+  xy: 310, 510
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_43X39
+  rotate: false
+  xy: 197, 917
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_43X87
+  rotate: false
+  xy: 477, 752
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_53X86
+  rotate: false
+  xy: 463, 535
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_56X77
+  rotate: false
+  xy: 465, 642
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_56X77_2
+  rotate: false
+  xy: 1, 894
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_59X74
+  rotate: false
+  xy: 467, 592
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TILESLIDER_MODERN_UP_TILESLIDER_MODERN_UP_96X40
+  rotate: false
+  xy: 103, 917
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1

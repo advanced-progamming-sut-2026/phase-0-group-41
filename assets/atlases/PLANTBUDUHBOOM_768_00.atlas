@@ -1,0 +1,1489 @@
+PLANTBUDUHBOOM_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_117X43
+  rotate: false
+  xy: 1, 635
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_123X63
+  rotate: false
+  xy: 142, 211
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_133X68
+  rotate: false
+  xy: 243, 517
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_15X15
+  rotate: false
+  xy: 45, 803
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_171X201
+  rotate: false
+  xy: 224, 130
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_175X171
+  rotate: false
+  xy: 142, 261
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_213X198
+  rotate: false
+  xy: 224, 1
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_214X186
+  rotate: false
+  xy: 363, 117
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_231X178
+  rotate: false
+  xy: 363, 1
+  size: 148, 114
+  orig: 148, 114
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_50X16
+  rotate: false
+  xy: 441, 782
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_EXPLOSION_BUDUHBOOM_EXPLOSION_54X42
+  rotate: false
+  xy: 43, 739
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_18X24
+  rotate: false
+  xy: 31, 794
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_24X27
+  rotate: false
+  xy: 225, 714
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_30X30
+  rotate: false
+  xy: 74, 772
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_31X34
+  rotate: false
+  xy: 336, 213
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_35X55
+  rotate: false
+  xy: 58, 426
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_37X65
+  rotate: false
+  xy: 336, 130
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_40X196
+  rotate: false
+  xy: 476, 511
+  size: 26, 126
+  orig: 26, 126
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_49X42
+  rotate: false
+  xy: 381, 739
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_54X62
+  rotate: false
+  xy: 177, 464
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BUDUHBOOM_PROJECTILE_BUDUHBOOM_PROJECTILE_9X9
+  rotate: false
+  xy: 330, 517
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_100X140
+  rotate: false
+  xy: 443, 238
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_100X37
+  rotate: false
+  xy: 415, 685
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_105X37
+  rotate: false
+  xy: 244, 681
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_10X11
+  rotate: false
+  xy: 504, 478
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_10X18
+  rotate: false
+  xy: 504, 434
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_10X7
+  rotate: false
+  xy: 504, 529
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_10X8
+  rotate: false
+  xy: 504, 536
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_10X8_2
+  rotate: false
+  xy: 504, 543
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_116X101
+  rotate: false
+  xy: 217, 445
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_116X101_2
+  rotate: false
+  xy: 293, 450
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_118X142
+  rotate: false
+  xy: 256, 261
+  size: 76, 91
+  orig: 76, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_11X11
+  rotate: false
+  xy: 504, 487
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_11X11_2
+  rotate: false
+  xy: 504, 496
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_11X6
+  rotate: false
+  xy: 198, 506
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_11X7
+  rotate: false
+  xy: 504, 550
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_11X9
+  rotate: false
+  xy: 504, 513
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_11X9_2
+  rotate: false
+  xy: 504, 521
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_128X163
+  rotate: false
+  xy: 1, 319
+  size: 82, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_12X10
+  rotate: false
+  xy: 504, 460
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_12X11
+  rotate: false
+  xy: 504, 469
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_12X15
+  rotate: false
+  xy: 504, 448
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_12X17
+  rotate: false
+  xy: 504, 421
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_12X6
+  rotate: false
+  xy: 188, 506
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_12X9
+  rotate: false
+  xy: 504, 505
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_13X10
+  rotate: false
+  xy: 271, 745
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_13X11
+  rotate: false
+  xy: 415, 751
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_13X16
+  rotate: false
+  xy: 415, 739
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_13X38
+  rotate: false
+  xy: 502, 117
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_147X54
+  rotate: false
+  xy: 243, 563
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_147X54_2
+  rotate: false
+  xy: 339, 596
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_147X54_3
+  rotate: false
+  xy: 1, 598
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_14X13
+  rotate: false
+  xy: 42, 587
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_14X20
+  rotate: false
+  xy: 164, 551
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_14X6
+  rotate: false
+  xy: 427, 415
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_14X6_2
+  rotate: false
+  xy: 177, 506
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_14X8
+  rotate: false
+  xy: 150, 703
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_14X9
+  rotate: false
+  xy: 271, 754
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_15X14
+  rotate: false
+  xy: 57, 803
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_15X17
+  rotate: false
+  xy: 498, 794
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_15X18
+  rotate: false
+  xy: 502, 190
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_15X19
+  rotate: false
+  xy: 502, 204
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_15X19_2
+  rotate: false
+  xy: 502, 218
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_15X20
+  rotate: false
+  xy: 502, 160
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_15X6
+  rotate: false
+  xy: 502, 232
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_164X186
+  rotate: false
+  xy: 336, 238
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_16X19
+  rotate: false
+  xy: 164, 537
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_16X20
+  rotate: false
+  xy: 502, 175
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_16X21
+  rotate: false
+  xy: 502, 144
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_16X7
+  rotate: false
+  xy: 164, 566
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_17X12
+  rotate: false
+  xy: 69, 803
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_17X12_2
+  rotate: false
+  xy: 110, 803
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_17X17
+  rotate: false
+  xy: 429, 389
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_17X17_2
+  rotate: false
+  xy: 429, 402
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_17X19
+  rotate: false
+  xy: 429, 375
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_17X22
+  rotate: false
+  xy: 429, 359
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_17X7
+  rotate: false
+  xy: 158, 803
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_19X10
+  rotate: false
+  xy: 123, 803
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_19X17
+  rotate: false
+  xy: 400, 768
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_1X1
+  rotate: false
+  xy: 358, 213
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_1X1_2
+  rotate: false
+  xy: 358, 216
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_20X34
+  rotate: false
+  xy: 465, 733
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_20X8
+  rotate: false
+  xy: 147, 776
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_217X166
+  rotate: false
+  xy: 1, 211
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_21X21
+  rotate: false
+  xy: 369, 493
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_22X11
+  rotate: false
+  xy: 57, 784
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_22X38
+  rotate: false
+  xy: 78, 635
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_23X10
+  rotate: false
+  xy: 415, 675
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_23X103
+  rotate: false
+  xy: 87, 704
+  size: 15, 66
+  orig: 15, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_23X11
+  rotate: false
+  xy: 225, 734
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_23X19
+  rotate: false
+  xy: 408, 581
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_23X24
+  rotate: false
+  xy: 357, 777
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_23X24_2
+  rotate: false
+  xy: 193, 784
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_25X64
+  rotate: false
+  xy: 369, 450
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_26X26
+  rotate: false
+  xy: 415, 656
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_26X33
+  rotate: false
+  xy: 415, 633
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_27X24
+  rotate: false
+  xy: 97, 598
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_27X47
+  rotate: false
+  xy: 360, 745
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_28X16
+  rotate: false
+  xy: 138, 794
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_28X46
+  rotate: false
+  xy: 380, 768
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_29X22
+  rotate: false
+  xy: 317, 728
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_31X12
+  rotate: false
+  xy: 476, 794
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_31X30
+  rotate: false
+  xy: 1, 772
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_31X50
+  rotate: false
+  xy: 335, 765
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_31X9
+  rotate: false
+  xy: 186, 802
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_33X10
+  rotate: false
+  xy: 330, 799
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_33X10_2
+  rotate: false
+  xy: 353, 799
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_33X9
+  rotate: false
+  xy: 376, 800
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_345X325
+  rotate: false
+  xy: 1, 1
+  size: 221, 208
+  orig: 221, 208
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_34X9
+  rotate: false
+  xy: 1, 803
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_35X10
+  rotate: false
+  xy: 426, 794
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_35X10_2
+  rotate: false
+  xy: 451, 794
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_36X8
+  rotate: false
+  xy: 195, 254
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_37X10
+  rotate: false
+  xy: 238, 794
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_37X10_2
+  rotate: false
+  xy: 400, 794
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_37X12
+  rotate: false
+  xy: 84, 794
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_37X57
+  rotate: false
+  xy: 336, 174
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_37X8
+  rotate: false
+  xy: 169, 254
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_37X9
+  rotate: false
+  xy: 292, 802
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_38X27
+  rotate: false
+  xy: 283, 707
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_39X12
+  rotate: false
+  xy: 57, 793
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_39X47
+  rotate: false
+  xy: 148, 744
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_39X8
+  rotate: false
+  xy: 142, 254
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_39X9
+  rotate: false
+  xy: 339, 588
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_40X11
+  rotate: false
+  xy: 110, 794
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_40X12
+  rotate: false
+  xy: 302, 792
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_40X9
+  rotate: false
+  xy: 158, 795
+  size: 26, 6
+  orig: 26, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_41X108
+  rotate: false
+  xy: 339, 517
+  size: 26, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_41X11
+  rotate: false
+  xy: 210, 794
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_41X38
+  rotate: false
+  xy: 307, 765
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_41X9
+  rotate: false
+  xy: 264, 796
+  size: 26, 6
+  orig: 26, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_42X61
+  rotate: false
+  xy: 484, 685
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_42X70
+  rotate: false
+  xy: 313, 681
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_43X13
+  rotate: false
+  xy: 163, 784
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_44X11
+  rotate: false
+  xy: 1, 794
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_44X54
+  rotate: false
+  xy: 484, 726
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_45X42
+  rotate: false
+  xy: 1, 743
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_46X117
+  rotate: false
+  xy: 383, 633
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_47X12
+  rotate: false
+  xy: 270, 786
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_47X13
+  rotate: false
+  xy: 131, 783
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_48X16
+  rotate: false
+  xy: 475, 782
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_50X118
+  rotate: false
+  xy: 349, 633
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_50X12
+  rotate: false
+  xy: 23, 784
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_50X127
+  rotate: false
+  xy: 435, 596
+  size: 32, 82
+  orig: 32, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_50X51
+  rotate: false
+  xy: 283, 728
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_51X102
+  rotate: false
+  xy: 217, 373
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_52X33
+  rotate: false
+  xy: 271, 763
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_52X50
+  rotate: false
+  xy: 189, 714
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_53X13
+  rotate: false
+  xy: 95, 783
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_54X139
+  rotate: false
+  xy: 201, 573
+  size: 35, 89
+  orig: 35, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_55X141
+  rotate: false
+  xy: 164, 573
+  size: 35, 90
+  orig: 35, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_56X45
+  rotate: false
+  xy: 427, 733
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_57X50
+  rotate: false
+  xy: 150, 710
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_57X50_2
+  rotate: false
+  xy: 342, 711
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_57X9
+  rotate: false
+  xy: 388, 413
+  size: 37, 6
+  orig: 37, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_58X56
+  rotate: false
+  xy: 244, 707
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_59X17
+  rotate: false
+  xy: 244, 668
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_59X68
+  rotate: false
+  xy: 204, 668
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_60X15
+  rotate: false
+  xy: 400, 782
+  size: 39, 10
+  orig: 39, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_60X60
+  rotate: false
+  xy: 109, 703
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_61X13
+  rotate: false
+  xy: 1, 587
+  size: 39, 9
+  orig: 39, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_61X20
+  rotate: false
+  xy: 367, 581
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_61X81
+  rotate: false
+  xy: 388, 359
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_62X22
+  rotate: false
+  xy: 32, 768
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_62X57
+  rotate: false
+  xy: 1, 704
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_62X67
+  rotate: false
+  xy: 162, 665
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_63X68
+  rotate: false
+  xy: 469, 639
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_64X23
+  rotate: false
+  xy: 175, 767
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_64X26
+  rotate: false
+  xy: 104, 764
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_64X27
+  rotate: false
+  xy: 317, 745
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_65X27
+  rotate: false
+  xy: 104, 744
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_65X51
+  rotate: false
+  xy: 43, 704
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_66X25
+  rotate: false
+  xy: 415, 764
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_66X26
+  rotate: false
+  xy: 465, 763
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_67X24
+  rotate: false
+  xy: 220, 764
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_67X26
+  rotate: false
+  xy: 175, 748
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_68X120
+  rotate: false
+  xy: 118, 537
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_68X26
+  rotate: false
+  xy: 225, 745
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_69X41
+  rotate: false
+  xy: 381, 711
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_71X129
+  rotate: false
+  xy: 428, 511
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_72X102
+  rotate: false
+  xy: 238, 600
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_72X46
+  rotate: false
+  xy: 286, 600
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_74X80
+  rotate: false
+  xy: 85, 319
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_78X15
+  rotate: false
+  xy: 218, 782
+  size: 50, 10
+  orig: 50, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_79X108
+  rotate: false
+  xy: 1, 516
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_79X56
+  rotate: false
+  xy: 109, 665
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_7X6
+  rotate: false
+  xy: 504, 564
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_7X7
+  rotate: false
+  xy: 330, 533
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_81X57
+  rotate: false
+  xy: 1, 665
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_81X57_2
+  rotate: false
+  xy: 55, 665
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_86X137
+  rotate: false
+  xy: 447, 421
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_86X137_2
+  rotate: false
+  xy: 1, 426
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_86X31
+  rotate: false
+  xy: 427, 711
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_88X110
+  rotate: false
+  xy: 118, 464
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_89X108
+  rotate: false
+  xy: 369, 510
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_89X136
+  rotate: false
+  xy: 388, 421
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_8X7
+  rotate: false
+  xy: 330, 540
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_8X8
+  rotate: false
+  xy: 330, 547
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_8X8_2
+  rotate: false
+  xy: 330, 554
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_8X8_3
+  rotate: false
+  xy: 504, 557
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_90X112
+  rotate: false
+  xy: 58, 464
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_90X90
+  rotate: false
+  xy: 54, 538
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_95X71
+  rotate: false
+  xy: 286, 633
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_95X73
+  rotate: false
+  xy: 97, 616
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_99X138
+  rotate: false
+  xy: 443, 330
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_99X138_2
+  rotate: false
+  xy: 256, 354
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_99X138_3
+  rotate: false
+  xy: 322, 359
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_99X138_4
+  rotate: false
+  xy: 85, 373
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_99X138_5
+  rotate: false
+  xy: 151, 373
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_99X92
+  rotate: false
+  xy: 177, 512
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_9X6
+  rotate: false
+  xy: 207, 506
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BUDUHBOOM_BUDUHBOOM_9X9
+  rotate: false
+  xy: 330, 525
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

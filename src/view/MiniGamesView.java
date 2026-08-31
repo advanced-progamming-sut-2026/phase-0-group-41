@@ -3,6 +3,7 @@ package view;
 import controller.AppController;
 import controller.MenuController;
 import model.menu.MenuType;
+import model.user.User;
 import util.CommandLine;
 
 import java.util.List;
@@ -59,6 +60,11 @@ public class MiniGamesView {
                 consoleView.printError("سطح باید بین ۱ تا ۳ باشد.");
                 return true;
             }
+            User user = menuController.getLoggedInUser();
+            if (user != null && !user.isMiniGameLevelUnlocked(name.toLowerCase(), level)) {
+                consoleView.printError("سطح " + level + " هنوز قفل است. ابتدا سطح قبلی این مینی‌گیم را ببرید.");
+                return true;
+            }
             appController.startMiniGame(name.toLowerCase(), level);
             return true;
         }
@@ -67,12 +73,23 @@ public class MiniGamesView {
     }
 
     private void printMiniGamesList() {
+        User user = menuController.getLoggedInUser();
         consoleView.printMessage("--- Mini Games ---");
-        consoleView.printMessage("1. vasebreaker      (کوزه شکنی)      - levels: 1, 2, 3");
-        consoleView.printMessage("2. wallnutbowling    (بولینگ گردویی) - levels: 1, 2, 3");
-        consoleView.printMessage("3. izombie           (من زامبی)       - levels: 1, 2, 3");
-        consoleView.printMessage("4. beghouled         (ترکیب سه‌تایی) - levels: 1, 2, 3");
+        printGameLine(user, "1. vasebreaker      (کوزه شکنی)     ", "vasebreaker");
+        printGameLine(user, "2. wallnutbowling   (بولینگ گردویی) ", "wallnutbowling");
+        printGameLine(user, "3. izombie          (من زامبی)      ", "izombie");
+        printGameLine(user, "4. beghouled        (ترکیب سه‌تایی)", "beghouled");
         consoleView.printMessage("برای شروع: start minigame -n <name> -l <level>");
         consoleView.printMessage("------------------");
+    }
+
+    private void printGameLine(User user, String label, String gameId) {
+        StringBuilder sb = new StringBuilder(label).append(" - levels: ");
+        for (int level = 1; level <= 3; level++) {
+            boolean unlocked = (user == null) || user.isMiniGameLevelUnlocked(gameId, level);
+            sb.append(level).append(unlocked ? "" : "🔒");
+            if (level < 3) sb.append(", ");
+        }
+        consoleView.printMessage(sb.toString());
     }
 }

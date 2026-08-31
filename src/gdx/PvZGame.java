@@ -129,8 +129,16 @@ public class PvZGame extends Game {
     }
 
     /** ورود به صفحه‌ی گرافیکی گیم‌پلی اصلی (grid کاشت، زامبی‌ها، خورشید، پرتابه‌ها و ...). */
-    public void goToGameScreen(int chapter, int level, int totalWaves) {
-        GameSession session = new GameSession(loggedInUser, totalWaves);
+    public void goToGameScreen(int chapter, int level) {
+        // فصل بازی (Season)، نوع مرحله (LevelMode) و سختی موج از منبع واحد
+        // ChapterPlan خوانده می‌شود تا دقیقاً همان رفتار AppController کنسولی را
+        // داشته باشیم (بدون این کار هر مرحله عین مرحله‌ی عادی پیش‌فرض اجرا می‌شد).
+        model.game.Season season = model.game.ChapterPlan.seasonFor(chapter);
+        model.levelrules.LevelMode mode = model.game.ChapterPlan.levelModeFor(chapter, level);
+        int totalWaves = model.game.ChapterPlan.totalWavesFor(chapter, level);
+        double baseWaveCost = model.game.ChapterPlan.baseWaveCostFor(chapter, level);
+
+        GameSession session = new GameSession(loggedInUser, totalWaves, baseWaveCost, season, mode);
         setScreen(new GameScreen(this, session, chapter, level));
     }
 
@@ -148,6 +156,9 @@ public class PvZGame extends Game {
     public void startMiniGame(String name, int level) {
         if (loggedInUser == null) {
             return;
+        }
+        if (!loggedInUser.isMiniGameLevelUnlocked(name.toLowerCase(), level)) {
+            return; // سطح قفل است؛ نباید بدون بردن سطح قبلی شروع شود
         }
         MiniGameSession session;
         switch (name.toLowerCase()) {

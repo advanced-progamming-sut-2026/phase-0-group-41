@@ -1,0 +1,26 @@
+UI_QUESTBUTTON_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_HUD_QUESTBUTTON_ICON_EPIC
+  rotate: false
+  xy: 1, 157
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_QUESTBUTTON_QUEST_ICON_DOWN
+  rotate: false
+  xy: 1, 1
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_QUESTBUTTON_QUEST_ICON_UP
+  rotate: false
+  xy: 1, 79
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,278 @@
+PLANTSOLARTOMATO_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SOLAR_TOMATO_EFFECT_SOLAR_TOMATO_EFFECT_123X609
+  rotate: false
+  xy: 1, 1
+  size: 79, 390
+  orig: 79, 390
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOLAR_TOMATO_EFFECT_SOLAR_TOMATO_EFFECT_13X13
+  rotate: false
+  xy: 421, 366
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOLAR_TOMATO_EFFECT_SOLAR_TOMATO_EFFECT_162X332
+  rotate: false
+  xy: 82, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOLAR_TOMATO_EFFECT_SOLAR_TOMATO_EFFECT_162X332_2
+  rotate: false
+  xy: 188, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOLAR_TOMATO_EFFECT_SOLAR_TOMATO_EFFECT_162X332_3
+  rotate: false
+  xy: 294, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOLAR_TOMATO_MINOR_EFFECT_SOLAR_TOMATO_MINOR_EFFECT_13X13
+  rotate: false
+  xy: 432, 366
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOLAR_TOMATO_MINOR_EFFECT_SOLAR_TOMATO_MINOR_EFFECT_162X332
+  rotate: false
+  xy: 400, 1
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SOLAR_TOMATO_MINOR_EFFECT_SOLAR_TOMATO_MINOR_EFFECT_162X332_2
+  rotate: false
+  xy: 82, 216
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_104X83
+  rotate: false
+  xy: 327, 285
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_106X84
+  rotate: false
+  xy: 407, 216
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_114X76
+  rotate: false
+  xy: 407, 272
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_122X105
+  rotate: false
+  xy: 327, 216
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_13X13
+  rotate: false
+  xy: 443, 366
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_14X10
+  rotate: false
+  xy: 454, 366
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_15X7
+  rotate: false
+  xy: 465, 366
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_16X15
+  rotate: false
+  xy: 500, 365
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_16X19
+  rotate: false
+  xy: 409, 361
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_16X21
+  rotate: false
+  xy: 500, 349
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_16X22
+  rotate: false
+  xy: 385, 361
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_16X22_2
+  rotate: false
+  xy: 397, 361
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_18X38
+  rotate: false
+  xy: 500, 322
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_213X213
+  rotate: false
+  xy: 188, 216
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_21X21
+  rotate: false
+  xy: 379, 340
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_23X21
+  rotate: false
+  xy: 368, 360
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_23X26
+  rotate: false
+  xy: 302, 355
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_23X26_2
+  rotate: false
+  xy: 351, 360
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_25X98
+  rotate: false
+  xy: 482, 322
+  size: 16, 63
+  orig: 16, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_26X26
+  rotate: false
+  xy: 283, 355
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_30X27
+  rotate: false
+  xy: 240, 355
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_31X24
+  rotate: false
+  xy: 261, 355
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_34X27
+  rotate: false
+  xy: 216, 355
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_34X46
+  rotate: false
+  xy: 327, 340
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_36X64
+  rotate: false
+  xy: 455, 323
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_37X64
+  rotate: false
+  xy: 429, 323
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_40X24
+  rotate: false
+  xy: 188, 355
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_40X27
+  rotate: false
+  xy: 351, 340
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_42X97
+  rotate: false
+  xy: 482, 216
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_46X54
+  rotate: false
+  xy: 482, 285
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SOLAR_TOMATO_SOLAR_TOMATO_48X56
+  rotate: false
+  xy: 396, 323
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1

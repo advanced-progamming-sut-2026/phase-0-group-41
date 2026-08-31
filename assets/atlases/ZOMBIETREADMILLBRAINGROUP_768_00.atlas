@@ -1,0 +1,33 @@
+ZOMBIETREADMILLBRAINGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BRAIN_EFFECT_BRAIN_EFFECT_163X65
+  rotate: false
+  xy: 1, 119
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAIN_EFFECT_BRAIN_EFFECT_49X59
+  rotate: false
+  xy: 75, 163
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_POWER_BRAIN_PROJECTILE_POWER_BRAIN_PROJECTILE_112X82
+  rotate: false
+  xy: 1, 163
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_POWER_BRAIN_PROJECTILE_POWER_BRAIN_PROJECTILE_181X181
+  rotate: false
+  xy: 1, 1
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1

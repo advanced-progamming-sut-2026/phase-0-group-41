@@ -1,0 +1,418 @@
+ZOMBIEEIGHTIESGLITTERGROUP_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_EFFECT_BACK_ZOMBIE_80S_GLITTER_EFFECT_BACK_457X39
+  rotate: false
+  xy: 279, 506
+  size: 293, 25
+  orig: 293, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_EFFECT_FRONT_ZOMBIE_80S_GLITTER_EFFECT_FRONT_10X10
+  rotate: false
+  xy: 523, 306
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_EFFECT_FRONT_ZOMBIE_80S_GLITTER_EFFECT_FRONT_14X14
+  rotate: false
+  xy: 338, 391
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_EFFECT_FRONT_ZOMBIE_80S_GLITTER_EFFECT_FRONT_457X39
+  rotate: false
+  xy: 574, 506
+  size: 293, 25
+  orig: 293, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_EFFECT_FRONT_ZOMBIE_80S_GLITTER_EFFECT_FRONT_78X78
+  rotate: false
+  xy: 971, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_EFFECT_FRONT_ZOMBIE_80S_GLITTER_EFFECT_FRONT_9X9
+  rotate: false
+  xy: 523, 333
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_PLANT_HIT_ZOMBIE_80S_GLITTER_PLANT_HIT_10X10
+  rotate: false
+  xy: 523, 315
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_PLANT_HIT_ZOMBIE_80S_GLITTER_PLANT_HIT_116X123
+  rotate: false
+  xy: 948, 180
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_PLANT_HIT_ZOMBIE_80S_GLITTER_PLANT_HIT_14X14
+  rotate: false
+  xy: 349, 391
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_PLANT_HIT_ZOMBIE_80S_GLITTER_PLANT_HIT_165X133
+  rotate: false
+  xy: 840, 180
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_PLANT_HIT_ZOMBIE_80S_GLITTER_PLANT_HIT_175X101
+  rotate: false
+  xy: 840, 267
+  size: 112, 65
+  orig: 112, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_PLANT_HIT_ZOMBIE_80S_GLITTER_PLANT_HIT_53X52
+  rotate: false
+  xy: 497, 236
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_80S_GLITTER_PLANT_HIT_ZOMBIE_80S_GLITTER_PLANT_HIT_88X56
+  rotate: false
+  xy: 279, 368
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_10X10
+  rotate: false
+  xy: 523, 324
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_14X14
+  rotate: false
+  xy: 360, 391
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_14X14_2
+  rotate: false
+  xy: 797, 392
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_14X14_3
+  rotate: false
+  xy: 808, 392
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_14X14_4
+  rotate: false
+  xy: 819, 392
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_431X249
+  rotate: false
+  xy: 1, 368
+  size: 276, 160
+  orig: 276, 160
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_466X250
+  rotate: false
+  xy: 497, 344
+  size: 298, 160
+  orig: 298, 160
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_475X253
+  rotate: false
+  xy: 534, 180
+  size: 304, 162
+  orig: 304, 162
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_49X49
+  rotate: false
+  xy: 497, 272
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_679X276
+  rotate: false
+  xy: 534, 1
+  size: 435, 177
+  orig: 435, 177
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_771X277
+  rotate: false
+  xy: 1, 188
+  size: 494, 178
+  orig: 494, 178
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_EFFECT_ZOMBIE_80S_GLITTER_EFFECT_829X289
+  rotate: false
+  xy: 1, 1
+  size: 531, 185
+  orig: 531, 185
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_109X84
+  rotate: false
+  xy: 954, 261
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_135X8
+  rotate: false
+  xy: 834, 382
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_13X37
+  rotate: false
+  xy: 901, 389
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_15X37
+  rotate: false
+  xy: 868, 389
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_16X40
+  rotate: false
+  xy: 1013, 147
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_16X52
+  rotate: false
+  xy: 484, 368
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_18X50
+  rotate: false
+  xy: 923, 382
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_19X18
+  rotate: false
+  xy: 396, 390
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_19X42
+  rotate: false
+  xy: 854, 389
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_19X61
+  rotate: false
+  xy: 967, 372
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_28X14
+  rotate: false
+  xy: 992, 169
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_28X16
+  rotate: false
+  xy: 376, 390
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_28X33
+  rotate: false
+  xy: 834, 389
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_30X13
+  rotate: false
+  xy: 971, 169
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_30X18
+  rotate: false
+  xy: 880, 389
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_30X37
+  rotate: false
+  xy: 1003, 372
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_31X36
+  rotate: false
+  xy: 981, 372
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_31X39
+  rotate: false
+  xy: 945, 372
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_31X42
+  rotate: false
+  xy: 462, 368
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_36X39
+  rotate: false
+  xy: 437, 368
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_36X45
+  rotate: false
+  xy: 412, 368
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_37X46
+  rotate: false
+  xy: 497, 306
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_48X72
+  rotate: false
+  xy: 497, 188
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_52X31
+  rotate: false
+  xy: 376, 368
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_55X72
+  rotate: false
+  xy: 797, 344
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_56X32
+  rotate: false
+  xy: 338, 368
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_62X31
+  rotate: false
+  xy: 971, 147
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_68X72
+  rotate: false
+  xy: 899, 334
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_6X6
+  rotate: false
+  xy: 1018, 106
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_70X71
+  rotate: false
+  xy: 971, 99
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_79X69
+  rotate: false
+  xy: 971, 53
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_7X7
+  rotate: false
+  xy: 1018, 99
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_88X61
+  rotate: false
+  xy: 840, 334
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_GLITTER_ZOMBIE_80S_GLITTER_99X83
+  rotate: false
+  xy: 954, 317
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,159 @@
+ZOMBIEEGYPTIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_13X23
+  rotate: false
+  xy: 110, 115
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_13X24
+  rotate: false
+  xy: 118, 66
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_13X25
+  rotate: false
+  xy: 94, 74
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_14X26
+  rotate: false
+  xy: 107, 66
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_14X29
+  rotate: false
+  xy: 117, 45
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_15X32
+  rotate: false
+  xy: 117, 1
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_167X8
+  rotate: false
+  xy: 1, 128
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_16X29
+  rotate: false
+  xy: 117, 24
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_17X23
+  rotate: false
+  xy: 94, 57
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_18X13
+  rotate: false
+  xy: 43, 115
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_18X13_2
+  rotate: false
+  xy: 57, 115
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_21X25
+  rotate: false
+  xy: 101, 21
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_21X25_2
+  rotate: false
+  xy: 101, 39
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_21X28
+  rotate: false
+  xy: 101, 1
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_55X32
+  rotate: false
+  xy: 87, 92
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_62X54
+  rotate: false
+  xy: 1, 91
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_66X33
+  rotate: false
+  xy: 43, 92
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_67X64
+  rotate: false
+  xy: 49, 49
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_6X6
+  rotate: false
+  xy: 94, 49
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_70X71
+  rotate: false
+  xy: 54, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_71X62
+  rotate: false
+  xy: 1, 49
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_IMP_ZOMBIE_EGYPT_IMP_80X72
+  rotate: false
+  xy: 1, 1
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1

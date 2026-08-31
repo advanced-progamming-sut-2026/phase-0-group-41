@@ -1,0 +1,390 @@
+WORLDMAP_DINO_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_DINO_ISLAND1
+  rotate: false
+  xy: 1, 1084
+  size: 208, 85
+  orig: 208, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND11
+  rotate: false
+  xy: 810, 676
+  size: 186, 208
+  orig: 186, 208
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND12
+  rotate: false
+  xy: 897, 450
+  size: 101, 130
+  orig: 101, 130
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND13
+  rotate: false
+  xy: 927, 1373
+  size: 89, 113
+  orig: 89, 113
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND14
+  rotate: false
+  xy: 810, 886
+  size: 158, 243
+  orig: 158, 243
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND15
+  rotate: false
+  xy: 1, 576
+  size: 430, 506
+  orig: 430, 506
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND16
+  rotate: false
+  xy: 1, 1185
+  size: 495, 347
+  orig: 495, 347
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND17
+  rotate: false
+  xy: 810, 1131
+  size: 176, 135
+  orig: 176, 135
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND18
+  rotate: false
+  xy: 486, 1
+  size: 409, 673
+  orig: 409, 673
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND2
+  rotate: false
+  xy: 740, 1373
+  size: 185, 117
+  orig: 185, 117
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND21
+  rotate: false
+  xy: 433, 633
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND22
+  rotate: false
+  xy: 368, 1084
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND23
+  rotate: false
+  xy: 897, 582
+  size: 116, 77
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND24
+  rotate: false
+  xy: 740, 1492
+  size: 133, 134
+  orig: 133, 134
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND25
+  rotate: false
+  xy: 740, 1268
+  size: 212, 103
+  orig: 212, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND26
+  rotate: false
+  xy: 740, 1185
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND27
+  rotate: false
+  xy: 261, 1534
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND28
+  rotate: false
+  xy: 173, 1534
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND29
+  rotate: false
+  xy: 875, 1492
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND3
+  rotate: false
+  xy: 875, 1588
+  size: 116, 77
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND32
+  rotate: false
+  xy: 740, 1628
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND33
+  rotate: false
+  xy: 433, 576
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND34
+  rotate: false
+  xy: 120, 1670
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND4
+  rotate: false
+  xy: 211, 1084
+  size: 155, 95
+  orig: 155, 95
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND45
+  rotate: false
+  xy: 375, 1534
+  size: 63, 149
+  orig: 63, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND6
+  rotate: false
+  xy: 368, 1133
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ISLAND8
+  rotate: false
+  xy: 1, 1620
+  size: 117, 69
+  orig: 117, 69
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_103X51
+  rotate: false
+  xy: 970, 969
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_10X10
+  rotate: false
+  xy: 1014, 47
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_11X10
+  rotate: false
+  xy: 1014, 40
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_126X41
+  rotate: false
+  xy: 954, 1268
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_14X11
+  rotate: false
+  xy: 1014, 22
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_14X14
+  rotate: false
+  xy: 1014, 13
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_171X108
+  rotate: false
+  xy: 926, 1667
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_17X19
+  rotate: false
+  xy: 1014, 1
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_182X110
+  rotate: false
+  xy: 833, 1667
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_218X102
+  rotate: false
+  xy: 261, 1630
+  size: 109, 51
+  orig: 109, 51
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_21X11
+  rotate: false
+  xy: 1000, 493
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_230X893
+  rotate: false
+  xy: 897, 1
+  size: 115, 447
+  orig: 115, 447
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_339X168
+  rotate: false
+  xy: 1, 1534
+  size: 170, 84
+  orig: 170, 84
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_41X31
+  rotate: false
+  xy: 1000, 475
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_41X45
+  rotate: false
+  xy: 1000, 450
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_479X1164
+  rotate: false
+  xy: 498, 1185
+  size: 240, 582
+  orig: 240, 582
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_47X37
+  rotate: false
+  xy: 998, 661
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_51X31
+  rotate: false
+  xy: 970, 1059
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_52X50
+  rotate: false
+  xy: 970, 1032
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_5X5
+  rotate: false
+  xy: 1020, 30
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_70X66
+  rotate: false
+  xy: 970, 997
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_73X73
+  rotate: false
+  xy: 970, 930
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_74X26
+  rotate: false
+  xy: 897, 661
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_750X1013
+  rotate: false
+  xy: 433, 676
+  size: 375, 507
+  orig: 375, 507
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_7X15
+  rotate: false
+  xy: 1014, 30
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_7X8
+  rotate: false
+  xy: 1014, 54
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DINO_ZOMBOSS_ISLAND_DINO_ZOMBOSS_ISLAND_DINO_83X83
+  rotate: false
+  xy: 970, 886
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_DINO_ZOMBOSS_NODE_DINO_755X895
+  rotate: false
+  xy: 1, 1
+  size: 483, 573
+  orig: 483, 573
+  offset: 0, 0
+  index: -1

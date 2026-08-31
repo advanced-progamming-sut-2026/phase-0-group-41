@@ -1,0 +1,12 @@
+UI_VASEBREAKERENDLESS_768_00.PNG
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_VASEBREAKER_NEW_RECORD_SPLASH
+  rotate: false
+  xy: 1, 1
+  size: 539, 341
+  orig: 539, 341
+  offset: 0, 0
+  index: -1

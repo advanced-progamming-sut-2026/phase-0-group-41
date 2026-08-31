@@ -1,0 +1,425 @@
+PLANTCHILIBEAN_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_12X11
+  rotate: false
+  xy: 247, 281
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_12X12
+  rotate: false
+  xy: 93, 225
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_12X48
+  rotate: false
+  xy: 37, 220
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_13X10
+  rotate: false
+  xy: 231, 219
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_13X11
+  rotate: false
+  xy: 242, 219
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_13X46
+  rotate: false
+  xy: 237, 50
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_149X69
+  rotate: false
+  xy: 106, 108
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_14X9
+  rotate: false
+  xy: 24, 288
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_15X13
+  rotate: false
+  xy: 81, 225
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_15X8
+  rotate: false
+  xy: 114, 293
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_161X90
+  rotate: false
+  xy: 1, 108
+  size: 103, 58
+  orig: 103, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_18X45
+  rotate: false
+  xy: 237, 1
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_19X9
+  rotate: false
+  xy: 237, 99
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_1X1
+  rotate: false
+  xy: 251, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_1X1_2
+  rotate: false
+  xy: 254, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_21X13
+  rotate: false
+  xy: 187, 154
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_23X17
+  rotate: false
+  xy: 114, 280
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_24X24
+  rotate: false
+  xy: 81, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_24X24_2
+  rotate: false
+  xy: 210, 339
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_25X18
+  rotate: false
+  xy: 155, 340
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_25X25
+  rotate: false
+  xy: 228, 339
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_26X19
+  rotate: false
+  xy: 136, 340
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_27X24
+  rotate: false
+  xy: 237, 32
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_28X23
+  rotate: false
+  xy: 237, 82
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_30X19
+  rotate: false
+  xy: 146, 304
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_33X15
+  rotate: false
+  xy: 1, 288
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_33X22
+  rotate: false
+  xy: 81, 191
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_34X32
+  rotate: false
+  xy: 81, 168
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_35X31
+  rotate: false
+  xy: 231, 197
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_35X38
+  rotate: false
+  xy: 231, 170
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_365X163
+  rotate: false
+  xy: 1, 1
+  size: 234, 105
+  orig: 234, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_38X21
+  rotate: false
+  xy: 183, 339
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_39X26
+  rotate: false
+  xy: 228, 246
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_41X21
+  rotate: false
+  xy: 228, 265
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_43X131
+  rotate: false
+  xy: 51, 168
+  size: 28, 84
+  orig: 28, 84
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_43X24
+  rotate: false
+  xy: 228, 228
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_45X54
+  rotate: false
+  xy: 37, 300
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_46X51
+  rotate: false
+  xy: 114, 304
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_47X20
+  rotate: false
+  xy: 35, 337
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_49X46
+  rotate: false
+  xy: 68, 319
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_50X26
+  rotate: false
+  xy: 102, 339
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_50X27
+  rotate: false
+  xy: 1, 334
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_50X58
+  rotate: false
+  xy: 80, 280
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_51X124
+  rotate: false
+  xy: 106, 154
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_51X53
+  rotate: false
+  xy: 177, 283
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_51X53_2
+  rotate: false
+  xy: 212, 283
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_53X103
+  rotate: false
+  xy: 1, 220
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_53X49
+  rotate: false
+  xy: 1, 300
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_54X27
+  rotate: false
+  xy: 183, 319
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_54X27_2
+  rotate: false
+  xy: 220, 319
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_54X29
+  rotate: false
+  xy: 146, 319
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_63X69
+  rotate: false
+  xy: 37, 254
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_64X88
+  rotate: false
+  xy: 141, 215
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_65X82
+  rotate: false
+  xy: 184, 228
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_65X87
+  rotate: false
+  xy: 187, 170
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_67X43
+  rotate: false
+  xy: 132, 274
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_69X92
+  rotate: false
+  xy: 141, 154
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_71X93
+  rotate: false
+  xy: 204, 108
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_74X78
+  rotate: false
+  xy: 1, 168
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CHILIBEAN_CHILIBEAN_76X65
+  rotate: false
+  xy: 81, 236
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+ZOMBIEGUMGROUP_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_GUMNUT_GUM_BLOCK_ZOMBIE_GUMNUT_GUM_BLOCK_ZOMBIE_119X60
+  rotate: false
+  xy: 1, 1
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_GUMNUT_GUM_BLOCK_ZOMBIE_GUMNUT_GUM_BLOCK_ZOMBIE_120X53
+  rotate: false
+  xy: 1, 42
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_GUMNUT_GUM_BLOCK_ZOMBIE_GUMNUT_GUM_BLOCK_ZOMBIE_122X27
+  rotate: false
+  xy: 1, 78
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1

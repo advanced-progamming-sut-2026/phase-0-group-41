@@ -1,0 +1,810 @@
+PLANTDRAGONBRUIT_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_DRAGONBRUIT_DEATH_PROJECTILE_117X209
+  rotate: false
+  xy: 935, 342
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_DRAGONBRUIT_DEATH_PROJECTILE_1X1
+  rotate: false
+  xy: 1019, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_DRAGONBRUIT_DEATH_PROJECTILE_88X62
+  rotate: false
+  xy: 445, 594
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_117X106
+  rotate: false
+  xy: 877, 568
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_117X209
+  rotate: false
+  xy: 483, 458
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_1X1
+  rotate: false
+  xy: 1022, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_1X1_2
+  rotate: false
+  xy: 1019, 65
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_230X141
+  rotate: false
+  xy: 334, 458
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_256X224
+  rotate: false
+  xy: 769, 342
+  size: 164, 144
+  orig: 164, 144
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_289X262
+  rotate: false
+  xy: 803, 172
+  size: 185, 168
+  orig: 185, 168
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_326X296
+  rotate: false
+  xy: 216, 1
+  size: 209, 190
+  orig: 209, 190
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_66X66
+  rotate: false
+  xy: 197, 603
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_DRAGONBRUIT_DEATH_PROJECTILE_IMPACT_88X62
+  rotate: false
+  xy: 245, 601
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PF_PROJECTILE_DRAGONBRUIT_PF_PROJECTILE_173X109
+  rotate: false
+  xy: 560, 542
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PF_PROJECTILE_DRAGONBRUIT_PF_PROJECTILE_188X122
+  rotate: false
+  xy: 757, 488
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PF_PROJECTILE_DRAGONBRUIT_PF_PROJECTILE_211X140
+  rotate: false
+  xy: 620, 358
+  size: 135, 90
+  orig: 135, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PF_PROJECTILE_DRAGONBRUIT_PF_PROJECTILE_220X153
+  rotate: false
+  xy: 334, 358
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PF_PROJECTILE_DRAGONBRUIT_PF_PROJECTILE_71X50
+  rotate: false
+  xy: 304, 622
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_DRAGONBRUIT_PROJECTILE_173X109
+  rotate: false
+  xy: 332, 550
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_DRAGONBRUIT_PROJECTILE_188X122
+  rotate: false
+  xy: 880, 488
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_DRAGONBRUIT_PROJECTILE_211X140
+  rotate: false
+  xy: 620, 450
+  size: 135, 90
+  orig: 135, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_DRAGONBRUIT_PROJECTILE_220X153
+  rotate: false
+  xy: 477, 358
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_DRAGONBRUIT_PROJECTILE_71X50
+  rotate: false
+  xy: 352, 622
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_IMPACT_DRAGONBRUIT_PROJECTILE_IMPACT_22X21
+  rotate: false
+  xy: 460, 550
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_IMPACT_DRAGONBRUIT_PROJECTILE_IMPACT_37X36
+  rotate: false
+  xy: 993, 116
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_IMPACT_DRAGONBRUIT_PROJECTILE_IMPACT_45X38
+  rotate: false
+  xy: 993, 35
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBRUIT_PROJECTILE_IMPACT_DRAGONBRUIT_PROJECTILE_IMPACT_47X50
+  rotate: false
+  xy: 993, 1
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_115X104
+  rotate: false
+  xy: 1, 594
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_115X104_2
+  rotate: false
+  xy: 77, 594
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_12X18
+  rotate: false
+  xy: 792, 261
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_12X18_2
+  rotate: false
+  xy: 415, 282
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_133X144
+  rotate: false
+  xy: 245, 507
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_136X147
+  rotate: false
+  xy: 156, 507
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_13X10
+  rotate: false
+  xy: 1004, 161
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_13X15
+  rotate: false
+  xy: 1014, 296
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_13X16
+  rotate: false
+  xy: 1014, 308
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_13X16_2
+  rotate: false
+  xy: 203, 309
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_14X13
+  rotate: false
+  xy: 993, 161
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_14X9
+  rotate: false
+  xy: 415, 296
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_153X130
+  rotate: false
+  xy: 1, 509
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_156X106
+  rotate: false
+  xy: 673, 568
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_156X106_2
+  rotate: false
+  xy: 775, 568
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_15X8
+  rotate: false
+  xy: 790, 298
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_16X19
+  rotate: false
+  xy: 790, 284
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_16X19_2
+  rotate: false
+  xy: 203, 295
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_18X33
+  rotate: false
+  xy: 1012, 338
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_19X33
+  rotate: false
+  xy: 1012, 361
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_1X1
+  rotate: false
+  xy: 1022, 65
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_20X23
+  rotate: false
+  xy: 1006, 556
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_20X23_2
+  rotate: false
+  xy: 460, 566
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_20X30
+  rotate: false
+  xy: 1003, 535
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_20X30_2
+  rotate: false
+  xy: 445, 550
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_20X39
+  rotate: false
+  xy: 156, 412
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_20X39_2
+  rotate: false
+  xy: 156, 439
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_21X41
+  rotate: false
+  xy: 394, 328
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_21X41_2
+  rotate: false
+  xy: 410, 328
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_21X41_3
+  rotate: false
+  xy: 156, 356
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_21X41_4
+  rotate: false
+  xy: 156, 384
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_238X236
+  rotate: false
+  xy: 179, 354
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_238X236_2
+  rotate: false
+  xy: 1, 356
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_23X26
+  rotate: false
+  xy: 156, 485
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_23X26_2
+  rotate: false
+  xy: 1003, 497
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_23X26_3
+  rotate: false
+  xy: 1003, 516
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_264X262
+  rotate: false
+  xy: 427, 188
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_264X262_2
+  rotate: false
+  xy: 598, 188
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_275X248
+  rotate: false
+  xy: 216, 193
+  size: 176, 159
+  orig: 176, 159
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_275X248_2
+  rotate: false
+  xy: 1, 195
+  size: 176, 159
+  orig: 176, 159
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_290X288
+  rotate: false
+  xy: 427, 1
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_290X288_2
+  rotate: false
+  xy: 615, 1
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_293X263
+  rotate: false
+  xy: 803, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_29X35
+  rotate: false
+  xy: 394, 282
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_29X35_2
+  rotate: false
+  xy: 769, 284
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_30X26
+  rotate: false
+  xy: 156, 466
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_30X26_2
+  rotate: false
+  xy: 1003, 478
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_32X29
+  rotate: false
+  xy: 179, 316
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_32X29_2
+  rotate: false
+  xy: 990, 317
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_333X300
+  rotate: false
+  xy: 1, 1
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_33X33
+  rotate: false
+  xy: 394, 259
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_33X33_2
+  rotate: false
+  xy: 769, 261
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X29
+  rotate: false
+  xy: 179, 295
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X29_2
+  rotate: false
+  xy: 990, 296
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X29_3
+  rotate: false
+  xy: 394, 307
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X29_4
+  rotate: false
+  xy: 769, 309
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X32
+  rotate: false
+  xy: 394, 213
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X32_2
+  rotate: false
+  xy: 769, 215
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X32_3
+  rotate: false
+  xy: 394, 236
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_34X32_4
+  rotate: false
+  xy: 769, 238
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_35X19
+  rotate: false
+  xy: 179, 337
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_35X19_2
+  rotate: false
+  xy: 560, 520
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_35X19_3
+  rotate: false
+  xy: 585, 520
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_37X38
+  rotate: false
+  xy: 993, 62
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_37X38_2
+  rotate: false
+  xy: 993, 89
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_41X28
+  rotate: false
+  xy: 993, 141
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_41X28_2
+  rotate: false
+  xy: 394, 193
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_48X39
+  rotate: false
+  xy: 990, 172
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_48X39_2
+  rotate: false
+  xy: 769, 188
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_49X37
+  rotate: false
+  xy: 179, 195
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_49X37_2
+  rotate: false
+  xy: 990, 199
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_49X37_3
+  rotate: false
+  xy: 179, 221
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_50X35
+  rotate: false
+  xy: 990, 225
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_50X35_2
+  rotate: false
+  xy: 179, 247
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_51X33
+  rotate: false
+  xy: 990, 250
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_51X33_2
+  rotate: false
+  xy: 179, 272
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_51X33_3
+  rotate: false
+  xy: 990, 273
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_54X35
+  rotate: false
+  xy: 673, 542
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_54X35_2
+  rotate: false
+  xy: 710, 542
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_64X60
+  rotate: false
+  xy: 548, 614
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_64X60_2
+  rotate: false
+  xy: 591, 614
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_65X71
+  rotate: false
+  xy: 504, 594
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_65X71_2
+  rotate: false
+  xy: 153, 603
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_76X87
+  rotate: false
+  xy: 101, 509
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_77X84
+  rotate: false
+  xy: 954, 568
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_7X7
+  rotate: false
+  xy: 418, 213
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_86X93
+  rotate: false
+  xy: 560, 458
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBRUIT_DRAGONBRUIT_9X11
+  rotate: false
+  xy: 1015, 161
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1

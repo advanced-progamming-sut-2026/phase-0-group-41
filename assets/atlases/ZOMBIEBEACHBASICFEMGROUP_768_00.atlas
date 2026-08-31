@@ -1,0 +1,264 @@
+ZOMBIEBEACHBASICFEMGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_101X108
+  rotate: false
+  xy: 74, 1
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_111X114
+  rotate: false
+  xy: 1, 1
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_135X8
+  rotate: false
+  xy: 169, 180
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_14X42
+  rotate: false
+  xy: 186, 118
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_15X38
+  rotate: false
+  xy: 156, 185
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_16X37
+  rotate: false
+  xy: 168, 187
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_16X45
+  rotate: false
+  xy: 245, 117
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_17X39
+  rotate: false
+  xy: 245, 148
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_19X52
+  rotate: false
+  xy: 52, 169
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_20X40
+  rotate: false
+  xy: 1, 184
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_20X60
+  rotate: false
+  xy: 54, 76
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_24X34
+  rotate: false
+  xy: 66, 181
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_28X33
+  rotate: false
+  xy: 27, 179
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_30X24
+  rotate: false
+  xy: 135, 185
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_30X37
+  rotate: false
+  xy: 148, 159
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_34X24
+  rotate: false
+  xy: 84, 181
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_35X57
+  rotate: false
+  xy: 84, 120
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_36X29
+  rotate: false
+  xy: 169, 159
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_36X39
+  rotate: false
+  xy: 27, 152
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_36X45
+  rotate: false
+  xy: 109, 120
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_37X46
+  rotate: false
+  xy: 1, 152
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_39X21
+  rotate: false
+  xy: 108, 181
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_41X19
+  rotate: false
+  xy: 194, 165
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_41X31
+  rotate: false
+  xy: 120, 159
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_44X73
+  rotate: false
+  xy: 54, 120
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_52X31
+  rotate: false
+  xy: 84, 159
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_63X29
+  rotate: false
+  xy: 1, 131
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_6X6
+  rotate: false
+  xy: 211, 56
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_70X71
+  rotate: false
+  xy: 198, 117
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_76X61
+  rotate: false
+  xy: 135, 118
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_7X7
+  rotate: false
+  xy: 204, 56
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_80X83
+  rotate: false
+  xy: 204, 1
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_80X83_2
+  rotate: false
+  xy: 1, 76
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_85X82
+  rotate: false
+  xy: 141, 63
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_86X81
+  rotate: false
+  xy: 198, 63
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_92X71
+  rotate: false
+  xy: 74, 72
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BEACH_BASICFEM_ZOMBIE_BEACH_BASICFEM_95X93
+  rotate: false
+  xy: 141, 1
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1

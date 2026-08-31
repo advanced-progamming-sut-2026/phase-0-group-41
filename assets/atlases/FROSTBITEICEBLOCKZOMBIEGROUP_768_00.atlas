@@ -1,0 +1,89 @@
+FROSTBITEICEBLOCKZOMBIEGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_114X247
+  rotate: false
+  xy: 201, 319
+  size: 73, 158
+  orig: 73, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_133X247
+  rotate: false
+  xy: 417, 1
+  size: 85, 158
+  orig: 85, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_159X247
+  rotate: false
+  xy: 105, 1
+  size: 102, 158
+  orig: 102, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_159X247_2
+  rotate: false
+  xy: 209, 1
+  size: 102, 158
+  orig: 102, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_159X247_3
+  rotate: false
+  xy: 313, 1
+  size: 102, 158
+  orig: 102, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_FROSTBITE_ICE_BLOCK_ZOMBIE_BEHIND_159X250
+  rotate: false
+  xy: 1, 1
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_FROSTBITE_ICE_BLOCK_ZOMBIE_153X243
+  rotate: false
+  xy: 105, 161
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_FROSTBITE_ICE_BLOCK_ZOMBIE_153X243_2
+  rotate: false
+  xy: 205, 161
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_FROSTBITE_ICE_BLOCK_ZOMBIE_153X243_3
+  rotate: false
+  xy: 305, 161
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_FROSTBITE_ICE_BLOCK_ZOMBIE_153X243_4
+  rotate: false
+  xy: 405, 161
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_FROSTBITE_ICE_BLOCK_ZOMBIE_153X243_5
+  rotate: false
+  xy: 1, 163
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_FROSTBITE_ICE_BLOCK_ZOMBIE_153X243_6
+  rotate: false
+  xy: 101, 319
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1

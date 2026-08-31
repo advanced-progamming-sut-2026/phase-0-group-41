@@ -1,0 +1,33 @@
+RAILCART_TUTORIAL_GROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_RAILCART_FRONTLAWN_BOTTOM
+  rotate: false
+  xy: 1, 1
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+IMAGE_RAILCART_FRONTLAWN_MID
+  rotate: false
+  xy: 81, 1
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+IMAGE_RAILCART_FRONTLAWN_MINING_CART
+  rotate: false
+  xy: 161, 93
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+IMAGE_RAILCART_FRONTLAWN_TOP
+  rotate: false
+  xy: 161, 1
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1

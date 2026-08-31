@@ -1,0 +1,453 @@
+ZOMBIEBEACHGARGANTUARGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_100X78
+  rotate: false
+  xy: 84, 478
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_101X75
+  rotate: false
+  xy: 379, 504
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_105X89
+  rotate: false
+  xy: 310, 504
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_108X40
+  rotate: false
+  xy: 435, 566
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_113X64
+  rotate: false
+  xy: 150, 516
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_114X126
+  rotate: false
+  xy: 1, 397
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_116X123
+  rotate: false
+  xy: 76, 397
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_119X86
+  rotate: false
+  xy: 232, 494
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_121X113
+  rotate: false
+  xy: 152, 441
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_126X84
+  rotate: false
+  xy: 1, 480
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_12X26
+  rotate: false
+  xy: 500, 286
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_12X27
+  rotate: false
+  xy: 502, 145
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_130X88
+  rotate: false
+  xy: 370, 445
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_131X141
+  rotate: false
+  xy: 389, 76
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_135X8
+  rotate: false
+  xy: 389, 179
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_139X119
+  rotate: false
+  xy: 179, 363
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_13X22
+  rotate: false
+  xy: 187, 258
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_13X24
+  rotate: false
+  xy: 187, 240
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_14X24
+  rotate: false
+  xy: 500, 250
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_14X24_2
+  rotate: false
+  xy: 500, 268
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_153X104
+  rotate: false
+  xy: 270, 380
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_158X98
+  rotate: false
+  xy: 370, 380
+  size: 101, 63
+  orig: 101, 63
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_159X67
+  rotate: false
+  xy: 232, 449
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_15X24
+  rotate: false
+  xy: 500, 196
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_15X24_2
+  rotate: false
+  xy: 500, 214
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_15X25
+  rotate: false
+  xy: 500, 232
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_178X102
+  rotate: false
+  xy: 351, 312
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_178X113
+  rotate: false
+  xy: 389, 1
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_17X23
+  rotate: false
+  xy: 500, 179
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_18X14
+  rotate: false
+  xy: 389, 168
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_19X15
+  rotate: false
+  xy: 500, 360
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_21X25
+  rotate: false
+  xy: 336, 449
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_223X118
+  rotate: false
+  xy: 1, 196
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_230X190
+  rotate: false
+  xy: 351, 188
+  size: 147, 122
+  orig: 147, 122
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_230X270
+  rotate: false
+  xy: 202, 188
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_25X25
+  rotate: false
+  xy: 179, 341
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_269X95
+  rotate: false
+  xy: 1, 274
+  size: 172, 61
+  orig: 172, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_274X90
+  rotate: false
+  xy: 1, 337
+  size: 176, 58
+  orig: 176, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_288X288
+  rotate: false
+  xy: 202, 1
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_311X301
+  rotate: false
+  xy: 1, 1
+  size: 199, 193
+  orig: 199, 193
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_31X47
+  rotate: false
+  xy: 179, 309
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_32X51
+  rotate: false
+  xy: 175, 274
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_35X43
+  rotate: false
+  xy: 152, 397
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_37X29
+  rotate: false
+  xy: 473, 418
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_38X50
+  rotate: false
+  xy: 475, 145
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_38X50_2
+  rotate: false
+  xy: 473, 360
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_47X52
+  rotate: false
+  xy: 475, 76
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_49X48
+  rotate: false
+  xy: 475, 112
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_56X34
+  rotate: false
+  xy: 473, 394
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_60X49
+  rotate: false
+  xy: 146, 240
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_64X63
+  rotate: false
+  xy: 61, 571
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_66X33
+  rotate: false
+  xy: 336, 591
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_6X6
+  rotate: false
+  xy: 505, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_70X71
+  rotate: false
+  xy: 467, 312
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_72X38
+  rotate: false
+  xy: 1, 577
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_73X65
+  rotate: false
+  xy: 225, 551
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_77X66
+  rotate: false
+  xy: 146, 196
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_80X57
+  rotate: false
+  xy: 145, 559
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_84X54
+  rotate: false
+  xy: 379, 554
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_86X106
+  rotate: false
+  xy: 455, 445
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_90X60
+  rotate: false
+  xy: 1, 536
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_92X61
+  rotate: false
+  xy: 84, 530
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_93X48
+  rotate: false
+  xy: 274, 563
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BEACH_GARGANTUAR_BEACH_GARGANTUAR_94X76
+  rotate: false
+  xy: 446, 515
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1

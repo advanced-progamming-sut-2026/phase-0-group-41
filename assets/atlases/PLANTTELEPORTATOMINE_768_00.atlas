@@ -1,0 +1,607 @@
+PLANTTELEPORTATOMINE_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_102X249
+  rotate: false
+  xy: 299, 116
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_104X259
+  rotate: false
+  xy: 419, 1
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_104X99
+  rotate: false
+  xy: 149, 218
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_105X99
+  rotate: false
+  xy: 218, 219
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_112X95
+  rotate: false
+  xy: 75, 215
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_116X101
+  rotate: false
+  xy: 75, 148
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_116X101_2
+  rotate: false
+  xy: 367, 169
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_122X83
+  rotate: false
+  xy: 367, 247
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_129X123
+  rotate: false
+  xy: 156, 137
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_13X13
+  rotate: false
+  xy: 502, 223
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_144X54
+  rotate: false
+  xy: 148, 285
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_147X54
+  rotate: false
+  xy: 52, 278
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_14X15
+  rotate: false
+  xy: 502, 211
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_14X15_2
+  rotate: false
+  xy: 287, 219
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_16X15
+  rotate: false
+  xy: 502, 187
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_16X15_2
+  rotate: false
+  xy: 502, 199
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_17X16
+  rotate: false
+  xy: 393, 394
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_184X176
+  rotate: false
+  xy: 299, 1
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_19X17
+  rotate: false
+  xy: 347, 401
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_1X1
+  rotate: false
+  xy: 506, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_1X1_2
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_21X17
+  rotate: false
+  xy: 264, 319
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_21X29
+  rotate: false
+  xy: 488, 348
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_220X209
+  rotate: false
+  xy: 156, 1
+  size: 141, 134
+  orig: 141, 134
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_238X226
+  rotate: false
+  xy: 1, 1
+  size: 153, 145
+  orig: 153, 145
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_24X18
+  rotate: false
+  xy: 196, 402
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_25X64
+  rotate: false
+  xy: 488, 1
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_28X48
+  rotate: false
+  xy: 52, 224
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_32X27
+  rotate: false
+  xy: 490, 269
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_41X37
+  rotate: false
+  xy: 1, 387
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_57X50
+  rotate: false
+  xy: 242, 285
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_61X81
+  rotate: false
+  xy: 409, 327
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_64X122
+  rotate: false
+  xy: 447, 247
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_67X19
+  rotate: false
+  xy: 367, 155
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_76X124
+  rotate: false
+  xy: 1, 224
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_84X32
+  rotate: false
+  xy: 201, 360
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_86X124
+  rotate: false
+  xy: 241, 137
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_88X119
+  rotate: false
+  xy: 443, 169
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_89X81
+  rotate: false
+  xy: 287, 278
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_95X73
+  rotate: false
+  xy: 346, 302
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_TELEPORTATO_EXPLOSION_TELEPORTATO_EXPLOSION_95X73_2
+  rotate: false
+  xy: 1, 315
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_105X9
+  rotate: false
+  xy: 367, 236
+  size: 67, 6
+  orig: 67, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_112X116
+  rotate: false
+  xy: 1, 148
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_11X9
+  rotate: false
+  xy: 287, 231
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_129X48
+  rotate: false
+  xy: 64, 322
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_12X26
+  rotate: false
+  xy: 502, 168
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_16X9
+  rotate: false
+  xy: 502, 234
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_18X15
+  rotate: false
+  xy: 83, 402
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_22X32
+  rotate: false
+  xy: 490, 307
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_23X21
+  rotate: false
+  xy: 179, 402
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_26X12
+  rotate: false
+  xy: 214, 402
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_26X28
+  rotate: false
+  xy: 346, 278
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_27X25
+  rotate: false
+  xy: 488, 330
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_27X25_2
+  rotate: false
+  xy: 324, 332
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_28X54
+  rotate: false
+  xy: 488, 80
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_29X29
+  rotate: false
+  xy: 52, 257
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_29X53
+  rotate: false
+  xy: 488, 44
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_30X22
+  rotate: false
+  xy: 62, 402
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_30X25
+  rotate: false
+  xy: 490, 289
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_30X31
+  rotate: false
+  xy: 490, 247
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_37X35
+  rotate: false
+  xy: 488, 143
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_37X37
+  rotate: false
+  xy: 488, 117
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_40X20
+  rotate: false
+  xy: 100, 396
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_40X20_2
+  rotate: false
+  xy: 319, 401
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_42X20
+  rotate: false
+  xy: 364, 394
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_43X34
+  rotate: false
+  xy: 409, 302
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_46X39
+  rotate: false
+  xy: 407, 381
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_47X45
+  rotate: false
+  xy: 482, 376
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_47X51
+  rotate: false
+  xy: 450, 376
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_48X30
+  rotate: false
+  xy: 29, 387
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_50X63
+  rotate: false
+  xy: 373, 351
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_53X70
+  rotate: false
+  xy: 64, 355
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_56X73
+  rotate: false
+  xy: 450, 327
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_58X61
+  rotate: false
+  xy: 100, 355
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_59X42
+  rotate: false
+  xy: 139, 374
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_65X26
+  rotate: false
+  xy: 179, 383
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_67X19
+  rotate: false
+  xy: 319, 387
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_71X23
+  rotate: false
+  xy: 223, 385
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_71X23_2
+  rotate: false
+  xy: 271, 385
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_73X52
+  rotate: false
+  xy: 324, 351
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_73X57
+  rotate: false
+  xy: 367, 116
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_78X78
+  rotate: false
+  xy: 149, 322
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_81X33
+  rotate: false
+  xy: 1, 364
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_84X32
+  rotate: false
+  xy: 257, 362
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_91X43
+  rotate: false
+  xy: 264, 332
+  size: 58, 28
+  orig: 58, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_TELEPORTATO_TELEPORTATO_95X56
+  rotate: false
+  xy: 201, 322
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1

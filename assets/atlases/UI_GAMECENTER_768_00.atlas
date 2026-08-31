@@ -1,0 +1,61 @@
+UI_GAMECENTER_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_GAMECENTER_ANDROID_ACHIEVEMENTS
+  rotate: false
+  xy: 91, 1
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GAMECENTER_ANDROID_ACHIEVEMENTS_SELECT
+  rotate: false
+  xy: 91, 73
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GAMECENTER_ANDROID_GAMECENTER
+  rotate: false
+  xy: 97, 217
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GAMECENTER_ANDROID_GAMECENTER_PRESS
+  rotate: false
+  xy: 97, 286
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GAMECENTER_ANDROID_GAMECENTER_SELECTED
+  rotate: false
+  xy: 1, 145
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GAMECENTER_ANDROID_LEADERBOARD
+  rotate: false
+  xy: 97, 145
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GAMECENTER_ANDROID_LEADERBOARD_SELECT
+  rotate: false
+  xy: 1, 217
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_GAMECENTER_ICON
+  rotate: false
+  xy: 1, 1
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1

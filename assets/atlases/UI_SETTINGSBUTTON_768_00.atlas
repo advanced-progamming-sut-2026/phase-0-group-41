@@ -1,0 +1,19 @@
+UI_SETTINGSBUTTON_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_HUD_SETTINGSBUTTON_BUTTONS_HUD_SETTINGS_NORMAL
+  rotate: false
+  xy: 1, 1
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_SETTINGSBUTTON_BUTTONS_HUD_SETTINGS_SELECTED
+  rotate: false
+  xy: 1, 75
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1

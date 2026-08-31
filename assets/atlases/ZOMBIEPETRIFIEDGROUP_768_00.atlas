@@ -1,0 +1,194 @@
+ZOMBIEPETRIFIEDGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_102X64
+  rotate: false
+  xy: 1, 271
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_113X53
+  rotate: false
+  xy: 59, 437
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_118X95
+  rotate: false
+  xy: 135, 376
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_13X15
+  rotate: false
+  xy: 242, 49
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_14X13
+  rotate: false
+  xy: 242, 131
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_16X15
+  rotate: false
+  xy: 242, 37
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_206X109
+  rotate: false
+  xy: 1, 315
+  size: 132, 70
+  orig: 132, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_25X27
+  rotate: false
+  xy: 236, 197
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_25X31
+  rotate: false
+  xy: 234, 91
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_29X23
+  rotate: false
+  xy: 236, 217
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_31X25
+  rotate: false
+  xy: 234, 113
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_32X28
+  rotate: false
+  xy: 234, 71
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_35X45
+  rotate: false
+  xy: 209, 71
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_35X45_2
+  rotate: false
+  xy: 209, 102
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_40X35
+  rotate: false
+  xy: 208, 197
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_48X33
+  rotate: false
+  xy: 209, 133
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_48X49
+  rotate: false
+  xy: 209, 37
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_69X53
+  rotate: false
+  xy: 209, 1
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_73X58
+  rotate: false
+  xy: 208, 158
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_86X75
+  rotate: false
+  xy: 59, 387
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_EFFECT_STONE_BLOCK_ZOMBIE_EFFECT_87X101
+  rotate: false
+  xy: 1, 387
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_STONE_BLOCK_ZOMBIE_153X92
+  rotate: false
+  xy: 135, 315
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_STONE_BLOCK_ZOMBIE_158X172
+  rotate: false
+  xy: 1, 159
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_STONE_BLOCK_ZOMBIE_158X242
+  rotate: false
+  xy: 105, 158
+  size: 101, 155
+  orig: 101, 155
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_STONE_BLOCK_ZOMBIE_159X242
+  rotate: false
+  xy: 105, 1
+  size: 102, 155
+  orig: 102, 155
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_STONE_BLOCK_ZOMBIE_159X243
+  rotate: false
+  xy: 1, 1
+  size: 102, 156
+  orig: 102, 156
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STONE_BLOCK_ZOMBIE_STONE_BLOCK_ZOMBIE_88X61
+  rotate: false
+  xy: 134, 439
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1

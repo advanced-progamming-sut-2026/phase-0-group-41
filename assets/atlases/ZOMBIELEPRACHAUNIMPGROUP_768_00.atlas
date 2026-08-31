@@ -1,0 +1,250 @@
+ZOMBIELEPRACHAUNIMPGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_102X293
+  rotate: false
+  xy: 1, 1
+  size: 66, 188
+  orig: 66, 188
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_102X60
+  rotate: false
+  xy: 132, 142
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_110X128
+  rotate: false
+  xy: 144, 1
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_110X79
+  rotate: false
+  xy: 1, 277
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_114X144
+  rotate: false
+  xy: 69, 1
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_129X85
+  rotate: false
+  xy: 144, 85
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_14X11
+  rotate: false
+  xy: 246, 82
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_167X8
+  rotate: false
+  xy: 122, 314
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_16X24
+  rotate: false
+  xy: 237, 205
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_16X26
+  rotate: false
+  xy: 242, 120
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_17X23
+  rotate: false
+  xy: 224, 204
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_17X25
+  rotate: false
+  xy: 217, 63
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_17X27
+  rotate: false
+  xy: 229, 117
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_17X29
+  rotate: false
+  xy: 245, 99
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_20X20
+  rotate: false
+  xy: 241, 190
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_21X25
+  rotate: false
+  xy: 229, 99
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_21X30
+  rotate: false
+  xy: 217, 42
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_22X27
+  rotate: false
+  xy: 233, 42
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_22X28
+  rotate: false
+  xy: 233, 62
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_23X18
+  rotate: false
+  xy: 224, 190
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_23X23
+  rotate: false
+  xy: 229, 82
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_23X30
+  rotate: false
+  xy: 238, 21
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_25X18
+  rotate: false
+  xy: 113, 164
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_30X30
+  rotate: false
+  xy: 217, 21
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_311X59
+  rotate: false
+  xy: 1, 237
+  size: 199, 38
+  orig: 199, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_345X69
+  rotate: false
+  xy: 1, 191
+  size: 221, 44
+  orig: 221, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_53X28
+  rotate: false
+  xy: 217, 1
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_66X33
+  rotate: false
+  xy: 69, 164
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_6X6
+  rotate: false
+  xy: 249, 49
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_70X71
+  rotate: false
+  xy: 202, 237
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_71X62
+  rotate: false
+  xy: 74, 277
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_73X54
+  rotate: false
+  xy: 122, 277
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_7X7
+  rotate: false
+  xy: 249, 42
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_83X72
+  rotate: false
+  xy: 200, 142
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LEPRACHAUN_IMP_ZOMBIE_LEPRACHAUN_IMP_95X105
+  rotate: false
+  xy: 69, 95
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1

@@ -12,7 +12,10 @@ public class PlayController {
 
     // بررسی و ورود به یک Chapter
     public String enterChapter(User user, String chapterName) {
-        if (chapterName.equalsIgnoreCase("tutorial")) return "SUCCESS_0_1";
+        if (chapterName.equalsIgnoreCase("tutorial") || chapterName.equalsIgnoreCase("beginner")) {
+            int level = Math.min(user.getBeginnerLastCompletedLevel() + 1, model.game.ChapterPlan.LEVELS_PER_CHAPTER);
+            return "SUCCESS_0_" + level;
+        }
 
         int requestedChapter;
         try {
@@ -21,27 +24,30 @@ public class PlayController {
             return "ERR_INVALID_CHAPTER";
         }
 
-        if (requestedChapter < 1 || requestedChapter > 4) return "ERR_INVALID_CHAPTER";
+        if (!model.game.ChapterPlan.isValidChapter(requestedChapter) || requestedChapter == 0) {
+            // شماره‌ی ۰ فقط از طریق نام "beginner"/"tutorial" قابل دسترسی است، نه عدد مستقیم
+            return "ERR_INVALID_CHAPTER";
+        }
 
         // بررسی قفل بودن: بازیکن فقط می‌تواند نهایتاً به فصلی برود که یکی از آخرین فصل تکمیل‌شده‌اش بالاتر است
-        int maxUnlockedChapter = user.getLastCompletedChapter() + 1;
+        int maxUnlockedChapter = Math.max(1, user.getLastCompletedChapter() + 1);
         if (requestedChapter > maxUnlockedChapter) {
             return "ERR_LOCKED_CHAPTER";
         }
 
-        int levelToPlay = 1;
-        if (requestedChapter == maxUnlockedChapter) {
-            // اگر در فصل جدید یا فصل جاری است، مرحله بعدی را بازی می‌کند
-            levelToPlay = user.getLastCompletedLevel() + 1;
-            if (levelToPlay > 4) levelToPlay = 4; // سقف ۴ مرحله برای هر فصل
+        int levelToPlay;
+        if (requestedChapter == user.getLastCompletedChapter()) {
+            // این فصل قبلاً کامل شده؛ اجازه‌ی تکرار مرحله‌ی اول را می‌دهیم
+            levelToPlay = 1;
         } else {
-            // اگر فصلی را قبلاً تمام کرده، می‌تواند آزادانه مرحله آخر آن را تکرار کند (یا هر منطق دلخواه دیگر)
-            levelToPlay = 1; 
+            // فصل جاری (هنوز کامل نشده): مرحله‌ی بعدی بازی می‌شود
+            levelToPlay = Math.min(user.getLastCompletedLevel() + 1, model.game.ChapterPlan.LEVELS_PER_CHAPTER);
         }
 
         // بازگرداندن یک پکیج دیتای استرینگ شامل وضعیت، شماره فصل و شماره مرحله
         return "SUCCESS_" + requestedChapter + "_" + levelToPlay;
     }
+
     // متد اعمال کد تقلب (Cheat)
     public String applyCheat(User user, int amount, String type) {
         if (amount <= 0) {

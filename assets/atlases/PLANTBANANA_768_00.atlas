@@ -1,0 +1,607 @@
+PLANTBANANA_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_104X99
+  rotate: false
+  xy: 269, 523
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_116X101
+  rotate: false
+  xy: 123, 462
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_147X54
+  rotate: false
+  xy: 418, 529
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_14X15
+  rotate: false
+  xy: 500, 228
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_16X15
+  rotate: false
+  xy: 491, 101
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_19X17
+  rotate: false
+  xy: 500, 177
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_57X50
+  rotate: false
+  xy: 192, 627
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_61X81
+  rotate: false
+  xy: 199, 462
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_EXPLOSION_BANANA_EXPLOSION_95X73
+  rotate: false
+  xy: 1, 585
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_PROJECTILE_BANANA_PROJECTILE_50X108
+  rotate: false
+  xy: 466, 177
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_PROJECTILE_BANANA_PROJECTILE_51X172
+  rotate: false
+  xy: 456, 1
+  size: 33, 110
+  orig: 33, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_RETICLE_BANANA_RETICLE_313X313
+  rotate: false
+  xy: 253, 1
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_RETICLE_BANANA_RETICLE_390X397
+  rotate: false
+  xy: 1, 1
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BANANA_RETICLE_BANANA_RETICLE_98X51
+  rotate: false
+  xy: 127, 627
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_104X99
+  rotate: false
+  xy: 77, 529
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_116X101
+  rotate: false
+  xy: 349, 462
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_116X101_2
+  rotate: false
+  xy: 425, 462
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_116X101_3
+  rotate: false
+  xy: 1, 518
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_122X83
+  rotate: false
+  xy: 338, 529
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_134X128
+  rotate: false
+  xy: 131, 257
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_144X54
+  rotate: false
+  xy: 146, 590
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_147X54
+  rotate: false
+  xy: 418, 566
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_147X54_2
+  rotate: false
+  xy: 269, 589
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_149X142
+  rotate: false
+  xy: 358, 369
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_14X15
+  rotate: false
+  xy: 500, 240
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_14X15_2
+  rotate: false
+  xy: 500, 252
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_14X15_3
+  rotate: false
+  xy: 500, 264
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_153X147
+  rotate: false
+  xy: 258, 341
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_16X15
+  rotate: false
+  xy: 500, 216
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_19X17
+  rotate: false
+  xy: 500, 190
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_19X17_2
+  rotate: false
+  xy: 500, 203
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_1X1
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_1X1_2
+  rotate: false
+  xy: 509, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_1X1_3
+  rotate: false
+  xy: 509, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_200X189
+  rotate: false
+  xy: 1, 257
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_21X17
+  rotate: false
+  xy: 240, 510
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_21X29
+  rotate: false
+  xy: 491, 44
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_223X211
+  rotate: false
+  xy: 253, 204
+  size: 143, 135
+  orig: 143, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_24X18
+  rotate: false
+  xy: 127, 595
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_25X64
+  rotate: false
+  xy: 491, 1
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_32X27
+  rotate: false
+  xy: 491, 603
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_57X50
+  rotate: false
+  xy: 51, 644
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_61X56
+  rotate: false
+  xy: 466, 319
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_61X81
+  rotate: false
+  xy: 146, 529
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_91X198
+  rotate: false
+  xy: 63, 380
+  size: 58, 127
+  orig: 58, 127
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_94X212
+  rotate: false
+  xy: 1, 380
+  size: 60, 136
+  orig: 60, 136
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_95X73
+  rotate: false
+  xy: 64, 595
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_95X73_2
+  rotate: false
+  xy: 365, 603
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_BANANA_EXPLOSION_T_BANANA_EXPLOSION_95X73_3
+  rotate: false
+  xy: 428, 603
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_102X254
+  rotate: false
+  xy: 398, 204
+  size: 66, 163
+  orig: 66, 163
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_106X101
+  rotate: false
+  xy: 199, 523
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_10X10
+  rotate: false
+  xy: 503, 101
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_138X131
+  rotate: false
+  xy: 258, 437
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_18X8
+  rotate: false
+  xy: 500, 276
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_195X186
+  rotate: false
+  xy: 131, 341
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_1X1
+  rotate: false
+  xy: 509, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_22X22
+  rotate: false
+  xy: 240, 462
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_22X22_2
+  rotate: false
+  xy: 240, 478
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_22X22_3
+  rotate: false
+  xy: 240, 494
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_25X25
+  rotate: false
+  xy: 491, 65
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_25X25_2
+  rotate: false
+  xy: 491, 83
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_25X25_3
+  rotate: false
+  xy: 397, 584
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_32X16
+  rotate: false
+  xy: 379, 652
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_32X23
+  rotate: false
+  xy: 491, 643
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_33X28
+  rotate: false
+  xy: 491, 623
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_33X31
+  rotate: false
+  xy: 240, 590
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_37X13
+  rotate: false
+  xy: 240, 612
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_42X29
+  rotate: false
+  xy: 219, 308
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_44X15
+  rotate: false
+  xy: 466, 357
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_45X40
+  rotate: false
+  xy: 219, 257
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_46X32
+  rotate: false
+  xy: 219, 285
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_47X16
+  rotate: false
+  xy: 219, 329
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_47X24
+  rotate: false
+  xy: 365, 584
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_50X108
+  rotate: false
+  xy: 466, 248
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_52X23
+  rotate: false
+  xy: 77, 509
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_52X50
+  rotate: false
+  xy: 90, 644
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_54X46
+  rotate: false
+  xy: 342, 652
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_55X40
+  rotate: false
+  xy: 358, 341
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_57X52
+  rotate: false
+  xy: 303, 626
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_5X5
+  rotate: false
+  xy: 507, 44
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_75X38
+  rotate: false
+  xy: 1, 634
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_78X42
+  rotate: false
+  xy: 456, 433
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_82X96
+  rotate: false
+  xy: 456, 113
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_82X96_2
+  rotate: false
+  xy: 456, 369
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_95X73
+  rotate: false
+  xy: 240, 626
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BANANA_BANANA_9X9
+  rotate: false
+  xy: 456, 177
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

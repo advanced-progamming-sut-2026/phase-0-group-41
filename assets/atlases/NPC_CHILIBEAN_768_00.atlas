@@ -1,0 +1,348 @@
+NPC_CHILIBEAN_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_104X104
+  rotate: false
+  xy: 935, 820
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_105X56
+  rotate: false
+  xy: 149, 1131
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_111X264
+  rotate: false
+  xy: 940, 155
+  size: 71, 169
+  orig: 71, 169
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_123X86
+  rotate: false
+  xy: 940, 326
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_126X237
+  rotate: false
+  xy: 940, 1
+  size: 81, 152
+  orig: 81, 152
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_133X233
+  rotate: false
+  xy: 918, 383
+  size: 85, 149
+  orig: 85, 149
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_205X81
+  rotate: false
+  xy: 735, 1272
+  size: 131, 52
+  orig: 131, 52
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_205X85
+  rotate: false
+  xy: 870, 1269
+  size: 131, 55
+  orig: 131, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_206X85
+  rotate: false
+  xy: 870, 1212
+  size: 132, 55
+  orig: 132, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_207X90
+  rotate: false
+  xy: 735, 1212
+  size: 133, 58
+  orig: 133, 58
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_208X95
+  rotate: false
+  xy: 600, 1212
+  size: 133, 61
+  orig: 133, 61
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_224X57
+  rotate: false
+  xy: 501, 923
+  size: 144, 37
+  orig: 144, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_227X287
+  rotate: false
+  xy: 1, 987
+  size: 146, 184
+  orig: 146, 184
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_228X349
+  rotate: false
+  xy: 452, 1212
+  size: 146, 224
+  orig: 146, 224
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_242X281
+  rotate: false
+  xy: 251, 730
+  size: 155, 180
+  orig: 155, 180
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_30X31
+  rotate: false
+  xy: 1005, 383
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_310X365
+  rotate: false
+  xy: 251, 1174
+  size: 199, 234
+  orig: 199, 234
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_32X34
+  rotate: false
+  xy: 659, 414
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_335X609
+  rotate: false
+  xy: 218, 338
+  size: 215, 390
+  orig: 215, 390
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_335X619
+  rotate: false
+  xy: 1, 338
+  size: 215, 396
+  orig: 215, 396
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_346X441
+  rotate: false
+  xy: 435, 387
+  size: 222, 282
+  orig: 222, 282
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_34X38
+  rotate: false
+  xy: 659, 387
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_352X512
+  rotate: false
+  xy: 690, 383
+  size: 226, 328
+  orig: 226, 328
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X380
+  rotate: false
+  xy: 1, 1174
+  size: 248, 243
+  orig: 248, 243
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X382
+  rotate: false
+  xy: 501, 965
+  size: 248, 245
+  orig: 248, 245
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X383
+  rotate: false
+  xy: 751, 965
+  size: 248, 245
+  orig: 248, 245
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X388
+  rotate: false
+  xy: 1, 736
+  size: 248, 249
+  orig: 248, 249
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X388_2
+  rotate: false
+  xy: 251, 923
+  size: 248, 249
+  orig: 248, 249
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X390
+  rotate: false
+  xy: 435, 671
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X390_2
+  rotate: false
+  xy: 685, 713
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X593
+  rotate: false
+  xy: 690, 1
+  size: 248, 380
+  orig: 248, 380
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_387X599
+  rotate: false
+  xy: 440, 1
+  size: 248, 384
+  orig: 248, 384
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_45X213
+  rotate: false
+  xy: 633, 1275
+  size: 29, 137
+  orig: 29, 137
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_46X221
+  rotate: false
+  xy: 182, 987
+  size: 30, 142
+  orig: 30, 142
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_47X36
+  rotate: false
+  xy: 218, 1126
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_48X209
+  rotate: false
+  xy: 600, 1275
+  size: 31, 134
+  orig: 31, 134
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_48X213
+  rotate: false
+  xy: 214, 987
+  size: 31, 137
+  orig: 31, 137
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_48X216
+  rotate: false
+  xy: 149, 987
+  size: 31, 138
+  orig: 31, 138
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_50X218
+  rotate: false
+  xy: 972, 677
+  size: 32, 140
+  orig: 32, 140
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_53X44
+  rotate: false
+  xy: 647, 923
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_54X220
+  rotate: false
+  xy: 966, 534
+  size: 35, 141
+  orig: 35, 141
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_54X220_2
+  rotate: false
+  xy: 935, 677
+  size: 35, 141
+  orig: 35, 141
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_682X523
+  rotate: false
+  xy: 1, 1
+  size: 437, 335
+  orig: 437, 335
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_72X208
+  rotate: false
+  xy: 918, 534
+  size: 46, 133
+  orig: 46, 133
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_78X49
+  rotate: false
+  xy: 841, 1326
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_84X90
+  rotate: false
+  xy: 726, 1326
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_88X65
+  rotate: false
+  xy: 782, 1326
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_93X100
+  rotate: false
+  xy: 935, 889
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_CHILIBEAN_CHILIBEAN_93X98
+  rotate: false
+  xy: 664, 1275
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1

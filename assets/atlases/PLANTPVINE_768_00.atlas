@@ -1,0 +1,411 @@
+PLANTPVINE_768_00.PNG
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PVINE_BOOSTED_PROJECTILE_PVINE_BOOSTED_PROJECTILE_127X157
+  rotate: false
+  xy: 195, 1
+  size: 82, 101
+  orig: 82, 101
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_BOOSTED_PROJECTILE_PVINE_BOOSTED_PROJECTILE_29X28
+  rotate: false
+  xy: 352, 186
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_BOOSTED_PROJECTILE_PVINE_BOOSTED_PROJECTILE_35X33
+  rotate: false
+  xy: 259, 165
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_BOOSTED_PROJECTILE_PVINE_BOOSTED_PROJECTILE_43X39
+  rotate: false
+  xy: 362, 159
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_EFFECT_PVINE_EFFECT_179X110
+  rotate: false
+  xy: 279, 1
+  size: 115, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_EFFECT_PVINE_EFFECT_17X17
+  rotate: false
+  xy: 1, 188
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_104X104
+  rotate: false
+  xy: 170, 131
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_107X108
+  rotate: false
+  xy: 396, 1
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_107X108_2
+  rotate: false
+  xy: 99, 131
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_12X8
+  rotate: false
+  xy: 424, 131
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_147X160
+  rotate: false
+  xy: 99, 1
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_149X210
+  rotate: false
+  xy: 1, 1
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_17X19
+  rotate: false
+  xy: 499, 52
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_41X49
+  rotate: false
+  xy: 65, 156
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_46X46
+  rotate: false
+  xy: 467, 29
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_47X47
+  rotate: false
+  xy: 424, 138
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_47X47_2
+  rotate: false
+  xy: 456, 138
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_47X47_3
+  rotate: false
+  xy: 1, 156
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_HIT_PVINE_PROJECTILE_HIT_47X47_4
+  rotate: false
+  xy: 33, 156
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_PVINE_PROJECTILE_142X42
+  rotate: false
+  xy: 415, 72
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_PVINE_PROJECTILE_209X43
+  rotate: false
+  xy: 279, 74
+  size: 134, 28
+  orig: 134, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_PVINE_PROJECTILE_39X36
+  rotate: false
+  xy: 298, 162
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_PVINE_PROJECTILE_39X36_2
+  rotate: false
+  xy: 325, 162
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PVINE_PROJECTILE_PVINE_PROJECTILE_537X35
+  rotate: false
+  xy: 99, 106
+  size: 344, 23
+  orig: 344, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_115X25
+  rotate: false
+  xy: 1, 138
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_11X12
+  rotate: false
+  xy: 259, 188
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_11X13
+  rotate: false
+  xy: 352, 175
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_12X14
+  rotate: false
+  xy: 478, 61
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_12X14_2
+  rotate: false
+  xy: 488, 61
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_14X14
+  rotate: false
+  xy: 467, 61
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_14X17
+  rotate: false
+  xy: 50, 188
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_15X15
+  rotate: false
+  xy: 38, 188
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_15X18
+  rotate: false
+  xy: 14, 188
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_16X18
+  rotate: false
+  xy: 26, 188
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_16X32
+  rotate: false
+  xy: 499, 29
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_16X32_2
+  rotate: false
+  xy: 335, 187
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_17X18
+  rotate: false
+  xy: 284, 165
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_20X26
+  rotate: false
+  xy: 469, 186
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_25X22
+  rotate: false
+  xy: 469, 170
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_28X25
+  rotate: false
+  xy: 394, 187
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_28X44
+  rotate: false
+  xy: 488, 138
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_28X44_2
+  rotate: false
+  xy: 239, 165
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_29X25
+  rotate: false
+  xy: 77, 138
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_29X25_2
+  rotate: false
+  xy: 373, 187
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_29X34
+  rotate: false
+  xy: 488, 168
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_32X29
+  rotate: false
+  xy: 446, 170
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_34X21
+  rotate: false
+  xy: 311, 187
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_38X20
+  rotate: false
+  xy: 284, 187
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_38X25
+  rotate: false
+  xy: 419, 170
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_39X40
+  rotate: false
+  xy: 392, 159
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_59X40
+  rotate: false
+  xy: 467, 1
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_6X6
+  rotate: false
+  xy: 507, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_89X50
+  rotate: false
+  xy: 239, 131
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_8X8
+  rotate: false
+  xy: 434, 131
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_93X41
+  rotate: false
+  xy: 362, 131
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_93X54
+  rotate: false
+  xy: 445, 101
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_97X45
+  rotate: false
+  xy: 298, 131
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PVINE_PVINE_9X17
+  rotate: false
+  xy: 352, 162
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,600 @@
+PLANTMISSILETOE_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_MISSILE_TOE_RETICLE_MISSILE_TOE_RETICLE_313X313
+  rotate: false
+  xy: 253, 1
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MISSILE_TOE_RETICLE_MISSILE_TOE_RETICLE_390X397
+  rotate: false
+  xy: 1, 1
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_MISSILE_TOE_RETICLE_MISSILE_TOE_RETICLE_98X51
+  rotate: false
+  xy: 62, 649
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_140X140
+  rotate: false
+  xy: 154, 257
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_143X136
+  rotate: false
+  xy: 342, 552
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_19X19
+  rotate: false
+  xy: 499, 474
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_1X1
+  rotate: false
+  xy: 509, 146
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_1X1_2
+  rotate: false
+  xy: 509, 149
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_1X1_3
+  rotate: false
+  xy: 509, 152
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_235X269
+  rotate: false
+  xy: 253, 204
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_235X269_2
+  rotate: false
+  xy: 1, 257
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_23X49
+  rotate: false
+  xy: 495, 112
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_26X104
+  rotate: false
+  xy: 476, 238
+  size: 17, 67
+  orig: 17, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_28X28
+  rotate: false
+  xy: 118, 629
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_30X30
+  rotate: false
+  xy: 492, 663
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_31X31
+  rotate: false
+  xy: 226, 349
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_47X43
+  rotate: false
+  xy: 476, 335
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_48X28
+  rotate: false
+  xy: 85, 629
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_55X30
+  rotate: false
+  xy: 85, 594
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_7X10
+  rotate: false
+  xy: 500, 521
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_85X170
+  rotate: false
+  xy: 456, 1
+  size: 55, 109
+  orig: 55, 109
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_8X8
+  rotate: false
+  xy: 235, 371
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_MISSILE_TOE_PROJECTILE_T_MISSILE_TOE_PROJECTILE_9X9
+  rotate: false
+  xy: 140, 509
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_102X136
+  rotate: false
+  xy: 436, 552
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_106X269
+  rotate: false
+  xy: 406, 204
+  size: 68, 172
+  orig: 68, 172
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_11X11
+  rotate: false
+  xy: 140, 500
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_11X8
+  rotate: false
+  xy: 226, 371
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_128X131
+  rotate: false
+  xy: 1, 563
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_129X123
+  rotate: false
+  xy: 342, 641
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_12X10
+  rotate: false
+  xy: 140, 491
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_12X15
+  rotate: false
+  xy: 140, 460
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_13X11
+  rotate: false
+  xy: 140, 482
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_15X17
+  rotate: false
+  xy: 140, 447
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_16X12
+  rotate: false
+  xy: 140, 472
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_16X22
+  rotate: false
+  xy: 140, 431
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_19X13
+  rotate: false
+  xy: 500, 502
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_19X19
+  rotate: false
+  xy: 499, 488
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_19X24
+  rotate: false
+  xy: 495, 258
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_19X45
+  rotate: false
+  xy: 495, 146
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_1X1
+  rotate: false
+  xy: 509, 155
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_1X1_2
+  rotate: false
+  xy: 509, 158
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_210X200
+  rotate: false
+  xy: 140, 552
+  size: 135, 128
+  orig: 135, 128
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_213X202
+  rotate: false
+  xy: 1, 431
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_21X10
+  rotate: false
+  xy: 122, 594
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_21X19
+  rotate: false
+  xy: 495, 276
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_21X28
+  rotate: false
+  xy: 495, 238
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_21X31
+  rotate: false
+  xy: 495, 177
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_22X13
+  rotate: false
+  xy: 497, 365
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_235X269
+  rotate: false
+  xy: 154, 378
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_235X269_2
+  rotate: false
+  xy: 307, 378
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_26X13
+  rotate: false
+  xy: 495, 290
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_27X11
+  rotate: false
+  xy: 114, 585
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_27X11_2
+  rotate: false
+  xy: 492, 694
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_27X12
+  rotate: false
+  xy: 492, 684
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_28X14
+  rotate: false
+  xy: 104, 684
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_28X28
+  rotate: false
+  xy: 201, 682
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_29X15
+  rotate: false
+  xy: 476, 365
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_29X16
+  rotate: false
+  xy: 62, 684
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_29X16_2
+  rotate: false
+  xy: 83, 684
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_29X20
+  rotate: false
+  xy: 242, 682
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_29X22
+  rotate: false
+  xy: 221, 682
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_30X30
+  rotate: false
+  xy: 180, 682
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_31X31
+  rotate: false
+  xy: 114, 563
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_31X31_2
+  rotate: false
+  xy: 492, 641
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_33X28
+  rotate: false
+  xy: 157, 682
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_42X45
+  rotate: false
+  xy: 85, 563
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_44X31
+  rotate: false
+  xy: 127, 682
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_53X33
+  rotate: false
+  xy: 190, 349
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_53X37
+  rotate: false
+  xy: 154, 349
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_53X41
+  rotate: false
+  xy: 476, 307
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_54X52
+  rotate: false
+  xy: 476, 202
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_57X137
+  rotate: false
+  xy: 456, 112
+  size: 37, 88
+  orig: 37, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_58X53
+  rotate: false
+  xy: 460, 474
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_59X50
+  rotate: false
+  xy: 460, 510
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_71X64
+  rotate: false
+  xy: 460, 431
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_72X80
+  rotate: false
+  xy: 460, 378
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_74X19
+  rotate: false
+  xy: 85, 615
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_7X10
+  rotate: false
+  xy: 507, 521
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_8X8
+  rotate: false
+  xy: 242, 371
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_8X8_2
+  rotate: false
+  xy: 140, 525
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_92X80
+  rotate: false
+  xy: 1, 649
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_98X232
+  rotate: false
+  xy: 277, 552
+  size: 63, 149
+  orig: 63, 149
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_98X93
+  rotate: false
+  xy: 427, 641
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_9X9
+  rotate: false
+  xy: 500, 513
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_MISSILE_TOE_MISSILE_TOE_9X9_2
+  rotate: false
+  xy: 140, 517
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

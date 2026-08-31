@@ -1,0 +1,460 @@
+ZOMBIECARNIESTILTWALKERGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_108X97
+  rotate: false
+  xy: 158, 1
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_12X8
+  rotate: false
+  xy: 150, 125
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_130X50
+  rotate: false
+  xy: 165, 65
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_130X50_2
+  rotate: false
+  xy: 165, 99
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_130X50_3
+  rotate: false
+  xy: 1, 111
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_135X8
+  rotate: false
+  xy: 67, 56
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_139X82
+  rotate: false
+  xy: 67, 1
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_149X69
+  rotate: false
+  xy: 67, 65
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_18X19
+  rotate: false
+  xy: 150, 111
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_18X40
+  rotate: false
+  xy: 141, 307
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_18X40_2
+  rotate: false
+  xy: 83, 308
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_22X35
+  rotate: false
+  xy: 67, 304
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_22X35_2
+  rotate: false
+  xy: 21, 306
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_22X47
+  rotate: false
+  xy: 232, 290
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_22X54
+  rotate: false
+  xy: 125, 277
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_22X61
+  rotate: false
+  xy: 33, 265
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_24X53
+  rotate: false
+  xy: 49, 268
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_24X53_2
+  rotate: false
+  xy: 67, 268
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_24X53_3
+  rotate: false
+  xy: 1, 270
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_25X38
+  rotate: false
+  xy: 49, 304
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_25X43
+  rotate: false
+  xy: 141, 277
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_25X44
+  rotate: false
+  xy: 159, 282
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_25X44_2
+  rotate: false
+  xy: 177, 282
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_25X44_3
+  rotate: false
+  xy: 195, 290
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_26X39
+  rotate: false
+  xy: 213, 290
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_28X33
+  rotate: false
+  xy: 1, 306
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_28X45
+  rotate: false
+  xy: 85, 277
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_28X45_2
+  rotate: false
+  xy: 105, 277
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_30X24
+  rotate: false
+  xy: 97, 308
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_30X24_2
+  rotate: false
+  xy: 155, 312
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_30X37
+  rotate: false
+  xy: 44, 85
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_34X28
+  rotate: false
+  xy: 231, 206
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_36X39
+  rotate: false
+  xy: 231, 179
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_36X39_2
+  rotate: false
+  xy: 202, 263
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_36X39_3
+  rotate: false
+  xy: 227, 263
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_36X45
+  rotate: false
+  xy: 229, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_37X46
+  rotate: false
+  xy: 229, 1
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_39X19
+  rotate: false
+  xy: 176, 320
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_40X144
+  rotate: false
+  xy: 86, 111
+  size: 26, 92
+  orig: 26, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_41X19
+  rotate: false
+  xy: 80, 205
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_42X133
+  rotate: false
+  xy: 169, 133
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_46X36
+  rotate: false
+  xy: 1, 245
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_46X36_2
+  rotate: false
+  xy: 101, 252
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_46X36_3
+  rotate: false
+  xy: 133, 252
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_46X46
+  rotate: false
+  xy: 123, 220
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_47X47
+  rotate: false
+  xy: 155, 220
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_47X47_2
+  rotate: false
+  xy: 187, 231
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_47X47_3
+  rotate: false
+  xy: 219, 231
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_47X47_4
+  rotate: false
+  xy: 34, 233
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_48X78
+  rotate: false
+  xy: 48, 145
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_48X78_2
+  rotate: false
+  xy: 198, 179
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_48X78_3
+  rotate: false
+  xy: 1, 193
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_51X33
+  rotate: false
+  xy: 66, 245
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_52X31
+  rotate: false
+  xy: 114, 111
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_54X26
+  rotate: false
+  xy: 165, 263
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_63X35
+  rotate: false
+  xy: 1, 85
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_63X35_2
+  rotate: false
+  xy: 80, 220
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_65X61
+  rotate: false
+  xy: 114, 179
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_68X53
+  rotate: false
+  xy: 34, 197
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_6X6
+  rotate: false
+  xy: 250, 71
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_70X71
+  rotate: false
+  xy: 1, 145
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_79X69
+  rotate: false
+  xy: 198, 133
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_7X7
+  rotate: false
+  xy: 250, 64
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_82X69
+  rotate: false
+  xy: 114, 133
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_STILT_WALKER_ZOMBIE_CARNIE_STILT_WALKER_99X127
+  rotate: false
+  xy: 1, 1
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1

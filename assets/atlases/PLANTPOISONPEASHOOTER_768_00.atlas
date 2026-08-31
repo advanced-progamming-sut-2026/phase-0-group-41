@@ -1,0 +1,418 @@
+PLANTPOISONPEASHOOTER_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_102X104
+  rotate: false
+  xy: 157, 135
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_119X119
+  rotate: false
+  xy: 1, 135
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_139X53
+  rotate: false
+  xy: 411, 239
+  size: 89, 34
+  orig: 89, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_139X53_2
+  rotate: false
+  xy: 285, 241
+  size: 89, 34
+  orig: 89, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_142X57
+  rotate: false
+  xy: 225, 188
+  size: 91, 37
+  orig: 91, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_142X57_2
+  rotate: false
+  xy: 318, 202
+  size: 91, 37
+  orig: 91, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_143X52
+  rotate: false
+  xy: 97, 213
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_143X52_2
+  rotate: false
+  xy: 191, 227
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_147X54
+  rotate: false
+  xy: 1, 213
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_148X54
+  rotate: false
+  xy: 411, 202
+  size: 95, 35
+  orig: 95, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_14X11
+  rotate: false
+  xy: 225, 179
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_165X156
+  rotate: false
+  xy: 269, 1
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_206X206
+  rotate: false
+  xy: 1, 1
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_GOOPEASHOOTER_PLANTFOOD_40X36
+  rotate: false
+  xy: 170, 263
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_TILE_GOOPEASHOOTER_PLANTFOOD_TILE_122X153
+  rotate: false
+  xy: 377, 102
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_TILE_GOOPEASHOOTER_PLANTFOOD_TILE_133X155
+  rotate: false
+  xy: 377, 1
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PLANTFOOD_TILE_GOOPEASHOOTER_PLANTFOOD_TILE_14X11
+  rotate: false
+  xy: 236, 179
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_110X60
+  rotate: false
+  xy: 97, 249
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_114X129
+  rotate: false
+  xy: 269, 103
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_13X27
+  rotate: false
+  xy: 502, 239
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_14X11
+  rotate: false
+  xy: 247, 179
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_15X15
+  rotate: false
+  xy: 303, 227
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_18X76
+  rotate: false
+  xy: 494, 44
+  size: 12, 49
+  orig: 12, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_30X44
+  rotate: false
+  xy: 491, 160
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_37X35
+  rotate: false
+  xy: 225, 263
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_39X36
+  rotate: false
+  xy: 198, 263
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_43X35
+  rotate: false
+  xy: 344, 170
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_44X85
+  rotate: false
+  xy: 464, 44
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_49X35
+  rotate: false
+  xy: 376, 241
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GOOPEASHOOTER_PROJECTILES_GOOPEASHOOTER_PROJECTILES_86X86
+  rotate: false
+  xy: 457, 103
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_10X8
+  rotate: false
+  xy: 494, 95
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_119X119
+  rotate: false
+  xy: 79, 135
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_14X11
+  rotate: false
+  xy: 157, 204
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_18X20
+  rotate: false
+  xy: 329, 277
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_206X206
+  rotate: false
+  xy: 135, 1
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_21X17
+  rotate: false
+  xy: 343, 277
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_21X20
+  rotate: false
+  xy: 313, 277
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_21X23
+  rotate: false
+  xy: 495, 275
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_22X14
+  rotate: false
+  xy: 491, 190
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_23X17
+  rotate: false
+  xy: 170, 249
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_25X18
+  rotate: false
+  xy: 285, 227
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_26X36
+  rotate: false
+  xy: 451, 275
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_27X39
+  rotate: false
+  xy: 251, 263
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_30X24
+  rotate: false
+  xy: 271, 277
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_30X24_2
+  rotate: false
+  xy: 292, 277
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_31X18
+  rotate: false
+  xy: 318, 188
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_31X33
+  rotate: false
+  xy: 376, 266
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_35X26
+  rotate: false
+  xy: 470, 275
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_36X27
+  rotate: false
+  xy: 426, 275
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_36X45
+  rotate: false
+  xy: 344, 139
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_40X25
+  rotate: false
+  xy: 398, 275
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_40X53
+  rotate: false
+  xy: 344, 103
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_44X25
+  rotate: false
+  xy: 191, 204
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_50X62
+  rotate: false
+  xy: 457, 160
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_53X51
+  rotate: false
+  xy: 59, 250
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_53X65
+  rotate: false
+  xy: 225, 135
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_69X63
+  rotate: false
+  xy: 464, 1
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_87X73
+  rotate: false
+  xy: 1, 250
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GOOPEASHOOTER_GOOPEASHOOTER_8X16
+  rotate: false
+  xy: 261, 135
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1

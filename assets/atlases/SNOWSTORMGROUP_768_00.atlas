@@ -1,0 +1,61 @@
+SNOWSTORMGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SNOWSTORM_REAR_SNOWSTORM_REAR_28X39
+  rotate: false
+  xy: 68, 145
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SNOWSTORM_REAR_SNOWSTORM_REAR_66X48
+  rotate: false
+  xy: 1, 141
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SNOWSTORM_REAR_SNOWSTORM_REAR_83X95
+  rotate: false
+  xy: 70, 1
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SNOWSTORM_TOP_SNOWSTORM_TOP_102X105
+  rotate: false
+  xy: 1, 72
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SNOWSTORM_TOP_SNOWSTORM_TOP_104X107
+  rotate: false
+  xy: 1, 1
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SNOWSTORM_TOP_SNOWSTORM_TOP_32X56
+  rotate: false
+  xy: 45, 141
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SNOWSTORM_TOP_SNOWSTORM_TOP_76X54
+  rotate: false
+  xy: 69, 108
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SNOWSTORM_TOP_SNOWSTORM_TOP_86X66
+  rotate: false
+  xy: 70, 64
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,285 @@
+UI_THYMEDEVENTS_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_THYMED_EVENTS_CHECK_MARK
+  rotate: false
+  xy: 1865, 417
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_COMING_SOON_LABEL
+  rotate: false
+  xy: 1, 1938
+  size: 130, 74
+  orig: 130, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_DAYS_REMAINING_LABEL
+  rotate: false
+  xy: 1981, 757
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_BLACK_BG
+  rotate: false
+  xy: 2010, 105
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_CONVRT_ARROW
+  rotate: false
+  xy: 1883, 1
+  size: 160, 102
+  orig: 160, 102
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_CONVRT_COIN
+  rotate: false
+  xy: 1883, 105
+  size: 125, 127
+  orig: 125, 127
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_CONVRT_PLANT_CARD
+  rotate: false
+  xy: 1981, 417
+  size: 60, 338
+  orig: 60, 338
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_CONVRT_RATE_BG
+  rotate: false
+  xy: 231, 1938
+  size: 257, 27
+  orig: 257, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_CONVRT_SPARKLES
+  rotate: false
+  xy: 133, 1938
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_BIGTOP
+  rotate: false
+  xy: 1273, 663
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_BIRTHDAYZ
+  rotate: false
+  xy: 1273, 931
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_FEASTIVUS
+  rotate: false
+  xy: 1273, 1199
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_FOODFIGHT
+  rotate: false
+  xy: 1273, 1467
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_EVENTNAMES_HARVESTFESTIVAL
+  rotate: false
+  xy: 1273, 1735
+  size: 504, 266
+  orig: 504, 266
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_HUD_BONUS_PLANT
+  rotate: false
+  xy: 1020, 1938
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_HUD_BONUS_PLANT_DOWN
+  rotate: false
+  xy: 1094, 1938
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_HUD_EVENT_SHOP
+  rotate: false
+  xy: 490, 1938
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_HUD_EVENT_SHOP_DOWN
+  rotate: false
+  xy: 567, 1938
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_HUD_TASK_LIST
+  rotate: false
+  xy: 644, 1938
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_HUD_TASK_LIST_DISABLED
+  rotate: false
+  xy: 721, 1938
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_HUD_TASK_LIST_DOWN
+  rotate: false
+  xy: 798, 1938
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_3
+  rotate: false
+  xy: 1865, 523
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_BIGTOP_1
+  rotate: false
+  xy: 1663, 235
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_FEASTIVUS_1
+  rotate: false
+  xy: 1663, 431
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_FOODFIGHT_1
+  rotate: false
+  xy: 1779, 627
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_HARVEST_1
+  rotate: false
+  xy: 1779, 823
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LAWNOFDOOM_1
+  rotate: false
+  xy: 1779, 1019
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LUCKOTHEZOMBIE_1
+  rotate: false
+  xy: 1779, 1215
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LUNARZOOYEAR_1
+  rotate: false
+  xy: 1779, 1411
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_LUNARZOOYEAR_LUNARNEWYEAR_CURRENCY
+  rotate: false
+  xy: 1779, 1607
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_MGPADVENTURES_1
+  rotate: false
+  xy: 1779, 1803
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_MGPADVENTURES_2
+  rotate: false
+  xy: 1865, 235
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SLIDE_0
+  rotate: false
+  xy: 1, 663
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SLIDE_1
+  rotate: false
+  xy: 1, 1088
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_SLIDE_2
+  rotate: false
+  xy: 1, 1513
+  size: 1270, 423
+  orig: 1270, 423
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_SEPERATOR
+  rotate: false
+  xy: 231, 1967
+  size: 139, 1
+  orig: 139, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_EVENT_REWARD_CARD_DISABLED
+  rotate: false
+  xy: 948, 1938
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_EVENT_REWARD_CARD_FLAT
+  rotate: false
+  xy: 875, 1938
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ISLAND1
+  rotate: false
+  xy: 1663, 1
+  size: 218, 232
+  orig: 218, 232
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_MEGAGATLINGPEA_WINTERADVENTURES2024_EVENT_BG
+  rotate: false
+  xy: 1, 1
+  size: 1660, 660
+  orig: 1660, 660
+  offset: 0, 0
+  index: -1

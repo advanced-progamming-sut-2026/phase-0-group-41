@@ -1,0 +1,82 @@
+GAMETROPHIES_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_TROPHY_BEACH
+  rotate: false
+  xy: 351, 271
+  size: 140, 240
+  orig: 140, 240
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_COWBOY
+  rotate: false
+  xy: 696, 1
+  size: 140, 268
+  orig: 140, 268
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_DARK
+  rotate: false
+  xy: 669, 271
+  size: 122, 264
+  orig: 122, 264
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_DINO
+  rotate: false
+  xy: 1, 1
+  size: 202, 303
+  orig: 202, 303
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_EGYPT
+  rotate: false
+  xy: 838, 1
+  size: 140, 268
+  orig: 140, 268
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_EIGHTIES
+  rotate: false
+  xy: 205, 1
+  size: 159, 268
+  orig: 159, 268
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_FUTURE
+  rotate: false
+  xy: 793, 271
+  size: 117, 244
+  orig: 117, 244
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_ICEAGE
+  rotate: false
+  xy: 205, 271
+  size: 144, 246
+  orig: 144, 246
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_LOSTCITY
+  rotate: false
+  xy: 366, 1
+  size: 159, 268
+  orig: 159, 268
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_MODERN
+  rotate: false
+  xy: 527, 1
+  size: 167, 225
+  orig: 167, 225
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_TROPHY_PIRATE
+  rotate: false
+  xy: 527, 228
+  size: 140, 268
+  orig: 140, 268
+  offset: 0, 0
+  index: -1

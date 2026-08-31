@@ -1,0 +1,530 @@
+PLANTCORNFETTI_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_CORNFETTIPOPPER_PROJECTILE_10X10
+  rotate: false
+  xy: 505, 95
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_CORNFETTIPOPPER_PROJECTILE_132X98
+  rotate: false
+  xy: 296, 167
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_CORNFETTIPOPPER_PROJECTILE_160X106
+  rotate: false
+  xy: 191, 99
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_CORNFETTIPOPPER_PROJECTILE_165X115
+  rotate: false
+  xy: 397, 86
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_CORNFETTIPOPPER_PROJECTILE_191X61
+  rotate: false
+  xy: 1, 172
+  size: 122, 39
+  orig: 122, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_153X130
+  rotate: false
+  xy: 397, 1
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_166X150
+  rotate: false
+  xy: 191, 1
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_24X20
+  rotate: false
+  xy: 89, 300
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_24X23
+  rotate: false
+  xy: 313, 297
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_25X25
+  rotate: false
+  xy: 50, 297
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_26X23
+  rotate: false
+  xy: 109, 297
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_28X25
+  rotate: false
+  xy: 346, 291
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_28X29
+  rotate: false
+  xy: 30, 288
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_29X29
+  rotate: false
+  xy: 165, 285
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_29X31
+  rotate: false
+  xy: 225, 281
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_30X25
+  rotate: false
+  xy: 137, 290
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_30X34
+  rotate: false
+  xy: 204, 262
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_31X24
+  rotate: false
+  xy: 1, 290
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_31X29
+  rotate: false
+  xy: 246, 283
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_32X29
+  rotate: false
+  xy: 62, 276
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_32X30
+  rotate: false
+  xy: 323, 276
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_33X27
+  rotate: false
+  xy: 290, 284
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_34X27
+  rotate: false
+  xy: 85, 280
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_35X22
+  rotate: false
+  xy: 396, 289
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_35X34
+  rotate: false
+  xy: 457, 270
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_35X39
+  rotate: false
+  xy: 140, 263
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_37X35
+  rotate: false
+  xy: 431, 270
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_39X38
+  rotate: false
+  xy: 486, 196
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_41X36
+  rotate: false
+  xy: 261, 258
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_44X33
+  rotate: false
+  xy: 174, 262
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_46X30
+  rotate: false
+  xy: 364, 270
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_47X21
+  rotate: false
+  xy: 30, 272
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_47X32
+  rotate: false
+  xy: 108, 257
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_49X34
+  rotate: false
+  xy: 325, 232
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_51X26
+  rotate: false
+  xy: 396, 270
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_CORNFETTIPOPPER_PROJECTILE_HIT_CORNFETTIPOPPER_PROJECTILE_HIT_58X27
+  rotate: false
+  xy: 325, 256
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_106X88
+  rotate: false
+  xy: 191, 169
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_114X64
+  rotate: false
+  xy: 383, 227
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_114X65
+  rotate: false
+  xy: 67, 213
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_137X98
+  rotate: false
+  xy: 396, 162
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_13X10
+  rotate: false
+  xy: 497, 56
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_14X9
+  rotate: false
+  xy: 497, 65
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_150X143
+  rotate: false
+  xy: 299, 1
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_153X102
+  rotate: false
+  xy: 296, 99
+  size: 98, 66
+  orig: 98, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_15X8
+  rotate: false
+  xy: 497, 73
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_18X21
+  rotate: false
+  xy: 497, 40
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_22X26
+  rotate: false
+  xy: 497, 21
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_22X27
+  rotate: false
+  xy: 497, 1
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_28X23
+  rotate: false
+  xy: 457, 294
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_28X24
+  rotate: false
+  xy: 366, 291
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_29X29
+  rotate: false
+  xy: 186, 286
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_30X19
+  rotate: false
+  xy: 68, 300
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_30X21
+  rotate: false
+  xy: 421, 295
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_31X30
+  rotate: false
+  xy: 268, 284
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_32X34
+  rotate: false
+  xy: 359, 232
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_32X50
+  rotate: false
+  xy: 486, 162
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_34X31
+  rotate: false
+  xy: 482, 270
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_36X18
+  rotate: false
+  xy: 482, 292
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_40X23
+  rotate: false
+  xy: 109, 280
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_42X24
+  rotate: false
+  xy: 1, 272
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_46X46
+  rotate: false
+  xy: 261, 169
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_47X35
+  rotate: false
+  xy: 259, 233
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_47X47
+  rotate: false
+  xy: 261, 201
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_47X47_2
+  rotate: false
+  xy: 227, 228
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_47X47_3
+  rotate: false
+  xy: 142, 231
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_47X47_4
+  rotate: false
+  xy: 293, 232
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_49X27
+  rotate: false
+  xy: 289, 264
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_49X30
+  rotate: false
+  xy: 227, 260
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_56X88
+  rotate: false
+  xy: 142, 172
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_60X26
+  rotate: false
+  xy: 67, 257
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_70X50
+  rotate: false
+  xy: 180, 228
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_7X7
+  rotate: false
+  xy: 505, 80
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_83X64
+  rotate: false
+  xy: 458, 227
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_CORNFETTIPOPPER_CORNFETTIPOPPER_99X89
+  rotate: false
+  xy: 1, 213
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1

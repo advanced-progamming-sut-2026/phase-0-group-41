@@ -1,0 +1,250 @@
+ZOMBIESTPADDYGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_135X8
+  rotate: false
+  xy: 1, 165
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_18X40
+  rotate: false
+  xy: 222, 165
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_21X43
+  rotate: false
+  xy: 237, 161
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_21X47
+  rotate: false
+  xy: 140, 157
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_22X49
+  rotate: false
+  xy: 105, 65
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_24X40
+  rotate: false
+  xy: 156, 158
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_24X58
+  rotate: false
+  xy: 238, 1
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_28X33
+  rotate: false
+  xy: 202, 165
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_28X41
+  rotate: false
+  xy: 99, 157
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_30X27
+  rotate: false
+  xy: 50, 172
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_30X37
+  rotate: false
+  xy: 119, 157
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_30X39
+  rotate: false
+  xy: 237, 134
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_31X42
+  rotate: false
+  xy: 26, 136
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_34X26
+  rotate: false
+  xy: 1, 172
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_36X23
+  rotate: false
+  xy: 25, 172
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_36X39
+  rotate: false
+  xy: 1, 136
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_36X45
+  rotate: false
+  xy: 212, 134
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_37X46
+  rotate: false
+  xy: 225, 56
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_40X25
+  rotate: false
+  xy: 174, 158
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_43X25
+  rotate: false
+  xy: 225, 88
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_52X31
+  rotate: false
+  xy: 1, 114
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_56X30
+  rotate: false
+  xy: 212, 113
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_67X85
+  rotate: false
+  xy: 180, 56
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_6X6
+  rotate: false
+  xy: 245, 40
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_70X71
+  rotate: false
+  xy: 52, 112
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_76X73
+  rotate: false
+  xy: 1, 65
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_79X69
+  rotate: false
+  xy: 105, 111
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_7X7
+  rotate: false
+  xy: 238, 40
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_80X70
+  rotate: false
+  xy: 52, 65
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_81X67
+  rotate: false
+  xy: 158, 113
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_82X83
+  rotate: false
+  xy: 125, 56
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_84X83
+  rotate: false
+  xy: 182, 1
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_85X82
+  rotate: false
+  xy: 125, 1
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_91X97
+  rotate: false
+  xy: 65, 1
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_STPATRICKS_BASIC_ZOMBIE_STPATRICKS_BASIC_96X97
+  rotate: false
+  xy: 1, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1

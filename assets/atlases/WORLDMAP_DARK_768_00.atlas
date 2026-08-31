@@ -1,0 +1,194 @@
+WORLDMAP_DARK_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_DARK_ISLAND11
+  rotate: false
+  xy: 999, 461
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND12
+  rotate: false
+  xy: 906, 391
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND13
+  rotate: false
+  xy: 906, 501
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND14
+  rotate: false
+  xy: 906, 441
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND18
+  rotate: false
+  xy: 943, 217
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND19
+  rotate: false
+  xy: 959, 308
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND20
+  rotate: false
+  xy: 906, 1
+  size: 113, 80
+  orig: 113, 80
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND21
+  rotate: false
+  xy: 699, 788
+  size: 199, 212
+  orig: 199, 212
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND31
+  rotate: false
+  xy: 953, 461
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND34
+  rotate: false
+  xy: 982, 391
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND35
+  rotate: false
+  xy: 906, 159
+  size: 35, 122
+  orig: 35, 122
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND36
+  rotate: false
+  xy: 906, 308
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND37
+  rotate: false
+  xy: 991, 217
+  size: 29, 83
+  orig: 29, 83
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND49
+  rotate: false
+  xy: 1, 916
+  size: 386, 66
+  orig: 386, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND50
+  rotate: false
+  xy: 367, 993
+  size: 181, 68
+  orig: 181, 68
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND52
+  rotate: false
+  xy: 582, 583
+  size: 249, 203
+  orig: 249, 203
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND53
+  rotate: false
+  xy: 582, 1
+  size: 322, 290
+  orig: 322, 290
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND56
+  rotate: false
+  xy: 184, 984
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND57
+  rotate: false
+  xy: 1, 844
+  size: 386, 70
+  orig: 386, 70
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND58
+  rotate: false
+  xy: 1, 705
+  size: 445, 137
+  orig: 445, 137
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND59
+  rotate: false
+  xy: 448, 788
+  size: 249, 203
+  orig: 249, 203
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND6
+  rotate: false
+  xy: 1, 984
+  size: 181, 135
+  orig: 181, 135
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND60
+  rotate: false
+  xy: 582, 293
+  size: 322, 288
+  orig: 322, 288
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND7
+  rotate: false
+  xy: 833, 583
+  size: 189, 158
+  orig: 189, 158
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND8
+  rotate: false
+  xy: 906, 83
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DARK_ISLAND9
+  rotate: false
+  xy: 943, 159
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_DARK_ZOMBOSS_NODE_DARK_905X1096
+  rotate: false
+  xy: 1, 1
+  size: 579, 702
+  orig: 579, 702
+  offset: 0, 0
+  index: -1

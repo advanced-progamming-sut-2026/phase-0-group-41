@@ -1,0 +1,600 @@
+PLANTHOLLY_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_HOLLY_ATTACK_FX_HOLLY_ATTACK_FX_21X65
+  rotate: false
+  xy: 488, 636
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_ATTACK_FX_HOLLY_ATTACK_FX_333X300
+  rotate: false
+  xy: 253, 1
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_110X290
+  rotate: false
+  xy: 303, 398
+  size: 71, 186
+  orig: 71, 186
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_130X34
+  rotate: false
+  xy: 220, 705
+  size: 83, 22
+  orig: 83, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_132X124
+  rotate: false
+  xy: 152, 257
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_169X160
+  rotate: false
+  xy: 1, 401
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_1X1
+  rotate: false
+  xy: 510, 50
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_232X221
+  rotate: false
+  xy: 1, 257
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_38X39
+  rotate: false
+  xy: 168, 624
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_41X50
+  rotate: false
+  xy: 111, 463
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_46X31
+  rotate: false
+  xy: 166, 725
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_55X35
+  rotate: false
+  xy: 258, 542
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_56X40
+  rotate: false
+  xy: 207, 339
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_60X32
+  rotate: false
+  xy: 468, 171
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_71X64
+  rotate: false
+  xy: 66, 700
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_78X112
+  rotate: false
+  xy: 436, 636
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_83X116
+  rotate: false
+  xy: 60, 624
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_83X125
+  rotate: false
+  xy: 456, 286
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_83X75
+  rotate: false
+  xy: 152, 339
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_84X32
+  rotate: false
+  xy: 456, 368
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_88X130
+  rotate: false
+  xy: 1, 611
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_88X145
+  rotate: false
+  xy: 377, 586
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_88X149
+  rotate: false
+  xy: 318, 586
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_8X11
+  rotate: false
+  xy: 504, 74
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_8X11_2
+  rotate: false
+  xy: 504, 83
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_91X182
+  rotate: false
+  xy: 449, 398
+  size: 58, 117
+  orig: 58, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_PROJECTILE_HOLLY_PROJECTILE_91X182_2
+  rotate: false
+  xy: 449, 517
+  size: 58, 117
+  orig: 58, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_RETICLE_HOLLY_RETICLE_313X313
+  rotate: false
+  xy: 253, 195
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_RETICLE_HOLLY_RETICLE_390X397
+  rotate: false
+  xy: 1, 1
+  size: 250, 254
+  orig: 250, 254
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HOLLY_RETICLE_HOLLY_RETICLE_98X51
+  rotate: false
+  xy: 1, 700
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_10X8
+  rotate: false
+  xy: 504, 92
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_110X290
+  rotate: false
+  xy: 376, 398
+  size: 71, 186
+  orig: 71, 186
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_12X13
+  rotate: false
+  xy: 500, 63
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_12X17
+  rotate: false
+  xy: 500, 50
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_132X124
+  rotate: false
+  xy: 111, 542
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_13X10
+  rotate: false
+  xy: 239, 257
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_15X14
+  rotate: false
+  xy: 500, 39
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_169X160
+  rotate: false
+  xy: 1, 506
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_16X15
+  rotate: false
+  xy: 500, 27
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_16X18
+  rotate: false
+  xy: 500, 1
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_17X16
+  rotate: false
+  xy: 500, 15
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_18X10
+  rotate: false
+  xy: 152, 389
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_18X14
+  rotate: false
+  xy: 127, 531
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_18X18
+  rotate: false
+  xy: 243, 689
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_18X19
+  rotate: false
+  xy: 297, 729
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_19X14
+  rotate: false
+  xy: 457, 730
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_19X17
+  rotate: false
+  xy: 443, 730
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_19X19
+  rotate: false
+  xy: 429, 730
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_1X1
+  rotate: false
+  xy: 510, 53
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_21X19
+  rotate: false
+  xy: 246, 729
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_21X21
+  rotate: false
+  xy: 495, 723
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_21X33
+  rotate: false
+  xy: 495, 700
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_22X14
+  rotate: false
+  xy: 111, 531
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_232X221
+  rotate: false
+  xy: 152, 398
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_23X17
+  rotate: false
+  xy: 262, 729
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_24X24
+  rotate: false
+  xy: 277, 567
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_25X15
+  rotate: false
+  xy: 279, 729
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_26X16
+  rotate: false
+  xy: 81, 611
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_26X25
+  rotate: false
+  xy: 258, 567
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_28X19
+  rotate: false
+  xy: 226, 729
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_29X15
+  rotate: false
+  xy: 60, 611
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_29X27
+  rotate: false
+  xy: 488, 680
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_32X19
+  rotate: false
+  xy: 220, 689
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_41X34
+  rotate: false
+  xy: 198, 729
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_41X50
+  rotate: false
+  xy: 111, 497
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_45X47
+  rotate: false
+  xy: 111, 401
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_46X112
+  rotate: false
+  xy: 468, 1
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_46X41
+  rotate: false
+  xy: 220, 661
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_47X43
+  rotate: false
+  xy: 207, 367
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_47X44
+  rotate: false
+  xy: 111, 433
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_53X55
+  rotate: false
+  xy: 468, 75
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_61X42
+  rotate: false
+  xy: 468, 142
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_61X44
+  rotate: false
+  xy: 468, 112
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_72X70
+  rotate: false
+  xy: 318, 684
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_77X74
+  rotate: false
+  xy: 377, 681
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_78X56
+  rotate: false
+  xy: 114, 702
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_78X96
+  rotate: false
+  xy: 168, 661
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_79X118
+  rotate: false
+  xy: 115, 624
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_79X139
+  rotate: false
+  xy: 456, 195
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_8X11
+  rotate: false
+  xy: 504, 99
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_8X11_2
+  rotate: false
+  xy: 239, 266
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_8X8
+  rotate: false
+  xy: 239, 275
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_91X182
+  rotate: false
+  xy: 198, 542
+  size: 58, 117
+  orig: 58, 117
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_91X182_2
+  rotate: false
+  xy: 258, 586
+  size: 58, 117
+  orig: 58, 117
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HOLLY_HOLLY_99X28
+  rotate: false
+  xy: 429, 710
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,173 @@
+NPC_PEASHOOTER_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_102X148
+  rotate: false
+  xy: 113, 192
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_109X146
+  rotate: false
+  xy: 420, 95
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_135X108
+  rotate: false
+  xy: 312, 196
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_148X155
+  rotate: false
+  xy: 323, 95
+  size: 95, 99
+  orig: 95, 99
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_154X120
+  rotate: false
+  xy: 211, 138
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_172X101
+  rotate: false
+  xy: 1, 192
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_172X210
+  rotate: false
+  xy: 211, 1
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_228X144
+  rotate: false
+  xy: 323, 1
+  size: 146, 92
+  orig: 146, 92
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_23X69
+  rotate: false
+  xy: 492, 87
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_325X295
+  rotate: false
+  xy: 1, 1
+  size: 208, 189
+  orig: 208, 189
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_36X37
+  rotate: false
+  xy: 478, 267
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_49X60
+  rotate: false
+  xy: 478, 191
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_53X51
+  rotate: false
+  xy: 478, 232
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_62X63
+  rotate: false
+  xy: 471, 1
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_62X63_2
+  rotate: false
+  xy: 471, 44
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_62X63_3
+  rotate: false
+  xy: 366, 267
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_70X49
+  rotate: false
+  xy: 181, 283
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_72X83
+  rotate: false
+  xy: 58, 259
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_84X86
+  rotate: false
+  xy: 310, 267
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_85X86
+  rotate: false
+  xy: 1, 259
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_87X179
+  rotate: false
+  xy: 420, 191
+  size: 56, 115
+  orig: 56, 115
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_89X66
+  rotate: false
+  xy: 244, 270
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_95X99
+  rotate: false
+  xy: 181, 217
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_PEASHOOTER_PEASHOOTER_99X80
+  rotate: false
+  xy: 244, 217
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1

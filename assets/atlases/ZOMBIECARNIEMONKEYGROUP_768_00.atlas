@@ -1,0 +1,453 @@
+ZOMBIECARNIEMONKEYGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_101X16
+  rotate: false
+  xy: 188, 392
+  size: 65, 10
+  orig: 65, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_114X62
+  rotate: false
+  xy: 1, 279
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_12X23
+  rotate: false
+  xy: 59, 432
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_12X34
+  rotate: false
+  xy: 18, 431
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_153X110
+  rotate: false
+  xy: 111, 272
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_15X26
+  rotate: false
+  xy: 246, 341
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_169X163
+  rotate: false
+  xy: 1, 172
+  size: 108, 105
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_16X18
+  rotate: false
+  xy: 243, 73
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_16X28
+  rotate: false
+  xy: 246, 321
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_179X153
+  rotate: false
+  xy: 111, 172
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_17X32
+  rotate: false
+  xy: 243, 27
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_17X33
+  rotate: false
+  xy: 243, 50
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_18X14
+  rotate: false
+  xy: 69, 432
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_18X26
+  rotate: false
+  xy: 194, 345
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_1X1
+  rotate: false
+  xy: 254, 106
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_20X20
+  rotate: false
+  xy: 28, 431
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_21X19
+  rotate: false
+  xy: 43, 431
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_21X20
+  rotate: false
+  xy: 242, 404
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_21X37
+  rotate: false
+  xy: 240, 1
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_23X19
+  rotate: false
+  xy: 1, 431
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_25X20
+  rotate: false
+  xy: 105, 422
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_26X18
+  rotate: false
+  xy: 123, 424
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_26X19
+  rotate: false
+  xy: 142, 424
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_26X19_2
+  rotate: false
+  xy: 161, 424
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_26X24
+  rotate: false
+  xy: 134, 381
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_26X27
+  rotate: false
+  xy: 235, 106
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_28X17
+  rotate: false
+  xy: 180, 424
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_28X24
+  rotate: false
+  xy: 228, 250
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_30X26
+  rotate: false
+  xy: 235, 87
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_33X17
+  rotate: false
+  xy: 228, 378
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_33X17_2
+  rotate: false
+  xy: 105, 409
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_33X35
+  rotate: false
+  xy: 228, 225
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_34X47
+  rotate: false
+  xy: 228, 172
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_37X18
+  rotate: false
+  xy: 228, 364
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_40X30
+  rotate: false
+  xy: 228, 204
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_41X58
+  rotate: false
+  xy: 228, 133
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_44X43
+  rotate: false
+  xy: 80, 314
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_46X37
+  rotate: false
+  xy: 1, 384
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_47X41
+  rotate: false
+  xy: 102, 381
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_47X51
+  rotate: false
+  xy: 76, 279
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_48X30
+  rotate: false
+  xy: 33, 384
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_49X40
+  rotate: false
+  xy: 194, 364
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_49X40_2
+  rotate: false
+  xy: 154, 374
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_50X31
+  rotate: false
+  xy: 134, 402
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_51X37
+  rotate: false
+  xy: 67, 381
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_51X63
+  rotate: false
+  xy: 211, 321
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_53X70
+  rotate: false
+  xy: 44, 321
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_54X28
+  rotate: false
+  xy: 168, 404
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_54X54
+  rotate: false
+  xy: 191, 133
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_55X23
+  rotate: false
+  xy: 205, 404
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_55X53
+  rotate: false
+  xy: 80, 345
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_55X53_2
+  rotate: false
+  xy: 117, 345
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_56X73
+  rotate: false
+  xy: 211, 272
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_59X42
+  rotate: false
+  xy: 154, 345
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_63X63
+  rotate: false
+  xy: 1, 321
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_65X17
+  rotate: false
+  xy: 61, 419
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_65X68
+  rotate: false
+  xy: 191, 87
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_67X16
+  rotate: false
+  xy: 205, 421
+  size: 43, 10
+  orig: 43, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_73X70
+  rotate: false
+  xy: 191, 1
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_78X57
+  rotate: false
+  xy: 191, 48
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_91X15
+  rotate: false
+  xy: 1, 419
+  size: 58, 10
+  orig: 58, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_97X15
+  rotate: false
+  xy: 33, 407
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_CARNIE_MONKEY_ZOMBIE_CARNIE_MONKEY_99X21
+  rotate: false
+  xy: 1, 368
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1

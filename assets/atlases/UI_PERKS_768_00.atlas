@@ -1,0 +1,390 @@
+UI_PERKS_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PERKS_CHECKBOX_DISABLED
+  rotate: false
+  xy: 411, 218
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_CHECKBOX_ENABLED
+  rotate: false
+  xy: 411, 266
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_ENTRY_BKGD
+  rotate: false
+  xy: 459, 263
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_ENTRY_BKGD_SHINE
+  rotate: false
+  xy: 595, 328
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_LIBRARYTAB_ACTIVE
+  rotate: false
+  xy: 135, 1
+  size: 199, 85
+  orig: 199, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_LIBRARYTAB_DOWN
+  rotate: false
+  xy: 537, 1
+  size: 199, 65
+  orig: 199, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_PERK_ICON_LOCKED
+  rotate: false
+  xy: 459, 218
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_PERK_SELECTION_BACKGROUND_BROWN
+  rotate: false
+  xy: 1, 1
+  size: 65, 345
+  orig: 65, 345
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_PERK_SELECTION_BACKGROUND_CARD
+  rotate: false
+  xy: 68, 1
+  size: 65, 345
+  orig: 65, 345
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_PERK_SELECTION_SHINE
+  rotate: false
+  xy: 939, 1
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_PROGRESSIONTAB_ACTIVE
+  rotate: false
+  xy: 336, 1
+  size: 199, 85
+  orig: 199, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_PROGRESSIONTAB_DOWN
+  rotate: false
+  xy: 738, 1
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RED_X
+  rotate: false
+  xy: 963, 327
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_ADDPERK
+  rotate: false
+  xy: 135, 88
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_ANTIGRAV
+  rotate: false
+  xy: 227, 88
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_APPLYCHILL
+  rotate: false
+  xy: 319, 88
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_APPLYFREEZE
+  rotate: false
+  xy: 411, 88
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_APPLYSHRINK
+  rotate: false
+  xy: 721, 197
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_APPLYSTALL
+  rotate: false
+  xy: 813, 197
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_BIRTHDAY
+  rotate: false
+  xy: 905, 197
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_BOOST_TILE
+  rotate: false
+  xy: 503, 198
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_BOSSBUSTERCANNON
+  rotate: false
+  xy: 595, 198
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_FASTERSUN
+  rotate: false
+  xy: 135, 218
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_HEAVYWATERING
+  rotate: false
+  xy: 227, 218
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_HYPNOTIZE
+  rotate: false
+  xy: 319, 218
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_INHIBITOR
+  rotate: false
+  xy: 687, 327
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_INNERFIRE
+  rotate: false
+  xy: 779, 327
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS
+  rotate: false
+  xy: 871, 327
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS_CHILIBEAN
+  rotate: false
+  xy: 411, 328
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS_GOLDBLOOM
+  rotate: false
+  xy: 503, 328
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS_HYPNOSHROOM
+  rotate: false
+  xy: 1, 348
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS_JALAPENO
+  rotate: false
+  xy: 93, 348
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS_SHINEVINE
+  rotate: false
+  xy: 185, 348
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS_SQUASH
+  rotate: false
+  xy: 277, 348
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MINE_IS_YOURS_TUMBLEWEED
+  rotate: false
+  xy: 595, 457
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_MOARSCORE
+  rotate: false
+  xy: 687, 457
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_PLANTHEALING
+  rotate: false
+  xy: 779, 457
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_POISON
+  rotate: false
+  xy: 871, 457
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_QUICK_DELIVER
+  rotate: false
+  xy: 369, 458
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_RE_CHAARGE
+  rotate: false
+  xy: 461, 458
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SAPMPLE_1
+  rotate: false
+  xy: 738, 67
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SAPMPLE_2
+  rotate: false
+  xy: 830, 67
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SAPMPLE_3
+  rotate: false
+  xy: 922, 67
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SAPMPLE_4
+  rotate: false
+  xy: 537, 68
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SAPMPLE_5
+  rotate: false
+  xy: 629, 68
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SHIELD
+  rotate: false
+  xy: 1, 478
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SHOCKWAVE
+  rotate: false
+  xy: 93, 478
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SUNBANK
+  rotate: false
+  xy: 185, 478
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SUNBOOST
+  rotate: false
+  xy: 553, 587
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_SUNZOMBIES
+  rotate: false
+  xy: 645, 587
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_TIMEBONUS
+  rotate: false
+  xy: 737, 587
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_TRAFFICJAM
+  rotate: false
+  xy: 829, 587
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_UTILITYBELT
+  rotate: false
+  xy: 921, 587
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_ZOMBIESCOREBOOST
+  rotate: false
+  xy: 369, 588
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PERKS_RIFT_ICON_ZOMBIE_PLANTFOOD
+  rotate: false
+  xy: 277, 588
+  size: 90, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1

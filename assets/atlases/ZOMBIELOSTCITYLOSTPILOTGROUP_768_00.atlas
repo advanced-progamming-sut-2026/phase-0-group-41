@@ -1,0 +1,306 @@
+ZOMBIELOSTCITYLOSTPILOTGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_110X54
+  rotate: false
+  xy: 1, 175
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_110X93
+  rotate: false
+  xy: 180, 62
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_112X89
+  rotate: false
+  xy: 1, 116
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_121X35
+  rotate: false
+  xy: 107, 212
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_124X72
+  rotate: false
+  xy: 118, 164
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_135X8
+  rotate: false
+  xy: 1, 294
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_142X92
+  rotate: false
+  xy: 130, 1
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_149X69
+  rotate: false
+  xy: 1, 70
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_198X104
+  rotate: false
+  xy: 1, 1
+  size: 127, 67
+  orig: 127, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_20X40
+  rotate: false
+  xy: 107, 297
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_21X48
+  rotate: false
+  xy: 180, 124
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_23X41
+  rotate: false
+  xy: 90, 297
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_25X41
+  rotate: false
+  xy: 207, 284
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_27X39
+  rotate: false
+  xy: 187, 273
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_28X49
+  rotate: false
+  xy: 84, 260
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_29X33
+  rotate: false
+  xy: 129, 296
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_30X21
+  rotate: false
+  xy: 1, 278
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_30X37
+  rotate: false
+  xy: 129, 270
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_30X58
+  rotate: false
+  xy: 99, 70
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_31X46
+  rotate: false
+  xy: 62, 260
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_34X23
+  rotate: false
+  xy: 175, 300
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_36X23
+  rotate: false
+  xy: 150, 300
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_36X39
+  rotate: false
+  xy: 104, 270
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_36X45
+  rotate: false
+  xy: 37, 260
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_36X47
+  rotate: false
+  xy: 187, 241
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_36X95
+  rotate: false
+  xy: 162, 237
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_37X46
+  rotate: false
+  xy: 223, 29
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_40X25
+  rotate: false
+  xy: 225, 284
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_46X31
+  rotate: false
+  xy: 212, 262
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_46X41
+  rotate: false
+  xy: 223, 1
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_52X31
+  rotate: false
+  xy: 1, 256
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_56X30
+  rotate: false
+  xy: 212, 241
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_64X146
+  rotate: false
+  xy: 75, 116
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_66X108
+  rotate: false
+  xy: 200, 124
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_6X51
+  rotate: false
+  xy: 120, 70
+  size: 4, 33
+  orig: 4, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_6X6
+  rotate: false
+  xy: 99, 109
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_70X71
+  rotate: false
+  xy: 60, 212
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_74X156
+  rotate: false
+  xy: 130, 62
+  size: 48, 100
+  orig: 48, 100
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_79X69
+  rotate: false
+  xy: 200, 195
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_7X7
+  rotate: false
+  xy: 120, 105
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_83X48
+  rotate: false
+  xy: 107, 237
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_88X65
+  rotate: false
+  xy: 1, 212
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_LOSTPILOT_ZOMBIE_LOSTCITY_LOSTPILOT_9X48
+  rotate: false
+  xy: 249, 29
+  size: 6, 31
+  orig: 6, 31
+  offset: 0, 0
+  index: -1

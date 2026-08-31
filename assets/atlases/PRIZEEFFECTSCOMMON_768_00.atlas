@@ -1,0 +1,208 @@
+PRIZEEFFECTSCOMMON_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PRIZE_2X_REWARD_GLOW_PRIZE_2X_REWARD_GLOW_108X94
+  rotate: false
+  xy: 443, 272
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_2X_REWARD_GLOW_PRIZE_2X_REWARD_GLOW_175X175
+  rotate: false
+  xy: 128, 647
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_2X_REWARD_GLOW_PRIZE_2X_REWARD_GLOW_175X175_2
+  rotate: false
+  xy: 242, 647
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_2X_REWARD_GLOW_PRIZE_2X_REWARD_GLOW_19X18
+  rotate: false
+  xy: 464, 108
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_2X_REWARD_GLOW_PRIZE_2X_REWARD_GLOW_1X1
+  rotate: false
+  xy: 502, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_2X_REWARD_GLOW_PRIZE_2X_REWARD_GLOW_230X230
+  rotate: false
+  xy: 1, 443
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_2X_REWARD_GLOW_PRIZE_2X_REWARD_GLOW_451X47
+  rotate: false
+  xy: 1, 761
+  size: 289, 30
+  orig: 289, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_RAYS_PRIZE_RAYS_126X462
+  rotate: false
+  xy: 381, 383
+  size: 81, 296
+  orig: 81, 296
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_RAYS_PRIZE_RAYS_391X420
+  rotate: false
+  xy: 1, 1
+  size: 250, 269
+  orig: 250, 269
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_104X93
+  rotate: false
+  xy: 86, 793
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_130X117
+  rotate: false
+  xy: 378, 774
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_14X14
+  rotate: false
+  xy: 502, 38
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_157X142
+  rotate: false
+  xy: 277, 531
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_195X177
+  rotate: false
+  xy: 150, 531
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_1X1
+  rotate: false
+  xy: 505, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_293X263
+  rotate: false
+  xy: 253, 212
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_56X51
+  rotate: false
+  xy: 464, 38
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_PRIZE_SPAWN_73X54
+  rotate: false
+  xy: 464, 1
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_104X93
+  rotate: false
+  xy: 155, 793
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_10X10
+  rotate: false
+  xy: 502, 49
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_130X117
+  rotate: false
+  xy: 1, 793
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_131X131
+  rotate: false
+  xy: 292, 774
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_157X142
+  rotate: false
+  xy: 356, 681
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_195X177
+  rotate: false
+  xy: 1, 592
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_293X263
+  rotate: false
+  xy: 1, 272
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_326X326
+  rotate: false
+  xy: 253, 1
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_SPAWN_UNIVERSAL_REWARD_PRIZE_SPAWN_UNIVERSAL_REWARD_56X51
+  rotate: false
+  xy: 464, 73
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_TWINKLE_PRIZE_TWINKLE_18X18
+  rotate: false
+  xy: 478, 108
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_TWINKLE_PRIZE_TWINKLE_293X227
+  rotate: false
+  xy: 191, 383
+  size: 188, 146
+  orig: 188, 146
+  offset: 0, 0
+  index: -1

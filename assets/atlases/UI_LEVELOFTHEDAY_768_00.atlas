@@ -1,0 +1,3624 @@
+UI_LEVELOFTHEDAY_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_LEVELOFTHEDAY_CHECK_MARK
+  rotate: false
+  xy: 1695, 516
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_18X21
+  rotate: false
+  xy: 1425, 1000
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_21X25
+  rotate: false
+  xy: 384, 1403
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_22X27
+  rotate: false
+  xy: 1364, 569
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_26X32
+  rotate: false
+  xy: 521, 1392
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_28X23
+  rotate: false
+  xy: 970, 1401
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_40X23
+  rotate: false
+  xy: 86, 1112
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_42X24
+  rotate: false
+  xy: 1156, 1129
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_48X27
+  rotate: false
+  xy: 1214, 1322
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_54X30
+  rotate: false
+  xy: 1077, 1347
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_CONFETTI_CONFETTI_60X33
+  rotate: false
+  xy: 1372, 1163
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_INSTRUCTIONAL_BANNER_3SLICE
+  rotate: false
+  xy: 375, 1
+  size: 420, 185
+  orig: 420, 185
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_INSTRUCTIONAL_BANNER_3SLICE_SUMMER
+  rotate: false
+  xy: 797, 1
+  size: 420, 185
+  orig: 420, 185
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_INSTRUCTIONAL_BANNER_3SLICE_TIMETWISTER
+  rotate: false
+  xy: 1219, 1
+  size: 420, 185
+  orig: 420, 185
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_115X182
+  rotate: false
+  xy: 1425, 1072
+  size: 74, 117
+  orig: 74, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_128X192
+  rotate: false
+  xy: 1962, 775
+  size: 82, 123
+  orig: 82, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_151X158
+  rotate: false
+  xy: 125, 1026
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_159X569
+  rotate: false
+  xy: 1858, 1
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_171X204
+  rotate: false
+  xy: 1626, 791
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_181X110
+  rotate: false
+  xy: 511, 1115
+  size: 116, 71
+  orig: 116, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_192X192
+  rotate: false
+  xy: 709, 710
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_219X240
+  rotate: false
+  xy: 1222, 517
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_52X61
+  rotate: false
+  xy: 1820, 206
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_69X42
+  rotate: false
+  xy: 1990, 745
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_70X31
+  rotate: false
+  xy: 1141, 686
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED1_LOTD_PRESENTS_MED1_70X97
+  rotate: false
+  xy: 1999, 417
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_115X182
+  rotate: false
+  xy: 1080, 1095
+  size: 74, 117
+  orig: 74, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_128X192
+  rotate: false
+  xy: 1104, 970
+  size: 82, 123
+  orig: 82, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_151X158
+  rotate: false
+  xy: 700, 1030
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_159X569
+  rotate: false
+  xy: 598, 188
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_171X204
+  rotate: false
+  xy: 1209, 805
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_181X110
+  rotate: false
+  xy: 1762, 1118
+  size: 116, 71
+  orig: 116, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_192X192
+  rotate: false
+  xy: 834, 710
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_219X240
+  rotate: false
+  xy: 530, 554
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_MED2_LOTD_PRESENTS_MED2_70X97
+  rotate: false
+  xy: 2000, 1016
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_129X162
+  rotate: false
+  xy: 1287, 1099
+  size: 83, 104
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_130X168
+  rotate: false
+  xy: 426, 1059
+  size: 83, 108
+  orig: 83, 108
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_151X158
+  rotate: false
+  xy: 1564, 1030
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_159X569
+  rotate: false
+  xy: 702, 188
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_180X192
+  rotate: false
+  xy: 876, 835
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_190X129
+  rotate: false
+  xy: 1, 1027
+  size: 122, 83
+  orig: 122, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_192X192
+  rotate: false
+  xy: 959, 710
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_219X240
+  rotate: false
+  xy: 672, 554
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT1_LOTD_PRESENTS_SHORT1_70X97
+  rotate: false
+  xy: 1372, 1099
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_129X162
+  rotate: false
+  xy: 1, 1112
+  size: 83, 104
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_130X168
+  rotate: false
+  xy: 854, 1066
+  size: 83, 108
+  orig: 83, 108
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_151X158
+  rotate: false
+  xy: 1663, 1032
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_159X569
+  rotate: false
+  xy: 806, 188
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_180X192
+  rotate: false
+  xy: 993, 835
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_190X129
+  rotate: false
+  xy: 576, 1030
+  size: 122, 83
+  orig: 122, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_192X192
+  rotate: false
+  xy: 1084, 710
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_219X240
+  rotate: false
+  xy: 814, 554
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_47X46
+  rotate: false
+  xy: 991, 1342
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SHORT2_LOTD_PRESENTS_SHORT2_70X97
+  rotate: false
+  xy: 550, 1263
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_151X158
+  rotate: false
+  xy: 327, 1040
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_159X569
+  rotate: false
+  xy: 910, 188
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_176X200
+  rotate: false
+  xy: 116, 790
+  size: 113, 128
+  orig: 113, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_176X202
+  rotate: false
+  xy: 1, 789
+  size: 113, 130
+  orig: 113, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_192X192
+  rotate: false
+  xy: 1344, 760
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_219X240
+  rotate: false
+  xy: 956, 554
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_246X227
+  rotate: false
+  xy: 1222, 369
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_257X136
+  rotate: false
+  xy: 709, 835
+  size: 165, 87
+  orig: 165, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_52X61
+  rotate: false
+  xy: 1820, 247
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_69X42
+  rotate: false
+  xy: 453, 934
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_70X31
+  rotate: false
+  xy: 1634, 769
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_SUPER_LOTD_PRESENTS_SUPER_70X97
+  rotate: false
+  xy: 1808, 1267
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_104X195
+  rotate: false
+  xy: 1889, 1113
+  size: 67, 125
+  orig: 67, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_140X207
+  rotate: false
+  xy: 1738, 791
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_148X86
+  rotate: false
+  xy: 1528, 450
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_151X158
+  rotate: false
+  xy: 1188, 1044
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_159X569
+  rotate: false
+  xy: 1014, 188
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_192X192
+  rotate: false
+  xy: 1837, 775
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_219X240
+  rotate: false
+  xy: 1364, 604
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_47X46
+  rotate: false
+  xy: 163, 1343
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_70X97
+  rotate: false
+  xy: 1313, 1278
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL1_LOTD_PRESENTS_TALL1_97X192
+  rotate: false
+  xy: 629, 1115
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_104X195
+  rotate: false
+  xy: 1958, 1113
+  size: 67, 125
+  orig: 67, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_140X207
+  rotate: false
+  xy: 1110, 835
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_148X86
+  rotate: false
+  xy: 848, 1257
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_151X158
+  rotate: false
+  xy: 981, 1052
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_159X569
+  rotate: false
+  xy: 1118, 188
+  size: 102, 364
+  orig: 102, 364
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_192X192
+  rotate: false
+  xy: 255, 781
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_219X240
+  rotate: false
+  xy: 1695, 635
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_52X61
+  rotate: false
+  xy: 1820, 288
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_69X42
+  rotate: false
+  xy: 2000, 1080
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_70X31
+  rotate: false
+  xy: 648, 900
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_70X97
+  rotate: false
+  xy: 766, 1289
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_LOTD_PRESENTS_TALL2_LOTD_PRESENTS_TALL2_97X192
+  rotate: false
+  xy: 86, 1129
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_IKNODE_25
+  rotate: false
+  xy: 1344, 673
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_111X115
+  rotate: false
+  xy: 1795, 1191
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_113X113
+  rotate: false
+  xy: 450, 1188
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_114X57
+  rotate: false
+  xy: 1, 1291
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_116X111
+  rotate: false
+  xy: 1447, 1196
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_119X108
+  rotate: false
+  xy: 1599, 1220
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_120X129
+  rotate: false
+  xy: 693, 1133
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_151X177
+  rotate: false
+  xy: 1941, 900
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_162X39
+  rotate: false
+  xy: 1855, 1311
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_188X141
+  rotate: false
+  xy: 981, 960
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_189X202
+  rotate: false
+  xy: 1098, 554
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_24X20
+  rotate: false
+  xy: 2024, 1296
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_24X23
+  rotate: false
+  xy: 309, 1402
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_24X36
+  rotate: false
+  xy: 972, 1376
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_257X206
+  rotate: false
+  xy: 1810, 501
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_25X25
+  rotate: false
+  xy: 491, 1169
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_26X21
+  rotate: false
+  xy: 327, 1403
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_26X23
+  rotate: false
+  xy: 1258, 1401
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_26X31
+  rotate: false
+  xy: 1073, 1393
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_280X245
+  rotate: false
+  xy: 1639, 206
+  size: 179, 157
+  orig: 179, 157
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_28X26
+  rotate: false
+  xy: 2029, 169
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_28X29
+  rotate: false
+  xy: 1868, 1218
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_28X34
+  rotate: false
+  xy: 1334, 1376
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_28X34_2
+  rotate: false
+  xy: 1914, 1379
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_29X29
+  rotate: false
+  xy: 1500, 1269
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_30X36
+  rotate: false
+  xy: 1613, 1373
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_31X24
+  rotate: false
+  xy: 1611, 1398
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_31X38
+  rotate: false
+  xy: 2027, 1201
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_32X29
+  rotate: false
+  xy: 546, 1380
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_32X30
+  rotate: false
+  xy: 803, 1380
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_32X30_2
+  rotate: false
+  xy: 826, 1380
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_32X35
+  rotate: false
+  xy: 1937, 1338
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_35X33
+  rotate: false
+  xy: 1411, 1375
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_35X39
+  rotate: false
+  xy: 1, 1369
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_36X21
+  rotate: false
+  xy: 1287, 1083
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_36X33
+  rotate: false
+  xy: 897, 1376
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_36X35
+  rotate: false
+  xy: 1588, 1373
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_37X21
+  rotate: false
+  xy: 426, 1040
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_37X21_2
+  rotate: false
+  xy: 1994, 1395
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_38X35
+  rotate: false
+  xy: 335, 616
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_39X35
+  rotate: false
+  xy: 26, 1369
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_39X39
+  rotate: false
+  xy: 1469, 760
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_41X36
+  rotate: false
+  xy: 600, 1215
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_44X33
+  rotate: false
+  xy: 1188, 686
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_54X30
+  rotate: false
+  xy: 1114, 1347
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_55X30
+  rotate: false
+  xy: 755, 1353
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_61X80
+  rotate: false
+  xy: 939, 1066
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_67X86
+  rotate: false
+  xy: 1107, 1290
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_70X50
+  rotate: false
+  xy: 897, 1342
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_77X77
+  rotate: false
+  xy: 597, 1311
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_89X87
+  rotate: false
+  xy: 1990, 687
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_94X57
+  rotate: false
+  xy: 369, 1322
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_MEGA_PINATA_PRIZE_BIRTHDAY_MEGA_PINATA_99X101
+  rotate: false
+  xy: 463, 642
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_103X140
+  rotate: false
+  xy: 939, 1155
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_107X79
+  rotate: false
+  xy: 380, 781
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_109X144
+  rotate: false
+  xy: 150, 1129
+  size: 70, 92
+  orig: 70, 92
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_112X123
+  rotate: false
+  xy: 376, 1169
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_153X167
+  rotate: false
+  xy: 227, 1012
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_158X73
+  rotate: false
+  xy: 447, 1263
+  size: 101, 47
+  orig: 101, 47
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_34X29
+  rotate: false
+  xy: 772, 1195
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_78X82
+  rotate: false
+  xy: 511, 1059
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_81X50
+  rotate: false
+  xy: 1360, 1333
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_82X287
+  rotate: false
+  xy: 1990, 501
+  size: 53, 184
+  orig: 53, 184
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_BIRTHDAY_PINATA_PRIZE_BIRTHDAY_PINATA_98X98
+  rotate: false
+  xy: 1743, 1267
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_IKNODE_25
+  rotate: false
+  xy: 1344, 700
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_111X115
+  rotate: false
+  xy: 1156, 1202
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_113X113
+  rotate: false
+  xy: 525, 1188
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_114X57
+  rotate: false
+  xy: 678, 1294
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_116X111
+  rotate: false
+  xy: 1229, 1205
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_119X108
+  rotate: false
+  xy: 297, 1228
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_119X108_2
+  rotate: false
+  xy: 150, 1233
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_120X129
+  rotate: false
+  xy: 1562, 1133
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_134X203
+  rotate: false
+  xy: 1962, 188
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_162X39
+  rotate: false
+  xy: 813, 1314
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_188X141
+  rotate: false
+  xy: 453, 967
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_189X202
+  rotate: false
+  xy: 132, 658
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_24X20
+  rotate: false
+  xy: 578, 1405
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_24X23
+  rotate: false
+  xy: 1833, 1402
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_24X36
+  rotate: false
+  xy: 464, 1391
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_257X206
+  rotate: false
+  xy: 363, 508
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_25X25
+  rotate: false
+  xy: 1334, 1400
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_26X21
+  rotate: false
+  xy: 346, 1403
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_26X23
+  rotate: false
+  xy: 145, 1402
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_26X31
+  rotate: false
+  xy: 26, 1394
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_280X245
+  rotate: false
+  xy: 1, 365
+  size: 179, 157
+  orig: 179, 157
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_28X26
+  rotate: false
+  xy: 801, 1401
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_28X29
+  rotate: false
+  xy: 792, 1353
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_28X34
+  rotate: false
+  xy: 1813, 1384
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_28X34_2
+  rotate: false
+  xy: 1934, 1384
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_29X29
+  rotate: false
+  xy: 121, 1321
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_30X36
+  rotate: false
+  xy: 1436, 1375
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_31X24
+  rotate: false
+  xy: 1236, 1399
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_31X38
+  rotate: false
+  xy: 53, 1369
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_32X29
+  rotate: false
+  xy: 849, 1380
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_32X30
+  rotate: false
+  xy: 872, 1380
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_32X30_2
+  rotate: false
+  xy: 332, 1382
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_32X35
+  rotate: false
+  xy: 170, 1375
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_35X33
+  rotate: false
+  xy: 922, 1376
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_35X39
+  rotate: false
+  xy: 1635, 1369
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_36X21
+  rotate: false
+  xy: 1586, 1398
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_36X33
+  rotate: false
+  xy: 947, 1376
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_36X35
+  rotate: false
+  xy: 195, 1374
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_37X21
+  rotate: false
+  xy: 2020, 1395
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_37X21_2
+  rotate: false
+  xy: 45, 1396
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_38X35
+  rotate: false
+  xy: 1736, 1370
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_39X35
+  rotate: false
+  xy: 1763, 1370
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_39X39
+  rotate: false
+  xy: 600, 1188
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_41X36
+  rotate: false
+  xy: 813, 1289
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_44X33
+  rotate: false
+  xy: 337, 1338
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_54X30
+  rotate: false
+  xy: 337, 1361
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_55X30
+  rotate: false
+  xy: 374, 1361
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_61X80
+  rotate: false
+  xy: 1720, 1135
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_67X86
+  rotate: false
+  xy: 1500, 1316
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_70X50
+  rotate: false
+  xy: 944, 1342
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_77X77
+  rotate: false
+  xy: 1961, 1311
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_89X87
+  rotate: false
+  xy: 1634, 711
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_94X57
+  rotate: false
+  xy: 1152, 1322
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_MEGAPINATA_PRIZE_EGG_MEGAPINATA_99X101
+  rotate: false
+  xy: 228, 1233
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_150X172
+  rotate: false
+  xy: 1791, 1006
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_15X17
+  rotate: false
+  xy: 1625, 478
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_15X17_2
+  rotate: false
+  xy: 1625, 491
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_15X17_3
+  rotate: false
+  xy: 1977, 501
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_15X17_4
+  rotate: false
+  xy: 1977, 514
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_15X17_5
+  rotate: false
+  xy: 1977, 527
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_15X17_6
+  rotate: false
+  xy: 1977, 540
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_26X21
+  rotate: false
+  xy: 365, 1403
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_36X21
+  rotate: false
+  xy: 193, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_36X21_2
+  rotate: false
+  xy: 218, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_36X21_3
+  rotate: false
+  xy: 615, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_36X21_4
+  rotate: false
+  xy: 704, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_36X21_5
+  rotate: false
+  xy: 729, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_65X60
+  rotate: false
+  xy: 1414, 1334
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_EGG_PINATA_PRIZE_EGG_PINATA_8X22
+  rotate: false
+  xy: 2043, 354
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_IKNODE_25
+  rotate: false
+  xy: 1344, 727
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_109X109
+  rotate: false
+  xy: 375, 1250
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_111X115
+  rotate: false
+  xy: 1007, 1214
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_113X113
+  rotate: false
+  xy: 1372, 1191
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_114X57
+  rotate: false
+  xy: 294, 1299
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_116X111
+  rotate: false
+  xy: 772, 1216
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_119X108
+  rotate: false
+  xy: 600, 1240
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_120X129
+  rotate: false
+  xy: 1641, 1135
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_189X202
+  rotate: false
+  xy: 1221, 673
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_196X141
+  rotate: false
+  xy: 1441, 888
+  size: 126, 90
+  orig: 126, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_235X215
+  rotate: false
+  xy: 1837, 635
+  size: 151, 138
+  orig: 151, 138
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_24X20
+  rotate: false
+  xy: 596, 1405
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_24X23
+  rotate: false
+  xy: 1851, 1402
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_24X36
+  rotate: false
+  xy: 482, 1391
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_257X206
+  rotate: false
+  xy: 1528, 516
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_25X25
+  rotate: false
+  xy: 990, 1401
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_26X21
+  rotate: false
+  xy: 1119, 1403
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_26X23
+  rotate: false
+  xy: 271, 1402
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_26X31
+  rotate: false
+  xy: 1720, 1395
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_28X26
+  rotate: false
+  xy: 821, 1401
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_28X29
+  rotate: false
+  xy: 1354, 1392
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_28X34
+  rotate: false
+  xy: 1954, 1384
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_28X34_2
+  rotate: false
+  xy: 1974, 1384
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_292X206
+  rotate: false
+  xy: 1810, 367
+  size: 187, 132
+  orig: 187, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_29X29
+  rotate: false
+  xy: 1678, 1391
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_30X36
+  rotate: false
+  xy: 98, 1378
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_31X24
+  rotate: false
+  xy: 170, 1400
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_31X38
+  rotate: false
+  xy: 781, 1374
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_32X29
+  rotate: false
+  xy: 355, 1382
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_32X30
+  rotate: false
+  xy: 378, 1382
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_32X30_2
+  rotate: false
+  xy: 1131, 1382
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_32X35
+  rotate: false
+  xy: 1213, 1376
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_35X39
+  rotate: false
+  xy: 627, 1372
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_36X21
+  rotate: false
+  xy: 754, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_36X33
+  rotate: false
+  xy: 1236, 1376
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_36X35
+  rotate: false
+  xy: 220, 1374
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_37X21
+  rotate: false
+  xy: 1013, 1396
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_37X21_2
+  rotate: false
+  xy: 1039, 1396
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_38X35
+  rotate: false
+  xy: 652, 1372
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_39X35
+  rotate: false
+  xy: 679, 1372
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_39X39
+  rotate: false
+  xy: 1077, 1315
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_41X33
+  rotate: false
+  xy: 1560, 1373
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_41X36
+  rotate: false
+  xy: 1355, 1367
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_44X33
+  rotate: false
+  xy: 1101, 1368
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_54X30
+  rotate: false
+  xy: 1151, 1361
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_56X31
+  rotate: false
+  xy: 1523, 1196
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_61X80
+  rotate: false
+  xy: 1635, 1316
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_67X86
+  rotate: false
+  xy: 1545, 1316
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_70X50
+  rotate: false
+  xy: 1214, 1342
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_77X77
+  rotate: false
+  xy: 447, 1312
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_89X87
+  rotate: false
+  xy: 648, 842
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_MEGA_PINATA_PRIZE_HALLOWEEN_MEGA_PINATA_99X101
+  rotate: false
+  xy: 77, 1254
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_15X17
+  rotate: false
+  xy: 1977, 553
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_15X17_2
+  rotate: false
+  xy: 1977, 566
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_15X17_3
+  rotate: false
+  xy: 1977, 579
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_16X18
+  rotate: false
+  xy: 1625, 450
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_16X18_2
+  rotate: false
+  xy: 1625, 464
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_26X22
+  rotate: false
+  xy: 1138, 1403
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_33X50
+  rotate: false
+  xy: 1156, 1095
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_33X50_2
+  rotate: false
+  xy: 2027, 1109
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_33X57
+  rotate: false
+  xy: 231, 834
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_33X57_2
+  rotate: false
+  xy: 1762, 1032
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_36X21
+  rotate: false
+  xy: 895, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_36X21_2
+  rotate: false
+  xy: 920, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_36X31
+  rotate: false
+  xy: 297, 1121
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_36X42
+  rotate: false
+  xy: 1188, 1361
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_36X42_2
+  rotate: false
+  xy: 2011, 1366
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_37X21
+  rotate: false
+  xy: 1560, 1396
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_37X21_2
+  rotate: false
+  xy: 652, 1397
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_37X21_3
+  rotate: false
+  xy: 678, 1397
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_37X41
+  rotate: false
+  xy: 772, 1167
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_37X41_2
+  rotate: false
+  xy: 2024, 1240
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_42X58
+  rotate: false
+  xy: 1382, 369
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_46X44
+  rotate: false
+  xy: 259, 1343
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_46X45
+  rotate: false
+  xy: 195, 1343
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_46X60
+  rotate: false
+  xy: 1962, 320
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_49X46
+  rotate: false
+  xy: 499, 934
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_49X47
+  rotate: false
+  xy: 1791, 967
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_54X33
+  rotate: false
+  xy: 342, 906
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_581X565
+  rotate: false
+  xy: 1, 1
+  size: 372, 362
+  orig: 372, 362
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_61X26
+  rotate: false
+  xy: 1999, 481
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_61X44
+  rotate: false
+  xy: 939, 1119
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_61X57
+  rotate: false
+  xy: 1458, 1334
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_63X34
+  rotate: false
+  xy: 1098, 686
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_65X61
+  rotate: false
+  xy: 293, 1338
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_66X60
+  rotate: false
+  xy: 1849, 1338
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_77X53
+  rotate: false
+  xy: 1569, 888
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_79X57
+  rotate: false
+  xy: 649, 1333
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_88X56
+  rotate: false
+  xy: 945, 1247
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_HALLOWEEN_PINATA_PRIZE_HALLOWEEN_PINATA_8X22
+  rotate: false
+  xy: 2043, 370
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_IKNODE_25
+  rotate: false
+  xy: 1868, 1191
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_111X115
+  rotate: false
+  xy: 1080, 1214
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_113X113
+  rotate: false
+  xy: 1720, 1191
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_114X57
+  rotate: false
+  xy: 143, 1304
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_116X111
+  rotate: false
+  xy: 1, 1218
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_119X108
+  rotate: false
+  xy: 1868, 1240
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_120X129
+  rotate: false
+  xy: 297, 1143
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_162X39
+  rotate: false
+  xy: 919, 1315
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_188X141
+  rotate: false
+  xy: 1441, 980
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_189X202
+  rotate: false
+  xy: 463, 710
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_24X20
+  rotate: false
+  xy: 1777, 1405
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_24X23
+  rotate: false
+  xy: 71, 1403
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_24X36
+  rotate: false
+  xy: 1101, 1391
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_257X206
+  rotate: false
+  xy: 1, 524
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_25X25
+  rotate: false
+  xy: 1197, 1401
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_26X21
+  rotate: false
+  xy: 1157, 1403
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_26X23
+  rotate: false
+  xy: 290, 1402
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_26X31
+  rotate: false
+  xy: 1739, 1395
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_280X245
+  rotate: false
+  xy: 182, 365
+  size: 179, 157
+  orig: 179, 157
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_28X26
+  rotate: false
+  xy: 841, 1401
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_28X29
+  rotate: false
+  xy: 1374, 1392
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_28X34
+  rotate: false
+  xy: 401, 1385
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_28X34_2
+  rotate: false
+  xy: 421, 1385
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_29X29
+  rotate: false
+  xy: 1699, 1391
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_30X36
+  rotate: false
+  xy: 1872, 1379
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_31X24
+  rotate: false
+  xy: 540, 1401
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_31X38
+  rotate: false
+  xy: 991, 1374
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_32X29
+  rotate: false
+  xy: 1154, 1382
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_32X30
+  rotate: false
+  xy: 569, 1384
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_32X30_2
+  rotate: false
+  xy: 592, 1384
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_32X35
+  rotate: false
+  xy: 1261, 1376
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_35X33
+  rotate: false
+  xy: 1284, 1376
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_35X39
+  rotate: false
+  xy: 706, 1372
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_36X21
+  rotate: false
+  xy: 945, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_36X33
+  rotate: false
+  xy: 1309, 1376
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_36X35
+  rotate: false
+  xy: 731, 1374
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_37X21
+  rotate: false
+  xy: 119, 1398
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_37X21_2
+  rotate: false
+  xy: 245, 1398
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_38X35
+  rotate: false
+  xy: 121, 1373
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_39X35
+  rotate: false
+  xy: 259, 1373
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_39X39
+  rotate: false
+  xy: 448, 1364
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_41X36
+  rotate: false
+  xy: 1383, 1367
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_44X33
+  rotate: false
+  xy: 1676, 1368
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_54X30
+  rotate: false
+  xy: 590, 1363
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_55X30
+  rotate: false
+  xy: 1937, 1363
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_61X80
+  rotate: false
+  xy: 549, 1327
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_67X86
+  rotate: false
+  xy: 1590, 1316
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_70X50
+  rotate: false
+  xy: 1261, 1342
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_77X77
+  rotate: false
+  xy: 1025, 1315
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_89X87
+  rotate: false
+  xy: 576, 967
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_94X57
+  rotate: false
+  xy: 1, 1330
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_MEGA_PINATA_PRIZE_MEGA_PINATA_99X101
+  rotate: false
+  xy: 1369, 1266
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_15X17
+  rotate: false
+  xy: 1364, 589
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_15X17_2
+  rotate: false
+  xy: 1977, 592
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_15X17_3
+  rotate: false
+  xy: 1977, 605
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_15X17_4
+  rotate: false
+  xy: 1977, 618
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_15X17_5
+  rotate: false
+  xy: 1695, 622
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_15X17_6
+  rotate: false
+  xy: 1707, 622
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_26X21
+  rotate: false
+  xy: 1914, 1403
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_33X50
+  rotate: false
+  xy: 772, 1133
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_33X57
+  rotate: false
+  xy: 1287, 1044
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_33X57_2
+  rotate: false
+  xy: 1080, 1052
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_34X50
+  rotate: false
+  xy: 1762, 1071
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X21
+  rotate: false
+  xy: 1284, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X21_2
+  rotate: false
+  xy: 1509, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X21_3
+  rotate: false
+  xy: 1534, 1399
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X21_4
+  rotate: false
+  xy: 1309, 1400
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X21_5
+  rotate: false
+  xy: 1420, 1400
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X31
+  rotate: false
+  xy: 649, 1311
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X42
+  rotate: false
+  xy: 1023, 1367
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_36X42_2
+  rotate: false
+  xy: 1048, 1367
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_37X41
+  rotate: false
+  xy: 2024, 1268
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_37X41_2
+  rotate: false
+  xy: 502, 1364
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_42X58
+  rotate: false
+  xy: 1382, 408
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_46X45
+  rotate: false
+  xy: 227, 1343
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_46X60
+  rotate: false
+  xy: 1791, 926
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_49X46
+  rotate: false
+  xy: 2013, 1311
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_55X33
+  rotate: false
+  xy: 2013, 1343
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_61X26
+  rotate: false
+  xy: 450, 1169
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_61X57
+  rotate: false
+  xy: 856, 1341
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_62X44
+  rotate: false
+  xy: 121, 1343
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_63X33
+  rotate: false
+  xy: 376, 1143
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_64X57
+  rotate: false
+  xy: 813, 1341
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_65X60
+  rotate: false
+  xy: 1893, 1338
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_77X51
+  rotate: false
+  xy: 1676, 1333
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_79X57
+  rotate: false
+  xy: 702, 1333
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_89X56
+  rotate: false
+  xy: 1743, 1332
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_PRIZE_PINATA_8X22
+  rotate: false
+  xy: 2043, 386
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_101X26
+  rotate: false
+  xy: 1962, 169
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_10X10
+  rotate: false
+  xy: 363, 365
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_22X24
+  rotate: false
+  xy: 1888, 1404
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_22X45
+  rotate: false
+  xy: 2031, 134
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_23X37
+  rotate: false
+  xy: 1364, 517
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_249X35
+  rotate: false
+  xy: 945, 1290
+  size: 160, 23
+  orig: 160, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_29X66
+  rotate: false
+  xy: 1506, 604
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_30X42
+  rotate: false
+  xy: 2027, 1143
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_30X43
+  rotate: false
+  xy: 1321, 805
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_30X76
+  rotate: false
+  xy: 335, 524
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_32X32
+  rotate: false
+  xy: 286, 1379
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_32X32_2
+  rotate: false
+  xy: 309, 1379
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_32X32_3
+  rotate: false
+  xy: 1849, 1379
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_33X60
+  rotate: false
+  xy: 335, 575
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_35X37
+  rotate: false
+  xy: 1510, 1373
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_8X23
+  rotate: false
+  xy: 2043, 320
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_92X191
+  rotate: false
+  xy: 1501, 1072
+  size: 59, 122
+  orig: 59, 122
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_PINATA_SUMMER_PRIZE_PINATA_SUMMER_97X96
+  rotate: false
+  xy: 1249, 1278
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_104X259
+  rotate: false
+  xy: 1962, 1
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_10X10
+  rotate: false
+  xy: 2040, 481
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_110X171
+  rotate: false
+  xy: 224, 1121
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_114X185
+  rotate: false
+  xy: 255, 658
+  size: 73, 119
+  orig: 73, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_147X66
+  rotate: false
+  xy: 1153, 1278
+  size: 94, 42
+  orig: 94, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_184X176
+  rotate: false
+  xy: 1321, 885
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_186X82
+  rotate: false
+  xy: 1156, 1147
+  size: 119, 53
+  orig: 119, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_18X31
+  rotate: false
+  xy: 2036, 745
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_1X1
+  rotate: false
+  xy: 2031, 165
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_1X1_2
+  rotate: false
+  xy: 2034, 165
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_22X24
+  rotate: false
+  xy: 562, 1405
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_23X37
+  rotate: false
+  xy: 1364, 543
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_23X49
+  rotate: false
+  xy: 2031, 100
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_242X141
+  rotate: false
+  xy: 380, 842
+  size: 155, 90
+  orig: 155, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_242X151
+  rotate: false
+  xy: 1469, 789
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_249X35
+  rotate: false
+  xy: 1500, 1291
+  size: 160, 23
+  orig: 160, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_24X151
+  rotate: false
+  xy: 2031, 1
+  size: 16, 97
+  orig: 16, 97
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_263X232
+  rotate: false
+  xy: 1639, 365
+  size: 169, 149
+  orig: 169, 149
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_271X204
+  rotate: false
+  xy: 363, 375
+  size: 174, 131
+  orig: 174, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_28X28
+  rotate: false
+  xy: 1321, 865
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_28X28_2
+  rotate: false
+  xy: 1, 1396
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_28X28_3
+  rotate: false
+  xy: 1634, 1396
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_296X279
+  rotate: false
+  xy: 1222, 188
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_29X44
+  rotate: false
+  xy: 1321, 835
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_29X66
+  rotate: false
+  xy: 231, 790
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_30X42
+  rotate: false
+  xy: 2027, 1172
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_30X43
+  rotate: false
+  xy: 231, 873
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_336X317
+  rotate: false
+  xy: 1641, 1
+  size: 215, 203
+  orig: 215, 203
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_35X37
+  rotate: false
+  xy: 1535, 1373
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_61X61
+  rotate: false
+  xy: 1677, 1220
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_65X148
+  rotate: false
+  xy: 1999, 320
+  size: 42, 95
+  orig: 42, 95
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_75X78
+  rotate: false
+  xy: 499, 1312
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_87X167
+  rotate: false
+  xy: 539, 375
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_87X87
+  rotate: false
+  xy: 539, 484
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_8X23
+  rotate: false
+  xy: 2043, 337
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_91X92
+  rotate: false
+  xy: 1634, 650
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_SUMMER_MEGA_PINATA_PRIZE_SUMMER_MEGA_PINATA_97X110
+  rotate: false
+  xy: 1305, 1205
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_IKNODE_25
+  rotate: false
+  xy: 528, 1364
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_111X115
+  rotate: false
+  xy: 693, 1218
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_114X57
+  rotate: false
+  xy: 218, 1304
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_116X111
+  rotate: false
+  xy: 1523, 1218
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_119X108
+  rotate: false
+  xy: 1946, 1240
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_189X202
+  rotate: false
+  xy: 586, 710
+  size: 121, 130
+  orig: 121, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_24X20
+  rotate: false
+  xy: 1795, 1408
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_24X23
+  rotate: false
+  xy: 89, 1403
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_24X36
+  rotate: false
+  xy: 1660, 1391
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_257X206
+  rotate: false
+  xy: 168, 524
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_25X25
+  rotate: false
+  xy: 1215, 1401
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_26X21
+  rotate: false
+  xy: 1869, 1404
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_26X31
+  rotate: false
+  xy: 1758, 1395
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_28X26
+  rotate: false
+  xy: 861, 1401
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_28X34
+  rotate: false
+  xy: 1177, 1390
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_29X29
+  rotate: false
+  xy: 500, 1392
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_30X36
+  rotate: false
+  xy: 1893, 1379
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_31X24
+  rotate: false
+  xy: 779, 1401
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_31X38
+  rotate: false
+  xy: 148, 1375
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_32X30
+  rotate: false
+  xy: 1790, 1384
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_32X35
+  rotate: false
+  xy: 75, 1378
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_345X289
+  rotate: false
+  xy: 375, 188
+  size: 221, 185
+  orig: 221, 185
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_35X39
+  rotate: false
+  xy: 1458, 1373
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_36X21
+  rotate: false
+  xy: 1445, 1400
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_36X35
+  rotate: false
+  xy: 756, 1374
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_37X21
+  rotate: false
+  xy: 1394, 1398
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_37X21_2
+  rotate: false
+  xy: 1483, 1398
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_38X35
+  rotate: false
+  xy: 1483, 1373
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_39X39
+  rotate: false
+  xy: 475, 1364
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_41X36
+  rotate: false
+  xy: 1073, 1368
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_44X33
+  rotate: false
+  xy: 1706, 1368
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_54X30
+  rotate: false
+  xy: 1974, 1363
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_55X30
+  rotate: false
+  xy: 411, 1364
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_61X80
+  rotate: false
+  xy: 1808, 1331
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_67X86
+  rotate: false
+  xy: 76, 1321
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_70X50
+  rotate: false
+  xy: 1308, 1342
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_89X87
+  rotate: false
+  xy: 1007, 1155
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_MEGA_PINATA_PRIZE_VALENTINES_MEGA_PINATA_99X101
+  rotate: false
+  xy: 1677, 1266
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_PINATA_PRIZE_VALENTINES_PINATA_112X123
+  rotate: false
+  xy: 854, 1176
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_PINATA_PRIZE_VALENTINES_PINATA_196X213
+  rotate: false
+  xy: 335, 642
+  size: 126, 137
+  orig: 126, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_PINATA_PRIZE_VALENTINES_PINATA_196X213_2
+  rotate: false
+  xy: 1506, 650
+  size: 126, 137
+  orig: 126, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_PINATA_PRIZE_VALENTINES_PINATA_201X201
+  rotate: false
+  xy: 1, 658
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_PINATA_PRIZE_VALENTINES_PINATA_32X28
+  rotate: false
+  xy: 441, 1391
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_PINATA_PRIZE_VALENTINES_PINATA_82X287
+  rotate: false
+  xy: 799, 1030
+  size: 53, 184
+  orig: 53, 184
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PRIZE_VALENTINES_PINATA_PRIZE_VALENTINES_PINATA_98X98
+  rotate: false
+  xy: 1435, 1269
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESSIVE_PINATA_FOOTER_BDAY
+  rotate: false
+  xy: 1414, 188
+  size: 223, 129
+  orig: 223, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESSIVE_PINATA_FOOTER_SUMMER
+  rotate: false
+  xy: 1414, 319
+  size: 223, 129
+  orig: 223, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_BIRTHDAY_MEGAPINATA
+  rotate: false
+  xy: 537, 842
+  size: 109, 123
+  orig: 109, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_BIRTHDAY_PINATA
+  rotate: false
+  xy: 1830, 900
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_EGG_MEGAPINATA
+  rotate: false
+  xy: 231, 906
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_EGG_PINATA
+  rotate: false
+  xy: 116, 920
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_HALLOWEEN_MEGAPINATA
+  rotate: false
+  xy: 1, 921
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_HALLOWEEN_PINATA
+  rotate: false
+  xy: 648, 924
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_MEGAPINATA
+  rotate: false
+  xy: 759, 924
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_MEGAPRESENT
+  rotate: false
+  xy: 1569, 924
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_METER
+  rotate: false
+  xy: 1820, 329
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_METER_MEGABKGD
+  rotate: false
+  xy: 1382, 450
+  size: 144, 152
+  orig: 144, 152
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_PINATA
+  rotate: false
+  xy: 1680, 926
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_PRESENT
+  rotate: false
+  xy: 342, 934
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_SUMMER_MEGAPINATA
+  rotate: false
+  xy: 1202, 938
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_SUMMER_PINATA
+  rotate: false
+  xy: 870, 960
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_VALENTINES_MEGAPINATA
+  rotate: false
+  xy: 1889, 1016
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+IMAGE_UI_LEVELOFTHEDAY_PROGRESS_VALENTINES_PRESENT
+  rotate: false
+  xy: 1313, 1000
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,187 @@
+ZOMBIEBOBSLEDCREWGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_135X8
+  rotate: false
+  xy: 1, 162
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_16X34
+  rotate: false
+  xy: 118, 160
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_17X38
+  rotate: false
+  xy: 42, 169
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_17X52
+  rotate: false
+  xy: 1, 169
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_18X42
+  rotate: false
+  xy: 28, 169
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_19X44
+  rotate: false
+  xy: 14, 169
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_19X50
+  rotate: false
+  xy: 112, 103
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_19X61
+  rotate: false
+  xy: 109, 1
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_20X44
+  rotate: false
+  xy: 28, 95
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_27X39
+  rotate: false
+  xy: 106, 76
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_31X31
+  rotate: false
+  xy: 96, 160
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_33X42
+  rotate: false
+  xy: 106, 47
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_37X50
+  rotate: false
+  xy: 80, 78
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_39X32
+  rotate: false
+  xy: 96, 137
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_39X35
+  rotate: false
+  xy: 69, 137
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_39X45
+  rotate: false
+  xy: 1, 95
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_46X32
+  rotate: false
+  xy: 37, 128
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_47X35
+  rotate: false
+  xy: 80, 112
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_47X74
+  rotate: false
+  xy: 48, 78
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_52X31
+  rotate: false
+  xy: 1, 126
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_6X6
+  rotate: false
+  xy: 123, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_70X71
+  rotate: false
+  xy: 1, 47
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_79X69
+  rotate: false
+  xy: 56, 1
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_7X7
+  rotate: false
+  xy: 69, 128
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_82X69
+  rotate: false
+  xy: 1, 1
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_BOBSLED_CREW_ZOMBIE_BOBSLED_CREW_87X45
+  rotate: false
+  xy: 48, 47
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1

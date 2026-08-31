@@ -21,6 +21,7 @@ public class AppController {
     private boolean inGame = false;
     private boolean inMiniGame = false; // آیا نشست فعلی یک مینی‌گیم است (نه مرحله‌ی عادی)
     private String activeMiniGameName = null;
+    private int activeMiniGameLevel = 1;
     private boolean isRunning = true; // فلگ کنترل حلقه
 
     private int activeChapter = 1;
@@ -101,26 +102,27 @@ public class AppController {
             view.printError("ابتدا باید وارد حساب کاربری شوید.");
             return;
         }
+        if (!model.game.ChapterPlan.isValidChapter(chapter) || !model.game.ChapterPlan.isValidLevel(level)) {
+            view.printError("شماره‌ی فصل یا مرحله نامعتبر است.");
+            return;
+        }
 
         this.activeChapter = chapter;
         this.activeLevel = level;
 
-        // مپ کردن شماره فصل به محیط بازی (مصر، غارها، ساحل، تاریکی)
-        model.game.Season season = model.game.Season.NORMAL;
-        if (chapter == 1) season = model.game.Season.ANCIENT_EGYPT;
-        else if (chapter == 2) season = model.game.Season.FROSTBITE_CAVES;
-        else if (chapter == 3) season = model.game.Season.BIG_WAVE_BEACH;
-        else if (chapter == 4) season = model.game.Season.DARK_AGES;
+        // فصل بازی (Season) و نوع مرحله (LevelMode) از منبع واحد ChapterPlan خوانده می‌شود
+        // تا کنسول و گرافیک دقیقاً یک رفتار داشته باشند.
+        model.game.Season season = model.game.ChapterPlan.seasonFor(chapter);
+        model.levelrules.LevelMode mode = model.game.ChapterPlan.levelModeFor(chapter, level);
+        int totalWaves = model.game.ChapterPlan.totalWavesFor(chapter, level);
+        double baseWaveCost = model.game.ChapterPlan.baseWaveCostFor(chapter, level);
 
-        // مپ کردن مراحل ویژه (مثال: مرحله ۲ نوار نقاله، مرحله ۳ جنگ زمان‌دار)
-        model.levelrules.LevelMode mode = model.levelrules.LevelMode.NORMAL;
-        if (level == 2) mode = model.levelrules.LevelMode.CONVEYOR_BELT;
-        else if (level == 3) mode = model.levelrules.LevelMode.TIMED_WAR;
-
-        // ساخت سشن با متغیرهای دینامیک
-        activeSession = new model.game.GameSession(user, 5, season, mode);
+        // ساخت سشن با متغیرهای دینامیک؛ هر مرحله‌ی بعدی در همان فصل (تعداد موج و
+        // هزینه‌ی موج اول بیشتر) سخت‌تر از مرحله‌ی قبلی است.
+        activeSession = new model.game.GameSession(user, totalWaves, baseWaveCost, season, mode);
         inGame = true;
-        view.printMessage("بازی شروع شد! [فصل " + chapter + " | مرحله " + level + " | " + season + "]");
+        view.printMessage("بازی شروع شد! [فصل " + model.game.ChapterPlan.displayName(chapter)
+                + " | مرحله " + level + " | " + mode + "]");
     }
 
     /**
@@ -135,6 +137,10 @@ public class AppController {
         User user = menuController.getLoggedInUser();
         if (user == null) {
             view.printError("ابتدا باید وارد حساب کاربری شوید.");
+            return;
+        }
+        if (!user.isMiniGameLevelUnlocked(name.toLowerCase(), level)) {
+            view.printError("سطح " + level + " هنوز قفل است. ابتدا باید سطح قبلی این مینی‌گیم را ببرید.");
             return;
         }
 
@@ -158,6 +164,7 @@ public class AppController {
         }
 
         this.activeMiniGameName = name.toLowerCase();
+        this.activeMiniGameLevel = level;
         this.activeSession = session;
         this.inGame = true;
         this.inMiniGame = true;
@@ -180,13 +187,20 @@ public class AppController {
                 user.getQuestContext().setStagesCompleted(user.getLevelsCompleted());
                 user.getQuestManager().refreshCompletionStatus(user.getQuestContext());
 
-                // ثبت پیشرفت دقیق در پروفایل کاربر (ارتقای مرحله و فصل)
-                if (activeChapter > user.getLastCompletedChapter() || 
-                (activeChapter == user.getLastCompletedChapter() && activeLevel > user.getLastCompletedLevel())) {
-                    
+                if (activeChapter == model.game.ChapterPlan.BEGINNER_CHAPTER) {
+                    // فصل Beginner پیشرفت جداگانه‌ای دارد و روی lastCompletedChapter اثر نمی‌گذارد
+                    if (activeLevel > user.getBeginnerLastCompletedLevel()) {
+                        user.setBeginnerLastCompletedLevel(activeLevel);
+                    }
+                    if (activeLevel >= model.game.ChapterPlan.LEVELS_PER_CHAPTER) {
+                        view.printMessage("🏆 تبریک! شما فصل Beginner را با موفقیت به پایان رساندید!");
+                    }
+                } else if (activeChapter > user.getLastCompletedChapter() ||
+                        (activeChapter == user.getLastCompletedChapter() && activeLevel > user.getLastCompletedLevel())) {
+
                     user.setLastCompletedLevel(activeLevel);
                     // اگر ۴ مرحله یک فصل تمام شد، فصل جدید باز می‌شود
-                    if (activeLevel >= 4) { 
+                    if (activeLevel >= model.game.ChapterPlan.LEVELS_PER_CHAPTER) {
                         user.setLastCompletedChapter(activeChapter);
                         user.setLastCompletedLevel(0); // ریست برای شروع فصل جدید
                         view.printMessage("🏆 تبریک! شما فصل " + activeChapter + " را با موفقیت به پایان رساندید!");
@@ -213,7 +227,11 @@ public class AppController {
         if (user != null && activeSession != null) {
             if (activeSession.isWon()) {
                 user.setMiniGamesCompleted(user.getMiniGamesCompleted() + 1);
-                view.printMessage("🏆 مینی‌گیم " + activeMiniGameName + " با موفقیت تمام شد!");
+                user.recordMiniGameLevelWon(activeMiniGameName, activeMiniGameLevel);
+                view.printMessage("🏆 مینی‌گیم " + activeMiniGameName + " (سطح " + activeMiniGameLevel + ") با موفقیت تمام شد!");
+                if (activeMiniGameLevel < 3) {
+                    view.printMessage("سطح " + (activeMiniGameLevel + 1) + " اکنون باز شد.");
+                }
             } else {
                 view.printMessage("مینی‌گیم " + activeMiniGameName + " را باختید.");
             }

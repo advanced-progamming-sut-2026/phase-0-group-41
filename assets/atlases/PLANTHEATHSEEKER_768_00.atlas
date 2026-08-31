@@ -1,0 +1,565 @@
+PLANTHEATHSEEKER_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_137X122
+  rotate: false
+  xy: 340, 1
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_144X56
+  rotate: false
+  xy: 227, 149
+  size: 92, 36
+  orig: 92, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_144X56_2
+  rotate: false
+  xy: 145, 187
+  size: 92, 36
+  orig: 92, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_36X41
+  rotate: false
+  xy: 262, 286
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_51X15
+  rotate: false
+  xy: 324, 307
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_55X19
+  rotate: false
+  xy: 287, 305
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_55X24
+  rotate: false
+  xy: 223, 292
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_66X81
+  rotate: false
+  xy: 358, 197
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_83X96
+  rotate: false
+  xy: 239, 187
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HEATHSEEKER_PROJECTILE_93X88
+  rotate: false
+  xy: 83, 133
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HIT_HEATHSEEKER_PROJECTILE_HIT_115X39
+  rotate: false
+  xy: 145, 158
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HIT_HEATHSEEKER_PROJECTILE_HIT_15X26
+  rotate: false
+  xy: 501, 1
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HIT_HEATHSEEKER_PROJECTILE_HIT_43X40
+  rotate: false
+  xy: 451, 286
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HIT_HEATHSEEKER_PROJECTILE_HIT_60X18
+  rotate: false
+  xy: 1, 294
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HEATHSEEKER_PROJECTILE_HIT_HEATHSEEKER_PROJECTILE_HIT_9X12
+  rotate: false
+  xy: 506, 87
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_100X42
+  rotate: false
+  xy: 125, 225
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_105X65
+  rotate: false
+  xy: 56, 192
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_107X136
+  rotate: false
+  xy: 430, 1
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_111X75
+  rotate: false
+  xy: 410, 147
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_115X83
+  rotate: false
+  xy: 334, 142
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_11X8
+  rotate: false
+  xy: 242, 135
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_122X89
+  rotate: false
+  xy: 147, 99
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_124X84
+  rotate: false
+  xy: 1, 133
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_125X90
+  rotate: false
+  xy: 252, 89
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_125X92
+  rotate: false
+  xy: 340, 81
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_127X85
+  rotate: false
+  xy: 422, 90
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_134X134
+  rotate: false
+  xy: 252, 1
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_14X9
+  rotate: false
+  xy: 294, 187
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_15X13
+  rotate: false
+  xy: 321, 161
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_15X16
+  rotate: false
+  xy: 501, 75
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_15X17
+  rotate: false
+  xy: 501, 36
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_15X17_2
+  rotate: false
+  xy: 501, 49
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_15X17_3
+  rotate: false
+  xy: 501, 62
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_161X150
+  rotate: false
+  xy: 147, 1
+  size: 103, 96
+  orig: 103, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_16X12
+  rotate: false
+  xy: 321, 183
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_16X14
+  rotate: false
+  xy: 321, 172
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_16X15
+  rotate: false
+  xy: 321, 149
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_16X22
+  rotate: false
+  xy: 501, 20
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_18X26
+  rotate: false
+  xy: 100, 262
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_20X16
+  rotate: false
+  xy: 227, 135
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_225X202
+  rotate: false
+  xy: 1, 1
+  size: 144, 130
+  orig: 144, 130
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_22X50
+  rotate: false
+  xy: 370, 289
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_24X48
+  rotate: false
+  xy: 125, 192
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_24X48_2
+  rotate: false
+  xy: 490, 245
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_25X42
+  rotate: false
+  xy: 137, 291
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_27X30
+  rotate: false
+  xy: 420, 305
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_30X33
+  rotate: false
+  xy: 197, 303
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_32X25
+  rotate: false
+  xy: 155, 306
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_34X52
+  rotate: false
+  xy: 227, 99
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_36X56
+  rotate: false
+  xy: 401, 267
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_36X56_2
+  rotate: false
+  xy: 426, 267
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_36X56_3
+  rotate: false
+  xy: 172, 268
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_37X51
+  rotate: false
+  xy: 197, 268
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_38X54
+  rotate: false
+  xy: 145, 254
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_39X63
+  rotate: false
+  xy: 483, 147
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_42X25
+  rotate: false
+  xy: 481, 304
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_44X51
+  rotate: false
+  xy: 262, 251
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_44X51_2
+  rotate: false
+  xy: 115, 254
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_45X47
+  rotate: false
+  xy: 37, 262
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_46X25
+  rotate: false
+  xy: 481, 286
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_46X44
+  rotate: false
+  xy: 68, 262
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_50X19
+  rotate: false
+  xy: 386, 305
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_50X39
+  rotate: false
+  xy: 292, 278
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_51X62
+  rotate: false
+  xy: 330, 251
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_51X64
+  rotate: false
+  xy: 191, 225
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_52X53
+  rotate: false
+  xy: 1, 253
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_52X56
+  rotate: false
+  xy: 365, 251
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_52X60
+  rotate: false
+  xy: 294, 237
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_52X60_2
+  rotate: false
+  xy: 454, 245
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_52X60_3
+  rotate: false
+  xy: 226, 251
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_55X28
+  rotate: false
+  xy: 100, 289
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_58X19
+  rotate: false
+  xy: 42, 294
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_65X18
+  rotate: false
+  xy: 326, 293
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_70X71
+  rotate: false
+  xy: 463, 197
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_78X47
+  rotate: false
+  xy: 402, 235
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_83X96
+  rotate: false
+  xy: 1, 189
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_89X37
+  rotate: false
+  xy: 56, 236
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_92X56
+  rotate: false
+  xy: 402, 197
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_96X59
+  rotate: false
+  xy: 294, 197
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HEATHSEEKER_HEATHSEEKER_9X10
+  rotate: false
+  xy: 506, 97
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,110 @@
+UI_ALMANAC_STATICONS_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_ALMANAC_ALMANAC_STAT_BACKGROUND
+  rotate: false
+  xy: 1, 583
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_ARMINGTIME
+  rotate: false
+  xy: 455, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_ARMINGTIME_LARGE
+  rotate: false
+  xy: 1, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_FAMILY
+  rotate: false
+  xy: 455, 51
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_FAMILY_LARGE
+  rotate: false
+  xy: 195, 1
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_PLANTFOOD
+  rotate: false
+  xy: 455, 101
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_PLANTFOOD_LARGE
+  rotate: false
+  xy: 1, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SPECIAL
+  rotate: false
+  xy: 389, 133
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SPECIAL_LARGE
+  rotate: false
+  xy: 195, 195
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST
+  rotate: false
+  xy: 439, 151
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNCOST_LARGE
+  rotate: false
+  xy: 1, 389
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNPRODUCTION
+  rotate: false
+  xy: 389, 201
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_ICON_SUNPRODUCTION_LARGE
+  rotate: false
+  xy: 195, 389
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_SEGMENT_FRAME_1
+  rotate: false
+  xy: 389, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_ALMANAC_STAT_SEGMENT_FRAME_2
+  rotate: false
+  xy: 389, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

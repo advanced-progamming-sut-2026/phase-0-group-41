@@ -1,0 +1,243 @@
+ZOMBIESPORTZBALLIMPGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_105X108
+  rotate: false
+  xy: 179, 106
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_105X108_2
+  rotate: false
+  xy: 105, 177
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_112X107
+  rotate: false
+  xy: 105, 106
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_12X26
+  rotate: false
+  xy: 237, 249
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_12X27
+  rotate: false
+  xy: 194, 249
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_13X22
+  rotate: false
+  xy: 73, 256
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_13X24
+  rotate: false
+  xy: 204, 249
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_14X11
+  rotate: false
+  xy: 229, 216
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_14X24
+  rotate: false
+  xy: 215, 249
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_14X25
+  rotate: false
+  xy: 226, 249
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_158X160
+  rotate: false
+  xy: 1, 1
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_158X160_2
+  rotate: false
+  xy: 104, 1
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_159X142
+  rotate: false
+  xy: 1, 106
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_15X24
+  rotate: false
+  xy: 89, 216
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_15X24_2
+  rotate: false
+  xy: 182, 249
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_15X27
+  rotate: false
+  xy: 245, 198
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_167X8
+  rotate: false
+  xy: 73, 249
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_17X23
+  rotate: false
+  xy: 89, 199
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_18X14
+  rotate: false
+  xy: 236, 91
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_19X15
+  rotate: false
+  xy: 222, 91
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_20X20
+  rotate: false
+  xy: 207, 91
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_21X25
+  rotate: false
+  xy: 229, 198
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_30X30
+  rotate: false
+  xy: 229, 177
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_52X29
+  rotate: false
+  xy: 37, 240
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_52X32
+  rotate: false
+  xy: 218, 226
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_52X32_2
+  rotate: false
+  xy: 1, 236
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_57X60
+  rotate: false
+  xy: 50, 199
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_66X33
+  rotate: false
+  xy: 174, 226
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_6X6
+  rotate: false
+  xy: 250, 98
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_70X71
+  rotate: false
+  xy: 207, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_71X62
+  rotate: false
+  xy: 207, 49
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_73X54
+  rotate: false
+  xy: 1, 199
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_7X7
+  rotate: false
+  xy: 250, 91
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SPORTZBALL_IMP_ZOMBIE_SPORTZBALL_IMP_82X73
+  rotate: false
+  xy: 174, 177
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1

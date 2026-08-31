@@ -87,6 +87,11 @@ public class WallnutBowlingSession extends MiniGameSession {
         return conveyorBelt;
     }
 
+    /** لیست گردوهای در حال غلتیدن روی زمین؛ برای رسم گرافیکی استفاده می‌شود. */
+    public List<RollingNut> getActiveNuts() {
+        return activeNuts;
+    }
+
     // متد کاشت گردو از روی نوار نقاله
     public PlantNutResult plantNut(String typeStr, int row, int col) {
         if (row < 0 || row >= Board.ROWS || col < 0 || col >= Board.COLS) {

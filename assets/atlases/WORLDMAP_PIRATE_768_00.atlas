@@ -1,0 +1,131 @@
+WORLDMAP_PIRATE_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_PIRATE_ISLAND11
+  rotate: false
+  xy: 1581, 1
+  size: 335, 762
+  orig: 335, 762
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND13
+  rotate: false
+  xy: 765, 1020
+  size: 514, 254
+  orig: 514, 254
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND14
+  rotate: false
+  xy: 1, 795
+  size: 446, 365
+  orig: 446, 365
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND15
+  rotate: false
+  xy: 449, 1020
+  size: 314, 465
+  orig: 314, 465
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND16
+  rotate: false
+  xy: 1986, 1
+  size: 57, 161
+  orig: 57, 161
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND17
+  rotate: false
+  xy: 1918, 1
+  size: 66, 228
+  orig: 66, 228
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND18
+  rotate: false
+  xy: 1783, 962
+  size: 158, 252
+  orig: 158, 252
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND19
+  rotate: false
+  xy: 1, 1162
+  size: 321, 251
+  orig: 321, 251
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND22
+  rotate: false
+  xy: 1, 1
+  size: 733, 792
+  orig: 733, 792
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND23
+  rotate: false
+  xy: 736, 1
+  size: 843, 620
+  orig: 843, 620
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND24
+  rotate: false
+  xy: 1281, 1273
+  size: 524, 183
+  orig: 524, 183
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND25
+  rotate: false
+  xy: 736, 623
+  size: 608, 395
+  orig: 608, 395
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND3
+  rotate: false
+  xy: 1783, 765
+  size: 215, 195
+  orig: 215, 195
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND4
+  rotate: false
+  xy: 449, 795
+  size: 201, 183
+  orig: 201, 183
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND5
+  rotate: false
+  xy: 1346, 623
+  size: 153, 130
+  orig: 153, 130
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND7
+  rotate: false
+  xy: 1918, 231
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_PIRATE_ISLAND8
+  rotate: false
+  xy: 1807, 1216
+  size: 141, 99
+  orig: 141, 99
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ZOMBOSS_NODE_PIRATE_ZOMBOSS_NODE_PIRATE_680X791
+  rotate: false
+  xy: 1346, 765
+  size: 435, 506
+  orig: 435, 506
+  offset: 0, 0
+  index: -1

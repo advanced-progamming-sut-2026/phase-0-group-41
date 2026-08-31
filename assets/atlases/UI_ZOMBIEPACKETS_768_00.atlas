@@ -1,0 +1,1706 @@
+UI_ZOMBIEPACKETS_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BARRELROLLER
+  rotate: false
+  xy: 528, 769
+  size: 92, 101
+  orig: 92, 101
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH
+  rotate: false
+  xy: 1980, 413
+  size: 67, 121
+  orig: 67, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_ARMOR1
+  rotate: false
+  xy: 1253, 766
+  size: 69, 136
+  orig: 69, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_ARMOR2
+  rotate: false
+  xy: 1, 695
+  size: 70, 137
+  orig: 70, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_FEM
+  rotate: false
+  xy: 809, 762
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_FEM_ARMOR1
+  rotate: false
+  xy: 79, 672
+  size: 71, 137
+  orig: 71, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_FEM_ARMOR2
+  rotate: false
+  xy: 1772, 663
+  size: 72, 137
+  orig: 72, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_FISHERMAN
+  rotate: false
+  xy: 722, 650
+  size: 92, 110
+  orig: 92, 110
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_FLAG
+  rotate: false
+  xy: 1708, 140
+  size: 91, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_GARGANTUAR
+  rotate: false
+  xy: 545, 1
+  size: 97, 136
+  orig: 97, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_IMP
+  rotate: false
+  xy: 1855, 1106
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_OCTOPUS
+  rotate: false
+  xy: 1895, 274
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_SNORKEL
+  rotate: false
+  xy: 1, 160
+  size: 90, 136
+  orig: 90, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_BEACH_SURFER
+  rotate: false
+  xy: 1131, 140
+  size: 92, 135
+  orig: 92, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CAKETANK
+  rotate: false
+  xy: 738, 141
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CAKETANKFEASTIVUS
+  rotate: false
+  xy: 523, 405
+  size: 90, 126
+  orig: 90, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CAMEL_ALMANAC
+  rotate: false
+  xy: 370, 995
+  size: 69, 119
+  orig: 69, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CANNON
+  rotate: false
+  xy: 1177, 1125
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE
+  rotate: false
+  xy: 640, 1128
+  size: 66, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_ARMOR1
+  rotate: false
+  xy: 1652, 1025
+  size: 63, 120
+  orig: 63, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_ARMOR2
+  rotate: false
+  xy: 303, 991
+  size: 65, 127
+  orig: 65, 127
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_ARMOR4
+  rotate: false
+  xy: 1201, 1014
+  size: 73, 109
+  orig: 73, 109
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_CANNON
+  rotate: false
+  xy: 137, 1028
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_DOVE
+  rotate: false
+  xy: 2006, 46
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_FIREBREATHER
+  rotate: false
+  xy: 1276, 1016
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_FLAG
+  rotate: false
+  xy: 1599, 540
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_GARGANTUAR
+  rotate: false
+  xy: 1128, 277
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_IMP
+  rotate: false
+  xy: 636, 1229
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_IMP_SPLIT
+  rotate: false
+  xy: 769, 1234
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_IMP_TWINS
+  rotate: false
+  xy: 1177, 1203
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_MAGICIAN
+  rotate: false
+  xy: 295, 1120
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_MONKEY
+  rotate: false
+  xy: 277, 291
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CARNIE_STILTWALKER
+  rotate: false
+  xy: 993, 655
+  size: 72, 138
+  orig: 72, 138
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CATAPULT
+  rotate: false
+  xy: 1035, 140
+  size: 94, 133
+  orig: 94, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CHICKEN
+  rotate: false
+  xy: 2006, 1
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_CHICKEN_FARMER
+  rotate: false
+  xy: 1806, 900
+  size: 75, 114
+  orig: 75, 114
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_COWBOY
+  rotate: false
+  xy: 743, 1104
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_COWBOY_ARMOR1
+  rotate: false
+  xy: 507, 1000
+  size: 65, 124
+  orig: 65, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_COWBOY_ARMOR2
+  rotate: false
+  xy: 1058, 893
+  size: 71, 121
+  orig: 71, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_COWBOY_ARMOR4
+  rotate: false
+  xy: 1608, 404
+  size: 85, 134
+  orig: 85, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_COWBOY_FLAG
+  rotate: false
+  xy: 639, 268
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_COWBOY_FLAG_VETERAN
+  rotate: false
+  xy: 826, 278
+  size: 94, 124
+  orig: 94, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_COWBOY_GARGANTUAR
+  rotate: false
+  xy: 749, 1
+  size: 94, 138
+  orig: 94, 138
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK
+  rotate: false
+  xy: 1553, 1129
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_ARMOR1
+  rotate: false
+  xy: 238, 910
+  size: 63, 132
+  orig: 63, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_ARMOR2
+  rotate: false
+  xy: 885, 804
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_ARMOR3
+  rotate: false
+  xy: 69, 1024
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_ARMOR4
+  rotate: false
+  xy: 910, 666
+  size: 72, 136
+  orig: 72, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_FLAG
+  rotate: false
+  xy: 1891, 409
+  size: 87, 126
+  orig: 87, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_FLAG_VETERAN
+  rotate: false
+  xy: 1791, 412
+  size: 87, 126
+  orig: 87, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_GARGANTUAR
+  rotate: false
+  xy: 545, 139
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_IMP
+  rotate: false
+  xy: 418, 1231
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_IMP_DRAGON
+  rotate: false
+  xy: 1617, 1147
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_JUGGLER
+  rotate: false
+  xy: 164, 910
+  size: 72, 116
+  orig: 72, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_KING
+  rotate: false
+  xy: 1086, 538
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_WIZARD
+  rotate: false
+  xy: 1454, 642
+  size: 87, 117
+  orig: 87, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DARK_WIZARD_VETERAN
+  rotate: false
+  xy: 1683, 648
+  size: 87, 117
+  orig: 87, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO
+  rotate: false
+  xy: 1842, 1190
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_ARMOR1
+  rotate: false
+  xy: 1, 1066
+  size: 59, 126
+  orig: 59, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_ARMOR2
+  rotate: false
+  xy: 232, 1044
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_ARMOR3
+  rotate: false
+  xy: 677, 999
+  size: 64, 127
+  orig: 64, 127
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_ARMOR4
+  rotate: false
+  xy: 370, 1116
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_BULLY
+  rotate: false
+  xy: 1442, 761
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_BULLY_VETERAN
+  rotate: false
+  xy: 1402, 867
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_FLAG
+  rotate: false
+  xy: 1880, 537
+  size: 80, 131
+  orig: 80, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_FLAG_VETERAN
+  rotate: false
+  xy: 1520, 1
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_GARGANTUAR
+  rotate: false
+  xy: 1502, 526
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DINO_IMP
+  rotate: false
+  xy: 1485, 1223
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DISCO_MECH
+  rotate: false
+  xy: 1536, 775
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DUCKYTUBE
+  rotate: false
+  xy: 549, 533
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DUCKYTUBE_ARMOR1
+  rotate: false
+  xy: 1587, 999
+  size: 63, 128
+  orig: 63, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_DUCKYTUBE_ARMOR2
+  rotate: false
+  xy: 1901, 886
+  size: 71, 123
+  orig: 71, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EGYPT_GARGANTUAR
+  rotate: false
+  xy: 845, 1
+  size: 94, 138
+  orig: 94, 138
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EGYPT_IMP
+  rotate: false
+  xy: 881, 1164
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES
+  rotate: false
+  xy: 1730, 802
+  size: 74, 121
+  orig: 74, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_8BIT
+  rotate: false
+  xy: 90, 905
+  size: 72, 117
+  orig: 72, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_ARCADE
+  rotate: false
+  xy: 1290, 407
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_ARMOR1
+  rotate: false
+  xy: 528, 872
+  size: 70, 126
+  orig: 70, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_ARMOR2
+  rotate: false
+  xy: 1974, 886
+  size: 72, 121
+  orig: 72, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_BOOMBOX
+  rotate: false
+  xy: 186, 428
+  size: 83, 131
+  orig: 83, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_BREAKDANCER
+  rotate: false
+  xy: 1284, 531
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_FLAG
+  rotate: false
+  xy: 1, 431
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_GARGANTUAR
+  rotate: false
+  xy: 1319, 140
+  size: 94, 132
+  orig: 94, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_GLITTER
+  rotate: false
+  xy: 1173, 654
+  size: 78, 128
+  orig: 78, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_IMP
+  rotate: false
+  xy: 976, 1043
+  size: 49, 77
+  orig: 49, 77
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_MC
+  rotate: false
+  xy: 1324, 778
+  size: 76, 121
+  orig: 76, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EIGHTIES_PUNK
+  rotate: false
+  xy: 89, 539
+  size: 79, 131
+  orig: 79, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EXPLORER
+  rotate: false
+  xy: 709, 530
+  size: 91, 118
+  orig: 91, 118
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_EXPLORER_VETERAN
+  rotate: false
+  xy: 1502, 405
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FOOTBALL_MECH
+  rotate: false
+  xy: 1348, 670
+  size: 92, 106
+  orig: 92, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE
+  rotate: false
+  xy: 1690, 1150
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_ARMOR1
+  rotate: false
+  xy: 1030, 1016
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_ARMOR2
+  rotate: false
+  xy: 1131, 1005
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_ARMOR4
+  rotate: false
+  xy: 1846, 670
+  size: 75, 130
+  orig: 75, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_FLAG
+  rotate: false
+  xy: 324, 282
+  size: 86, 135
+  orig: 86, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_FLAG_VETERAN
+  rotate: false
+  xy: 1695, 405
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_GARGANTUAR
+  rotate: false
+  xy: 644, 1
+  size: 103, 126
+  orig: 103, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_IMP
+  rotate: false
+  xy: 198, 1168
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_JETPACK
+  rotate: false
+  xy: 443, 767
+  size: 83, 113
+  orig: 83, 113
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_JETPACK_DISCO
+  rotate: false
+  xy: 1195, 528
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_JETPACK_VETERAN
+  rotate: false
+  xy: 1695, 526
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_FUTURE_PROTECTOR
+  rotate: false
+  xy: 1427, 1117
+  size: 56, 124
+  orig: 56, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_GENERAL_CAESAR_PHASE3
+  rotate: false
+  xy: 1987, 274
+  size: 61, 137
+  orig: 61, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_GENERAL_TREADMILL_PHASE3
+  rotate: false
+  xy: 1035, 275
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_GENERAL_ZMECH_PHASE3
+  rotate: false
+  xy: 229, 157
+  size: 93, 132
+  orig: 93, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_GUIDE
+  rotate: false
+  xy: 1, 1
+  size: 112, 157
+  orig: 112, 157
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE
+  rotate: false
+  xy: 349, 768
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_ARMOR1
+  rotate: false
+  xy: 1372, 536
+  size: 80, 132
+  orig: 80, 132
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_ARMOR2
+  rotate: false
+  xy: 271, 542
+  size: 80, 128
+  orig: 80, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_ARMOR3
+  rotate: false
+  xy: 637, 650
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_DODO
+  rotate: false
+  xy: 1801, 276
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_FLAG
+  rotate: false
+  xy: 1038, 1
+  size: 94, 137
+  orig: 94, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_GARGANTUAR
+  rotate: false
+  xy: 1720, 1
+  size: 93, 137
+  orig: 93, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_HUNTER
+  rotate: false
+  xy: 1253, 657
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_IMP
+  rotate: false
+  xy: 708, 1220
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_TROGLOBITE
+  rotate: false
+  xy: 836, 141
+  size: 91, 135
+  orig: 91, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_WEASEL
+  rotate: false
+  xy: 277, 348
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ICEAGE_WEASELHOARDER
+  rotate: false
+  xy: 1630, 873
+  size: 71, 124
+  orig: 71, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_IMPPEAR_IMP
+  rotate: false
+  xy: 2006, 129
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_INNER_AREA_GUIDE
+  rotate: false
+  xy: 1134, 1
+  size: 94, 137
+  orig: 94, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY
+  rotate: false
+  xy: 263, 672
+  size: 84, 115
+  orig: 84, 115
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_ARMOR1
+  rotate: false
+  xy: 1815, 1
+  size: 93, 137
+  orig: 93, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_ARMOR2
+  rotate: false
+  xy: 1422, 1
+  size: 96, 134
+  orig: 96, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_BUG
+  rotate: false
+  xy: 732, 271
+  size: 92, 131
+  orig: 92, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_CRYSTALSKULL
+  rotate: false
+  xy: 600, 901
+  size: 75, 114
+  orig: 75, 114
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_EXCAVATOR
+  rotate: false
+  xy: 432, 882
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_FLAG
+  rotate: false
+  xy: 442, 1
+  size: 101, 137
+  orig: 101, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_GARGANTUAR
+  rotate: false
+  xy: 941, 1
+  size: 95, 136
+  orig: 95, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_IMP
+  rotate: false
+  xy: 1243, 1233
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_IMPPORTER
+  rotate: false
+  xy: 802, 537
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_JANE
+  rotate: false
+  xy: 1910, 138
+  size: 94, 134
+  orig: 94, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_LOSTPILOT
+  rotate: false
+  xy: 911, 530
+  size: 80, 134
+  orig: 80, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LOSTCITY_RELICHUNTER
+  rotate: false
+  xy: 1304, 904
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LUNAR
+  rotate: false
+  xy: 506, 1126
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LUNAR_ARMOR1
+  rotate: false
+  xy: 1974, 1009
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LUNAR_ARMOR2
+  rotate: false
+  xy: 1455, 986
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LUNAR_CAMEL_SEGMENT
+  rotate: false
+  xy: 622, 774
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LUNAR_FLAG
+  rotate: false
+  xy: 1019, 407
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_LUNAR_SUPERFANIMP
+  rotate: false
+  xy: 844, 931
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MECH_CONE
+  rotate: false
+  xy: 549, 649
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MODERN_ALLSTAR
+  rotate: false
+  xy: 369, 533
+  size: 91, 117
+  orig: 91, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MODERN_BALLOON
+  rotate: false
+  xy: 958, 922
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MODERN_NEWSPAPER
+  rotate: false
+  xy: 1496, 877
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MODERN_SUPERFANIMP
+  rotate: false
+  xy: 810, 1142
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MUMMY
+  rotate: false
+  xy: 440, 1125
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MUMMY_ARMOR1
+  rotate: false
+  xy: 441, 995
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MUMMY_ARMOR2
+  rotate: false
+  xy: 574, 1017
+  size: 64, 120
+  orig: 64, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MUMMY_ARMOR4
+  rotate: false
+  xy: 772, 891
+  size: 70, 123
+  orig: 70, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MUMMY_FLAG
+  rotate: false
+  xy: 189, 291
+  size: 86, 135
+  orig: 86, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_MUMMY_FLAG_VETERAN
+  rotate: false
+  xy: 1413, 276
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_NEWSPAPER_VETERAN
+  rotate: false
+  xy: 1543, 668
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_NUTCRACKER
+  rotate: false
+  xy: 1223, 904
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PELICAN
+  rotate: false
+  xy: 353, 652
+  size: 88, 114
+  orig: 88, 114
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PHARAOH
+  rotate: false
+  xy: 93, 292
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIANO
+  rotate: false
+  xy: 1222, 277
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE
+  rotate: false
+  xy: 571, 1139
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_ARMOR1
+  rotate: false
+  xy: 1790, 1016
+  size: 63, 122
+  orig: 63, 122
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_ARMOR2
+  rotate: false
+  xy: 911, 1043
+  size: 63, 119
+  orig: 63, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_ARMOR4
+  rotate: false
+  xy: 1148, 883
+  size: 73, 120
+  orig: 73, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_BARREL
+  rotate: false
+  xy: 1040, 1207
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_CAPTAIN
+  rotate: false
+  xy: 1923, 672
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_CAPTAIN_PARROT
+  rotate: false
+  xy: 819, 1234
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_FLAG
+  rotate: false
+  xy: 1086, 654
+  size: 85, 118
+  orig: 85, 118
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_FLAG_VETERAN
+  rotate: false
+  xy: 911, 413
+  size: 95, 115
+  orig: 95, 115
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_GARGANTUAR
+  rotate: false
+  xy: 1230, 1
+  size: 94, 137
+  orig: 94, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PIRATE_IMP
+  rotate: false
+  xy: 474, 1232
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PONCHO
+  rotate: false
+  xy: 305, 885
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_PROSPECTOR
+  rotate: false
+  xy: 722, 762
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_RA
+  rotate: false
+  xy: 1638, 767
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_RAINCOAT
+  rotate: false
+  xy: 1195, 407
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_READY
+  rotate: false
+  xy: 115, 1
+  size: 112, 157
+  orig: 112, 157
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN
+  rotate: false
+  xy: 90, 811
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_ARMOR1
+  rotate: false
+  xy: 1947, 1138
+  size: 56, 113
+  orig: 56, 113
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_ARMOR2
+  rotate: false
+  xy: 137, 1111
+  size: 59, 124
+  orig: 59, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_ARMOR3
+  rotate: false
+  xy: 1276, 1115
+  size: 63, 116
+  orig: 63, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_ARMOR4
+  rotate: false
+  xy: 976, 1150
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_BALLISTA
+  rotate: false
+  xy: 1, 298
+  size: 88, 131
+  orig: 88, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_FLAG
+  rotate: false
+  xy: 644, 129
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_GARGANTUAR
+  rotate: false
+  xy: 152, 675
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_HEALER
+  rotate: false
+  xy: 1091, 1125
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_IMP
+  rotate: false
+  xy: 354, 1221
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_MEDUSA
+  rotate: false
+  xy: 632, 404
+  size: 93, 124
+  orig: 93, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ROMAN_SHIELD_ALMANAC
+  rotate: false
+  xy: 984, 795
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SEAGULL
+  rotate: false
+  xy: 1, 559
+  size: 76, 134
+  orig: 76, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SELECTED
+  rotate: false
+  xy: 229, 1
+  size: 110, 154
+  orig: 110, 154
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING
+  rotate: false
+  xy: 1, 938
+  size: 66, 126
+  orig: 66, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_ARMOR1
+  rotate: false
+  xy: 1521, 986
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_ARMOR2
+  rotate: false
+  xy: 698, 875
+  size: 72, 122
+  orig: 72, 122
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_FLAG
+  rotate: false
+  xy: 1520, 129
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_GARGANTUAR
+  rotate: false
+  xy: 1624, 1
+  size: 94, 136
+  orig: 94, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_IMP
+  rotate: false
+  xy: 1341, 1198
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_ONEHUMP
+  rotate: false
+  xy: 152, 777
+  size: 73, 126
+  orig: 73, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_PONCHO
+  rotate: false
+  xy: 170, 561
+  size: 91, 112
+  orig: 91, 112
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SPRING_WIZARD
+  rotate: false
+  xy: 1608, 277
+  size: 94, 125
+  orig: 94, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SUMMER_ARMOR1
+  rotate: false
+  xy: 341, 145
+  size: 91, 135
+  orig: 91, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SUMMER_ARMOR2
+  rotate: false
+  xy: 1319, 274
+  size: 92, 131
+  orig: 92, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SUMMER_BASIC
+  rotate: false
+  xy: 993, 538
+  size: 91, 115
+  orig: 91, 115
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SUMMER_BUG
+  rotate: false
+  xy: 93, 160
+  size: 94, 130
+  orig: 94, 130
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SUMMER_FLAG
+  rotate: false
+  xy: 727, 404
+  size: 93, 124
+  orig: 93, 124
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SUMMER_GARGANTUAR
+  rotate: false
+  xy: 1910, 1
+  size: 94, 135
+  orig: 94, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SUMMER_IMP
+  rotate: false
+  xy: 1067, 774
+  size: 79, 117
+  orig: 79, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_SWASHBUCKLER
+  rotate: false
+  xy: 227, 789
+  size: 76, 119
+  orig: 76, 119
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TOMB_RAISER
+  rotate: false
+  xy: 836, 1037
+  size: 73, 103
+  orig: 73, 103
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TREASUREYETI
+  rotate: false
+  xy: 1516, 268
+  size: 90, 135
+  orig: 90, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL
+  rotate: false
+  xy: 62, 1141
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL_ARMOR1
+  rotate: false
+  xy: 1717, 1025
+  size: 61, 123
+  orig: 61, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL_ARMOR2
+  rotate: false
+  xy: 1383, 965
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL_ARMOR4
+  rotate: false
+  xy: 1358, 1085
+  size: 67, 111
+  orig: 67, 111
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL_FLAG
+  rotate: false
+  xy: 434, 278
+  size: 87, 135
+  orig: 87, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL_FLAG_VETERAN
+  rotate: false
+  xy: 536, 277
+  size: 94, 126
+  orig: 94, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL_GARGANTUAR
+  rotate: false
+  xy: 1801, 140
+  size: 92, 134
+  orig: 92, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_TUTORIAL_IMP
+  rotate: false
+  xy: 1119, 1207
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_VASE_GARGANTUAR
+  rotate: false
+  xy: 941, 139
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_WEST_BULL
+  rotate: false
+  xy: 615, 530
+  size: 92, 117
+  orig: 92, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_WEST_BULLRIDER
+  rotate: false
+  xy: 1, 1194
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_WEST_BULL_VETERAN
+  rotate: false
+  xy: 1148, 784
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP
+  rotate: false
+  xy: 1703, 925
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_ARMOR1
+  rotate: false
+  xy: 462, 533
+  size: 85, 125
+  orig: 85, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_ARMOR2
+  rotate: false
+  xy: 1787, 540
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_CONSULTANT
+  rotate: false
+  xy: 1780, 1140
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_FEM
+  rotate: false
+  xy: 1, 834
+  size: 87, 102
+  orig: 87, 102
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_FEM_ARMOR1
+  rotate: false
+  xy: 822, 404
+  size: 87, 131
+  orig: 87, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_FEM_ARMOR2
+  rotate: false
+  xy: 1413, 405
+  size: 87, 129
+  orig: 87, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_FLAG
+  rotate: false
+  xy: 1107, 407
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_GARGANTUAR
+  rotate: false
+  xy: 743, 1016
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_HELPDESK
+  rotate: false
+  xy: 277, 419
+  size: 90, 121
+  orig: 90, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_IMP
+  rotate: false
+  xy: 1883, 1011
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZCORP_RACER_CHAIR
+  rotate: false
+  xy: 443, 660
+  size: 94, 105
+  orig: 94, 105
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBIE_BOBSLED_CREW
+  rotate: false
+  xy: 1485, 1117
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBIE_BOBSLED_TEAM
+  rotate: false
+  xy: 1806, 802
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBONI
+  rotate: false
+  xy: 1704, 278
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_BEACH
+  rotate: false
+  xy: 1923, 786
+  size: 93, 98
+  orig: 93, 98
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_CIRCUS
+  rotate: false
+  xy: 1422, 137
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_COWBOY
+  rotate: false
+  xy: 1614, 139
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_DARK
+  rotate: false
+  xy: 929, 277
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_DINO
+  rotate: false
+  xy: 816, 650
+  size: 92, 110
+  orig: 92, 110
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_EGYPT
+  rotate: false
+  xy: 1225, 140
+  size: 92, 135
+  orig: 92, 135
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_EIGHTIES
+  rotate: false
+  xy: 1962, 537
+  size: 78, 133
+  orig: 78, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_FUTURE
+  rotate: false
+  xy: 442, 140
+  size: 92, 136
+  orig: 92, 136
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_ICEAGE
+  rotate: false
+  xy: 91, 420
+  size: 93, 117
+  orig: 93, 117
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_LOSTCITY
+  rotate: false
+  xy: 412, 415
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_PIRATE
+  rotate: false
+  xy: 341, 1
+  size: 99, 142
+  orig: 99, 142
+  offset: 0, 0
+  index: -1
+IMAGE_UI_ALMANAC_PACKETS_ZOMBIES_ZOMBOSSMECH_ROMAN
+  rotate: false
+  xy: 1326, 1
+  size: 94, 137
+  orig: 94, 137
+  offset: 0, 0
+  index: -1

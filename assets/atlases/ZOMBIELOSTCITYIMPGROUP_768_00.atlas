@@ -1,0 +1,194 @@
+ZOMBIELOSTCITYIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_101X75
+  rotate: false
+  xy: 1, 1
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_14X11
+  rotate: false
+  xy: 1, 130
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_15X23
+  rotate: false
+  xy: 25, 146
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_15X24
+  rotate: false
+  xy: 110, 139
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_15X24_2
+  rotate: false
+  xy: 1, 146
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_15X29
+  rotate: false
+  xy: 49, 69
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_167X8
+  rotate: false
+  xy: 1, 139
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_16X24
+  rotate: false
+  xy: 13, 146
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_17X23
+  rotate: false
+  xy: 115, 95
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_18X13
+  rotate: false
+  xy: 52, 146
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_18X25
+  rotate: false
+  xy: 115, 44
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_19X24
+  rotate: false
+  xy: 114, 62
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_19X28
+  rotate: false
+  xy: 115, 24
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_19X32
+  rotate: false
+  xy: 115, 1
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_20X13
+  rotate: false
+  xy: 37, 146
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_20X20
+  rotate: false
+  xy: 114, 80
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_21X25
+  rotate: false
+  xy: 49, 51
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_30X30
+  rotate: false
+  xy: 94, 95
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_52X29
+  rotate: false
+  xy: 50, 118
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_52X29_2
+  rotate: false
+  xy: 86, 118
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_66X33
+  rotate: false
+  xy: 50, 95
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_69X69
+  rotate: false
+  xy: 68, 49
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_6X6
+  rotate: false
+  xy: 61, 69
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_70X71
+  rotate: false
+  xy: 68, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_71X62
+  rotate: false
+  xy: 1, 51
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_73X54
+  rotate: false
+  xy: 1, 93
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_IMP_ZOMBIE_LOSTCITY_IMP_7X7
+  rotate: false
+  xy: 122, 112
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

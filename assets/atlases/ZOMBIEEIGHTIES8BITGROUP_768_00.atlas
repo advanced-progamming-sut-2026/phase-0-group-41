@@ -1,0 +1,222 @@
+ZOMBIEEIGHTIES8BITGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_102X108
+  rotate: false
+  xy: 1, 1
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_135X8
+  rotate: false
+  xy: 130, 201
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_22X39
+  rotate: false
+  xy: 115, 72
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_28X45
+  rotate: false
+  xy: 52, 187
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_28X56
+  rotate: false
+  xy: 236, 160
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_28X56_2
+  rotate: false
+  xy: 1, 163
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_28X68
+  rotate: false
+  xy: 236, 114
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_33X39
+  rotate: false
+  xy: 205, 174
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_33X45
+  rotate: false
+  xy: 32, 125
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_33X50
+  rotate: false
+  xy: 89, 122
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_39X28
+  rotate: false
+  xy: 103, 196
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_39X51
+  rotate: false
+  xy: 162, 121
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_45X28
+  rotate: false
+  xy: 72, 194
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_45X33
+  rotate: false
+  xy: 174, 174
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_45X33_2
+  rotate: false
+  xy: 21, 187
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_45X45
+  rotate: false
+  xy: 143, 169
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_45X50
+  rotate: false
+  xy: 74, 160
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_45X56
+  rotate: false
+  xy: 58, 122
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_45X56_2
+  rotate: false
+  xy: 1, 125
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_56X39
+  rotate: false
+  xy: 105, 169
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_62X39
+  rotate: false
+  xy: 32, 160
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_68X91
+  rotate: false
+  xy: 190, 114
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_6X6
+  rotate: false
+  xy: 250, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_70X71
+  rotate: false
+  xy: 115, 121
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_85X74
+  rotate: false
+  xy: 58, 72
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_85X79
+  rotate: false
+  xy: 1, 72
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_85X91
+  rotate: false
+  xy: 193, 1
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_85X91_2
+  rotate: false
+  xy: 133, 61
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_91X91
+  rotate: false
+  xy: 133, 1
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_92X79
+  rotate: false
+  xy: 190, 61
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_80S_8BIT_ZOMBIE_80S_8BIT_96X108
+  rotate: false
+  xy: 69, 1
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1

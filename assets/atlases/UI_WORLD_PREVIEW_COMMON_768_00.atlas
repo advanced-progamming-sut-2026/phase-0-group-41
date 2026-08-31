@@ -1,0 +1,12 @@
+UI_WORLD_PREVIEW_COMMON_768_00.PNG
+size: 64, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_WORLD_PREVIEW_COMMON_WORLDKEY
+  rotate: false
+  xy: 1, 1
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1

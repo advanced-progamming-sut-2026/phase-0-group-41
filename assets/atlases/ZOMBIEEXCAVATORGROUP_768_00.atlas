@@ -1,0 +1,257 @@
+ZOMBIEEXCAVATORGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_104X77
+  rotate: false
+  xy: 144, 1
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_135X8
+  rotate: false
+  xy: 48, 123
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_159X69
+  rotate: false
+  xy: 1, 1
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_16X16
+  rotate: false
+  xy: 245, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_18X17
+  rotate: false
+  xy: 154, 116
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_22X36
+  rotate: false
+  xy: 64, 130
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_22X43
+  rotate: false
+  xy: 1, 115
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_22X49
+  rotate: false
+  xy: 169, 96
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_22X49_2
+  rotate: false
+  xy: 185, 96
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_23X41
+  rotate: false
+  xy: 137, 116
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_24X21
+  rotate: false
+  xy: 118, 104
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_24X49
+  rotate: false
+  xy: 30, 93
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_24X58
+  rotate: false
+  xy: 235, 85
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_28X32
+  rotate: false
+  xy: 225, 124
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_28X32_2
+  rotate: false
+  xy: 17, 127
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_29X37
+  rotate: false
+  xy: 69, 95
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_29X40
+  rotate: false
+  xy: 48, 95
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_30X21
+  rotate: false
+  xy: 105, 130
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_31X62
+  rotate: false
+  xy: 213, 46
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_32X56
+  rotate: false
+  xy: 235, 47
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_34X28
+  rotate: false
+  xy: 201, 113
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_35X20
+  rotate: false
+  xy: 80, 130
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_36X36
+  rotate: false
+  xy: 206, 88
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_36X45
+  rotate: false
+  xy: 144, 85
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_37X46
+  rotate: false
+  xy: 144, 53
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_38X23
+  rotate: false
+  xy: 37, 130
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_40X26
+  rotate: false
+  xy: 90, 104
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_42X31
+  rotate: false
+  xy: 1, 93
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_47X67
+  rotate: false
+  xy: 213, 1
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_52X31
+  rotate: false
+  xy: 170, 74
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_56X30
+  rotate: false
+  xy: 170, 53
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_57X158
+  rotate: false
+  xy: 105, 1
+  size: 37, 101
+  orig: 37, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_6X6
+  rotate: false
+  xy: 245, 20
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_70X71
+  rotate: false
+  xy: 54, 47
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_79X69
+  rotate: false
+  xy: 1, 47
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_EXCAVATOR_ZOMBIE_LOSTCITY_EXCAVATOR_7X7
+  rotate: false
+  xy: 245, 13
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

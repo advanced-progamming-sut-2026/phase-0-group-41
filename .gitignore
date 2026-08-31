@@ -1,0 +1,53 @@
+# ==================== Gradle ====================
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# ==================== Java ====================
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+hs_err_pid*
+replay_pid*
+
+# ==================== IDEs ====================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# ==================== OS ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==================== پروژه ====================
+# فایل ذخیره‌سازی کاربران (داده‌ی اجرا، نباید در گیت باشد؛ هر کاربر نسخه‌ی
+# محلی خودش را می‌سازد و اگر لازم شد نمونه‌اش را جدا با نام دیگری کامیت کنید)
+pvz_users.dat
+*.dat
+
+# لاگ‌ها
+*.log
+
+# فایل‌های موقت ادیتور
+*~
+*.swp

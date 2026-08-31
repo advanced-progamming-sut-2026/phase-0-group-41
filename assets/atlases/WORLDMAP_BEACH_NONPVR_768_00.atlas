@@ -1,0 +1,1832 @@
+WORLDMAP_BEACH_NONPVR_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_BEACH_ANIM10_ANIM10_295X271
+  rotate: false
+  xy: 389, 819
+  size: 189, 174
+  orig: 189, 174
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM10_ANIM10_52X20
+  rotate: false
+  xy: 864, 1195
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM10_ANIM10_68X25
+  rotate: false
+  xy: 1364, 689
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM11_ANIM11_28X29
+  rotate: false
+  xy: 1418, 553
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM11_ANIM11_297X281
+  rotate: false
+  xy: 825, 646
+  size: 190, 180
+  orig: 190, 180
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM11_ANIM11_37X35
+  rotate: false
+  xy: 1684, 1008
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM11_ANIM11_39X14
+  rotate: false
+  xy: 933, 1204
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM11_ANIM11_68X25
+  rotate: false
+  xy: 715, 983
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM12_ANIM12_23X14
+  rotate: false
+  xy: 666, 1198
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM12_ANIM12_27X23
+  rotate: false
+  xy: 733, 1192
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM12_ANIM12_335X420
+  rotate: false
+  xy: 1, 613
+  size: 215, 269
+  orig: 215, 269
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM12_ANIM12_61X41
+  rotate: false
+  xy: 825, 613
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM12_ANIM12_68X25
+  rotate: false
+  xy: 761, 983
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM13_ANIM13_16X51
+  rotate: false
+  xy: 2037, 212
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM13_ANIM13_30X41
+  rotate: false
+  xy: 1658, 1176
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM13_ANIM13_397X399
+  rotate: false
+  xy: 1106, 316
+  size: 254, 256
+  orig: 254, 256
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM13_ANIM13_68X25
+  rotate: false
+  xy: 1070, 1100
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM14_ANIM14_17X27
+  rotate: false
+  xy: 1422, 343
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM14_ANIM14_17X38
+  rotate: false
+  xy: 1422, 316
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM14_ANIM14_358X512
+  rotate: false
+  xy: 875, 316
+  size: 229, 328
+  orig: 229, 328
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM14_ANIM14_36X9
+  rotate: false
+  xy: 1668, 863
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM14_ANIM14_68X25
+  rotate: false
+  xy: 1116, 1100
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM15_ANIM15_13X28
+  rotate: false
+  xy: 1422, 414
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM15_ANIM15_325X443
+  rotate: false
+  xy: 1106, 574
+  size: 208, 284
+  orig: 208, 284
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM15_ANIM15_46X30
+  rotate: false
+  xy: 1522, 1187
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM15_ANIM15_68X25
+  rotate: false
+  xy: 1162, 1100
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM16_ANIM16_17X17
+  rotate: false
+  xy: 1422, 471
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM16_ANIM16_20X10
+  rotate: false
+  xy: 1422, 523
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM16_ANIM16_339X318
+  rotate: false
+  xy: 389, 613
+  size: 217, 204
+  orig: 217, 204
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM16_ANIM16_36X25
+  rotate: false
+  xy: 1410, 689
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM16_ANIM16_68X25
+  rotate: false
+  xy: 1259, 1173
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM17_ANIM17_14X38
+  rotate: false
+  xy: 2037, 272
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM17_ANIM17_16X36
+  rotate: false
+  xy: 2037, 247
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM17_ANIM17_23X12
+  rotate: false
+  xy: 704, 1207
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM17_ANIM17_321X255
+  rotate: false
+  xy: 608, 818
+  size: 206, 163
+  orig: 206, 163
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM17_ANIM17_68X25
+  rotate: false
+  xy: 888, 1177
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM18_ANIM18_235X126
+  rotate: false
+  xy: 343, 995
+  size: 151, 81
+  orig: 151, 81
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM18_ANIM18_235X86
+  rotate: false
+  xy: 149, 1070
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM18_ANIM18_238X56
+  rotate: false
+  xy: 1070, 1118
+  size: 153, 36
+  orig: 153, 36
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM18_ANIM18_239X57
+  rotate: false
+  xy: 754, 1114
+  size: 153, 37
+  orig: 153, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM19_ANIM19_138X63
+  rotate: false
+  xy: 205, 1127
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM19_ANIM19_207X104
+  rotate: false
+  xy: 1221, 1049
+  size: 133, 67
+  orig: 133, 67
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM19_ANIM19_207X146
+  rotate: false
+  xy: 580, 983
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM19_ANIM19_211X93
+  rotate: false
+  xy: 302, 1078
+  size: 135, 60
+  orig: 135, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM19_ANIM19_44X84
+  rotate: false
+  xy: 183, 884
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM19_ANIM19_73X49
+  rotate: false
+  xy: 684, 1173
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM1_ANIM1_128X77
+  rotate: false
+  xy: 488, 1117
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM1_ANIM1_131X54
+  rotate: false
+  xy: 1110, 1156
+  size: 84, 35
+  orig: 84, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM1_ANIM1_164X93
+  rotate: false
+  xy: 578, 1079
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM1_ANIM1_169X59
+  rotate: false
+  xy: 1, 1124
+  size: 108, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM1_ANIM1_178X53
+  rotate: false
+  xy: 1902, 583
+  size: 114, 34
+  orig: 114, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM1_ANIM1_283X291
+  rotate: false
+  xy: 1826, 800
+  size: 181, 186
+  orig: 181, 186
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM20_ANIM20_228X92
+  rotate: false
+  xy: 1, 1063
+  size: 146, 59
+  orig: 146, 59
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM20_ANIM20_233X105
+  rotate: false
+  xy: 1070, 1031
+  size: 149, 67
+  orig: 149, 67
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM20_ANIM20_233X132
+  rotate: false
+  xy: 1, 976
+  size: 149, 85
+  orig: 149, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM20_ANIM20_235X121
+  rotate: false
+  xy: 715, 1006
+  size: 151, 78
+  orig: 151, 78
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_104X132
+  rotate: false
+  xy: 685, 1086
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_112X133
+  rotate: false
+  xy: 1913, 1080
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_118X168
+  rotate: false
+  xy: 1489, 1077
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_11X21
+  rotate: false
+  xy: 2037, 299
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_124X274
+  rotate: false
+  xy: 1017, 646
+  size: 80, 176
+  orig: 80, 176
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_1362X953
+  rotate: false
+  xy: 1, 1
+  size: 872, 610
+  orig: 872, 610
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_136X237
+  rotate: false
+  xy: 1400, 967
+  size: 87, 152
+  orig: 87, 152
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_151X272
+  rotate: false
+  xy: 1711, 863
+  size: 97, 174
+  orig: 97, 174
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_158X191
+  rotate: false
+  xy: 1810, 988
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_161X263
+  rotate: false
+  xy: 1121, 860
+  size: 103, 169
+  orig: 103, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_193X161
+  rotate: false
+  xy: 1489, 972
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_19X12
+  rotate: false
+  xy: 1422, 513
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_19X18
+  rotate: false
+  xy: 1422, 434
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_1X1
+  rotate: false
+  xy: 2045, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_1X1_2
+  rotate: false
+  xy: 2045, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_200X141
+  rotate: false
+  xy: 1913, 988
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_211X248
+  rotate: false
+  xy: 1508, 711
+  size: 135, 159
+  orig: 135, 159
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_215X237
+  rotate: false
+  xy: 981, 860
+  size: 138, 152
+  orig: 138, 152
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_24X17
+  rotate: false
+  xy: 419, 1171
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_268X124
+  rotate: false
+  xy: 1226, 967
+  size: 172, 80
+  orig: 172, 80
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_29X25
+  rotate: false
+  xy: 1815, 1197
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_30X26
+  rotate: false
+  xy: 391, 1197
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_31X22
+  rotate: false
+  xy: 961, 1201
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_334X622
+  rotate: false
+  xy: 1439, 311
+  size: 214, 398
+  orig: 214, 398
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_34X52
+  rotate: false
+  xy: 1684, 972
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_34X52_2
+  rotate: false
+  xy: 1658, 1140
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_35X18
+  rotate: false
+  xy: 580, 968
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_36X15
+  rotate: false
+  xy: 288, 1202
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_38X55
+  rotate: false
+  xy: 2018, 583
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_40X49
+  rotate: false
+  xy: 183, 940
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_40X49_2
+  rotate: false
+  xy: 1779, 1039
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_42X17
+  rotate: false
+  xy: 1982, 1199
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_42X28
+  rotate: false
+  xy: 458, 1193
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_43X18
+  rotate: false
+  xy: 569, 1199
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_44X89
+  rotate: false
+  xy: 343, 879
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_46X30
+  rotate: false
+  xy: 1305, 1188
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_47X30
+  rotate: false
+  xy: 1259, 1191
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_53X140
+  rotate: false
+  xy: 2001, 212
+  size: 34, 90
+  orig: 34, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_56X213
+  rotate: false
+  xy: 1567, 1077
+  size: 36, 137
+  orig: 36, 137
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_68X59
+  rotate: false
+  xy: 65, 1171
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_70X53
+  rotate: false
+  xy: 157, 1171
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_72X76
+  rotate: false
+  xy: 488, 1169
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_78X86
+  rotate: false
+  xy: 632, 1141
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_84X266
+  rotate: false
+  xy: 1684, 1039
+  size: 54, 170
+  orig: 54, 170
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_875X481
+  rotate: false
+  xy: 1439, 1
+  size: 560, 308
+  orig: 560, 308
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_877X488
+  rotate: false
+  xy: 875, 1
+  size: 562, 313
+  orig: 562, 313
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_89X94
+  rotate: false
+  xy: 982, 1139
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM27_ANIM27_96X86
+  rotate: false
+  xy: 355, 1140
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_10X14
+  rotate: false
+  xy: 1429, 363
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_46X328
+  rotate: false
+  xy: 1356, 1049
+  size: 30, 210
+  orig: 30, 210
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_46X35
+  rotate: false
+  xy: 258, 1170
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_49X34
+  rotate: false
+  xy: 343, 968
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_51X33
+  rotate: false
+  xy: 536, 1169
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_51X47
+  rotate: false
+  xy: 981, 828
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_73X176
+  rotate: false
+  xy: 439, 1078
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM32_ANIM32_8X55
+  rotate: false
+  xy: 1422, 363
+  size: 5, 35
+  orig: 5, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM35_ANIM35_23X23
+  rotate: false
+  xy: 419, 1140
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM35_ANIM35_74X75
+  rotate: false
+  xy: 1910, 1167
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM4_ANIM4_101X98
+  rotate: false
+  xy: 1843, 1112
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM5_ANIM5_119X113
+  rotate: false
+  xy: 1422, 892
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM6_ANIM6_49X43
+  rotate: false
+  xy: 343, 938
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_110X95
+  rotate: false
+  xy: 909, 1114
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_1X1
+  rotate: false
+  xy: 2045, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_34X52
+  rotate: false
+  xy: 1322, 1152
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_34X52_2
+  rotate: false
+  xy: 864, 1153
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_38X55
+  rotate: false
+  xy: 580, 931
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_40X49
+  rotate: false
+  xy: 1779, 1073
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_40X49_2
+  rotate: false
+  xy: 1322, 1118
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_68X59
+  rotate: false
+  xy: 111, 1171
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_72X25
+  rotate: false
+  xy: 1316, 689
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_82X92
+  rotate: false
+  xy: 754, 1153
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_83X92
+  rotate: false
+  xy: 809, 1153
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_89X94
+  rotate: false
+  xy: 296, 1140
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM8_ANIM8_91X367
+  rotate: false
+  xy: 1362, 316
+  size: 58, 235
+  orig: 58, 235
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM9_ANIM9_271X106
+  rotate: false
+  xy: 152, 1000
+  size: 174, 68
+  orig: 174, 68
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_BEACH_ANIM9_ANIM9_39X39
+  rotate: false
+  xy: 934, 1177
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_LEVEL_BEACH
+  rotate: false
+  xy: 572, 1141
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_104X259
+  rotate: false
+  xy: 1615, 972
+  size: 67, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_104X72
+  rotate: false
+  xy: 1041, 1156
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_10X7
+  rotate: false
+  xy: 2039, 635
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_116X54
+  rotate: false
+  xy: 1388, 1167
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_118X40
+  rotate: false
+  xy: 754, 1086
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_118X49
+  rotate: false
+  xy: 1017, 824
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_11X7
+  rotate: false
+  xy: 2039, 642
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_11X7_2
+  rotate: false
+  xy: 2039, 649
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_11X8
+  rotate: false
+  xy: 2039, 656
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_11X9
+  rotate: false
+  xy: 1429, 374
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_124X42
+  rotate: false
+  xy: 1226, 860
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_125X187
+  rotate: false
+  xy: 496, 995
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_12X7
+  rotate: false
+  xy: 2039, 628
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_130X192
+  rotate: false
+  xy: 985, 1014
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_144X66
+  rotate: false
+  xy: 111, 1127
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_148X83
+  rotate: false
+  xy: 1225, 1118
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_14X9
+  rotate: false
+  xy: 2039, 620
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_152X68
+  rotate: false
+  xy: 1388, 1121
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_15X11
+  rotate: false
+  xy: 1810, 879
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_15X7
+  rotate: false
+  xy: 373, 895
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_15X9
+  rotate: false
+  xy: 373, 887
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_15X9_2
+  rotate: false
+  xy: 1810, 888
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_16X8
+  rotate: false
+  xy: 1810, 896
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_17X11
+  rotate: false
+  xy: 1693, 863
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_180X153
+  rotate: false
+  xy: 868, 1014
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_184X176
+  rotate: false
+  xy: 1316, 574
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_18X9
+  rotate: false
+  xy: 1810, 863
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_18X9_2
+  rotate: false
+  xy: 1810, 871
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_18X9_3
+  rotate: false
+  xy: 373, 879
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_192X186
+  rotate: false
+  xy: 218, 879
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_19X10
+  rotate: false
+  xy: 1422, 532
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_19X11
+  rotate: false
+  xy: 1422, 541
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_1X1
+  rotate: false
+  xy: 2045, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_1X1_2
+  rotate: false
+  xy: 2045, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_1X1_3
+  rotate: false
+  xy: 2045, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_21X11
+  rotate: false
+  xy: 1422, 504
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_21X12
+  rotate: false
+  xy: 1422, 484
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_228X414
+  rotate: false
+  xy: 1902, 316
+  size: 146, 265
+  orig: 146, 265
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_22X12
+  rotate: false
+  xy: 1422, 494
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_22X14
+  rotate: false
+  xy: 1422, 460
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_22X16
+  rotate: false
+  xy: 1422, 448
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_22X19
+  rotate: false
+  xy: 1422, 400
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_23X17
+  rotate: false
+  xy: 1337, 1188
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_24X14
+  rotate: false
+  xy: 1337, 1201
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_255X274
+  rotate: false
+  xy: 816, 828
+  size: 163, 176
+  orig: 163, 176
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_25X18
+  rotate: false
+  xy: 419, 1157
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_264X376
+  rotate: false
+  xy: 1655, 620
+  size: 169, 241
+  orig: 169, 241
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_264X412
+  rotate: false
+  xy: 218, 613
+  size: 169, 264
+  orig: 169, 264
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_27X18
+  rotate: false
+  xy: 334, 1202
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_281X140
+  rotate: false
+  xy: 1, 884
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_28X12
+  rotate: false
+  xy: 177, 1207
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_28X13
+  rotate: false
+  xy: 157, 1207
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_28X15
+  rotate: false
+  xy: 1089, 1204
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_28X16
+  rotate: false
+  xy: 1434, 1204
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_28X26
+  rotate: false
+  xy: 888, 1153
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_28X26_2
+  rotate: false
+  xy: 733, 1173
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_28X26_3
+  rotate: false
+  xy: 961, 1177
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_296X279
+  rotate: false
+  xy: 1316, 711
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_29X10
+  rotate: false
+  xy: 683, 1207
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_29X19
+  rotate: false
+  xy: 313, 1202
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_303X114
+  rotate: false
+  xy: 1226, 892
+  size: 194, 73
+  orig: 194, 73
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_30X28
+  rotate: false
+  xy: 1464, 1167
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_30X30
+  rotate: false
+  xy: 1885, 1193
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_313X153
+  rotate: false
+  xy: 1508, 872
+  size: 201, 98
+  orig: 201, 98
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_31X172
+  rotate: false
+  xy: 580, 819
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_31X18
+  rotate: false
+  xy: 1493, 1201
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_31X33
+  rotate: false
+  xy: 1960, 1192
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_329X278
+  rotate: false
+  xy: 1826, 620
+  size: 211, 178
+  orig: 211, 178
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_32X15
+  rotate: false
+  xy: 1388, 1204
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_32X15_2
+  rotate: false
+  xy: 1411, 1204
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_336X317
+  rotate: false
+  xy: 608, 613
+  size: 215, 203
+  orig: 215, 203
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_33X10
+  rotate: false
+  xy: 1645, 863
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_33X12
+  rotate: false
+  xy: 1658, 1204
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_34X18
+  rotate: false
+  xy: 1012, 1201
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_37X14
+  rotate: false
+  xy: 1063, 1204
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_37X36
+  rotate: false
+  xy: 1960, 1167
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_383X480
+  rotate: false
+  xy: 1655, 311
+  size: 245, 307
+  orig: 245, 307
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_39X13
+  rotate: false
+  xy: 1036, 1204
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_40X19
+  rotate: false
+  xy: 1196, 1156
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_40X20
+  rotate: false
+  xy: 1041, 1139
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_42X15
+  rotate: false
+  xy: 983, 1201
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_42X15_2
+  rotate: false
+  xy: 1464, 1201
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_43X25
+  rotate: false
+  xy: 258, 1195
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_43X39
+  rotate: false
+  xy: 832, 1086
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_44X20
+  rotate: false
+  xy: 1193, 1198
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_45X16
+  rotate: false
+  xy: 2009, 976
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_45X16_2
+  rotate: false
+  xy: 2011, 1199
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_45X17
+  rotate: false
+  xy: 599, 1199
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_47X19
+  rotate: false
+  xy: 1223, 1198
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_48X20
+  rotate: false
+  xy: 900, 1195
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_48X28
+  rotate: false
+  xy: 536, 1192
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_49X19
+  rotate: false
+  xy: 632, 1198
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_51X272
+  rotate: false
+  xy: 2009, 800
+  size: 33, 174
+  orig: 33, 174
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_52X19
+  rotate: false
+  xy: 355, 1197
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_53X13
+  rotate: false
+  xy: 2001, 304
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_53X19
+  rotate: false
+  xy: 1779, 1197
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_57X21
+  rotate: false
+  xy: 419, 1193
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_58X22
+  rotate: false
+  xy: 1110, 1193
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_58X344
+  rotate: false
+  xy: 1740, 1039
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X5
+  rotate: false
+  xy: 1914, 311
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X5_2
+  rotate: false
+  xy: 1919, 311
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X5_3
+  rotate: false
+  xy: 1924, 311
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X5_4
+  rotate: false
+  xy: 1929, 311
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X5_5
+  rotate: false
+  xy: 1934, 311
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X5_6
+  rotate: false
+  xy: 1939, 311
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X5_7
+  rotate: false
+  xy: 1944, 311
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_5X6
+  rotate: false
+  xy: 1433, 414
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_62X18
+  rotate: false
+  xy: 1843, 1193
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_66X18
+  rotate: false
+  xy: 1149, 1193
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_66X326
+  rotate: false
+  xy: 2001, 1
+  size: 42, 209
+  orig: 42, 209
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_68X21
+  rotate: false
+  xy: 1070, 1014
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_6X5
+  rotate: false
+  xy: 1902, 311
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_6X5_2
+  rotate: false
+  xy: 1908, 311
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_75X112
+  rotate: false
+  xy: 1987, 1080
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_76X22
+  rotate: false
+  xy: 1843, 1177
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_79X103
+  rotate: false
+  xy: 1605, 1140
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_79X58
+  rotate: false
+  xy: 205, 1170
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_83X34
+  rotate: false
+  xy: 152, 976
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_84X23
+  rotate: false
+  xy: 1362, 553
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_87X19
+  rotate: false
+  xy: 1464, 1187
+  size: 56, 12
+  orig: 56, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_94X67
+  rotate: false
+  xy: 1987, 1154
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_95X36
+  rotate: false
+  xy: 1196, 1173
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_96X130
+  rotate: false
+  xy: 1779, 1112
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_97X71
+  rotate: false
+  xy: 1, 1164
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_9X7
+  rotate: false
+  xy: 866, 613
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_9X8
+  rotate: false
+  xy: 866, 620
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_9X9
+  rotate: false
+  xy: 1429, 382
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_BEACH_DANGER_NODE_BEACH_9X9_2
+  rotate: false
+  xy: 1429, 390
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+PLANTSUNBEANEFFECT_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY1_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY1_21X21
+  rotate: false
+  xy: 478, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY1_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY1_26X245
+  rotate: false
+  xy: 321, 1
+  size: 17, 157
+  orig: 17, 157
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY1_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY1_497X497
+  rotate: false
+  xy: 1, 1
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY2_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY2_123X45
+  rotate: false
+  xy: 340, 1
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY2_SUNBEAN_PLANTFOOD_EFFECT_OVERLAY2_85X42
+  rotate: false
+  xy: 421, 1
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
