@@ -2,6 +2,7 @@ package controller;
 
 import model.user.User;
 import model.user.UserManager;
+import util.HashUtil;
 
 public class ProfileController {
     private final UserManager userManager;
@@ -48,13 +49,18 @@ public class ProfileController {
     }
 
     public String changePassword(User user, String oldPassword, String newPassword) {
-        if (!user.getPasswordHash().equals(oldPassword)) {
+        // رمز عبور ذخیره‌شده هش‌شده است (طبق UserManager.registerUser)، پس برای
+        // مقایسه‌ی درست، رمز خام ورودی کاربر هم باید قبل از مقایسه هش شود؛
+        // مقایسه‌ی مستقیم رمز خام با هش هیچ‌وقت درست نمی‌شد (باگ قبلی).
+        String oldHashed = HashUtil.sha256(oldPassword);
+        if (!user.getPasswordHash().equals(oldHashed)) {
             return "ERR_WRONG_OLD_PASSWORD";
         }
-        if (user.getPasswordHash().equals(newPassword)) {
+        String newHashed = HashUtil.sha256(newPassword);
+        if (user.getPasswordHash().equals(newHashed)) {
             return "ERR_SAME_PASSWORD";
         }
-        user.setPasswordHash(newPassword);
+        user.setPasswordHash(newHashed);
         userManager.save();
         return "SUCCESS";
     }

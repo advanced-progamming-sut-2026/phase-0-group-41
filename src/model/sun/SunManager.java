@@ -12,6 +12,9 @@ public class SunManager {
     private double secondsSinceStart = 0;
     private double secondsUntilNextSun;
     private int nextSunId = 1;
+    // مجموع خورشیدی که در طول این نشست تولید/دریافت شده (صرف‌نظر از خرج شدن)؛
+    // برای مُدهایی مثل «نبرد زمان‌دار» که هدف‌شان تولید مقدار مشخصی خورشید است.
+    private int totalSunCollected = 0;
 
     // === متغیر جدید برای ذخیره درجه سختی ===
     private final int difficultyLevel;
@@ -25,8 +28,23 @@ public class SunManager {
         return currentSun;
     }
 
+    /** مجموع خورشیدی که تا الان در این نشست جمع شده (حتی اگر خرج شده باشد). */
+    public int getTotalSunCollected() {
+        return totalSunCollected;
+    }
+
     public void addSun(int amount) {
         currentSun += amount;
+        if (amount > 0) {
+            totalSunCollected += amount;
+        }
+    }
+
+    /** تنظیم مستقیم موجودی خورشید به یک مقدار ثابت (مثلاً برای مُد «هرچه رسد
+     *  بکار» که بازی با مقدار مشخصی خورشید شروع می‌شود). روی totalSunCollected
+     *  اثری ندارد چون این عملیات "تولید" خورشید محسوب نمی‌شود. */
+    public void setCurrentSun(int amount) {
+        this.currentSun = amount;
     }
 
     public boolean spendSun(int amount) {

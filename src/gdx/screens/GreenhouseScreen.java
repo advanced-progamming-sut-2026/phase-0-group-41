@@ -22,6 +22,7 @@ public class GreenhouseScreen extends BaseMenuScreen {
 
     private final Table gridTable = new Table();
     private final HudBar hudBar;
+    private final Label rewardLabel;
 
     public GreenhouseScreen(PvZGame game) {
         super(game);
@@ -40,7 +41,13 @@ public class GreenhouseScreen extends BaseMenuScreen {
         }
 
         rootTable.add(gridTable).padBottom(16f).row();
-        rootTable.add(errorLabel).width(600f).padBottom(10f).row();
+        rootTable.add(errorLabel).width(600f).padBottom(6f).row();
+
+        // اعلان جایزه بعد از برداشت گیاه (طبق سند: «جوایزی را که کاربر دریافت کرده اعلام می‌کند»)
+        rewardLabel = new Label("", skin);
+        rewardLabel.setColor(com.badlogic.gdx.graphics.Color.GREEN);
+        rewardLabel.setWrap(true);
+        rootTable.add(rewardLabel).width(600f).padBottom(10f).row();
 
         Table buttons = new Table();
         addButton(buttons, "Shop", game::goToShop);
@@ -107,12 +114,14 @@ public class GreenhouseScreen extends BaseMenuScreen {
 
     private void onPotClicked(User user, Greenhouse gh, int row, int col) {
         clearError();
+        rewardLabel.setText("");
+        boolean wasHarvest = gh.isReady(row, col);
         String result;
         if (!gh.isUnlocked(row, col)) {
             result = game.getGreenhouseController().unlockPot(user, row, col);
         } else if (gh.isEmpty(row, col)) {
             result = game.getGreenhouseController().plant(user, row, col);
-        } else if (gh.isReady(row, col)) {
+        } else if (wasHarvest) {
             result = game.getGreenhouseController().harvest(user, row, col);
         } else {
             result = game.getGreenhouseController().accelerate(user, row, col);
@@ -120,6 +129,13 @@ public class GreenhouseScreen extends BaseMenuScreen {
 
         if (result != null && result.startsWith("ERR")) {
             showError(translateError(result));
+        } else if (wasHarvest && result != null && result.startsWith("SUCCESS_")) {
+            // طبق سند: «بعد از برداشت گیاهان، یک اعلان... جوایزی را که کاربر دریافت کرده اعلام می‌کند»
+            String plantName = result.substring("SUCCESS_".length());
+            String rewardText = plantName.equals("marigold")
+                    ? plantName + " harvested! +500 coins"
+                    : plantName + " harvested! +100 coins, +1 seed packet, boost stored";
+            rewardLabel.setText(rewardText);
         }
         hudBar.refresh(user);
         refreshGrid();

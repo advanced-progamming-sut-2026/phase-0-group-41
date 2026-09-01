@@ -44,6 +44,11 @@ public class Shop {
             return false; // کالای نامعتبر
         }
 
+        // سقف ذخیره‌ی هم‌زمان غذای گیاه (۳ عدد)؛ رسیدن به سقف یعنی خرید ممکن نیست
+        if ("plant-food".equals(itemName) && user.getPendingPlantFood() + count > 3) {
+            return false;
+        }
+
         int totalPrice = unitPrice * count;
 
         if (useDiamonds) {
@@ -63,10 +68,12 @@ public class Shop {
     private static void applyPurchaseEffect(User user, String itemName, int count, String plantType) {
         switch (itemName) {
             case "pot":
-                // باز کردن اسلات گلخانه، با چک سقف 20 عدد
+                // باز کردن یک اسلات گلخانه (تا سقف ۲۰ عدد؛ سقف داخل GreenhouseController اعمال می‌شود)
+                user.addPendingGreenhousePots(count);
                 break;
             case "plant-food":
-                // اضافه کردن غذای گیاه، با چک سقف 3 عدد
+                // اضافه کردن غذای گیاه به انبار کاربر (در ابتدای مرحله‌ی بعد در اختیارش قرار می‌گیرد)
+                user.addPendingPlantFood(count);
                 break;
             case "random-seed-packet":
                 java.util.List<String> unlocked = new java.util.ArrayList<>(user.getUnlockedPlants());                java.util.Random random = new java.util.Random();

@@ -75,6 +75,16 @@ public class GameController {
             view.printMessage("همه‌ی زامبی‌های نقشه از بین رفتند.");
             return true;
         }
+        // «هرچه رسد بکار»: شروع دستیِ موج‌های زامبی بعد از اتمام کاشت
+        if (first.equals("start") && t.size() >= 3 && t.get(1).equals("zombie") && t.get(2).equals("waves")) {
+            if (session.getLevelRules() instanceof model.levelrules.PlantWhatYouGetRules) {
+                ((model.levelrules.PlantWhatYouGetRules) session.getLevelRules()).startWaves(session);
+                view.printMessage("موج‌های زامبی فعال شدند!");
+            } else {
+                view.printError("این دستور فقط در مرحله‌ی «هرچه رسد بکار» معنا دارد.");
+            }
+            return true;
+        }
         return false;
     }
 
@@ -175,7 +185,25 @@ public class GameController {
             view.printError("گیاه ناشناخته: " + type);
             return;
         }
-        if (session.isPlantOnCooldown(type)) {
+
+        // --- مُد «گیاهان زندانی»: فقط گیاهان مجاز قابل کاشت‌اند ---
+        if (session.getLevelRules() instanceof model.levelrules.LockedPlantsRules) {
+            model.levelrules.LockedPlantsRules rules = (model.levelrules.LockedPlantsRules) session.getLevelRules();
+            if (!rules.getAllowedPlants().contains(type)) {
+                view.printError("این گیاه در این مرحله قفل است. گیاهان مجاز: " + String.join("، ", rules.getAllowedPlants()));
+                return;
+            }
+        }
+
+        // --- مُد «نوار کناری»: گیاه باید از روی نوار برداشته شود، نه cooldown عادی ---
+        boolean isConveyorBelt = session.getLevelRules() instanceof model.levelrules.ConveyorBeltRules;
+        if (isConveyorBelt) {
+            model.levelrules.ConveyorBeltRules rules = (model.levelrules.ConveyorBeltRules) session.getLevelRules();
+            if (!rules.getBeltPlants().contains(type)) {
+                view.printError("این گیاه در حال حاضر روی نوار نقاله نیست.");
+                return;
+            }
+        } else if (session.isPlantOnCooldown(type)) {
             view.printError("این گیاه در حال حاضر در cooldown است.");
             return;
         }
@@ -211,7 +239,12 @@ public class GameController {
         }
         plant.place(loc[1], loc[0]);
         tile.setPlant(plant);
-        session.startPlantCooldown(type, plant.getCooldownTicks());
+        if (isConveyorBelt) {
+            // گیاه از روی نوار برداشته می‌شود و دیگر نمایش داده نمی‌شود (به‌جای cooldown عادی)
+            ((model.levelrules.ConveyorBeltRules) session.getLevelRules()).takeFromBelt(type);
+        } else {
+            session.startPlantCooldown(type, plant.getCooldownTicks());
+        }
         view.printMessage("گیاه " + type + " در (" + loc[0] + ", " + loc[1] + ") کاشته شد.");
     }
 
@@ -367,9 +400,20 @@ public class GameController {
 
     private void showPlantsStatus(GameSession session) {
         view.printMessage("--- وضعیت گیاهان ---");
-        
-        // دریافت لیست گیاهانی که کاربر آنلاک کرده و در این مرحله در دسترسش هستند
-        java.util.Set<String> availablePlants = session.getUser().getUnlockedPlants();
+
+        model.levelrules.ILevelRules rules = session.getLevelRules();
+        java.util.Set<String> availablePlants;
+        boolean isConveyorBelt = rules instanceof model.levelrules.ConveyorBeltRules;
+        if (isConveyorBelt) {
+            // در مُد نوار نقاله، فقط گیاهانی که همین الان روی نوار هستند نمایش داده می‌شوند
+            availablePlants = new java.util.LinkedHashSet<>(((model.levelrules.ConveyorBeltRules) rules).getBeltPlants());
+        } else if (rules instanceof model.levelrules.LockedPlantsRules) {
+            // در مُد گیاهان زندانی، فقط گیاهان مجاز این مرحله نمایش داده می‌شوند
+            availablePlants = new java.util.LinkedHashSet<>(((model.levelrules.LockedPlantsRules) rules).getAllowedPlants());
+        } else {
+            // دریافت لیست گیاهانی که کاربر آنلاک کرده و در این مرحله در دسترسش هستند
+            availablePlants = session.getUser().getUnlockedPlants();
+        }
         int currentSun = session.getSunManager().getCurrentSun();
 
         for (String plantName : availablePlants) {
@@ -385,7 +429,10 @@ public class GameController {
                 int cdTicks = session.getPlantCooldownRemaining(plantName);
                 
                 String status;
-                if (cdTicks > 0) {
+                if (isConveyorBelt) {
+                    // در نوار نقاله، صرفاً وجود روی نوار یعنی «آماده کاشت» (بدون cooldown عادی)
+                    status = (currentSun < cost) ? "خورشید ناکافی" : "آماده کاشت (روی نوار)";
+                } else if (cdTicks > 0) {
                     // تبدیل تیک به ثانیه (هر 10 تیک = 1 ثانیه)
                     status = "در حال شارژ (" + (cdTicks / 10.0) + " ثانیه)";
                 } else if (currentSun < cost) {

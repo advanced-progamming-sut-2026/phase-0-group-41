@@ -46,7 +46,7 @@ public class ProfileScreen extends BaseMenuScreen {
         String stats = user == null ? "" :
                 "Games played: " + user.getGamesPlayed()
                         + "   |   Levels completed: " + user.getLevelsCompleted()
-                        + "   |   High score: " + user.getHighScore()
+                        + "   |   Best MeowPoint: " + user.getMaxMowPoints()
                         + "   |   Coins: " + user.getCoins()
                         + "   |   Diamonds: " + user.getDiamonds();
         statsLabel = new Label(stats, skin);

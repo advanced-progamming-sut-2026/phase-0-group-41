@@ -17,6 +17,9 @@ import controller.ShopController;
 import model.user.User;
 import model.user.UserManager;
 
+import gdx.screens.ChapterLevelSelectScreen;
+import gdx.screens.CollectionScreen;
+import gdx.screens.DialogueScreen;
 import gdx.screens.GameScreen;
 import gdx.screens.GreenhouseScreen;
 import gdx.screens.LeaderboardScreen;
@@ -124,12 +127,69 @@ public class PvZGame extends Game {
         setScreen(new GreenhouseScreen(this));
     }
 
+    public void goToCollection() {
+        setScreen(new CollectionScreen(this));
+    }
+
+    /** ورود به منوی انتخاب فصل/مرحله (طبق سند فاز یک: دکمه‌ی Play باید ابتدا
+     *  این منو را نشان دهد، نه مستقیماً صفحه‌ی انتخاب گیاه یک مرحله‌ی ثابت را). */
+    public void goToChapterLevelSelect() {
+        setScreen(new ChapterLevelSelectScreen(this));
+    }
+
     public void goToPlantSelection() {
         setScreen(new PlantSelectionScreen(this));
     }
 
+    /** ورود به صفحه‌ی انتخاب گیاه برای فصل/مرحله‌ی مشخص (بعد از انتخاب کاربر
+     *  در ChapterLevelSelectScreen). */
+    public void goToPlantSelection(int chapter, int level) {
+        setScreen(new PlantSelectionScreen(this, chapter, level));
+    }
+
     /** ورود به صفحه‌ی گرافیکی گیم‌پلی اصلی (grid کاشت، زامبی‌ها، خورشید، پرتابه‌ها و ...). */
     public void goToGameScreen(int chapter, int level) {
+        // در ابتدای مرحله‌ی اول هر فصل، طبق سند، یک تبادل کوتاه دیالوگ بین
+        // شخصیت‌های اصلی نمایش داده می‌شود (نیازی نیست حتماً همان شخصیت‌های
+        // خود بازی باشند).
+        if (level == 1) {
+            DialogueScreen.Line[] lines = chapterIntroDialogue(chapter);
+            if (lines.length > 0) {
+                setScreen(new DialogueScreen(this, lines, () -> startGameScreen(chapter, level)));
+                return;
+            }
+        }
+        startGameScreen(chapter, level);
+    }
+
+    private DialogueScreen.Line[] chapterIntroDialogue(int chapter) {
+        switch (chapter) {
+            case 1:
+                return new DialogueScreen.Line[]{
+                        new DialogueScreen.Line("Crazy Dave", "We've cracked open an ancient vault... let's see what's inside!"),
+                        new DialogueScreen.Line("Penny", "Scanning complete. Hostile organisms detected. Beginning lawn defense.")
+                };
+            case 2:
+                return new DialogueScreen.Line[]{
+                        new DialogueScreen.Line("Crazy Dave", "Brr! It's freezing in here. Bundle up, we've got zombies to fight!"),
+                        new DialogueScreen.Line("Penny", "Temperature critical. Recommend ice-resistant flora.")
+                };
+            case 3:
+                return new DialogueScreen.Line[]{
+                        new DialogueScreen.Line("Crazy Dave", "The tide's coming in fast! Watch your step out there."),
+                        new DialogueScreen.Line("Penny", "Aquatic zombies detected. Lily pads advised.")
+                };
+            case 4:
+                return new DialogueScreen.Line[]{
+                        new DialogueScreen.Line("Crazy Dave", "Dark times ahead... literally. No sun's getting through this gloom."),
+                        new DialogueScreen.Line("Penny", "Solar collection offline. Rely on your sunflowers.")
+                };
+            default:
+                return new DialogueScreen.Line[0]; // Beginner: بدون دیالوگ مقدماتی
+        }
+    }
+
+    private void startGameScreen(int chapter, int level) {
         // فصل بازی (Season)، نوع مرحله (LevelMode) و سختی موج از منبع واحد
         // ChapterPlan خوانده می‌شود تا دقیقاً همان رفتار AppController کنسولی را
         // داشته باشیم (بدون این کار هر مرحله عین مرحله‌ی عادی پیش‌فرض اجرا می‌شد).
@@ -138,7 +198,7 @@ public class PvZGame extends Game {
         int totalWaves = model.game.ChapterPlan.totalWavesFor(chapter, level);
         double baseWaveCost = model.game.ChapterPlan.baseWaveCostFor(chapter, level);
 
-        GameSession session = new GameSession(loggedInUser, totalWaves, baseWaveCost, season, mode);
+        GameSession session = new GameSession(loggedInUser, totalWaves, baseWaveCost, season, mode, level);
         setScreen(new GameScreen(this, session, chapter, level));
     }
 

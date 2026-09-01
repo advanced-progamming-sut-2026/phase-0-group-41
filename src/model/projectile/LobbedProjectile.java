@@ -20,6 +20,9 @@ public class LobbedProjectile extends Projectile {
     
     public void setButter(boolean butter) { this.isButter = butter; }
 
+    /** آیا این پرتابه آسیب مساحتی (Splash) دارد؟ برای تشخیص بصری هندوانه/Pepper-pult از پرتابه‌ی ساده‌ی معمولی. */
+    public boolean hasSplash() { return hasSplash; }
+
     @Override
     public void onTick(GameSession session) {
         if (isDead) return;

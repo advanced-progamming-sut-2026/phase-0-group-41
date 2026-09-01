@@ -29,12 +29,41 @@ public class ConsoleView {
         System.out.println("Wave: " + session.getWaveManager().getCurrentWave() + "/" + session.getWaveManager().getTotalWaves()
                 + " | Sun: " + session.getSunManager().getCurrentSun()
                 + " | PlantFood: " + session.getPlantFoodCount());
+        // وضعیت مُد ویژه‌ی مرحله (نبرد زمان‌دار، محافظ دانه‌ها، ددلاین و ...)؛
+        // طبق سند باید حین بازی به‌طریقی به کاربر نمایش داده شود.
+        String hudStatus = session.getLevelRules().getHudStatusText(session);
+        if (!hudStatus.isEmpty()) {
+            System.out.println(hudStatus);
+        }
+
+        // خط ددلاین (به‌صورت نشانگر ستونی در بالای مپ متنی) و خانه‌های محافظت‌شده
+        model.levelrules.ILevelRules rules = session.getLevelRules();
+        Integer deadLineCol = (rules instanceof model.levelrules.DeadLineRules)
+                ? ((model.levelrules.DeadLineRules) rules).getDeadLineColumn() : null;
+        java.util.Set<String> protectedCells = new java.util.HashSet<>();
+        if (rules instanceof model.levelrules.SaveOurSeedsRules) {
+            for (model.levelrules.SaveOurSeedsRules.ProtectedTile pt
+                    : ((model.levelrules.SaveOurSeedsRules) rules).getProtectedTiles()) {
+                protectedCells.add(pt.row + "," + pt.col);
+            }
+        }
+        if (deadLineCol != null) {
+            StringBuilder marker = new StringBuilder("      ");
+            for (int c = 0; c < Board.COLS; c++) {
+                marker.append(c == deadLineCol ? " DL " : "    ").append(' ');
+            }
+            System.out.println(marker);
+        }
         for (int r = 0; r < Board.ROWS; r++) {
             StringBuilder rowBuilder = new StringBuilder();
             rowBuilder.append(board.isLawnMowerUsed(r) ? "[X]" : "[M]").append(' ');
             for (int c = 0; c < Board.COLS; c++) {
                 Tile tile = board.getTile(r, c);
-                rowBuilder.append(renderTile(tile)).append(' ');
+                String tileStr = renderTile(tile);
+                if (protectedCells.contains(r + "," + c)) {
+                    tileStr = tileStr.replace("]", "*]"); // ستاره یعنی خانه‌ی محافظت‌شده
+                }
+                rowBuilder.append(tileStr).append(' ');
             }
             System.out.println(rowBuilder.toString());
         }

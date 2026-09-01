@@ -7,21 +7,26 @@ import model.zombie.Zombie;
 import model.zombie.ZombieFactory;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Random;
 
 public class IZombieSession extends MiniGameSession {
 
     public enum PlaceZombieResult {
-        SUCCESS, INVALID_LOCATION, BEYOND_RED_LINE, NOT_ENOUGH_SUN, INVALID_ZOMBIE
+        SUCCESS, INVALID_LOCATION, BEYOND_RED_LINE, NOT_ENOUGH_SUN, INVALID_ZOMBIE, ON_COOLDOWN
     }
 
     private static final int RED_LINE_COL = 5; // زامبی‌ها فقط در ستون ۵ به بعد (سمت راست) کاشته می‌شوند
+    private static final int COOLDOWN_TICKS = 100; // ۱۰ ثانیه‌ی آماده‌سازی مجدد برای هر نوع زامبی
 
     private final boolean[] brainsEaten = new boolean[Board.ROWS];
     private boolean isGameWon = false;
     private boolean isGameLost = false;
     private final int cheapestZombieCost;
+    // نام نوع زامبی -> تیک باقی‌مانده تا آماده‌سازی مجدد (مطابق الگوی plantCooldowns در GameSession)
+    private final Map<String, Integer> zombieCooldowns = new HashMap<>();
 
     // لیستی برای گزارش رخدادها به کنترلر هنگام رد شدن زمان
     private final List<String> recentEvents = new ArrayList<>();
@@ -86,6 +91,9 @@ public class IZombieSession extends MiniGameSession {
         if (col < RED_LINE_COL) {
             return PlaceZombieResult.BEYOND_RED_LINE; // عبور از خط قرمز
         }
+        if (isZombieOnCooldown(type)) {
+            return PlaceZombieResult.ON_COOLDOWN;
+        }
 
         try {
             int dl = getUser().getDifficultyLevel();
@@ -93,6 +101,7 @@ public class IZombieSession extends MiniGameSession {
             if (getSunManager().spendSun(zombie.getWaveCost())) {
                 zombie.spawn(row, col);
                 getAliveZombies().add(zombie);
+                zombieCooldowns.put(type.toLowerCase(), COOLDOWN_TICKS);
                 return PlaceZombieResult.SUCCESS;
             } else {
                 return PlaceZombieResult.NOT_ENOUGH_SUN;
@@ -102,11 +111,40 @@ public class IZombieSession extends MiniGameSession {
         }
     }
 
+    /** هزینه‌ی خورشیدِ گذاشتن این نوع زامبی؛ برای نمایش قیمت روی کارت در گرافیک/کنسول. */
+    public int getZombieCost(String type) {
+        try {
+            Zombie probe = ZombieFactory.create(type, getUser().getDifficultyLevel());
+            return probe.getWaveCost();
+        } catch (IllegalArgumentException e) {
+            return 0;
+        }
+    }
+
+    public boolean isZombieOnCooldown(String type) {
+        return zombieCooldowns.getOrDefault(type.toLowerCase(), 0) > 0;
+    }
+
+    /** تیک‌های باقی‌مانده تا آماده‌سازی مجدد این نوع زامبی؛ برای نمایش تایمر روی کارت. */
+    public int getZombieCooldownRemaining(String type) {
+        return zombieCooldowns.getOrDefault(type.toLowerCase(), 0);
+    }
+
     @Override
     protected void customMiniGameTick() {
         if (isGameOver() || isGameWon || isGameLost) return;
 
         getFallingSuns().clear(); // بدون بارش خورشید از آسمان
+
+        // کاهش تیک‌های باقی‌مانده‌ی cooldown هر نوع زامبی (مطابق الگوی plantCooldowns)
+        for (String key : new ArrayList<>(zombieCooldowns.keySet())) {
+            int remaining = zombieCooldowns.get(key) - 1;
+            if (remaining <= 0) {
+                zombieCooldowns.remove(key);
+            } else {
+                zombieCooldowns.put(key, remaining);
+            }
+        }
 
         // ۱. بررسی رسیدن زامبی‌ها به مغز (ستون 0 یا کمتر)
         List<Zombie> reachedEnd = new ArrayList<>();
