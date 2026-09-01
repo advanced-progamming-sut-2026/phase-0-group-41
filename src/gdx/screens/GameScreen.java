@@ -961,10 +961,12 @@ public class GameScreen implements Screen {
             }
         }
 
+        // پیدا کردن خانه‌ای که کاربر روی آن کلیک کرده است
         int[] hovered = hoveredTile();
         if (hovered == null) {
             return; // کلیک خارج از تخته بوده (مثلاً روی نوار کناری)
         }
+
         int row = hovered[0];
         int col = hovered[1];
 
