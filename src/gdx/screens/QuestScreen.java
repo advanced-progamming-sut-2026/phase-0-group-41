@@ -30,7 +30,12 @@ public class QuestScreen extends BaseMenuScreen {
         rootTable.add(scrollPane).width(800f).height(420f).padBottom(16f).row();
 
         rootTable.add(errorLabel).width(600f).padBottom(10f).row();
-        addButton(rootTable, "Back to Main Menu", game::goToMainMenu);
+
+        Table buttons = new Table();
+        // طبق سند: «همچنین از طریق این منو می‌توانیم به مینی‌گیم‌ها دسترسی داشته باشیم»
+        addButton(buttons, "Mini Games", game::goToMiniGames);
+        addButton(buttons, "Back to Main Menu", game::goToMainMenu);
+        rootTable.add(buttons).row();
     }
 
     private void refreshList() {

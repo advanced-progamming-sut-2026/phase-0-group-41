@@ -78,6 +78,10 @@ public class User implements Serializable, PlayerProfile {
     private boolean dailyOfferPurchased;
     private int storedPlantFood = 0; 
     private int pendingGreenhousePots = 0;
+    // غذای گیاه خریداری‌شده از فروشگاه که «در ابتدای مرحله‌ی بعد» طبق سند در
+    // اختیار بازیکن قرار می‌گیرد؛ حداکثر ذخیره‌ی هم‌زمان ۳ عدد است (مطابق سقف
+    // GameSession.plantFoodCount در حین بازی).
+    private int pendingPlantFood = 0;
 
 
     public User(String username, String passwordHash, String nickname, String email, String gender) {
@@ -176,6 +180,11 @@ public class User implements Serializable, PlayerProfile {
     
     public void addStoredPlantFood(int amount) { this.storedPlantFood = Math.min(3, storedPlantFood + amount); }
     public void addPendingGreenhousePots(int amount) { this.pendingGreenhousePots += amount; }
+
+    /** افزودن غذای گیاه خریداری‌شده از فروشگاه به انبار؛ سقف هم‌زمان ۳ عدد است. */
+    public void addPendingPlantFood(int amount) {
+        this.pendingPlantFood = Math.min(3, this.pendingPlantFood + amount);
+    }
 
 
     // ==========================================
@@ -286,6 +295,9 @@ public class User implements Serializable, PlayerProfile {
     }
 
     public int getPendingGreenhousePots() { return pendingGreenhousePots; }
+
+    public int getPendingPlantFood() { return pendingPlantFood; }
+    public void setPendingPlantFood(int pendingPlantFood) { this.pendingPlantFood = Math.max(0, pendingPlantFood); }
 
     public Map<String, Boolean> getGreenhouseBoosts() {
         if (greenhouseBoosts == null) greenhouseBoosts = new HashMap<>();

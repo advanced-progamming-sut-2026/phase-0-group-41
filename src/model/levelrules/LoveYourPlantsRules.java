@@ -22,27 +22,37 @@ public class LoveYourPlantsRules implements ILevelRules {
         // عملیات خاصی در هر تیک نیاز ندارد
     }
 
-    @Override
-    public boolean checkCustomLossConditions(GameSession session) {
-        int currentPlantCount = 0;
+    private int countLivingPlants(GameSession session) {
+        int count = 0;
         Board board = session.getBoard();
-        
-        // شمارش تمام گیاهان زنده روی نقشه
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 0; c < Board.COLS; c++) {
                 Tile tile = board.getTile(r, c);
                 if (tile.getPlant() != null && !tile.getPlant().isDead()) {
-                    currentPlantCount++;
+                    count++;
                 }
             }
         }
+        return count;
+    }
+
+    @Override
+    public boolean checkCustomLossConditions(GameSession session) {
+        int currentPlantCount = countLivingPlants(session);
 
         // بررسی نقض قانون بازی
         if (currentPlantCount > maxAllowedPlants) {
             System.out.println("خطا! شما " + currentPlantCount + " گیاه کاشتید که بیشتر از حد مجاز (" + maxAllowedPlants + ") است!");
             return false; // بازیکن باخت!
         }
-        
+
         return true; // شرایط عادی است
+    }
+
+    @Override
+    public String getHudStatusText(GameSession session) {
+        // طبق سند: «تعداد گیاهان باقی‌مانده را نمایش دهید»
+        int remaining = maxAllowedPlants - countLivingPlants(session);
+        return "از دست نده: " + Math.max(0, remaining) + " گیاه دیگر می‌توانید بکارید (حداکثر " + maxAllowedPlants + ")";
     }
 }

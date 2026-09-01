@@ -38,7 +38,7 @@ public class MainMenuScreen extends BaseMenuScreen {
         }
 
         Table grid = new Table();
-        addButton(grid, "Play", () -> game.setScreen(new PlantSelectionScreen(game)));
+        addButton(grid, "Play", () -> game.goToChapterLevelSelect());
         grid.row();
         addButton(grid, "Profile", game::goToProfile);
         grid.row();
@@ -48,6 +48,8 @@ public class MainMenuScreen extends BaseMenuScreen {
         addButton(grid, "Settings", game::goToSettings);
         grid.row();
         addButton(grid, "Greenhouse", game::goToGreenhouse);
+        grid.row();
+        addButton(grid, "Collection", game::goToCollection);
         grid.row();
         addButton(grid, "Quests", game::goToQuests);
         grid.row();

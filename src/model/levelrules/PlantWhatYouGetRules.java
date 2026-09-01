@@ -1,52 +1,73 @@
 package model.levelrules;
 
 import model.game.GameSession;
-import model.game.Tile;
-import model.game.TerrainType;
-import model.plant.PlantFactory;
-import java.util.Random;
 
+/**
+ * هرچه رسد بکار (Plant What You Get): طبق سند، بازی با مقدار مشخصی آفتاب
+ * اولیه شروع می‌شود و دیگر هیچ آفتابی از آسمان نمی‌بارد و آفتابگردان قابل
+ * انتخاب نیست. بازیکن قبل از شروع موج‌ها، بدون محدودیت cooldown می‌تواند
+ * هرچقدر بخواهد گیاه بکارد/بردارد؛ سپس با دستور خودش موج‌ها را فعال می‌کند.
+ */
 public class PlantWhatYouGetRules implements ILevelRules {
 
-    private int tickCounter = 0;
-    private final int SPAWN_INTERVAL = 150; // هر ۱۵ ثانیه (۱۵۰ تیک)
-    
-    // استخری از گیاهان ممکن برای این مرحله
-    private final String[] randomPlantPool = {
-        "peashooter", "sunflower", "wallnut", "cherrybomb", "snowpea", "cabbagepult"
-    };
-    private final Random random = new Random();
+    private final int startingSun;
+    private boolean wavesStarted = false;
+
+    public PlantWhatYouGetRules() {
+        this(500); // مقدار پیش‌فرض طبق مثال سند
+    }
+
+    /** @param startingSun مقدار آفتاب اولیه‌ی ثابت (مثلاً ۵۰۰ یا ۸۰۰ طبق سند)؛ در مراحل سخت‌تر می‌توان کمتر داد. */
+    public PlantWhatYouGetRules(int startingSun) {
+        this.startingSun = startingSun;
+    }
 
     @Override
     public void setupLevel(GameSession session) {
-        System.out.println("چالش هرچه رسد بکار! گیاهان تصادفی هر ۱۵ ثانیه خودبه‌خود در زمین سبز می‌شوند.");
+        session.getSunManager().setCurrentSun(startingSun);
+        session.setCooldownsDisabled(true);
+        System.out.println("چالش هرچه رسد بکار! " + startingSun + " واحد خورشید دارید. "
+                + "دیگر خورشیدی از آسمان نمی‌بارد. هر زمان آماده بودید، موج‌ها را با دستور خودتان آغاز کنید.");
+    }
+
+    /** فراخوانی این متد (از طریق دستور کاربر) موج‌های زامبی را فعال می‌کند. */
+    public void startWaves(GameSession session) {
+        if (wavesStarted) {
+            return;
+        }
+        wavesStarted = true;
+        session.setCooldownsDisabled(false);
+        System.out.println("موج‌های زامبی فعال شدند!");
+    }
+
+    public boolean isWavesStarted() {
+        return wavesStarted;
+    }
+
+    @Override
+    public boolean areWavesStarted() {
+        return wavesStarted;
+    }
+
+    @Override
+    public boolean allowsSkySun() {
+        return false; // هیچ خورشیدی از آسمان نمی‌بارد؛ فقط همان مقدار اولیه در دسترس است
     }
 
     @Override
     public void applySpecialTickRules(GameSession session) {
-        tickCounter++;
-        
-        if (tickCounter >= SPAWN_INTERVAL) {
-            int r = random.nextInt(model.game.Board.ROWS);
-            int c = random.nextInt(model.game.Board.COLS);
-            Tile targetTile = session.getBoard().getTile(r, c);
-            
-            // چک می‌کنیم که خانه کاملاً خالی و قابل کشت باشد
-            if (targetTile.isEmpty() && targetTile.getTerrainType() == TerrainType.NORMAL) {
-                String randomPlant = randomPlantPool[random.nextInt(randomPlantPool.length)];
-                
-                // استفاده از فکتوری برای ساخت و کاشت گیاه
-                targetTile.setPlant(PlantFactory.create(randomPlant));
-                
-                System.out.println("یک [" + randomPlant + "] تصادفی در مختصات (" + c + ", " + r + ") سبز شد!");
-            }
-            
-            tickCounter = 0; // ریست کردن تایمر
-        }
+        // اتفاق خودکار خاصی نیاز نیست؛ همه‌چیز با دستور کاربر (startWaves) کنترل می‌شود.
     }
 
     @Override
     public boolean checkCustomLossConditions(GameSession session) {
         return true; // شرط باخت کلاسیک برقرار است
+    }
+
+    @Override
+    public String getHudStatusText(GameSession session) {
+        return wavesStarted
+                ? "هرچه رسد بکار: موج‌ها فعال شدند"
+                : "هرچه رسد بکار: قبل از شروع موج‌ها، آماده‌سازی کنید";
     }
 }

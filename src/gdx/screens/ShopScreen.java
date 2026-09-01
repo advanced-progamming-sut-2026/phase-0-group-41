@@ -1,11 +1,14 @@
 package gdx.screens;
 
+import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.ScrollPane;
+import com.badlogic.gdx.scenes.scene2d.ui.SelectBox;
 import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
+import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
@@ -14,6 +17,7 @@ import gdx.util.ImageUtils;
 import model.shop.Shop;
 import model.user.User;
 
+import java.util.ArrayList;
 import java.util.Map;
 
 public class ShopScreen extends BaseMenuScreen {
@@ -21,6 +25,12 @@ public class ShopScreen extends BaseMenuScreen {
     private final HudBar hudBar;
     private final Table dailyOfferSection = new Table();
     private TextButton dailyOfferButton;
+
+    // === پنل تأیید خرید (طبق سند: «از کاربر باید به طریقی تأیید گرفته شده و
+    // سپس خرید انجام شود»). برای «بسته بذر انتخابی» یک SelectBox گیاه هم نشان
+    // داده می‌شود چون این کالا نیاز به انتخاب گیاه دارد. ===
+    private final Table confirmPanel = new Table();
+    private SelectBox<String> plantPickerBox;
 
     public ShopScreen(PvZGame game) {
         super(game);
@@ -47,15 +57,18 @@ public class ShopScreen extends BaseMenuScreen {
         itemsTable.top();
 
         for (Map.Entry<String, Integer> entry : Shop.PERMANENT_ITEM_COIN_PRICES.entrySet()) {
-            addItemRow(itemsTable, entry.getKey(), entry.getValue() + " coins", false);
+            addItemRow(itemsTable, entry.getKey(), entry.getValue(), "coins", false);
         }
         for (Map.Entry<String, Integer> entry : Shop.PERMANENT_ITEM_DIAMOND_PRICES.entrySet()) {
-            addItemRow(itemsTable, entry.getKey(), entry.getValue() + " diamonds", true);
+            addItemRow(itemsTable, entry.getKey(), entry.getValue(), "diamonds", true);
         }
 
         ScrollPane scrollPane = new ScrollPane(itemsTable, skin);
         scrollPane.setFadeScrollBars(false);
-        rootTable.add(scrollPane).width(760f).height(340f).padBottom(16f).row();
+        rootTable.add(scrollPane).width(760f).height(300f).padBottom(10f).row();
+
+        confirmPanel.top().left();
+        rootTable.add(confirmPanel).padBottom(6f).row();
 
         rootTable.add(errorLabel).width(600f).padBottom(10f).row();
         addButton(rootTable, "Back to Main Menu", game::goToMainMenu);
@@ -82,9 +95,9 @@ public class ShopScreen extends BaseMenuScreen {
         dailyOfferButton = new TextButton(
                 user.isDailyOfferPurchased() ? "Claimed Today" : "Claim (1 per day)", skin);
         dailyOfferButton.setDisabled(user.isDailyOfferPurchased());
-        dailyOfferButton.addListener(new com.badlogic.gdx.scenes.scene2d.utils.ClickListener() {
+        dailyOfferButton.addListener(new ClickListener() {
             @Override
-            public void clicked(com.badlogic.gdx.scenes.scene2d.InputEvent event, float x, float y) {
+            public void clicked(InputEvent event, float x, float y) {
                 doClaimDailyOffer();
             }
         });
@@ -110,23 +123,56 @@ public class ShopScreen extends BaseMenuScreen {
         }
     }
 
-    private void addItemRow(Table table, String itemName, String priceText, boolean useDiamonds) {
+    private void addItemRow(Table table, String itemName, int price, String unit, boolean useDiamonds) {
         Stack iconStack = new Stack();
         if (!AssetPaths.CARD_BACKGROUND.isEmpty()) {
             iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         }
-        iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(itemName))));
+        iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.shopItemIcon(itemName))));
         table.add(iconStack).size(48f).padRight(10f);
         table.add(new Label(itemName, skin)).width(220f).left();
-        table.add(new Label(priceText, skin)).width(120f);
-        addButton(table, "Buy", () -> doPurchase(itemName, useDiamonds));
+        table.add(new Label(price + " " + unit, skin)).width(120f);
+        addButton(table, "Buy", () -> askConfirmation(itemName, price, unit, useDiamonds));
         table.row();
     }
 
-    private void doPurchase(String itemName, boolean useDiamonds) {
+    /** طبق سند: قبل از خرید باید از کاربر تأیید گرفته شود. */
+    private void askConfirmation(String itemName, int price, String unit, boolean useDiamonds) {
+        clearError();
+        confirmPanel.clear();
+        boolean needsPlantChoice = "chosen-seed-packet".equals(itemName);
+
+        Label question = new Label("Buy " + itemName + " for " + price + " " + unit + "?", skin);
+        confirmPanel.add(question).colspan(3).padBottom(6f).row();
+
+        if (needsPlantChoice) {
+            User user = game.getLoggedInUser();
+            plantPickerBox = new SelectBox<>(skin);
+            java.util.List<String> unlocked = new ArrayList<>(user.getUnlockedPlants());
+            if (unlocked.isEmpty()) {
+                confirmPanel.add(new Label("You have no unlocked plants to choose from.", skin)).colspan(3).row();
+                return;
+            }
+            plantPickerBox.setItems(unlocked.toArray(new String[0]));
+            confirmPanel.add(new Label("Plant:", skin)).padRight(6f);
+            confirmPanel.add(plantPickerBox).width(200f).padRight(10f);
+            confirmPanel.row();
+        }
+
+        Table buttons = new Table();
+        addButton(buttons, "Confirm", () -> {
+            String plantType = needsPlantChoice ? plantPickerBox.getSelected() : null;
+            doPurchase(itemName, useDiamonds, plantType);
+        });
+        addButton(buttons, "Cancel", confirmPanel::clear);
+        confirmPanel.add(buttons).colspan(3).row();
+    }
+
+    private void doPurchase(String itemName, boolean useDiamonds, String plantType) {
         clearError();
         User user = game.getLoggedInUser();
-        boolean success = game.getShopController().processPurchase(user, itemName, 1, null);
+        boolean success = game.getShopController().processPurchase(user, itemName, 1, plantType);
+        confirmPanel.clear();
         if (success) {
             hudBar.refresh(user);
         } else {

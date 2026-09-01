@@ -144,6 +144,7 @@ public class CollectionController {
 
         user.getUnlockedPlants().add(plantName);
         user.addSeedPackets(plantName, 1);
+        user.addNews("گیاه جدید باز شد: " + plantName);
         userManager.save();
         view.printMessage("گیاه " + plantName + " با موفقیت خریداری شد.");
         return true;

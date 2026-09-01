@@ -64,6 +64,8 @@ public class MiniGameScreen implements Screen {
     private WallnutBowlingSession.NutType selectedNutType = null;
     // برای من زامبی: نوع زامبی انتخاب‌شده برای قرار دادن
     private String selectedZombieType = null;
+    // برای کوزه‌شکنی: بذر افتاده‌ی انتخاب‌شده از نوار کناری برای کاشت بعدی
+    private VasebreakerSession.DroppedSeedPacket selectedDroppedSeed = null;
     // برای Beghouled: خانه‌ی اول انتخاب‌شده برای جابجایی
     private int[] firstSwapTile = null;
 
@@ -147,9 +149,44 @@ public class MiniGameScreen implements Screen {
             addUpgradeButton("puffshroom", 250);
             addUpgradeButton("cabbagepult", 1000);
         } else if (session instanceof VasebreakerSession) {
-            sidebarTable.add(new Label("Tap a vase to", skin)).left().row();
-            sidebarTable.add(new Label("break it.", skin)).left().row();
+            VasebreakerSession vb = (VasebreakerSession) session;
+            sidebarTable.add(new Label("Tap a vase to break it.", skin)).left().row();
+            java.util.List<VasebreakerSession.DroppedSeedPacket> seeds = vb.getDroppedSeeds();
+            if (!seeds.isEmpty()) {
+                sidebarTable.add(new Label("Plants collected:", skin)).left().padTop(10f).row();
+                for (VasebreakerSession.DroppedSeedPacket seed : seeds) {
+                    sidebarTable.add(buildDroppedSeedCard(seed)).size(80f, 80f).padBottom(6f).row();
+                }
+            }
         }
+    }
+
+    /** کارت یک گیاهِ به‌دست‌آمده از کوزه‌ی سبز که هنوز کاشته نشده؛ طبق سند باید
+     *  در بخش مناسبی نمایش داده شود تا کاربر بتواند آن را انتخاب و بکارد. عدد
+     *  روی کارت، زمان باقی‌مانده (بر حسب ثانیه) تا محو شدن بذر است. */
+    private com.badlogic.gdx.scenes.scene2d.ui.Stack buildDroppedSeedCard(VasebreakerSession.DroppedSeedPacket seed) {
+        com.badlogic.gdx.scenes.scene2d.ui.Stack stack = new com.badlogic.gdx.scenes.scene2d.ui.Stack();
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
+        stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.plantIcon(seed.plantType))));
+        Table overlay = new Table();
+        overlay.bottom();
+        Label label = new Label((seed.decayTicks / 10) + "s", skin);
+        label.setFontScale(0.6f);
+        overlay.add(label);
+        stack.add(overlay);
+
+        boolean isSelected = selectedDroppedSeed == seed;
+        if (isSelected) {
+            stack.setColor(1f, 1f, 0.6f, 1f); // هایلایت زرد برای بذر انتخاب‌شده
+        }
+        stack.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                selectedDroppedSeed = isSelected ? null : seed; // کلیک دوباره یعنی لغو انتخاب
+                SoundManager.playSound(AssetPaths.SFX_CLICK);
+            }
+        });
+        return stack;
     }
 
     /** کارت یک گردو در نوار نقاله، با آیکون واقعی همان گردو روی پس‌زمینه‌ی استاندارد کارت. */
@@ -168,19 +205,37 @@ public class MiniGameScreen implements Screen {
         return stack;
     }
 
-    /** کارت یک زامبی قابل‌انتخاب در «من زامبی»، با آیکون واقعی همان زامبی. */
+    /** کارت یک زامبی قابل‌انتخاب در «من زامبی»، با آیکون واقعی، قیمت و زمان
+     *  باقی‌مانده‌ی cooldown (دقیقاً مثل کارت گیاهان در مراحل عادی). */
     private com.badlogic.gdx.scenes.scene2d.ui.Stack buildZombieCard(String zombieType) {
+        IZombieSession iz = (IZombieSession) session;
         com.badlogic.gdx.scenes.scene2d.ui.Stack stack = new com.badlogic.gdx.scenes.scene2d.ui.Stack();
         stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.zombieIcon(zombieType))));
-        stack.addListener(new ClickListener() {
-            @Override
-            public void clicked(InputEvent event, float x, float y) {
-                selectedZombieType = zombieType;
-                selectedNutType = null;
-                SoundManager.playSound(AssetPaths.SFX_CLICK);
-            }
-        });
+
+        boolean onCooldown = iz.isZombieOnCooldown(zombieType);
+        Table overlay = new Table();
+        overlay.bottom();
+        String caption = onCooldown
+                ? (iz.getZombieCooldownRemaining(zombieType) / 10) + "s"
+                : String.valueOf(iz.getZombieCost(zombieType));
+        Label label = new Label(caption, skin);
+        label.setFontScale(0.6f);
+        overlay.add(label);
+        stack.add(overlay);
+
+        if (onCooldown) {
+            stack.getColor().a = 0.5f; // کم‌رنگ کردن کارت در حال شارژ (مطابق رفتار کارت گیاه در حال cooldown)
+        } else {
+            stack.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    selectedZombieType = zombieType;
+                    selectedNutType = null;
+                    SoundManager.playSound(AssetPaths.SFX_CLICK);
+                }
+            });
+        }
         return stack;
     }
 
@@ -360,7 +415,7 @@ public class MiniGameScreen implements Screen {
         Vector2 touch = stage.screenToStageCoordinates(new Vector2(Gdx.input.getX(), Gdx.input.getY()));
 
         int col = (int) ((touch.x - BOARD_LEFT) / TILE_W);
-        int row = (int) ((BOARD_TOP - touch.y) / TILE_H) - 1;
+        int row = (int) ((BOARD_TOP - touch.y) / TILE_H);
         if (col < 0 || col >= Board.COLS || row < 0 || row >= Board.ROWS) {
             return;
         }
@@ -378,12 +433,29 @@ public class MiniGameScreen implements Screen {
 
     private void handleVasebreakerClick(int row, int col) {
         VasebreakerSession vb = (VasebreakerSession) session;
+
+        // اگر خانه‌ی کلیک‌شده کوزه نداشته باشد و کاربر یک بذر از نوار کناری
+        // انتخاب کرده باشد، تلاش برای کاشت همان بذر در این خانه انجام می‌شود
+        // (طبق سند: بذرهای به‌دست‌آمده باید در بخش مناسبی قابل‌انتخاب و کاشت باشند).
+        if (vb.getVaseAt(row, col) == null && selectedDroppedSeed != null) {
+            VasebreakerSession.PlantSeedResult result = vb.plantDroppedSeed(
+                    selectedDroppedSeed.row, selectedDroppedSeed.col, row, col);
+            if (result == VasebreakerSession.PlantSeedResult.SUCCESS) {
+                statusLabel.setText(selectedDroppedSeed.plantType + " planted!");
+                selectedDroppedSeed = null;
+            } else if (result == VasebreakerSession.PlantSeedResult.INVALID_TARGET) {
+                statusLabel.setText("Can't plant there.");
+            } else {
+                statusLabel.setText("That seed is no longer available.");
+                selectedDroppedSeed = null;
+            }
+            return;
+        }
+
         VasebreakerSession.VaseBreakResult result = vb.breakVase(row, col);
         switch (result.status) {
             case NO_VASE:
-                // اگر کوزه نبود، شاید بذر افتاده‌ای اینجا باشد که کاربر می‌خواهد بکارد؛
-                // برای سادگی در این پیاده‌سازی گرافیکی، تلاش برای کاشت بذر افتاده در همین خانه انجام می‌شود.
-                vb.plantDroppedSeed(row, col, row, col);
+                statusLabel.setText("Nothing here. Select a plant from the sidebar to plant it here.");
                 break;
             case GREEN_SEED:
                 statusLabel.setText("Green vase broke! Seed packet: " + result.contentName);
@@ -437,12 +509,16 @@ public class MiniGameScreen implements Screen {
         switch (result) {
             case SUCCESS:
                 statusLabel.setText(selectedZombieType + " placed!");
+                selectedZombieType = null;
                 break;
             case BEYOND_RED_LINE:
                 statusLabel.setText("You can only place zombies right of the red line.");
                 break;
             case NOT_ENOUGH_SUN:
                 statusLabel.setText("Not enough sun for " + selectedZombieType + ".");
+                break;
+            case ON_COOLDOWN:
+                statusLabel.setText(selectedZombieType + " is still recharging.");
                 break;
             default:
                 statusLabel.setText("Invalid zombie type.");

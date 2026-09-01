@@ -99,6 +99,49 @@ public final class ChapterPlan {
         return level >= 1 && level <= LEVELS_PER_CHAPTER;
     }
 
+    /**
+     * آیا فصل داده‌شده برای این کاربر باز (Unlock) است؟ فصل Beginner همیشه باز
+     * است؛ فصل N>0 وقتی باز می‌شود که فصل قبلی آن (N-1) به‌طور کامل (هر ۴
+     * مرحله) تمام شده باشد.
+     */
+    public static boolean isChapterUnlocked(model.user.User user, int chapter) {
+        if (!isValidChapter(chapter)) {
+            return false;
+        }
+        if (chapter == BEGINNER_CHAPTER) {
+            return true;
+        }
+        return user.getLastCompletedChapter() >= chapter - 1;
+    }
+
+    /**
+     * آیا مرحله‌ی level از فصل chapter برای این کاربر باز است؟ مرحله‌ی ۱ هر
+     * فصلِ بازشده همیشه باز است؛ مرحله‌ی L>1 وقتی باز می‌شود که مرحله‌ی L-1
+     * همان فصل قبلاً تمام شده باشد.
+     */
+    public static boolean isLevelUnlocked(model.user.User user, int chapter, int level) {
+        if (!isChapterUnlocked(user, chapter) || !isValidLevel(level)) {
+            return false;
+        }
+        if (level == 1) {
+            return true;
+        }
+        if (chapter == BEGINNER_CHAPTER) {
+            return level <= user.getBeginnerLastCompletedLevel() + 1;
+        }
+        // اگر این فصل قبلاً به‌طور کامل تمام شده باشد (lastCompletedChapter >= chapter)،
+        // یعنی همه‌ی ۴ مرحله‌اش باز است. در غیر این صورت، فقط اگر همین الان
+        // «فصل در حال پیشرفت» کاربر همین فصل باشد (lastCompletedChapter == chapter-1)،
+        // مقدار lastCompletedLevel معنا دارد.
+        if (user.getLastCompletedChapter() >= chapter) {
+            return true;
+        }
+        if (user.getLastCompletedChapter() == chapter - 1) {
+            return level <= user.getLastCompletedLevel() + 1;
+        }
+        return false;
+    }
+
     /** نام نمایشی فصل (برای پیام‌ها/HUD). */
     public static String displayName(int chapter) {
         switch (chapter) {
@@ -108,6 +151,79 @@ public final class ChapterPlan {
             case 3: return "Big Wave Beach";
             case 4: return "Dark Ages";
             default: return "Unknown";
+        }
+    }
+
+    /**
+     * ستون خط مرگ برای مُد «ددلاین»؛ در مرحله‌ی ۳ (سخت‌تر) نسبت به مرحله‌ی ۲
+     * ستون بزرگ‌تری داده می‌شود تا فضای کمتری برای واکنش باقی بماند... در واقع
+     * برعکس: عدد ستون کوچک‌تر یعنی خط نزدیک‌تر به خانه‌ی بازیکن و فرصت کمتر؛
+     * پس برای سخت‌تر شدن، ستون را کوچک‌تر می‌دهیم.
+     */
+    public static int deadLineColumnFor(int level) {
+        return (level == 3) ? 1 : 2;
+    }
+
+    /** حداکثر گیاهان مجاز هم‌زمان برای مُد «از دست نده»؛ مرحله‌ی سخت‌تر سقف کمتری دارد. */
+    public static int loveYourPlantsMaxFor(int level) {
+        return (level == 3) ? 10 : 15;
+    }
+
+    /** خورشید اولیه‌ی ثابت برای مُد «هرچه رسد بکار»؛ مرحله‌ی سخت‌تر خورشید کمتری می‌دهد. */
+    public static int plantWhatYouGetStartingSunFor(int level) {
+        return (level == 3) ? 500 : 800;
+    }
+
+    /** خورشید کمکی اولیه برای مُد «شب عملیات»؛ مرحله‌ی سخت‌تر کمک کمتری می‌دهد. */
+    public static int nightOpsStartingSunFor(int level) {
+        return (level == 3) ? 50 : 100;
+    }
+
+    /** فاصله‌ی زمانی (بر حسب تیک) تولید گیاه جدید روی نوار در مُد «نوار کناری»؛ مرحله‌ی سخت‌تر سریع‌تر است. */
+    public static int conveyorBeltSpeedTicksFor(int level) {
+        return (level == 3) ? 90 : 130;
+    }
+
+    /** هدف و زمان مُد «نبرد زمان‌دار»: مرحله‌ی ۲ کشتن زامبی، مرحله‌ی ۳ تولید خورشید (طبق دو مثال سند). */
+    public static model.levelrules.TimedWarRules.Objective timedWarObjectiveFor(int level) {
+        return (level == 3) ? model.levelrules.TimedWarRules.Objective.PRODUCE_SUN
+                             : model.levelrules.TimedWarRules.Objective.KILL_ZOMBIES;
+    }
+
+    public static int timedWarTargetFor(int level) {
+        return (level == 3) ? 3000 : 10; // ۳۰۰۰ خورشید یا ۱۰ زامبی، طبق مثال‌های سند
+    }
+
+    public static int timedWarSecondsFor(int level) {
+        return (level == 3) ? 60 : 5; // طبق مثال سند: ۱۰ زامبی در ۵ ثانیه
+    }
+
+    /** توضیح کوتاه هر مُد ویژه، برای نمایش در صفحه‌ی «آغاز مرحله» قبل از شروع بازی. */
+    public static java.util.List<String> objectivesFor(int chapter, int level) {
+        LevelMode mode = levelModeFor(chapter, level);
+        switch (mode) {
+            case CONVEYOR_BELT:
+                return java.util.List.of("Plants arrive randomly on a conveyor belt — plant them before they scroll past.");
+            case LOCKED_PLANTS:
+                return java.util.List.of("Only a limited set of plants is available in this level.");
+            case SAVE_OUR_SEEDS:
+                return java.util.List.of("Protect the marked plants — losing even one means defeat.");
+            case TIMED_WAR:
+                return java.util.List.of(timedWarObjectiveFor(level) == model.levelrules.TimedWarRules.Objective.PRODUCE_SUN
+                        ? ("Produce " + timedWarTargetFor(level) + " sun within " + timedWarSecondsFor(level) + " seconds.")
+                        : ("Kill " + timedWarTargetFor(level) + " zombies within " + timedWarSecondsFor(level) + " seconds."));
+            case NIGHT_OPS:
+                return java.util.List.of("No sun falls from the sky — rely on sun-producing plants.");
+            case DEAD_LINE:
+                return java.util.List.of("Don't let any zombie cross the marked line.");
+            case LOVE_YOUR_PLANTS:
+                return java.util.List.of("Keep no more than " + loveYourPlantsMaxFor(level) + " plants on the lawn at once.");
+            case PLANT_WHAT_YOU_GET:
+                return java.util.List.of("You start with " + plantWhatYouGetStartingSunFor(level)
+                        + " sun and no more falls. Plant freely, then start the waves yourself.");
+            case NORMAL:
+            default:
+                return java.util.Collections.emptyList();
         }
     }
 }
