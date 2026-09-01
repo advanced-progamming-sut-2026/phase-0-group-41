@@ -210,6 +210,30 @@ public class ClientHandler implements Runnable {
                         break;
                     }
 
+                    // بخش امتیازی فاز ۳: پس از هر دور بازی امتیازی، امتیاز کاربر
+                    // به سرور ارسال می‌شود؛ رکورد فقط در صورتی که امتیاز جدید
+                    // بیشتر باشد به‌روزرسانی می‌شود (منطق مقایسه داخل User است تا
+                    // کلاینت نتواند با ارسال مستقیم مقدار بزرگ تقلب کند).
+                    case "SUBMIT_SCORE_GAME_RESULT": {
+                        String username = request.data.get("username");
+                        User user = userManager.findByUsername(username);
+                        if (user == null) {
+                            response.responseBody = "ERR_USER_NOT_FOUND";
+                            break;
+                        }
+                        int score = parseIntOr(request.data.get("score"), -1);
+                        if (score < 0) {
+                            response.responseBody = "ERR_INVALID_SCORE";
+                            break;
+                        }
+                        user.updateMaxMowPoints(score);
+                        userManager.save();
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        response.data.put("myPoint", String.valueOf(user.getMaxMowPoints()));
+                        break;
+                    }
+
                     case "LOGOUT": {
                         String username = request.data.get("username");
                         if (username != null) {

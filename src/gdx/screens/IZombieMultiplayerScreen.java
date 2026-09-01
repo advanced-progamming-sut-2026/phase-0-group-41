@@ -59,9 +59,16 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
     private static final float REACTION_POLL_INTERVAL = 1.0f;
     private static final String[] ZOMBIE_TYPES = {"normal", "conehead", "buckethead", "imp"};
     private static final String[] PLANT_TYPES = {"peashooter", "sunflower", "wallnut", "potatomine", "squash"};
-    private static final String[] QUICK_MESSAGES = {"Nice move!", "Good luck!", "GG!"};
-    private static final String[] EMOJIS = {"\uD83D\uDE00", "\uD83D\uDE20", "\uD83D\uDC4D"}; // 😀 😠 👍
-    private static final String[] STICKERS = {"\u2B50", "\uD83D\uDD25", "\uD83D\uDC80"}; // ⭐ 🔥 💀
+    // ۴ پیام متنی آماده طبق سند فاز ۳ (بخش «سیستم ارسال واکنش در حین بازی»)
+    private static final String[] QUICK_MESSAGES = {
+            "Hello!",
+            "I'll eat your brain",
+            "You're a loser",
+            "good game!"
+    };
+    // ۳ ایموجی: خنده، گریه، دست عضله‌نشان (نماد قدرت/زور بازو)
+    private static final String[] EMOJIS = {"\uD83D\uDE02", "\uD83D\uDE22", "\uD83D\uDCAA"}; // 😂 😢 💪
+    private static final String[] STICKERS = {"\u2B50", "\uD83D\uDD25", "\uD83D\uDC80"}; // ⭐ 🔥 💀 (بخش امتیازی)
 
     private final PvZGame game;
     private final Stage stage;
