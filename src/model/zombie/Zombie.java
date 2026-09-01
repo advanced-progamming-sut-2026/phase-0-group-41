@@ -96,6 +96,15 @@ public abstract class Zombie {
 
 
 
+    // === جلوه‌ی گردباد در مصر باستان (فقط بصری؛ منطق آن در GameSession است) ===
+    // اگر true باشد، یعنی این زامبی به‌واسطه‌ی گردباد چند خانه جلوتر از حالت
+    // عادی وارد زمین شده؛ لایه‌ی گرافیکی از این پرچم برای نمایش جلوه‌ی گردباد
+    // (مثلاً یک ابر گردوغبار) روی این زامبی هنگام ورودش استفاده می‌کند.
+    private boolean spawnedByTornado = false;
+
+    public boolean isSpawnedByTornado() { return spawnedByTornado; }
+    public void setSpawnedByTornado(boolean spawnedByTornado) { this.spawnedByTornado = spawnedByTornado; }
+
     public void spawn(int row, double xPosition) {
         this.row = row;
         this.xPosition = xPosition;

@@ -18,11 +18,6 @@ import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
-import gdx.render.AnimatedEntity;
-import gdx.render.PamAssets;
-import gdx.render.PlantVisualManager;
-import gdx.render.ZombieVisualManager;
-
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
 import gdx.util.ImageUtils;
@@ -42,14 +37,22 @@ import model.zombie.Zombie;
 import java.util.List;
 
 /**
- * Main gameplay screen (fixed).
+ * صفحه‌ی گرافیکی اصلی گیم‌پلی. این صفحه دقیقاً همان چیزی است که در سند فاز دو
+ * زیر بخش‌های «اطلاعات بازی»، «المان‌های محیط بازی» و «تعاملات کاربر با بازی»
+ * توضیح داده شده: نمایش تخته‌ی ۵×۹، گیاهان/زامبی‌ها روی خانه‌ها، پرتابه‌ها،
+ * خورشیدهای سقوط‌کننده، قبرها، چمن‌زن‌ها، نوار پیشرفت زامبی‌ها، شمارنده‌ی
+ * غذای گیاه، و نوار کناری برای کاشت/برداشت/غذادهی/تقلب.
+ * <p>
+ * منطق بازی (Model) به‌طور کامل توسط {@link GameSession} انجام می‌شود؛ این
+ * کلاس فقط وضعیت را می‌خواند و روی صفحه رسم می‌کند، و ورودی کاربر را به
+ * متدهای مدل ترجمه می‌کند (دقیقاً هم‌ارز با GameController کنسولی).
  */
 public class GameScreen implements Screen {
 
     public static final float WORLD_WIDTH = 1280f;
     public static final float WORLD_HEIGHT = 720f;
 
-    // Board configuration
+    // ابعاد و مبدأ شبکه‌ی بازی روی صفحه
     private static final float BOARD_LEFT = 260f;
     private static final float BOARD_TOP = 640f;
     private static final float TILE_W = 100f;
@@ -63,20 +66,20 @@ public class GameScreen implements Screen {
     private final int level;
 
     private final Table sidebarTable = new Table();
+    private final Table cardsTable = new Table(); // کارت‌های گیاه انتخابی (یا گیاهان روی نوار نقاله)
     private final Table hudTable = new Table();
     private final Label sunLabel;
     private final Label plantFoodLabel;
+    private final Label modeStatusLabel; // نوار وضعیت مُد ویژه (نبرد زمان‌دار، محافظ دانه‌ها و ...)؛ هر فریم آپدیت می‌شود
+    private TextButton startWavesButton = null; // فقط برای مُد «هرچه رسد بکار»؛ بعد از شروع موج‌ها مخفی می‌شود
     private final Table zombieProgressBar = new Table();
 
-    private final ZombieVisualManager zombieVisuals = new ZombieVisualManager();
-    private final PlantVisualManager plantVisuals = new PlantVisualManager();
-
-    private String selectedPlantToPlant = null; // Plant to be planted
-    private boolean shovelSelected = false;      // Shovel selected
-    private boolean plantFoodSelected = false;   // Plant food selected
+    private String selectedPlantToPlant = null; // نام گیاهی که کاربر برای کاشت انتخاب کرده (از نوار کناری)
+    private boolean shovelSelected = false;      // حالت انتخاب بیلچه برای برداشت گیاه
+    private boolean plantFoodSelected = false;   // حالت انتخاب غذای گیاه برای اعمال روی یک گیاه
 
     private float tickAccumulator = 0f;
-    private static final float SECONDS_PER_TICK = 0.1f; // Defined by model
+    private static final float SECONDS_PER_TICK = 0.1f; // هر تیک = ۰.۱ ثانیه (طبق مدل)
 
     private boolean announcedGameOver = false;
 
@@ -92,6 +95,7 @@ public class GameScreen implements Screen {
 
         sunLabel = new Label("0", skin);
         plantFoodLabel = new Label("0", skin);
+        modeStatusLabel = new Label("", skin);
 
         buildHud();
         buildSidebar();
@@ -102,10 +106,10 @@ public class GameScreen implements Screen {
         Gdx.input.setInputProcessor(stage);
     }
 
-    // ==================== HUD Construction ====================
+    // ==================== ساخت رابط کاربری ثابت (HUD) ====================
 
     private void buildHud() {
-        // --- Pause menu ---
+        // --- منوی توقف (دکمه‌ی Pause بالای صفحه، طبق بخش «توقف بازی») ---
         TextButton pauseButton = new TextButton("II", skin);
         pauseButton.addListener(new ClickListener() {
             @Override
@@ -114,17 +118,17 @@ public class GameScreen implements Screen {
             }
         });
 
-        // --- Sun counter ---
+        // --- شمارنده‌ی خورشید (تعداد خورشیدهای جمع‌آوری‌شده) ---
         Table sunBox = new Table();
         sunBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(36f).padRight(4f);
         sunBox.add(sunLabel).padRight(16f);
 
-        // --- Plant food counter ---
+        // --- شمارنده‌ی غذای گیاه (Plant Food) ---
         Table foodBox = new Table();
         foodBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_PLANT_FOOD_LEAF))).size(30f).padRight(4f);
         foodBox.add(plantFoodLabel).padRight(16f);
 
-        // --- Coins and Diamonds ---
+        // --- سکه و الماس (طبق سند: در تمامی منوها حتی حین بازی قابل مشاهده باشد) ---
         User user = session.getUser();
         Table coinBox = new Table();
         coinBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_COIN))).size(28f).padRight(4f);
@@ -143,7 +147,7 @@ public class GameScreen implements Screen {
         topRow.add(coinBox);
         topRow.add(diamondBox);
 
-        // --- Debug functions ---
+        // --- خانه‌های دیباگ: نمایش فقط وقتی حالت دیباگ کاربر فعال باشد ---
         if (user.isDebugMode()) {
             TextButton addSunCheat = new TextButton("+ Sun", skin);
             addSunCheat.addListener(new ClickListener() {
@@ -159,15 +163,83 @@ public class GameScreen implements Screen {
                     session.addPlantFood();
                 }
             });
+            TextButton removeCooldownCheat = new TextButton("No Cooldown", skin);
+            removeCooldownCheat.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    session.clearAllCooldowns();
+                }
+            });
+            TextButton addCoinCheat = new TextButton("+ Coin", skin);
+            addCoinCheat.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    user.setCoins(user.getCoins() + 500);
+                }
+            });
+            TextButton addDiamondCheat = new TextButton("+ Diamond", skin);
+            addDiamondCheat.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    user.setDiamonds(user.getDiamonds() + 5);
+                }
+            });
+            TextButton spawnZombieCheat = new TextButton("Spawn Zombie", skin);
+            spawnZombieCheat.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    int dl = session.getUser().getDifficultyLevel();
+                    Zombie z = model.zombie.ZombieFactory.create("normal", dl);
+                    int row = new java.util.Random().nextInt(Board.ROWS);
+                    z.spawn(row, Board.COLS - 1);
+                    z.setSpawnTick((int) session.getTickCount());
+                    session.getAliveZombies().add(z);
+                }
+            });
+            TextButton nukeCheat = new TextButton("Nuke", skin);
+            nukeCheat.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    session.getAliveZombies().clear();
+                }
+            });
             topRow.add(addSunCheat).padLeft(8f);
             topRow.add(addFoodCheat).padLeft(8f);
+            topRow.add(removeCooldownCheat).padLeft(8f);
+            topRow.add(addCoinCheat).padLeft(8f);
+            topRow.add(addDiamondCheat).padLeft(8f);
+            topRow.add(spawnZombieCheat).padLeft(8f);
+            topRow.add(nukeCheat).padLeft(8f);
         }
 
         hudTable.add(topRow).padTop(8f).row();
+
+        // --- نوار وضعیت مُد ویژه‌ی مرحله (طبق سند: وضعیت مأموریت‌ها/محدودیت‌ها
+        //     باید حین بازی به‌طریقی نمایش داده شود). متن این برچسب هر فریم در
+        //     render() به‌روزرسانی می‌شود (چون مثلاً شمارش معکوس نبرد زمان‌دار زنده است). ---
+        modeStatusLabel.setText(session.getLevelRules().getHudStatusText(session));
+        hudTable.add(modeStatusLabel).padTop(4f).row();
+
+        // --- مُد «هرچه رسد بکار»: دکمه‌ی شروع دستیِ موج‌ها بعد از اتمام کاشت ---
+        if (session.getLevelRules() instanceof model.levelrules.PlantWhatYouGetRules) {
+            model.levelrules.PlantWhatYouGetRules pwyg = (model.levelrules.PlantWhatYouGetRules) session.getLevelRules();
+            startWavesButton = new TextButton("Let's Rock! (Start Waves)", skin);
+            startWavesButton.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    pwyg.startWaves(session);
+                }
+            });
+            hudTable.add(startWavesButton).padTop(6f).row();
+        }
+
         stage.addActor(hudTable);
     }
 
     private void buildZombieProgressBar() {
+        // نوار پیشرفت زامبی‌ها: نوار در ابتدای مرحله خالی و در انتهای آن پر است
+        // (طبق بخش «پیشروی زامبی‌ها»). این پیاده‌سازی ساده، بر اساس شماره‌ی موج فعلی
+        // نسبت به تعداد کل موج‌ها است.
         zombieProgressBar.setFillParent(false);
         Table wrapper = new Table();
         wrapper.setFillParent(true);
@@ -196,14 +268,10 @@ public class GameScreen implements Screen {
         sidebarTable.top().left();
         sidebarTable.padTop(60f).padLeft(8f);
 
-        List<String> selectedPlants = game.getPlantSelectionController().getSelectedPlants();
-        Table cardsTable = new Table();
-        for (String plantName : selectedPlants) {
-            cardsTable.add(buildPlantCard(plantName)).size(70f, 90f).pad(2f).row();
-        }
+        refreshPlantCards();
         sidebarTable.add(cardsTable).row();
 
-        // --- Shovel button ---
+        // --- دکمه‌ی برداشت گیاه (بیلچه) ---
         TextButton shovelButton = new TextButton("Shovel", skin);
         shovelButton.addListener(new ClickListener() {
             @Override
@@ -216,7 +284,7 @@ public class GameScreen implements Screen {
         });
         sidebarTable.add(shovelButton).padTop(10f).width(70f).row();
 
-        // --- Plant food button ---
+        // --- دکمه‌ی استفاده از غذای گیاه ---
         TextButton foodButton = new TextButton("Plant Food", skin);
         foodButton.addListener(new ClickListener() {
             @Override
@@ -232,6 +300,29 @@ public class GameScreen implements Screen {
         sidebarTable.add(foodButton).padTop(6f).width(70f).row();
 
         stage.addActor(sidebarTable);
+    }
+
+    /**
+     * کارت‌های گیاه سمت چپ صفحه را می‌سازد. در حالت عادی، همان گیاهانی که
+     * بازیکن قبل از شروع مرحله انتخاب کرده نمایش داده می‌شود. در مُد «نوار
+     * نقاله»، به‌جای آن، فقط گیاهانی که همین الان روی نوار هستند نشان داده
+     * می‌شوند (طبق سند: بدون نیاز به انیمیشن، صرفاً گیاهان موجود روی نوار).
+     */
+    private void refreshPlantCards() {
+        cardsTable.clear();
+        model.levelrules.ILevelRules rules = session.getLevelRules();
+        List<String> plantsToShow;
+        if (rules instanceof model.levelrules.ConveyorBeltRules) {
+            plantsToShow = ((model.levelrules.ConveyorBeltRules) rules).getBeltPlants();
+        } else if (rules instanceof model.levelrules.LockedPlantsRules) {
+            // فقط گیاهان مجاز این مُد نمایش داده شوند (طبق سند: بعضی اسلات‌ها/گیاهان از ابتدا قفل‌اند)
+            plantsToShow = ((model.levelrules.LockedPlantsRules) rules).getAllowedPlants();
+        } else {
+            plantsToShow = game.getPlantSelectionController().getSelectedPlants();
+        }
+        for (String plantName : plantsToShow) {
+            cardsTable.add(buildPlantCard(plantName)).size(70f, 90f).pad(2f).row();
+        }
     }
 
     private Stack buildPlantCard(String plantName) {
@@ -252,7 +343,7 @@ public class GameScreen implements Screen {
             @Override
             public void clicked(InputEvent event, float x, float y) {
                 if (session.isPlantOnCooldown(plantName)) {
-                    return; // On cooldown
+                    return; // در حال شارژ (Cooldown) - طبق سند، قابل انتخاب نیست
                 }
                 selectedPlantToPlant = plantName;
                 shovelSelected = false;
@@ -262,7 +353,7 @@ public class GameScreen implements Screen {
         return stack;
     }
 
-    // ==================== Pause Menu ====================
+    // ==================== منوی توقف ====================
 
     private void openPauseMenu() {
         game.setScreen(new PauseScreen(game, this, this::restartLevel));
@@ -273,7 +364,7 @@ public class GameScreen implements Screen {
         game.setScreen(new GameScreen(game, fresh, chapter, level));
     }
 
-    // ==================== Render Loop ====================
+    // ==================== حلقه‌ی اصلی رندر ====================
 
     @Override
     public void render(float delta) {
@@ -285,17 +376,6 @@ public class GameScreen implements Screen {
             while (tickAccumulator >= SECONDS_PER_TICK) {
                 tickAccumulator -= SECONDS_PER_TICK;
                 session.advanceOneTick();
-                zombieVisuals.sync(session.getAliveZombies(), new ZombieVisualManager.TileMapper() {
-                    public float x(double col) { return tileXFloat((float) col); }
-                    public float y(int row) { return tileY(row); }
-                });
-                plantVisuals.sync(session.getBoard(), new PlantVisualManager.TileMapper() {
-                    public float x(int col) { return tileX(col); }
-                    public float y(int row) { return tileY(row); }
-                });
-                zombieVisuals.update(delta);
-                plantVisuals.update(delta);
-                PamAssets.get().update();
 
                 FallingSun newSun = session.getSunManager().tick(session.getBoard());
                 if (newSun != null) {
@@ -312,13 +392,15 @@ public class GameScreen implements Screen {
             return;
         }
 
-        // --- Background drawing ---
+        // --- رسم پس‌زمینه‌ی صحنه بر اساس فصل مرحله (طبق بخش «فصل‌ها») ---
         stage.getBatch().begin();
         String bg = seasonBackground();
         if (!bg.isEmpty()) {
             stage.getBatch().draw(ImageUtils.loadRegion(bg), 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
         }
         drawBoard(stage.getBatch());
+        drawTerrainOverlays(stage.getBatch());
+        drawSpecialLevelOverlays(stage.getBatch());
         drawGraves(stage.getBatch());
         drawLawnMowers(stage.getBatch());
         drawPlants(stage.getBatch());
@@ -327,9 +409,17 @@ public class GameScreen implements Screen {
         drawFallingSuns(stage.getBatch());
         stage.getBatch().end();
 
-        // --- Update HUD labels ---
+        // --- به‌روزرسانی برچسب‌های HUD ---
         sunLabel.setText(String.valueOf(session.getSunManager().getCurrentSun()));
         plantFoodLabel.setText(String.valueOf(session.getPlantFoodCount()));
+        modeStatusLabel.setText(session.getLevelRules().getHudStatusText(session));
+        if (session.getLevelRules() instanceof model.levelrules.ConveyorBeltRules) {
+            refreshPlantCards(); // لیست نوار نقاله مدام تغییر می‌کند
+        }
+        if (startWavesButton != null) {
+            boolean wavesStarted = ((model.levelrules.PlantWhatYouGetRules) session.getLevelRules()).isWavesStarted();
+            startWavesButton.setVisible(!wavesStarted);
+        }
         refreshZombieProgressBar();
 
         stage.act(delta);
@@ -339,30 +429,28 @@ public class GameScreen implements Screen {
     }
 
     private String seasonBackground() {
-        // Simplified فصل (Chapter) fallback
-        switch (chapter) {
-            case 1: return AssetPaths.BG_LAWN_ANCIENT_EGYPT;
-            case 2: return AssetPaths.BG_LAWN_FROSTBITE_CAVES;
-            case 3: return AssetPaths.BG_LAWN_BIG_WAVE_BEACH;
-            case 4: return AssetPaths.BG_LAWN_DARK_AGES;
+        switch (session.getSeason()) {
+            case ANCIENT_EGYPT: return AssetPaths.BG_LAWN_ANCIENT_EGYPT;
+            case FROSTBITE_CAVES: return AssetPaths.BG_LAWN_FROSTBITE_CAVES;
+            case BIG_WAVE_BEACH: return AssetPaths.BG_LAWN_BIG_WAVE_BEACH;
+            case DARK_AGES: return AssetPaths.BG_LAWN_DARK_AGES;
             default: return AssetPaths.BG_LAWN_NORMAL;
         }
     }
 
+    /** چمن‌زن مخصوص فصل فعلی مرحله (طبق بخش «پس‌زمینه‌ی هر فصل باید همان چمن‌زن مخصوص را داشته باشد»). */
     private String seasonMowerPath(boolean used) {
-        switch (chapter) {
-            case 1: return used ? AssetPaths.LAWN_MOWER_USED_EGYPT : AssetPaths.LAWN_MOWER_IDLE_EGYPT;
-            case 2: return used ? AssetPaths.LAWN_MOWER_USED_ICEAGE : AssetPaths.LAWN_MOWER_IDLE_ICEAGE;
-            case 3: return used ? AssetPaths.LAWN_MOWER_USED_BEACH : AssetPaths.LAWN_MOWER_IDLE_BEACH;
-            case 4: return used ? AssetPaths.LAWN_MOWER_USED_DARK : AssetPaths.LAWN_MOWER_IDLE_DARK;
+        switch (session.getSeason()) {
+            case ANCIENT_EGYPT: return used ? AssetPaths.LAWN_MOWER_USED_EGYPT : AssetPaths.LAWN_MOWER_IDLE_EGYPT;
+            case FROSTBITE_CAVES: return used ? AssetPaths.LAWN_MOWER_USED_ICEAGE : AssetPaths.LAWN_MOWER_IDLE_ICEAGE;
+            case BIG_WAVE_BEACH: return used ? AssetPaths.LAWN_MOWER_USED_BEACH : AssetPaths.LAWN_MOWER_IDLE_BEACH;
+            case DARK_AGES: return used ? AssetPaths.LAWN_MOWER_USED_DARK : AssetPaths.LAWN_MOWER_IDLE_DARK;
             default: return used ? AssetPaths.LAWN_MOWER_USED_NORMAL : AssetPaths.LAWN_MOWER_IDLE_NORMAL;
         }
     }
 
-    // ==================== Entity Drawing ====================
-    private float tileXFloat(float col) {
-        return BOARD_LEFT + col * TILE_W;
-    }
+    // ==================== رسم تخته و موجودیت‌ها ====================
+
     private float tileX(int col) {
         return BOARD_LEFT + col * TILE_W;
     }
@@ -372,9 +460,81 @@ public class GameScreen implements Screen {
     }
 
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        // Implement special conveyor features here if needed
-        if (!AssetPaths.CONVEYOR_BELT_BG.isEmpty()) {
-            // TODO: Special conveyor logic
+        // پس‌زمینه‌ی خود تخته (اگر بخواهیم مجزا از پس‌زمینه‌ی کلی رسم شود) در همین‌جا اضافه می‌شود.
+        // فعلاً چون BG_LAWN_* کل صفحه را می‌پوشاند، چیزی اضافه نمی‌کنیم.
+    }
+
+    /**
+     * جلوه‌های بصری اختصاصی مراحل ویژه‌ی بخش ماجراجویی: خط ددلاین، نشانگر
+     * خانه‌های محافظت‌شده (محافظ دانه‌ها). سایر مُدهای ویژه (نوار نقاله، نبرد
+     * زمان‌دار، از دست نده، هرچه رسد بکار) در نوار وضعیت بالای صفحه (buildHud)
+     * یا نوار کناری (buildSidebar) نمایش داده می‌شوند، نه روی خودِ خانه‌ها.
+     */
+    private void drawSpecialLevelOverlays(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        model.levelrules.ILevelRules rules = session.getLevelRules();
+
+        if (rules instanceof model.levelrules.DeadLineRules) {
+            int col = ((model.levelrules.DeadLineRules) rules).getDeadLineColumn();
+            float lineX = tileX(col) + TILE_W / 2f - 6f;
+            batch.draw(ImageUtils.loadRegion(AssetPaths.DEAD_LINE_MARKER),
+                    lineX, tileY(Board.ROWS - 1), 12f, TILE_H * Board.ROWS);
+        }
+
+        if (rules instanceof model.levelrules.SaveOurSeedsRules) {
+            for (model.levelrules.SaveOurSeedsRules.ProtectedTile pt
+                    : ((model.levelrules.SaveOurSeedsRules) rules).getProtectedTiles()) {
+                batch.draw(ImageUtils.loadRegion(AssetPaths.PROTECTED_TILE_MARKER),
+                        tileX(pt.col), tileY(pt.row), TILE_W, TILE_H);
+            }
+        }
+    }
+
+    /**
+     * جلوه‌های بصری اختصاصی هر فصل که روی خودِ خانه‌ها می‌نشینند: آب و خط
+     * حداکثر پیشروی آب و خانه‌ی ساحل پست (ساحل موج بزرگ)، زمین لغزنده به بالا/
+     * پایین (غارهای یخی). طبق سند فاز دو صفحه‌ی ۲۸-۲۹.
+     */
+    private void drawTerrainOverlays(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        Board board = session.getBoard();
+
+        // --- ساحل موج بزرگ: آب روی خانه‌های زیرِ سطح فعلی + خط مشخص‌کننده‌ی
+        //     حداکثر پیشروی آب در انتهای راست‌ترین ستونی که آب می‌تواند برسد ---
+        if (session.getSeason() == model.game.Season.BIG_WAVE_BEACH) {
+            int maxWaterCol = -1;
+            for (int r = 0; r < Board.ROWS; r++) {
+                for (int c = 0; c < Board.COLS; c++) {
+                    Tile tile = board.getTile(r, c);
+                    if (tile.isWater()) {
+                        batch.draw(ImageUtils.loadRegion(AssetPaths.WATER_TILE), tileX(c), tileY(r), TILE_W, TILE_H);
+                        maxWaterCol = Math.max(maxWaterCol, c);
+                    }
+                    if (tile.isLowTideBeach()) {
+                        batch.draw(ImageUtils.loadRegion(AssetPaths.LOW_TIDE_BEACH_MARKER),
+                                tileX(c) + 20f, tileY(r) + 20f, TILE_W - 40f, TILE_H - 40f);
+                    }
+                }
+            }
+            // خط سرتاسری روی مرز چپِ ستون‌های پوشیده‌شده با آب (طبق سند: مشخص می‌کند
+            // آب حداکثر تا چه ستونی پیشروی می‌کند). خط باریک است، پس روی مرز کاشته می‌شود.
+            if (maxWaterCol >= 0) {
+                float lineX = tileX(maxWaterCol) - 6f;
+                batch.draw(ImageUtils.loadRegion(AssetPaths.WATER_LEVEL_LINE),
+                        lineX, tileY(Board.ROWS - 1), 12f, TILE_H * Board.ROWS);
+            }
+        }
+
+        // --- غارهای یخی: زمین‌های لغزنده به بالا/پایین ---
+        if (session.getSeason() == model.game.Season.FROSTBITE_CAVES) {
+            for (int r = 0; r < Board.ROWS; r++) {
+                for (int c = 0; c < Board.COLS; c++) {
+                    Tile.SliderDirection dir = board.getTile(r, c).getSliderDirection();
+                    if (dir == Tile.SliderDirection.UP) {
+                        batch.draw(ImageUtils.loadRegion(AssetPaths.ICE_SLIDER_UP), tileX(c), tileY(r), TILE_W, TILE_H);
+                    } else if (dir == Tile.SliderDirection.DOWN) {
+                        batch.draw(ImageUtils.loadRegion(AssetPaths.ICE_SLIDER_DOWN), tileX(c), tileY(r), TILE_W, TILE_H);
+                    }
+                }
+            }
         }
     }
 
@@ -388,24 +548,30 @@ public class GameScreen implements Screen {
                     batch.draw(ImageUtils.loadRegion(path), tileX(c), tileY(r), TILE_W, TILE_H);
                 }
                 if (tile.isNecromancyTile() && !AssetPaths.NECROMANCY_TILE_MARKER.isEmpty()) {
-                    batch.draw(ImageUtils.loadRegion(AssetPaths.NECROMANCY_TILE_MARKER), tileX(c), tileY(r), TILE_W, TILE_H);
+                    batch.draw(ImageUtils.loadRegion(AssetPaths.NECROMANCY_TILE_MARKER),
+                            tileX(c) + 24f, tileY(r) + 24f, TILE_W - 48f, TILE_H - 48f);
                 }
             }
         }
     }
 
     private String graveTexturePath(Grave grave) {
-        double ratio = grave.getHealth() / 700.0;
-        if (ratio > 0.66) return AssetPaths.GRAVE_TYPE_1;
-        if (ratio > 0.33) return AssetPaths.GRAVE_TYPE_2;
-        return AssetPaths.GRAVE_TYPE_3;
+        // سه نوع واقعاً متفاوت طبق سند: قبر معمولی، قبر حاوی خورشید، قبر حاوی غذای
+        // گیاه. در فصل مصر باستان از قبر مخصوص همان فصل (هیروگلیف) استفاده می‌شود،
+        // چون در آن فصل قبرها هیچ محتوایی ندارند (فقط مانع تیر مستقیم‌اند).
+        if (session.getSeason() == model.game.Season.ANCIENT_EGYPT) {
+            return AssetPaths.GRAVE_ANCIENT_EGYPT;
+        }
+        if (grave.hasSun()) return AssetPaths.GRAVE_TYPE_SUN;
+        if (grave.hasPlantFood()) return AssetPaths.GRAVE_TYPE_PLANT_FOOD;
+        return AssetPaths.GRAVE_TYPE_PLAIN;
     }
 
     private void drawLawnMowers(com.badlogic.gdx.graphics.g2d.Batch batch) {
         Board board = session.getBoard();
         for (int r = 0; r < Board.ROWS; r++) {
             if (!board.isLawnMowerAvailable(r)) {
-                continue; // Level without lawn mowers
+                continue; // برای مراحلی که ماشین چمن‌زنی ندارند
             }
             String path = seasonMowerPath(board.isLawnMowerUsed(r));
             batch.draw(ImageUtils.loadRegion(path), BOARD_LEFT - 50f, tileY(r), 44f, TILE_H);
@@ -413,29 +579,79 @@ public class GameScreen implements Screen {
     }
 
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        plantVisuals.draw(batch);
-
         Board board = session.getBoard();
-        for (int r = 0; r < Board.ROWS; r++) {
+        // ترتیب رسم: سطرهای پایین‌تر روی سطرهای بالاتر نمایش داده شوند (طبق بخش «ترتیب درست نمایش موجودیت‌ها»)
+        for (int r = Board.ROWS - 1; r >= 0; r--) {
             for (int c = 0; c < Board.COLS; c++) {
-                Plant plant = board.getTile(r, c).getPlant();
-                if (plant != null && plant.getHealth() < plant.getMaxHealth()) {
+                Tile tile = board.getTile(r, c);
+                Plant plant = tile.getPlant();
+                if (plant == null) {
+                    continue;
+                }
+                String path = AssetPaths.plantIcon(plant.getName());
+                TextureRegion tex = ImageUtils.loadRegion(path);
+                batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
+
+                // گیاه یخ‌زده: طبق سند، خود گیاه باید داخل بلوک یخ دیده شود (نه محو
+                // یا فقط رنگ‌عوض‌شده)؛ پس روی همان اسپرایت گیاه، پوسته‌ی نیمه‌شفاف
+                // یخ کشیده می‌شود.
+                if (plant.isFrozenSolid()) {
+                    TextureRegion iceOverlay = ImageUtils.loadRegion(AssetPaths.FROZEN_PLANT_ICE_OVERLAY);
+                    batch.draw(iceOverlay, tileX(c) + 2f, tileY(r) + 2f, TILE_W - 4f, TILE_H - 4f);
+                }
+
+                // نوار سلامتی ساده‌ی گیاه در صورت آسیب‌دیدگی
+                if (plant.getHealth() < plant.getMaxHealth()) {
                     drawHealthBar(batch, tileX(c) + 8f, tileY(r) + TILE_H - 6f, TILE_W - 16f,
                             plant.getHealth() / (float) plant.getMaxHealth());
                 }
             }
         }
     }
-    private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        zombieVisuals.draw(batch);
 
-        // نوار سلامتی همچنان طبق منطق قدیمی رسم می‌شه (اختیاری، نگه‌داشتیم)
+    private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
         for (Zombie z : session.getAliveZombies()) {
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
+
+            // زامبی کاملاً یخ‌زده: طبق سند فقط نمایش یک بلوک یخ کافی است و نیازی به
+            // نمایش خود زامبی زیر آن نیست؛ پس اینجا کلاً به‌جای اسپرایت زامبی، بلوک
+            // یخ رسم می‌شود و بقیه‌ی جلوه‌های زیر (نوار سلامتی و هشدار خط پایان) رد می‌شود.
+            if (z.getFrozenTicks() > 0) {
+                TextureRegion iceBlock = ImageUtils.loadRegion(AssetPaths.FROZEN_ZOMBIE_ICE_BLOCK);
+                batch.draw(iceBlock, x, y, TILE_W - 10f, TILE_H - 10f);
+                continue;
+            }
+
+            String path = AssetPaths.zombieIcon(z.getTypeName());
+            TextureRegion tex = ImageUtils.loadRegion(path);
+
+            // تغییر رنگ زامبی هنگام چیل شدن (سرعت کم شده ولی هنوز کاملاً یخ نزده)
+            if (z.getChilledTicks() > 0) {
+                batch.setColor(0.75f, 0.9f, 1f, 1f);
+            }
+            batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
+            batch.setColor(Color.WHITE);
+
+            // جلوه‌ی گردباد (مصر باستان): برای مدت کوتاهی بعد از ورود زامبیِ گردباد-زده
+            // به زمین، یک ابر گردوغبار روی آن نمایش داده می‌شود تا کاربر متوجه شود
+            // چرا این زامبی چند خانه جلوتر ظاهر شده است.
+            if (z.isSpawnedByTornado() && session.getTickCount() - z.getSpawnTick() < 15) {
+                TextureRegion tornado = ImageUtils.loadRegion(AssetPaths.TORNADO_EFFECT);
+                batch.draw(tornado, x - 10f, y - 10f, TILE_W + 10f, TILE_H + 10f);
+            }
+
             drawHealthBar(batch, x, y + TILE_H - 16f, TILE_W - 10f, z.getHealth() / (float) z.getMaxHealth());
+
+            // جلوه‌ی هشدار برای زامبی‌های نزدیک به خط پایان (طبق بخش «جلوه زامبی‌های نزدیک خط پایان»)
+            if (z.getXPosition() < 1.0) {
+                batch.setColor(1f, 0.4f, 0.4f, 1f);
+                batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
+                batch.setColor(Color.WHITE);
+            }
         }
     }
+
     private void drawProjectiles(com.badlogic.gdx.graphics.g2d.Batch batch) {
         for (Projectile p : session.getActiveProjectiles()) {
             if (p.isDead()) {
@@ -461,16 +677,16 @@ public class GameScreen implements Screen {
             TextureRegion tex = ImageUtils.loadRegion(path);
             float x = tileX(fs.getCol()) + TILE_W / 2f - 16f;
             float y = fs.isLanded() ? tileY(fs.getRow()) + TILE_H / 2f - 16f
-                    : tileY(fs.getRow()) + TILE_H + 40f; // Before landing
+                    : tileY(fs.getRow()) + TILE_H + 40f; // قبل از فرود، بالاتر از خانه نمایش داده می‌شود
             batch.draw(tex, x, y, 32f, 32f);
         }
     }
 
     private void drawHealthBar(com.badlogic.gdx.graphics.g2d.Batch batch, float x, float y, float width, float ratio) {
-        // TODO: Advanced drawing (using simple white pixel texture colored)
+        // TODO: می‌توان به‌جای رسم دستی، از یک تکسچر ساده (white pixel) رنگ‌شده استفاده کرد.
     }
 
-    // ==================== User Input Handler ====================
+    // ==================== ورودی کاربر روی تخته (کاشت/برداشت/غذادهی/برداشت خورشید) ====================
 
     private void handleBoardClick() {
         if (!Gdx.input.justTouched()) {
@@ -479,7 +695,7 @@ public class GameScreen implements Screen {
         com.badlogic.gdx.math.Vector2 touch = stage.screenToStageCoordinates(
                 new com.badlogic.gdx.math.Vector2(Gdx.input.getX(), Gdx.input.getY()));
 
-        // Collect special falling suns
+        // اول بررسی می‌کنیم که کلیک روی یک خورشید سقوط‌کرده باشد (برداشت خورشید آسمانی)
         for (int i = 0; i < session.getFallingSuns().size(); i++) {
             FallingSun fs = session.getFallingSuns().get(i);
             float x = tileX(fs.getCol()) + TILE_W / 2f - 16f;
@@ -493,7 +709,7 @@ public class GameScreen implements Screen {
         int col = (int) ((touch.x - BOARD_LEFT) / TILE_W);
         int row = (int) ((BOARD_TOP - touch.y) / TILE_H) - 1;
         if (col < 0 || col >= Board.COLS || row < 0 || row >= Board.ROWS) {
-            return; // Clicked outside the grid
+            return; // کلیک خارج از تخته بوده (مثلاً روی نوار کناری)
         }
 
         Tile tile = session.getBoard().getTile(row, col);
@@ -519,7 +735,7 @@ public class GameScreen implements Screen {
             return;
         }
 
-        // Collect sun directly from producer plant
+        // اگر گیاه تولیدکننده‌ی خورشید آماده باشد، کلیک روی خودش هم خورشید را جمع می‌کند
         collectSunAt(row, col);
     }
 
@@ -548,14 +764,29 @@ public class GameScreen implements Screen {
 
     private void plantSelectedAt(int row, int col) {
         String type = selectedPlantToPlant;
-        if (session.isPlantOnCooldown(type)) {
+        model.levelrules.ILevelRules rules = session.getLevelRules();
+
+        // --- مُد «گیاهان زندانی»: فقط گیاهان مجاز قابل کاشت‌اند ---
+        if (rules instanceof model.levelrules.LockedPlantsRules
+                && !((model.levelrules.LockedPlantsRules) rules).getAllowedPlants().contains(type)) {
             selectedPlantToPlant = null;
             return;
         }
+
+        boolean isConveyorBelt = rules instanceof model.levelrules.ConveyorBeltRules;
+        if (isConveyorBelt) {
+            // در این مُد، وجود گیاه روی نوار جایگزین چک cooldown عادی می‌شود
+            if (!((model.levelrules.ConveyorBeltRules) rules).getBeltPlants().contains(type)) {
+                selectedPlantToPlant = null;
+                return;
+            }
+        } else if (session.isPlantOnCooldown(type)) {
+            selectedPlantToPlant = null;
+            return;
+        }
+
         Tile tile = session.getBoard().getTile(row, col);
-        // Simplified syntax check to ensure type exists. Actual logic in creating/validating plant.
-        Plant testPlant = PlantFactory.create(type);
-        if (tile == null || testPlant == null || !tile.canPlant(testPlant)) {
+        if (tile == null || !tile.canPlant(PlantFactory.create(type))) {
             return;
         }
         Plant plant = PlantFactory.create(type);
@@ -568,16 +799,21 @@ public class GameScreen implements Screen {
             user.consumeGreenhouseBoost(type);
         }
         if (!session.getSunManager().spendSun(plant.getSunCost())) {
-            return; // Not enough sun
+            return; // خورشید کافی نیست
         }
         plant.place(row, col);
         tile.setPlant(plant);
-        session.startPlantCooldown(type, plant.getCooldownTicks());
+        if (isConveyorBelt) {
+            // گیاه از روی نوار برداشته می‌شود و دیگر نمایش داده نمی‌شود (به‌جای cooldown عادی)
+            ((model.levelrules.ConveyorBeltRules) rules).takeFromBelt(type);
+        } else {
+            session.startPlantCooldown(type, plant.getCooldownTicks());
+        }
         selectedPlantToPlant = null;
         SoundManager.playSound(AssetPaths.SFX_PLANT);
     }
 
-    // ==================== Standard Screen Methods ====================
+    // ==================== متدهای استاندارد Screen ====================
 
     @Override
     public void show() {

@@ -23,8 +23,9 @@ import gdx.util.ImageUtils;
 import gdx.util.SoundManager;
 
 /**
- * Common base class for all menu screens.
- * Graphical screens can directly call the methods of the phase 1 controller.
+ * کلاس پایه‌ی مشترک برای همه‌ی صفحات منو.
+ * هر Screen گرافیکی، به‌جای صدا زدن مستقیم متدهای Controller با رشته‌های دستور،
+ * مستقیماً همان متدهای Controller فاز اول (که خروجی رشته‌ای/enum برمی‌گردانند) را صدا می‌زند.
  */
 public abstract class BaseMenuScreen implements Screen {
 
@@ -51,7 +52,7 @@ public abstract class BaseMenuScreen implements Screen {
         errorLabel.setWrap(true);
     }
 
-    /** Path to the background image. If empty, a solid color is used. */
+    /** مسیر تصویر پس‌زمینه‌ی این صفحه؛ اگر خالی باشد رنگ ساده رسم می‌شود. */
     protected String backgroundPath() {
         return "";
     }
@@ -69,8 +70,6 @@ public abstract class BaseMenuScreen implements Screen {
         button.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
-
-
                 SoundManager.playSound(AssetPaths.SFX_CLICK);
                 onClick.run();
             }
@@ -98,11 +97,6 @@ public abstract class BaseMenuScreen implements Screen {
         String bg = backgroundPath();
         if (!bg.isEmpty()) {
             stage.getBatch().begin();
-
-
-            // Conflict resolved: Merged version using loadRegion, which is more robust
-
-
             TextureRegion region = ImageUtils.loadRegion(bg);
             stage.getBatch().draw(region, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
             stage.getBatch().end();

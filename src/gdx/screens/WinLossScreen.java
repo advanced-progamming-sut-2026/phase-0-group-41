@@ -29,9 +29,18 @@ public class WinLossScreen extends BaseMenuScreen {
 
         if (won && user != null) {
             user.incrementLevelsCompleted();
-            if (level >= user.getLastCompletedLevel() || chapter > user.getLastCompletedChapter()) {
-                user.setLastCompletedChapter(chapter);
+            // منطق پیشرفت باید دقیقاً مطابق AppController کنسولی باشد.
+            if (chapter == model.game.ChapterPlan.BEGINNER_CHAPTER) {
+                if (level > user.getBeginnerLastCompletedLevel()) {
+                    user.setBeginnerLastCompletedLevel(level);
+                }
+            } else if (chapter > user.getLastCompletedChapter()
+                    || (chapter == user.getLastCompletedChapter() && level > user.getLastCompletedLevel())) {
                 user.setLastCompletedLevel(level);
+                if (level >= model.game.ChapterPlan.LEVELS_PER_CHAPTER) {
+                    user.setLastCompletedChapter(chapter);
+                    user.setLastCompletedLevel(0); // ریست برای شروع فصل جدید
+                }
             }
             if (scoreEarned > user.getHighScore()) {
                 user.setHighScore(scoreEarned);
@@ -45,9 +54,11 @@ public class WinLossScreen extends BaseMenuScreen {
                 if (onRetry != null) {
                     onRetry.run();
                 } else {
-                    game.goToPlantSelection();
+                    game.goToPlantSelection(chapter, level);
                 }
             });
+        } else {
+            addButton(buttons, "Next Level", () -> game.goToChapterLevelSelect());
         }
         addButton(buttons, "Exit to Main Menu", game::goToMainMenu);
         rootTable.add(buttons).row();

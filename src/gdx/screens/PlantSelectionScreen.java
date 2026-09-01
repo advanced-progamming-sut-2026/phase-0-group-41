@@ -20,6 +20,10 @@ import java.util.Set;
 
 /**
  * Plant selection screen shown before starting a level.
+ * Top list: the user's unlocked plants. Bottom list: selected plants (max 8).
+ * Note: the graphical "main gameplay" screen (planting grid, zombie movement) will be
+ * implemented in a later step; the "Start Game" button currently only manages selectedPlants
+ * through the existing AppController's startGame flow.
  */
 public class PlantSelectionScreen extends BaseMenuScreen {
 
@@ -27,9 +31,18 @@ public class PlantSelectionScreen extends BaseMenuScreen {
     private final Table selectedTable = new Table();
     private final HudBar hudBar;
     private final PlantSelectionController controller;
+    private final int chapter;
+    private final int level;
 
     public PlantSelectionScreen(PvZGame game) {
+        this(game, defaultChapter(game), defaultLevel(game));
+    }
+
+    /** فصل/مرحله‌ای که کاربر در ChapterLevelSelectScreen انتخاب کرده است. */
+    public PlantSelectionScreen(PvZGame game, int chapter, int level) {
         super(game);
+        this.chapter = chapter;
+        this.level = level;
         User user = game.getLoggedInUser();
         controller = game.getPlantSelectionController();
         controller.resetSelection();
@@ -41,7 +54,9 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         top.add(hudBar).expandX().fillX().top();
         stage.addActor(top);
 
-        rootTable.add(title("Choose Plants")).padBottom(10f).row();
+        rootTable.add(title("Choose Plants")).padBottom(4f).row();
+        rootTable.add(new Label(model.game.ChapterPlan.displayName(chapter) + " - Level " + level, skin))
+                .padBottom(10f).row();
 
         rootTable.add(new Label("Available plants (click to add):", skin)).left().padBottom(6f).row();
         unlockedTable.top().left();
@@ -64,6 +79,16 @@ public class PlantSelectionScreen extends BaseMenuScreen {
 
         refreshUnlocked();
         refreshSelected();
+    }
+
+    private static int defaultChapter(PvZGame game) {
+        User user = game.getLoggedInUser();
+        return Math.max(0, user != null ? user.getLastCompletedChapter() : 0);
+    }
+
+    private static int defaultLevel(PvZGame game) {
+        User user = game.getLoggedInUser();
+        return user != null ? Math.max(1, user.getLastCompletedLevel() + 1) : 1;
     }
 
     private void refreshUnlocked() {
@@ -145,13 +170,7 @@ public class PlantSelectionScreen extends BaseMenuScreen {
             showError("Select at least one plant.");
             return;
         }
-        User user = game.getLoggedInUser();
-        // TODO: chapter/level باید از یک صفحه انتخاب فصل/مرحله (Chapter/Level Select) بیاید؛
-        int chapter = Math.max(1, user != null ? user.getLastCompletedChapter() + 1 : 1);
-        int level = user != null ? Math.max(1, user.getLastCompletedLevel() + 1) : 1;
-
-        // TODO: لیست واقعی مأموریت‌های این مرحله باید از یک LevelRules/Quest controller بیاید؛
-        java.util.List<String> objectives = java.util.Collections.emptyList();
+        java.util.List<String> objectives = model.game.ChapterPlan.objectivesFor(chapter, level);
         game.setScreen(new LevelObjectivesScreen(game, chapter, level, objectives));
     }
 

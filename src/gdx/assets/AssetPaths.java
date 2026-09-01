@@ -69,7 +69,6 @@ public final class AssetPaths {
     public static final String BG_LAWN_BIG_WAVE_BEACH = atlas("DELAYLOAD_BACKGROUND_BEACH_COMPRESSED", "IMAGE_BACKGROUNDS_BEACH_TEXTURE");
     public static final String BG_LAWN_DARK_AGES = atlas("DELAYLOAD_BACKGROUND_DARK_COMPRESSED", "IMAGE_BACKGROUNDS_DARK_TEXTURE");
 
-
     // ==================== مینی‌گیم‌ها ====================
     // پس‌زمینه‌ی اختصاصی هر مینی‌گیم (از دارایی‌های رسمی؛ کوزه‌شکنی و ترکیب سه‌تایی
     // پس‌زمینه‌ی اختصاصی جدا ندارند و از همان حیاط معمولی استفاده می‌کنند، دقیقاً
@@ -96,7 +95,6 @@ public final class AssetPaths {
 
     // خورشید سقوط‌کننده (طیف رنگی SPECIAL/RADIOACTIVE با تینت رنگی روی همان اسپرایت اعمال می‌شود؛
     // چون در منابع استخراج‌شده نسخه‌ی رنگ جداگانه‌ای برای آن‌ها پیدا نشد)
-
     public static final String SUN_NORMAL = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");
     public static final String SUN_SPECIAL = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");
     public static final String SUN_RADIOACTIVE = atlas("UI_ALWAYSLOADED", "IMAGE_UI_SUNFLOWER");
@@ -106,13 +104,52 @@ public final class AssetPaths {
     public static final String DROP_GREENHOUSE_POT = "";
     public static final String DROP_DIAMOND = atlas("UI_ALWAYSLOADED", "IMAGE_UI_GEMS_STACK_3");
 
-    // قبرها (Graves)
-    public static final String GRAVE_TYPE_1 = atlas("TOMBSTONE_DARK_BASE", "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X160");
-    public static final String GRAVE_TYPE_2 = atlas("TOMBSTONE_DARK_BASE", "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X160_2");
-    public static final String GRAVE_TYPE_3 = atlas("TOMBSTONE_DARK_BASE", "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X156");
-    public static final String NECROMANCY_TILE_MARKER = "";
+    // قبرها (Graves) - سه نوع واقعاً متفاوت طبق سند: عادی، حاوی خورشید، حاوی غذای گیاه.
+    // برای فصل مصر باستان از قبر مخصوص همان فصل (هیروگلیف) استفاده می‌شود.
+    public static final String GRAVE_TYPE_PLAIN = atlas("TOMBSTONE_DARK_BASE", "IMAGE_GRAVESTONES_DARK_NOOP_DARK_NOOP_132X160");
+    public static final String GRAVE_TYPE_SUN = atlas("TOMBSTONE_DARK_SUN", "IMAGE_GRAVESTONES_DARK_SUN_DARK_SUN_132X160");
+    public static final String GRAVE_TYPE_PLANT_FOOD = atlas("TOMBSTONE_DARK_PLANTFOOD", "IMAGE_GRAVESTONES_DARK_PLANTFOOD_DARK_PLANTFOOD_132X160");
+    public static final String GRAVE_ANCIENT_EGYPT = atlas("EGYPT_GRAVESTONE", "IMAGE_GRAVESTONES_EGYPT_HIEROGLYPH_EGYPT_HIEROGLYPH_118X148");
+    // نگه‌داشته‌شده برای سازگاری با کدهای قدیمی‌تر که ممکن است این سه نام را صدا بزنند
+    public static final String GRAVE_TYPE_1 = GRAVE_TYPE_PLAIN;
+    public static final String GRAVE_TYPE_2 = GRAVE_TYPE_SUN;
+    public static final String GRAVE_TYPE_3 = GRAVE_TYPE_PLANT_FOOD;
 
-    // چمن‌زن (Lawn Mower)
+    // خانه‌ی نکرومنسی (اول هر موج ممکن است زیرش زامبی بیرون بیاید) - نشانگر جمجمه‌ی
+    // رازآلود روی خانه، چون در Plants vs. Zombies 2 اسپرایت اختصاصی برای خودِ خانه
+    // نکرومنسی وجود ندارد (طبق توضیح داک).
+    public static final String NECROMANCY_TILE_MARKER = atlas("ZOMBIELOSTCITYCRYSTALSKULLGROUP", "IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_CRYSTALSKULL_ZOMBIE_LOSTCITY_CRYSTALSKULL_117X115");
+
+    // ==================== غارهای یخی (Frostbite Caves) ====================
+    // زمین لغزنده (Slider) به‌سمت بالا/پایین
+    public static final String ICE_SLIDER_UP = atlas("SLIDER_ICEAGE", "IMAGE_EFFECTS_TILESLIDER_ICEAGE_UP_TILESLIDER_ICEAGE_UP_141X169");
+    public static final String ICE_SLIDER_DOWN = atlas("SLIDER_ICEAGE", "IMAGE_EFFECTS_TILESLIDER_ICEAGE_DOWN_TILESLIDER_ICEAGE_DOWN_141X169");
+    // بلوک یخِ زامبیِ کاملاً یخ‌زده (طبق داک: فقط بلوک یخ کافی است، نیازی به نمایش خود زامبی نیست)
+    public static final String FROZEN_ZOMBIE_ICE_BLOCK = atlas("FROSTBITEICEBLOCKZOMBIEGROUP", "IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_ZOMBIE_FROSTBITE_ICE_BLOCK_ZOMBIE_153X243");
+    // پوسته‌ی نیمه‌شفاف یخ روی گیاهِ یخ‌زده (طبق داک: خود گیاه باید داخل یخ دیده شود)
+    public static final String FROZEN_PLANT_ICE_OVERLAY = atlas("FROSTBITEICEBLOCKPLANTGROUP", "IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_164X171");
+
+    // ==================== مصر باستان (Ancient Egypt) ====================
+    // جلوه‌ی گردباد (برای نمایش دلخواهِ اینکه چرا زامبی چند خانه جلوتر وارد شده)
+    public static final String TORNADO_EFFECT = atlas("SANDSTORMGROUP", "IMAGE_EFFECTS_SANDSTORM_TOP_SANDSTORM_CLOUD");
+
+    // ==================== ساحل موج بزرگ (Big Wave Beach) ====================
+    // خط نازک نمایان‌گر حداکثر پیشروی آب دریا (کِرست موج)
+    public static final String WATER_LEVEL_LINE = atlas("DELAYLOAD_BACKGROUND_BEACH", "IMAGE_BACKGROUNDS_WAVE_UPPERLAYER_WAVE_UPPERLAYER_2852X86");
+    // بافت سطح آب برای خانه‌های زیرِ خط آب
+    public static final String WATER_TILE = atlas("DELAYLOAD_BACKGROUND_BEACH", "IMAGE_BACKGROUNDS_WAVE_BIG_WAVE_BIG_869X281");
+    // نشانگر خانه‌ی «ساحل پست» (امکان بیرون آمدن زامبی از زیر آب) - آیکون کوچک
+    // زامبی غواص، چون مفهوم زامبیِ درحال کمین زیر آب را نشان می‌دهد
+    public static final String LOW_TIDE_BEACH_MARKER = atlas("ZOMBIEBEACHSNORKELGROUP", "IMAGE_ZOMBIE_ZOMBIE_BEACH_SNORKELER_ZOMBIE_BEACH_SNORKELER_104X56");
+
+    // ==================== مراحل ویژه‌ی ماجراجویی (Special Levels) ====================
+    // خط عمودی «ددلاین» که زامبی‌ها نباید از آن عبور کنند (همان نوار باریک کِرست
+    // موج که برای خط سطح آب استفاده شده، چون هر دو مفهوماً یک خط هشدار عمودی‌اند)
+    public static final String DEAD_LINE_MARKER = WATER_LEVEL_LINE;
+    // قاب هایلایت روی خانه‌هایی که باید از آن‌ها محافظت شود (مُد «محافظ دانه‌ها»)
+    public static final String PROTECTED_TILE_MARKER = atlas("UI_ALWAYSLOADEDTILES", "IMAGE_UI_CARDS_BACKGROUNDS_BORDER");
+
+    // چمن‌زن (Lawn Mower) - حالت آماده و حالت درحال حرکت/استفاده‌شده، به تفکیک فصل
     public static final String LAWN_MOWER_IDLE_NORMAL = atlas("FRONTLAWNMOWERGROUP", "IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_114X67");
     public static final String LAWN_MOWER_USED_NORMAL = atlas("FRONTLAWNMOWERGROUP", "IMAGE_MOWERS_MOWER_TUTORIAL_MOWER_TUTORIAL_67X52");
     public static final String LAWN_MOWER_IDLE_EGYPT = atlas("EGYPTMOWERGROUP", "IMAGE_MOWERS_MOWER_EGYPT_MOWER_EGYPT_76X120");
@@ -123,6 +160,7 @@ public final class AssetPaths {
     public static final String LAWN_MOWER_USED_BEACH = atlas("BEACHMOWERGROUP", "IMAGE_MOWERS_MOWER_BEACH_MOWER_BEACH_206X83");
     public static final String LAWN_MOWER_IDLE_DARK = atlas("DARKMOWERGROUP", "IMAGE_MOWERS_MOWER_DARK_MOWER_DARK_130X103");
     public static final String LAWN_MOWER_USED_DARK = atlas("DARKMOWERGROUP", "IMAGE_MOWERS_MOWER_DARK_MOWER_DARK_101X53");
+    // پیش‌فرض (وقتی فصل نامشخص است): چمن‌زن فصل معمولی
     public static final String LAWN_MOWER_IDLE = LAWN_MOWER_IDLE_NORMAL;
     public static final String LAWN_MOWER_USED = LAWN_MOWER_USED_NORMAL;
 
@@ -139,6 +177,10 @@ public final class AssetPaths {
 
     public static final String PLANT_FOOD_COUNTER_BG = atlas("UI_ALWAYSLOADED", "IMAGE_UI_HUD_INGAME_PLANTFOOD_BANK");
 
+    // انواع پرتابه (برای رسم پرتابه‌های عادی/آتشین/یخی در GameScreen).
+    // در منابع استخراج‌شده، ناحیه‌ی مجزا و صریحاً نام‌گذاری‌شده برای «دانه‌ی نخود در حال پرواز»
+    // پیدا نشد (فقط فریم‌های انیمیشن خود گیاه موجود است)؛ فعلاً خالی مانده تا با Placeholder
+    // رنگی جایگزین شود و بعداً با یک اسپرایت مشخص از سوی شما جایگزین گردد.
     public static final String PROJECTILE_NORMAL = "";
     public static final String PROJECTILE_FIRE = "";
     public static final String PROJECTILE_ICE = "";
@@ -151,7 +193,7 @@ public final class AssetPaths {
     public static final String BTN_CLOSE = "";
 
     // ==================== گیاهان (کارت‌ها/آیکون بسته بذر) ====================
-
+    // نگاشت: نام داخلی گیاه (خروجی Plant.getName()) -> ناحیه‌ی مربوطه در اتلس گیاه واقعی بازی
     private static final Map<String, String> PLANT_ATLAS = new HashMap<>();
     private static final Map<String, String> PLANT_REGION = new HashMap<>();
     private static final Map<String, String> PLANT_SEED_REGION = new HashMap<>();
@@ -349,7 +391,7 @@ public final class AssetPaths {
 
     // گیاهانی که هنوز اسپرایت رسمی برایشان پیدا نشده (منتظر ارسال منبع تکمیلی)
     private static final java.util.Set<String> PLANTS_WITHOUT_ASSET = new java.util.HashSet<>(java.util.Arrays.asList(
-            "cattail", "cattailmint", "goopeashooter", "iceberglettuce", "piercemint", "rotobaga"
+        "cattail", "cattailmint", "goopeashooter", "iceberglettuce", "piercemint", "rotobaga"
     ));
 
     public static String plantIcon(String plantName) {
@@ -435,7 +477,7 @@ public final class AssetPaths {
 
     // زامبی‌هایی که هنوز اسپرایت رسمی برایشان پیدا نشده (منتظر ارسال منبع تکمیلی)
     private static final java.util.Set<String> ZOMBIES_WITHOUT_ASSET = new java.util.HashSet<>(java.util.Arrays.asList(
-            "blockhead", "knight", "turquoise", "blockhead", "knight"
+        "blockhead", "knight", "turquoise", "blockhead", "knight"
     ));
 
     public static String zombieIcon(String zombieName) {
@@ -486,4 +528,4 @@ public final class AssetPaths {
     public static final String SFX_HUGE_WAVE = "audio/huge-wave.wav";
     public static final String SFX_BOSS_HURT = "audio/boss-hurt.wav";
     public static final String SFX_BOSS_MOVE = "audio/boss-move.wav";
-    }
+}

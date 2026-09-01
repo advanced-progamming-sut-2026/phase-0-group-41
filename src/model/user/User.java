@@ -50,13 +50,11 @@ public class User implements Serializable, PlayerProfile {
     private int levelsCompleted = 0;
     private int maxMowPoints = 0;
 
-
     // === تنظیمات نمایشی/گیم‌پلی (منوی Settings) ===
     private float gameSpeed = 1f;
     private boolean showHitboxes = false;
     private boolean debugMode = false;
     private boolean showNetworkGrid = false;
-
 
     private Greenhouse greenhouse;
     private Map<String, Boolean> greenhouseBoosts;
@@ -238,7 +236,6 @@ public class User implements Serializable, PlayerProfile {
     public int getDifficultyLevel() { return difficultyLevel; }
     public void setDifficultyLevel(int difficultyLevel) { this.difficultyLevel = difficultyLevel; }
 
-
     public float getGameSpeed() { return gameSpeed; }
     public void setGameSpeed(float gameSpeed) { this.gameSpeed = gameSpeed; }
 
@@ -250,7 +247,6 @@ public class User implements Serializable, PlayerProfile {
 
     public boolean isShowNetworkGrid() { return showNetworkGrid; }
     public void setShowNetworkGrid(boolean showNetworkGrid) { this.showNetworkGrid = showNetworkGrid; }
-
 
     public int getGamesPlayed() { return gamesPlayed; }
     public void incrementGamesPlayed() { gamesPlayed++; }

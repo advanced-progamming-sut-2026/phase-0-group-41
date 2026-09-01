@@ -47,13 +47,21 @@ public class GameSession {
     private List<model.scoreGame.MeowPoint.GameEvent> meowEvents = new ArrayList<>();
     private boolean plantLostInCurrentWave = false; // برای رویداد WAVE_CLEARED_NO_DAMAGE
 
+    // مجموع زامبی‌های کشته‌شده در طول این نشست؛ برای مُدهایی مثل «نبرد زمان‌دار»
+    // که هدف‌شان کشتن تعداد مشخصی زامبی در بازه‌ی زمانی مشخص است.
+    private int totalZombiesKilled = 0;
+
+    public int getTotalZombiesKilled() {
+        return totalZombiesKilled;
+    }
+
     public GameSession(User user, int totalWaves) {
         // پاس دادن کار به سازنده‌ی اصلی با فصل دیفالت
         this(user, totalWaves, Season.NORMAL, LevelMode.NORMAL);
     }
 
     public GameSession(User user, int totalWaves, Season season, LevelMode levelMode) {
-        this(user, totalWaves, 50, season, levelMode);
+        this(user, totalWaves, 50, season, levelMode, 1);
     }
 
     /**
@@ -62,6 +70,15 @@ public class GameSession {
      * baseWaveCost باید به ازای هر مرحله‌ی بعدی در همان فصل بیشتر داده شود.
      */
     public GameSession(User user, int totalWaves, double baseWaveCost, Season season, LevelMode levelMode) {
+        this(user, totalWaves, baseWaveCost, season, levelMode, 1);
+    }
+
+    /**
+     * سازنده‌ی کامل که شماره‌ی مرحله (level) را هم می‌پذیرد تا پارامترهای هر
+     * مُد ویژه (مثل ستون ددلاین یا هدف نبرد زمان‌دار) بر اساس ChapterPlan و
+     * سخت‌تر بودن مرحله‌ی ۳ نسبت به ۲ در همان فصل، به‌درستی تنظیم شوند.
+     */
+    public GameSession(User user, int totalWaves, double baseWaveCost, Season season, LevelMode levelMode, int level) {
         this.user = user;
         this.waveManager = new WaveManager(totalWaves, baseWaveCost);
         int userDifficulty = user.getDifficultyLevel();
@@ -70,25 +87,26 @@ public class GameSession {
 
         switch (levelMode) {
             case DEAD_LINE:
-                this.levelRules = new DeadLineRules(2);
+                this.levelRules = new DeadLineRules(ChapterPlan.deadLineColumnFor(level));
                 break;
             case SAVE_OUR_SEEDS:
                 this.levelRules = new SaveOurSeedsRules();
                 break;
             case CONVEYOR_BELT:
-                this.levelRules = new ConveyorBeltRules();
+                this.levelRules = new ConveyorBeltRules(ChapterPlan.conveyorBeltSpeedTicksFor(level));
                 break;
             case TIMED_WAR:
-                this.levelRules = new TimedWarRules(100);
+                this.levelRules = new TimedWarRules(ChapterPlan.timedWarSecondsFor(level),
+                        ChapterPlan.timedWarObjectiveFor(level), ChapterPlan.timedWarTargetFor(level));
                 break;
             case NIGHT_OPS:
-                this.levelRules = new NightOpsRules();
+                this.levelRules = new NightOpsRules(ChapterPlan.nightOpsStartingSunFor(level));
                 break;
             case LOVE_YOUR_PLANTS:
-                this.levelRules = new LoveYourPlantsRules(15);
+                this.levelRules = new LoveYourPlantsRules(ChapterPlan.loveYourPlantsMaxFor(level));
                 break;
             case PLANT_WHAT_YOU_GET:
-                this.levelRules = new PlantWhatYouGetRules();
+                this.levelRules = new PlantWhatYouGetRules(ChapterPlan.plantWhatYouGetStartingSunFor(level));
                 break;
             case LOCKED_PLANTS:
                 this.levelRules = new LockedPlantsRules(Arrays.asList("peashooter", "sunflower", "wallnut", "potatomine"));
@@ -104,6 +122,18 @@ public class GameSession {
 
     public void spawnProjectile(model.projectile.Projectile p) {
         activeProjectiles.add(p);
+    }
+
+    /** قوانین اختصاصی این مرحله (عادی یا یکی از ۸ مُد ویژه)؛ لایه‌ی گرافیکی از
+     *  این مقدار برای رسم HUD/نشانگرهای اختصاصی هر مُد استفاده می‌کند. */
+    public ILevelRules getLevelRules() {
+        return levelRules;
+    }
+
+    /** فصل بازی (Season) فعلی این نشست؛ برای لایه‌ی گرافیکی تا بر اساس آن،
+     *  به‌جای حدس زدن از روی شماره‌ی فصل، جلوه‌های اختصاصی هر فصل را نمایش دهد. */
+    public Season getSeason() {
+        return currentSeason;
     }
 
     public List<model.projectile.Projectile> getActiveProjectiles() {
@@ -196,6 +226,15 @@ public class GameSession {
         cooldownsDisabled = true;
     }
 
+    /** فعال/غیرفعال کردن مکانیزم cooldown کاشت گیاهان (برای مُد «هرچه رسد بکار»
+     *  که قبل از شروع موج‌ها، کاشت باید کاملاً بدون محدودیت زمانی باشد). */
+    public void setCooldownsDisabled(boolean disabled) {
+        this.cooldownsDisabled = disabled;
+        if (disabled) {
+            plantCooldowns.clear();
+        }
+    }
+
     /** یک تیک بازی را جلو می‌برد (۱۰ تیک = ۱ ثانیه). */
     public void advanceOneTick() {
         if (gameOver) {
@@ -273,6 +312,7 @@ public class GameSession {
         }
         for (Zombie z : deadZombies) {
             aliveZombies.remove(z);
+            totalZombiesKilled++;
             System.out.println("Zombie of type " + z.getTypeName() + " is dead at (" + (int) z.getXPosition() + ", " + z.getRow() + ")");
 
             if(z.isCarriesPlantFood()) {
@@ -299,8 +339,9 @@ public class GameSession {
             dropRandomReward();
         }
 
-        // === بخش فصلی: سقوط خورشید (فقط در صورتی که عصر تاریکی نباشد) ===
-        if (currentSeason != Season.DARK_AGES) {
+        // === بخش فصلی: سقوط خورشید (نه در عصر تاریکی، و نه در مُدهایی که طبق
+        //     قوانین خودشان سقوط خورشید را غیرفعال می‌کنند، مثل شب عملیات) ===
+        if (currentSeason != Season.DARK_AGES && levelRules.allowsSkySun()) {
             FallingSun newSun = sunManager.tick(board);
             if (newSun != null) {
                 fallingSuns.add(newSun);
@@ -328,7 +369,7 @@ public class GameSession {
      * تصادفی مرحله‌ی عادی روی زمینشان اسپاون شود) این متد را false می‌کنند.
      */
     protected boolean isWaveSystemEnabled() {
-        return true;
+        return levelRules.areWavesStarted();
     }
 
     public void advanceTicks(int count) {
@@ -429,11 +470,14 @@ public class GameSession {
             int spawnCol = Board.COLS - 1;
             // اگر گردباد فعال باشد، زامبی ۱ تا ۴ ستون جلوتر می‌آید
             //داکیومنت گفته ممکن است. پس ما یک احتمال 40 درصدی هم قائل شدیم
+            boolean thisZombieHitByTornado = false;
             if (isTornadoWave && random.nextDouble() < 0.4) {
                 spawnCol -= (1 + random.nextInt(4));
+                thisZombieHitByTornado = true;
             }
 
             z.spawn(lane, spawnCol);
+            z.setSpawnedByTornado(thisZombieHitByTornado);
             aliveZombies.add(z);
             z.setSpawnTick((int) this.tickCount);
             totalHealth += z.getHealth();

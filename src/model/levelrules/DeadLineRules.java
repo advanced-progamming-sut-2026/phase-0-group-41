@@ -3,12 +3,21 @@ package model.levelrules;
 import model.game.GameSession;
 import model.zombie.Zombie;
 
+/**
+ * ددلاین (Dead Line): خطی روی زمین وجود دارد که زامبی‌ها نباید از آن عبور
+ * کنند؛ به محض عبور هر زامبی از این خط، بازیکن بلافاصله می‌بازد.
+ */
 public class DeadLineRules implements ILevelRules {
 
     private final int deadLineColumn; // ستونی که خط مرگ محسوب می‌شود
 
     public DeadLineRules(int deadLineColumn) {
         this.deadLineColumn = deadLineColumn;
+    }
+
+    /** ستون خط مرگ؛ لایه‌ی گرافیکی از این مقدار برای رسم خط استفاده می‌کند. */
+    public int getDeadLineColumn() {
+        return deadLineColumn;
     }
 
     @Override
@@ -32,5 +41,10 @@ public class DeadLineRules implements ILevelRules {
     @Override
     public void setupLevel(GameSession session) {
         // در این مُد، هیچ گیاه یا تنظیمات خاصی اضافه نمی‌شود
+    }
+
+    @Override
+    public String getHudStatusText(GameSession session) {
+        return "ددلاین: زامبی‌ها نباید از ستون " + deadLineColumn + " عبور کنند";
     }
 }

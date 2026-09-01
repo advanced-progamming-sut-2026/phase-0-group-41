@@ -15,7 +15,8 @@ import model.greenhouse.Greenhouse;
 import model.user.User;
 
 /**
- * Greenhouse grid view (fixed).
+ * Greenhouse: a grid of pots. Clicking a pot triggers the action matching its state
+ * (locked/empty/growing/ready): unlock, plant, harvest, or accelerate.
  */
 public class GreenhouseScreen extends BaseMenuScreen {
 

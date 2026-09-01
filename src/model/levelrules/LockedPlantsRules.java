@@ -1,8 +1,14 @@
 package model.levelrules;
 
 import model.game.GameSession;
+import java.util.Collections;
 import java.util.List;
 
+/**
+ * گیاهان زندانی (Locked Plants): طبق سند، تعدادی از اسلات‌های انتخاب گیاه یا
+ * برخی گیاهان خاص در این مرحله در دسترس نیستند و بازیکن مجبور است فقط با
+ * گیاهان مشخص‌شده بازی را شروع کند.
+ */
 public class LockedPlantsRules implements ILevelRules {
 
     private final List<String> lockedPlantsList;
@@ -14,13 +20,15 @@ public class LockedPlantsRules implements ILevelRules {
         this.lockedPlantsList = lockedPlantsList;
     }
 
+    /** لیست گیاهان مجاز؛ لایه‌ی گرافیکی/کنسول با همین لیست نوار گیاه انتخابی
+     *  کاربر را فیلتر می‌کند تا فقط همین‌ها قابل کاشت باشند. */
+    public List<String> getAllowedPlants() {
+        return Collections.unmodifiableList(lockedPlantsList);
+    }
+
     @Override
     public void setupLevel(GameSession session) {
         System.out.println("مرحله گیاهان قفل‌شده! شما فقط مجاز به استفاده از این گیاهان هستید: " + lockedPlantsList);
-        
-        // TODO: اگر در GameSession لیستی برای "کارت‌های انتخاب شده در دست بازیکن" دارید،
-        // باید در اینجا آن لیست را پاک کرده و با lockedPlantsList جایگزین کنید.
-        // مثال فرضی: session.setActiveDeck(lockedPlantsList);
     }
 
     @Override
@@ -31,5 +39,10 @@ public class LockedPlantsRules implements ILevelRules {
     @Override
     public boolean checkCustomLossConditions(GameSession session) {
         return true; // شرط باخت همان رسیدن زامبی به انتهاست
+    }
+
+    @Override
+    public String getHudStatusText(GameSession session) {
+        return "گیاهان مجاز: " + String.join("، ", lockedPlantsList);
     }
 }

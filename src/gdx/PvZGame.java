@@ -17,6 +17,7 @@ import controller.ShopController;
 import model.user.User;
 import model.user.UserManager;
 
+import gdx.screens.ChapterLevelSelectScreen;
 import gdx.screens.GameScreen;
 import gdx.screens.GreenhouseScreen;
 import gdx.screens.LeaderboardScreen;
@@ -33,9 +34,7 @@ import gdx.screens.SettingsScreen;
 import gdx.screens.ShopScreen;
 import gdx.util.SkinFactory;
 import model.game.GameSession;
-
 import model.minigame.MiniGameSession;
-
 
 /**
  * کلاس اصلی برنامه‌ی گرافیکی (جایگزین AppController.run() کنسولی).
@@ -126,8 +125,20 @@ public class PvZGame extends Game {
         setScreen(new GreenhouseScreen(this));
     }
 
+    /** ورود به منوی انتخاب فصل/مرحله (طبق سند فاز یک: دکمه‌ی Play باید ابتدا
+     *  این منو را نشان دهد، نه مستقیماً صفحه‌ی انتخاب گیاه یک مرحله‌ی ثابت را). */
+    public void goToChapterLevelSelect() {
+        setScreen(new ChapterLevelSelectScreen(this));
+    }
+
     public void goToPlantSelection() {
         setScreen(new PlantSelectionScreen(this));
+    }
+
+    /** ورود به صفحه‌ی انتخاب گیاه برای فصل/مرحله‌ی مشخص (بعد از انتخاب کاربر
+     *  در ChapterLevelSelectScreen). */
+    public void goToPlantSelection(int chapter, int level) {
+        setScreen(new PlantSelectionScreen(this, chapter, level));
     }
 
     /** ورود به صفحه‌ی گرافیکی گیم‌پلی اصلی (grid کاشت، زامبی‌ها، خورشید، پرتابه‌ها و ...). */
@@ -140,11 +151,9 @@ public class PvZGame extends Game {
         int totalWaves = model.game.ChapterPlan.totalWavesFor(chapter, level);
         double baseWaveCost = model.game.ChapterPlan.baseWaveCostFor(chapter, level);
 
-        GameSession session = new GameSession(loggedInUser, totalWaves, baseWaveCost, season, mode);
+        GameSession session = new GameSession(loggedInUser, totalWaves, baseWaveCost, season, mode, level);
         setScreen(new GameScreen(this, session, chapter, level));
     }
-
-
 
     /** ورود به منوی مینی‌گیم‌ها (طبق سند فاز یک: قابل‌دسترس از منوی اصلی). */
     public void goToMiniGames() {
@@ -183,7 +192,6 @@ public class PvZGame extends Game {
         }
         setScreen(new MiniGameScreen(this, session, name, level));
     }
-
 
     public void logout() {
         mainController.logout(loggedInUser);
@@ -265,11 +273,7 @@ public class PvZGame extends Game {
             getScreen().dispose();
         }
         skin.dispose();
-
-        //gdx.util.ImageUtils.disposeAll();
-
         gdx.util.ImageUtils.disposeAll();
-
         gdx.util.SoundManager.disposeAll();
     }
 }
