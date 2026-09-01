@@ -491,7 +491,7 @@ public class GameScreen implements Screen {
         }
 
         int col = (int) ((touch.x - BOARD_LEFT) / TILE_W);
-        int row = (int) ((BOARD_TOP - touch.y) / TILE_H) - 1;
+        int row = (int) ((BOARD_TOP - touch.y) / TILE_H) ;
         if (col < 0 || col >= Board.COLS || row < 0 || row >= Board.ROWS) {
             return; // Clicked outside the grid
         }
