@@ -69,6 +69,20 @@ public class MiniGameScreen implements Screen {
     // برای Beghouled: خانه‌ی اول انتخاب‌شده برای جابجایی
     private int[] firstSwapTile = null;
 
+    // === رفع باگ اصلی: قبلاً sidebarTable هر فریم (۶۰ بار در ثانیه) کاملاً
+    // پاک و از نو ساخته می‌شد (refreshSidebar در render). چون هر بار Actor/
+    // ClickListener کاملاً جدیدی ساخته می‌شد، هیچ کلیکی (که همیشه چند فریم طول
+    // می‌کشد: یک فریم touchDown و فریم(های) بعدی touchUp) هرگز کامل نمی‌شد، چون
+    // touchUp روی یک Actor کاملاً متفاوت از Actor مربوط به touchDown می‌رسید.
+    // در نتیجه انتخاب گردو/زامبی/بذر از نوار کناری عملاً غیرممکن بود و کاربر
+    // نمی‌توانست چیزی بکارد. راه‌حل: کارت‌ها فقط وقتی واقعاً لازم است (تغییر
+    // محتوای نوار نقاله/زامبی‌های در دسترس/بذرهای افتاده) از نو ساخته می‌شوند؛
+    // در غیر این صورت فقط برچسب/رنگ همان Actor موجود آپدیت می‌شود تا هویت
+    // Actor (و در نتیجه وضعیت داخلی ClickListener) بین فریم‌ها حفظ شود.
+    private String lastSidebarSignature = null;
+    private final java.util.Map<Object, Label> sidebarLabels = new java.util.HashMap<>();
+    private final java.util.Map<Object, com.badlogic.gdx.scenes.scene2d.ui.Stack> sidebarCardStacks = new java.util.HashMap<>();
+
     public MiniGameScreen(PvZGame game, MiniGameSession session, String gameName, int level) {
         this.game = game;
         this.session = session;
@@ -94,8 +108,18 @@ public class MiniGameScreen implements Screen {
         top.setFillParent(true);
         top.top();
 
-        TextButton pauseButton = new TextButton("Exit", skin);
+        // دکمه‌ی توقف بازی (طبق سند: دقیقاً مثل مرحله‌ی عادی باید بتوان مینی‌گیم
+        // را هم وسط بازی متوقف کرد و منوی تنظیمات/توقف را دید).
+        TextButton pauseButton = new TextButton("II", skin);
         pauseButton.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                openPauseMenu();
+            }
+        });
+
+        TextButton exitButton = new TextButton("Exit", skin);
+        exitButton.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
                 game.goToMiniGames();
@@ -106,16 +130,37 @@ public class MiniGameScreen implements Screen {
         sunBox.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(32f).padRight(4f);
         sunBox.add(sunLabel).padRight(20f);
 
-        Label title = new Label(gameName + " - Level " + level, skin, "title");
+        Label title = new Label(displayNameFor(gameName) + " - Level " + level, skin, "title");
 
         Table row = new Table();
-        row.add(pauseButton).size(70f, 44f).padRight(16f);
+        row.add(pauseButton).size(56f, 44f).padRight(8f);
+        row.add(exitButton).size(70f, 44f).padRight(16f);
         row.add(sunBox);
         row.add(title).padLeft(20f);
 
         top.add(row).padTop(8f).row();
         top.add(statusLabel).padTop(4f).row();
         stage.addActor(top);
+    }
+
+    /** منوی توقف مینی‌گیم؛ دقیقاً هم‌ارز با openPauseMenu در GameScreen (همان
+     *  PauseScreen با گزینه‌های ادامه/شروع دوباره/ذخیره و خروج). چون تعویض
+     *  Screen باعث می‌شود render این کلاس دیگر صدا زده نشود، تیک بازی هم
+     *  کاملاً متوقف می‌ماند - دقیقاً همان رفتاری که در مرحله‌ی عادی وجود دارد. */
+    private void openPauseMenu() {
+        game.setScreen(new PauseScreen(game, this, () -> game.startMiniGame(gameName, level)));
+    }
+
+    /** نام قابل‌نمایش هر مینی‌گیم؛ قبلاً همان شناسه‌ی خام (کوچک، بدون فاصله،
+     *  مثل "wallnutbowling") مستقیماً در تیتر نمایش داده می‌شد. */
+    private static String displayNameFor(String id) {
+        switch (id.toLowerCase()) {
+            case "vasebreaker": return "Vasebreaker";
+            case "wallnutbowling": return "Wall-nut Bowling";
+            case "izombie": return "I, Zombie";
+            case "beghouled": return "Beghouled";
+            default: return id;
+        }
     }
 
     private void buildSidebar() {
@@ -126,20 +171,59 @@ public class MiniGameScreen implements Screen {
         refreshSidebar();
     }
 
+    /** فراخوانی هر فریم: فقط وقتی محتوای واقعی نوار کناری عوض شده (نوار نقاله
+     *  پر/خالی شده، بذر تازه‌ای افتاده یا مصرف شده) کارت‌ها را از نو می‌سازد؛
+     *  در غیر این صورت فقط برچسب‌ها/رنگ‌ها را روی همان Actorهای قبلی آپدیت
+     *  می‌کند تا کلیک/انتخاب کاربر هرگز از وسط قطع نشود. */
     private void refreshSidebar() {
+        String signature = computeSidebarSignature();
+        if (!signature.equals(lastSidebarSignature)) {
+            rebuildSidebar();
+            lastSidebarSignature = signature;
+        }
+        updateSidebarOverlays();
+    }
+
+    private String computeSidebarSignature() {
+        if (session instanceof WallnutBowlingSession) {
+            return "bowling:" + ((WallnutBowlingSession) session).getConveyorBelt().toString();
+        } else if (session instanceof IZombieSession) {
+            // چهار نوع زامبی همیشه ثابت‌اند؛ فقط کول‌داون/قیمت روی برچسب عوض می‌شود.
+            return "izombie";
+        } else if (session instanceof BeghouledSession) {
+            // دکمه‌های ارتقا همیشه ثابت‌اند.
+            return "beghouled";
+        } else if (session instanceof VasebreakerSession) {
+            StringBuilder sb = new StringBuilder("vasebreaker:");
+            for (VasebreakerSession.DroppedSeedPacket seed : ((VasebreakerSession) session).getDroppedSeeds()) {
+                sb.append(seed.plantType).append(',').append(seed.row).append(',').append(seed.col).append(';');
+            }
+            return sb.toString();
+        }
+        return "";
+    }
+
+    private void rebuildSidebar() {
         sidebarTable.clear();
+        sidebarLabels.clear();
+        sidebarCardStacks.clear();
 
         if (session instanceof WallnutBowlingSession) {
             WallnutBowlingSession bowling = (WallnutBowlingSession) session;
             sidebarTable.add(new Label("Conveyor:", skin)).left().row();
-            for (WallnutBowlingSession.NutType type : bowling.getConveyorBelt()) {
-                sidebarTable.add(buildNutCard(type)).size(80f, 80f).padBottom(6f).row();
+            java.util.List<WallnutBowlingSession.NutType> belt = bowling.getConveyorBelt();
+            for (int i = 0; i < belt.size(); i++) {
+                com.badlogic.gdx.scenes.scene2d.ui.Stack stack = buildNutCard(belt.get(i));
+                sidebarCardStacks.put(i, stack);
+                sidebarTable.add(stack).size(80f, 80f).padBottom(6f).row();
             }
         } else if (session instanceof IZombieSession) {
             sidebarTable.add(new Label("Choose zombie:", skin)).left().row();
             String[] types = {"normal", "conehead", "buckethead", "imp"};
             for (String t : types) {
-                sidebarTable.add(buildZombieCard(t)).size(80f, 80f).padBottom(6f).row();
+                com.badlogic.gdx.scenes.scene2d.ui.Stack stack = buildZombieCard(t);
+                sidebarCardStacks.put(t, stack);
+                sidebarTable.add(stack).size(80f, 80f).padBottom(6f).row();
             }
         } else if (session instanceof BeghouledSession) {
             sidebarTable.add(new Label("Tap two adjacent", skin)).left().row();
@@ -155,7 +239,55 @@ public class MiniGameScreen implements Screen {
             if (!seeds.isEmpty()) {
                 sidebarTable.add(new Label("Plants collected:", skin)).left().padTop(10f).row();
                 for (VasebreakerSession.DroppedSeedPacket seed : seeds) {
-                    sidebarTable.add(buildDroppedSeedCard(seed)).size(80f, 80f).padBottom(6f).row();
+                    com.badlogic.gdx.scenes.scene2d.ui.Stack stack = buildDroppedSeedCard(seed);
+                    sidebarCardStacks.put(seed, stack);
+                    sidebarTable.add(stack).size(80f, 80f).padBottom(6f).row();
+                }
+            }
+        }
+    }
+
+    /** آپدیت هر فریمِ برچسب‌های متغیر (کول‌داون/زمان باقی‌مانده) و هایلایت
+     *  انتخاب فعلی، بدون ساختن هیچ Actor جدیدی. */
+    private void updateSidebarOverlays() {
+        if (session instanceof WallnutBowlingSession) {
+            java.util.List<WallnutBowlingSession.NutType> belt = ((WallnutBowlingSession) session).getConveyorBelt();
+            for (int i = 0; i < belt.size(); i++) {
+                com.badlogic.gdx.scenes.scene2d.ui.Stack stack = sidebarCardStacks.get(i);
+                if (stack == null) {
+                    continue;
+                }
+                boolean selected = belt.get(i) == selectedNutType;
+                stack.setColor(1f, 1f, selected ? 0.6f : 1f, 1f);
+            }
+        } else if (session instanceof IZombieSession) {
+            IZombieSession iz = (IZombieSession) session;
+            String[] types = {"normal", "conehead", "buckethead", "imp"};
+            for (String t : types) {
+                Label label = sidebarLabels.get(t);
+                com.badlogic.gdx.scenes.scene2d.ui.Stack stack = sidebarCardStacks.get(t);
+                if (label == null || stack == null) {
+                    continue;
+                }
+                boolean onCooldown = iz.isZombieOnCooldown(t);
+                String caption = onCooldown
+                        ? (iz.getZombieCooldownRemaining(t) / 10) + "s"
+                        : String.valueOf(iz.getZombieCost(t));
+                label.setText(caption);
+                boolean selected = t.equals(selectedZombieType);
+                float alpha = onCooldown ? 0.5f : 1f;
+                stack.setColor(1f, 1f, selected ? 0.6f : 1f, alpha);
+            }
+        } else if (session instanceof VasebreakerSession) {
+            for (VasebreakerSession.DroppedSeedPacket seed : ((VasebreakerSession) session).getDroppedSeeds()) {
+                Label label = sidebarLabels.get(seed);
+                if (label != null) {
+                    label.setText((seed.decayTicks / 10) + "s");
+                }
+                com.badlogic.gdx.scenes.scene2d.ui.Stack stack = sidebarCardStacks.get(seed);
+                if (stack != null) {
+                    boolean selected = selectedDroppedSeed == seed;
+                    stack.setColor(1f, 1f, selected ? 0.6f : 1f, 1f);
                 }
             }
         }
@@ -174,15 +306,16 @@ public class MiniGameScreen implements Screen {
         label.setFontScale(0.6f);
         overlay.add(label);
         stack.add(overlay);
+        sidebarLabels.put(seed, label);
 
-        boolean isSelected = selectedDroppedSeed == seed;
-        if (isSelected) {
-            stack.setColor(1f, 1f, 0.6f, 1f); // هایلایت زرد برای بذر انتخاب‌شده
-        }
+        // توجه: قبلاً isSelected فقط در لحظه‌ی ساخت کارت محاسبه می‌شد و داخل
+        // کلیک‌لیستنر «منجمد» می‌ماند؛ چون الان همین Actor بین فریم‌ها زنده
+        // می‌ماند، باید هر بار وضعیت واقعی فعلی selectedDroppedSeed را بخوانیم
+        // نه مقدار قدیمی زمان ساخت را.
         stack.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
-                selectedDroppedSeed = isSelected ? null : seed; // کلیک دوباره یعنی لغو انتخاب
+                selectedDroppedSeed = (selectedDroppedSeed == seed) ? null : seed; // کلیک دوباره یعنی لغو انتخاب
                 SoundManager.playSound(AssetPaths.SFX_CLICK);
             }
         });
@@ -213,29 +346,29 @@ public class MiniGameScreen implements Screen {
         stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.zombieIcon(zombieType))));
 
-        boolean onCooldown = iz.isZombieOnCooldown(zombieType);
         Table overlay = new Table();
         overlay.bottom();
-        String caption = onCooldown
-                ? (iz.getZombieCooldownRemaining(zombieType) / 10) + "s"
-                : String.valueOf(iz.getZombieCost(zombieType));
-        Label label = new Label(caption, skin);
+        Label label = new Label("", skin);
         label.setFontScale(0.6f);
         overlay.add(label);
         stack.add(overlay);
+        sidebarLabels.put(zombieType, label);
 
-        if (onCooldown) {
-            stack.getColor().a = 0.5f; // کم‌رنگ کردن کارت در حال شارژ (مطابق رفتار کارت گیاه در حال cooldown)
-        } else {
-            stack.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    selectedZombieType = zombieType;
-                    selectedNutType = null;
-                    SoundManager.playSound(AssetPaths.SFX_CLICK);
+        // توجه: قبلاً وقتی زامبی در حال cooldown بود اصلاً هیچ ClickListener‌ای
+        // اضافه نمی‌شد؛ چون الان همین کارت (به‌جای ساخت دوباره) تا پایان
+        // cooldown روی صفحه می‌ماند، لیستنر همیشه باید وجود داشته باشد و خودش
+        // در لحظه‌ی کلیک وضعیت فعلی cooldown را چک کند.
+        stack.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                if (iz.isZombieOnCooldown(zombieType)) {
+                    return;
                 }
-            });
-        }
+                selectedZombieType = zombieType;
+                selectedNutType = null;
+                SoundManager.playSound(AssetPaths.SFX_CLICK);
+            }
+        });
         return stack;
     }
 

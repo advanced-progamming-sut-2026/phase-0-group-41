@@ -24,13 +24,13 @@ public class MiniGameResultScreen extends BaseMenuScreen {
 
         String headline = won ? "You Win!" : "You Lose!";
         rootTable.add(title(headline)).padBottom(16f).row();
-        rootTable.add(new Label(gameName + " - Level " + level, skin)).padBottom(30f).row();
+        rootTable.add(new Label(displayName(gameName) + " - Level " + level, skin)).padBottom(30f).row();
 
         if (won && user != null) {
             user.setMiniGamesCompleted(user.getMiniGamesCompleted() + 1);
             user.recordMiniGameLevelWon(gameNameToId(gameName), level);
             if (level < 3) {
-                user.addNews("سطح جدید مینی‌گیم باز شد: " + gameName + " - سطح " + (level + 1));
+                user.addNews("سطح جدید مینی‌گیم باز شد: " + displayName(gameName) + " - سطح " + (level + 1));
             }
             game.getUserManager().save();
         }
@@ -49,6 +49,18 @@ public class MiniGameResultScreen extends BaseMenuScreen {
 
     private String gameNameToId(String gameName) {
         return gameName.toLowerCase();
+    }
+
+    /** نام قابل‌نمایش مینی‌گیم؛ gameName در واقع همان شناسه‌ی خام (مثل
+     *  "wallnutbowling") است، نه یک نام زیبا برای نمایش. */
+    private String displayName(String id) {
+        switch (id.toLowerCase()) {
+            case "vasebreaker": return "Vasebreaker";
+            case "wallnutbowling": return "Wall-nut Bowling";
+            case "izombie": return "I, Zombie";
+            case "beghouled": return "Beghouled";
+            default: return id;
+        }
     }
 
     @Override

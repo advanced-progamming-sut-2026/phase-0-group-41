@@ -138,6 +138,25 @@ public class User implements Serializable, PlayerProfile {
         this.unlockedPlants.add(unlockableId);
     }
 
+    /**
+     * آنلاک کردن گیاه بعدی که کاربر هنوز ندارد، به‌صورت قطعی (deterministic)
+     * بر اساس ترتیب ثابت model.plant.PlantFactory.allPlantNames(). این متد
+     * باید دقیقاً یک‌بار به‌ازای هر مرحله‌ی برده‌شده (چه در نسخه‌ی کنسولی و چه
+     * در نسخه‌ی گرافیکی) صدا زده شود تا با هر مرحله یک گیاه جدید باز شود و به
+     * لیست گیاهان در دسترس (در منوی انتخاب گیاه) اضافه گردد.
+     *
+     * @return نام گیاهی که تازه آنلاک شد، یا null اگر همه‌ی گیاهان قبلاً آنلاک بودند.
+     */
+    public String unlockNextPlant() {
+        for (String plantName : model.plant.PlantFactory.allPlantNames()) {
+            if (!unlockedPlants.contains(plantName)) {
+                unlockedPlants.add(plantName);
+                return plantName;
+            }
+        }
+        return null;
+    }
+
     @Override
     public void addItemToInventory(String itemId, int count) {
         // در صورت نیاز پیاده‌سازی شود

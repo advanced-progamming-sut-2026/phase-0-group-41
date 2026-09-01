@@ -194,6 +194,13 @@ public class AppController {
                     // فصل Beginner پیشرفت جداگانه‌ای دارد و روی lastCompletedChapter اثر نمی‌گذارد
                     if (activeLevel > user.getBeginnerLastCompletedLevel()) {
                         user.setBeginnerLastCompletedLevel(activeLevel);
+                        // اولین باری که این مرحله برده می‌شود یک گیاه جدید آنلاک می‌شود
+                        // و به لیست گیاهان در دسترس (منوی انتخاب گیاه) اضافه می‌گردد.
+                        String newlyUnlocked = user.unlockNextPlant();
+                        if (newlyUnlocked != null) {
+                            user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                            view.printMessage("🌱 گیاه جدید آنلاک شد: " + newlyUnlocked);
+                        }
                     }
                     if (activeLevel >= model.game.ChapterPlan.LEVELS_PER_CHAPTER) {
                         view.printMessage("🏆 تبریک! شما فصل Beginner را با موفقیت به پایان رساندید!");
@@ -202,6 +209,13 @@ public class AppController {
                         (activeChapter == user.getLastCompletedChapter() && activeLevel > user.getLastCompletedLevel())) {
 
                     user.setLastCompletedLevel(activeLevel);
+                    // اولین باری که این مرحله برده می‌شود یک گیاه جدید آنلاک می‌شود
+                    // و به لیست گیاهان در دسترس (منوی انتخاب گیاه) اضافه می‌گردد.
+                    String newlyUnlocked = user.unlockNextPlant();
+                    if (newlyUnlocked != null) {
+                        user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                        view.printMessage("🌱 گیاه جدید آنلاک شد: " + newlyUnlocked);
+                    }
                     // اگر ۴ مرحله یک فصل تمام شد، فصل جدید باز می‌شود
                     if (activeLevel >= model.game.ChapterPlan.LEVELS_PER_CHAPTER) {
                         user.setLastCompletedChapter(activeChapter);
