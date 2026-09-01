@@ -19,6 +19,21 @@ public class LeaderboardController {
         this.userManager = userManager;
     }
 
+    /**
+     * پس از پایان هر دور «بازی امتیازی» (بخش امتیازی، تحت شبکه)، امتیاز کاربر
+     * را به سرور می‌فرستد. طبق سند: «اگر امتیاز جدید بیشتر از رکورد قبلی کاربر
+     * باشد، رکورد او در سرور به‌روزرسانی شود» — این مقایسه سمت سرور انجام
+     * می‌شود (model.user.User#updateMaxMowPoints، همان فیلد maxMowPoints قبلی)
+     * تا تقلب سمت کلاینت ممکن نباشد.
+     */
+    public boolean submitScoreGameResult(String username, int score) {
+        NetworkMessage req = new NetworkMessage("SUBMIT_SCORE_GAME_RESULT");
+        req.data.put("username", username);
+        req.data.put("score", String.valueOf(score));
+        NetworkMessage res = NetworkManager.sendRequest(req);
+        return res != null && res.success;
+    }
+
     // متدی که فقط داده‌های مرتب‌شده را به View پاس می‌دهد
     public List<User> getSortedLeaderboard(String sortBy, boolean ascending) {
         List<User> users = fetchUsers();
@@ -49,22 +64,22 @@ public class LeaderboardController {
     }
 
     private Comparator<User> getComparator(String sortBy) {
-        if (sortBy == null) sortBy = "score";
-        
+        if (sortBy == null) sortBy = "chapter";
+
         switch (sortBy.toLowerCase()) {
-            case "username": case "u": case "name":
-                return Comparator.comparing(User::getUsername, String.CASE_INSENSITIVE_ORDER);
-            case "chapter": case "level": case "stage":
-                return Comparator.comparingInt(User::getLastCompletedChapter)
-                        .thenComparingInt(User::getLastCompletedLevel);
             case "minigame": case "minigames": case "m":
                 return Comparator.comparingInt(User::getMiniGamesCompleted);
-            case "daily": case "daily_quest": case "dq":
-                return Comparator.comparingInt(User::getDailyQuestsCompleted);
-            case "nondaily": case "normal": case "ndq":
-                return Comparator.comparingInt(User::getNonDailyQuestsCompleted);
-            case "score": case "highscore": case "s": default:
-                return Comparator.comparingInt(User::getHighScore);
+            case "quest": case "quests": case "q":
+                return Comparator.comparingInt(
+                        u -> u.getDailyQuestsCompleted() + u.getNonDailyQuestsCompleted());
+            case "mypoint": case "point": case "p":
+                // کاربرانی که هنوز بازی امتیازی را انجام نداده‌اند باید همیشه
+                // ته لیست بمانند، نه اینکه با ۰ امتیازِ واقعی قاطی شوند
+                return Comparator.comparing((User u) -> u.hasPlayedScoreGame())
+                        .thenComparingInt(User::getMaxMowPoints);
+            case "chapter": case "level": case "stage": default:
+                return Comparator.comparingInt(User::getLastCompletedChapter)
+                        .thenComparingInt(User::getLastCompletedLevel);
         }
     }
 }

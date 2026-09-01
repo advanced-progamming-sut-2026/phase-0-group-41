@@ -29,8 +29,7 @@ public class User implements Serializable, PlayerProfile {
 
     // === متغیرهای لیدربورد ===
     private int lastCompletedChapter = 0;
-    private int lastCompletedLevel = 0;
-    // پیشرفت جداگانه‌ی فصل Beginner (شماره‌ی ۰)؛ چون ۰ برای lastCompletedChapter
+    private int lastCompletedLevel = 0;    // پیشرفت جداگانه‌ی فصل Beginner (شماره‌ی ۰)؛ چون ۰ برای lastCompletedChapter
     // معنای «هنوز هیچ فصل واقعی‌ای تمام نشده» را دارد، نمی‌توان همان فیلد را برای
     // فصل Beginner هم استفاده کرد و باید جدا نگه‌داری شود.
     private int beginnerLastCompletedLevel = 0;
@@ -49,6 +48,11 @@ public class User implements Serializable, PlayerProfile {
     private int gamesPlayed = 0;
     private int levelsCompleted = 0;
     private int maxMowPoints = 0;
+    // طبق سند فاز ۳ (بخش امتیازی): تا وقتی کاربر بازی امتیازی را حتی یک‌بار هم
+    // انجام نداده باشد، نباید امتیاز قبلی/ساختگی در ستون «My Point» لیدربورد
+    // داشته باشد؛ این پرچم جدا نگه‌داشته می‌شود تا «۰ امتیاز واقعی» با «هنوز
+    // بازی نکرده» اشتباه گرفته نشود.
+    private boolean hasPlayedScoreGame = false;
 
     // === تنظیمات نمایشی/گیم‌پلی (منوی Settings) ===
     private float gameSpeed = 1f;
@@ -255,7 +259,9 @@ public class User implements Serializable, PlayerProfile {
     public void incrementLevelsCompleted() { levelsCompleted++; }
 
     public int getMaxMowPoints() { return maxMowPoints; }
+    public boolean hasPlayedScoreGame() { return hasPlayedScoreGame; }
     public void updateMaxMowPoints(int points) {
+        hasPlayedScoreGame = true;
         if (points > maxMowPoints) maxMowPoints = points;
     }
 
