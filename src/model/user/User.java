@@ -50,13 +50,11 @@ public class User implements Serializable, PlayerProfile {
     private int levelsCompleted = 0;
     private int maxMowPoints = 0;
 
-
     // === تنظیمات نمایشی/گیم‌پلی (منوی Settings) ===
     private float gameSpeed = 1f;
     private boolean showHitboxes = false;
     private boolean debugMode = false;
     private boolean showNetworkGrid = false;
-
 
     private Greenhouse greenhouse;
     private Map<String, Boolean> greenhouseBoosts;
@@ -76,6 +74,10 @@ public class User implements Serializable, PlayerProfile {
     private boolean dailyOfferPurchased;
     private int storedPlantFood = 0; 
     private int pendingGreenhousePots = 0;
+    // غذای گیاه خریداری‌شده از فروشگاه که «در ابتدای مرحله‌ی بعد» طبق سند در
+    // اختیار بازیکن قرار می‌گیرد؛ حداکثر ذخیره‌ی هم‌زمان ۳ عدد است (مطابق سقف
+    // GameSession.plantFoodCount در حین بازی).
+    private int pendingPlantFood = 0;
 
 
     public User(String username, String passwordHash, String nickname, String email, String gender) {
@@ -175,6 +177,11 @@ public class User implements Serializable, PlayerProfile {
     public void addStoredPlantFood(int amount) { this.storedPlantFood = Math.min(3, storedPlantFood + amount); }
     public void addPendingGreenhousePots(int amount) { this.pendingGreenhousePots += amount; }
 
+    /** افزودن غذای گیاه خریداری‌شده از فروشگاه به انبار؛ سقف هم‌زمان ۳ عدد است. */
+    public void addPendingPlantFood(int amount) {
+        this.pendingPlantFood = Math.min(3, this.pendingPlantFood + amount);
+    }
+
 
     // ==========================================
     // گترها و سترهای پایه کلاس خودت
@@ -238,7 +245,6 @@ public class User implements Serializable, PlayerProfile {
     public int getDifficultyLevel() { return difficultyLevel; }
     public void setDifficultyLevel(int difficultyLevel) { this.difficultyLevel = difficultyLevel; }
 
-
     public float getGameSpeed() { return gameSpeed; }
     public void setGameSpeed(float gameSpeed) { this.gameSpeed = gameSpeed; }
 
@@ -250,7 +256,6 @@ public class User implements Serializable, PlayerProfile {
 
     public boolean isShowNetworkGrid() { return showNetworkGrid; }
     public void setShowNetworkGrid(boolean showNetworkGrid) { this.showNetworkGrid = showNetworkGrid; }
-
 
     public int getGamesPlayed() { return gamesPlayed; }
     public void incrementGamesPlayed() { gamesPlayed++; }
@@ -284,6 +289,9 @@ public class User implements Serializable, PlayerProfile {
     }
 
     public int getPendingGreenhousePots() { return pendingGreenhousePots; }
+
+    public int getPendingPlantFood() { return pendingPlantFood; }
+    public void setPendingPlantFood(int pendingPlantFood) { this.pendingPlantFood = Math.max(0, pendingPlantFood); }
 
     public Map<String, Boolean> getGreenhouseBoosts() {
         if (greenhouseBoosts == null) greenhouseBoosts = new HashMap<>();

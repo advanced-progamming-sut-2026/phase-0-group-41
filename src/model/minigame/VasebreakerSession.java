@@ -118,6 +118,13 @@ public class VasebreakerSession extends MiniGameSession {
         return false;
     }
 
+    /** فهرست گیاهانِ به‌دست‌آمده از کوزه‌ها که هنوز کاشته نشده‌اند؛ طبق سند باید
+     *  در بخش مناسبی (نوار کناری) نمایش داده شوند تا کاربر بتواند انتخاب و کاشت
+     *  کند. لیست بازگشتی فقط برای خواندن است. */
+    public List<DroppedSeedPacket> getDroppedSeeds() {
+        return java.util.Collections.unmodifiableList(droppedSeeds);
+    }
+
     public VaseBreakResult breakVase(int row, int col) {
         if (row < 0 || row >= Board.ROWS || col < 0 || col >= Board.COLS) {
             return new VaseBreakResult(BreakResultStatus.INVALID_LOCATION, null);

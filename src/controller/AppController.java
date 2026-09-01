@@ -119,7 +119,7 @@ public class AppController {
 
         // ساخت سشن با متغیرهای دینامیک؛ هر مرحله‌ی بعدی در همان فصل (تعداد موج و
         // هزینه‌ی موج اول بیشتر) سخت‌تر از مرحله‌ی قبلی است.
-        activeSession = new model.game.GameSession(user, totalWaves, baseWaveCost, season, mode);
+        activeSession = new model.game.GameSession(user, totalWaves, baseWaveCost, season, mode, level);
         inGame = true;
         view.printMessage("بازی شروع شد! [فصل " + model.game.ChapterPlan.displayName(chapter)
                 + " | مرحله " + level + " | " + mode + "]");
@@ -204,6 +204,12 @@ public class AppController {
                         user.setLastCompletedChapter(activeChapter);
                         user.setLastCompletedLevel(0); // ریست برای شروع فصل جدید
                         view.printMessage("🏆 تبریک! شما فصل " + activeChapter + " را با موفقیت به پایان رساندید!");
+                        if (activeChapter < model.game.ChapterPlan.LAST_CHAPTER) {
+                            user.addNews("فصل جدید باز شد: " + model.game.ChapterPlan.displayName(activeChapter + 1));
+                        }
+                    } else {
+                        user.addNews("مرحله‌ی جدید باز شد: فصل " + model.game.ChapterPlan.displayName(activeChapter)
+                                + " - مرحله " + (activeLevel + 1));
                     }
                 }
             }
@@ -231,6 +237,7 @@ public class AppController {
                 view.printMessage("🏆 مینی‌گیم " + activeMiniGameName + " (سطح " + activeMiniGameLevel + ") با موفقیت تمام شد!");
                 if (activeMiniGameLevel < 3) {
                     view.printMessage("سطح " + (activeMiniGameLevel + 1) + " اکنون باز شد.");
+                    user.addNews("سطح جدید مینی‌گیم باز شد: " + activeMiniGameName + " - سطح " + (activeMiniGameLevel + 1));
                 }
             } else {
                 view.printMessage("مینی‌گیم " + activeMiniGameName + " را باختید.");
