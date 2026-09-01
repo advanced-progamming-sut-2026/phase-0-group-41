@@ -1,0 +1,103 @@
+UI_THYMEDEVENTS_768_02.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_THYMED_EVENTS_BEACH_EVENT_BG
+  rotate: false
+  xy: 833, 333
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_BIRTHDAYZ_EVENT_BG
+  rotate: false
+  xy: 1, 665
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_COINS_SPREE_EVENT_BG
+  rotate: false
+  xy: 833, 665
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_HARVEST_2
+  rotate: false
+  xy: 1856, 1
+  size: 189, 183
+  orig: 189, 183
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_ECS_INFOGRAPHICS_ZCORP_2
+  rotate: false
+  xy: 1665, 1
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_FEASTIVUS_EVENT_BG
+  rotate: false
+  xy: 1, 997
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_FOODFIGHT_EVENT_BG
+  rotate: false
+  xy: 833, 997
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_GEM_SPREE_EVENT_BG
+  rotate: false
+  xy: 1, 1329
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_HARVESTFESTIVAL_EVENT_BG
+  rotate: false
+  xy: 833, 1329
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LAWNBOWL_EVENT_BG
+  rotate: false
+  xy: 1, 1661
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_LAWNOFDOOM_EVENT_BG
+  rotate: false
+  xy: 833, 1661
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_MGPWINTEREVENT
+  rotate: false
+  xy: 1, 1
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_THE_SPRINGENING_2023_EVENT_BG
+  rotate: false
+  xy: 833, 1
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1
+IMAGE_UI_THYMED_EVENTS_VALENBRAINZ2025_EVENT_BG
+  rotate: false
+  xy: 1, 333
+  size: 830, 330
+  orig: 830, 330
+  offset: 0, 0
+  index: -1

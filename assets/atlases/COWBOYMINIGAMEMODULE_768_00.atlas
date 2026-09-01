@@ -1,0 +1,96 @@
+COWBOYMINIGAMEMODULE_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_51X57
+  rotate: false
+  xy: 46, 301
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_56X72
+  rotate: false
+  xy: 101, 284
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_59X81
+  rotate: false
+  xy: 200, 269
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_63X85
+  rotate: false
+  xy: 200, 212
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_67X159
+  rotate: false
+  xy: 155, 212
+  size: 43, 102
+  orig: 43, 102
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_67X45
+  rotate: false
+  xy: 1, 301
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_73X161
+  rotate: false
+  xy: 52, 196
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_76X160
+  rotate: false
+  xy: 1, 196
+  size: 49, 103
+  orig: 49, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_77X160
+  rotate: false
+  xy: 189, 107
+  size: 50, 103
+  orig: 50, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_GATE_ELECTRICITY_ZOMBIE_GATE_ELECTRICITY_81X162
+  rotate: false
+  xy: 189, 1
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_GATE_BOTTOM
+  rotate: false
+  xy: 101, 196
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_GATE_MIDDLE
+  rotate: false
+  xy: 1, 1
+  size: 186, 101
+  orig: 186, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_GATE_TOP
+  rotate: false
+  xy: 1, 104
+  size: 186, 90
+  orig: 186, 90
+  offset: 0, 0
+  index: -1

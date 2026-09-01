@@ -1,0 +1,432 @@
+PLANTVAMPORCINI_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_101X96
+  rotate: false
+  xy: 161, 190
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_102X91
+  rotate: false
+  xy: 159, 254
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_105X70
+  rotate: false
+  xy: 161, 314
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_10X15
+  rotate: false
+  xy: 247, 71
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_119X64
+  rotate: false
+  xy: 83, 314
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_11X10
+  rotate: false
+  xy: 248, 186
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_121X105
+  rotate: false
+  xy: 1, 108
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_124X64
+  rotate: false
+  xy: 1, 307
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_135X65
+  rotate: false
+  xy: 1, 263
+  size: 87, 42
+  orig: 87, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_13X27
+  rotate: false
+  xy: 104, 132
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_149X139
+  rotate: false
+  xy: 116, 99
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_14X10
+  rotate: false
+  xy: 247, 292
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_14X11
+  rotate: false
+  xy: 247, 301
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_15X12
+  rotate: false
+  xy: 90, 304
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_15X25
+  rotate: false
+  xy: 229, 393
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_15X28
+  rotate: false
+  xy: 103, 155
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_165X150
+  rotate: false
+  xy: 116, 1
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_176X164
+  rotate: false
+  xy: 1, 1
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_1X1
+  rotate: false
+  xy: 252, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_20X32
+  rotate: false
+  xy: 242, 269
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_20X39
+  rotate: false
+  xy: 227, 269
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_21X15
+  rotate: false
+  xy: 241, 393
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_22X28
+  rotate: false
+  xy: 230, 337
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_23X32
+  rotate: false
+  xy: 230, 296
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_243X49
+  rotate: false
+  xy: 1, 229
+  size: 156, 32
+  orig: 156, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_246X58
+  rotate: false
+  xy: 1, 190
+  size: 158, 37
+  orig: 158, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_24X18
+  rotate: false
+  xy: 229, 379
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_25X13
+  rotate: false
+  xy: 58, 177
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_27X30
+  rotate: false
+  xy: 228, 228
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_28X25
+  rotate: false
+  xy: 230, 319
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_28X31
+  rotate: false
+  xy: 228, 186
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_29X28
+  rotate: false
+  xy: 228, 249
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_31X28
+  rotate: false
+  xy: 228, 208
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_31X30
+  rotate: false
+  xy: 81, 155
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_32X32
+  rotate: false
+  xy: 224, 71
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_33X16
+  rotate: false
+  xy: 35, 177
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_33X32
+  rotate: false
+  xy: 81, 132
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_37X35
+  rotate: false
+  xy: 224, 28
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_40X39
+  rotate: false
+  xy: 224, 1
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_46X19
+  rotate: false
+  xy: 81, 176
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_47X19
+  rotate: false
+  xy: 131, 395
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_48X24
+  rotate: false
+  xy: 224, 53
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_49X17
+  rotate: false
+  xy: 1, 177
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_49X34
+  rotate: false
+  xy: 81, 108
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_52X24
+  rotate: false
+  xy: 221, 361
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_52X53
+  rotate: false
+  xy: 214, 99
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_57X23
+  rotate: false
+  xy: 214, 135
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_57X23_2
+  rotate: false
+  xy: 214, 152
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_57X23_3
+  rotate: false
+  xy: 214, 169
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_57X23_4
+  rotate: false
+  xy: 53, 394
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_57X23_5
+  rotate: false
+  xy: 92, 395
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_75X50
+  rotate: false
+  xy: 117, 361
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_78X80
+  rotate: false
+  xy: 1, 350
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_81X35
+  rotate: false
+  xy: 167, 361
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_8X10
+  rotate: false
+  xy: 250, 28
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_93X25
+  rotate: false
+  xy: 167, 386
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_93X61
+  rotate: false
+  xy: 90, 263
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_96X55
+  rotate: false
+  xy: 53, 357
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_9X10
+  rotate: false
+  xy: 250, 108
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_9X10_2
+  rotate: false
+  xy: 250, 117
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VAMPORCINI_VAMPORCINI_9X16
+  rotate: false
+  xy: 247, 83
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1

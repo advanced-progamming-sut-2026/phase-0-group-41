@@ -1,0 +1,495 @@
+ZOMBIEFUTUREPROTECTORGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_PROTECTOR_ENERGY_SHIELD_ENERGY_SHIELD_BOX_BOTTOM_CORNER
+  rotate: false
+  xy: 242, 152
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_PROTECTOR_ENERGY_SHIELD_ENERGY_SHIELD_BOX_CORNER
+  rotate: false
+  xy: 436, 240
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_PROTECTOR_ENERGY_SHIELD_ENERGY_SHIELD_BOX_SIDE
+  rotate: false
+  xy: 216, 213
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_112X168
+  rotate: false
+  xy: 192, 1
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_112X52
+  rotate: false
+  xy: 330, 191
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_11X14
+  rotate: false
+  xy: 501, 45
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_123X69
+  rotate: false
+  xy: 83, 148
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_125X140
+  rotate: false
+  xy: 1, 88
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_125X140_2
+  rotate: false
+  xy: 266, 95
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_125X71
+  rotate: false
+  xy: 413, 126
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_126X55
+  rotate: false
+  xy: 164, 176
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_126X55_2
+  rotate: false
+  xy: 247, 187
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_127X154
+  rotate: false
+  xy: 108, 1
+  size: 82, 99
+  orig: 82, 99
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_128X17
+  rotate: false
+  xy: 388, 273
+  size: 82, 11
+  orig: 82, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_130X143
+  rotate: false
+  xy: 352, 1
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_131X143
+  rotate: false
+  xy: 266, 1
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_135X8
+  rotate: false
+  xy: 51, 282
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_13X14
+  rotate: false
+  xy: 501, 34
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_149X69
+  rotate: false
+  xy: 83, 102
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_164X132
+  rotate: false
+  xy: 1, 1
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_169X19
+  rotate: false
+  xy: 90, 268
+  size: 108, 12
+  orig: 108, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_16X17
+  rotate: false
+  xy: 501, 21
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_16X28
+  rotate: false
+  xy: 501, 1
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_16X9
+  rotate: false
+  xy: 501, 56
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_19X19
+  rotate: false
+  xy: 156, 282
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_19X19_2
+  rotate: false
+  xy: 170, 282
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_20X20
+  rotate: false
+  xy: 287, 277
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_20X33
+  rotate: false
+  xy: 164, 148
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_21X19
+  rotate: false
+  xy: 140, 282
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_22X28
+  rotate: false
+  xy: 495, 154
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_23X18
+  rotate: false
+  xy: 358, 278
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_23X20
+  rotate: false
+  xy: 141, 194
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_24X40
+  rotate: false
+  xy: 495, 126
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_25X16
+  rotate: false
+  xy: 247, 175
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_25X30
+  rotate: false
+  xy: 340, 278
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_25X32
+  rotate: false
+  xy: 249, 277
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_26X33
+  rotate: false
+  xy: 493, 273
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_27X17
+  rotate: false
+  xy: 58, 180
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_28X18
+  rotate: false
+  xy: 83, 88
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_28X28
+  rotate: false
+  xy: 267, 277
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_30X33
+  rotate: false
+  xy: 472, 273
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_31X36
+  rotate: false
+  xy: 90, 236
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_32X31
+  rotate: false
+  xy: 226, 272
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_32X38
+  rotate: false
+  xy: 413, 95
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_33X61
+  rotate: false
+  xy: 242, 111
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_33X61_2
+  rotate: false
+  xy: 28, 262
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_36X24
+  rotate: false
+  xy: 116, 194
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_37X38
+  rotate: false
+  xy: 200, 272
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_38X54
+  rotate: false
+  xy: 1, 262
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_48X76
+  rotate: false
+  xy: 355, 227
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_52X31
+  rotate: false
+  xy: 304, 268
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_56X63
+  rotate: false
+  xy: 52, 236
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_61X52
+  rotate: false
+  xy: 461, 237
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_61X80
+  rotate: false
+  xy: 263, 224
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_62X83
+  rotate: false
+  xy: 174, 213
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_66X95
+  rotate: false
+  xy: 461, 174
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_6X6
+  rotate: false
+  xy: 501, 78
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_70X71
+  rotate: false
+  xy: 216, 224
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_71X100
+  rotate: false
+  xy: 413, 174
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_71X29
+  rotate: false
+  xy: 388, 240
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_76X48
+  rotate: false
+  xy: 1, 229
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_76X61
+  rotate: false
+  xy: 304, 227
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_7X7
+  rotate: false
+  xy: 501, 64
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_7X8
+  rotate: false
+  xy: 501, 71
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_85X73
+  rotate: false
+  xy: 1, 180
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_87X62
+  rotate: false
+  xy: 58, 194
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_87X62_2
+  rotate: false
+  xy: 116, 213
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_92X98
+  rotate: false
+  xy: 181, 111
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_96X192
+  rotate: false
+  xy: 437, 1
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_FUTURE_PROTECTOR_ZOMBIE_FUTURE_PROTECTOR_98X146
+  rotate: false
+  xy: 348, 95
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1

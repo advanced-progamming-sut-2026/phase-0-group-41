@@ -1,0 +1,19 @@
+UI_DRAPER_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_DRAPER_CLOSE_BUTTON
+  rotate: false
+  xy: 1, 1
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+IMAGE_UI_DRAPER_CLOSE_BUTTON_DOWN
+  rotate: false
+  xy: 1, 82
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1

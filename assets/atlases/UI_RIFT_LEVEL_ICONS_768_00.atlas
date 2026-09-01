@@ -1,0 +1,47 @@
+UI_RIFT_LEVEL_ICONS_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_LEVEL_ICONS_TYPE_ICON_ARENA
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_LEVEL_ICONS_TYPE_ICON_CONVEYOR
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_LEVEL_ICONS_TYPE_ICON_LASTSTAND
+  rotate: false
+  xy: 133, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_LEVEL_ICONS_TYPE_ICON_MINIGAME
+  rotate: false
+  xy: 1, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_LEVEL_ICONS_TYPE_ICON_NORMAL
+  rotate: false
+  xy: 67, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_LEVEL_ICONS_TYPE_ICON_TIMED
+  rotate: false
+  xy: 133, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

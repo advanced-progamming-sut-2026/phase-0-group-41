@@ -1,0 +1,320 @@
+ANIM_SECURITYGOURDS_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD2
+  rotate: false
+  xy: 1, 1
+  size: 299, 321
+  orig: 299, 321
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD3
+  rotate: false
+  xy: 1, 324
+  size: 252, 234
+  orig: 252, 234
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROPVINES_BOTTOM_SECURITY_GOURD_DROPVINES_BOTTOM_259X161
+  rotate: false
+  xy: 302, 112
+  size: 166, 103
+  orig: 166, 103
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROPVINES_LINE_SECURITY_GOURD_DROPVINES_LINE_12X28
+  rotate: false
+  xy: 502, 329
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROPVINES_TOP_SECURITY_GOURD_DROPVINES_TOP_258X170
+  rotate: false
+  xy: 302, 1
+  size: 165, 109
+  orig: 165, 109
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_102X75
+  rotate: false
+  xy: 383, 481
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_103X43
+  rotate: false
+  xy: 255, 485
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_12X28
+  rotate: false
+  xy: 503, 146
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_13X12
+  rotate: false
+  xy: 277, 352
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_14X16
+  rotate: false
+  xy: 502, 349
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_165X133
+  rotate: false
+  xy: 302, 217
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_16X12
+  rotate: false
+  xy: 487, 350
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_196X92
+  rotate: false
+  xy: 255, 424
+  size: 126, 59
+  orig: 126, 59
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_20X22
+  rotate: false
+  xy: 495, 180
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_21X12
+  rotate: false
+  xy: 471, 350
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_21X16
+  rotate: false
+  xy: 496, 267
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_21X20
+  rotate: false
+  xy: 495, 196
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_22X22
+  rotate: false
+  xy: 495, 114
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_22X22_2
+  rotate: false
+  xy: 495, 130
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_231X91
+  rotate: false
+  xy: 302, 304
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_26X14
+  rotate: false
+  xy: 452, 348
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_27X14
+  rotate: false
+  xy: 476, 267
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_31X21
+  rotate: false
+  xy: 277, 336
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_31X26
+  rotate: false
+  xy: 255, 336
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_33X29
+  rotate: false
+  xy: 479, 329
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_35X45
+  rotate: false
+  xy: 470, 180
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_35X61
+  rotate: false
+  xy: 470, 114
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_39X26
+  rotate: false
+  xy: 452, 329
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_46X23
+  rotate: false
+  xy: 410, 281
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_48X23
+  rotate: false
+  xy: 476, 250
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_48X35
+  rotate: false
+  xy: 470, 155
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_49X28
+  rotate: false
+  xy: 476, 211
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_50X26
+  rotate: false
+  xy: 476, 231
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_53X57
+  rotate: false
+  xy: 470, 75
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_65X51
+  rotate: false
+  xy: 469, 40
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_68X15
+  rotate: false
+  xy: 255, 324
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_7X6
+  rotate: false
+  xy: 506, 82
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_7X8
+  rotate: false
+  xy: 506, 75
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_80X71
+  rotate: false
+  xy: 452, 281
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_88X56
+  rotate: false
+  xy: 451, 424
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_DROP_SECURITY_GOURD_DROP_99X91
+  rotate: false
+  xy: 397, 364
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_VINES_SECURITY_GOURD_VINES_102X86
+  rotate: false
+  xy: 383, 424
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_VINES_SECURITY_GOURD_VINES_219X91
+  rotate: false
+  xy: 255, 364
+  size: 140, 58
+  orig: 140, 58
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_VINES_SECURITY_GOURD_VINES_66X57
+  rotate: false
+  xy: 469, 1
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+IMAGE_SECURITY_GOURDS_SECURITY_GOURD_VINES_SECURITY_GOURD_VINES_99X97
+  rotate: false
+  xy: 410, 217
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1

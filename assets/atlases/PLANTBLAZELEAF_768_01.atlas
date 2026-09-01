@@ -1,0 +1,285 @@
+PLANTBLAZELEAF_768_01.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BLAZELEAF_FX_BLAZELEAF_FX_176X323
+  rotate: false
+  xy: 1, 640
+  size: 113, 207
+  orig: 113, 207
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_FX_BLAZELEAF_FX_248X407
+  rotate: false
+  xy: 222, 238
+  size: 159, 261
+  orig: 159, 261
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_FX_BLAZELEAF_FX_268X379
+  rotate: false
+  xy: 817, 181
+  size: 172, 243
+  orig: 172, 243
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_FX_BLAZELEAF_FX_313X367
+  rotate: false
+  xy: 222, 1
+  size: 201, 235
+  orig: 201, 235
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_FX_BLAZELEAF_FX_342X405
+  rotate: false
+  xy: 1, 1
+  size: 219, 259
+  orig: 219, 259
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_PF_FX_BLAZELEAF_PF_FX_196X392
+  rotate: false
+  xy: 790, 426
+  size: 126, 251
+  orig: 126, 251
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_PF_FX_BLAZELEAF_PF_FX_300X368
+  rotate: false
+  xy: 425, 1
+  size: 192, 236
+  orig: 192, 236
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_PF_FX_BLAZELEAF_PF_FX_306X343
+  rotate: false
+  xy: 619, 181
+  size: 196, 220
+  orig: 196, 220
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BLAZELEAF_PF_FX_BLAZELEAF_PF_FX_327X179
+  rotate: false
+  xy: 326, 594
+  size: 210, 115
+  orig: 210, 115
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_121X105
+  rotate: false
+  xy: 759, 901
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_126X111
+  rotate: false
+  xy: 676, 901
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_128X111
+  rotate: false
+  xy: 592, 854
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_131X116
+  rotate: false
+  xy: 1, 849
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_133X114
+  rotate: false
+  xy: 505, 852
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_138X111
+  rotate: false
+  xy: 858, 831
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_141X115
+  rotate: false
+  xy: 918, 588
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_141X120
+  rotate: false
+  xy: 918, 509
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_143X126
+  rotate: false
+  xy: 918, 426
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_167X204
+  rotate: false
+  xy: 625, 721
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_169X234
+  rotate: false
+  xy: 861, 679
+  size: 108, 150
+  orig: 108, 150
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_172X201
+  rotate: false
+  xy: 513, 721
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_190X125
+  rotate: false
+  xy: 734, 819
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_190X174
+  rotate: false
+  xy: 116, 808
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_190X216
+  rotate: false
+  xy: 737, 679
+  size: 122, 138
+  orig: 122, 138
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_195X213
+  rotate: false
+  xy: 116, 669
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_197X115
+  rotate: false
+  xy: 377, 831
+  size: 126, 74
+  orig: 126, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_200X184
+  rotate: false
+  xy: 383, 711
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_206X222
+  rotate: false
+  xy: 875, 1
+  size: 132, 142
+  orig: 132, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_210X151
+  rotate: false
+  xy: 240, 823
+  size: 135, 97
+  orig: 135, 97
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_215X172
+  rotate: false
+  xy: 243, 711
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_248X273
+  rotate: false
+  xy: 1, 463
+  size: 159, 175
+  orig: 159, 175
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_253X259
+  rotate: false
+  xy: 162, 501
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_275X304
+  rotate: false
+  xy: 612, 403
+  size: 176, 195
+  orig: 176, 195
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_275X311
+  rotate: false
+  xy: 1, 262
+  size: 176, 199
+  orig: 176, 199
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_289X278
+  rotate: false
+  xy: 383, 414
+  size: 185, 178
+  orig: 185, 178
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_307X186
+  rotate: false
+  xy: 538, 600
+  size: 197, 119
+  orig: 197, 119
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_354X270
+  rotate: false
+  xy: 383, 239
+  size: 227, 173
+  orig: 227, 173
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_397X278
+  rotate: false
+  xy: 619, 1
+  size: 254, 178
+  orig: 254, 178
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_54X62
+  rotate: false
+  xy: 179, 305
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BLAZELEAF_BLAZELEAF_57X63
+  rotate: false
+  xy: 179, 262
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1

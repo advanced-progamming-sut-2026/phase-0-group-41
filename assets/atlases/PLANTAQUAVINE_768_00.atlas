@@ -1,0 +1,957 @@
+PLANTAQUAVINE_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_AQUAVINE_PF_PROJECTILE_IMPACT_AQUAVINE_PF_PROJECTILE_IMPACT_19X22
+  rotate: false
+  xy: 500, 200
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PF_PROJECTILE_IMPACT_AQUAVINE_PF_PROJECTILE_IMPACT_27X36
+  rotate: false
+  xy: 494, 433
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PF_PROJECTILE_IMPACT_AQUAVINE_PF_PROJECTILE_IMPACT_81X34
+  rotate: false
+  xy: 344, 744
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_138X93
+  rotate: false
+  xy: 235, 589
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_184X184
+  rotate: false
+  xy: 1, 241
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_188X167
+  rotate: false
+  xy: 247, 407
+  size: 121, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_191X163
+  rotate: false
+  xy: 370, 407
+  size: 122, 105
+  orig: 122, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_194X170
+  rotate: false
+  xy: 121, 300
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_220X205
+  rotate: false
+  xy: 288, 274
+  size: 141, 131
+  orig: 141, 131
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_224X207
+  rotate: false
+  xy: 300, 139
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_226X212
+  rotate: false
+  xy: 300, 1
+  size: 145, 136
+  orig: 145, 136
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_26X31
+  rotate: false
+  xy: 494, 479
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_30X31
+  rotate: false
+  xy: 344, 768
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_35X31
+  rotate: false
+  xy: 139, 763
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_70X45
+  rotate: false
+  xy: 201, 718
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_72X43
+  rotate: false
+  xy: 1, 733
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_75X43
+  rotate: false
+  xy: 358, 714
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_76X42
+  rotate: false
+  xy: 181, 611
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_76X43
+  rotate: false
+  xy: 150, 702
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_76X47
+  rotate: false
+  xy: 457, 685
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_80X44
+  rotate: false
+  xy: 97, 702
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_80X46
+  rotate: false
+  xy: 314, 516
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_85X51
+  rotate: false
+  xy: 455, 514
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_85X51_2
+  rotate: false
+  xy: 455, 549
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_86X42
+  rotate: false
+  xy: 262, 651
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_AQUAVINE_PROJECTILE_92X50
+  rotate: false
+  xy: 83, 640
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_EXPLOSION_AQUAVINE_PROJECTILE_EXPLOSION_105X38
+  rotate: false
+  xy: 68, 674
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_EXPLOSION_AQUAVINE_PROJECTILE_EXPLOSION_105X38_2
+  rotate: false
+  xy: 262, 682
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_EXPLOSION_AQUAVINE_PROJECTILE_EXPLOSION_105X38_3
+  rotate: false
+  xy: 331, 685
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_EXPLOSION_AQUAVINE_PROJECTILE_EXPLOSION_217X372
+  rotate: false
+  xy: 1, 1
+  size: 139, 238
+  orig: 139, 238
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_PROJECTILE_EXPLOSION_AQUAVINE_PROJECTILE_EXPLOSION_243X253
+  rotate: false
+  xy: 142, 1
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_WATER_WALL_AQUAVINE_WATER_WALL_129X54
+  rotate: false
+  xy: 1, 361
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_WATER_WALL_AQUAVINE_WATER_WALL_13X53
+  rotate: false
+  xy: 288, 165
+  size: 9, 34
+  orig: 9, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_WATER_WALL_AQUAVINE_WATER_WALL_141X81
+  rotate: false
+  xy: 326, 594
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_WATER_WALL_AQUAVINE_WATER_WALL_150X42
+  rotate: false
+  xy: 83, 611
+  size: 96, 27
+  orig: 96, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_WATER_WALL_AQUAVINE_WATER_WALL_196X127
+  rotate: false
+  xy: 1, 500
+  size: 126, 82
+  orig: 126, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_WATER_WALL_AQUAVINE_WATER_WALL_204X135
+  rotate: false
+  xy: 1, 411
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AQUAVINE_WATER_WALL_AQUAVINE_WATER_WALL_99X40
+  rotate: false
+  xy: 137, 674
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_101X42
+  rotate: false
+  xy: 1, 654
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_10X21
+  rotate: false
+  xy: 288, 228
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_117X84
+  rotate: false
+  xy: 431, 351
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_120X110
+  rotate: false
+  xy: 235, 516
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_123X117
+  rotate: false
+  xy: 431, 274
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_124X106
+  rotate: false
+  xy: 1, 584
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_129X37
+  rotate: false
+  xy: 418, 624
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_129X43
+  rotate: false
+  xy: 418, 594
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_12X11
+  rotate: false
+  xy: 314, 580
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_130X121
+  rotate: false
+  xy: 370, 514
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_13X10
+  rotate: false
+  xy: 288, 256
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_13X11
+  rotate: false
+  xy: 288, 265
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_13X16
+  rotate: false
+  xy: 288, 244
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_14X43
+  rotate: false
+  xy: 500, 170
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_14X9
+  rotate: false
+  xy: 495, 584
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_15X8
+  rotate: false
+  xy: 205, 640
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_162X153
+  rotate: false
+  xy: 129, 511
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_168X153
+  rotate: false
+  xy: 134, 411
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_17X10
+  rotate: false
+  xy: 455, 584
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_17X17
+  rotate: false
+  xy: 494, 501
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_17X9
+  rotate: false
+  xy: 468, 584
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_18X10
+  rotate: false
+  xy: 270, 338
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_19X7
+  rotate: false
+  xy: 481, 584
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_20X23
+  rotate: false
+  xy: 498, 770
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_20X30
+  rotate: false
+  xy: 270, 300
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_21X39
+  rotate: false
+  xy: 498, 218
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_224X207
+  rotate: false
+  xy: 142, 165
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_22X13
+  rotate: false
+  xy: 121, 289
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_22X15
+  rotate: false
+  xy: 498, 245
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_23X23
+  rotate: false
+  xy: 270, 321
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_25X17
+  rotate: false
+  xy: 44, 398
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_26X16
+  rotate: false
+  xy: 62, 398
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_26X31
+  rotate: false
+  xy: 245, 769
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_26X72
+  rotate: false
+  xy: 121, 241
+  size: 17, 46
+  orig: 17, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_27X17
+  rotate: false
+  xy: 24, 398
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_27X20
+  rotate: false
+  xy: 209, 784
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_27X22
+  rotate: false
+  xy: 406, 778
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_27X22_2
+  rotate: false
+  xy: 189, 780
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_27X23
+  rotate: false
+  xy: 386, 778
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_27X37
+  rotate: false
+  xy: 494, 407
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_28X29
+  rotate: false
+  xy: 494, 458
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_29X18
+  rotate: false
+  xy: 139, 785
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_30X23
+  rotate: false
+  xy: 46, 683
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_30X23_2
+  rotate: false
+  xy: 477, 770
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_30X31
+  rotate: false
+  xy: 365, 768
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_31X66
+  rotate: false
+  xy: 429, 747
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_32X16
+  rotate: false
+  xy: 1, 398
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_32X51
+  rotate: false
+  xy: 222, 749
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_32X74
+  rotate: false
+  xy: 247, 300
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_34X43
+  rotate: false
+  xy: 87, 763
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_35X31
+  rotate: false
+  xy: 164, 763
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_36X19
+  rotate: false
+  xy: 290, 772
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_36X19_2
+  rotate: false
+  xy: 315, 772
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_37X21
+  rotate: false
+  xy: 264, 769
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_37X21_2
+  rotate: false
+  xy: 451, 770
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_37X42
+  rotate: false
+  xy: 61, 763
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_41X22
+  rotate: false
+  xy: 86, 393
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_41X36
+  rotate: false
+  xy: 111, 763
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_41X45
+  rotate: false
+  xy: 33, 763
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_45X19
+  rotate: false
+  xy: 482, 259
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_45X19_2
+  rotate: false
+  xy: 326, 580
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_45X45
+  rotate: false
+  xy: 398, 747
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_45X45_2
+  rotate: false
+  xy: 191, 749
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_46X41
+  rotate: false
+  xy: 1, 763
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_46X47
+  rotate: false
+  xy: 86, 361
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_48X34
+  rotate: false
+  xy: 247, 380
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_52X44
+  rotate: false
+  xy: 247, 350
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_53X20
+  rotate: false
+  xy: 446, 259
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_60X31
+  rotate: false
+  xy: 83, 584
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_67X55
+  rotate: false
+  xy: 1, 683
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_68X43
+  rotate: false
+  xy: 49, 733
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_70X45
+  rotate: false
+  xy: 97, 732
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_70X45_2
+  rotate: false
+  xy: 144, 732
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_72X43
+  rotate: false
+  xy: 248, 739
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_72X43_2
+  rotate: false
+  xy: 296, 742
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_75X43
+  rotate: false
+  xy: 408, 717
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_76X42
+  rotate: false
+  xy: 458, 717
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_76X43
+  rotate: false
+  xy: 307, 712
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_76X47
+  rotate: false
+  xy: 203, 686
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_76X47_2
+  rotate: false
+  xy: 46, 701
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_77X61
+  rotate: false
+  xy: 446, 218
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_7X7
+  rotate: false
+  xy: 280, 380
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_80X44
+  rotate: false
+  xy: 254, 709
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_80X46
+  rotate: false
+  xy: 314, 548
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_81X34
+  rotate: false
+  xy: 458, 746
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_81X72
+  rotate: false
+  xy: 446, 170
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_85X51
+  rotate: false
+  xy: 387, 650
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_85X51_2
+  rotate: false
+  xy: 444, 650
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_85X51_3
+  rotate: false
+  xy: 205, 651
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_86X42
+  rotate: false
+  xy: 400, 685
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_92X50
+  rotate: false
+  xy: 144, 640
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_92X50_2
+  rotate: false
+  xy: 326, 648
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_94X77
+  rotate: false
+  xy: 447, 118
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_95X84
+  rotate: false
+  xy: 447, 62
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_99X92
+  rotate: false
+  xy: 447, 1
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_9X10
+  rotate: false
+  xy: 506, 584
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_9X15
+  rotate: false
+  xy: 357, 580
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AQUAVINE_AQUAVINE_9X38
+  rotate: false
+  xy: 288, 201
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,229 @@
+PLANTTHYMEWARP_768_00.PNG
+size: 256, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_THYMEWARP_THYMEWARP_112X116
+  rotate: false
+  xy: 76, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_113X113
+  rotate: false
+  xy: 1, 1
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_15X12
+  rotate: false
+  xy: 120, 111
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_16X16
+  rotate: false
+  xy: 216, 84
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_16X32
+  rotate: false
+  xy: 175, 51
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_17X22
+  rotate: false
+  xy: 240, 101
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_17X22_2
+  rotate: false
+  xy: 138, 110
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_19X42
+  rotate: false
+  xy: 202, 84
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_21X42
+  rotate: false
+  xy: 186, 84
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_24X42
+  rotate: false
+  xy: 140, 81
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_24X43
+  rotate: false
+  xy: 44, 76
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_25X43
+  rotate: false
+  xy: 62, 77
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_29X21
+  rotate: false
+  xy: 52, 107
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_30X22
+  rotate: false
+  xy: 73, 111
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_34X21
+  rotate: false
+  xy: 216, 101
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_34X21_2
+  rotate: false
+  xy: 1, 103
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_34X51
+  rotate: false
+  xy: 229, 37
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_35X42
+  rotate: false
+  xy: 229, 72
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_36X43
+  rotate: false
+  xy: 150, 51
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_36X52
+  rotate: false
+  xy: 227, 1
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_37X16
+  rotate: false
+  xy: 94, 111
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_38X18
+  rotate: false
+  xy: 25, 106
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_39X21
+  rotate: false
+  xy: 158, 98
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_40X23
+  rotate: false
+  xy: 158, 81
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_42X22
+  rotate: false
+  xy: 80, 95
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_42X22_2
+  rotate: false
+  xy: 109, 95
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_43X24
+  rotate: false
+  xy: 80, 77
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_43X24_2
+  rotate: false
+  xy: 110, 77
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_56X73
+  rotate: false
+  xy: 189, 1
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_57X74
+  rotate: false
+  xy: 150, 1
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_59X49
+  rotate: false
+  xy: 189, 50
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THYMEWARP_THYMEWARP_64X39
+  rotate: false
+  xy: 1, 76
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,726 @@
+PLANTREINCARNATION_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DAZEY_CHAIN_GASFX_DAZEY_CHAIN_GASFX_60X41
+  rotate: false
+  xy: 1, 213
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_15X15
+  rotate: false
+  xy: 501, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_15X15_2
+  rotate: false
+  xy: 501, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_15X15_3
+  rotate: false
+  xy: 501, 25
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_25X103
+  rotate: false
+  xy: 459, 193
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_25X103_2
+  rotate: false
+  xy: 315, 200
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_25X103_3
+  rotate: false
+  xy: 333, 200
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_38X64
+  rotate: false
+  xy: 351, 200
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_38X64_2
+  rotate: false
+  xy: 378, 200
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_38X64_3
+  rotate: false
+  xy: 129, 203
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_94X42
+  rotate: false
+  xy: 235, 164
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_94X42_2
+  rotate: false
+  xy: 297, 171
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_HITFX_DAZEY_CHAIN_HITFX_94X42_3
+  rotate: false
+  xy: 359, 171
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_104X20
+  rotate: false
+  xy: 75, 246
+  size: 67, 13
+  orig: 67, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_34X34
+  rotate: false
+  xy: 307, 268
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_34X34_2
+  rotate: false
+  xy: 1, 269
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_34X34_3
+  rotate: false
+  xy: 252, 271
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_35X63
+  rotate: false
+  xy: 156, 203
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_35X63_2
+  rotate: false
+  xy: 181, 224
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_35X63_3
+  rotate: false
+  xy: 206, 224
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_45X31
+  rotate: false
+  xy: 477, 267
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_52X40
+  rotate: false
+  xy: 231, 224
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_52X40_2
+  rotate: false
+  xy: 405, 232
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_52X40_3
+  rotate: false
+  xy: 477, 239
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_54X27
+  rotate: false
+  xy: 351, 266
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_54X27_2
+  rotate: false
+  xy: 165, 267
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_54X28
+  rotate: false
+  xy: 440, 267
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_57X107
+  rotate: false
+  xy: 462, 1
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_71X16
+  rotate: false
+  xy: 182, 181
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_71X26
+  rotate: false
+  xy: 392, 260
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_79X22
+  rotate: false
+  xy: 79, 261
+  size: 51, 14
+  orig: 51, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_80X45
+  rotate: false
+  xy: 129, 172
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_80X45_2
+  rotate: false
+  xy: 182, 193
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_80X45_3
+  rotate: false
+  xy: 235, 193
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_89X89
+  rotate: false
+  xy: 403, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DAZEY_CHAIN_PROJECTILE_DAZEY_CHAIN_PROJECTILE_89X89_2
+  rotate: false
+  xy: 403, 60
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_10X12
+  rotate: false
+  xy: 421, 183
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_10X12_2
+  rotate: false
+  xy: 405, 200
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_10X17
+  rotate: false
+  xy: 501, 49
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_10X8
+  rotate: false
+  xy: 346, 163
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_10X8_2
+  rotate: false
+  xy: 355, 163
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_10X8_3
+  rotate: false
+  xy: 364, 163
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_10X9
+  rotate: false
+  xy: 337, 163
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_11X10
+  rotate: false
+  xy: 113, 213
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_11X10_2
+  rotate: false
+  xy: 405, 219
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_11X11
+  rotate: false
+  xy: 113, 222
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_11X14
+  rotate: false
+  xy: 235, 138
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_12X10
+  rotate: false
+  xy: 247, 110
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_12X10_2
+  rotate: false
+  xy: 257, 110
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_12X10_3
+  rotate: false
+  xy: 267, 110
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_12X11
+  rotate: false
+  xy: 405, 210
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_136X131
+  rotate: false
+  xy: 191, 1
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_13X12
+  rotate: false
+  xy: 501, 62
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_16X15
+  rotate: false
+  xy: 501, 37
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_1X1
+  rotate: false
+  xy: 510, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_21X28
+  rotate: false
+  xy: 331, 268
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_22X15
+  rotate: false
+  xy: 36, 248
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_23X17
+  rotate: false
+  xy: 431, 142
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_23X33
+  rotate: false
+  xy: 441, 232
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_28X28
+  rotate: false
+  xy: 267, 224
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_30X62
+  rotate: false
+  xy: 231, 252
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_30X67
+  rotate: false
+  xy: 144, 246
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_31X34
+  rotate: false
+  xy: 388, 279
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_31X39
+  rotate: false
+  xy: 202, 267
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_33X33
+  rotate: false
+  xy: 106, 277
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_33X35
+  rotate: false
+  xy: 276, 271
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_36X26
+  rotate: false
+  xy: 410, 279
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_38X30
+  rotate: false
+  xy: 79, 277
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_38X32
+  rotate: false
+  xy: 431, 119
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_39X71
+  rotate: false
+  xy: 288, 200
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_42X71
+  rotate: false
+  xy: 482, 157
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_43X33
+  rotate: false
+  xy: 247, 87
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_45X54
+  rotate: false
+  xy: 44, 211
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_49X50
+  rotate: false
+  xy: 477, 205
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_51X41
+  rotate: false
+  xy: 1, 241
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_54X78
+  rotate: false
+  xy: 300, 119
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_54X78_2
+  rotate: false
+  xy: 394, 119
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_56X43
+  rotate: false
+  xy: 75, 213
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_56X58
+  rotate: false
+  xy: 421, 193
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_59X32
+  rotate: false
+  xy: 267, 248
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_60X32
+  rotate: false
+  xy: 351, 243
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_60X60
+  rotate: false
+  xy: 88, 172
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_63X30
+  rotate: false
+  xy: 36, 261
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_63X61
+  rotate: false
+  xy: 1, 172
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_65X57
+  rotate: false
+  xy: 44, 172
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_65X63
+  rotate: false
+  xy: 191, 138
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_71X60
+  rotate: false
+  xy: 462, 116
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_76X52
+  rotate: false
+  xy: 431, 157
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_77X65
+  rotate: false
+  xy: 462, 72
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_79X67
+  rotate: false
+  xy: 247, 119
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_83X70
+  rotate: false
+  xy: 339, 116
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_84X76
+  rotate: false
+  xy: 339, 65
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_84X76_2
+  rotate: false
+  xy: 191, 87
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_88X181
+  rotate: false
+  xy: 280, 1
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_97X97
+  rotate: false
+  xy: 339, 1
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_9X11
+  rotate: false
+  xy: 182, 172
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_9X11_2
+  rotate: false
+  xy: 113, 231
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_9X15
+  rotate: false
+  xy: 448, 142
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_9X16
+  rotate: false
+  xy: 235, 149
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_9X16_2
+  rotate: false
+  xy: 421, 171
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_9X8
+  rotate: false
+  xy: 373, 163
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DAZEY_CHAIN_DAZEY_CHAIN_9X8_2
+  rotate: false
+  xy: 381, 163
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

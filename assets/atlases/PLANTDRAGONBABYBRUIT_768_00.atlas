@@ -1,0 +1,390 @@
+PLANTDRAGONBABYBRUIT_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_DRAGONBABYBRUIT_PROJECTILE_173X109
+  rotate: false
+  xy: 142, 230
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_DRAGONBABYBRUIT_PROJECTILE_188X122
+  rotate: false
+  xy: 309, 224
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_DRAGONBABYBRUIT_PROJECTILE_211X140
+  rotate: false
+  xy: 172, 138
+  size: 135, 90
+  orig: 135, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_DRAGONBABYBRUIT_PROJECTILE_220X153
+  rotate: false
+  xy: 323, 124
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_DRAGONBABYBRUIT_PROJECTILE_71X50
+  rotate: false
+  xy: 466, 138
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_IMPACT_DRAGONBABYBRUIT_PROJECTILE_IMPACT_22X21
+  rotate: false
+  xy: 116, 286
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_IMPACT_DRAGONBABYBRUIT_PROJECTILE_IMPACT_37X36
+  rotate: false
+  xy: 142, 157
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_IMPACT_DRAGONBABYBRUIT_PROJECTILE_IMPACT_45X38
+  rotate: false
+  xy: 1, 246
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DRAGONBABYBRUIT_PROJECTILE_IMPACT_DRAGONBABYBRUIT_PROJECTILE_IMPACT_47X50
+  rotate: false
+  xy: 255, 230
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_15X16
+  rotate: false
+  xy: 309, 202
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_15X16_2
+  rotate: false
+  xy: 79, 294
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_15X20
+  rotate: false
+  xy: 309, 172
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_15X20_2
+  rotate: false
+  xy: 309, 187
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_16X23
+  rotate: false
+  xy: 309, 138
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_16X23_2
+  rotate: false
+  xy: 309, 155
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_18X18
+  rotate: false
+  xy: 51, 294
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_18X18_2
+  rotate: false
+  xy: 65, 294
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_1X1
+  rotate: false
+  xy: 507, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_20X22
+  rotate: false
+  xy: 255, 287
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_20X22_2
+  rotate: false
+  xy: 270, 287
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_215X189
+  rotate: false
+  xy: 323, 1
+  size: 138, 121
+  orig: 138, 121
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_217X136
+  rotate: false
+  xy: 1, 157
+  size: 139, 87
+  orig: 139, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_21X41
+  rotate: false
+  xy: 494, 207
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_21X41_2
+  rotate: false
+  xy: 287, 230
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_22X17
+  rotate: false
+  xy: 1, 293
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_22X17_2
+  rotate: false
+  xy: 285, 293
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_232X211
+  rotate: false
+  xy: 172, 1
+  size: 149, 135
+  orig: 149, 135
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_23X15
+  rotate: false
+  xy: 17, 294
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_23X15_2
+  rotate: false
+  xy: 34, 294
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_23X26
+  rotate: false
+  xy: 289, 258
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_23X26_2
+  rotate: false
+  xy: 494, 275
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_24X21
+  rotate: false
+  xy: 289, 277
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_24X21_2
+  rotate: false
+  xy: 474, 281
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_264X240
+  rotate: false
+  xy: 1, 1
+  size: 169, 154
+  orig: 169, 154
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_28X28
+  rotate: false
+  xy: 494, 235
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_28X28_2
+  rotate: false
+  xy: 494, 255
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_29X23
+  rotate: false
+  xy: 432, 281
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_29X23_2
+  rotate: false
+  xy: 453, 281
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_32X23
+  rotate: false
+  xy: 466, 207
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_32X23_2
+  rotate: false
+  xy: 116, 269
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_32X38
+  rotate: false
+  xy: 142, 182
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_32X38_2
+  rotate: false
+  xy: 93, 269
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_38X28
+  rotate: false
+  xy: 142, 209
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_38X28_2
+  rotate: false
+  xy: 1, 273
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_44X36
+  rotate: false
+  xy: 63, 269
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_45X36
+  rotate: false
+  xy: 32, 269
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_49X32
+  rotate: false
+  xy: 32, 246
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_49X32_2
+  rotate: false
+  xy: 66, 246
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_50X32
+  rotate: false
+  xy: 100, 246
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_50X32_2
+  rotate: false
+  xy: 255, 264
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_55X51
+  rotate: false
+  xy: 466, 97
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_55X51_2
+  rotate: false
+  xy: 466, 172
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_66X71
+  rotate: false
+  xy: 463, 1
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_66X71_2
+  rotate: false
+  xy: 463, 49
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_DRAGONBABYBRUIT_DRAGONBABYBRUIT_94X85
+  rotate: false
+  xy: 432, 224
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1

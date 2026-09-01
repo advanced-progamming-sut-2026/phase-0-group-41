@@ -1,0 +1,453 @@
+ZOMBIEHAMSTERBALLGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_103X117
+  rotate: false
+  xy: 113, 745
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_10X19
+  rotate: false
+  xy: 500, 154
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_113X53
+  rotate: false
+  xy: 421, 653
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_115X233
+  rotate: false
+  xy: 345, 561
+  size: 74, 149
+  orig: 74, 149
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_119X140
+  rotate: false
+  xy: 421, 561
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_11X36
+  rotate: false
+  xy: 501, 94
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_12X15
+  rotate: false
+  xy: 500, 168
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_135X8
+  rotate: false
+  xy: 1, 809
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_14X11
+  rotate: false
+  xy: 503, 396
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_15X25
+  rotate: false
+  xy: 501, 119
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_163X140
+  rotate: false
+  xy: 345, 712
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_16X23
+  rotate: false
+  xy: 501, 137
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_172X96
+  rotate: false
+  xy: 1, 745
+  size: 110, 62
+  orig: 110, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_17X11
+  rotate: false
+  xy: 499, 575
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_19X18
+  rotate: false
+  xy: 499, 561
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_1X1
+  rotate: false
+  xy: 505, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_20X20
+  rotate: false
+  xy: 496, 653
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_226X225
+  rotate: false
+  xy: 363, 229
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_242X247
+  rotate: false
+  xy: 345, 401
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_25X22
+  rotate: false
+  xy: 496, 745
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_25X25
+  rotate: false
+  xy: 90, 809
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_265X265
+  rotate: false
+  xy: 191, 229
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_265X265_2
+  rotate: false
+  xy: 1, 400
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_265X265_3
+  rotate: false
+  xy: 173, 401
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_265X265_4
+  rotate: false
+  xy: 1, 573
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_265X265_5
+  rotate: false
+  xy: 173, 573
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_293X263
+  rotate: false
+  xy: 1, 229
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_29X25
+  rotate: false
+  xy: 401, 804
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_29X31
+  rotate: false
+  xy: 421, 689
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_30X30
+  rotate: false
+  xy: 321, 782
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_31X45
+  rotate: false
+  xy: 491, 689
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_32X19
+  rotate: false
+  xy: 212, 814
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_32X20
+  rotate: false
+  xy: 422, 804
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_32X55
+  rotate: false
+  xy: 320, 745
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_34X48
+  rotate: false
+  xy: 351, 804
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_34X57
+  rotate: false
+  xy: 480, 800
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_353X353
+  rotate: false
+  xy: 1, 1
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_353X353_2
+  rotate: false
+  xy: 229, 1
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_37X34
+  rotate: false
+  xy: 477, 375
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_37X42
+  rotate: false
+  xy: 375, 804
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_39X56
+  rotate: false
+  xy: 485, 762
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_41X50
+  rotate: false
+  xy: 452, 796
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_43X39
+  rotate: false
+  xy: 321, 804
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_45X53
+  rotate: false
+  xy: 181, 782
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_46X56
+  rotate: false
+  xy: 288, 745
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_48X48
+  rotate: false
+  xy: 288, 783
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_48X48_2
+  rotate: false
+  xy: 252, 784
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_48X49
+  rotate: false
+  xy: 452, 762
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_48X58
+  rotate: false
+  xy: 255, 745
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_49X34
+  rotate: false
+  xy: 407, 375
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_49X48
+  rotate: false
+  xy: 218, 781
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_52X29
+  rotate: false
+  xy: 441, 375
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_54X53
+  rotate: false
+  xy: 218, 745
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_55X55
+  rotate: false
+  xy: 181, 745
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_58X57
+  rotate: false
+  xy: 452, 689
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_64X66
+  rotate: false
+  xy: 457, 140
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_65X50
+  rotate: false
+  xy: 452, 728
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_66X33
+  rotate: false
+  xy: 363, 375
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_66X68
+  rotate: false
+  xy: 457, 94
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_6X6
+  rotate: false
+  xy: 505, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_72X73
+  rotate: false
+  xy: 457, 1
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_73X54
+  rotate: false
+  xy: 457, 184
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_75X66
+  rotate: false
+  xy: 457, 50
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIES_ZOMBIE_HAMSTERBALL_ZOMBIE_HAMSTERBALL_7X7
+  rotate: false
+  xy: 505, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

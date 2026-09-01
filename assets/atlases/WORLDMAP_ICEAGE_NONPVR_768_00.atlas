@@ -1,0 +1,1132 @@
+WORLDMAP_ICEAGE_NONPVR_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WORLDMAP_DANGER_LEVEL_ICEAGE
+  rotate: false
+  xy: 741, 1360
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_104X72
+  rotate: false
+  xy: 801, 1360
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_116X54
+  rotate: false
+  xy: 589, 1365
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_118X40
+  rotate: false
+  xy: 538, 1403
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_118X49
+  rotate: false
+  xy: 917, 1369
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_16X15
+  rotate: false
+  xy: 1013, 266
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_16X23
+  rotate: false
+  xy: 1013, 215
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_16X23_2
+  rotate: false
+  xy: 1013, 232
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_16X23_3
+  rotate: false
+  xy: 1013, 249
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_16X27
+  rotate: false
+  xy: 1012, 155
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_16X27_2
+  rotate: false
+  xy: 1012, 175
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_16X27_3
+  rotate: false
+  xy: 1012, 195
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_17X25
+  rotate: false
+  xy: 1013, 821
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_17X25_2
+  rotate: false
+  xy: 1013, 839
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_17X25_3
+  rotate: false
+  xy: 1013, 857
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_17X26
+  rotate: false
+  xy: 1012, 98
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_17X26_2
+  rotate: false
+  xy: 1012, 117
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_17X26_3
+  rotate: false
+  xy: 1012, 136
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_183X119
+  rotate: false
+  xy: 268, 1286
+  size: 117, 76
+  orig: 117, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_184X49
+  rotate: false
+  xy: 866, 575
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_18X24
+  rotate: false
+  xy: 286, 662
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_18X24_2
+  rotate: false
+  xy: 243, 847
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_18X24_3
+  rotate: false
+  xy: 1011, 1309
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_18X33
+  rotate: false
+  xy: 243, 718
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_18X33_2
+  rotate: false
+  xy: 243, 741
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_18X33_3
+  rotate: false
+  xy: 243, 764
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_190X324
+  rotate: false
+  xy: 1, 1216
+  size: 122, 208
+  orig: 122, 208
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_195X320
+  rotate: false
+  xy: 614, 1158
+  size: 125, 205
+  orig: 125, 205
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_198X419
+  rotate: false
+  xy: 866, 305
+  size: 127, 268
+  orig: 127, 268
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_1X1
+  rotate: false
+  xy: 990, 210
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_1X1_2
+  rotate: false
+  xy: 993, 210
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_20X16
+  rotate: false
+  xy: 243, 865
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_20X16_2
+  rotate: false
+  xy: 486, 1146
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_20X27
+  rotate: false
+  xy: 243, 787
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_20X27_2
+  rotate: false
+  xy: 243, 807
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_20X27_3
+  rotate: false
+  xy: 243, 827
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_20X31
+  rotate: false
+  xy: 286, 640
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_20X31_2
+  rotate: false
+  xy: 243, 696
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X33
+  rotate: false
+  xy: 450, 1392
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X33_2
+  rotate: false
+  xy: 466, 1392
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X33_3
+  rotate: false
+  xy: 995, 1395
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X37
+  rotate: false
+  xy: 719, 1365
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X37_2
+  rotate: false
+  xy: 995, 1369
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X37_3
+  rotate: false
+  xy: 719, 1391
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X38
+  rotate: false
+  xy: 1005, 1145
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X38_2
+  rotate: false
+  xy: 1005, 1172
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_21X38_3
+  rotate: false
+  xy: 1005, 1199
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_220X176
+  rotate: false
+  xy: 125, 1216
+  size: 141, 113
+  orig: 141, 113
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X26
+  rotate: false
+  xy: 148, 1409
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X26_2
+  rotate: false
+  xy: 164, 1409
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X27
+  rotate: false
+  xy: 818, 1408
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X27_2
+  rotate: false
+  xy: 834, 1408
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X27_3
+  rotate: false
+  xy: 850, 1408
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X32
+  rotate: false
+  xy: 616, 1402
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X32_2
+  rotate: false
+  xy: 632, 1402
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_22X32_3
+  rotate: false
+  xy: 648, 1402
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_23X20
+  rotate: false
+  xy: 198, 1409
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_23X20_2
+  rotate: false
+  xy: 215, 1409
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_23X28
+  rotate: false
+  xy: 1009, 605
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_23X28_2
+  rotate: false
+  xy: 971, 1403
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_23X28_3
+  rotate: false
+  xy: 801, 1408
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_24X28
+  rotate: false
+  xy: 917, 1403
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_24X28_2
+  rotate: false
+  xy: 935, 1403
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_24X28_3
+  rotate: false
+  xy: 953, 1403
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_24X38
+  rotate: false
+  xy: 538, 712
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_24X38_2
+  rotate: false
+  xy: 538, 739
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_253X272
+  rotate: false
+  xy: 450, 1158
+  size: 162, 174
+  orig: 162, 174
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_25X15
+  rotate: false
+  xy: 450, 1146
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_25X15_2
+  rotate: false
+  xy: 468, 1146
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_25X20
+  rotate: false
+  xy: 966, 609
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_25X20_2
+  rotate: false
+  xy: 180, 1409
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_25X45
+  rotate: false
+  xy: 281, 578
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_25X45_2
+  rotate: false
+  xy: 281, 609
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_25X45_3
+  rotate: false
+  xy: 538, 681
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_28X22
+  rotate: false
+  xy: 926, 609
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_28X22_2
+  rotate: false
+  xy: 946, 609
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_28X32
+  rotate: false
+  xy: 538, 766
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_28X32_2
+  rotate: false
+  xy: 538, 789
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_28X32_3
+  rotate: false
+  xy: 538, 812
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_291X347
+  rotate: false
+  xy: 558, 934
+  size: 186, 222
+  orig: 186, 222
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_292X476
+  rotate: false
+  xy: 560, 627
+  size: 187, 305
+  orig: 187, 305
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_29X29
+  rotate: false
+  xy: 538, 835
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_30X28
+  rotate: false
+  xy: 538, 856
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_312X157
+  rotate: false
+  xy: 741, 1257
+  size: 200, 101
+  orig: 200, 101
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_31X172
+  rotate: false
+  xy: 990, 98
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_31X33
+  rotate: false
+  xy: 532, 1112
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_31X46
+  rotate: false
+  xy: 259, 578
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_31X46_2
+  rotate: false
+  xy: 259, 610
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_320X385
+  rotate: false
+  xy: 749, 821
+  size: 205, 247
+  orig: 205, 247
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_32X19
+  rotate: false
+  xy: 259, 667
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_32X19_2
+  rotate: false
+  xy: 125, 1409
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_32X28
+  rotate: false
+  xy: 350, 1364
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_33X31
+  rotate: false
+  xy: 532, 1135
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_33X31_2
+  rotate: false
+  xy: 589, 1334
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_37X36
+  rotate: false
+  xy: 240, 1331
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_38X36
+  rotate: false
+  xy: 995, 547
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_38X36_2
+  rotate: false
+  xy: 259, 642
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_39X49
+  rotate: false
+  xy: 995, 283
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_39X49_2
+  rotate: false
+  xy: 995, 317
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_39X49_3
+  rotate: false
+  xy: 995, 351
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_39X50
+  rotate: false
+  xy: 995, 385
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_39X50_2
+  rotate: false
+  xy: 995, 419
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_39X50_3
+  rotate: false
+  xy: 995, 453
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_40X31
+  rotate: false
+  xy: 912, 283
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_40X31_2
+  rotate: false
+  xy: 940, 283
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_412X289
+  rotate: false
+  xy: 292, 881
+  size: 264, 185
+  orig: 264, 185
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_41X44
+  rotate: false
+  xy: 995, 487
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_41X44_2
+  rotate: false
+  xy: 995, 517
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_422X299
+  rotate: false
+  xy: 749, 627
+  size: 270, 192
+  orig: 270, 192
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_423X232
+  rotate: false
+  xy: 1, 1065
+  size: 271, 149
+  orig: 271, 149
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_432X309
+  rotate: false
+  xy: 259, 681
+  size: 277, 198
+  orig: 277, 198
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_43X19
+  rotate: false
+  xy: 866, 609
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_43X19_2
+  rotate: false
+  xy: 896, 609
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_451X284
+  rotate: false
+  xy: 1, 881
+  size: 289, 182
+  orig: 289, 182
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_467X579
+  rotate: false
+  xy: 1, 1
+  size: 299, 371
+  orig: 299, 371
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_46X44
+  rotate: false
+  xy: 986, 575
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_471X471
+  rotate: false
+  xy: 608, 1
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_474X556
+  rotate: false
+  xy: 302, 1
+  size: 304, 356
+  orig: 304, 356
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_53X53
+  rotate: false
+  xy: 259, 512
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_58X344
+  rotate: false
+  xy: 560, 359
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_64X138
+  rotate: false
+  xy: 495, 1334
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_69X63
+  rotate: false
+  xy: 560, 581
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_70X99
+  rotate: false
+  xy: 870, 1360
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_76X104
+  rotate: false
+  xy: 538, 1334
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_79X58
+  rotate: false
+  xy: 387, 1286
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_81X75
+  rotate: false
+  xy: 665, 1365
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_85X177
+  rotate: false
+  xy: 956, 821
+  size: 55, 114
+  orig: 55, 114
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_88X163
+  rotate: false
+  xy: 956, 937
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_95X36
+  rotate: false
+  xy: 956, 1044
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_DANGER_NODE_ICEAGE_DANGER_NODE_ICEAGE_97X71
+  rotate: false
+  xy: 240, 1364
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM10_ANIM10_14X14
+  rotate: false
+  xy: 1013, 888
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM10_ANIM10_33X31
+  rotate: false
+  xy: 968, 283
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM10_ANIM10_400X500
+  rotate: false
+  xy: 608, 305
+  size: 256, 320
+  orig: 256, 320
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM11_ANIM11_14X14
+  rotate: false
+  xy: 1013, 899
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM11_ANIM11_176X118
+  rotate: false
+  xy: 125, 1331
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM11_ANIM11_400X500
+  rotate: false
+  xy: 302, 359
+  size: 256, 320
+  orig: 256, 320
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM12_ANIM12_14X14
+  rotate: false
+  xy: 1013, 910
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM12_ANIM12_400X500
+  rotate: false
+  xy: 1, 374
+  size: 256, 320
+  orig: 256, 320
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM13_ANIM13_50X75
+  rotate: false
+  xy: 259, 374
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM14_ANIM14_50X75
+  rotate: false
+  xy: 259, 424
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM15_ANIM15_119X184
+  rotate: false
+  xy: 912, 98
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM15_ANIM15_153X37
+  rotate: false
+  xy: 350, 1392
+  size: 98, 24
+  orig: 98, 24
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM15_ANIM15_17X17
+  rotate: false
+  xy: 1013, 875
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM15_ANIM15_96X138
+  rotate: false
+  xy: 941, 1145
+  size: 62, 89
+  orig: 62, 89
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM16_ANIM16_102X90
+  rotate: false
+  xy: 943, 1309
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM16_ANIM16_117X110
+  rotate: false
+  xy: 943, 1236
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM16_ANIM16_129X113
+  rotate: false
+  xy: 941, 1070
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM16_ANIM16_155X98
+  rotate: false
+  xy: 912, 218
+  size: 99, 63
+  orig: 99, 63
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM16_ANIM16_165X87
+  rotate: false
+  xy: 387, 1334
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM16_ANIM16_170X148
+  rotate: false
+  xy: 912, 1
+  size: 109, 95
+  orig: 109, 95
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM16_ANIM16_69X93
+  rotate: false
+  xy: 304, 1364
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM17_ANIM17_14X14
+  rotate: false
+  xy: 1013, 921
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM17_ANIM17_53X56
+  rotate: false
+  xy: 259, 474
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM22_ANIM22_49X43
+  rotate: false
+  xy: 259, 548
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM23_ANIM23_124X118
+  rotate: false
+  xy: 450, 1068
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM26_ANIM26_33X31
+  rotate: false
+  xy: 986, 605
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM26_ANIM26_375X281
+  rotate: false
+  xy: 1, 696
+  size: 240, 180
+  orig: 240, 180
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM27_ANIM27_301X288
+  rotate: false
+  xy: 746, 1070
+  size: 193, 185
+  orig: 193, 185
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM27_ANIM27_33X31
+  rotate: false
+  xy: 532, 1068
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM28_ANIM28_271X337
+  rotate: false
+  xy: 274, 1068
+  size: 174, 216
+  orig: 174, 216
+  offset: 0, 0
+  index: -1
+IMAGE_WORLDMAP_ICEAGE_ANIM28_ANIM28_33X31
+  rotate: false
+  xy: 532, 1090
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

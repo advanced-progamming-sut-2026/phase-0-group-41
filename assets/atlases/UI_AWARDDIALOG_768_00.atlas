@@ -1,0 +1,47 @@
+UI_AWARDDIALOG_768_00.PNG
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_AWARDDIALOG_GIFT_LIST_BG
+  rotate: false
+  xy: 805, 1
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AWARDDIALOG_GIFT_LIST_CHECK
+  rotate: false
+  xy: 699, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AWARDDIALOG_LUNCHBOX_CARD
+  rotate: false
+  xy: 1, 1
+  size: 562, 296
+  orig: 562, 296
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AWARDDIALOG_PRELEVEL_POSTLEVEL_CARD
+  rotate: false
+  xy: 565, 1
+  size: 65, 249
+  orig: 65, 249
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AWARDDIALOG_RED_X
+  rotate: false
+  xy: 752, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_AWARDDIALOG_VARIANT_OBJECTIVE_CARD
+  rotate: false
+  xy: 632, 1
+  size: 65, 249
+  orig: 65, 249
+  offset: 0, 0
+  index: -1

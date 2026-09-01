@@ -1,0 +1,229 @@
+PLANTSPLITPEA_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_SPLITPEA_SPLITPEA_11X11
+  rotate: false
+  xy: 119, 54
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_17X7
+  rotate: false
+  xy: 116, 88
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_18X20
+  rotate: false
+  xy: 116, 73
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_21X17
+  rotate: false
+  xy: 79, 140
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_21X20
+  rotate: false
+  xy: 1, 139
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_21X23
+  rotate: false
+  xy: 96, 128
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_21X23_2
+  rotate: false
+  xy: 112, 128
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_21X24
+  rotate: false
+  xy: 26, 78
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_21X27
+  rotate: false
+  xy: 47, 121
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_22X27
+  rotate: false
+  xy: 63, 123
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_23X17
+  rotate: false
+  xy: 47, 143
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_23X21
+  rotate: false
+  xy: 93, 28
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_23X23
+  rotate: false
+  xy: 79, 123
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_23X43
+  rotate: false
+  xy: 101, 98
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_24X19
+  rotate: false
+  xy: 110, 28
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_25X14
+  rotate: false
+  xy: 1, 109
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_26X36
+  rotate: false
+  xy: 28, 121
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_33X35
+  rotate: false
+  xy: 55, 96
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_33X35_2
+  rotate: false
+  xy: 78, 98
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_36X45
+  rotate: false
+  xy: 1, 78
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_38X24
+  rotate: false
+  xy: 1, 121
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_42X35
+  rotate: false
+  xy: 26, 96
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_49X38
+  rotate: false
+  xy: 93, 1
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_49X38_2
+  rotate: false
+  xy: 82, 71
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_53X33
+  rotate: false
+  xy: 43, 73
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_55X38
+  rotate: false
+  xy: 82, 44
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_57X42
+  rotate: false
+  xy: 43, 44
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_62X49
+  rotate: false
+  xy: 1, 44
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_68X63
+  rotate: false
+  xy: 1, 1
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_69X63
+  rotate: false
+  xy: 47, 1
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_8X16
+  rotate: false
+  xy: 119, 42
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPLITPEA_SPLITPEA_8X8
+  rotate: false
+  xy: 119, 63
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

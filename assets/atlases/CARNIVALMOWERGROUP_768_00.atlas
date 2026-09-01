@@ -1,0 +1,89 @@
+CARNIVALMOWERGROUP_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_107X65
+  rotate: false
+  xy: 1, 1
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_17X17
+  rotate: false
+  xy: 113, 17
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_20X21
+  rotate: false
+  xy: 113, 1
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_25X24
+  rotate: false
+  xy: 31, 98
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_25X24_2
+  rotate: false
+  xy: 49, 98
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_31X45
+  rotate: false
+  xy: 80, 85
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_36X26
+  rotate: false
+  xy: 102, 85
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_44X31
+  rotate: false
+  xy: 1, 89
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_52X53
+  rotate: false
+  xy: 44, 62
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_53X33
+  rotate: false
+  xy: 80, 62
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_61X92
+  rotate: false
+  xy: 72, 1
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_CARNIVAL_MOWER_CARNIVAL_64X65
+  rotate: false
+  xy: 1, 45
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1

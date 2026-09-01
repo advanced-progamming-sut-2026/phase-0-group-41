@@ -1,0 +1,19 @@
+UI_SEASONS_SHIELD_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_SEASONS_SHIELD_PVZ2_SEASONS_UIASSET_TITLE_SHIELD
+  rotate: false
+  xy: 1, 1
+  size: 197, 203
+  orig: 197, 203
+  offset: 0, 0
+  index: -1
+IMAGE_UI_SEASONS_SHIELD_PVZ2_SEASONS_UIASSET_TITLE_TAB
+  rotate: false
+  xy: 1, 206
+  size: 175, 107
+  orig: 175, 107
+  offset: 0, 0
+  index: -1

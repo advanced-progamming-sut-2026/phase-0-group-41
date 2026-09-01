@@ -1,0 +1,103 @@
+PLANTCONTAINMINT_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_15X17
+  rotate: false
+  xy: 73, 77
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_15X17_2
+  rotate: false
+  xy: 85, 77
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_20X15
+  rotate: false
+  xy: 52, 65
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_21X15
+  rotate: false
+  xy: 114, 65
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_24X27
+  rotate: false
+  xy: 110, 41
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_25X27
+  rotate: false
+  xy: 34, 65
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_30X20
+  rotate: false
+  xy: 1, 72
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_30X20_2
+  rotate: false
+  xy: 52, 77
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_48X107
+  rotate: false
+  xy: 1, 1
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_49X32
+  rotate: false
+  xy: 76, 41
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_50X32
+  rotate: false
+  xy: 34, 42
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_62X61
+  rotate: false
+  xy: 34, 1
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_63X59
+  rotate: false
+  xy: 76, 1
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONTAINMINT_CONTAINMINT_68X17
+  rotate: false
+  xy: 68, 64
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1

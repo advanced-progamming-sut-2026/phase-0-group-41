@@ -1,0 +1,82 @@
+UI_FIRST_CLEAR_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_DEFAULT_BORDER
+  rotate: false
+  xy: 168, 126
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_EASY_ICON
+  rotate: false
+  xy: 248, 1
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_FIRST_CLEAR_BORDER
+  rotate: false
+  xy: 1, 379
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_HARD_ICON
+  rotate: false
+  xy: 1, 1
+  size: 245, 123
+  orig: 245, 123
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_HOLLOWED_JALAPENO_EASY
+  rotate: false
+  xy: 335, 245
+  size: 132, 83
+  orig: 132, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_HOLLOWED_JALAPENO_HARD
+  rotate: false
+  xy: 1, 294
+  size: 132, 83
+  orig: 132, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_HOLLOWED_JALAPENO_MED
+  rotate: false
+  xy: 335, 330
+  size: 132, 83
+  orig: 132, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_MEDIUM_ICON
+  rotate: false
+  xy: 248, 123
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_UI_CIRCLE_BACK_DARK
+  rotate: false
+  xy: 1, 126
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_UI_CIRCLE_BACK_LIGHT
+  rotate: false
+  xy: 168, 245
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_FIRST_CLEAR_REWARDS_UI_CIRCLE_SHADE
+  rotate: false
+  xy: 168, 201
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

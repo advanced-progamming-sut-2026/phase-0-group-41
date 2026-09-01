@@ -1,0 +1,180 @@
+PLANTWINTERMINT_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_100X100
+  rotate: false
+  xy: 1, 99
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_100X18
+  rotate: false
+  xy: 90, 206
+  size: 64, 12
+  orig: 64, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_130X112
+  rotate: false
+  xy: 92, 76
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_132X113
+  rotate: false
+  xy: 92, 1
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_139X150
+  rotate: false
+  xy: 1, 1
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_13X16
+  rotate: false
+  xy: 242, 56
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_13X16_2
+  rotate: false
+  xy: 243, 111
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_16X13
+  rotate: false
+  xy: 67, 123
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_16X44
+  rotate: false
+  xy: 242, 26
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_20X65
+  rotate: false
+  xy: 227, 26
+  size: 13, 42
+  orig: 13, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_30X17
+  rotate: false
+  xy: 227, 98
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_30X17_2
+  rotate: false
+  xy: 67, 99
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_31X14
+  rotate: false
+  xy: 67, 112
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_31X18
+  rotate: false
+  xy: 227, 84
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_40X18
+  rotate: false
+  xy: 227, 70
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_40X36
+  rotate: false
+  xy: 227, 1
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_55X76
+  rotate: false
+  xy: 198, 158
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_59X63
+  rotate: false
+  xy: 1, 165
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_64X80
+  rotate: false
+  xy: 110, 150
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_64X82
+  rotate: false
+  xy: 67, 150
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_67X72
+  rotate: false
+  xy: 153, 158
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_72X173
+  rotate: false
+  xy: 179, 1
+  size: 46, 111
+  orig: 46, 111
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_73X34
+  rotate: false
+  xy: 41, 205
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_8X8
+  rotate: false
+  xy: 249, 84
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_WINTERMINT_WINTERMINT_99X65
+  rotate: false
+  xy: 177, 114
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1

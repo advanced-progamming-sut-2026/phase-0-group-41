@@ -1,0 +1,19 @@
+INIT_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_LOGOS_FIRST_SPLASH_LOGO
+  rotate: false
+  xy: 0, 1
+  size: 1024, 748
+  orig: 1024, 748
+  offset: 0, 0
+  index: -1
+IMAGE_LOGOS_FIRST_SPLASH_LOGO_EA
+  rotate: false
+  xy: 1, 751
+  size: 404, 375
+  orig: 404, 375
+  offset: 0, 0
+  index: -1

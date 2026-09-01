@@ -1,0 +1,12 @@
+NPC_NIGHTCAP_768_01.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_NIGHTCAP_NIGHTCAP_534X510_2
+  rotate: false
+  xy: 1, 1
+  size: 342, 327
+  orig: 342, 327
+  offset: 0, 0
+  index: -1

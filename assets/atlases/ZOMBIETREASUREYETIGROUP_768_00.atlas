@@ -1,0 +1,327 @@
+ZOMBIETREASUREYETIGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_YETI_YETI_110X106
+  rotate: false
+  xy: 184, 92
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_135X8
+  rotate: false
+  xy: 1, 168
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_139X134
+  rotate: false
+  xy: 93, 92
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_141X179
+  rotate: false
+  xy: 1, 1
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_149X69
+  rotate: false
+  xy: 1, 180
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_180X139
+  rotate: false
+  xy: 93, 1
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_1X1
+  rotate: false
+  xy: 252, 69
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_20X20
+  rotate: false
+  xy: 163, 199
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_26X26
+  rotate: false
+  xy: 163, 180
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_38X21
+  rotate: false
+  xy: 1, 424
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_39X48
+  rotate: false
+  xy: 164, 420
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_40X46
+  rotate: false
+  xy: 33, 420
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_40X59
+  rotate: false
+  xy: 229, 382
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_40X62
+  rotate: false
+  xy: 229, 340
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_41X35
+  rotate: false
+  xy: 191, 420
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_41X50
+  rotate: false
+  xy: 78, 417
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_46X59
+  rotate: false
+  xy: 1, 384
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_47X65
+  rotate: false
+  xy: 58, 118
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_50X56
+  rotate: false
+  xy: 44, 382
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_51X24
+  rotate: false
+  xy: 219, 422
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_52X49
+  rotate: false
+  xy: 181, 386
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_52X54
+  rotate: false
+  xy: 86, 380
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_53X68
+  rotate: false
+  xy: 193, 340
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_59X67
+  rotate: false
+  xy: 46, 337
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_62X32
+  rotate: false
+  xy: 210, 69
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_62X32_2
+  rotate: false
+  xy: 122, 406
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_63X54
+  rotate: false
+  xy: 1, 347
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_63X54_2
+  rotate: false
+  xy: 138, 369
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_64X76
+  rotate: false
+  xy: 52, 286
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_64X76_2
+  rotate: false
+  xy: 95, 329
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_64X92
+  rotate: false
+  xy: 211, 230
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_66X90
+  rotate: false
+  xy: 52, 226
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_67X73
+  rotate: false
+  xy: 196, 291
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_67X73_2
+  rotate: false
+  xy: 1, 298
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_6X6
+  rotate: false
+  xy: 58, 162
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_70X103
+  rotate: false
+  xy: 210, 1
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_70X71
+  rotate: false
+  xy: 149, 287
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_71X85
+  rotate: false
+  xy: 163, 230
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_76X109
+  rotate: false
+  xy: 1, 226
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_7X7
+  rotate: false
+  xy: 248, 162
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_80X66
+  rotate: false
+  xy: 96, 285
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_82X50
+  rotate: false
+  xy: 138, 335
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_85X62
+  rotate: false
+  xy: 96, 243
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_86X74
+  rotate: false
+  xy: 1, 118
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_96X102
+  rotate: false
+  xy: 184, 162
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_YETI_YETI_96X95
+  rotate: false
+  xy: 99, 180
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1

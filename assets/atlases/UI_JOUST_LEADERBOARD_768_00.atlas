@@ -1,0 +1,47 @@
+UI_JOUST_LEADERBOARD_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_LEADERBOARD_BADGE_DEMOTED
+  rotate: false
+  xy: 168, 103
+  size: 54, 96
+  orig: 54, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEADERBOARD_BADGE_PROMOTED
+  rotate: false
+  xy: 280, 103
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEADERBOARD_BADGE_STANDSTILL
+  rotate: false
+  xy: 224, 103
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEADERBOARD_LEADERBOARD_SCROLL_BOTTOM
+  rotate: false
+  xy: 1, 627
+  size: 378, 126
+  orig: 378, 126
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEADERBOARD_LEADERBOARD_SCROLL_MID
+  rotate: false
+  xy: 1, 1
+  size: 165, 624
+  orig: 165, 624
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_LEADERBOARD_LEADERBOARD_SCROLL_TOP
+  rotate: false
+  xy: 168, 1
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1

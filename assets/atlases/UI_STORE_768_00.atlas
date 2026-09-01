@@ -1,0 +1,481 @@
+UI_STORE_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_FREE_COINS_BUTTON_LARGE_GOLDEN_FREE_COINS_BUTTON_LARGE_GOLDEN_256X256
+  rotate: false
+  xy: 175, 501
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FREE_COINS_BUTTON_LARGE_GOLDEN_FREE_COINS_BUTTON_LARGE_GOLDEN_477X98
+  rotate: false
+  xy: 175, 737
+  size: 306, 63
+  orig: 306, 63
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FREE_COINS_BUTTON_LARGE_GOLDEN_FREE_COINS_BUTTON_LARGE_GOLDEN_505X130
+  rotate: false
+  xy: 341, 652
+  size: 323, 83
+  orig: 323, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_FREE_COINS_BUTTON_LARGE_GOLDEN_FREE_COINS_BUTTON_LARGE_GOLDEN_505X130_2
+  rotate: false
+  xy: 666, 652
+  size: 323, 83
+  orig: 323, 83
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_BRANDCONNECTBUTTON_BLUE
+  rotate: false
+  xy: 142, 874
+  size: 148, 70
+  orig: 148, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_BRANDCONNECTBUTTON_BLUE_DOWN
+  rotate: false
+  xy: 292, 874
+  size: 148, 70
+  orig: 148, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_BRANDCONNECTBUTTON_GOLDEN
+  rotate: false
+  xy: 442, 881
+  size: 148, 70
+  orig: 148, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_BRANDCONNECTBUTTON_GOLDEN_DOWN
+  rotate: false
+  xy: 592, 881
+  size: 148, 70
+  orig: 148, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_BUNDLESTAB_ACTIVE
+  rotate: false
+  xy: 298, 946
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_BUNDLESTAB_DOWN
+  rotate: false
+  xy: 892, 205
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_CARD_PROMOTED_BACKGROUND
+  rotate: false
+  xy: 1, 1
+  size: 343, 498
+  orig: 343, 498
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_CARD_SPARKLE_CARD_SPARKLE_104X104
+  rotate: false
+  xy: 971, 80
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_CLOSE_BTN
+  rotate: false
+  xy: 957, 939
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_CLOSE_DOWN
+  rotate: false
+  xy: 892, 1104
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_COINSTAB_ACTIVE
+  rotate: false
+  xy: 742, 948
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_COINSTAB_DOWN
+  rotate: false
+  xy: 667, 1003
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_EARMARK_BASIC_WHITE
+  rotate: false
+  xy: 142, 946
+  size: 154, 47
+  orig: 154, 47
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_EARMARK_SALE_STATIC
+  rotate: false
+  xy: 1, 752
+  size: 156, 47
+  orig: 156, 47
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_EVENTSTAB_ACTIVE
+  rotate: false
+  xy: 341, 537
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_EVENTSTAB_DOWN
+  rotate: false
+  xy: 175, 667
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_FEATUREDTAB_ACTIVE
+  rotate: false
+  xy: 1, 874
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_FEATUREDTAB_DOWN
+  rotate: false
+  xy: 742, 881
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_DIVIDER
+  rotate: false
+  xy: 1015, 134
+  size: 2, 120
+  orig: 2, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_EPIC_CARD
+  rotate: false
+  xy: 346, 286
+  size: 172, 249
+  orig: 172, 249
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_EPIC_CARD_TOP_BANNER
+  rotate: false
+  xy: 483, 737
+  size: 229, 70
+  orig: 229, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_EPIC_PULLS_TEXT_BG
+  rotate: false
+  xy: 247, 1061
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_EPIC_SEED_PACKET_TEXT_BG
+  rotate: false
+  xy: 462, 1061
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_GENERAL_CARD
+  rotate: false
+  xy: 520, 401
+  size: 172, 249
+  orig: 172, 249
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_GENERAL_PULLS_TEXT_BG
+  rotate: false
+  xy: 677, 1085
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_GENERAL_SEED_PACKET_TEXT_BG
+  rotate: false
+  xy: 247, 1089
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_GP_PLANT_CARD
+  rotate: false
+  xy: 634, 259
+  size: 331, 140
+  orig: 331, 140
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_INNER_PLANT_BG
+  rotate: false
+  xy: 892, 1
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_LEGENDARY_CARD
+  rotate: false
+  xy: 694, 401
+  size: 172, 249
+  orig: 172, 249
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_LEGENDARY_CARD_TOP_BANNER
+  rotate: false
+  xy: 714, 737
+  size: 229, 70
+  orig: 229, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_LEGENDARY_PULLS_TEXT_BG
+  rotate: false
+  xy: 1, 1109
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_LEGENDARY_SEED_PACKET_TEXT_BG
+  rotate: false
+  xy: 462, 1113
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_MICRO_CARD_TOP_BANNER
+  rotate: false
+  xy: 1, 802
+  size: 229, 70
+  orig: 229, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_MINI_CARD_TOP_BANNER
+  rotate: false
+  xy: 232, 802
+  size: 229, 70
+  orig: 229, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_OVERLAY_BG
+  rotate: false
+  xy: 925, 839
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_PLANT_CARD_EPIC_BG
+  rotate: false
+  xy: 892, 103
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_PLANT_CARD_LEGENDARY_BG
+  rotate: false
+  xy: 520, 286
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_PLANT_CARD_RARE_BG
+  rotate: false
+  xy: 945, 737
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_PULLS_STATUS_BG
+  rotate: false
+  xy: 913, 1032
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_RARE_CARD
+  rotate: false
+  xy: 1, 501
+  size: 172, 249
+  orig: 172, 249
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_RARE_CARD_TOP_BANNER
+  rotate: false
+  xy: 463, 809
+  size: 229, 70
+  orig: 229, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_RARE_PULLS_TEXT_BG
+  rotate: false
+  xy: 677, 1113
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_RARE_SEED_PACKET_TEXT_BG
+  rotate: false
+  xy: 216, 1117
+  size: 213, 26
+  orig: 213, 26
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_RAYS_IMG
+  rotate: false
+  xy: 346, 1
+  size: 286, 283
+  orig: 286, 283
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GACHA_PINATA_REGULAR_CARD_TOP_BANNER
+  rotate: false
+  xy: 694, 809
+  size: 229, 70
+  orig: 229, 70
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GEMSTAB_ACTIVE
+  rotate: false
+  xy: 421, 953
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_GEMSTAB_DOWN
+  rotate: false
+  xy: 370, 1008
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_MINISTORE_BG
+  rotate: false
+  xy: 634, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_OFFERWALL_TREASURE_CHEST_COINS
+  rotate: false
+  xy: 868, 401
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_OFFERWALL_TREASURE_CHEST_GEMS
+  rotate: false
+  xy: 868, 524
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_PINATASTAB_ACTIVE
+  rotate: false
+  xy: 544, 953
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_PINATASTAB_DOWN
+  rotate: false
+  xy: 493, 1008
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_PLANTSHADOW
+  rotate: false
+  xy: 573, 1141
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_PLANTSHADOW2
+  rotate: false
+  xy: 661, 1141
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_PLANTSTAB_ACTIVE
+  rotate: false
+  xy: 1, 962
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_PLANTSTAB_DOWN
+  rotate: false
+  xy: 790, 1032
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_SKU_BANNER_BLUE
+  rotate: false
+  xy: 1, 1137
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_SKU_BANNER_YELLOW
+  rotate: false
+  xy: 431, 1141
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_SPROUTSTAB_ACTIVE
+  rotate: false
+  xy: 124, 995
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_SPROUTSTAB_DOWN
+  rotate: false
+  xy: 1, 1050
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_UPGRADESTAB_ACTIVE
+  rotate: false
+  xy: 247, 1001
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_UPGRADESTAB_DOWN
+  rotate: false
+  xy: 124, 1056
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_WWF_BUTTON_ICON
+  rotate: false
+  xy: 883, 939
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_WWF_ICON
+  rotate: false
+  xy: 971, 1
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,509 @@
+PLANTRHUBARBARIAN_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_109X117
+  rotate: false
+  xy: 161, 430
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_113X151
+  rotate: false
+  xy: 1, 304
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_117X111
+  rotate: false
+  xy: 1, 466
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_117X112
+  rotate: false
+  xy: 419, 430
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_11X25
+  rotate: false
+  xy: 354, 280
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_128X128
+  rotate: false
+  xy: 76, 304
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_130X119
+  rotate: false
+  xy: 76, 388
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_137X100
+  rotate: false
+  xy: 329, 430
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_13X10
+  rotate: false
+  xy: 479, 198
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_13X23
+  rotate: false
+  xy: 329, 280
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_142X108
+  rotate: false
+  xy: 236, 405
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_143X177
+  rotate: false
+  xy: 382, 1
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_147X139
+  rotate: false
+  xy: 382, 208
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_148X138
+  rotate: false
+  xy: 382, 117
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_14X18
+  rotate: false
+  xy: 363, 280
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_14X9
+  rotate: false
+  xy: 490, 198
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_15X14
+  rotate: false
+  xy: 236, 288
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_15X8
+  rotate: false
+  xy: 501, 198
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_16X16
+  rotate: false
+  xy: 160, 304
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_16X16_2
+  rotate: false
+  xy: 502, 304
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_18X17
+  rotate: false
+  xy: 340, 280
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_1X1
+  rotate: false
+  xy: 506, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_1X1_2
+  rotate: false
+  xy: 509, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_1X1_3
+  rotate: false
+  xy: 506, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_21X67
+  rotate: false
+  xy: 496, 547
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_21X92
+  rotate: false
+  xy: 496, 430
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_221X75
+  rotate: false
+  xy: 176, 141
+  size: 142, 48
+  orig: 142, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_221X75_2
+  rotate: false
+  xy: 236, 355
+  size: 142, 48
+  orig: 142, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_226X215
+  rotate: false
+  xy: 176, 1
+  size: 145, 138
+  orig: 145, 138
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_229X84
+  rotate: false
+  xy: 236, 299
+  size: 147, 54
+  orig: 147, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_235X114
+  rotate: false
+  xy: 176, 213
+  size: 151, 73
+  orig: 151, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_23X33
+  rotate: false
+  xy: 207, 553
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_23X33_2
+  rotate: false
+  xy: 350, 558
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_23X70
+  rotate: false
+  xy: 479, 547
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_24X21
+  rotate: false
+  xy: 300, 191
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_270X470
+  rotate: false
+  xy: 1, 1
+  size: 173, 301
+  orig: 173, 301
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_28X30
+  rotate: false
+  xy: 280, 191
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_30X30
+  rotate: false
+  xy: 234, 191
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_32X37
+  rotate: false
+  xy: 124, 466
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_34X29
+  rotate: false
+  xy: 210, 191
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_34X33
+  rotate: false
+  xy: 90, 553
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_35X63
+  rotate: false
+  xy: 479, 504
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_36X23
+  rotate: false
+  xy: 255, 191
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_38X43
+  rotate: false
+  xy: 479, 168
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_42X73
+  rotate: false
+  xy: 479, 81
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_43X121
+  rotate: false
+  xy: 476, 1
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_47X32
+  rotate: false
+  xy: 478, 265
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_49X28
+  rotate: false
+  xy: 176, 191
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_50X56
+  rotate: false
+  xy: 479, 130
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_53X85
+  rotate: false
+  xy: 478, 208
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_55X59
+  rotate: false
+  xy: 313, 558
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_57X61
+  rotate: false
+  xy: 168, 553
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_58X60
+  rotate: false
+  xy: 274, 553
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_61X137
+  rotate: false
+  xy: 233, 476
+  size: 39, 88
+  orig: 39, 88
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_61X59
+  rotate: false
+  xy: 49, 553
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_63X88
+  rotate: false
+  xy: 436, 504
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_66X86
+  rotate: false
+  xy: 124, 507
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_68X132
+  rotate: false
+  xy: 78, 466
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_68X88
+  rotate: false
+  xy: 390, 504
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_71X70
+  rotate: false
+  xy: 1, 539
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_73X101
+  rotate: false
+  xy: 329, 213
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_75X69
+  rotate: false
+  xy: 168, 507
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_78X34
+  rotate: false
+  xy: 329, 405
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_7X7
+  rotate: false
+  xy: 506, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_81X93
+  rotate: false
+  xy: 336, 496
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_84X111
+  rotate: false
+  xy: 446, 299
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_89X327
+  rotate: false
+  xy: 323, 1
+  size: 57, 210
+  orig: 57, 210
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_91X218
+  rotate: false
+  xy: 176, 288
+  size: 58, 140
+  orig: 58, 140
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_92X201
+  rotate: false
+  xy: 385, 299
+  size: 59, 129
+  orig: 59, 129
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_94X85
+  rotate: false
+  xy: 1, 403
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_94X85_2
+  rotate: false
+  xy: 274, 496
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_RHUBARBARIAN_RHUBARBARIAN_96X87
+  rotate: false
+  xy: 446, 372
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1

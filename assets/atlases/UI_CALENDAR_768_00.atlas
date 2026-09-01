@@ -1,0 +1,957 @@
+UI_CALENDAR_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_CALENDAR_BADGE_CONNECTION
+  rotate: false
+  xy: 1996, 1113
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_BIGWAVEBEACH_ACTIVE
+  rotate: false
+  xy: 1419, 1956
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_BIGWAVEBEACH_DOWN
+  rotate: false
+  xy: 1, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_BROWN_ACTIVE
+  rotate: false
+  xy: 1581, 1956
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_BROWN_DOWN
+  rotate: false
+  xy: 163, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_BEACH
+  rotate: false
+  xy: 1, 1
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_BIGBRAINZ
+  rotate: false
+  xy: 710, 1
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_BIGWAVEBEACH
+  rotate: false
+  xy: 1, 221
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_BIRTHDAYZ
+  rotate: false
+  xy: 710, 221
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_BLACKFRIDAY
+  rotate: false
+  xy: 1, 441
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_CARNIVAL
+  rotate: false
+  xy: 710, 441
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_FALLFESTIVAL
+  rotate: false
+  xy: 1, 661
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_FEASTIVUS
+  rotate: false
+  xy: 710, 661
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_FOODFIGHT
+  rotate: false
+  xy: 1, 881
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_HARVESTFESTIVAL
+  rotate: false
+  xy: 710, 881
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_HARVESTFESTIVAL_2023
+  rotate: false
+  xy: 1, 1101
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_LAWNOFDOOM
+  rotate: false
+  xy: 710, 1101
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 1, 1321
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_LUNAR_NEW_YEAR
+  rotate: false
+  xy: 710, 1321
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_MGPWINTEREVENT
+  rotate: false
+  xy: 1, 1541
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_ROMAN
+  rotate: false
+  xy: 710, 1541
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_SEASHROOM
+  rotate: false
+  xy: 1, 1761
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_SPORTZBALL
+  rotate: false
+  xy: 1419, 1
+  size: 429, 131
+  orig: 429, 131
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_SPRINGENING
+  rotate: false
+  xy: 710, 1761
+  size: 707, 218
+  orig: 707, 218
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_SUMMERNIGHTS
+  rotate: false
+  xy: 1419, 134
+  size: 354, 109
+  orig: 354, 109
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_7DAY_ZCORP
+  rotate: false
+  xy: 1419, 245
+  size: 354, 109
+  orig: 354, 109
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_BLUE7DAY
+  rotate: false
+  xy: 1419, 356
+  size: 354, 109
+  orig: 354, 109
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY
+  rotate: false
+  xy: 1980, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_BIGBRAINZ
+  rotate: false
+  xy: 1980, 54
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_BIGWAVEBEACH
+  rotate: false
+  xy: 1996, 107
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_BIRTHDAYZ
+  rotate: false
+  xy: 1996, 160
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_BLACKFRIDAY
+  rotate: false
+  xy: 1996, 213
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_CARNIVAL
+  rotate: false
+  xy: 1996, 266
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_FALLFESTIVAL
+  rotate: false
+  xy: 1996, 319
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_FEASTIVUS
+  rotate: false
+  xy: 1996, 372
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_FOODFIGHT
+  rotate: false
+  xy: 1996, 425
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_LAWNOFDOOM
+  rotate: false
+  xy: 1996, 478
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 1996, 531
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_LUNAR_NEW_YEAR
+  rotate: false
+  xy: 1996, 584
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_MGPWINTEREVENT
+  rotate: false
+  xy: 1996, 637
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_ROMAN
+  rotate: false
+  xy: 1996, 690
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_SPORTZBALL
+  rotate: false
+  xy: 1996, 743
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_SPRINGENING
+  rotate: false
+  xy: 1996, 796
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_SUMMERNIGHTS
+  rotate: false
+  xy: 1996, 849
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_TOMBTANGLED
+  rotate: false
+  xy: 1996, 902
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_VALENBRAINZ
+  rotate: false
+  xy: 1996, 955
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CALENDAR_CARD_DAY_ZCORP
+  rotate: false
+  xy: 1996, 1008
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CONTENT_WELL
+  rotate: false
+  xy: 1640, 467
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CONTENT_WELL_BIGWAVEBEACH
+  rotate: false
+  xy: 1850, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_BIRTHDAYZ
+  rotate: false
+  xy: 1775, 134
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_BLACKFRIDAY
+  rotate: false
+  xy: 1775, 256
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_CARNIVAL
+  rotate: false
+  xy: 1775, 378
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_FALLFESTIVAL
+  rotate: false
+  xy: 1419, 467
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_FEASTIVUS
+  rotate: false
+  xy: 1640, 500
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_FOODFIGHT
+  rotate: false
+  xy: 1419, 622
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_MGPWINTEREVENT
+  rotate: false
+  xy: 1640, 622
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_ROMAN
+  rotate: false
+  xy: 1419, 744
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_SPORTZBALL
+  rotate: false
+  xy: 1640, 744
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_SPRINGENING
+  rotate: false
+  xy: 1419, 866
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_LEFT_VALENBRAINZ
+  rotate: false
+  xy: 1640, 866
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_BIGBRAINZ
+  rotate: false
+  xy: 1419, 1720
+  size: 219, 116
+  orig: 219, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_BIRTHDAYZ
+  rotate: false
+  xy: 1419, 988
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_BLACKFRIDAY
+  rotate: false
+  xy: 1640, 988
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_CARNIVAL
+  rotate: false
+  xy: 1419, 1110
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_FALLFESTIVAL
+  rotate: false
+  xy: 1640, 1110
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_FEASTIVUS
+  rotate: false
+  xy: 1419, 1232
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_FOODFIGHT
+  rotate: false
+  xy: 1640, 1232
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_LAWNOFDOOM
+  rotate: false
+  xy: 1419, 1354
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 1419, 1838
+  size: 219, 116
+  orig: 219, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_LUNAR_NEW_YEAR
+  rotate: false
+  xy: 1640, 1838
+  size: 219, 116
+  orig: 219, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_MGPWINTEREVENT
+  rotate: false
+  xy: 1640, 1354
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_ROMAN
+  rotate: false
+  xy: 1419, 1476
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_SPORTZBALL
+  rotate: false
+  xy: 1640, 1476
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_SPRINGENING
+  rotate: false
+  xy: 1419, 1598
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_CORNER_RIGHT_VALENBRAINZ
+  rotate: false
+  xy: 1640, 1598
+  size: 219, 120
+  orig: 219, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_BLACKFRIDAY
+  rotate: false
+  xy: 1861, 500
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_FALLFESTIVAL
+  rotate: false
+  xy: 1861, 635
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_FEASTIVUS
+  rotate: false
+  xy: 1861, 770
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_FOODFIGHT
+  rotate: false
+  xy: 1861, 905
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_LAWNOFDOOM
+  rotate: false
+  xy: 1861, 1040
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 1861, 1175
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_LUNAR_NEW_YEAR
+  rotate: false
+  xy: 1861, 1310
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_MGPWINTEREVENT
+  rotate: false
+  xy: 1861, 1445
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_ROMAN
+  rotate: false
+  xy: 1861, 1580
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_SPRINGENING
+  rotate: false
+  xy: 1861, 1715
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_DIALOGTEXTURE_SUMMERNIGHTS
+  rotate: false
+  xy: 1861, 1850
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_EVENT_DOWN
+  rotate: false
+  xy: 325, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_FEASTIVUS_DOWN
+  rotate: false
+  xy: 487, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_LUCKOTHEZOMBIE_DOWN
+  rotate: false
+  xy: 649, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_LUNAR_NEW_YEAR_DOWN
+  rotate: false
+  xy: 811, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_MONTHLY_DOWN
+  rotate: false
+  xy: 973, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_PURPLE_DOWN
+  rotate: false
+  xy: 1135, 1981
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND
+  rotate: false
+  xy: 1680, 467
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_BIGBRAINZ
+  rotate: false
+  xy: 1720, 467
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_BIGWAVEBEACH
+  rotate: false
+  xy: 1419, 589
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_BIRTHDAYZ
+  rotate: false
+  xy: 1459, 589
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_BLACKFRIDAY
+  rotate: false
+  xy: 1499, 589
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_CARNIVAL
+  rotate: false
+  xy: 1539, 589
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_FALLFESTIVAL
+  rotate: false
+  xy: 1579, 589
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_FEASTIVUS
+  rotate: false
+  xy: 1996, 1157
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_FOODFIGHT
+  rotate: false
+  xy: 1996, 1179
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_LAWNOFDOOM
+  rotate: false
+  xy: 1996, 1201
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 1996, 1223
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_LUNAR_NEW_YEAR
+  rotate: false
+  xy: 1996, 1245
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_MGPWINTEREVENT
+  rotate: false
+  xy: 1996, 1267
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_SPORTZBALL
+  rotate: false
+  xy: 1996, 1289
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_SPRINGENING
+  rotate: false
+  xy: 1996, 1311
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_SUMMERNIGHTS
+  rotate: false
+  xy: 1996, 1333
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_TOMBTANGLED
+  rotate: false
+  xy: 1996, 1355
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_VALENBRAINZ
+  rotate: false
+  xy: 1996, 1377
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_REWARD_QUANTITY_BACKGROUND_ZCORP
+  rotate: false
+  xy: 1996, 1399
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_BIGBEACHBRAWL
+  rotate: false
+  xy: 1996, 1421
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_BIGBRAINZ
+  rotate: false
+  xy: 2018, 1421
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_BIRTHDAYZ
+  rotate: false
+  xy: 1996, 1454
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_BLACKFRIDAY
+  rotate: false
+  xy: 2018, 1454
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_CARNIVAL
+  rotate: false
+  xy: 1996, 1487
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_FALLFESTIVAL
+  rotate: false
+  xy: 2018, 1487
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_FEASTIVUS
+  rotate: false
+  xy: 1996, 1520
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_FOODFIGHT
+  rotate: false
+  xy: 2018, 1520
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_LAWNOFDOOM
+  rotate: false
+  xy: 1996, 1553
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_LUCKOTHEZOMBIE
+  rotate: false
+  xy: 2018, 1553
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_LUNAR_NEW_YEAR
+  rotate: false
+  xy: 1996, 1586
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_MGPWINTEREVENT
+  rotate: false
+  xy: 2018, 1586
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_ROMAN
+  rotate: false
+  xy: 1996, 1619
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_SPORTZBALL
+  rotate: false
+  xy: 2018, 1619
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_SPRINGENING
+  rotate: false
+  xy: 1996, 1652
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_SUMMERNIGHTS
+  rotate: false
+  xy: 2018, 1652
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_TOMBTANGLED
+  rotate: false
+  xy: 1996, 1685
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_VALENBRAINZ
+  rotate: false
+  xy: 2018, 1685
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_SCROLLBAR_ZCORP
+  rotate: false
+  xy: 1996, 1718
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_TEMP_CORNER_RIGHT_COBWEB
+  rotate: false
+  xy: 1640, 1720
+  size: 219, 116
+  orig: 219, 116
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_TIMER_DECO_BACKINTOTHETOMB
+  rotate: false
+  xy: 1297, 1981
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_TIMER_DECO_BIGBRAINZ
+  rotate: false
+  xy: 1996, 1061
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_TIMER_DECO_FALLFESTIVAL
+  rotate: false
+  xy: 1845, 1985
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_TIMER_DECO_LAWNOFDOOM
+  rotate: false
+  xy: 1922, 1985
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CALENDAR_TIMER_DECO_MGPWINTEREVENT
+  rotate: false
+  xy: 1743, 1956
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1

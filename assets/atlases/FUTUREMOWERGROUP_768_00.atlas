@@ -1,0 +1,68 @@
+FUTUREMOWERGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_119X40
+  rotate: false
+  xy: 1, 126
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_119X40_2
+  rotate: false
+  xy: 1, 154
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_129X75
+  rotate: false
+  xy: 1, 76
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_12X9
+  rotate: false
+  xy: 112, 1
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_74X59
+  rotate: false
+  xy: 79, 126
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_74X59_2
+  rotate: false
+  xy: 79, 166
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_74X59_3
+  rotate: false
+  xy: 1, 182
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_76X80
+  rotate: false
+  xy: 61, 1
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_FUTURE_MOWER_FUTURE_90X114
+  rotate: false
+  xy: 1, 1
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,243 @@
+ZOMBIEEGYPTTOMBRAISERGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_EGYPT_TOMBRAISER_BONE_HIT_ZOMBIE_EGYPT_TOMBRAISER_BEAM_01
+  rotate: false
+  xy: 207, 1
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_TOMBRAISER_BONE_HIT_ZOMBIE_EGYPT_TOMBRAISER_DISC_01
+  rotate: false
+  xy: 1, 1
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_EGYPT_TOMBRAISER_BONE_HIT_ZOMBIE_EGYPT_TOMBRAISER_DISC_02
+  rotate: false
+  xy: 104, 1
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_BONE_PROJECTILE
+  rotate: false
+  xy: 238, 132
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_135X8
+  rotate: false
+  xy: 151, 181
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_17X33
+  rotate: false
+  xy: 134, 200
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_20X39
+  rotate: false
+  xy: 66, 198
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_20X40
+  rotate: false
+  xy: 221, 188
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_20X47
+  rotate: false
+  xy: 180, 188
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_20X48
+  rotate: false
+  xy: 149, 188
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_20X50
+  rotate: false
+  xy: 240, 171
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_21X44
+  rotate: false
+  xy: 164, 188
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_23X50
+  rotate: false
+  xy: 103, 151
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_24X45
+  rotate: false
+  xy: 26, 170
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_26X25
+  rotate: false
+  xy: 21, 201
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_27X24
+  rotate: false
+  xy: 114, 200
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_28X33
+  rotate: false
+  xy: 1, 195
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_30X36
+  rotate: false
+  xy: 65, 173
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_30X37
+  rotate: false
+  xy: 44, 170
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_31X27
+  rotate: false
+  xy: 44, 198
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_31X62
+  rotate: false
+  xy: 216, 132
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_35X36
+  rotate: false
+  xy: 1, 170
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_36X39
+  rotate: false
+  xy: 178, 104
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_36X45
+  rotate: false
+  xy: 151, 150
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_37X24
+  rotate: false
+  xy: 195, 188
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_37X46
+  rotate: false
+  xy: 125, 150
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_41X24
+  rotate: false
+  xy: 86, 185
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_42X24
+  rotate: false
+  xy: 120, 182
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_52X31
+  rotate: false
+  xy: 67, 151
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_56X70
+  rotate: false
+  xy: 178, 132
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_70X71
+  rotate: false
+  xy: 207, 84
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_79X69
+  rotate: false
+  xy: 125, 104
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_87X70
+  rotate: false
+  xy: 67, 104
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_TOMBRAISER_ZOMBIE_EGYPT_TOMBRAISER_99X100
+  rotate: false
+  xy: 1, 104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

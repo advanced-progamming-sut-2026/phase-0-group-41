@@ -1,0 +1,915 @@
+PLANTBEANSPROUT_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_113X151
+  rotate: false
+  xy: 164, 400
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_114X91
+  rotate: false
+  xy: 77, 338
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_116X154
+  rotate: false
+  xy: 1, 338
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_122X122
+  rotate: false
+  xy: 322, 415
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_122X85
+  rotate: false
+  xy: 873, 487
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_126X120
+  rotate: false
+  xy: 239, 415
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_12X18
+  rotate: false
+  xy: 1014, 331
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_133X39
+  rotate: false
+  xy: 543, 538
+  size: 85, 25
+  orig: 85, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_159X69
+  rotate: false
+  xy: 917, 111
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_15X15
+  rotate: false
+  xy: 1014, 319
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_1X1
+  rotate: false
+  xy: 1020, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_22X22
+  rotate: false
+  xy: 673, 589
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_34X34
+  rotate: false
+  xy: 891, 582
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BEANSPROUT_EFFECTS_BEANSPROUT_EFFECTS_50X53
+  rotate: false
+  xy: 552, 565
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_101X70
+  rotate: false
+  xy: 656, 495
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_102X117
+  rotate: false
+  xy: 489, 423
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_105X72
+  rotate: false
+  xy: 291, 495
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_107X97
+  rotate: false
+  xy: 1, 439
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_109X124
+  rotate: false
+  xy: 729, 420
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_109X125
+  rotate: false
+  xy: 801, 420
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_110X126
+  rotate: false
+  xy: 656, 412
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_112X64
+  rotate: false
+  xy: 284, 279
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_117X58
+  rotate: false
+  xy: 557, 499
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_119X83
+  rotate: false
+  xy: 72, 488
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_11X19
+  rotate: false
+  xy: 1014, 345
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_120X50
+  rotate: false
+  xy: 408, 536
+  size: 77, 32
+  orig: 77, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_122X347
+  rotate: false
+  xy: 934, 263
+  size: 78, 222
+  orig: 78, 222
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_123X52
+  rotate: false
+  xy: 773, 502
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_125X151
+  rotate: false
+  xy: 489, 324
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_130X132
+  rotate: false
+  xy: 571, 412
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_132X134
+  rotate: false
+  xy: 77, 400
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_13X10
+  rotate: false
+  xy: 1014, 359
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_13X22
+  rotate: false
+  xy: 190, 262
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_14X25
+  rotate: false
+  xy: 1014, 301
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_14X9
+  rotate: false
+  xy: 917, 157
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_157X169
+  rotate: false
+  xy: 917, 1
+  size: 101, 108
+  orig: 101, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_15X27
+  rotate: false
+  xy: 1014, 261
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_15X8
+  rotate: false
+  xy: 928, 157
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_16X28
+  rotate: false
+  xy: 1014, 281
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_18X10
+  rotate: false
+  xy: 893, 410
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_18X25
+  rotate: false
+  xy: 689, 589
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_18X33
+  rotate: false
+  xy: 809, 586
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_18X33_2
+  rotate: false
+  xy: 823, 586
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_18X33_3
+  rotate: false
+  xy: 837, 586
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_197X186
+  rotate: false
+  xy: 156, 279
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_19X15
+  rotate: false
+  xy: 255, 400
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_19X16
+  rotate: false
+  xy: 269, 400
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_1X1
+  rotate: false
+  xy: 1020, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_1X1_2
+  rotate: false
+  xy: 1020, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_1X1_3
+  rotate: false
+  xy: 1020, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_20X32
+  rotate: false
+  xy: 854, 502
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_21X17
+  rotate: false
+  xy: 733, 349
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_224X139
+  rotate: false
+  xy: 284, 324
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_228X215
+  rotate: false
+  xy: 427, 184
+  size: 146, 138
+  orig: 146, 138
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_22X16
+  rotate: false
+  xy: 239, 400
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_239X209
+  rotate: false
+  xy: 1, 202
+  size: 153, 134
+  orig: 153, 134
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_23X24
+  rotate: false
+  xy: 851, 586
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_23X27
+  rotate: false
+  xy: 753, 560
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_244X138
+  rotate: false
+  xy: 575, 321
+  size: 156, 89
+  orig: 156, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_247X84
+  rotate: false
+  xy: 733, 364
+  size: 158, 54
+  orig: 158, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_24X40
+  rotate: false
+  xy: 733, 321
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_255X252
+  rotate: false
+  xy: 752, 1
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_25X24
+  rotate: false
+  xy: 1007, 584
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_25X30
+  rotate: false
+  xy: 634, 499
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_262X249
+  rotate: false
+  xy: 582, 1
+  size: 168, 160
+  orig: 168, 160
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_265X240
+  rotate: false
+  xy: 582, 165
+  size: 170, 154
+  orig: 170, 154
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_26X26
+  rotate: false
+  xy: 408, 514
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_277X155
+  rotate: false
+  xy: 754, 263
+  size: 178, 99
+  orig: 178, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_27X26
+  rotate: false
+  xy: 408, 495
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_284X282
+  rotate: false
+  xy: 398, 1
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_28X24
+  rotate: false
+  xy: 634, 520
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_300X273
+  rotate: false
+  xy: 204, 1
+  size: 192, 175
+  orig: 192, 175
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_314X311
+  rotate: false
+  xy: 1, 1
+  size: 201, 199
+  orig: 201, 199
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_31X45
+  rotate: false
+  xy: 869, 582
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_32X46
+  rotate: false
+  xy: 461, 570
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_33X33
+  rotate: false
+  xy: 786, 586
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_33X57
+  rotate: false
+  xy: 215, 499
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_345X145
+  rotate: false
+  xy: 204, 184
+  size: 221, 93
+  orig: 221, 93
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_361X150
+  rotate: false
+  xy: 754, 165
+  size: 231, 96
+  orig: 231, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_36X55
+  rotate: false
+  xy: 402, 458
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_38X43
+  rotate: false
+  xy: 946, 580
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_38X63
+  rotate: false
+  xy: 402, 415
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_40X44
+  rotate: false
+  xy: 918, 580
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_41X47
+  rotate: false
+  xy: 273, 577
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_41X52
+  rotate: false
+  xy: 433, 570
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_41X53
+  rotate: false
+  xy: 127, 577
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_42X17
+  rotate: false
+  xy: 390, 311
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_42X47
+  rotate: false
+  xy: 155, 577
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_43X49
+  rotate: false
+  xy: 403, 570
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_43X54
+  rotate: false
+  xy: 41, 503
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_44X51
+  rotate: false
+  xy: 1, 567
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_46X15
+  rotate: false
+  xy: 358, 311
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_46X57
+  rotate: false
+  xy: 721, 560
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_48X25
+  rotate: false
+  xy: 753, 586
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_49X62
+  rotate: false
+  xy: 987, 219
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_50X22
+  rotate: false
+  xy: 156, 262
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_50X24
+  rotate: false
+  xy: 973, 584
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_53X28
+  rotate: false
+  xy: 184, 581
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_53X93
+  rotate: false
+  xy: 987, 157
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_55X32
+  rotate: false
+  xy: 301, 577
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_59X68
+  rotate: false
+  xy: 893, 364
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_59X96
+  rotate: false
+  xy: 1, 503
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_60X49
+  rotate: false
+  xy: 189, 547
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_61X49
+  rotate: false
+  xy: 980, 550
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_63X36
+  rotate: false
+  xy: 586, 565
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_63X36_2
+  rotate: false
+  xy: 230, 567
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_63X78
+  rotate: false
+  xy: 41, 543
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_63X78_2
+  rotate: false
+  xy: 84, 543
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_63X79
+  rotate: false
+  xy: 630, 542
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_67X91
+  rotate: false
+  xy: 156, 202
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_71X104
+  rotate: false
+  xy: 360, 495
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_71X70
+  rotate: false
+  xy: 673, 542
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_71X71
+  rotate: false
+  xy: 773, 538
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_71X71_2
+  rotate: false
+  xy: 821, 538
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_73X56
+  rotate: false
+  xy: 869, 544
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_75X87
+  rotate: false
+  xy: 723, 502
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_77X110
+  rotate: false
+  xy: 239, 494
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_78X96
+  rotate: false
+  xy: 873, 420
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_7X7
+  rotate: false
+  xy: 940, 157
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_81X82
+  rotate: false
+  xy: 489, 500
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_83X50
+  rotate: false
+  xy: 291, 543
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_85X42
+  rotate: false
+  xy: 346, 564
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_89X327
+  rotate: false
+  xy: 430, 324
+  size: 57, 210
+  orig: 57, 210
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_8X12
+  rotate: false
+  xy: 419, 311
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_93X44
+  rotate: false
+  xy: 127, 547
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_93X44_2
+  rotate: false
+  xy: 918, 550
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_93X46
+  rotate: false
+  xy: 358, 279
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_95X95
+  rotate: false
+  xy: 953, 487
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_98X35
+  rotate: false
+  xy: 487, 565
+  size: 63, 23
+  orig: 63, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BEANSPROUT_BEANSPROUT_98X72
+  rotate: false
+  xy: 150, 499
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,138 @@
+NPC_SUNFLOWER_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_150X77
+  rotate: false
+  xy: 892, 420
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_167X86
+  rotate: false
+  xy: 783, 368
+  size: 107, 55
+  orig: 107, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_171X77
+  rotate: false
+  xy: 892, 368
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_20X11
+  rotate: false
+  xy: 1010, 213
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_20X16
+  rotate: false
+  xy: 1010, 201
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_20X17
+  rotate: false
+  xy: 1010, 188
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_255X77
+  rotate: false
+  xy: 794, 247
+  size: 163, 50
+  orig: 163, 50
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_255X89
+  rotate: false
+  xy: 794, 188
+  size: 163, 57
+  orig: 163, 57
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_258X56
+  rotate: false
+  xy: 794, 330
+  size: 165, 36
+  orig: 165, 36
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_352X289
+  rotate: false
+  xy: 794, 1
+  size: 226, 185
+  orig: 226, 185
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_47X90
+  rotate: false
+  xy: 369, 342
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_518X432
+  rotate: false
+  xy: 358, 652
+  size: 332, 277
+  orig: 332, 277
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_554X463
+  rotate: false
+  xy: 1, 651
+  size: 355, 297
+  orig: 355, 297
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_572X479
+  rotate: false
+  xy: 1, 342
+  size: 366, 307
+  orig: 366, 307
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_590X496
+  rotate: false
+  xy: 403, 332
+  size: 378, 318
+  orig: 378, 318
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_607X513
+  rotate: false
+  xy: 403, 1
+  size: 389, 329
+  orig: 389, 329
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_625X530
+  rotate: false
+  xy: 1, 1
+  size: 400, 339
+  orig: 400, 339
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_68X58
+  rotate: false
+  xy: 783, 425
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_SUNFLOWER_SUNFLOWER_76X218
+  rotate: false
+  xy: 959, 188
+  size: 49, 140
+  orig: 49, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,257 @@
+UI_PAUSEMENU_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PAUSEMENU_BLANK_CARD
+  rotate: false
+  xy: 962, 229
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_HOLIDAY_SNOW
+  rotate: false
+  xy: 1, 128
+  size: 581, 113
+  orig: 581, 113
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_HOLIDAY_SNOWFRONT
+  rotate: false
+  xy: 726, 302
+  size: 151, 68
+  orig: 151, 68
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_HOLIDAY_SUNFLOWER
+  rotate: false
+  xy: 735, 1
+  size: 135, 112
+  orig: 135, 112
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_OBJECTIVE_CARD_LEFT
+  rotate: false
+  xy: 584, 1
+  size: 149, 203
+  orig: 149, 203
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_OBJECTIVE_CARD_MID
+  rotate: false
+  xy: 962, 292
+  size: 12, 203
+  orig: 12, 203
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_OBJECTIVE_CARD_RIGHT
+  rotate: false
+  xy: 998, 1
+  size: 25, 203
+  orig: 25, 203
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_SLIDER_BOLT
+  rotate: false
+  xy: 669, 311
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_STAR_GOAL_BORDER
+  rotate: false
+  xy: 554, 99
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_SUNFLOWER_TOPPER
+  rotate: false
+  xy: 872, 1
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_WINDOWTOPPER
+  rotate: false
+  xy: 1, 351
+  size: 551, 108
+  orig: 551, 108
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_WINDOWTOPPER_BACK_HALF
+  rotate: false
+  xy: 726, 229
+  size: 155, 71
+  orig: 155, 71
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_FOG
+  rotate: false
+  xy: 1, 1
+  size: 551, 125
+  orig: 551, 125
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER
+  rotate: false
+  xy: 600, 206
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_101X87
+  rotate: false
+  xy: 669, 361
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_1193X211
+  rotate: false
+  xy: 1, 243
+  size: 597, 106
+  orig: 597, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_134X211
+  rotate: false
+  xy: 600, 311
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_134X211_2
+  rotate: false
+  xy: 879, 326
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_153X190
+  rotate: false
+  xy: 883, 229
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_20X20
+  rotate: false
+  xy: 584, 228
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_20X20_2
+  rotate: false
+  xy: 1003, 341
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_22X30
+  rotate: false
+  xy: 948, 326
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_22X30_2
+  rotate: false
+  xy: 990, 341
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_24X34
+  rotate: false
+  xy: 1004, 206
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_24X34_2
+  rotate: false
+  xy: 976, 341
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_26X40
+  rotate: false
+  xy: 584, 206
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_26X40_2
+  rotate: false
+  xy: 989, 206
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_36X43
+  rotate: false
+  xy: 976, 317
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_36X43_2
+  rotate: false
+  xy: 996, 317
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_41X46
+  rotate: false
+  xy: 976, 292
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_41X46_2
+  rotate: false
+  xy: 999, 292
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_504X103
+  rotate: false
+  xy: 735, 175
+  size: 252, 52
+  orig: 252, 52
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_510X115
+  rotate: false
+  xy: 735, 115
+  size: 255, 58
+  orig: 255, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_52X93
+  rotate: false
+  xy: 554, 1
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_52X93_2
+  rotate: false
+  xy: 554, 50
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PAUSEMENU_ZOMBOSS_TOPPER_ANIM_ZOMBOSS_TOPPER_ANIM_958X138
+  rotate: false
+  xy: 1, 461
+  size: 479, 69
+  orig: 479, 69
+  offset: 0, 0
+  index: -1

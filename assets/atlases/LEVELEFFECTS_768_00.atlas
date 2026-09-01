@@ -1,0 +1,446 @@
+LEVELEFFECTS_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_1155X1155
+  rotate: false
+  xy: 1, 1
+  size: 578, 578
+  orig: 578, 578
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_1200X390
+  rotate: false
+  xy: 1, 804
+  size: 600, 195
+  orig: 600, 195
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_1346X266
+  rotate: false
+  xy: 1, 1287
+  size: 673, 133
+  orig: 673, 133
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_1380X270
+  rotate: false
+  xy: 1, 1150
+  size: 690, 135
+  orig: 690, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_1454X294
+  rotate: false
+  xy: 1, 1001
+  size: 727, 147
+  orig: 727, 147
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_1950X442
+  rotate: false
+  xy: 1, 581
+  size: 975, 221
+  orig: 975, 221
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_559X304
+  rotate: false
+  xy: 581, 1
+  size: 280, 152
+  orig: 280, 152
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVELUP_TEXT_EN_LEVELUP_TEXT_EN_936X239
+  rotate: false
+  xy: 1, 1422
+  size: 468, 120
+  orig: 468, 120
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_105X47
+  rotate: false
+  xy: 863, 113
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_167X163
+  rotate: false
+  xy: 853, 1117
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_28X22
+  rotate: false
+  xy: 996, 66
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_301X301
+  rotate: false
+  xy: 581, 155
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_55X47
+  rotate: false
+  xy: 978, 750
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_57X36
+  rotate: false
+  xy: 711, 554
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_72X47
+  rotate: false
+  xy: 681, 915
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_87X47
+  rotate: false
+  xy: 471, 1536
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_89X47
+  rotate: false
+  xy: 564, 1521
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_91X47
+  rotate: false
+  xy: 917, 1515
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_96X30
+  rotate: false
+  xy: 581, 554
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_97X47
+  rotate: false
+  xy: 853, 1515
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_BAR_POP_LEVEL_BAR_POP_99X27
+  rotate: false
+  xy: 645, 554
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_100X115
+  rotate: false
+  xy: 676, 1287
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_103X138
+  rotate: false
+  xy: 651, 1491
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_105X141
+  rotate: false
+  xy: 962, 1144
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_115X135
+  rotate: false
+  xy: 962, 1074
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_120X153
+  rotate: false
+  xy: 949, 995
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_121X64
+  rotate: false
+  xy: 932, 113
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_136X94
+  rotate: false
+  xy: 783, 1491
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_139X123
+  rotate: false
+  xy: 949, 1224
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_152X160
+  rotate: false
+  xy: 603, 915
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_152X85
+  rotate: false
+  xy: 705, 1491
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_169X101
+  rotate: false
+  xy: 564, 1468
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_182X131
+  rotate: false
+  xy: 471, 1468
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_187X208
+  rotate: false
+  xy: 853, 1224
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_188X239
+  rotate: false
+  xy: 853, 995
+  size: 94, 120
+  orig: 94, 120
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_233X217
+  rotate: false
+  xy: 603, 804
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_249X114
+  rotate: false
+  xy: 880, 1401
+  size: 125, 57
+  orig: 125, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_262X106
+  rotate: false
+  xy: 880, 1460
+  size: 131, 53
+  orig: 131, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_262X220
+  rotate: false
+  xy: 863, 1
+  size: 131, 110
+  orig: 131, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_264X201
+  rotate: false
+  xy: 853, 892
+  size: 132, 101
+  orig: 132, 101
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_271X138
+  rotate: false
+  xy: 853, 1330
+  size: 136, 69
+  orig: 136, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_312X172
+  rotate: false
+  xy: 853, 804
+  size: 156, 86
+  orig: 156, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_326X225
+  rotate: false
+  xy: 812, 365
+  size: 163, 113
+  orig: 163, 113
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_363X198
+  rotate: false
+  xy: 797, 480
+  size: 182, 99
+  orig: 182, 99
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_399X88
+  rotate: false
+  xy: 471, 1422
+  size: 200, 44
+  orig: 200, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_403X148
+  rotate: false
+  xy: 676, 1415
+  size: 202, 74
+  orig: 202, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_427X177
+  rotate: false
+  xy: 581, 463
+  size: 214, 89
+  orig: 214, 89
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_458X192
+  rotate: false
+  xy: 581, 365
+  size: 229, 96
+  orig: 229, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_474X208
+  rotate: false
+  xy: 776, 259
+  size: 237, 104
+  orig: 237, 104
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_47X66
+  rotate: false
+  xy: 996, 1
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_491X204
+  rotate: false
+  xy: 776, 155
+  size: 246, 102
+  orig: 246, 102
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_50X55
+  rotate: false
+  xy: 996, 36
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_55X50
+  rotate: false
+  xy: 995, 113
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_64X45
+  rotate: false
+  xy: 750, 554
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_68X81
+  rotate: false
+  xy: 978, 707
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_75X78
+  rotate: false
+  xy: 978, 666
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_76X104
+  rotate: false
+  xy: 981, 569
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_77X82
+  rotate: false
+  xy: 978, 623
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_79X129
+  rotate: false
+  xy: 981, 451
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_81X98
+  rotate: false
+  xy: 981, 518
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_90X168
+  rotate: false
+  xy: 977, 365
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_ELECTRICITY_LEVEL_WINDOW_ELECTRICITY_99X75
+  rotate: false
+  xy: 949, 1288
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LEVEL_WINDOW_RAYS_LEVEL_WINDOW_RAYS_189X951
+  rotate: false
+  xy: 730, 804
+  size: 121, 609
+  orig: 121, 609
+  offset: 0, 0
+  index: -1

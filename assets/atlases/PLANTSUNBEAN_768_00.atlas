@@ -1,0 +1,96 @@
+PLANTSUNBEAN_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_SUNBEAN_SUNBEAN_109X66
+  rotate: false
+  xy: 140, 71
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_16X26
+  rotate: false
+  xy: 243, 51
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_16X9
+  rotate: false
+  xy: 230, 98
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_19X36
+  rotate: false
+  xy: 243, 1
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_19X36_2
+  rotate: false
+  xy: 243, 26
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_213X213
+  rotate: false
+  xy: 1, 1
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_21X21
+  rotate: false
+  xy: 230, 70
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_25X98
+  rotate: false
+  xy: 212, 70
+  size: 16, 63
+  orig: 16, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_27X16
+  rotate: false
+  xy: 230, 86
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_43X28
+  rotate: false
+  xy: 178, 115
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_56X37
+  rotate: false
+  xy: 140, 115
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_76X104
+  rotate: false
+  xy: 192, 1
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SUNBEAN_SUNBEAN_78X106
+  rotate: false
+  xy: 140, 1
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1

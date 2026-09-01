@@ -1,0 +1,82 @@
+DINOMOWERGROUP_768_00.PNG
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_103X42
+  rotate: false
+  xy: 1, 42
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_111X60
+  rotate: false
+  xy: 1, 1
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_13X10
+  rotate: false
+  xy: 107, 31
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_17X15
+  rotate: false
+  xy: 107, 19
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_25X25
+  rotate: false
+  xy: 107, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_39X38
+  rotate: false
+  xy: 33, 71
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_39X38_2
+  rotate: false
+  xy: 60, 93
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_46X46
+  rotate: false
+  xy: 1, 71
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_47X29
+  rotate: false
+  xy: 87, 93
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_48X95
+  rotate: false
+  xy: 74, 1
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_DINO_MOWER_DINO_62X42
+  rotate: false
+  xy: 69, 64
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,208 @@
+PLANTPRIMALWALLNUT_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_116X114
+  rotate: false
+  xy: 65, 340
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_117X81
+  rotate: false
+  xy: 1, 415
+  size: 75, 52
+  orig: 75, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_130X110
+  rotate: false
+  xy: 1, 247
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_130X67
+  rotate: false
+  xy: 78, 420
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_134X171
+  rotate: false
+  xy: 123, 130
+  size: 86, 110
+  orig: 86, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_13X13
+  rotate: false
+  xy: 246, 250
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_143X152
+  rotate: false
+  xy: 1, 147
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_159X198
+  rotate: false
+  xy: 123, 1
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_15X15
+  rotate: false
+  xy: 241, 222
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_187X225
+  rotate: false
+  xy: 1, 1
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35
+  rotate: false
+  xy: 227, 1
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35_2
+  rotate: false
+  xy: 227, 26
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35_3
+  rotate: false
+  xy: 227, 51
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35_4
+  rotate: false
+  xy: 227, 76
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35_5
+  rotate: false
+  xy: 227, 101
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35_6
+  rotate: false
+  xy: 95, 147
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35_7
+  rotate: false
+  xy: 95, 172
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_32X35_8
+  rotate: false
+  xy: 95, 197
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_33X20
+  rotate: false
+  xy: 223, 250
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_39X22
+  rotate: false
+  xy: 95, 222
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_43X17
+  rotate: false
+  xy: 223, 237
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_43X20
+  rotate: false
+  xy: 211, 222
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_58X140
+  rotate: false
+  xy: 211, 130
+  size: 37, 90
+  orig: 37, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_74X148
+  rotate: false
+  xy: 205, 340
+  size: 48, 95
+  orig: 48, 95
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_95X87
+  rotate: false
+  xy: 163, 437
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_97X122
+  rotate: false
+  xy: 141, 340
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_97X141
+  rotate: false
+  xy: 1, 320
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_97X150
+  rotate: false
+  xy: 95, 242
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_PRIMAL_WALLNUT_PRIMAL_WALLNUT_97X150_2
+  rotate: false
+  xy: 159, 242
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,54 @@
+ZOMBIEZMECHTELEPORTGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZMECH_PORT_FX_ZMECH_PORT_FX_180X265
+  rotate: false
+  xy: 1, 63
+  size: 115, 170
+  orig: 115, 170
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZMECH_PORT_FX_ZMECH_PORT_FX_180X63
+  rotate: false
+  xy: 332, 63
+  size: 115, 41
+  orig: 115, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZMECH_PORT_FX_ZMECH_PORT_FX_19X279
+  rotate: false
+  xy: 479, 1
+  size: 12, 179
+  orig: 12, 179
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZMECH_PORT_FX_ZMECH_PORT_FX_331X127
+  rotate: false
+  xy: 118, 63
+  size: 212, 82
+  orig: 212, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZMECH_PORT_FX_ZMECH_PORT_FX_44X165
+  rotate: false
+  xy: 449, 1
+  size: 28, 106
+  orig: 28, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZMECH_PORT_FX_ZMECH_PORT_FX_665X46
+  rotate: false
+  xy: 1, 235
+  size: 426, 30
+  orig: 426, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZMECH_PORT_FX_ZMECH_PORT_FX_667X94
+  rotate: false
+  xy: 1, 1
+  size: 427, 60
+  orig: 427, 60
+  offset: 0, 0
+  index: -1

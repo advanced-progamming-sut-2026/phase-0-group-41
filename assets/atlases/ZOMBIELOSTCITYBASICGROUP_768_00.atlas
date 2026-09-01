@@ -1,0 +1,516 @@
+ZOMBIELOSTCITYBASICGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_100X73
+  rotate: false
+  xy: 1, 64
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_135X8
+  rotate: false
+  xy: 133, 303
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_15X22
+  rotate: false
+  xy: 109, 123
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_19X40
+  rotate: false
+  xy: 241, 306
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_22X52
+  rotate: false
+  xy: 233, 270
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_25X38
+  rotate: false
+  xy: 133, 271
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_25X39
+  rotate: false
+  xy: 1, 304
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_25X48
+  rotate: false
+  xy: 197, 269
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_26X37
+  rotate: false
+  xy: 20, 300
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_26X44
+  rotate: false
+  xy: 98, 271
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_27X47
+  rotate: false
+  xy: 78, 260
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_30X21
+  rotate: false
+  xy: 226, 334
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_30X37
+  rotate: false
+  xy: 20, 274
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_35X23
+  rotate: false
+  xy: 187, 328
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_35X38
+  rotate: false
+  xy: 53, 260
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_36X45
+  rotate: false
+  xy: 192, 224
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_37X24
+  rotate: false
+  xy: 187, 310
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_37X25
+  rotate: false
+  xy: 39, 317
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_37X46
+  rotate: false
+  xy: 1, 215
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_37X53
+  rotate: false
+  xy: 226, 175
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_38X47
+  rotate: false
+  xy: 127, 208
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_39X39
+  rotate: false
+  xy: 217, 243
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_40X25
+  rotate: false
+  xy: 206, 49
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_46X82
+  rotate: false
+  xy: 162, 169
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_52X31
+  rotate: false
+  xy: 27, 238
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_56X30
+  rotate: false
+  xy: 27, 217
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_6X6
+  rotate: false
+  xy: 116, 155
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_70X71
+  rotate: false
+  xy: 206, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_77X19
+  rotate: false
+  xy: 152, 255
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_79X69
+  rotate: false
+  xy: 109, 162
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_7X7
+  rotate: false
+  xy: 54, 113
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_80X83
+  rotate: false
+  xy: 1, 113
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_80X84
+  rotate: false
+  xy: 185, 67
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_82X69
+  rotate: false
+  xy: 54, 123
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_84X84
+  rotate: false
+  xy: 67, 67
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_86X68
+  rotate: false
+  xy: 123, 116
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_94X100
+  rotate: false
+  xy: 82, 1
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_BASIC_ZOMBIE_LOSTCITY_BASIC_94X73
+  rotate: false
+  xy: 123, 67
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_123X95
+  rotate: false
+  xy: 1, 1
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_135X8
+  rotate: false
+  xy: 62, 310
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_15X22
+  rotate: false
+  xy: 109, 139
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_19X40
+  rotate: false
+  xy: 212, 332
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_22X52
+  rotate: false
+  xy: 117, 271
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_23X194
+  rotate: false
+  xy: 238, 49
+  size: 15, 124
+  orig: 15, 124
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_25X38
+  rotate: false
+  xy: 151, 310
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_25X39
+  rotate: false
+  xy: 169, 310
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_25X48
+  rotate: false
+  xy: 215, 270
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_26X37
+  rotate: false
+  xy: 222, 306
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_26X44
+  rotate: false
+  xy: 1, 274
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_27X47
+  rotate: false
+  xy: 177, 269
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_30X21
+  rotate: false
+  xy: 26, 335
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_30X30
+  rotate: false
+  xy: 117, 317
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_30X37
+  rotate: false
+  xy: 41, 287
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_35X23
+  rotate: false
+  xy: 1, 331
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_35X38
+  rotate: false
+  xy: 152, 269
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_36X45
+  rotate: false
+  xy: 127, 240
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_37X24
+  rotate: false
+  xy: 65, 317
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_37X25
+  rotate: false
+  xy: 91, 317
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_37X53
+  rotate: false
+  xy: 101, 208
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_38X47
+  rotate: false
+  xy: 226, 211
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_39X39
+  rotate: false
+  xy: 99, 244
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_40X25
+  rotate: false
+  xy: 62, 292
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_40X30
+  rotate: false
+  xy: 65, 217
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_46X82
+  rotate: false
+  xy: 194, 169
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_52X31
+  rotate: false
+  xy: 63, 238
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_56X30
+  rotate: false
+  xy: 154, 224
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_6X6
+  rotate: false
+  xy: 162, 162
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_70X71
+  rotate: false
+  xy: 54, 169
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_77X19
+  rotate: false
+  xy: 1, 260
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_79X69
+  rotate: false
+  xy: 1, 169
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_7X7
+  rotate: false
+  xy: 109, 155
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_82X69
+  rotate: false
+  xy: 180, 123
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_FLAG_ZOMBIE_LOSTCITY_FLAG_94X100
+  rotate: false
+  xy: 144, 1
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1

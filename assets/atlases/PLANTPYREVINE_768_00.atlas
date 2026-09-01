@@ -1,0 +1,817 @@
+PLANTPYREVINE_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_102X90
+  rotate: false
+  xy: 159, 769
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_103X113
+  rotate: false
+  xy: 353, 709
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_10X8
+  rotate: false
+  xy: 492, 269
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_112X50
+  rotate: false
+  xy: 211, 834
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_112X95
+  rotate: false
+  xy: 85, 728
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_116X80
+  rotate: false
+  xy: 412, 514
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_116X82
+  rotate: false
+  xy: 92, 450
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_11X13
+  rotate: false
+  xy: 504, 709
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_126X90
+  rotate: false
+  xy: 421, 709
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_127X99
+  rotate: false
+  xy: 1, 709
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_131X129
+  rotate: false
+  xy: 110, 570
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_132X111
+  rotate: false
+  xy: 101, 655
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_135X96
+  rotate: false
+  xy: 188, 664
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_139X77
+  rotate: false
+  xy: 1, 450
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_148X50
+  rotate: false
+  xy: 56, 791
+  size: 95, 32
+  orig: 95, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_14X14
+  rotate: false
+  xy: 502, 830
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_150X100
+  rotate: false
+  xy: 410, 643
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_153X100
+  rotate: false
+  xy: 1, 643
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_153X109
+  rotate: false
+  xy: 196, 592
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_153X130
+  rotate: false
+  xy: 202, 507
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_156X111
+  rotate: false
+  xy: 412, 570
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_157X157
+  rotate: false
+  xy: 391, 411
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_160X38
+  rotate: false
+  xy: 56, 829
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_166X110
+  rotate: false
+  xy: 302, 587
+  size: 106, 71
+  orig: 106, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_167X111
+  rotate: false
+  xy: 1, 570
+  size: 107, 71
+  orig: 107, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_168X110
+  rotate: false
+  xy: 302, 514
+  size: 108, 71
+  orig: 108, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_168X61
+  rotate: false
+  xy: 159, 728
+  size: 108, 39
+  orig: 108, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_16X23
+  rotate: false
+  xy: 85, 709
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_16X9
+  rotate: false
+  xy: 353, 700
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_17X39
+  rotate: false
+  xy: 492, 224
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_182X31
+  rotate: false
+  xy: 1, 856
+  size: 117, 20
+  orig: 117, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_18X18
+  rotate: false
+  xy: 56, 775
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_18X24
+  rotate: false
+  xy: 494, 483
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_18X27
+  rotate: false
+  xy: 168, 465
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_18X29
+  rotate: false
+  xy: 494, 412
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_19X18
+  rotate: false
+  xy: 70, 775
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_19X18_2
+  rotate: false
+  xy: 405, 784
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_19X18_3
+  rotate: false
+  xy: 405, 798
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_1X1
+  rotate: false
+  xy: 507, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_20X14
+  rotate: false
+  xy: 266, 868
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_20X15
+  rotate: false
+  xy: 405, 812
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_20X16
+  rotate: false
+  xy: 29, 836
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_20X19
+  rotate: false
+  xy: 277, 694
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_20X19_2
+  rotate: false
+  xy: 277, 708
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_20X34
+  rotate: false
+  xy: 492, 200
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_21X20
+  rotate: false
+  xy: 168, 485
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_21X20_2
+  rotate: false
+  xy: 277, 664
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_21X20_3
+  rotate: false
+  xy: 277, 679
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_21X21
+  rotate: false
+  xy: 494, 467
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_21X24
+  rotate: false
+  xy: 494, 433
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_24X23
+  rotate: false
+  xy: 494, 395
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_25X21
+  rotate: false
+  xy: 494, 451
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_25X25
+  rotate: false
+  xy: 223, 391
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_26X15
+  rotate: false
+  xy: 494, 501
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_26X24
+  rotate: false
+  xy: 492, 251
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_27X20
+  rotate: false
+  xy: 168, 450
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_27X27
+  rotate: false
+  xy: 492, 141
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_28X26
+  rotate: false
+  xy: 492, 181
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_28X27
+  rotate: false
+  xy: 492, 161
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_293X263
+  rotate: false
+  xy: 1, 279
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_309X146
+  rotate: false
+  xy: 191, 411
+  size: 198, 94
+  orig: 198, 94
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_311X95
+  rotate: false
+  xy: 1, 507
+  size: 199, 61
+  orig: 199, 61
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_32X26
+  rotate: false
+  xy: 488, 550
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_32X53
+  rotate: false
+  xy: 364, 907
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_33X183
+  rotate: false
+  xy: 487, 276
+  size: 21, 117
+  orig: 21, 117
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_34X52
+  rotate: false
+  xy: 488, 514
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_34X52_2
+  rotate: false
+  xy: 269, 728
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_34X52_3
+  rotate: false
+  xy: 241, 903
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_375X208
+  rotate: false
+  xy: 245, 276
+  size: 240, 133
+  orig: 240, 133
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_378X215
+  rotate: false
+  xy: 1, 139
+  size: 242, 138
+  orig: 242, 138
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_383X208
+  rotate: false
+  xy: 245, 141
+  size: 245, 133
+  orig: 245, 133
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_383X215
+  rotate: false
+  xy: 260, 1
+  size: 245, 138
+  orig: 245, 138
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_38X44
+  rotate: false
+  xy: 47, 914
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_38X55
+  rotate: false
+  xy: 305, 881
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_38X55_2
+  rotate: false
+  xy: 158, 882
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_39X27
+  rotate: false
+  xy: 155, 919
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_401X212
+  rotate: false
+  xy: 1, 1
+  size: 257, 136
+  orig: 257, 136
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_40X28
+  rotate: false
+  xy: 1, 836
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_40X34
+  rotate: false
+  xy: 418, 916
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_40X40
+  rotate: false
+  xy: 448, 915
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_40X49
+  rotate: false
+  xy: 392, 882
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_40X49_2
+  rotate: false
+  xy: 420, 882
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_40X49_3
+  rotate: false
+  xy: 185, 903
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_40X49_4
+  rotate: false
+  xy: 213, 903
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_42X38
+  rotate: false
+  xy: 479, 803
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_43X20
+  rotate: false
+  xy: 265, 920
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_43X43
+  rotate: false
+  xy: 93, 906
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_44X33
+  rotate: false
+  xy: 1, 918
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_45X36
+  rotate: false
+  xy: 387, 916
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_45X50
+  rotate: false
+  xy: 479, 769
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_46X41
+  rotate: false
+  xy: 123, 906
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_46X41_2
+  rotate: false
+  xy: 332, 907
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_47X28
+  rotate: false
+  xy: 191, 391
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_49X32
+  rotate: false
+  xy: 476, 915
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_56X75
+  rotate: false
+  xy: 120, 856
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_57X58
+  rotate: false
+  xy: 266, 881
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_66X51
+  rotate: false
+  xy: 455, 880
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_68X53
+  rotate: false
+  xy: 47, 878
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_68X59
+  rotate: false
+  xy: 1, 878
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_70X74
+  rotate: false
+  xy: 455, 830
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_74X79
+  rotate: false
+  xy: 161, 829
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_75X78
+  rotate: false
+  xy: 405, 830
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_75X82
+  rotate: false
+  xy: 288, 826
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_76X59
+  rotate: false
+  xy: 353, 660
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_76X82
+  rotate: false
+  xy: 191, 336
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_78X85
+  rotate: false
+  xy: 191, 279
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_81X51
+  rotate: false
+  xy: 338, 872
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_82X92
+  rotate: false
+  xy: 1, 775
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_83X51
+  rotate: false
+  xy: 211, 868
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_83X78
+  rotate: false
+  xy: 350, 784
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_84X53
+  rotate: false
+  xy: 338, 836
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_85X169
+  rotate: false
+  xy: 296, 660
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_87X92
+  rotate: false
+  xy: 421, 769
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_8X11
+  rotate: false
+  xy: 505, 224
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_92X98
+  rotate: false
+  xy: 227, 769
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_VINE_PYRE_VINE_PYRE_93X84
+  rotate: false
+  xy: 288, 770
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1

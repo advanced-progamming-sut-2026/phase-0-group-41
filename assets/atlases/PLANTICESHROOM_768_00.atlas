@@ -1,0 +1,1629 @@
+PLANTICESHROOM_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_104X51
+  rotate: false
+  xy: 282, 383
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_106X62
+  rotate: false
+  xy: 813, 579
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_110X14
+  rotate: false
+  xy: 108, 664
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_111X21
+  rotate: false
+  xy: 357, 650
+  size: 71, 14
+  orig: 71, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_119X42
+  rotate: false
+  xy: 658, 253
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_123X18
+  rotate: false
+  xy: 813, 542
+  size: 79, 12
+  orig: 79, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_128X14
+  rotate: false
+  xy: 237, 662
+  size: 82, 9
+  orig: 82, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_131X9
+  rotate: false
+  xy: 732, 669
+  size: 84, 6
+  orig: 84, 6
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_142X47
+  rotate: false
+  xy: 606, 579
+  size: 91, 30
+  orig: 91, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_167X72
+  rotate: false
+  xy: 367, 304
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_16X16
+  rotate: false
+  xy: 302, 264
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_186X52
+  rotate: false
+  xy: 125, 503
+  size: 119, 34
+  orig: 119, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_18X12
+  rotate: false
+  xy: 979, 286
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_18X17
+  rotate: false
+  xy: 1012, 571
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_190X55
+  rotate: false
+  xy: 700, 501
+  size: 122, 35
+  orig: 122, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_197X66
+  rotate: false
+  xy: 880, 465
+  size: 126, 42
+  orig: 126, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_200X93
+  rotate: false
+  xy: 125, 391
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_214X93
+  rotate: false
+  xy: 623, 283
+  size: 137, 60
+  orig: 137, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_216X91
+  rotate: false
+  xy: 851, 364
+  size: 138, 58
+  orig: 138, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_219X100
+  rotate: false
+  xy: 367, 352
+  size: 140, 64
+  orig: 140, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_221X102
+  rotate: false
+  xy: 851, 296
+  size: 142, 66
+  orig: 142, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_221X104
+  rotate: false
+  xy: 479, 283
+  size: 142, 67
+  orig: 142, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_231X131
+  rotate: false
+  xy: 521, 109
+  size: 148, 84
+  orig: 148, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_232X75
+  rotate: false
+  xy: 255, 418
+  size: 149, 48
+  orig: 149, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_237X134
+  rotate: false
+  xy: 367, 109
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_242X92
+  rotate: false
+  xy: 125, 330
+  size: 155, 59
+  orig: 155, 59
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_25X21
+  rotate: false
+  xy: 858, 676
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_293X210
+  rotate: false
+  xy: 125, 109
+  size: 188, 135
+  orig: 188, 135
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_38X25
+  rotate: false
+  xy: 224, 673
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_65X67
+  rotate: false
+  xy: 979, 205
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_74X29
+  rotate: false
+  xy: 451, 464
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_93X36
+  rotate: false
+  xy: 735, 642
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_93X47
+  rotate: false
+  xy: 859, 623
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_FX_ICESHROOM_FX_96X42
+  rotate: false
+  xy: 241, 633
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_104X45
+  rotate: false
+  xy: 421, 619
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_152X29
+  rotate: false
+  xy: 759, 621
+  size: 98, 19
+  orig: 98, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_157X125
+  rotate: false
+  xy: 623, 345
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_15X30
+  rotate: false
+  xy: 658, 222
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_16X16
+  rotate: false
+  xy: 302, 276
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_18X17
+  rotate: false
+  xy: 1012, 584
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_20X13
+  rotate: false
+  xy: 351, 406
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_211X134
+  rotate: false
+  xy: 851, 117
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_222X31
+  rotate: false
+  xy: 813, 557
+  size: 142, 20
+  orig: 142, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_225X177
+  rotate: false
+  xy: 851, 1
+  size: 144, 114
+  orig: 144, 114
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_234X59
+  rotate: false
+  xy: 563, 427
+  size: 150, 38
+  orig: 150, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_248X48
+  rotate: false
+  xy: 290, 468
+  size: 159, 31
+  orig: 159, 31
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_255X51
+  rotate: false
+  xy: 125, 468
+  size: 163, 33
+  orig: 163, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_255X52
+  rotate: false
+  xy: 715, 465
+  size: 163, 34
+  orig: 163, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_25X21
+  rotate: false
+  xy: 579, 677
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_262X60
+  rotate: false
+  xy: 851, 424
+  size: 168, 39
+  orig: 168, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_31X91
+  rotate: false
+  xy: 736, 214
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_41X151
+  rotate: false
+  xy: 997, 1
+  size: 26, 97
+  orig: 26, 97
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_42X99
+  rotate: false
+  xy: 997, 109
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_48X20
+  rotate: false
+  xy: 894, 542
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_58X24
+  rotate: false
+  xy: 563, 467
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_63X31
+  rotate: false
+  xy: 246, 536
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_66X16
+  rotate: false
+  xy: 563, 412
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_72X39
+  rotate: false
+  xy: 60, 639
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_76X6
+  rotate: false
+  xy: 824, 501
+  size: 49, 4
+  orig: 49, 4
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_78X37
+  rotate: false
+  xy: 305, 633
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_82X21
+  rotate: false
+  xy: 531, 659
+  size: 53, 14
+  orig: 53, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_86X71
+  rotate: false
+  xy: 125, 586
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_MELEE_ATTACK_ICESHROOM_MELEE_ATTACK_89X42
+  rotate: false
+  xy: 1, 639
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_PROJECTILE_ICESHROOM_PROJECTILE_81X204
+  rotate: false
+  xy: 509, 352
+  size: 52, 131
+  orig: 52, 131
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_TILE_FX_ICESHROOM_TILE_FX_192X127
+  rotate: false
+  xy: 125, 246
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_TILE_FX_ICESHROOM_TILE_FX_20X26
+  rotate: false
+  xy: 359, 586
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_TILE_FX_ICESHROOM_TILE_FX_22X29
+  rotate: false
+  xy: 531, 675
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_TILE_FX_ICESHROOM_TILE_FX_22X29_2
+  rotate: false
+  xy: 547, 675
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_TILE_FX_ICESHROOM_TILE_FX_23X43
+  rotate: false
+  xy: 356, 666
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_TILE_FX_ICESHROOM_TILE_FX_23X43_2
+  rotate: false
+  xy: 373, 666
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ICESHROOM_TILE_FX_ICESHROOM_TILE_FX_7X8
+  rotate: false
+  xy: 1018, 333
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_100X39
+  rotate: false
+  xy: 114, 634
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_100X67
+  rotate: false
+  xy: 540, 573
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_104X41
+  rotate: false
+  xy: 666, 625
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_10X11
+  rotate: false
+  xy: 753, 186
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_10X11_2
+  rotate: false
+  xy: 753, 195
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_10X11_3
+  rotate: false
+  xy: 753, 204
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_10X12
+  rotate: false
+  xy: 753, 176
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_10X15
+  rotate: false
+  xy: 753, 152
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_10X9
+  rotate: false
+  xy: 678, 527
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_10X9_2
+  rotate: false
+  xy: 687, 527
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_110X78
+  rotate: false
+  xy: 375, 501
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_115X71
+  rotate: false
+  xy: 937, 509
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_116X70
+  rotate: false
+  xy: 525, 517
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_117X69
+  rotate: false
+  xy: 601, 527
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_117X70
+  rotate: false
+  xy: 448, 517
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_11X11
+  rotate: false
+  xy: 752, 379
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_11X11_2
+  rotate: false
+  xy: 601, 517
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_11X11_3
+  rotate: false
+  xy: 1013, 521
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_11X16
+  rotate: false
+  xy: 753, 164
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_11X17
+  rotate: false
+  xy: 753, 139
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_11X19
+  rotate: false
+  xy: 753, 125
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_11X21
+  rotate: false
+  xy: 753, 109
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_126X60
+  rotate: false
+  xy: 678, 538
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_129X85
+  rotate: false
+  xy: 290, 501
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_12X11
+  rotate: false
+  xy: 658, 243
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_12X13
+  rotate: false
+  xy: 752, 357
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_12X14
+  rotate: false
+  xy: 752, 368
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_12X16
+  rotate: false
+  xy: 752, 345
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_12X17
+  rotate: false
+  xy: 509, 270
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_12X24
+  rotate: false
+  xy: 509, 240
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_130X90
+  rotate: false
+  xy: 615, 467
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_134X691
+  rotate: false
+  xy: 763, 1
+  size: 86, 442
+  orig: 86, 442
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_13X10
+  rotate: false
+  xy: 997, 100
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_13X14
+  rotate: false
+  xy: 1013, 499
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_13X16
+  rotate: false
+  xy: 509, 258
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_149X69
+  rotate: false
+  xy: 406, 418
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_14X14
+  rotate: false
+  xy: 1013, 510
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_14X9
+  rotate: false
+  xy: 736, 274
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_156X19
+  rotate: false
+  xy: 125, 453
+  size: 100, 12
+  orig: 100, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_157X24
+  rotate: false
+  xy: 715, 445
+  size: 101, 16
+  orig: 101, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_15X14
+  rotate: false
+  xy: 302, 288
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_15X14_2
+  rotate: false
+  xy: 602, 467
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_15X8
+  rotate: false
+  xy: 747, 274
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_163X42
+  rotate: false
+  xy: 242, 558
+  size: 105, 27
+  orig: 105, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_16X24
+  rotate: false
+  xy: 302, 246
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_16X39
+  rotate: false
+  xy: 658, 195
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_16X9
+  rotate: false
+  xy: 1008, 100
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_171X163
+  rotate: false
+  xy: 367, 197
+  size: 110, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_173X33
+  rotate: false
+  xy: 1, 616
+  size: 111, 21
+  orig: 111, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_173X48
+  rotate: false
+  xy: 824, 509
+  size: 111, 31
+  orig: 111, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_18X18
+  rotate: false
+  xy: 700, 467
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_18X19
+  rotate: false
+  xy: 700, 481
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_190X958
+  rotate: false
+  xy: 1, 1
+  size: 122, 613
+  orig: 122, 613
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_197X139
+  rotate: false
+  xy: 851, 205
+  size: 126, 89
+  orig: 126, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_19X18
+  rotate: false
+  xy: 1012, 557
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_1X1
+  rotate: false
+  xy: 1020, 100
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_20X19
+  rotate: false
+  xy: 607, 412
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_20X32
+  rotate: false
+  xy: 351, 383
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_210X134
+  rotate: false
+  xy: 521, 195
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_21X28
+  rotate: false
+  xy: 563, 675
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_22X22
+  rotate: false
+  xy: 617, 677
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_22X31
+  rotate: false
+  xy: 134, 675
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_22X31_2
+  rotate: false
+  xy: 150, 675
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_22X49
+  rotate: false
+  xy: 1008, 465
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_22X49_2
+  rotate: false
+  xy: 1006, 612
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_23X20
+  rotate: false
+  xy: 732, 677
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_24X18
+  rotate: false
+  xy: 749, 677
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_24X30
+  rotate: false
+  xy: 116, 675
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_24X35
+  rotate: false
+  xy: 932, 674
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_252X47
+  rotate: false
+  xy: 451, 485
+  size: 162, 30
+  orig: 162, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_25X161
+  rotate: false
+  xy: 735, 109
+  size: 16, 103
+  orig: 16, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_26X23
+  rotate: false
+  xy: 735, 625
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_26X32
+  rotate: false
+  xy: 950, 674
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_26X34
+  rotate: false
+  xy: 818, 669
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_27X18
+  rotate: false
+  xy: 597, 677
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_27X33
+  rotate: false
+  xy: 255, 391
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_27X33_2
+  rotate: false
+  xy: 34, 668
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_28X26
+  rotate: false
+  xy: 96, 675
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_29X26
+  rotate: false
+  xy: 969, 674
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_29X56
+  rotate: false
+  xy: 711, 653
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_30X19
+  rotate: false
+  xy: 837, 676
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_30X40
+  rotate: false
+  xy: 203, 664
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_31X43
+  rotate: false
+  xy: 181, 664
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_32X19
+  rotate: false
+  xy: 227, 453
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_32X59
+  rotate: false
+  xy: 688, 653
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_33X34
+  rotate: false
+  xy: 250, 306
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_33X80
+  rotate: false
+  xy: 995, 333
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_34X17
+  rotate: false
+  xy: 666, 611
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_34X41
+  rotate: false
+  xy: 349, 558
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_34X47
+  rotate: false
+  xy: 882, 655
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_35X60
+  rotate: false
+  xy: 430, 650
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_35X60_2
+  rotate: false
+  xy: 455, 650
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_36X56
+  rotate: false
+  xy: 637, 653
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_36X58
+  rotate: false
+  xy: 506, 651
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_37X40
+  rotate: false
+  xy: 906, 663
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_37X53
+  rotate: false
+  xy: 662, 653
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_37X58
+  rotate: false
+  xy: 480, 651
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_37X59
+  rotate: false
+  xy: 921, 623
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_37X66
+  rotate: false
+  xy: 726, 345
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_38X71
+  rotate: false
+  xy: 282, 306
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_39X47
+  rotate: false
+  xy: 991, 653
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_40X23
+  rotate: false
+  xy: 251, 673
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_40X26
+  rotate: false
+  xy: 818, 445
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_41X57
+  rotate: false
+  xy: 726, 389
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_44X23
+  rotate: false
+  xy: 390, 666
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_44X52
+  rotate: false
+  xy: 991, 386
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_44X57
+  rotate: false
+  xy: 479, 240
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_45X70
+  rotate: false
+  xy: 995, 286
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_46X34
+  rotate: false
+  xy: 282, 354
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_48X18
+  rotate: false
+  xy: 279, 673
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_48X20
+  rotate: false
+  xy: 1, 668
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_49X37
+  rotate: false
+  xy: 988, 175
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_51X29
+  rotate: false
+  xy: 321, 659
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_52X23
+  rotate: false
+  xy: 60, 666
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_60X34
+  rotate: false
+  xy: 596, 653
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_61X33
+  rotate: false
+  xy: 759, 598
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_61X39
+  rotate: false
+  xy: 797, 642
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_61X63
+  rotate: false
+  xy: 479, 197
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_62X47
+  rotate: false
+  xy: 490, 619
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_63X48
+  rotate: false
+  xy: 246, 503
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_65X29
+  rotate: false
+  xy: 947, 653
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_65X53
+  rotate: false
+  xy: 979, 250
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_66X30
+  rotate: false
+  xy: 838, 655
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_67X22
+  rotate: false
+  xy: 715, 428
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_6X6
+  rotate: false
+  xy: 1018, 361
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_76X91
+  rotate: false
+  xy: 191, 539
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_77X90
+  rotate: false
+  xy: 250, 246
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_77X90_2
+  rotate: false
+  xy: 563, 352
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_78X424
+  rotate: false
+  xy: 315, 109
+  size: 50, 272
+  orig: 50, 272
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_78X90
+  rotate: false
+  xy: 761, 538
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_7X7
+  rotate: false
+  xy: 1018, 340
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_7X7_2
+  rotate: false
+  xy: 1018, 347
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_7X7_3
+  rotate: false
+  xy: 615, 352
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_7X8
+  rotate: false
+  xy: 1018, 354
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_7X8_2
+  rotate: false
+  xy: 615, 359
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_82X82
+  rotate: false
+  xy: 375, 553
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_82X82_2
+  rotate: false
+  xy: 957, 557
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_82X82_3
+  rotate: false
+  xy: 430, 564
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_82X82_4
+  rotate: false
+  xy: 485, 564
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_84X61
+  rotate: false
+  xy: 540, 618
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_85X31
+  rotate: false
+  xy: 180, 642
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_87X60
+  rotate: false
+  xy: 948, 612
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_87X69
+  rotate: false
+  xy: 301, 587
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_88X63
+  rotate: false
+  xy: 182, 599
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_89X69
+  rotate: false
+  xy: 242, 587
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_90X62
+  rotate: false
+  xy: 606, 611
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_90X69
+  rotate: false
+  xy: 699, 579
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_94X61
+  rotate: false
+  xy: 359, 608
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_96X221
+  rotate: false
+  xy: 671, 109
+  size: 62, 142
+  orig: 62, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_98X65
+  rotate: false
+  xy: 883, 579
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_994X166
+  rotate: false
+  xy: 125, 1
+  size: 636, 106
+  orig: 636, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_99X70
+  rotate: false
+  xy: 125, 539
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X10
+  rotate: false
+  xy: 988, 154
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X11
+  rotate: false
+  xy: 988, 163
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X11_2
+  rotate: false
+  xy: 273, 306
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X15
+  rotate: false
+  xy: 988, 130
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X15_2
+  rotate: false
+  xy: 988, 142
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X17
+  rotate: false
+  xy: 988, 117
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X8
+  rotate: false
+  xy: 302, 299
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X8_2
+  rotate: false
+  xy: 273, 323
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_ICESHROOM_ICESHROOM_9X9
+  rotate: false
+  xy: 273, 315
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

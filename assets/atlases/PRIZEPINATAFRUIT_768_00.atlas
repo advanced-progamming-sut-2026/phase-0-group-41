@@ -1,0 +1,320 @@
+PRIZEPINATAFRUIT_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_109X109
+  rotate: false
+  xy: 341, 495
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_113X113
+  rotate: false
+  xy: 375, 274
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_120X129
+  rotate: false
+  xy: 375, 189
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_162X39
+  rotate: false
+  xy: 341, 567
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_178X147
+  rotate: false
+  xy: 375, 93
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_188X141
+  rotate: false
+  xy: 375, 1
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_24X20
+  rotate: false
+  xy: 495, 595
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_24X23
+  rotate: false
+  xy: 495, 578
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_25X25
+  rotate: false
+  xy: 495, 560
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_260X200
+  rotate: false
+  xy: 341, 365
+  size: 167, 128
+  orig: 167, 128
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_26X23
+  rotate: false
+  xy: 438, 543
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_280X245
+  rotate: false
+  xy: 1, 688
+  size: 179, 157
+  orig: 179, 157
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_28X26
+  rotate: false
+  xy: 447, 585
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_28X29
+  rotate: false
+  xy: 491, 136
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_29X29
+  rotate: false
+  xy: 491, 115
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_29X31
+  rotate: false
+  xy: 491, 93
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_30X25
+  rotate: false
+  xy: 410, 594
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_318X169
+  rotate: false
+  xy: 182, 688
+  size: 204, 108
+  orig: 204, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_31X24
+  rotate: false
+  xy: 491, 157
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_32X29
+  rotate: false
+  xy: 413, 545
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_32X30
+  rotate: false
+  xy: 341, 594
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_32X30_2
+  rotate: false
+  xy: 364, 594
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_32X35
+  rotate: false
+  xy: 447, 560
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_33X27
+  rotate: false
+  xy: 387, 594
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_34X27
+  rotate: false
+  xy: 489, 313
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_35X22
+  rotate: false
+  xy: 407, 349
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_35X33
+  rotate: false
+  xy: 470, 560
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_35X39
+  rotate: false
+  xy: 488, 241
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_36X33
+  rotate: false
+  xy: 470, 583
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_36X35
+  rotate: false
+  xy: 413, 520
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_38X35
+  rotate: false
+  xy: 471, 495
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_39X35
+  rotate: false
+  xy: 441, 518
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_39X39
+  rotate: false
+  xy: 482, 333
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_41X36
+  rotate: false
+  xy: 413, 495
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_44X33
+  rotate: false
+  xy: 441, 495
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_46X30
+  rotate: false
+  xy: 468, 520
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_47X21
+  rotate: false
+  xy: 375, 349
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_47X32
+  rotate: false
+  xy: 450, 333
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_49X34
+  rotate: false
+  xy: 454, 241
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_51X26
+  rotate: false
+  xy: 468, 541
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_528X501
+  rotate: false
+  xy: 1, 365
+  size: 338, 321
+  orig: 338, 321
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_581X565
+  rotate: false
+  xy: 1, 1
+  size: 372, 362
+  orig: 372, 362
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_58X27
+  rotate: false
+  xy: 450, 313
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_77X77
+  rotate: false
+  xy: 454, 189
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PRIZE_PINATA_FRUIT_PRIZE_PINATA_FRUIT_94X57
+  rotate: false
+  xy: 450, 274
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,124 @@
+DELAYLOAD_BACKGROUND_PIRATE_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_WATER_BREAKER_WATER_BREAKER_01
+  rotate: false
+  xy: 1, 1
+  size: 172, 266
+  orig: 172, 266
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_BREAKER_WATER_BREAKER_DROPLET_01
+  rotate: false
+  xy: 346, 512
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_BREAKER_WATER_BREAKER_DROPLET_02
+  rotate: false
+  xy: 346, 454
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_BREAKER_WATER_BREAKER_FROTH_01
+  rotate: false
+  xy: 1, 514
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_BREAKER_WATER_BREAKER_FROTH_02
+  rotate: false
+  xy: 287, 571
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_FOAM_WATER_FOAM_264X180
+  rotate: false
+  xy: 175, 454
+  size: 169, 115
+  orig: 169, 115
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_01_BACK
+  rotate: false
+  xy: 175, 271
+  size: 213, 181
+  orig: 213, 181
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_02_BACK
+  rotate: false
+  xy: 349, 1
+  size: 149, 268
+  orig: 149, 268
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_02_FRONT
+  rotate: false
+  xy: 1, 269
+  size: 172, 243
+  orig: 172, 243
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_03_FRONT
+  rotate: false
+  xy: 175, 1
+  size: 172, 266
+  orig: 172, 266
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_284X144
+  rotate: false
+  xy: 1, 571
+  size: 182, 92
+  orig: 182, 92
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_DROPLET_01
+  rotate: false
+  xy: 103, 514
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_DROPLET_02
+  rotate: false
+  xy: 346, 483
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_FROTH_01
+  rotate: false
+  xy: 185, 571
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_WATER_SPLASH_WATER_SPLASH_FROTH_02
+  rotate: false
+  xy: 287, 618
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PIRATE_CANNON_GUIDE_LEFT
+  rotate: false
+  xy: 454, 271
+  size: 55, 496
+  orig: 55, 496
+  offset: 0, 0
+  index: -1
+IMAGE_PIRATE_CANNON_GUIDE_RIGHT
+  rotate: false
+  xy: 390, 271
+  size: 62, 501
+  orig: 62, 501
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,733 @@
+FIREPEAEFFECTS_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SPLAT_FIRE_PEA_BLUE_TORCHWOOD_SPLAT_PEA_FLAME_PLANTFOOD_01
+  rotate: false
+  xy: 402, 706
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SPLAT_FIRE_PEA_BLUE_TORCHWOOD_SPLAT_PEA_FLAME_PLANTFOOD_02_COPY
+  rotate: false
+  xy: 1, 712
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_152X128
+  rotate: false
+  xy: 215, 466
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_153X107
+  rotate: false
+  xy: 205, 626
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_154X114
+  rotate: false
+  xy: 102, 497
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_159X106
+  rotate: false
+  xy: 408, 556
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_179X131
+  rotate: false
+  xy: 379, 322
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_193X121
+  rotate: false
+  xy: 127, 321
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_194X123
+  rotate: false
+  xy: 383, 162
+  size: 124, 79
+  orig: 124, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_196X120
+  rotate: false
+  xy: 255, 243
+  size: 126, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_197X123
+  rotate: false
+  xy: 1, 117
+  size: 126, 79
+  orig: 126, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_1X1
+  rotate: false
+  xy: 392, 84
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_202X122
+  rotate: false
+  xy: 264, 1
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_20X20
+  rotate: false
+  xy: 66, 676
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_21X27
+  rotate: false
+  xy: 496, 322
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_288X27
+  rotate: false
+  xy: 215, 717
+  size: 185, 18
+  orig: 185, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_31X31
+  rotate: false
+  xy: 422, 851
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_33X32
+  rotate: false
+  xy: 172, 791
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_43X43
+  rotate: false
+  xy: 441, 821
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_54X29
+  rotate: false
+  xy: 1, 845
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_58X28
+  rotate: false
+  xy: 91, 844
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_62X29
+  rotate: false
+  xy: 270, 841
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_67X35
+  rotate: false
+  xy: 1, 820
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_71X32
+  rotate: false
+  xy: 91, 821
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_86X41
+  rotate: false
+  xy: 172, 814
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_86X43
+  rotate: false
+  xy: 58, 790
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_88X43
+  rotate: false
+  xy: 209, 784
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_89X41
+  rotate: false
+  xy: 386, 793
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_BLUE_T_FIRE_PEA_BLUE_94X42
+  rotate: false
+  xy: 147, 762
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_138X64
+  rotate: false
+  xy: 66, 696
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_151X127
+  rotate: false
+  xy: 414, 472
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_153X107
+  rotate: false
+  xy: 305, 626
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_154X114
+  rotate: false
+  xy: 203, 550
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_159X106
+  rotate: false
+  xy: 1, 572
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_179X131
+  rotate: false
+  xy: 1, 401
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_193X121
+  rotate: false
+  xy: 253, 322
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_194X123
+  rotate: false
+  xy: 1, 198
+  size: 124, 79
+  orig: 124, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_196X120
+  rotate: false
+  xy: 383, 243
+  size: 126, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_197X123
+  rotate: false
+  xy: 129, 161
+  size: 126, 79
+  orig: 126, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_1X1
+  rotate: false
+  xy: 506, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_1X1_2
+  rotate: false
+  xy: 509, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_202X122
+  rotate: false
+  xy: 132, 81
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_208X96
+  rotate: false
+  xy: 350, 408
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_20X20
+  rotate: false
+  xy: 81, 676
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_21X27
+  rotate: false
+  xy: 496, 342
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_288X27
+  rotate: false
+  xy: 215, 737
+  size: 185, 18
+  orig: 185, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_31X31
+  rotate: false
+  xy: 444, 851
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_33X32
+  rotate: false
+  xy: 399, 851
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_37X47
+  rotate: false
+  xy: 336, 843
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_43X43
+  rotate: false
+  xy: 471, 821
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_54X29
+  rotate: false
+  xy: 38, 845
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_60X54
+  rotate: false
+  xy: 229, 816
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_62X29
+  rotate: false
+  xy: 167, 842
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_65X76
+  rotate: false
+  xy: 57, 739
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_67X35
+  rotate: false
+  xy: 46, 820
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_71X32
+  rotate: false
+  xy: 363, 821
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_86X43
+  rotate: false
+  xy: 115, 791
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_88X43
+  rotate: false
+  xy: 268, 786
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_89X41
+  rotate: false
+  xy: 445, 793
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_GOLD_T_FIRE_PEA_GOLD_94X42
+  rotate: false
+  xy: 382, 763
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_138X64
+  rotate: false
+  xy: 105, 572
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_151X127
+  rotate: false
+  xy: 315, 472
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_153X107
+  rotate: false
+  xy: 105, 625
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_154X114
+  rotate: false
+  xy: 1, 487
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_159X106
+  rotate: false
+  xy: 304, 556
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_179X131
+  rotate: false
+  xy: 396, 1
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_193X121
+  rotate: false
+  xy: 1, 321
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_194X123
+  rotate: false
+  xy: 257, 162
+  size: 124, 79
+  orig: 124, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_196X120
+  rotate: false
+  xy: 127, 242
+  size: 126, 77
+  orig: 126, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_197X123
+  rotate: false
+  xy: 264, 81
+  size: 126, 79
+  orig: 126, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_1X1
+  rotate: false
+  xy: 392, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_202X122
+  rotate: false
+  xy: 132, 1
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_208X96
+  rotate: false
+  xy: 215, 402
+  size: 133, 62
+  orig: 133, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_20X20
+  rotate: false
+  xy: 496, 382
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_21X27
+  rotate: false
+  xy: 104, 301
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_288X27
+  rotate: false
+  xy: 215, 697
+  size: 185, 18
+  orig: 185, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_31X31
+  rotate: false
+  xy: 104, 279
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_33X32
+  rotate: false
+  xy: 485, 445
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_43X43
+  rotate: false
+  xy: 411, 821
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_54X29
+  rotate: false
+  xy: 362, 844
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_62X29
+  rotate: false
+  xy: 1, 769
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_67X35
+  rotate: false
+  xy: 270, 816
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_71X32
+  rotate: false
+  xy: 315, 820
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_86X43
+  rotate: false
+  xy: 1, 790
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_88X43
+  rotate: false
+  xy: 444, 763
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_89X41
+  rotate: false
+  xy: 327, 792
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_FIRE_PEA_T_FIRE_PEA_94X42
+  rotate: false
+  xy: 320, 757
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_110X122
+  rotate: false
+  xy: 405, 626
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_148X146
+  rotate: false
+  xy: 118, 401
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_158X59
+  rotate: false
+  xy: 1, 279
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_160X38
+  rotate: false
+  xy: 215, 757
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_174X103
+  rotate: false
+  xy: 392, 87
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_1X1
+  rotate: false
+  xy: 506, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_1X1_2
+  rotate: false
+  xy: 509, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_201X178
+  rotate: false
+  xy: 1, 1
+  size: 129, 114
+  orig: 129, 114
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_21X27
+  rotate: false
+  xy: 496, 362
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_33X183
+  rotate: false
+  xy: 478, 626
+  size: 21, 117
+  orig: 21, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_34X52
+  rotate: false
+  xy: 312, 843
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_38X55
+  rotate: false
+  xy: 485, 408
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_40X49
+  rotate: false
+  xy: 66, 642
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_40X49_2
+  rotate: false
+  xy: 139, 821
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_69X72
+  rotate: false
+  xy: 101, 739
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_87X98
+  rotate: false
+  xy: 157, 697
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPLAT_FIRE_PEA_T_SPLAT_FIRE_PEA_98X106
+  rotate: false
+  xy: 1, 642
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1

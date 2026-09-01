@@ -1,0 +1,68 @@
+FIRETRAPTILEGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_101X95
+  rotate: false
+  xy: 93, 186
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_101X99
+  rotate: false
+  xy: 185, 1
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_101X99_2
+  rotate: false
+  xy: 170, 183
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_110X112
+  rotate: false
+  xy: 170, 109
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_117X117
+  rotate: false
+  xy: 93, 109
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_140X165
+  rotate: false
+  xy: 1, 1
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_140X165_2
+  rotate: false
+  xy: 93, 1
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_141X144
+  rotate: false
+  xy: 1, 109
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_FIRETILE_FIRETILE_89X95
+  rotate: false
+  xy: 1, 203
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1

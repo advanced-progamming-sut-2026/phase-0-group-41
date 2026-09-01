@@ -1,0 +1,796 @@
+PLANTBRAMBLEBUSH_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_159X69
+  rotate: false
+  xy: 1, 195
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_16X16
+  rotate: false
+  xy: 91, 241
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_18X17
+  rotate: false
+  xy: 498, 82
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_24X21
+  rotate: false
+  xy: 103, 299
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_44X111
+  rotate: false
+  xy: 437, 227
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_48X123
+  rotate: false
+  xy: 371, 227
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_52X50
+  rotate: false
+  xy: 237, 255
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BRAMBLEBUSH_DRAG_EFFECT_BRAMBLEBUSH_DRAG_EFFECT_64X111
+  rotate: false
+  xy: 455, 1
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_102X38
+  rotate: false
+  xy: 1, 241
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_103X37
+  rotate: false
+  xy: 69, 255
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_10X11
+  rotate: false
+  xy: 318, 312
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_12X13
+  rotate: false
+  xy: 426, 308
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_13X10
+  rotate: false
+  xy: 199, 223
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_13X13
+  rotate: false
+  xy: 190, 292
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_13X13_2
+  rotate: false
+  xy: 50, 298
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_13X13_3
+  rotate: false
+  xy: 415, 308
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_13X13_4
+  rotate: false
+  xy: 50, 309
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_142X31
+  rotate: false
+  xy: 199, 233
+  size: 91, 20
+  orig: 91, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_142X49
+  rotate: false
+  xy: 105, 195
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_143X37
+  rotate: false
+  xy: 105, 229
+  size: 92, 24
+  orig: 92, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X13
+  rotate: false
+  xy: 143, 311
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X13_2
+  rotate: false
+  xy: 154, 311
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X13_3
+  rotate: false
+  xy: 165, 311
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X13_4
+  rotate: false
+  xy: 176, 311
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14
+  rotate: false
+  xy: 307, 312
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_10
+  rotate: false
+  xy: 457, 312
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_2
+  rotate: false
+  xy: 468, 312
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_3
+  rotate: false
+  xy: 479, 312
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_4
+  rotate: false
+  xy: 25, 313
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_5
+  rotate: false
+  xy: 36, 313
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_6
+  rotate: false
+  xy: 61, 313
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_7
+  rotate: false
+  xy: 72, 313
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_8
+  rotate: false
+  xy: 83, 313
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X14_9
+  rotate: false
+  xy: 121, 313
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_14X9
+  rotate: false
+  xy: 29, 289
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_152X25
+  rotate: false
+  xy: 137, 255
+  size: 98, 16
+  orig: 98, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15
+  rotate: false
+  xy: 124, 281
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_10
+  rotate: false
+  xy: 343, 302
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_2
+  rotate: false
+  xy: 355, 302
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_3
+  rotate: false
+  xy: 190, 303
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_4
+  rotate: false
+  xy: 202, 303
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_5
+  rotate: false
+  xy: 1, 305
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_6
+  rotate: false
+  xy: 13, 305
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_7
+  rotate: false
+  xy: 244, 305
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_8
+  rotate: false
+  xy: 497, 305
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X15_9
+  rotate: false
+  xy: 214, 307
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X18
+  rotate: false
+  xy: 498, 110
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X20
+  rotate: false
+  xy: 498, 95
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_15X8
+  rotate: false
+  xy: 256, 313
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_161X161
+  rotate: false
+  xy: 216, 128
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_16X16
+  rotate: false
+  xy: 226, 307
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_16X16_2
+  rotate: false
+  xy: 367, 308
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_16X16_3
+  rotate: false
+  xy: 379, 308
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_16X16_4
+  rotate: false
+  xy: 391, 308
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_16X16_5
+  rotate: false
+  xy: 403, 308
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_16X45
+  rotate: false
+  xy: 498, 28
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_171X173
+  rotate: false
+  xy: 343, 1
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_171X173_2
+  rotate: false
+  xy: 343, 114
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_17X32
+  rotate: false
+  xy: 498, 59
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_195X195
+  rotate: false
+  xy: 216, 1
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_19X13
+  rotate: false
+  xy: 329, 302
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_19X38
+  rotate: false
+  xy: 498, 1
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_21X14
+  rotate: false
+  xy: 220, 273
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_21X20
+  rotate: false
+  xy: 497, 236
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_21X22
+  rotate: false
+  xy: 498, 128
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_21X65
+  rotate: false
+  xy: 321, 128
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_21X65_2
+  rotate: false
+  xy: 321, 172
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_22X18
+  rotate: false
+  xy: 497, 265
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_22X21
+  rotate: false
+  xy: 497, 220
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_22X41
+  rotate: false
+  xy: 198, 195
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_22X56
+  rotate: false
+  xy: 491, 182
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_23X17
+  rotate: false
+  xy: 497, 279
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_23X17_2
+  rotate: false
+  xy: 497, 292
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_23X18
+  rotate: false
+  xy: 497, 251
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_23X18_2
+  rotate: false
+  xy: 273, 255
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_24X43
+  rotate: false
+  xy: 202, 273
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_25X26
+  rotate: false
+  xy: 172, 292
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_26X15
+  rotate: false
+  xy: 478, 300
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_26X24
+  rotate: false
+  xy: 124, 295
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_26X42
+  rotate: false
+  xy: 301, 270
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_27X19
+  rotate: false
+  xy: 287, 299
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_27X19_2
+  rotate: false
+  xy: 437, 300
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_27X22
+  rotate: false
+  xy: 143, 295
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_27X44
+  rotate: false
+  xy: 42, 268
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_28X12
+  rotate: false
+  xy: 321, 216
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_28X22
+  rotate: false
+  xy: 62, 297
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_29X19
+  rotate: false
+  xy: 82, 299
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_29X20
+  rotate: false
+  xy: 29, 298
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_30X15
+  rotate: false
+  xy: 457, 300
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_30X20
+  rotate: false
+  xy: 266, 298
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_30X25
+  rotate: false
+  xy: 347, 284
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_31X12
+  rotate: false
+  xy: 307, 302
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_31X19
+  rotate: false
+  xy: 69, 241
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_31X21
+  rotate: false
+  xy: 244, 289
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_32X51
+  rotate: false
+  xy: 491, 147
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_333X300
+  rotate: false
+  xy: 1, 1
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_34X24
+  rotate: false
+  xy: 220, 289
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_36X55
+  rotate: false
+  xy: 292, 233
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_38X24
+  rotate: false
+  xy: 320, 284
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_41X21
+  rotate: false
+  xy: 1, 289
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_41X41
+  rotate: false
+  xy: 273, 270
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_42X24
+  rotate: false
+  xy: 95, 281
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_44X111
+  rotate: false
+  xy: 467, 227
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_44X26
+  rotate: false
+  xy: 172, 273
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_48X123
+  rotate: false
+  xy: 404, 227
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_48X21
+  rotate: false
+  xy: 62, 281
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_51X31
+  rotate: false
+  xy: 137, 273
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_53X121
+  rotate: false
+  xy: 455, 147
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_61X29
+  rotate: false
+  xy: 1, 268
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_64X111
+  rotate: false
+  xy: 455, 74
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_6X6
+  rotate: false
+  xy: 507, 189
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_74X86
+  rotate: false
+  xy: 321, 227
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BRAMBLEBUSH_BRAMBLEBUSH_7X7
+  rotate: false
+  xy: 507, 182
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

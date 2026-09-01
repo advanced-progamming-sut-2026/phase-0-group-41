@@ -1,0 +1,47 @@
+UI_SEASONS_768_00.PNG
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_SEASONS_PVZ2_SEASONS_UIASSET_CALENDAR_PANEL_CURRENT
+  rotate: false
+  xy: 938, 1
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_UI_SEASONS_PVZ2_SEASONS_UIASSET_CALENDAR_PANEL_FUTURE
+  rotate: false
+  xy: 1, 1
+  size: 533, 137
+  orig: 533, 137
+  offset: 0, 0
+  index: -1
+IMAGE_UI_SEASONS_SEASONTAB_ACTIVE
+  rotate: false
+  xy: 536, 1
+  size: 199, 85
+  orig: 199, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_SEASONS_SEASONTAB_DOWN
+  rotate: false
+  xy: 536, 88
+  size: 199, 65
+  orig: 199, 65
+  offset: 0, 0
+  index: -1
+IMAGE_UI_SEASONS_TOURNAMENTSTAB_ACTIVE
+  rotate: false
+  xy: 737, 1
+  size: 199, 85
+  orig: 199, 85
+  offset: 0, 0
+  index: -1
+IMAGE_UI_SEASONS_TOURNAMENTSTAB_DOWN
+  rotate: false
+  xy: 737, 88
+  size: 199, 64
+  orig: 199, 64
+  offset: 0, 0
+  index: -1

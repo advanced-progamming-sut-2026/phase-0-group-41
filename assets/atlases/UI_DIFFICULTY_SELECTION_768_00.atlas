@@ -1,0 +1,75 @@
+UI_DIFFICULTY_SELECTION_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_BACKGROUND_CARD
+  rotate: false
+  xy: 1, 765
+  size: 65, 249
+  orig: 65, 249
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_DIFFICULTY_BUTTON_EASY_DOWN
+  rotate: false
+  xy: 1, 399
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_DIFFICULTY_BUTTON_EASY_UP
+  rotate: false
+  xy: 248, 399
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_DIFFICULTY_BUTTON_HARD_DOWN
+  rotate: false
+  xy: 1, 521
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_DIFFICULTY_BUTTON_HARD_UP
+  rotate: false
+  xy: 248, 521
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_DIFFICULTY_BUTTON_MEDIUM_DOWN
+  rotate: false
+  xy: 1, 643
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_DIFFICULTY_BUTTON_MEDIUM_UP
+  rotate: false
+  xy: 248, 643
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_MODIFIER_ARROW_LEFT
+  rotate: false
+  xy: 68, 765
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_MODIFIER_ARROW_RIGHT
+  rotate: false
+  xy: 101, 765
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_DIFFICULTY_SELECTION_ZOMBOSS_METER_ICON
+  rotate: false
+  xy: 1, 1
+  size: 497, 396
+  orig: 497, 396
+  offset: 0, 0
+  index: -1

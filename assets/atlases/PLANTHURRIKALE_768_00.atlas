@@ -1,0 +1,278 @@
+PLANTHURRIKALE_768_00.PNG
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_HURRIKALE_BACK_EFFECT_HURRIKALE_BACK_EFFECT_140X11
+  rotate: false
+  xy: 279, 189
+  size: 90, 7
+  orig: 90, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HURRIKALE_BACK_EFFECT_HURRIKALE_BACK_EFFECT_14X14
+  rotate: false
+  xy: 312, 198
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HURRIKALE_BACK_EFFECT_HURRIKALE_BACK_EFFECT_32X23
+  rotate: false
+  xy: 419, 92
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HURRIKALE_EFFECT_HURRIKALE_EFFECT_140X11
+  rotate: false
+  xy: 161, 198
+  size: 90, 7
+  orig: 90, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HURRIKALE_EFFECT_HURRIKALE_EFFECT_14X14
+  rotate: false
+  xy: 323, 198
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HURRIKALE_EFFECT_HURRIKALE_EFFECT_32X23
+  rotate: false
+  xy: 315, 170
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HURRIKALE_EFFECT_HURRIKALE_EFFECT_546X260
+  rotate: false
+  xy: 1, 1
+  size: 350, 167
+  orig: 350, 167
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_100X81
+  rotate: false
+  xy: 353, 92
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_148X138
+  rotate: false
+  xy: 353, 1
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_14X14
+  rotate: false
+  xy: 334, 198
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_15X14
+  rotate: false
+  xy: 300, 198
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_16X23
+  rotate: false
+  xy: 338, 170
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_17X20
+  rotate: false
+  xy: 421, 186
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_17X21
+  rotate: false
+  xy: 496, 72
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_17X25
+  rotate: false
+  xy: 496, 54
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_24X17
+  rotate: false
+  xy: 371, 189
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_25X18
+  rotate: false
+  xy: 496, 92
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_32X23
+  rotate: false
+  xy: 253, 197
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_33X20
+  rotate: false
+  xy: 439, 151
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_34X19
+  rotate: false
+  xy: 276, 198
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_38X64
+  rotate: false
+  xy: 78, 170
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_41X39
+  rotate: false
+  xy: 251, 170
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_41X43
+  rotate: false
+  xy: 133, 170
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_41X45
+  rotate: false
+  xy: 105, 170
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_42X31
+  rotate: false
+  xy: 392, 186
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_43X40
+  rotate: false
+  xy: 161, 170
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_44X37
+  rotate: false
+  xy: 221, 170
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_44X39
+  rotate: false
+  xy: 191, 170
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_50X70
+  rotate: false
+  xy: 439, 167
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_52X18
+  rotate: false
+  xy: 279, 170
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_53X86
+  rotate: false
+  xy: 472, 110
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_55X59
+  rotate: false
+  xy: 473, 167
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_56X45
+  rotate: false
+  xy: 40, 170
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_58X45
+  rotate: false
+  xy: 1, 170
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_58X63
+  rotate: false
+  xy: 353, 146
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_69X84
+  rotate: false
+  xy: 450, 54
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_70X51
+  rotate: false
+  xy: 392, 151
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_80X60
+  rotate: false
+  xy: 419, 110
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HURRIKALE_HURRIKALE_80X79
+  rotate: false
+  xy: 450, 1
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

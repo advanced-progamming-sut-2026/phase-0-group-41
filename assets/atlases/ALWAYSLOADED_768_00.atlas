@@ -1,0 +1,173 @@
+ALWAYSLOADED_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_DOWNARROW
+  rotate: false
+  xy: 1, 287
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LOAD_ICON_BACK_LOAD_ICON_BACK_80X129
+  rotate: false
+  xy: 451, 1
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LOAD_ICON_FRONT_LOAD_ICON_FRONT_109X109
+  rotate: false
+  xy: 417, 241
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LOAD_ICON_FRONT_LOAD_ICON_FRONT_109X109_2
+  rotate: false
+  xy: 101, 271
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_PINATA_PRIZE_REVEAL_PINATA_PRIZE_REVEAL_153X153
+  rotate: false
+  xy: 1, 187
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_IMAGE
+  rotate: false
+  xy: 490, 170
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_PAM_MISSING_PAM_110X110
+  rotate: false
+  xy: 344, 241
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_PAM_MISSING_PAM_166X166
+  rotate: false
+  xy: 353, 133
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_PAM_MISSING_PAM_1X1
+  rotate: false
+  xy: 504, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_PAM_MISSING_PAM_1X1_2
+  rotate: false
+  xy: 507, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_PAM_MISSING_PAM_203X203
+  rotate: false
+  xy: 187, 1
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_PAM_MISSING_PAM_203X203_2
+  rotate: false
+  xy: 319, 1
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+IMAGE_MISSING_PAM_MISSING_PAM_78X78
+  rotate: false
+  xy: 461, 86
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_SPACE_SPIRAL_RADIAL_SPACE_GRADIENT
+  rotate: false
+  xy: 101, 187
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_SPACE_SPIRAL_SECONDARY_SPACE_GRADIENT
+  rotate: false
+  xy: 185, 234
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_SPACE_SPIRAL_SPACE_DUST
+  rotate: false
+  xy: 187, 133
+  size: 164, 99
+  orig: 164, 99
+  offset: 0, 0
+  index: -1
+IMAGE_SPACE_SPIRAL_SPACE_SPIRAL
+  rotate: false
+  xy: 1, 1
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+IMAGE_ZEN_GARDEN_SPROUTDOOBER_SPROUTDOOBER_113X113
+  rotate: false
+  xy: 269, 234
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZEN_GARDEN_SPROUTDOOBER_SPROUTDOOBER_23X47
+  rotate: false
+  xy: 493, 138
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZEN_GARDEN_SPROUTDOOBER_SPROUTDOOBER_33X14
+  rotate: false
+  xy: 490, 193
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZEN_GARDEN_SPROUTDOOBER_SPROUTDOOBER_39X25
+  rotate: false
+  xy: 461, 215
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZEN_GARDEN_SPROUTDOOBER_SPROUTDOOBER_42X34
+  rotate: false
+  xy: 461, 191
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZEN_GARDEN_SPROUTDOOBER_SPROUTDOOBER_42X36
+  rotate: false
+  xy: 461, 166
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZEN_GARDEN_SPROUTDOOBER_SPROUTDOOBER_46X41
+  rotate: false
+  xy: 461, 138
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,271 @@
+ZOMBIEROMANTOPSHIELDGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_244X60
+  rotate: false
+  xy: 1, 213
+  size: 156, 39
+  orig: 156, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_41X31
+  rotate: false
+  xy: 162, 334
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_ZOMBIE_ROMAN_TOP_SHIELD_BREAK_48X49
+  rotate: false
+  xy: 225, 213
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_135X8
+  rotate: false
+  xy: 1, 351
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_17X40
+  rotate: false
+  xy: 244, 58
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_18X37
+  rotate: false
+  xy: 238, 112
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_19X42
+  rotate: false
+  xy: 240, 29
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_20X40
+  rotate: false
+  xy: 240, 1
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_254X52
+  rotate: false
+  xy: 1, 254
+  size: 163, 34
+  orig: 163, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_254X61
+  rotate: false
+  xy: 1, 172
+  size: 163, 39
+  orig: 163, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_259X49
+  rotate: false
+  xy: 1, 290
+  size: 166, 32
+  orig: 166, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_27X35
+  rotate: false
+  xy: 235, 331
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_28X33
+  rotate: false
+  xy: 132, 347
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_28X52
+  rotate: false
+  xy: 235, 295
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_30X37
+  rotate: false
+  xy: 166, 172
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_33X62
+  rotate: false
+  xy: 212, 295
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_33X72
+  rotate: false
+  xy: 219, 247
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_33X73
+  rotate: false
+  xy: 196, 240
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_36X38
+  rotate: false
+  xy: 30, 324
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_36X39
+  rotate: false
+  xy: 55, 324
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_36X39_2
+  rotate: false
+  xy: 80, 324
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_38X25
+  rotate: false
+  xy: 105, 347
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_38X40
+  rotate: false
+  xy: 166, 252
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_40X33
+  rotate: false
+  xy: 134, 324
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_41X25
+  rotate: false
+  xy: 190, 337
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_42X33
+  rotate: false
+  xy: 105, 324
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_42X36
+  rotate: false
+  xy: 1, 324
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_42X58
+  rotate: false
+  xy: 196, 201
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_44X76
+  rotate: false
+  xy: 166, 201
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_52X31
+  rotate: false
+  xy: 169, 312
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_64X33
+  rotate: false
+  xy: 169, 289
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_6X6
+  rotate: false
+  xy: 251, 86
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_70X71
+  rotate: false
+  xy: 191, 112
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_73X98
+  rotate: false
+  xy: 191, 1
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_76X61
+  rotate: false
+  xy: 191, 160
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_79X69
+  rotate: false
+  xy: 191, 66
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ROMAN_TOP_SHIELD_ZOMBIE_ROMAN_TOP_SHIELD_7X7
+  rotate: false
+  xy: 244, 86
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,516 @@
+PLANTNIGHTSHADE_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_65X42
+  rotate: false
+  xy: 120, 330
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_65X42_2
+  rotate: false
+  xy: 164, 332
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_67X45
+  rotate: false
+  xy: 91, 299
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_67X45_2
+  rotate: false
+  xy: 136, 299
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_67X49
+  rotate: false
+  xy: 91, 236
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_67X49_2
+  rotate: false
+  xy: 213, 236
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_77X58
+  rotate: false
+  xy: 203, 166
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTSHADE_PROJECTILE_NIGHTSHADE_PROJECTILE_77X58_2
+  rotate: false
+  xy: 1, 197
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_125X72
+  rotate: false
+  xy: 1, 42
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_125X72_2
+  rotate: false
+  xy: 83, 42
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_55X55
+  rotate: false
+  xy: 46, 301
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_55X55_2
+  rotate: false
+  xy: 83, 330
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_65X42
+  rotate: false
+  xy: 213, 205
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_65X42_2
+  rotate: false
+  xy: 91, 270
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_67X45
+  rotate: false
+  xy: 46, 270
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_67X45_2
+  rotate: false
+  xy: 213, 270
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_67X49
+  rotate: false
+  xy: 1, 236
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_67X49_2
+  rotate: false
+  xy: 46, 236
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_77X26
+  rotate: false
+  xy: 120, 361
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_77X58
+  rotate: false
+  xy: 165, 42
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_NIGHTSHADE_PROJECTILE_T_NIGHTSHADE_PROJECTILE_77X58_2
+  rotate: false
+  xy: 203, 127
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_11X18
+  rotate: false
+  xy: 207, 1
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_11X9
+  rotate: false
+  xy: 207, 15
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_12X19
+  rotate: false
+  xy: 246, 99
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_13X9
+  rotate: false
+  xy: 165, 81
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_14X12
+  rotate: false
+  xy: 246, 113
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_154X48
+  rotate: false
+  xy: 1, 164
+  size: 99, 31
+  orig: 99, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_154X48_2
+  rotate: false
+  xy: 102, 164
+  size: 99, 31
+  orig: 99, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_154X55
+  rotate: false
+  xy: 1, 127
+  size: 99, 35
+  orig: 99, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_154X55_2
+  rotate: false
+  xy: 102, 127
+  size: 99, 35
+  orig: 99, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_157X54
+  rotate: false
+  xy: 1, 90
+  size: 101, 35
+  orig: 101, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_157X54_2
+  rotate: false
+  xy: 104, 90
+  size: 101, 35
+  orig: 101, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_157X60
+  rotate: false
+  xy: 1, 1
+  size: 101, 39
+  orig: 101, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_157X60_2
+  rotate: false
+  xy: 104, 1
+  size: 101, 39
+  orig: 101, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_15X7
+  rotate: false
+  xy: 176, 81
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_16X15
+  rotate: false
+  xy: 63, 354
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_16X18
+  rotate: false
+  xy: 208, 332
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_16X19
+  rotate: false
+  xy: 208, 346
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_26X21
+  rotate: false
+  xy: 63, 338
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_26X21_2
+  rotate: false
+  xy: 117, 400
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_28X26
+  rotate: false
+  xy: 45, 390
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_28X26_2
+  rotate: false
+  xy: 65, 390
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_28X27
+  rotate: false
+  xy: 136, 236
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_28X27_2
+  rotate: false
+  xy: 117, 380
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_31X40
+  rotate: false
+  xy: 1, 376
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_31X40_2
+  rotate: false
+  xy: 23, 376
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_35X20
+  rotate: false
+  xy: 197, 391
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_35X20_2
+  rotate: false
+  xy: 137, 394
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_38X35
+  rotate: false
+  xy: 181, 273
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_38X35_2
+  rotate: false
+  xy: 228, 361
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_39X32
+  rotate: false
+  xy: 63, 367
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_39X32_2
+  rotate: false
+  xy: 90, 367
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_40X18
+  rotate: false
+  xy: 137, 380
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_40X18_2
+  rotate: false
+  xy: 228, 386
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_40X44
+  rotate: false
+  xy: 172, 361
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_40X44_2
+  rotate: false
+  xy: 200, 361
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_41X102
+  rotate: false
+  xy: 157, 197
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_41X102_2
+  rotate: false
+  xy: 185, 205
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_46X16
+  rotate: false
+  xy: 165, 391
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_46X16_2
+  rotate: false
+  xy: 85, 400
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_46X44
+  rotate: false
+  xy: 226, 301
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_46X44_2
+  rotate: false
+  xy: 226, 331
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_57X73
+  rotate: false
+  xy: 217, 1
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_57X73_2
+  rotate: false
+  xy: 217, 50
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_58X32
+  rotate: false
+  xy: 207, 99
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_67X45
+  rotate: false
+  xy: 181, 301
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_67X45_2
+  rotate: false
+  xy: 1, 304
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_67X49
+  rotate: false
+  xy: 136, 265
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_67X49_2
+  rotate: false
+  xy: 1, 270
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_77X58
+  rotate: false
+  xy: 53, 197
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_77X58_2
+  rotate: false
+  xy: 105, 197
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_93X26
+  rotate: false
+  xy: 1, 338
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTSHADE_NIGHTSHADE_93X26_2
+  rotate: false
+  xy: 1, 357
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1

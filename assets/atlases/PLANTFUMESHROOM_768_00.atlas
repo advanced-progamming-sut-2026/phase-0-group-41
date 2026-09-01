@@ -1,0 +1,250 @@
+PLANTFUMESHROOM_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_FUMESHROOM_BUBBLES_17X19
+  rotate: false
+  xy: 207, 97
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_FUMESHROOM_BUBBLES_18X19
+  rotate: false
+  xy: 171, 125
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_FUMESHROOM_BUBBLES_21X17
+  rotate: false
+  xy: 135, 81
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_FUMESHROOM_BUBBLES_52X52
+  rotate: false
+  xy: 221, 46
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_HIT_FUMESHROOM_BUBBLES_HIT_17X19
+  rotate: false
+  xy: 217, 128
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_HIT_FUMESHROOM_BUBBLES_HIT_18X19
+  rotate: false
+  xy: 185, 125
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_HIT_FUMESHROOM_BUBBLES_HIT_21X17
+  rotate: false
+  xy: 43, 125
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_HIT_FUMESHROOM_BUBBLES_HIT_28X57
+  rotate: false
+  xy: 237, 1
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FUMESHROOM_BUBBLES_HIT_FUMESHROOM_BUBBLES_HIT_29X29
+  rotate: false
+  xy: 235, 112
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_105X76
+  rotate: false
+  xy: 152, 46
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_111X53
+  rotate: false
+  xy: 62, 60
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_114X88
+  rotate: false
+  xy: 77, 1
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_116X89
+  rotate: false
+  xy: 1, 1
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_119X48
+  rotate: false
+  xy: 62, 96
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_11X16
+  rotate: false
+  xy: 109, 129
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_11X8
+  rotate: false
+  xy: 118, 129
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_129X67
+  rotate: false
+  xy: 152, 1
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_14X30
+  rotate: false
+  xy: 135, 60
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_15X14
+  rotate: false
+  xy: 85, 129
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_15X14_2
+  rotate: false
+  xy: 97, 129
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_17X14
+  rotate: false
+  xy: 72, 129
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_17X15
+  rotate: false
+  xy: 59, 129
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_18X22
+  rotate: false
+  xy: 157, 123
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_20X15
+  rotate: false
+  xy: 22, 129
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_23X25
+  rotate: false
+  xy: 140, 123
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_24X26
+  rotate: false
+  xy: 43, 106
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_25X13
+  rotate: false
+  xy: 199, 128
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_29X33
+  rotate: false
+  xy: 22, 106
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_30X44
+  rotate: false
+  xy: 1, 106
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_40X22
+  rotate: false
+  xy: 207, 112
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_42X40
+  rotate: false
+  xy: 178, 97
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_48X44
+  rotate: false
+  xy: 221, 82
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_56X37
+  rotate: false
+  xy: 140, 97
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_8X11
+  rotate: false
+  xy: 127, 129
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_FUMESHROOM_FUMESHROOM_92X69
+  rotate: false
+  xy: 1, 60
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1

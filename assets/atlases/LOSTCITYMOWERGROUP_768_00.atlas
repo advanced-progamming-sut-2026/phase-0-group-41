@@ -1,0 +1,96 @@
+LOSTCITYMOWERGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_132X90
+  rotate: false
+  xy: 1, 1
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_15X16
+  rotate: false
+  xy: 50, 93
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_31X31
+  rotate: false
+  xy: 1, 148
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_31X31_2
+  rotate: false
+  xy: 23, 153
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_46X46
+  rotate: false
+  xy: 50, 61
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_47X47
+  rotate: false
+  xy: 1, 116
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_47X47_2
+  rotate: false
+  xy: 98, 116
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_47X83
+  rotate: false
+  xy: 88, 1
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_47X83_2
+  rotate: false
+  xy: 88, 56
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_63X18
+  rotate: false
+  xy: 33, 139
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_65X17
+  rotate: false
+  xy: 76, 148
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_71X40
+  rotate: false
+  xy: 50, 111
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+IMAGE_MOWERS_MOWER_LOSTCITY_MOWER_LOSTCITY_73X82
+  rotate: false
+  xy: 1, 61
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1

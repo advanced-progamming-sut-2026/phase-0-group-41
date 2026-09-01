@@ -1,0 +1,152 @@
+ZOMBIEPIRATEIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_15X24
+  rotate: false
+  xy: 14, 113
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_167X8
+  rotate: false
+  xy: 1, 106
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_16X25
+  rotate: false
+  xy: 26, 113
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_17X23
+  rotate: false
+  xy: 110, 103
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_17X23_2
+  rotate: false
+  xy: 1, 113
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_17X26
+  rotate: false
+  xy: 98, 58
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_17X27
+  rotate: false
+  xy: 110, 38
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_18X13
+  rotate: false
+  xy: 1, 93
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_18X13_2
+  rotate: false
+  xy: 15, 93
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_18X22
+  rotate: false
+  xy: 111, 58
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_18X29
+  rotate: false
+  xy: 96, 20
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_21X25
+  rotate: false
+  xy: 110, 20
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_22X26
+  rotate: false
+  xy: 113, 1
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_23X26
+  rotate: false
+  xy: 96, 1
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_53X28
+  rotate: false
+  xy: 89, 83
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_65X65
+  rotate: false
+  xy: 1, 49
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_66X33
+  rotate: false
+  xy: 45, 83
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_6X6
+  rotate: false
+  xy: 123, 38
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_70X71
+  rotate: false
+  xy: 1, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_71X62
+  rotate: false
+  xy: 48, 1
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_PIRATE_IMP_ZOMBIE_PIRATE_IMP_75X59
+  rotate: false
+  xy: 48, 43
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1

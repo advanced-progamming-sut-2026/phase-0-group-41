@@ -1,0 +1,61 @@
+HYPNOSHROOMEFFECTS_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_149X149
+  rotate: false
+  xy: 1, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_149X149_2
+  rotate: false
+  xy: 99, 1
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_149X149_3
+  rotate: false
+  xy: 1, 99
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_149X149_4
+  rotate: false
+  xy: 99, 99
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_149X149_5
+  rotate: false
+  xy: 1, 197
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_34X34
+  rotate: false
+  xy: 232, 46
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_51X51
+  rotate: false
+  xy: 197, 46
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HYPNO_ZOMBIE_EFFECT_HYPNO_ZOMBIE_EFFECT_67X67
+  rotate: false
+  xy: 197, 1
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

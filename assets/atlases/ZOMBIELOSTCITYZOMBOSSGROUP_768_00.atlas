@@ -1,0 +1,1083 @@
+ZOMBIELOSTCITYZOMBOSSGROUP_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_AIR_STRIKE_SHADOW_ZOMBOSS_LOSTCITY_AIR_STRIKE_SHADOW_742X680
+  rotate: false
+  xy: 388, 1
+  size: 475, 435
+  orig: 475, 435
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_206X206
+  rotate: false
+  xy: 556, 1272
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_367X132
+  rotate: false
+  xy: 1, 1152
+  size: 235, 85
+  orig: 235, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_36X131
+  rotate: false
+  xy: 589, 1023
+  size: 23, 84
+  orig: 23, 84
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_370X179
+  rotate: false
+  xy: 1, 1577
+  size: 237, 115
+  orig: 237, 115
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_377X377
+  rotate: false
+  xy: 622, 877
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_377X377_2
+  rotate: false
+  xy: 1, 908
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_377X377_3
+  rotate: false
+  xy: 245, 1023
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_41X228
+  rotate: false
+  xy: 420, 1885
+  size: 26, 146
+  orig: 26, 146
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_BOULDER_ZOMBOSS_LOSTCITY_BOULDER_44X297
+  rotate: false
+  xy: 985, 874
+  size: 28, 190
+  orig: 28, 190
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_158X59
+  rotate: false
+  xy: 1, 1903
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_160X38
+  rotate: false
+  xy: 245, 992
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_1X1
+  rotate: false
+  xy: 1018, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_33X183
+  rotate: false
+  xy: 1002, 262
+  size: 21, 117
+  orig: 21, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_34X52
+  rotate: false
+  xy: 839, 1121
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_38X55
+  rotate: false
+  xy: 604, 1950
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_40X49
+  rotate: false
+  xy: 882, 1907
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_40X49_2
+  rotate: false
+  xy: 631, 1950
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_69X72
+  rotate: false
+  xy: 1, 1943
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_87X98
+  rotate: false
+  xy: 104, 1903
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_FIRE_ZOMBOSS_LOSTCITY_FIRE_98X106
+  rotate: false
+  xy: 355, 1885
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_SANDBAG_ZOMBOSS_LOSTCITY_SANDBAG_149X69
+  rotate: false
+  xy: 665, 1886
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_SANDBAG_ZOMBOSS_LOSTCITY_SANDBAG_172X89
+  rotate: false
+  xy: 577, 1820
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_SANDBAG_ZOMBOSS_LOSTCITY_SANDBAG_175X74
+  rotate: false
+  xy: 355, 1835
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_SANDBAG_ZOMBOSS_LOSTCITY_SANDBAG_22X22
+  rotate: false
+  xy: 126, 1549
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_SANDBAG_ZOMBOSS_LOSTCITY_SANDBAG_265X130
+  rotate: false
+  xy: 477, 1705
+  size: 170, 83
+  orig: 170, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_SANDBAG_ZOMBOSS_LOSTCITY_SANDBAG_34X28
+  rotate: false
+  xy: 48, 1239
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBOSS_LOSTCITY_SANDBAG_ZOMBOSS_LOSTCITY_SANDBAG_57X131
+  rotate: false
+  xy: 162, 1936
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_101X132
+  rotate: false
+  xy: 768, 1452
+  size: 65, 85
+  orig: 65, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_101X132_2
+  rotate: false
+  xy: 848, 1820
+  size: 65, 85
+  orig: 65, 85
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_103X101
+  rotate: false
+  xy: 288, 1740
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_105X107
+  rotate: false
+  xy: 596, 1879
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_106X106
+  rotate: false
+  xy: 526, 1879
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_108X94
+  rotate: false
+  xy: 258, 1890
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_110X113
+  rotate: false
+  xy: 152, 1500
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_115X118
+  rotate: false
+  xy: 93, 1825
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_119X108
+  rotate: false
+  xy: 942, 1663
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_119X123
+  rotate: false
+  xy: 277, 1809
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_122X191
+  rotate: false
+  xy: 942, 1213
+  size: 78, 122
+  orig: 78, 122
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_127X127
+  rotate: false
+  xy: 942, 1337
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_128X125
+  rotate: false
+  xy: 942, 1421
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_135X78
+  rotate: false
+  xy: 169, 1884
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_135X85
+  rotate: false
+  xy: 915, 1847
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_137X113
+  rotate: false
+  xy: 187, 1809
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_139X89
+  rotate: false
+  xy: 1, 1839
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_140X140
+  rotate: false
+  xy: 676, 1452
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_141X151
+  rotate: false
+  xy: 1, 1740
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_143X129
+  rotate: false
+  xy: 93, 1740
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_145X99
+  rotate: false
+  xy: 689, 1820
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_149X168
+  rotate: false
+  xy: 919, 1737
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_152X105
+  rotate: false
+  xy: 477, 1790
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_153X107
+  rotate: false
+  xy: 226, 1366
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_153X130
+  rotate: false
+  xy: 489, 1023
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_154X105
+  rotate: false
+  xy: 187, 1740
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_157X514
+  rotate: false
+  xy: 736, 1121
+  size: 101, 329
+  orig: 101, 329
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_157X514_2
+  rotate: false
+  xy: 839, 1213
+  size: 101, 329
+  orig: 101, 329
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_164X55
+  rotate: false
+  xy: 915, 1904
+  size: 105, 35
+  orig: 105, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_16X16
+  rotate: false
+  xy: 1013, 586
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_170X218
+  rotate: false
+  xy: 366, 1693
+  size: 109, 140
+  orig: 109, 140
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_172X46
+  rotate: false
+  xy: 665, 1932
+  size: 110, 30
+  orig: 110, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_175X182
+  rotate: false
+  xy: 901, 1544
+  size: 112, 117
+  orig: 112, 117
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_17X23
+  rotate: false
+  xy: 618, 1790
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_17X39
+  rotate: false
+  xy: 204, 1239
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_17X43
+  rotate: false
+  xy: 1013, 693
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_17X43_2
+  rotate: false
+  xy: 719, 1420
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_180X49
+  rotate: false
+  xy: 556, 1406
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_182X522
+  rotate: false
+  xy: 865, 1
+  size: 117, 334
+  orig: 117, 334
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_182X522_2
+  rotate: false
+  xy: 866, 877
+  size: 117, 334
+  orig: 117, 334
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_18X23
+  rotate: false
+  xy: 649, 1705
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_18X26
+  rotate: false
+  xy: 112, 1549
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_18X28
+  rotate: false
+  xy: 69, 1549
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_19X28
+  rotate: false
+  xy: 83, 1549
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_1X1
+  rotate: false
+  xy: 1021, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_1X1_2
+  rotate: false
+  xy: 1018, 31
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_1X1_3
+  rotate: false
+  xy: 1021, 31
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_200X128
+  rotate: false
+  xy: 245, 908
+  size: 128, 82
+  orig: 128, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_20X110
+  rotate: false
+  xy: 984, 262
+  size: 13, 71
+  orig: 13, 71
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_20X25
+  rotate: false
+  xy: 97, 1549
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_20X32
+  rotate: false
+  xy: 217, 1239
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_210X154
+  rotate: false
+  xy: 865, 337
+  size: 135, 99
+  orig: 135, 99
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_21X25
+  rotate: false
+  xy: 53, 1549
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_21X35
+  rotate: false
+  xy: 155, 1239
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_22X33
+  rotate: false
+  xy: 188, 1239
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_22X39
+  rotate: false
+  xy: 1009, 1184
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_232X73
+  rotate: false
+  xy: 1, 1500
+  size: 149, 47
+  orig: 149, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_23X25
+  rotate: false
+  xy: 36, 1549
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_23X26
+  rotate: false
+  xy: 19, 1549
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_23X33
+  rotate: false
+  xy: 171, 1239
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_24X33
+  rotate: false
+  xy: 137, 1239
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_24X38
+  rotate: false
+  xy: 30, 1239
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_252X210
+  rotate: false
+  xy: 622, 693
+  size: 162, 135
+  orig: 162, 135
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_252X47
+  rotate: false
+  xy: 622, 830
+  size: 162, 30
+  orig: 162, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_25X26
+  rotate: false
+  xy: 1, 1549
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_25X37
+  rotate: false
+  xy: 119, 1239
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_25X49
+  rotate: false
+  xy: 1003, 1503
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_260X683
+  rotate: false
+  xy: 797, 438
+  size: 167, 437
+  orig: 167, 437
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_26X25
+  rotate: false
+  xy: 1002, 420
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_26X35
+  rotate: false
+  xy: 72, 1239
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_27X14
+  rotate: false
+  xy: 622, 862
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_27X14_2
+  rotate: false
+  xy: 642, 862
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_27X57
+  rotate: false
+  xy: 1002, 381
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_293X263
+  rotate: false
+  xy: 366, 1272
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_294X197
+  rotate: false
+  xy: 478, 1577
+  size: 188, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_348X206
+  rotate: false
+  xy: 1, 1366
+  size: 223, 132
+  orig: 223, 132
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_348X206_2
+  rotate: false
+  xy: 226, 1443
+  size: 223, 132
+  orig: 223, 132
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_348X206_3
+  rotate: false
+  xy: 451, 1443
+  size: 223, 132
+  orig: 223, 132
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_348X206_4
+  rotate: false
+  xy: 676, 1544
+  size: 223, 132
+  orig: 223, 132
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_348X49
+  rotate: false
+  xy: 649, 1786
+  size: 223, 32
+  orig: 223, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_34X34
+  rotate: false
+  xy: 985, 1184
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_34X36
+  rotate: false
+  xy: 839, 1183
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_34X37
+  rotate: false
+  xy: 839, 1157
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_362X512
+  rotate: false
+  xy: 388, 693
+  size: 232, 328
+  orig: 232, 328
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_368X177
+  rotate: false
+  xy: 240, 1577
+  size: 236, 114
+  orig: 236, 114
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_383X232
+  rotate: false
+  xy: 489, 1121
+  size: 245, 149
+  orig: 245, 149
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_40X23
+  rotate: false
+  xy: 91, 1239
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_418X73
+  rotate: false
+  xy: 649, 1737
+  size: 268, 47
+  orig: 268, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_424X89
+  rotate: false
+  xy: 668, 1678
+  size: 272, 57
+  orig: 272, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_42X26
+  rotate: false
+  xy: 1, 1239
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_43X22
+  rotate: false
+  xy: 348, 890
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_43X96
+  rotate: false
+  xy: 326, 1366
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_44X76
+  rotate: false
+  xy: 814, 1916
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_49X162
+  rotate: false
+  xy: 848, 1907
+  size: 32, 104
+  orig: 32, 104
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_49X404
+  rotate: false
+  xy: 984, 1
+  size: 32, 259
+  orig: 32, 259
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_50X46
+  rotate: false
+  xy: 570, 1950
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_52X41
+  rotate: false
+  xy: 350, 992
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_539X284
+  rotate: false
+  xy: 1, 724
+  size: 345, 182
+  orig: 345, 182
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_54X65
+  rotate: false
+  xy: 348, 846
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_55X138
+  rotate: false
+  xy: 777, 1916
+  size: 35, 89
+  orig: 35, 89
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_567X151
+  rotate: false
+  xy: 1, 1267
+  size: 363, 97
+  orig: 363, 97
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_567X69
+  rotate: false
+  xy: 1, 1694
+  size: 363, 44
+  orig: 363, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_57X131
+  rotate: false
+  xy: 201, 1936
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_58X181
+  rotate: false
+  xy: 985, 1066
+  size: 37, 116
+  orig: 37, 116
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_58X187
+  rotate: false
+  xy: 348, 724
+  size: 37, 120
+  orig: 37, 120
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_59X53
+  rotate: false
+  xy: 530, 1949
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_5X6
+  rotate: false
+  xy: 1018, 22
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_601X1126
+  rotate: false
+  xy: 1, 1
+  size: 385, 721
+  orig: 385, 721
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_60X44
+  rotate: false
+  xy: 577, 1790
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_60X49
+  rotate: false
+  xy: 874, 1786
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_60X60
+  rotate: false
+  xy: 448, 1948
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_61X61
+  rotate: false
+  xy: 489, 1949
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_62X84
+  rotate: false
+  xy: 941, 1941
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_635X395
+  rotate: false
+  xy: 388, 438
+  size: 407, 253
+  orig: 407, 253
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_63X66
+  rotate: false
+  xy: 983, 1941
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_64X45
+  rotate: false
+  xy: 676, 1420
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_66X228
+  rotate: false
+  xy: 690, 1272
+  size: 42, 146
+  orig: 42, 146
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_70X225
+  rotate: false
+  xy: 966, 586
+  size: 45, 144
+  orig: 45, 144
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_71X219
+  rotate: false
+  xy: 966, 732
+  size: 46, 140
+  orig: 46, 140
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_78X228
+  rotate: false
+  xy: 966, 438
+  size: 50, 146
+  orig: 50, 146
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_78X55
+  rotate: false
+  xy: 47, 1943
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_7X29
+  rotate: false
+  xy: 1018, 1
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_86X136
+  rotate: false
+  xy: 469, 1859
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_89X64
+  rotate: false
+  xy: 882, 1941
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_92X60
+  rotate: false
+  xy: 942, 1503
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_LOSTCITY_ZOMBOSS_ZOMBIE_LOSTCITY_ZOMBOSS_96X146
+  rotate: false
+  xy: 784, 1820
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1

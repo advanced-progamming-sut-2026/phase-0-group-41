@@ -1,0 +1,488 @@
+ZOMBIESPRINGBASICGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_102X81
+  rotate: false
+  xy: 150, 65
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_102X97
+  rotate: false
+  xy: 163, 1
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_103X97
+  rotate: false
+  xy: 82, 64
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_135X8
+  rotate: false
+  xy: 128, 310
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_14X35
+  rotate: false
+  xy: 136, 128
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_20X40
+  rotate: false
+  xy: 240, 334
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_21X48
+  rotate: false
+  xy: 1, 295
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_22X40
+  rotate: false
+  xy: 55, 333
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_22X49
+  rotate: false
+  xy: 112, 290
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_23X41
+  rotate: false
+  xy: 140, 324
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_24X58
+  rotate: false
+  xy: 198, 253
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_28X33
+  rotate: false
+  xy: 195, 324
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_28X46
+  rotate: false
+  xy: 234, 262
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_30X21
+  rotate: false
+  xy: 21, 346
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_30X37
+  rotate: false
+  xy: 72, 268
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_36X23
+  rotate: false
+  xy: 56, 108
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_36X39
+  rotate: false
+  xy: 112, 263
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_36X45
+  rotate: false
+  xy: 224, 231
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_36X47
+  rotate: false
+  xy: 231, 33
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_37X32
+  rotate: false
+  xy: 46, 268
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_37X46
+  rotate: false
+  xy: 231, 1
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_40X25
+  rotate: false
+  xy: 217, 316
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_43X25
+  rotate: false
+  xy: 184, 292
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_52X31
+  rotate: false
+  xy: 188, 231
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_56X30
+  rotate: false
+  xy: 112, 220
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_58X57
+  rotate: false
+  xy: 218, 65
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_60X86
+  rotate: false
+  xy: 162, 174
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_6X6
+  rotate: false
+  xy: 225, 104
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_70X71
+  rotate: false
+  xy: 1, 220
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_79X69
+  rotate: false
+  xy: 56, 174
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_7X7
+  rotate: false
+  xy: 218, 104
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_80X83
+  rotate: false
+  xy: 150, 119
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_80X83_2
+  rotate: false
+  xy: 203, 119
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_82X69
+  rotate: false
+  xy: 56, 128
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_EASTER_ZOMBIE_TUTORIAL_82X82
+  rotate: false
+  xy: 1, 108
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_123X163
+  rotate: false
+  xy: 1, 1
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_123X95
+  rotate: false
+  xy: 82, 1
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_135X8
+  rotate: false
+  xy: 128, 317
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_14X35
+  rotate: false
+  xy: 244, 174
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_20X40
+  rotate: false
+  xy: 112, 342
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_21X48
+  rotate: false
+  xy: 17, 300
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_22X40
+  rotate: false
+  xy: 71, 333
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_22X49
+  rotate: false
+  xy: 46, 291
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_23X194
+  rotate: false
+  xy: 95, 220
+  size: 15, 124
+  orig: 15, 124
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_23X41
+  rotate: false
+  xy: 157, 324
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_24X58
+  rotate: false
+  xy: 216, 262
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_28X33
+  rotate: false
+  xy: 1, 333
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_28X46
+  rotate: false
+  xy: 26, 268
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_30X21
+  rotate: false
+  xy: 87, 346
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_30X31
+  rotate: false
+  xy: 174, 324
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_30X37
+  rotate: false
+  xy: 163, 284
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_31X30
+  rotate: false
+  xy: 33, 325
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_34X30
+  rotate: false
+  xy: 62, 312
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_34X31
+  rotate: false
+  xy: 234, 294
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_36X23
+  rotate: false
+  xy: 215, 334
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_36X39
+  rotate: false
+  xy: 1, 268
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_36X45
+  rotate: false
+  xy: 148, 252
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_36X45_2
+  rotate: false
+  xy: 173, 253
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_36X47
+  rotate: false
+  xy: 111, 128
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_37X32
+  rotate: false
+  xy: 137, 283
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_40X25
+  rotate: false
+  xy: 112, 324
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_43X25
+  rotate: false
+  xy: 62, 294
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_52X31
+  rotate: false
+  xy: 112, 241
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_56X30
+  rotate: false
+  xy: 150, 231
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_60X86
+  rotate: false
+  xy: 203, 174
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_6X6
+  rotate: false
+  xy: 231, 104
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_70X71
+  rotate: false
+  xy: 48, 220
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_79X69
+  rotate: false
+  xy: 109, 174
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_EASTER_ZOMBIE_TUTORIAL_FLAG_EASTER_ZOMBIE_TUTORIAL_FLAG_82X69
+  rotate: false
+  xy: 1, 174
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1

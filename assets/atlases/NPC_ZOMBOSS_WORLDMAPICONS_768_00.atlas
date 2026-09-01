@@ -1,0 +1,145 @@
+NPC_ZOMBOSS_WORLDMAPICONS_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_105X89
+  rotate: false
+  xy: 398, 118
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_109X180
+  rotate: false
+  xy: 398, 1
+  size: 70, 115
+  orig: 70, 115
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_112X114
+  rotate: false
+  xy: 124, 282
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_113X113
+  rotate: false
+  xy: 124, 207
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_134X58
+  rotate: false
+  xy: 1, 330
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_135X135
+  rotate: false
+  xy: 340, 293
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_188X188
+  rotate: false
+  xy: 1, 207
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_19X40
+  rotate: false
+  xy: 497, 126
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_204X215
+  rotate: false
+  xy: 207, 192
+  size: 131, 138
+  orig: 131, 138
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_234X154
+  rotate: false
+  xy: 340, 192
+  size: 150, 99
+  orig: 150, 99
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_23X39
+  rotate: false
+  xy: 492, 177
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_295X295
+  rotate: false
+  xy: 207, 1
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_29X84
+  rotate: false
+  xy: 470, 90
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_319X319
+  rotate: false
+  xy: 1, 1
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_31X53
+  rotate: false
+  xy: 491, 90
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_44X45
+  rotate: false
+  xy: 467, 146
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_45X70
+  rotate: false
+  xy: 470, 1
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_46X62
+  rotate: false
+  xy: 470, 48
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_70X78
+  rotate: false
+  xy: 429, 293
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_NARRATIONICONS_ZOMBOSS_NARRATIONICONS_ZOMBOSS_77X43
+  rotate: false
+  xy: 198, 332
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1

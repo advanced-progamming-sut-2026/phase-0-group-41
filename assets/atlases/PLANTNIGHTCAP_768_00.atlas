@@ -1,0 +1,929 @@
+PLANTNIGHTCAP_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_NIGHTCAP_PROJECTILE_NIGHTCAP_PROJECTILE_161X56
+  rotate: false
+  xy: 223, 338
+  size: 103, 36
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTCAP_PROJECTILE_NIGHTCAP_PROJECTILE_17X28
+  rotate: false
+  xy: 643, 442
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTCAP_PROJECTILE_NIGHTCAP_PROJECTILE_32X37
+  rotate: false
+  xy: 742, 297
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTCAP_PROJECTILE_NIGHTCAP_PROJECTILE_39X54
+  rotate: false
+  xy: 520, 377
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTCAP_PROJECTILE_NIGHTCAP_PROJECTILE_56X40
+  rotate: false
+  xy: 590, 479
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTCAP_PROJECTILE_NIGHTCAP_PROJECTILE_87X57
+  rotate: false
+  xy: 900, 440
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_NIGHTCAP_PROJECTILE_NIGHTCAP_PROJECTILE_96X82
+  rotate: false
+  xy: 955, 1
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_100X55
+  rotate: false
+  xy: 779, 440
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_10X12
+  rotate: false
+  xy: 1013, 90
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_125X132
+  rotate: false
+  xy: 331, 178
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_129X148
+  rotate: false
+  xy: 935, 160
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_134X71
+  rotate: false
+  xy: 935, 257
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_134X71_2
+  rotate: false
+  xy: 223, 290
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_13X10
+  rotate: false
+  xy: 1013, 56
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_13X11
+  rotate: false
+  xy: 1013, 65
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_14X9
+  rotate: false
+  xy: 1013, 100
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_159X85
+  rotate: false
+  xy: 113, 217
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_15X8
+  rotate: false
+  xy: 1013, 108
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_15X8_2
+  rotate: false
+  xy: 538, 423
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_15X9
+  rotate: false
+  xy: 1013, 74
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_15X9_2
+  rotate: false
+  xy: 1013, 82
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_167X165
+  rotate: false
+  xy: 698, 332
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_167X165_2
+  rotate: false
+  xy: 807, 332
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_167X165_3
+  rotate: false
+  xy: 916, 332
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_167X165_4
+  rotate: false
+  xy: 551, 334
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_169X168
+  rotate: false
+  xy: 331, 267
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_169X168_2
+  rotate: false
+  xy: 441, 267
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_169X168_3
+  rotate: false
+  xy: 113, 290
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_169X168_4
+  rotate: false
+  xy: 1, 329
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_172X172
+  rotate: false
+  xy: 219, 178
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_172X172_2
+  rotate: false
+  xy: 1, 217
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_176X115
+  rotate: false
+  xy: 342, 377
+  size: 113, 74
+  orig: 113, 74
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_17X8
+  rotate: false
+  xy: 1011, 153
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_181X109
+  rotate: false
+  xy: 1, 439
+  size: 116, 70
+  orig: 116, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_182X100
+  rotate: false
+  xy: 660, 440
+  size: 117, 64
+  orig: 117, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_182X117
+  rotate: false
+  xy: 223, 377
+  size: 117, 75
+  orig: 117, 75
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_18X6
+  rotate: false
+  xy: 311, 332
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_18X6_2
+  rotate: false
+  xy: 316, 472
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_18X8
+  rotate: false
+  xy: 955, 153
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_18X8_2
+  rotate: false
+  xy: 969, 153
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_18X8_3
+  rotate: false
+  xy: 983, 153
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_18X8_4
+  rotate: false
+  xy: 997, 153
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_209X412
+  rotate: false
+  xy: 424, 1
+  size: 134, 264
+  orig: 134, 264
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_20X9
+  rotate: false
+  xy: 643, 470
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_212X264
+  rotate: false
+  xy: 560, 163
+  size: 136, 169
+  orig: 136, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_21X33
+  rotate: false
+  xy: 746, 251
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_21X33_2
+  rotate: false
+  xy: 746, 274
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_21X49
+  rotate: false
+  xy: 747, 195
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_21X9
+  rotate: false
+  xy: 643, 462
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_23X29
+  rotate: false
+  xy: 311, 290
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_23X29_2
+  rotate: false
+  xy: 311, 311
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_258X265
+  rotate: false
+  xy: 768, 160
+  size: 165, 170
+  orig: 165, 170
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_25X47
+  rotate: false
+  xy: 747, 163
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_27X11
+  rotate: false
+  xy: 742, 323
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_289X245
+  rotate: false
+  xy: 768, 1
+  size: 185, 157
+  orig: 185, 157
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_29X12
+  rotate: false
+  xy: 758, 511
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_29X28
+  rotate: false
+  xy: 746, 231
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_317X273
+  rotate: false
+  xy: 219, 1
+  size: 203, 175
+  orig: 203, 175
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_31X12
+  rotate: false
+  xy: 475, 511
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_321X250
+  rotate: false
+  xy: 560, 1
+  size: 206, 160
+  orig: 206, 160
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_32X14
+  rotate: false
+  xy: 26, 511
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_32X14_2
+  rotate: false
+  xy: 49, 511
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_32X16
+  rotate: false
+  xy: 475, 487
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_32X16_2
+  rotate: false
+  xy: 475, 499
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_32X16_3
+  rotate: false
+  xy: 603, 507
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_32X16_4
+  rotate: false
+  xy: 498, 509
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_32X16_5
+  rotate: false
+  xy: 941, 510
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_337X334
+  rotate: false
+  xy: 1, 1
+  size: 216, 214
+  orig: 216, 214
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_35X13
+  rotate: false
+  xy: 992, 510
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_35X24
+  rotate: false
+  xy: 316, 454
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_36X13
+  rotate: false
+  xy: 1, 511
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_36X22
+  rotate: false
+  xy: 890, 507
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_37X19
+  rotate: false
+  xy: 915, 507
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_38X21
+  rotate: false
+  xy: 149, 274
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_38X53
+  rotate: false
+  xy: 412, 485
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_39X13
+  rotate: false
+  xy: 813, 508
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_39X20
+  rotate: false
+  xy: 576, 507
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_39X34
+  rotate: false
+  xy: 695, 506
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_39X55
+  rotate: false
+  xy: 628, 479
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_40X11
+  rotate: false
+  xy: 72, 511
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_41X12
+  rotate: false
+  xy: 964, 510
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_42X10
+  rotate: false
+  xy: 520, 414
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_43X47
+  rotate: false
+  xy: 158, 489
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_45X37
+  rotate: false
+  xy: 119, 494
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_45X70
+  rotate: false
+  xy: 381, 453
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_47X51
+  rotate: false
+  xy: 202, 479
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_49X50
+  rotate: false
+  xy: 958, 476
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_49X50_2
+  rotate: false
+  xy: 992, 476
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_49X50_3
+  rotate: false
+  xy: 779, 477
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_51X16
+  rotate: false
+  xy: 176, 274
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_51X33
+  rotate: false
+  xy: 234, 506
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_51X36
+  rotate: false
+  xy: 660, 415
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_52X123
+  rotate: false
+  xy: 660, 334
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_52X24
+  rotate: false
+  xy: 722, 506
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_53X19
+  rotate: false
+  xy: 113, 274
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_53X38
+  rotate: false
+  xy: 439, 487
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_53X40
+  rotate: false
+  xy: 854, 483
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_56X40
+  rotate: false
+  xy: 900, 479
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_56X40_2
+  rotate: false
+  xy: 499, 481
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_57X43
+  rotate: false
+  xy: 119, 464
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_57X69
+  rotate: false
+  xy: 342, 453
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_58X27
+  rotate: false
+  xy: 537, 506
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_58X47
+  rotate: false
+  xy: 412, 453
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_58X47_2
+  rotate: false
+  xy: 163, 457
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_58X87
+  rotate: false
+  xy: 499, 423
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_59X25
+  rotate: false
+  xy: 655, 506
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_59X29
+  rotate: false
+  xy: 275, 502
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_59X34
+  rotate: false
+  xy: 322, 499
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_60X35
+  rotate: false
+  xy: 813, 483
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_60X38
+  rotate: false
+  xy: 985, 305
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_61X33
+  rotate: false
+  xy: 362, 500
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_61X38
+  rotate: false
+  xy: 234, 479
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_62X35
+  rotate: false
+  xy: 537, 481
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_62X97
+  rotate: false
+  xy: 457, 423
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_66X45
+  rotate: false
+  xy: 698, 297
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_66X96
+  rotate: false
+  xy: 119, 400
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_70X32
+  rotate: false
+  xy: 275, 479
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_72X99
+  rotate: false
+  xy: 698, 231
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_73X103
+  rotate: false
+  xy: 698, 163
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_73X85
+  rotate: false
+  xy: 163, 400
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_75X38
+  rotate: false
+  xy: 935, 305
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_77X36
+  rotate: false
+  xy: 212, 454
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_77X36_2
+  rotate: false
+  xy: 264, 454
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_78X57
+  rotate: false
+  xy: 538, 442
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_7X7
+  rotate: false
+  xy: 413, 178
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_7X8
+  rotate: false
+  xy: 413, 185
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_80X54
+  rotate: false
+  xy: 590, 442
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_83X64
+  rotate: false
+  xy: 845, 440
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_85X53
+  rotate: false
+  xy: 958, 440
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_87X88
+  rotate: false
+  xy: 955, 56
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_95X69
+  rotate: false
+  xy: 457, 377
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_NIGHTCAP_NIGHTCAP_99X56
+  rotate: false
+  xy: 955, 115
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1

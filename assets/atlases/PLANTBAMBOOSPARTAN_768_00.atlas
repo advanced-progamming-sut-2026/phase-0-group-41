@@ -1,0 +1,607 @@
+PLANTBAMBOOSPARTAN_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_138X170
+  rotate: false
+  xy: 331, 1
+  size: 89, 109
+  orig: 89, 109
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_44X124
+  rotate: false
+  xy: 476, 1
+  size: 28, 80
+  orig: 28, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_46X46
+  rotate: false
+  xy: 240, 242
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_46X46_2
+  rotate: false
+  xy: 272, 242
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_47X47
+  rotate: false
+  xy: 1, 244
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_47X47_2
+  rotate: false
+  xy: 33, 244
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_47X47_3
+  rotate: false
+  xy: 65, 249
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_47X47_4
+  rotate: false
+  xy: 97, 249
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_81X189
+  rotate: false
+  xy: 422, 1
+  size: 52, 121
+  orig: 52, 121
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_BAMBOOSPARTAN_JAB_EFFECT_BAMBOOSPARTAN_JAB_EFFECT_82X103
+  rotate: false
+  xy: 133, 172
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_100X83
+  rotate: false
+  xy: 262, 187
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_108X56
+  rotate: false
+  xy: 1, 206
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_108X93
+  rotate: false
+  xy: 191, 167
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_116X123
+  rotate: false
+  xy: 390, 124
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_12X14
+  rotate: false
+  xy: 115, 281
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_130X113
+  rotate: false
+  xy: 305, 112
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_13X10
+  rotate: false
+  xy: 377, 297
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_14X9
+  rotate: false
+  xy: 226, 289
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_158X43
+  rotate: false
+  xy: 385, 205
+  size: 101, 28
+  orig: 101, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_175X101
+  rotate: false
+  xy: 191, 100
+  size: 112, 65
+  orig: 112, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_18X15
+  rotate: false
+  xy: 459, 300
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_1X1
+  rotate: false
+  xy: 506, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_203X50
+  rotate: false
+  xy: 1, 172
+  size: 130, 32
+  orig: 130, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_20X23
+  rotate: false
+  xy: 112, 295
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_20X33
+  rotate: false
+  xy: 346, 284
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_215X151
+  rotate: false
+  xy: 191, 1
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_21X16
+  rotate: false
+  xy: 319, 299
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_21X19
+  rotate: false
+  xy: 250, 297
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_21X19_2
+  rotate: false
+  xy: 361, 297
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_22X10
+  rotate: false
+  xy: 473, 303
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_22X11
+  rotate: false
+  xy: 489, 303
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_22X12
+  rotate: false
+  xy: 201, 302
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_22X21
+  rotate: false
+  xy: 303, 289
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_23X14
+  rotate: false
+  xy: 466, 194
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_23X26
+  rotate: false
+  xy: 24, 289
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_23X26_2
+  rotate: false
+  xy: 184, 289
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_23X44
+  rotate: false
+  xy: 365, 241
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_24X16
+  rotate: false
+  xy: 156, 298
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_24X16_2
+  rotate: false
+  xy: 411, 298
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_24X17
+  rotate: false
+  xy: 441, 296
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_24X27
+  rotate: false
+  xy: 466, 280
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_25X33
+  rotate: false
+  xy: 304, 266
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_26X53
+  rotate: false
+  xy: 489, 234
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_26X59
+  rotate: false
+  xy: 488, 194
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_28X16
+  rotate: false
+  xy: 41, 296
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_28X20
+  rotate: false
+  xy: 391, 294
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_28X28
+  rotate: false
+  xy: 43, 276
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_293X263
+  rotate: false
+  xy: 1, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_30X16
+  rotate: false
+  xy: 240, 229
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_30X34
+  rotate: false
+  xy: 304, 242
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_33X20
+  rotate: false
+  xy: 1, 289
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_33X24
+  rotate: false
+  xy: 418, 280
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_34X12
+  rotate: false
+  xy: 226, 297
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_34X15
+  rotate: false
+  xy: 63, 295
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_34X20
+  rotate: false
+  xy: 322, 284
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_34X30
+  rotate: false
+  xy: 489, 270
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_35X17
+  rotate: false
+  xy: 201, 289
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_35X22
+  rotate: false
+  xy: 441, 280
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_36X14
+  rotate: false
+  xy: 87, 295
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_36X16
+  rotate: false
+  xy: 305, 100
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_37X12
+  rotate: false
+  xy: 272, 295
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_37X16
+  rotate: false
+  xy: 390, 112
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_37X16_2
+  rotate: false
+  xy: 484, 291
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_37X19
+  rotate: false
+  xy: 63, 281
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_37X19_2
+  rotate: false
+  xy: 89, 281
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_37X26
+  rotate: false
+  xy: 365, 278
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_38X22
+  rotate: false
+  xy: 391, 278
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_39X52
+  rotate: false
+  xy: 129, 273
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_40X35
+  rotate: false
+  xy: 156, 273
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_44X12
+  rotate: false
+  xy: 476, 114
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_45X29
+  rotate: false
+  xy: 272, 274
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_47X32
+  rotate: false
+  xy: 240, 274
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_50X45
+  rotate: false
+  xy: 476, 83
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_55X63
+  rotate: false
+  xy: 328, 241
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_58X28
+  rotate: false
+  xy: 262, 167
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_62X17
+  rotate: false
+  xy: 1, 276
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_68X106
+  rotate: false
+  xy: 466, 124
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_68X19
+  rotate: false
+  xy: 184, 275
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_73X48
+  rotate: false
+  xy: 131, 240
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_73X67
+  rotate: false
+  xy: 440, 235
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_77X69
+  rotate: false
+  xy: 188, 229
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_7X7
+  rotate: false
+  xy: 506, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_7X8
+  rotate: false
+  xy: 506, 8
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_82X64
+  rotate: false
+  xy: 385, 235
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_86X81
+  rotate: false
+  xy: 328, 187
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_BAMBOOSPARTAN_BAMBOOSPARTAN_89X64
+  rotate: false
+  xy: 72, 206
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1

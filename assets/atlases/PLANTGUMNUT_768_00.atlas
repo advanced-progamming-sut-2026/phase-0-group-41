@@ -1,0 +1,516 @@
+PLANTGUMNUT_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GUMNUT_PROJECTILE_GUMNUT_PROJECTILE_508X470
+  rotate: false
+  xy: 1, 1
+  size: 325, 301
+  orig: 325, 301
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GUMNUT_PROJECTILE_HIT_GUMNUT_PROJECTILE_HIT_106X120
+  rotate: false
+  xy: 430, 1
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GUMNUT_PROJECTILE_HIT_GUMNUT_PROJECTILE_HIT_110X65
+  rotate: false
+  xy: 328, 374
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GUMNUT_PROJECTILE_HIT_GUMNUT_PROJECTILE_HIT_16X27
+  rotate: false
+  xy: 500, 1
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GUMNUT_PROJECTILE_HIT_GUMNUT_PROJECTILE_HIT_18X76
+  rotate: false
+  xy: 498, 297
+  size: 12, 49
+  orig: 12, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GUMNUT_PROJECTILE_HIT_GUMNUT_PROJECTILE_HIT_44X85
+  rotate: false
+  xy: 475, 364
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_116X101
+  rotate: false
+  xy: 422, 297
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_12X8
+  rotate: false
+  xy: 464, 204
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_12X8_2
+  rotate: false
+  xy: 401, 409
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_12X9
+  rotate: false
+  xy: 500, 67
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_134X85
+  rotate: false
+  xy: 328, 317
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_137X128
+  rotate: false
+  xy: 422, 213
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_13X10
+  rotate: false
+  xy: 500, 58
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_144X159
+  rotate: false
+  xy: 328, 213
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_156X166
+  rotate: false
+  xy: 328, 1
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_158X159
+  rotate: false
+  xy: 328, 109
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_16X11
+  rotate: false
+  xy: 500, 49
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_17X19
+  rotate: false
+  xy: 500, 21
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_17X19_2
+  rotate: false
+  xy: 500, 35
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_18X19
+  rotate: false
+  xy: 401, 395
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_19X12
+  rotate: false
+  xy: 500, 594
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_19X17
+  rotate: false
+  xy: 486, 594
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_19X29
+  rotate: false
+  xy: 401, 374
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_19X8
+  rotate: false
+  xy: 450, 204
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_1X1
+  rotate: false
+  xy: 510, 67
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_20X14
+  rotate: false
+  xy: 328, 597
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_20X19
+  rotate: false
+  xy: 498, 348
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_21X15
+  rotate: false
+  xy: 470, 594
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_21X17
+  rotate: false
+  xy: 391, 590
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_22X12
+  rotate: false
+  xy: 496, 568
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_24X29
+  rotate: false
+  xy: 496, 535
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_25X16
+  rotate: false
+  xy: 496, 556
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_25X64
+  rotate: false
+  xy: 478, 535
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_26X34
+  rotate: false
+  xy: 429, 576
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_26X36
+  rotate: false
+  xy: 391, 565
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_26X36_2
+  rotate: false
+  xy: 410, 576
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_26X6
+  rotate: false
+  xy: 431, 204
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_27X36
+  rotate: false
+  xy: 371, 565
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_28X21
+  rotate: false
+  xy: 328, 581
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_28X57
+  rotate: false
+  xy: 493, 421
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_29X17
+  rotate: false
+  xy: 370, 590
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_29X29
+  rotate: false
+  xy: 349, 579
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_30X39
+  rotate: false
+  xy: 328, 554
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_31X14
+  rotate: false
+  xy: 391, 418
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_31X14_2
+  rotate: false
+  xy: 448, 592
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_31X36
+  rotate: false
+  xy: 349, 554
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_31X39
+  rotate: false
+  xy: 375, 538
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_31X39_2
+  rotate: false
+  xy: 397, 538
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_37X28
+  rotate: false
+  xy: 419, 556
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_37X28_2
+  rotate: false
+  xy: 445, 556
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_41X21
+  rotate: false
+  xy: 448, 576
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_41X21_2
+  rotate: false
+  xy: 476, 578
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_41X49
+  rotate: false
+  xy: 483, 469
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_46X47
+  rotate: false
+  xy: 362, 504
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_46X64
+  rotate: false
+  xy: 412, 469
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_49X26
+  rotate: false
+  xy: 430, 537
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_508X470
+  rotate: false
+  xy: 1, 304
+  size: 325, 301
+  orig: 325, 301
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_50X47
+  rotate: false
+  xy: 478, 503
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_50X49
+  rotate: false
+  xy: 328, 501
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_50X50
+  rotate: false
+  xy: 444, 503
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_52X37
+  rotate: false
+  xy: 394, 512
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_53X148
+  rotate: false
+  xy: 475, 80
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_53X48
+  rotate: false
+  xy: 475, 177
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_57X50
+  rotate: false
+  xy: 444, 469
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_61X51
+  rotate: false
+  xy: 371, 469
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_64X49
+  rotate: false
+  xy: 328, 467
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_66X190
+  rotate: false
+  xy: 431, 80
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_70X25
+  rotate: false
+  xy: 328, 536
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_70X59
+  rotate: false
+  xy: 446, 429
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_82X59
+  rotate: false
+  xy: 391, 429
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_89X98
+  rotate: false
+  xy: 416, 364
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_8X8
+  rotate: false
+  xy: 505, 362
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GUMNUT_GUMNUT_95X73
+  rotate: false
+  xy: 328, 418
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1

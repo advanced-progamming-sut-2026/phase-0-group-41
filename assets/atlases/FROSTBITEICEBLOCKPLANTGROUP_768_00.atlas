@@ -1,0 +1,180 @@
+FROSTBITEICEBLOCKPLANTGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_FROSTBITE_CHILL_PLANT_FROSTBITE_CHILL_PLANT_13X13
+  rotate: false
+  xy: 478, 1
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_CHILL_PLANT_FROSTBITE_CHILL_PLANT_153X62
+  rotate: false
+  xy: 402, 440
+  size: 98, 40
+  orig: 98, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_CHILL_PLANT_FROSTBITE_CHILL_PLANT_153X79
+  rotate: false
+  xy: 402, 387
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_121X171
+  rotate: false
+  xy: 322, 335
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_146X171
+  rotate: false
+  xy: 1, 255
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_164X171
+  rotate: false
+  xy: 369, 113
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_164X171_2
+  rotate: false
+  xy: 1, 143
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_164X171_3
+  rotate: false
+  xy: 108, 225
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_FROSTBITE_ICE_BLOCK_PLANT_BEHIND_164X171_4
+  rotate: false
+  xy: 215, 225
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_102X249
+  rotate: false
+  xy: 429, 225
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_115X170
+  rotate: false
+  xy: 97, 337
+  size: 74, 109
+  orig: 74, 109
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_13X13
+  rotate: false
+  xy: 489, 1
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_164X169
+  rotate: false
+  xy: 322, 225
+  size: 105, 108
+  orig: 105, 108
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_167X172
+  rotate: false
+  xy: 151, 1
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_167X172_2
+  rotate: false
+  xy: 260, 1
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_167X172_3
+  rotate: false
+  xy: 369, 1
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_167X172_4
+  rotate: false
+  xy: 151, 113
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_167X172_5
+  rotate: false
+  xy: 260, 113
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_1X1
+  rotate: false
+  xy: 500, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_1X1_2
+  rotate: false
+  xy: 503, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_231X219
+  rotate: false
+  xy: 1, 1
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_69X140
+  rotate: false
+  xy: 232, 337
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_87X60
+  rotate: false
+  xy: 1, 420
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_87X79
+  rotate: false
+  xy: 1, 367
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_FROSTBITE_ICE_BLOCK_PLANT_FROSTBITE_ICE_BLOCK_PLANT_88X161
+  rotate: false
+  xy: 173, 337
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1

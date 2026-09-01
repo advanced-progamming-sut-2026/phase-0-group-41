@@ -1,0 +1,152 @@
+NPC_ICEBURG_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_ICEBURG_ICEBURG_109X63
+  rotate: false
+  xy: 357, 441
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_110X625
+  rotate: false
+  xy: 846, 293
+  size: 71, 400
+  orig: 71, 400
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_235X233
+  rotate: false
+  xy: 846, 695
+  size: 151, 149
+  orig: 151, 149
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_366X286
+  rotate: false
+  xy: 1, 988
+  size: 234, 183
+  orig: 234, 183
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_395X352
+  rotate: false
+  xy: 265, 924
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_399X384
+  rotate: false
+  xy: 577, 907
+  size: 256, 246
+  orig: 256, 246
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_399X94
+  rotate: false
+  xy: 237, 1152
+  size: 256, 60
+  orig: 256, 60
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_409X382
+  rotate: false
+  xy: 1, 741
+  size: 262, 245
+  orig: 262, 245
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_417X384
+  rotate: false
+  xy: 577, 659
+  size: 267, 246
+  orig: 267, 246
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_419X410
+  rotate: false
+  xy: 307, 659
+  size: 268, 263
+  orig: 268, 263
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_475X466
+  rotate: false
+  xy: 1, 441
+  size: 304, 298
+  orig: 304, 298
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_569X569
+  rotate: false
+  xy: 447, 293
+  size: 364, 364
+  orig: 364, 364
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_64X31
+  rotate: false
+  xy: 978, 380
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_693X684
+  rotate: false
+  xy: 1, 1
+  size: 444, 438
+  orig: 444, 438
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_71X132
+  rotate: false
+  xy: 978, 293
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_74X154
+  rotate: false
+  xy: 307, 441
+  size: 48, 99
+  orig: 48, 99
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_77X61
+  rotate: false
+  xy: 357, 484
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_867X452
+  rotate: false
+  xy: 447, 1
+  size: 555, 290
+  orig: 555, 290
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_88X177
+  rotate: false
+  xy: 919, 293
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_93X160
+  rotate: false
+  xy: 919, 409
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_ICEBURG_ICEBURG_94X31
+  rotate: false
+  xy: 919, 514
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1

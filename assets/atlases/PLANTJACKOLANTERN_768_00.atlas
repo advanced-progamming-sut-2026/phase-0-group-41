@@ -1,0 +1,985 @@
+PLANTJACKOLANTERN_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_100X90
+  rotate: false
+  xy: 756, 367
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_101X82
+  rotate: false
+  xy: 1, 394
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_107X107
+  rotate: false
+  xy: 119, 279
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_110X122
+  rotate: false
+  xy: 470, 213
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_115X79
+  rotate: false
+  xy: 727, 90
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_121X136
+  rotate: false
+  xy: 353, 75
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_126X125
+  rotate: false
+  xy: 1, 119
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_129X99
+  rotate: false
+  xy: 543, 218
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_136X106
+  rotate: false
+  xy: 292, 164
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_140X46
+  rotate: false
+  xy: 360, 462
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_144X120
+  rotate: false
+  xy: 924, 1
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_146X135
+  rotate: false
+  xy: 615, 1
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_148X102
+  rotate: false
+  xy: 610, 150
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_148X104
+  rotate: false
+  xy: 513, 144
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_150X102
+  rotate: false
+  xy: 727, 144
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_150X104
+  rotate: false
+  xy: 194, 144
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_155X103
+  rotate: false
+  xy: 221, 76
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_169X181
+  rotate: false
+  xy: 1, 1
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_31X31
+  rotate: false
+  xy: 60, 223
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_66X57
+  rotate: false
+  xy: 957, 490
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_84X68
+  rotate: false
+  xy: 237, 456
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_87X87
+  rotate: false
+  xy: 867, 403
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_87X87_2
+  rotate: false
+  xy: 397, 404
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_87X87_3
+  rotate: false
+  xy: 677, 413
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_87X87_4
+  rotate: false
+  xy: 532, 414
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_87X87_5
+  rotate: false
+  xy: 455, 417
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_JACKOLANTERN_FIRE_87X87_6
+  rotate: false
+  xy: 590, 427
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_158X59
+  rotate: false
+  xy: 836, 363
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_160X38
+  rotate: false
+  xy: 793, 479
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_33X183
+  rotate: false
+  xy: 1000, 80
+  size: 21, 117
+  orig: 21, 117
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_34X52
+  rotate: false
+  xy: 648, 427
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_38X55
+  rotate: false
+  xy: 322, 76
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_40X49
+  rotate: false
+  xy: 322, 113
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_40X49_2
+  rotate: false
+  xy: 204, 398
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_69X72
+  rotate: false
+  xy: 980, 217
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_87X98
+  rotate: false
+  xy: 244, 391
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_FIRE_TILE_JACKOLANTERN_FIRE_TILE_98X106
+  rotate: false
+  xy: 261, 321
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_100X90
+  rotate: false
+  xy: 939, 372
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_101X82
+  rotate: false
+  xy: 68, 394
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_105X79
+  rotate: false
+  xy: 135, 398
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_107X107
+  rotate: false
+  xy: 190, 279
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_107X108
+  rotate: false
+  xy: 543, 284
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_107X118
+  rotate: false
+  xy: 628, 218
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_107X82
+  rotate: false
+  xy: 326, 373
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_108X108
+  rotate: false
+  xy: 885, 292
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_108X108_2
+  rotate: false
+  xy: 468, 293
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_108X89
+  rotate: false
+  xy: 685, 354
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_109X105
+  rotate: false
+  xy: 330, 304
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_113X106
+  rotate: false
+  xy: 330, 234
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_114X113
+  rotate: false
+  xy: 905, 217
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_115X79
+  rotate: false
+  xy: 456, 364
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_119X30
+  rotate: false
+  xy: 175, 504
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_121X136
+  rotate: false
+  xy: 433, 75
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_122X121
+  rotate: false
+  xy: 825, 150
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_129X99
+  rotate: false
+  xy: 800, 230
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_134X72
+  rotate: false
+  xy: 156, 350
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_136X106
+  rotate: false
+  xy: 381, 164
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_140X46
+  rotate: false
+  xy: 452, 475
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_144X120
+  rotate: false
+  xy: 807, 65
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_146X135
+  rotate: false
+  xy: 711, 1
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_153X65
+  rotate: false
+  xy: 56, 350
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_168X94
+  rotate: false
+  xy: 84, 119
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_169X181
+  rotate: false
+  xy: 111, 1
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_179X97
+  rotate: false
+  xy: 807, 1
+  size: 115, 62
+  orig: 115, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_200X112
+  rotate: false
+  xy: 485, 1
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_202X114
+  rotate: false
+  xy: 221, 1
+  size: 130, 73
+  orig: 130, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_203X112
+  rotate: false
+  xy: 353, 1
+  size: 130, 72
+  orig: 130, 72
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_20X27
+  rotate: false
+  xy: 885, 251
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_22X15
+  rotate: false
+  xy: 707, 199
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_27X27
+  rotate: false
+  xy: 1005, 394
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_29X15
+  rotate: false
+  xy: 901, 65
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_31X31
+  rotate: false
+  xy: 302, 391
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_57X27
+  rotate: false
+  xy: 253, 502
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_66X57
+  rotate: false
+  xy: 348, 494
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_67X115
+  rotate: false
+  xy: 822, 403
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_71X91
+  rotate: false
+  xy: 836, 296
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_81X134
+  rotate: false
+  xy: 402, 316
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_82X132
+  rotate: false
+  xy: 1, 302
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_84X68
+  rotate: false
+  xy: 648, 471
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_87X87
+  rotate: false
+  xy: 735, 427
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_87X87_2
+  rotate: false
+  xy: 302, 428
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_87X87_3
+  rotate: false
+  xy: 925, 432
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_87X87_4
+  rotate: false
+  xy: 1, 449
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_87X87_5
+  rotate: false
+  xy: 59, 449
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_87X87_6
+  rotate: false
+  xy: 117, 451
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_88X132
+  rotate: false
+  xy: 60, 248
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_94X80
+  rotate: false
+  xy: 175, 451
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_95X122
+  rotate: false
+  xy: 956, 292
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_95X124
+  rotate: false
+  xy: 405, 234
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_95X132
+  rotate: false
+  xy: 267, 234
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_99X117
+  rotate: false
+  xy: 699, 277
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_JACKOLANTERN_WISP_JACKOLANTERN_WISP_9X12
+  rotate: false
+  xy: 1018, 65
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_101X91
+  rotate: false
+  xy: 610, 367
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_107X88
+  rotate: false
+  xy: 539, 355
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_108X108
+  rotate: false
+  xy: 614, 296
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_108X108_2
+  rotate: false
+  xy: 765, 296
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_11X18
+  rotate: false
+  xy: 685, 296
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_139X99
+  rotate: false
+  xy: 176, 213
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_141X101
+  rotate: false
+  xy: 84, 181
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_142X98
+  rotate: false
+  xy: 707, 212
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_145X101
+  rotate: false
+  xy: 905, 150
+  size: 93, 65
+  orig: 93, 65
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_150X106
+  rotate: false
+  xy: 901, 80
+  size: 96, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_152X104
+  rotate: false
+  xy: 513, 75
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_174X91
+  rotate: false
+  xy: 613, 90
+  size: 112, 58
+  orig: 112, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_18X17
+  rotate: false
+  xy: 244, 364
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_18X18
+  rotate: false
+  xy: 92, 335
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_19X18
+  rotate: false
+  xy: 244, 350
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_20X19
+  rotate: false
+  xy: 780, 277
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_20X20
+  rotate: false
+  xy: 765, 277
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_21X29
+  rotate: false
+  xy: 176, 181
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_22X22
+  rotate: false
+  xy: 800, 212
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_22X22_2
+  rotate: false
+  xy: 885, 271
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_22X34
+  rotate: false
+  xy: 707, 175
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_24X30
+  rotate: false
+  xy: 885, 230
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_25X25
+  rotate: false
+  xy: 1000, 199
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_26X36
+  rotate: false
+  xy: 707, 150
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_28X31
+  rotate: false
+  xy: 1005, 372
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_29X27
+  rotate: false
+  xy: 267, 213
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_32X31
+  rotate: false
+  xy: 60, 201
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_34X44
+  rotate: false
+  xy: 1001, 484
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_35X33
+  rotate: false
+  xy: 194, 119
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_36X28
+  rotate: false
+  xy: 292, 144
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_40X39
+  rotate: false
+  xy: 793, 427
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_40X39_2
+  rotate: false
+  xy: 788, 506
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_42X22
+  rotate: false
+  xy: 317, 147
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_42X40
+  rotate: false
+  xy: 983, 456
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_42X40_2
+  rotate: false
+  xy: 759, 485
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_46X42
+  rotate: false
+  xy: 360, 428
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_52X16
+  rotate: false
+  xy: 56, 335
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_57X58
+  rotate: false
+  xy: 470, 164
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_63X34
+  rotate: false
+  xy: 983, 432
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_67X37
+  rotate: false
+  xy: 980, 265
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_68X50
+  rotate: false
+  xy: 392, 494
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_69X56
+  rotate: false
+  xy: 600, 485
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_80X41
+  rotate: false
+  xy: 119, 248
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_82X53
+  rotate: false
+  xy: 704, 485
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_83X51
+  rotate: false
+  xy: 293, 486
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_84X52
+  rotate: false
+  xy: 544, 485
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_89X154
+  rotate: false
+  xy: 1, 201
+  size: 57, 99
+  orig: 57, 99
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_JACKOLANTERN_JACKOLANTERN_89X44
+  rotate: false
+  xy: 898, 490
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1

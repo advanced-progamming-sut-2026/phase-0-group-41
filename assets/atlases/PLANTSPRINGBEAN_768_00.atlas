@@ -1,0 +1,194 @@
+PLANTSPRINGBEAN_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_131X49
+  rotate: false
+  xy: 1, 140
+  size: 84, 32
+  orig: 84, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_149X69
+  rotate: false
+  xy: 1, 94
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_16X12
+  rotate: false
+  xy: 109, 203
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_1X1
+  rotate: false
+  xy: 251, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_22X22
+  rotate: false
+  xy: 177, 94
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_24X27
+  rotate: false
+  xy: 169, 197
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_25X23
+  rotate: false
+  xy: 91, 203
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_298X142
+  rotate: false
+  xy: 1, 1
+  size: 191, 91
+  orig: 191, 91
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_29X22
+  rotate: false
+  xy: 156, 94
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_29X25
+  rotate: false
+  xy: 22, 196
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_29X25_2
+  rotate: false
+  xy: 148, 197
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_29X25_3
+  rotate: false
+  xy: 70, 203
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_29X30
+  rotate: false
+  xy: 212, 194
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_29X30_2
+  rotate: false
+  xy: 233, 194
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_29X30_3
+  rotate: false
+  xy: 1, 196
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_34X28
+  rotate: false
+  xy: 46, 194
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_34X35
+  rotate: false
+  xy: 188, 179
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_55X27
+  rotate: false
+  xy: 46, 174
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_55X41
+  rotate: false
+  xy: 213, 166
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_59X24
+  rotate: false
+  xy: 148, 179
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_66X82
+  rotate: false
+  xy: 213, 111
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_67X31
+  rotate: false
+  xy: 1, 174
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_85X169
+  rotate: false
+  xy: 194, 1
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_86X102
+  rotate: false
+  xy: 99, 94
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_86X102_2
+  rotate: false
+  xy: 156, 111
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_8X10
+  rotate: false
+  xy: 251, 94
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPRINGBEAN_SPRINGBEAN_92X61
+  rotate: false
+  xy: 87, 162
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1

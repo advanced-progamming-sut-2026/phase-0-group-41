@@ -1,0 +1,12 @@
+GRASS_TRANSITION_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_TRANSITION_GRASSTILE
+  rotate: false
+  xy: 1, 1
+  size: 238, 281
+  orig: 238, 281
+  offset: 0, 0
+  index: -1

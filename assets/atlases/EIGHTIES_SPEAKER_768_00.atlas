@@ -1,0 +1,194 @@
+EIGHTIES_SPEAKER_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X133
+  rotate: false
+  xy: 171, 583
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X133_2
+  rotate: false
+  xy: 1, 600
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X239
+  rotate: false
+  xy: 165, 317
+  size: 80, 153
+  orig: 80, 153
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X239_2
+  rotate: false
+  xy: 247, 428
+  size: 80, 153
+  orig: 80, 153
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X245
+  rotate: false
+  xy: 307, 269
+  size: 80, 157
+  orig: 80, 157
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X245_2
+  rotate: false
+  xy: 389, 269
+  size: 80, 157
+  orig: 80, 157
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X245_3
+  rotate: false
+  xy: 1, 291
+  size: 80, 157
+  orig: 80, 157
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X245_4
+  rotate: false
+  xy: 83, 317
+  size: 80, 157
+  orig: 80, 157
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X247
+  rotate: false
+  xy: 143, 157
+  size: 80, 158
+  orig: 80, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_124X247_2
+  rotate: false
+  xy: 225, 157
+  size: 80, 158
+  orig: 80, 158
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_129X191
+  rotate: false
+  xy: 1, 476
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_129X191_2
+  rotate: false
+  xy: 86, 476
+  size: 83, 122
+  orig: 83, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_130X125
+  rotate: false
+  xy: 83, 600
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_172X237
+  rotate: false
+  xy: 384, 1
+  size: 110, 152
+  orig: 110, 152
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_185X175
+  rotate: false
+  xy: 384, 155
+  size: 119, 112
+  orig: 119, 112
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_187X96
+  rotate: false
+  xy: 329, 574
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_199X128
+  rotate: false
+  xy: 329, 428
+  size: 128, 82
+  orig: 128, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_1X1
+  rotate: false
+  xy: 496, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_1X1_2
+  rotate: false
+  xy: 499, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_218X206
+  rotate: false
+  xy: 1, 157
+  size: 140, 132
+  orig: 140, 132
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_22X29
+  rotate: false
+  xy: 496, 1
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_238X94
+  rotate: false
+  xy: 329, 512
+  size: 153, 60
+  orig: 153, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_25X27
+  rotate: false
+  xy: 364, 157
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_43X64
+  rotate: false
+  xy: 471, 315
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_595X240
+  rotate: false
+  xy: 1, 1
+  size: 381, 154
+  orig: 381, 154
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_60X69
+  rotate: false
+  xy: 471, 269
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_80S_SPEAKER_80S_SPEAKER_85X168
+  rotate: false
+  xy: 307, 157
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1

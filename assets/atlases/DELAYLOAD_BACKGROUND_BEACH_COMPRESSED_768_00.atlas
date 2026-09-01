@@ -1,0 +1,54 @@
+DELAYLOAD_BACKGROUND_BEACH_COMPRESSED_768_00.PNG
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_BEACH_BOARDWALK
+  rotate: false
+  xy: 1, 1075
+  size: 1747, 251
+  orig: 1747, 251
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_BEACH_ROCKS
+  rotate: false
+  xy: 1, 771
+  size: 1499, 302
+  orig: 1499, 302
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_BEACH_TEXTURE
+  rotate: false
+  xy: 1, 1
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_BEACH_TEXTURE_LEFT
+  rotate: false
+  xy: 1702, 1
+  size: 278, 768
+  orig: 278, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_BEACH_TEXTURE_RIGHT
+  rotate: false
+  xy: 1027, 1
+  size: 673, 768
+  orig: 673, 768
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_BEACH_WATERSIGN
+  rotate: false
+  xy: 1684, 771
+  size: 146, 263
+  orig: 146, 263
+  offset: 0, 0
+  index: -1
+IMAGE_MINIGAME_BEACH_FOUL
+  rotate: false
+  xy: 1502, 771
+  size: 180, 302
+  orig: 180, 302
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+UI_JOUST_ICONS_768_00.PNG
+size: 256, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_ICONS_CROWNS_CROWNS_LARGE
+  rotate: false
+  xy: 1, 1
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_ICONS_CROWNS_CROWNS_SMALL
+  rotate: false
+  xy: 213, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_ICONS_GAUNTLETS_GAUNTLET
+  rotate: false
+  xy: 142, 1
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_ICONS_GAUNTLETS_GAUNTLET_SMALL
+  rotate: false
+  xy: 213, 33
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

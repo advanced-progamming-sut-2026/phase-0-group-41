@@ -1,0 +1,26 @@
+UI_COMMON_TABS_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_STORE_TABICONS_PLANTS
+  rotate: false
+  xy: 1, 1
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_TABICONS_UPGRADES
+  rotate: false
+  xy: 1, 69
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+IMAGE_UI_STORE_TABICONS_ZOMBIES
+  rotate: false
+  xy: 1, 137
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1

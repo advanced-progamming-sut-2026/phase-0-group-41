@@ -1,0 +1,222 @@
+ZOMBIEPIRATESWASHBUCKLERHOLIDAYGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_IKNODE_1
+  rotate: false
+  xy: 245, 31
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_135X8
+  rotate: false
+  xy: 1, 136
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_156X123
+  rotate: false
+  xy: 1, 1
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_18X39
+  rotate: false
+  xy: 244, 135
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_21X46
+  rotate: false
+  xy: 98, 134
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_23X42
+  rotate: false
+  xy: 227, 135
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_23X46
+  rotate: false
+  xy: 210, 117
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_23X57
+  rotate: false
+  xy: 121, 104
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_28X45
+  rotate: false
+  xy: 138, 115
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_30X31
+  rotate: false
+  xy: 158, 137
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_31X22
+  rotate: false
+  xy: 1, 143
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_31X26
+  rotate: false
+  xy: 179, 140
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_31X43
+  rotate: false
+  xy: 99, 104
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_33X43
+  rotate: false
+  xy: 51, 82
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_34X38
+  rotate: false
+  xy: 74, 109
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_36X33
+  rotate: false
+  xy: 185, 117
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_36X39
+  rotate: false
+  xy: 74, 82
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_36X41
+  rotate: false
+  xy: 1, 82
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_36X41_2
+  rotate: false
+  xy: 26, 82
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_38X31
+  rotate: false
+  xy: 158, 115
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_40X32
+  rotate: false
+  xy: 1, 110
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_43X25
+  rotate: false
+  xy: 227, 117
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_46X40
+  rotate: false
+  xy: 213, 31
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_52X25
+  rotate: false
+  xy: 29, 112
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_52X44
+  rotate: false
+  xy: 213, 1
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_68X34
+  rotate: false
+  xy: 103, 80
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_6X6
+  rotate: false
+  xy: 249, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_70X72
+  rotate: false
+  xy: 209, 69
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_79X69
+  rotate: false
+  xy: 156, 69
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_80X120
+  rotate: false
+  xy: 103, 1
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SWASHBUCKLER_HOLIDAY_ZOMBIE_SWASHBUCKLER_HOLIDAY_85X103
+  rotate: false
+  xy: 156, 1
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1

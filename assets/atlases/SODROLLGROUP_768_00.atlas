@@ -1,0 +1,96 @@
+SODROLLGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SODROLL_SODROLL_138X74
+  rotate: false
+  xy: 139, 1
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_1X1
+  rotate: false
+  xy: 254, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_212X141
+  rotate: false
+  xy: 1, 1
+  size: 136, 90
+  orig: 136, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_22X22
+  rotate: false
+  xy: 230, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_36X117
+  rotate: false
+  xy: 81, 93
+  size: 23, 75
+  orig: 23, 75
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_52X113
+  rotate: false
+  xy: 1, 93
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_58X118
+  rotate: false
+  xy: 197, 51
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_60X58
+  rotate: false
+  xy: 149, 107
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_63X61
+  rotate: false
+  xy: 106, 107
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_66X66
+  rotate: false
+  xy: 37, 93
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_87X84
+  rotate: false
+  xy: 139, 51
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_9X24
+  rotate: false
+  xy: 230, 17
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SODROLL_SODROLL_9X32
+  rotate: false
+  xy: 246, 1
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1

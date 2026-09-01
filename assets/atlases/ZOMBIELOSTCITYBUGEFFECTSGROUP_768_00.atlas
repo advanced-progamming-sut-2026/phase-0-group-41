@@ -1,0 +1,180 @@
+ZOMBIELOSTCITYBUGEFFECTSGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_15X26
+  rotate: false
+  xy: 161, 147
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_16X22
+  rotate: false
+  xy: 173, 147
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_18X14
+  rotate: false
+  xy: 230, 134
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_28X15
+  rotate: false
+  xy: 232, 99
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_29X20
+  rotate: false
+  xy: 234, 64
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_31X29
+  rotate: false
+  xy: 234, 43
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_35X27
+  rotate: false
+  xy: 232, 79
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_37X18
+  rotate: false
+  xy: 230, 120
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_40X30
+  rotate: false
+  xy: 223, 22
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_43X19
+  rotate: false
+  xy: 161, 166
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_47X18
+  rotate: false
+  xy: 82, 157
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_49X29
+  rotate: false
+  xy: 223, 1
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_51X34
+  rotate: false
+  xy: 187, 142
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_53X22
+  rotate: false
+  xy: 46, 157
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_53X30
+  rotate: false
+  xy: 222, 147
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_53X33
+  rotate: false
+  xy: 125, 147
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_63X31
+  rotate: false
+  xy: 187, 120
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_67X25
+  rotate: false
+  xy: 1, 157
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_88X51
+  rotate: false
+  xy: 175, 44
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_8X8
+  rotate: false
+  xy: 175, 79
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_ASH_ZOMBIE_LOSTCITY_BUG_ASH_94X38
+  rotate: false
+  xy: 125, 120
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_SHOCK_ZOMBIE_LOSTCITY_BUG_SHOCK_163X50
+  rotate: false
+  xy: 125, 86
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_SHOCK_ZOMBIE_LOSTCITY_BUG_SHOCK_190X108
+  rotate: false
+  xy: 1, 86
+  size: 122, 69
+  orig: 122, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_SHOCK_ZOMBIE_LOSTCITY_BUG_SHOCK_269X130
+  rotate: false
+  xy: 1, 1
+  size: 172, 83
+  orig: 172, 83
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_LOSTCITY_BUG_SHOCK_ZOMBIE_LOSTCITY_BUG_SHOCK_72X64
+  rotate: false
+  xy: 175, 1
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1

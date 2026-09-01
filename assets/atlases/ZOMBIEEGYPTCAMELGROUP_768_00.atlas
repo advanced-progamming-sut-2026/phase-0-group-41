@@ -1,0 +1,243 @@
+ZOMBIEEGYPTCAMELGROUP_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_112X75
+  rotate: false
+  xy: 226, 188
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_113X202
+  rotate: false
+  xy: 1, 134
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_113X202_2
+  rotate: false
+  xy: 76, 134
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_113X53
+  rotate: false
+  xy: 300, 196
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_113X90
+  rotate: false
+  xy: 390, 134
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_113X94
+  rotate: false
+  xy: 315, 134
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_114X202
+  rotate: false
+  xy: 151, 134
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_116X204
+  rotate: false
+  xy: 1, 1
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_116X204_2
+  rotate: false
+  xy: 77, 1
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_116X204_3
+  rotate: false
+  xy: 153, 1
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_116X204_4
+  rotate: false
+  xy: 229, 1
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_116X204_5
+  rotate: false
+  xy: 305, 1
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_116X204_6
+  rotate: false
+  xy: 381, 1
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_135X8
+  rotate: false
+  xy: 300, 232
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_135X81
+  rotate: false
+  xy: 226, 134
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_14X35
+  rotate: false
+  xy: 375, 196
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_20X40
+  rotate: false
+  xy: 495, 81
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_21X36
+  rotate: false
+  xy: 226, 238
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_21X36_2
+  rotate: false
+  xy: 242, 238
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_25X21
+  rotate: false
+  xy: 495, 109
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_26X46
+  rotate: false
+  xy: 493, 49
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_32X21
+  rotate: false
+  xy: 489, 169
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_34X47
+  rotate: false
+  xy: 465, 169
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_35X31
+  rotate: false
+  xy: 489, 188
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_36X31
+  rotate: false
+  xy: 447, 201
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_40X24
+  rotate: false
+  xy: 477, 228
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_43X25
+  rotate: false
+  xy: 472, 210
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_43X25_2
+  rotate: false
+  xy: 447, 228
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_49X32
+  rotate: false
+  xy: 465, 146
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_52X76
+  rotate: false
+  xy: 457, 49
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_56X35
+  rotate: false
+  xy: 457, 100
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_62X30
+  rotate: false
+  xy: 465, 125
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_70X71
+  rotate: false
+  xy: 457, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_EGYPT_CAMEL_ZOMBIE_EGYPT_CAMEL_86X89
+  rotate: false
+  xy: 390, 194
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1

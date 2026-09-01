@@ -1,0 +1,82 @@
+COLLECTABLENOTES_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NOTES_ZOMBIENOTE_BEACH
+  rotate: false
+  xy: 1, 1
+  size: 176, 128
+  orig: 176, 128
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_COWBOY
+  rotate: false
+  xy: 280, 389
+  size: 142, 119
+  orig: 142, 119
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_DARK
+  rotate: false
+  xy: 179, 1
+  size: 176, 128
+  orig: 176, 128
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_DINO
+  rotate: false
+  xy: 357, 123
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_EGYPT
+  rotate: false
+  xy: 357, 1
+  size: 151, 120
+  orig: 151, 120
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_FUTURE
+  rotate: false
+  xy: 1, 131
+  size: 176, 128
+  orig: 176, 128
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_ICEAGE
+  rotate: false
+  xy: 179, 131
+  size: 176, 128
+  orig: 176, 128
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_LOSTCITY
+  rotate: false
+  xy: 357, 256
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_MODERN
+  rotate: false
+  xy: 1, 261
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_PIRATE
+  rotate: false
+  xy: 138, 382
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+IMAGE_NOTES_ZOMBIENOTE_TUTORIAL
+  rotate: false
+  xy: 138, 261
+  size: 144, 119
+  orig: 144, 119
+  offset: 0, 0
+  index: -1

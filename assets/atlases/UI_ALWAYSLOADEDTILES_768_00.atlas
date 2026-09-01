@@ -1,0 +1,138 @@
+UI_ALWAYSLOADEDTILES_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_CARDS_BACKGROUNDS_BORDER
+  rotate: false
+  xy: 835, 1
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_COINS
+  rotate: false
+  xy: 1, 1
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_BEACH
+  rotate: false
+  xy: 279, 1
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_BEACH_WATER
+  rotate: false
+  xy: 557, 1
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_BOOST
+  rotate: false
+  xy: 1, 276
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_CARNIVAL
+  rotate: false
+  xy: 279, 276
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_COWBOY
+  rotate: false
+  xy: 557, 276
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_DARK
+  rotate: false
+  xy: 1, 551
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_DINO
+  rotate: false
+  xy: 279, 551
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_EGYPT
+  rotate: false
+  xy: 557, 551
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_EIGHTIES
+  rotate: false
+  xy: 1, 826
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_FUTURE
+  rotate: false
+  xy: 279, 826
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_ICEAGE
+  rotate: false
+  xy: 557, 826
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_LOSTCITY
+  rotate: false
+  xy: 1, 1101
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_MODERN
+  rotate: false
+  xy: 279, 1101
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_PIRATE
+  rotate: false
+  xy: 557, 1101
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_ROMAN
+  rotate: false
+  xy: 1, 1376
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_WARP
+  rotate: false
+  xy: 279, 1376
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1
+IMAGE_UI_CARDS_BACKGROUNDS_CARD_PLANT_BG_ZCORP
+  rotate: false
+  xy: 557, 1376
+  size: 276, 273
+  orig: 276, 273
+  offset: 0, 0
+  index: -1

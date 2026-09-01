@@ -1,0 +1,187 @@
+ZOMBIEICEAGEIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_14X11
+  rotate: false
+  xy: 49, 54
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_167X8
+  rotate: false
+  xy: 1, 150
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_17X23
+  rotate: false
+  xy: 117, 128
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_18X13
+  rotate: false
+  xy: 74, 132
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_18X27
+  rotate: false
+  xy: 16, 157
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_19X13
+  rotate: false
+  xy: 30, 157
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_20X20
+  rotate: false
+  xy: 59, 132
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_20X28
+  rotate: false
+  xy: 1, 157
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_21X25
+  rotate: false
+  xy: 43, 132
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_21X27
+  rotate: false
+  xy: 101, 128
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_21X27_2
+  rotate: false
+  xy: 110, 148
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_21X36
+  rotate: false
+  xy: 110, 44
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_22X29
+  rotate: false
+  xy: 110, 89
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_24X27
+  rotate: false
+  xy: 110, 69
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_25X25
+  rotate: false
+  xy: 101, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_27X31
+  rotate: false
+  xy: 108, 22
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_30X30
+  rotate: false
+  xy: 108, 1
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_62X36
+  rotate: false
+  xy: 1, 125
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_66X42
+  rotate: false
+  xy: 1, 96
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_6X6
+  rotate: false
+  xy: 49, 70
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_70X71
+  rotate: false
+  xy: 61, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_71X62
+  rotate: false
+  xy: 1, 54
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_73X68
+  rotate: false
+  xy: 61, 49
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_78X55
+  rotate: false
+  xy: 49, 95
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_7X7
+  rotate: false
+  xy: 49, 63
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_IMP_ZOMBIE_ICEAGE_IMP_91X80
+  rotate: false
+  xy: 1, 1
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1

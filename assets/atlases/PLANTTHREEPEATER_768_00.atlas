@@ -1,0 +1,292 @@
+PLANTTHREEPEATER_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_THREEPEATER_THREEPEATER_10X16
+  rotate: false
+  xy: 78, 106
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_12X12
+  rotate: false
+  xy: 153, 145
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_132X124
+  rotate: false
+  xy: 1, 1
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_14X14
+  rotate: false
+  xy: 103, 120
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_16X21
+  rotate: false
+  xy: 72, 138
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_17X39
+  rotate: false
+  xy: 240, 121
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_17X7
+  rotate: false
+  xy: 163, 146
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_18X20
+  rotate: false
+  xy: 35, 137
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_19X16
+  rotate: false
+  xy: 84, 138
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_21X17
+  rotate: false
+  xy: 214, 137
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_21X20
+  rotate: false
+  xy: 198, 135
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_21X23
+  rotate: false
+  xy: 103, 134
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_21X23_2
+  rotate: false
+  xy: 119, 134
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_21X39
+  rotate: false
+  xy: 141, 102
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_23X17
+  rotate: false
+  xy: 18, 137
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_23X23
+  rotate: false
+  xy: 1, 133
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_24X19
+  rotate: false
+  xy: 135, 134
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_24X26
+  rotate: false
+  xy: 157, 126
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_26X20
+  rotate: false
+  xy: 53, 133
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_26X36
+  rotate: false
+  xy: 236, 24
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_30X32
+  rotate: false
+  xy: 236, 1
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_32X13
+  rotate: false
+  xy: 175, 135
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_35X21
+  rotate: false
+  xy: 215, 121
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_35X25
+  rotate: false
+  xy: 78, 120
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_35X46
+  rotate: false
+  xy: 116, 102
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_36X38
+  rotate: false
+  xy: 53, 106
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_36X45
+  rotate: false
+  xy: 28, 106
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_37X45
+  rotate: false
+  xy: 231, 90
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_38X24
+  rotate: false
+  xy: 188, 117
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_38X74
+  rotate: false
+  xy: 1, 83
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_41X93
+  rotate: false
+  xy: 88, 58
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_44X39
+  rotate: false
+  xy: 158, 99
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_49X38
+  rotate: false
+  xy: 197, 90
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_56X79
+  rotate: false
+  xy: 198, 1
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_58X55
+  rotate: false
+  xy: 158, 62
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_62X59
+  rotate: false
+  xy: 116, 62
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_74X92
+  rotate: false
+  xy: 148, 1
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_77X53
+  rotate: false
+  xy: 198, 54
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_83X32
+  rotate: false
+  xy: 28, 83
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_91X85
+  rotate: false
+  xy: 88, 1
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_THREEPEATER_THREEPEATER_9X17
+  rotate: false
+  xy: 250, 58
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1

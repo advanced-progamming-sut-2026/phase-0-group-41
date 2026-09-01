@@ -1,0 +1,124 @@
+PLANTCONCEALMINT_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_11X17
+  rotate: false
+  xy: 248, 1
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_11X17_2
+  rotate: false
+  xy: 248, 14
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_13X14
+  rotate: false
+  xy: 225, 21
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_167X52
+  rotate: false
+  xy: 116, 1
+  size: 107, 34
+  orig: 107, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_176X69
+  rotate: false
+  xy: 1, 1
+  size: 113, 44
+  orig: 113, 44
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_32X27
+  rotate: false
+  xy: 225, 1
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_32X27_2
+  rotate: false
+  xy: 235, 47
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_47X57
+  rotate: false
+  xy: 215, 97
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_59X72
+  rotate: false
+  xy: 175, 97
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_65X41
+  rotate: false
+  xy: 108, 128
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_70X41
+  rotate: false
+  xy: 1, 107
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_70X73
+  rotate: false
+  xy: 56, 47
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_74X42
+  rotate: false
+  xy: 108, 99
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_77X60
+  rotate: false
+  xy: 56, 96
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_82X91
+  rotate: false
+  xy: 1, 47
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_89X93
+  rotate: false
+  xy: 116, 37
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EMPOWERMINTS_PLANT_CONCEALMINT_CONCEALMINT_90X90
+  rotate: false
+  xy: 175, 37
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

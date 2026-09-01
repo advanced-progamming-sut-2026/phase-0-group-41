@@ -1,0 +1,572 @@
+ZOMBIESUMMERGARGANTUARGROUP_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_101X74
+  rotate: false
+  xy: 1, 549
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_103X117
+  rotate: false
+  xy: 430, 389
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_103X76
+  rotate: false
+  xy: 248, 545
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_105X89
+  rotate: false
+  xy: 179, 507
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_107X95
+  rotate: false
+  xy: 108, 507
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_109X82
+  rotate: false
+  xy: 398, 537
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_10X19
+  rotate: false
+  xy: 90, 425
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_112X99
+  rotate: false
+  xy: 343, 457
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_113X63
+  rotate: false
+  xy: 68, 570
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_116X123
+  rotate: false
+  xy: 267, 389
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_121X75
+  rotate: false
+  xy: 318, 523
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_122X97
+  rotate: false
+  xy: 176, 443
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_123X117
+  rotate: false
+  xy: 186, 366
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_12X15
+  rotate: false
+  xy: 60, 488
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_12X26
+  rotate: false
+  xy: 256, 443
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_12X27
+  rotate: false
+  xy: 500, 216
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_130X112
+  rotate: false
+  xy: 101, 366
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_131X96
+  rotate: false
+  xy: 90, 440
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_132X102
+  rotate: false
+  xy: 343, 389
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_135X8
+  rotate: false
+  xy: 338, 647
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_136X95
+  rotate: false
+  xy: 1, 425
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_13X22
+  rotate: false
+  xy: 498, 409
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_13X23
+  rotate: false
+  xy: 498, 443
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_14X11
+  rotate: false
+  xy: 101, 356
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_14X24
+  rotate: false
+  xy: 499, 373
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_14X25
+  rotate: false
+  xy: 498, 391
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_151X114
+  rotate: false
+  xy: 384, 69
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_153X104
+  rotate: false
+  xy: 1, 356
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_15X24
+  rotate: false
+  xy: 500, 180
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_15X24_2
+  rotate: false
+  xy: 500, 198
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_15X28
+  rotate: false
+  xy: 500, 143
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_164X67
+  rotate: false
+  xy: 1, 504
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_17X23
+  rotate: false
+  xy: 500, 163
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_187X102
+  rotate: false
+  xy: 384, 1
+  size: 120, 66
+  orig: 120, 66
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_18X14
+  rotate: false
+  xy: 46, 488
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_19X15
+  rotate: false
+  xy: 32, 488
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_1X1
+  rotate: false
+  xy: 506, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_20X20
+  rotate: false
+  xy: 499, 358
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_21X25
+  rotate: false
+  xy: 498, 425
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_223X118
+  rotate: false
+  xy: 296, 188
+  size: 143, 76
+  orig: 143, 76
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_224X275
+  rotate: false
+  xy: 150, 188
+  size: 144, 176
+  orig: 144, 176
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_230X270
+  rotate: false
+  xy: 1, 181
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_25X25
+  rotate: false
+  xy: 318, 502
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_269X95
+  rotate: false
+  xy: 296, 266
+  size: 172, 61
+  orig: 172, 61
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_274X90
+  rotate: false
+  xy: 296, 329
+  size: 176, 58
+  orig: 176, 58
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_288X288
+  rotate: false
+  xy: 197, 1
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_303X277
+  rotate: false
+  xy: 1, 1
+  size: 194, 178
+  orig: 194, 178
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_30X30
+  rotate: false
+  xy: 267, 366
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_31X47
+  rotate: false
+  xy: 318, 470
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_32X19
+  rotate: false
+  xy: 483, 129
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_32X40
+  rotate: false
+  xy: 483, 493
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_33X36
+  rotate: false
+  xy: 143, 570
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_34X48
+  rotate: false
+  xy: 483, 96
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_35X28
+  rotate: false
+  xy: 441, 242
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_36X44
+  rotate: false
+  xy: 474, 358
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_38X38
+  rotate: false
+  xy: 483, 466
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_43X39
+  rotate: false
+  xy: 483, 69
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_45X18
+  rotate: false
+  xy: 1, 488
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_49X48
+  rotate: false
+  xy: 474, 325
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_60X48
+  rotate: false
+  xy: 470, 292
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_61X41
+  rotate: false
+  xy: 470, 537
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_63X74
+  rotate: false
+  xy: 470, 242
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_66X33
+  rotate: false
+  xy: 470, 565
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_6X6
+  rotate: false
+  xy: 506, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_70X71
+  rotate: false
+  xy: 291, 626
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_72X71
+  rotate: false
+  xy: 175, 622
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_73X54
+  rotate: false
+  xy: 1, 643
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_75X66
+  rotate: false
+  xy: 429, 641
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_7X7
+  rotate: false
+  xy: 506, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_80X74
+  rotate: false
+  xy: 238, 596
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_81X83
+  rotate: false
+  xy: 375, 592
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_84X60
+  rotate: false
+  xy: 384, 144
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_84X73
+  rotate: false
+  xy: 429, 592
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_87X62
+  rotate: false
+  xy: 117, 613
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_87X64
+  rotate: false
+  xy: 59, 613
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_87X65
+  rotate: false
+  xy: 1, 599
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_88X80
+  rotate: false
+  xy: 316, 573
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_89X149
+  rotate: false
+  xy: 441, 144
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_89X84
+  rotate: false
+  xy: 179, 566
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_93X114
+  rotate: false
+  xy: 256, 470
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_SUMMER_GARGANTUAR_ZOMBIE_SUMMER_GARGANTUAR_99X108
+  rotate: false
+  xy: 417, 466
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1

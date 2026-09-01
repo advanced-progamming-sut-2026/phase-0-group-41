@@ -1,0 +1,341 @@
+PLANTAKEE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_AKEE_PLANTFOOD_PROJECTILE_AKEE_PLANTFOOD_PROJECTILE_30X59
+  rotate: false
+  xy: 1, 196
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_AKEE_PROJECTILE_30X59
+  rotate: false
+  xy: 95, 215
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_12X8
+  rotate: false
+  xy: 246, 35
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_17X19
+  rotate: false
+  xy: 240, 68
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_46X46
+  rotate: false
+  xy: 105, 151
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_47X47
+  rotate: false
+  xy: 212, 154
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_47X47_2
+  rotate: false
+  xy: 31, 162
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_47X47_3
+  rotate: false
+  xy: 63, 162
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_47X47_4
+  rotate: false
+  xy: 95, 183
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_HIT_AKEE_PROJECTILE_HIT_65X61
+  rotate: false
+  xy: 1, 107
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_12X8
+  rotate: false
+  xy: 246, 42
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_17X19
+  rotate: false
+  xy: 240, 82
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_46X46
+  rotate: false
+  xy: 212, 186
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_47X47
+  rotate: false
+  xy: 127, 189
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_47X47_2
+  rotate: false
+  xy: 159, 191
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_47X47_3
+  rotate: false
+  xy: 31, 194
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_47X47_4
+  rotate: false
+  xy: 63, 215
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_AKEE_PROJECTILE_PLANTFOOD_HIT_AKEE_PROJECTILE_PLANTFOOD_HIT_65X61
+  rotate: false
+  xy: 112, 110
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_100X98
+  rotate: false
+  xy: 57, 1
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_12X16
+  rotate: false
+  xy: 246, 15
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_12X19
+  rotate: false
+  xy: 246, 1
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_14X9
+  rotate: false
+  xy: 246, 27
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_15X16
+  rotate: false
+  xy: 156, 125
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_15X20
+  rotate: false
+  xy: 156, 110
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_17X8
+  rotate: false
+  xy: 156, 137
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_1X1
+  rotate: false
+  xy: 246, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_20X10
+  rotate: false
+  xy: 240, 96
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_20X10_2
+  rotate: false
+  xy: 137, 151
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_22X9
+  rotate: false
+  xy: 137, 160
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_25X15
+  rotate: false
+  xy: 240, 56
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_29X15
+  rotate: false
+  xy: 150, 223
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_30X17
+  rotate: false
+  xy: 63, 194
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_30X59
+  rotate: false
+  xy: 191, 218
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_37X63
+  rotate: false
+  xy: 186, 148
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_43X60
+  rotate: false
+  xy: 156, 148
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_44X71
+  rotate: false
+  xy: 1, 148
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_44X73
+  rotate: false
+  xy: 75, 112
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_44X74
+  rotate: false
+  xy: 45, 112
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_49X22
+  rotate: false
+  xy: 116, 221
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_50X71
+  rotate: false
+  xy: 215, 106
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_52X24
+  rotate: false
+  xy: 212, 218
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_65X62
+  rotate: false
+  xy: 171, 106
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_71X81
+  rotate: false
+  xy: 123, 56
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_83X68
+  rotate: false
+  xy: 57, 66
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_84X162
+  rotate: false
+  xy: 1, 1
+  size: 54, 104
+  orig: 54, 104
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_87X83
+  rotate: false
+  xy: 182, 51
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_88X83
+  rotate: false
+  xy: 123, 1
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_AKEE_AKEE_97X74
+  rotate: false
+  xy: 182, 1
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1

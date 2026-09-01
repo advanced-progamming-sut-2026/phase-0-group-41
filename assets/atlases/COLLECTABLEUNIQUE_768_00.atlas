@@ -1,0 +1,404 @@
+COLLECTABLEUNIQUE_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_122X114
+  rotate: false
+  xy: 939, 94
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_122X79
+  rotate: false
+  xy: 946, 244
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_30X36
+  rotate: false
+  xy: 412, 209
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_36X31
+  rotate: false
+  xy: 275, 246
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_40X43
+  rotate: false
+  xy: 516, 437
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_63X24
+  rotate: false
+  xy: 210, 514
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_68X56
+  rotate: false
+  xy: 749, 429
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_71X25
+  rotate: false
+  xy: 169, 222
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_78X99
+  rotate: false
+  xy: 960, 422
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_82X108
+  rotate: false
+  xy: 470, 366
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_87X109
+  rotate: false
+  xy: 946, 350
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_8X11
+  rotate: false
+  xy: 1008, 58
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_8X17
+  rotate: false
+  xy: 1008, 45
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_LUNCHBOX_95X76
+  rotate: false
+  xy: 545, 158
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_122X114
+  rotate: false
+  xy: 946, 169
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_122X79
+  rotate: false
+  xy: 946, 297
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_34X34
+  rotate: false
+  xy: 265, 222
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_36X31
+  rotate: false
+  xy: 275, 268
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_40X43
+  rotate: false
+  xy: 412, 438
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_63X24
+  rotate: false
+  xy: 210, 532
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_68X56
+  rotate: false
+  xy: 470, 437
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_71X25
+  rotate: false
+  xy: 217, 222
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_78X99
+  rotate: false
+  xy: 960, 488
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_87X109
+  rotate: false
+  xy: 412, 366
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_8X17
+  rotate: false
+  xy: 1015, 45
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_LUNCHBOX_SPECIAL_LUNCHBOX_SPECIAL_95X76
+  rotate: false
+  xy: 686, 429
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_BEACH_ACTIVATOR
+  rotate: false
+  xy: 1, 248
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_BEACH_TROPHY
+  rotate: false
+  xy: 699, 209
+  size: 108, 184
+  orig: 108, 184
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_COWBOY_ACTIVATOR
+  rotate: false
+  xy: 138, 248
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_COWBOY_TROPHY
+  rotate: false
+  xy: 609, 1
+  size: 108, 206
+  orig: 108, 206
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_DARK_ACTIVATOR
+  rotate: false
+  xy: 545, 342
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_DARK_TROPHY
+  rotate: false
+  xy: 719, 1
+  size: 108, 206
+  orig: 108, 206
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_DINO_ACTIVATOR
+  rotate: false
+  xy: 809, 347
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_DINO_TROPHY
+  rotate: false
+  xy: 1, 1
+  size: 166, 245
+  orig: 166, 245
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_EGYPT_ACTIVATOR
+  rotate: false
+  xy: 686, 480
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_EGYPT_TROPHY
+  rotate: false
+  xy: 302, 209
+  size: 108, 206
+  orig: 108, 206
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_EIGHTIES_ACTIVATOR
+  rotate: false
+  xy: 1, 381
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_EIGHTIES_TROPHY
+  rotate: false
+  xy: 169, 1
+  size: 131, 219
+  orig: 131, 219
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_FUTURE_ACTIVATOR
+  rotate: false
+  xy: 138, 381
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_FUTURE_TROPHY
+  rotate: false
+  xy: 829, 1
+  size: 108, 206
+  orig: 108, 206
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_ICEAGE_ACTIVATOR
+  rotate: false
+  xy: 275, 417
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_ICEAGE_TROPHY
+  rotate: false
+  xy: 112, 514
+  size: 96, 162
+  orig: 96, 162
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_LOSTCITY_ACTIVATOR
+  rotate: false
+  xy: 412, 475
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_LOSTCITY_TROPHY
+  rotate: false
+  xy: 302, 1
+  size: 131, 206
+  orig: 131, 206
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_MAPGADGET
+  rotate: false
+  xy: 809, 209
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_MODERN_ACTIVATOR
+  rotate: false
+  xy: 545, 209
+  size: 152, 131
+  orig: 152, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_MODERN_TROPHY
+  rotate: false
+  xy: 1, 514
+  size: 109, 150
+  orig: 109, 150
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_MONEYBAG
+  rotate: false
+  xy: 210, 550
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_PIRATE_ACTIVATOR
+  rotate: false
+  xy: 549, 475
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_PIRATE_TROPHY
+  rotate: false
+  xy: 435, 158
+  size: 108, 206
+  orig: 108, 206
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_POWERUPGADGET
+  rotate: false
+  xy: 939, 1
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_SPROUT_SPROUT_179X50
+  rotate: false
+  xy: 682, 395
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_SPROUT_SPROUT_17X15
+  rotate: false
+  xy: 1008, 33
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_SPROUT_SPROUT_23X47
+  rotate: false
+  xy: 1008, 1
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_SPROUT_SPROUT_39X25
+  rotate: false
+  xy: 440, 438
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_TACO
+  rotate: false
+  xy: 823, 480
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+IMAGE_ENDLEVEL_TREASURE_CHEST
+  rotate: false
+  xy: 435, 1
+  size: 172, 155
+  orig: 172, 155
+  offset: 0, 0
+  index: -1

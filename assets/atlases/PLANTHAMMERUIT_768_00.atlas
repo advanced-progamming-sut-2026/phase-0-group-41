@@ -1,0 +1,593 @@
+PLANTHAMMERUIT_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_HAMMERUIT_BACK_FX_HAMMERUIT_BACK_FX_117X191
+  rotate: false
+  xy: 1, 195
+  size: 75, 122
+  orig: 75, 122
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_BACK_FX_HAMMERUIT_BACK_FX_125X125
+  rotate: false
+  xy: 421, 295
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_BACK_FX_HAMMERUIT_BACK_FX_134X134
+  rotate: false
+  xy: 172, 282
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_BACK_FX_HAMMERUIT_BACK_FX_59X95
+  rotate: false
+  xy: 172, 195
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_BACK_FX_HAMMERUIT_BACK_FX_59X95_2
+  rotate: false
+  xy: 324, 442
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_FX_HAMMERUIT_FRONT_FX_101X43
+  rotate: false
+  xy: 184, 502
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_FX_HAMMERUIT_FRONT_FX_106X49
+  rotate: false
+  xy: 364, 475
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_FX_HAMMERUIT_FRONT_FX_109X51
+  rotate: false
+  xy: 247, 467
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_FX_HAMMERUIT_FRONT_FX_112X47
+  rotate: false
+  xy: 434, 475
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_HAMMER_FX_HAMMERUIT_FRONT_HAMMER_FX_153X231
+  rotate: false
+  xy: 360, 1
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_HAMMER_FX_HAMMERUIT_FRONT_HAMMER_FX_58X70
+  rotate: false
+  xy: 473, 507
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_HAMMER_FX_HAMMERUIT_FRONT_HAMMER_FX_63X65
+  rotate: false
+  xy: 251, 502
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_HAMMER_FX_HAMMERUIT_FRONT_HAMMER_FX_77X141
+  rotate: false
+  xy: 460, 1
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_HAMMER_FX_HAMMERUIT_FRONT_HAMMER_FX_87X54
+  rotate: false
+  xy: 456, 254
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_HAMMER_FX_HAMMERUIT_FRONT_HAMMER_FX_90X165
+  rotate: false
+  xy: 1, 319
+  size: 58, 106
+  orig: 58, 106
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_HAMMERUIT_FRONT_HAMMER_FX_HAMMERUIT_FRONT_HAMMER_FX_95X149
+  rotate: false
+  xy: 421, 377
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_11X9
+  rotate: false
+  xy: 347, 231
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_120X132
+  rotate: false
+  xy: 342, 295
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_123X90
+  rotate: false
+  xy: 324, 382
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_125X128
+  rotate: false
+  xy: 260, 282
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_125X128_2
+  rotate: false
+  xy: 78, 295
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_12X10
+  rotate: false
+  xy: 501, 112
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_12X10_2
+  rotate: false
+  xy: 501, 121
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_13X10
+  rotate: false
+  xy: 501, 103
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_143X109
+  rotate: false
+  xy: 160, 370
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_144X153
+  rotate: false
+  xy: 78, 195
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_147X221
+  rotate: false
+  xy: 360, 151
+  size: 94, 142
+  orig: 94, 142
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_14X9
+  rotate: false
+  xy: 501, 130
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_15X8
+  rotate: false
+  xy: 501, 138
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_16X12
+  rotate: false
+  xy: 501, 93
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_177X180
+  rotate: false
+  xy: 216, 165
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_18X15
+  rotate: false
+  xy: 200, 258
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_20X54
+  rotate: false
+  xy: 332, 231
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_21X12
+  rotate: false
+  xy: 124, 427
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_21X33
+  rotate: false
+  xy: 342, 268
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_222X253
+  rotate: false
+  xy: 216, 1
+  size: 142, 162
+  orig: 142, 162
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X15
+  rotate: false
+  xy: 324, 366
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X32
+  rotate: false
+  xy: 473, 554
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X32_2
+  rotate: false
+  xy: 489, 554
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X32_3
+  rotate: false
+  xy: 428, 555
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X32_4
+  rotate: false
+  xy: 444, 555
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X32_5
+  rotate: false
+  xy: 333, 556
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X32_6
+  rotate: false
+  xy: 349, 556
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X32_7
+  rotate: false
+  xy: 365, 559
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X40
+  rotate: false
+  xy: 61, 319
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X40_2
+  rotate: false
+  xy: 61, 347
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X40_3
+  rotate: false
+  xy: 89, 514
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X40_4
+  rotate: false
+  xy: 412, 533
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X40_5
+  rotate: false
+  xy: 89, 542
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X40_6
+  rotate: false
+  xy: 105, 553
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_22X40_7
+  rotate: false
+  xy: 121, 553
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_24X24
+  rotate: false
+  xy: 150, 510
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_27X34
+  rotate: false
+  xy: 412, 509
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_333X300
+  rotate: false
+  xy: 1, 1
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_33X22
+  rotate: false
+  xy: 209, 485
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_35X77
+  rotate: false
+  xy: 238, 546
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_36X23
+  rotate: false
+  xy: 184, 485
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_37X27
+  rotate: false
+  xy: 484, 450
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_38X28
+  rotate: false
+  xy: 484, 430
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_38X99
+  rotate: false
+  xy: 332, 165
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_40X80
+  rotate: false
+  xy: 484, 377
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_41X30
+  rotate: false
+  xy: 172, 258
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_44X71
+  rotate: false
+  xy: 124, 379
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_50X44
+  rotate: false
+  xy: 263, 549
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_52X38
+  rotate: false
+  xy: 297, 549
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_52X75
+  rotate: false
+  xy: 376, 509
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_56X68
+  rotate: false
+  xy: 51, 514
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_56X68_2
+  rotate: false
+  xy: 1, 516
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_57X71
+  rotate: false
+  xy: 434, 507
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_58X70
+  rotate: false
+  xy: 337, 509
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_59X61
+  rotate: false
+  xy: 198, 532
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_61X64
+  rotate: false
+  xy: 109, 510
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_61X77
+  rotate: false
+  xy: 460, 93
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_63X65
+  rotate: false
+  xy: 294, 505
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_72X52
+  rotate: false
+  xy: 150, 532
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_74X135
+  rotate: false
+  xy: 1, 427
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_76X42
+  rotate: false
+  xy: 364, 442
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_7X7
+  rotate: false
+  xy: 347, 239
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_86X157
+  rotate: false
+  xy: 456, 151
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_87X54
+  rotate: false
+  xy: 51, 477
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_90X102
+  rotate: false
+  xy: 124, 442
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_95X149
+  rotate: false
+  xy: 61, 379
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_95X64
+  rotate: false
+  xy: 184, 442
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_HAMMERUIT_HAMMERUIT_96X154
+  rotate: false
+  xy: 260, 366
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1

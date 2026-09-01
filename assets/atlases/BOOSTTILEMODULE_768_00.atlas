@@ -1,0 +1,152 @@
+BOOSTTILEMODULE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_104X64
+  rotate: false
+  xy: 1, 104
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_113X101
+  rotate: false
+  xy: 176, 69
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_114X102
+  rotate: false
+  xy: 176, 1
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_132X132
+  rotate: false
+  xy: 89, 1
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_134X157
+  rotate: false
+  xy: 1, 1
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_1X1
+  rotate: false
+  xy: 251, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_35X35
+  rotate: false
+  xy: 1, 185
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_38X33
+  rotate: false
+  xy: 26, 197
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_38X33_2
+  rotate: false
+  xy: 53, 198
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_38X33_3
+  rotate: false
+  xy: 80, 198
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_38X33_4
+  rotate: false
+  xy: 189, 201
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_43X69
+  rotate: false
+  xy: 139, 88
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_45X33
+  rotate: false
+  xy: 158, 179
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_45X46
+  rotate: false
+  xy: 127, 179
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_46X74
+  rotate: false
+  xy: 45, 147
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_58X45
+  rotate: false
+  xy: 199, 170
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_66X56
+  rotate: false
+  xy: 1, 147
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_75X123
+  rotate: false
+  xy: 89, 88
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_75X42
+  rotate: false
+  xy: 77, 169
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_77X49
+  rotate: false
+  xy: 199, 136
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+IMAGE_BACKGROUNDS_TILE_PLANTFOOD_TILE_PLANTFOOD_90X64
+  rotate: false
+  xy: 139, 136
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1

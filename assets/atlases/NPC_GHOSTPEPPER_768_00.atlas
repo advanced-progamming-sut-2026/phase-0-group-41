@@ -1,0 +1,467 @@
+NPC_GHOSTPEPPER_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_106X27
+  rotate: false
+  xy: 887, 368
+  size: 68, 18
+  orig: 68, 18
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_106X29
+  rotate: false
+  xy: 898, 177
+  size: 68, 19
+  orig: 68, 19
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_110X80
+  rotate: false
+  xy: 853, 596
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_128X55
+  rotate: false
+  xy: 86, 353
+  size: 82, 35
+  orig: 82, 35
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_130X58
+  rotate: false
+  xy: 1, 353
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_161X161
+  rotate: false
+  xy: 464, 773
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_165X73
+  rotate: false
+  xy: 898, 128
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_195X195
+  rotate: false
+  xy: 898, 1
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_199X260
+  rotate: false
+  xy: 887, 199
+  size: 128, 167
+  orig: 128, 167
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_199X73
+  rotate: false
+  xy: 1, 304
+  size: 128, 47
+  orig: 128, 47
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_231X150
+  rotate: false
+  xy: 853, 498
+  size: 148, 96
+  orig: 148, 96
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_231X152
+  rotate: false
+  xy: 853, 398
+  size: 148, 98
+  orig: 148, 98
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_247X145
+  rotate: false
+  xy: 358, 300
+  size: 158, 93
+  orig: 158, 93
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_252X158
+  rotate: false
+  xy: 1, 201
+  size: 162, 101
+  orig: 162, 101
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_264X149
+  rotate: false
+  xy: 358, 202
+  size: 169, 96
+  orig: 169, 96
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_269X307
+  rotate: false
+  xy: 539, 198
+  size: 172, 197
+  orig: 172, 197
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_269X308
+  rotate: false
+  xy: 713, 199
+  size: 172, 197
+  orig: 172, 197
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_26X50
+  rotate: false
+  xy: 1006, 128
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_273X303
+  rotate: false
+  xy: 181, 198
+  size: 175, 194
+  orig: 175, 194
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_273X310
+  rotate: false
+  xy: 362, 1
+  size: 175, 199
+  orig: 175, 199
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_276X306
+  rotate: false
+  xy: 719, 1
+  size: 177, 196
+  orig: 177, 196
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_277X309
+  rotate: false
+  xy: 1, 1
+  size: 178, 198
+  orig: 178, 198
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_278X305
+  rotate: false
+  xy: 539, 1
+  size: 178, 195
+  orig: 178, 195
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_279X305
+  rotate: false
+  xy: 181, 1
+  size: 179, 195
+  orig: 179, 195
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_283X169
+  rotate: false
+  xy: 576, 667
+  size: 181, 108
+  orig: 181, 108
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_287X204
+  rotate: false
+  xy: 1, 667
+  size: 184, 131
+  orig: 184, 131
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_291X145
+  rotate: false
+  xy: 759, 767
+  size: 186, 93
+  orig: 186, 93
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_296X162
+  rotate: false
+  xy: 384, 667
+  size: 190, 104
+  orig: 190, 104
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_298X153
+  rotate: false
+  xy: 759, 667
+  size: 191, 98
+  orig: 191, 98
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_29X22
+  rotate: false
+  xy: 1003, 423
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_304X161
+  rotate: false
+  xy: 187, 667
+  size: 195, 103
+  orig: 195, 103
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_31X21
+  rotate: false
+  xy: 1003, 407
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_31X24
+  rotate: false
+  xy: 1003, 389
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_34X23
+  rotate: false
+  xy: 853, 649
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_38X26
+  rotate: false
+  xy: 106, 800
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_38X27
+  rotate: false
+  xy: 729, 797
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_40X104
+  rotate: false
+  xy: 628, 777
+  size: 26, 67
+  orig: 26, 67
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_41X29
+  rotate: false
+  xy: 952, 654
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_429X111
+  rotate: false
+  xy: 187, 773
+  size: 275, 71
+  orig: 275, 71
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_42X102
+  rotate: false
+  xy: 599, 777
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_42X28
+  rotate: false
+  xy: 729, 777
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_42X92
+  rotate: false
+  xy: 700, 777
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_440X134
+  rotate: false
+  xy: 1, 579
+  size: 282, 86
+  orig: 282, 86
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_440X134_2
+  rotate: false
+  xy: 285, 579
+  size: 282, 86
+  orig: 282, 86
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_440X134_3
+  rotate: false
+  xy: 569, 579
+  size: 282, 86
+  orig: 282, 86
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_440X139
+  rotate: false
+  xy: 1, 394
+  size: 282, 89
+  orig: 282, 89
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_440X139_2
+  rotate: false
+  xy: 285, 397
+  size: 282, 89
+  orig: 282, 89
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_440X139_3
+  rotate: false
+  xy: 569, 398
+  size: 282, 89
+  orig: 282, 89
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_441X137
+  rotate: false
+  xy: 1, 488
+  size: 282, 88
+  orig: 282, 88
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_441X137_2
+  rotate: false
+  xy: 285, 489
+  size: 282, 88
+  orig: 282, 88
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_441X137_3
+  rotate: false
+  xy: 569, 489
+  size: 282, 88
+  orig: 282, 88
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_44X71
+  rotate: false
+  xy: 993, 719
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_44X99
+  rotate: false
+  xy: 569, 777
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_46X29
+  rotate: false
+  xy: 74, 800
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_47X122
+  rotate: false
+  xy: 981, 596
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_53X45
+  rotate: false
+  xy: 38, 800
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_53X96
+  rotate: false
+  xy: 947, 776
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_55X63
+  rotate: false
+  xy: 1, 800
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_56X86
+  rotate: false
+  xy: 983, 776
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_60X86
+  rotate: false
+  xy: 952, 719
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_62X73
+  rotate: false
+  xy: 131, 304
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_66X63
+  rotate: false
+  xy: 656, 777
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_82X87
+  rotate: false
+  xy: 926, 596
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_86X30
+  rotate: false
+  xy: 968, 177
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_86X30_2
+  rotate: false
+  xy: 957, 368
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+IMAGE_NPC_GHOSTPEPPER_GHOSTPEPPER_88X63
+  rotate: false
+  xy: 952, 676
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1

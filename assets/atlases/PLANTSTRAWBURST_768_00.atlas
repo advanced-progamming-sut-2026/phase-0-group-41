@@ -1,0 +1,1517 @@
+PLANTSTRAWBURST_768_00.PNG
+size: 512, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_123X354
+  rotate: false
+  xy: 1, 173
+  size: 79, 227
+  orig: 79, 227
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_126X147
+  rotate: false
+  xy: 154, 408
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_128X133
+  rotate: false
+  xy: 328, 464
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_14X24
+  rotate: false
+  xy: 502, 680
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_15X22
+  rotate: false
+  xy: 326, 743
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_163X31
+  rotate: false
+  xy: 99, 677
+  size: 105, 20
+  orig: 105, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_16X12
+  rotate: false
+  xy: 137, 215
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_16X18
+  rotate: false
+  xy: 339, 726
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_18X18
+  rotate: false
+  xy: 131, 802
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_190X198
+  rotate: false
+  xy: 366, 227
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_1X1
+  rotate: false
+  xy: 509, 75
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_1X1_2
+  rotate: false
+  xy: 509, 78
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_201X59
+  rotate: false
+  xy: 79, 553
+  size: 129, 38
+  orig: 129, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_214X192
+  rotate: false
+  xy: 227, 227
+  size: 137, 123
+  orig: 137, 123
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_216X204
+  rotate: false
+  xy: 353, 1
+  size: 138, 131
+  orig: 138, 131
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_223X194
+  rotate: false
+  xy: 82, 227
+  size: 143, 124
+  orig: 143, 124
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_231X73
+  rotate: false
+  xy: 154, 504
+  size: 148, 47
+  orig: 148, 47
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_263X249
+  rotate: false
+  xy: 182, 1
+  size: 169, 160
+  orig: 169, 160
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_26X27
+  rotate: false
+  xy: 64, 768
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_26X27_2
+  rotate: false
+  xy: 260, 768
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_26X27_3
+  rotate: false
+  xy: 425, 768
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_27X29
+  rotate: false
+  xy: 436, 747
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_280X265
+  rotate: false
+  xy: 1, 1
+  size: 179, 170
+  orig: 179, 170
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_28X33
+  rotate: false
+  xy: 304, 495
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_28X33_2
+  rotate: false
+  xy: 304, 518
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_34X43
+  rotate: false
+  xy: 490, 352
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_41X32
+  rotate: false
+  xy: 457, 742
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_457X78
+  rotate: false
+  xy: 82, 356
+  size: 293, 50
+  orig: 293, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_464X96
+  rotate: false
+  xy: 182, 163
+  size: 297, 62
+  orig: 297, 62
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_55X24
+  rotate: false
+  xy: 1, 742
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_55X25
+  rotate: false
+  xy: 38, 742
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_56X24
+  rotate: false
+  xy: 117, 729
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_56X26
+  rotate: false
+  xy: 79, 729
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_56X28
+  rotate: false
+  xy: 372, 551
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_57X33
+  rotate: false
+  xy: 353, 718
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_58X35
+  rotate: false
+  xy: 1, 717
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_58X58
+  rotate: false
+  xy: 468, 505
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_58X58_2
+  rotate: false
+  xy: 390, 640
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_60X61
+  rotate: false
+  xy: 468, 464
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_61X44
+  rotate: false
+  xy: 95, 699
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_63X23
+  rotate: false
+  xy: 296, 726
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_71X32
+  rotate: false
+  xy: 99, 652
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_78X55
+  rotate: false
+  xy: 265, 678
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_88X55
+  rotate: false
+  xy: 206, 678
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_8X11
+  rotate: false
+  xy: 481, 210
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_8X11_2
+  rotate: false
+  xy: 173, 215
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PLANTFOOD_PROJECTILE_STRAWBURST_PLANTFOOD_PROJECTILE_8X9
+  rotate: false
+  xy: 481, 219
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_138X133
+  rotate: false
+  xy: 237, 408
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_14X24
+  rotate: false
+  xy: 502, 698
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_15X22
+  rotate: false
+  xy: 314, 800
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_15X22_2
+  rotate: false
+  xy: 206, 802
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_16X12
+  rotate: false
+  xy: 149, 215
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_16X18
+  rotate: false
+  xy: 473, 802
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_17X21
+  rotate: false
+  xy: 388, 762
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_183X40
+  rotate: false
+  xy: 353, 134
+  size: 117, 26
+  orig: 117, 26
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_185X47
+  rotate: false
+  xy: 1, 593
+  size: 119, 30
+  orig: 119, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_18X18
+  rotate: false
+  xy: 145, 802
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_1X1
+  rotate: false
+  xy: 509, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_1X1_2
+  rotate: false
+  xy: 509, 84
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_21X18
+  rotate: false
+  xy: 31, 801
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_21X23
+  rotate: false
+  xy: 226, 788
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_22X25
+  rotate: false
+  xy: 190, 787
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_23X17
+  rotate: false
+  xy: 47, 802
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_23X19
+  rotate: false
+  xy: 346, 800
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_23X25
+  rotate: false
+  xy: 83, 785
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_24X22
+  rotate: false
+  xy: 177, 699
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_24X24
+  rotate: false
+  xy: 365, 783
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_24X29
+  rotate: false
+  xy: 328, 781
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_24X31
+  rotate: false
+  xy: 224, 766
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_26X20
+  rotate: false
+  xy: 490, 337
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_26X26
+  rotate: false
+  xy: 346, 781
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_26X27
+  rotate: false
+  xy: 388, 780
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_26X27_2
+  rotate: false
+  xy: 1, 781
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_26X30
+  rotate: false
+  xy: 456, 765
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_26X55
+  rotate: false
+  xy: 493, 1
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_27X18
+  rotate: false
+  xy: 58, 788
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_27X29
+  rotate: false
+  xy: 288, 762
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_27X29_2
+  rotate: false
+  xy: 368, 762
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_28X33
+  rotate: false
+  xy: 491, 571
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_28X33_2
+  rotate: false
+  xy: 491, 594
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_32X32
+  rotate: false
+  xy: 490, 314
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_32X35
+  rotate: false
+  xy: 490, 240
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_37X29
+  rotate: false
+  xy: 216, 745
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_38X34
+  rotate: false
+  xy: 179, 593
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_41X23
+  rotate: false
+  xy: 374, 745
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_42X29
+  rotate: false
+  xy: 480, 659
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_44X26
+  rotate: false
+  xy: 296, 743
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_50X52
+  rotate: false
+  xy: 268, 553
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_52X59
+  rotate: false
+  xy: 317, 686
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_54X59
+  rotate: false
+  xy: 428, 681
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_58X35
+  rotate: false
+  xy: 40, 717
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_58X43
+  rotate: false
+  xy: 218, 715
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_61X44
+  rotate: false
+  xy: 136, 699
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_65X62
+  rotate: false
+  xy: 137, 173
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_70X54
+  rotate: false
+  xy: 1, 680
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_73X83
+  rotate: false
+  xy: 1, 625
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_82X75
+  rotate: false
+  xy: 82, 173
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_84X163
+  rotate: false
+  xy: 412, 464
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_86X89
+  rotate: false
+  xy: 122, 593
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_87X104
+  rotate: false
+  xy: 210, 553
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_87X83
+  rotate: false
+  xy: 179, 622
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_8X11
+  rotate: false
+  xy: 248, 495
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_8X11_2
+  rotate: false
+  xy: 255, 495
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_STRAWBURST_PROJECTILES_STRAWBURST_PROJECTILES_8X9
+  rotate: false
+  xy: 276, 495
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_103X111
+  rotate: false
+  xy: 304, 551
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_119X114
+  rotate: false
+  xy: 1, 510
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_139X156
+  rotate: false
+  xy: 1, 408
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_13X10
+  rotate: false
+  xy: 237, 495
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_14X13
+  rotate: false
+  xy: 498, 161
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_14X24
+  rotate: false
+  xy: 444, 768
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_14X50
+  rotate: false
+  xy: 79, 510
+  size: 9, 32
+  orig: 9, 32
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_154X36
+  rotate: false
+  xy: 237, 653
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_156X42
+  rotate: false
+  xy: 237, 624
+  size: 100, 27
+  orig: 100, 27
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_15X22
+  rotate: false
+  xy: 326, 802
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_15X22_2
+  rotate: false
+  xy: 461, 802
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_16X12
+  rotate: false
+  xy: 161, 215
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_16X18
+  rotate: false
+  xy: 81, 803
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_172X165
+  rotate: false
+  xy: 377, 356
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_17X21
+  rotate: false
+  xy: 461, 786
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_18X18
+  rotate: false
+  xy: 159, 802
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_18X20
+  rotate: false
+  xy: 83, 768
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_19X19
+  rotate: false
+  xy: 173, 802
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_19X20
+  rotate: false
+  xy: 117, 802
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_1X1
+  rotate: false
+  xy: 509, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_1X1_2
+  rotate: false
+  xy: 509, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_20X20
+  rotate: false
+  xy: 1, 801
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_20X20_2
+  rotate: false
+  xy: 16, 801
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_20X22
+  rotate: false
+  xy: 263, 788
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_21X18
+  rotate: false
+  xy: 242, 801
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_21X19
+  rotate: false
+  xy: 278, 801
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_21X19_2
+  rotate: false
+  xy: 363, 801
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_21X20
+  rotate: false
+  xy: 423, 788
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_21X20_2
+  rotate: false
+  xy: 298, 800
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_21X22
+  rotate: false
+  xy: 98, 748
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_22X27
+  rotate: false
+  xy: 407, 780
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_22X27_2
+  rotate: false
+  xy: 493, 784
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_22X60
+  rotate: false
+  xy: 493, 75
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_23X12
+  rotate: false
+  xy: 481, 161
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_23X17
+  rotate: false
+  xy: 64, 802
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_23X19
+  rotate: false
+  xy: 383, 800
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_23X19_2
+  rotate: false
+  xy: 400, 800
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_23X24
+  rotate: false
+  xy: 100, 785
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_23X25
+  rotate: false
+  xy: 444, 786
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_23X26
+  rotate: false
+  xy: 308, 762
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_24X22
+  rotate: false
+  xy: 155, 729
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_24X24
+  rotate: false
+  xy: 154, 784
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_24X24_2
+  rotate: false
+  xy: 172, 784
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_24X25
+  rotate: false
+  xy: 475, 784
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_24X27
+  rotate: false
+  xy: 118, 782
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_24X28
+  rotate: false
+  xy: 136, 782
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_24X31
+  rotate: false
+  xy: 242, 766
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_26X20
+  rotate: false
+  xy: 489, 449
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_26X24
+  rotate: false
+  xy: 279, 783
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_26X27
+  rotate: false
+  xy: 20, 781
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_26X27_2
+  rotate: false
+  xy: 39, 781
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_26X30
+  rotate: false
+  xy: 205, 766
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_26X55
+  rotate: false
+  xy: 493, 38
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_27X18
+  rotate: false
+  xy: 206, 788
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_27X28
+  rotate: false
+  xy: 164, 764
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_27X29
+  rotate: false
+  xy: 185, 763
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_27X29_2
+  rotate: false
+  xy: 485, 763
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_28X24
+  rotate: false
+  xy: 493, 116
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_28X26
+  rotate: false
+  xy: 308, 781
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_28X29
+  rotate: false
+  xy: 98, 764
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_28X33
+  rotate: false
+  xy: 99, 625
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_28X33_2
+  rotate: false
+  xy: 268, 745
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_29X43
+  rotate: false
+  xy: 490, 210
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_30X17
+  rotate: false
+  xy: 242, 788
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_30X30
+  rotate: false
+  xy: 493, 721
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_30X30_2
+  rotate: false
+  xy: 1, 760
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_30X30_3
+  rotate: false
+  xy: 22, 760
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_30X30_4
+  rotate: false
+  xy: 43, 760
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_30X30_5
+  rotate: false
+  xy: 326, 760
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_30X30_6
+  rotate: false
+  xy: 347, 760
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_31X31
+  rotate: false
+  xy: 489, 427
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_32X25
+  rotate: false
+  xy: 118, 764
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_32X25_2
+  rotate: false
+  xy: 141, 764
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_32X26
+  rotate: false
+  xy: 402, 761
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_32X27
+  rotate: false
+  xy: 75, 748
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_32X31
+  rotate: false
+  xy: 489, 405
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_32X34
+  rotate: false
+  xy: 490, 290
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_32X35
+  rotate: false
+  xy: 490, 265
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_33X32
+  rotate: false
+  xy: 489, 382
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_37X29
+  rotate: false
+  xy: 242, 745
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_38X34
+  rotate: false
+  xy: 147, 652
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_40X18
+  rotate: false
+  xy: 339, 624
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_41X23
+  rotate: false
+  xy: 117, 747
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_42X29
+  rotate: false
+  xy: 485, 742
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_44X26
+  rotate: false
+  xy: 155, 745
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_45X24
+  rotate: false
+  xy: 185, 745
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_46X44
+  rotate: false
+  xy: 480, 629
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_47X39
+  rotate: false
+  xy: 392, 718
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_48X37
+  rotate: false
+  xy: 424, 721
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_48X55
+  rotate: false
+  xy: 481, 173
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_50X19
+  rotate: false
+  xy: 402, 747
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_50X43
+  rotate: false
+  xy: 268, 589
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_51X26
+  rotate: false
+  xy: 339, 741
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_52X29
+  rotate: false
+  xy: 457, 721
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_52X43
+  rotate: false
+  xy: 353, 686
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_54X59
+  rotate: false
+  xy: 465, 681
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_56X57
+  rotate: false
+  xy: 390, 679
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_57X38
+  rotate: false
+  xy: 472, 134
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_58X43
+  rotate: false
+  xy: 257, 715
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_61X44
+  rotate: false
+  xy: 177, 715
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_68X38
+  rotate: false
+  xy: 468, 544
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_70X54
+  rotate: false
+  xy: 48, 680
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_71X78
+  rotate: false
+  xy: 328, 408
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_73X83
+  rotate: false
+  xy: 50, 625
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_75X77
+  rotate: false
+  xy: 430, 629
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_76X69
+  rotate: false
+  xy: 339, 640
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_87X104
+  rotate: false
+  xy: 372, 571
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_8X11
+  rotate: false
+  xy: 262, 495
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_8X11_2
+  rotate: false
+  xy: 269, 495
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_8X9
+  rotate: false
+  xy: 283, 495
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_92X87
+  rotate: false
+  xy: 430, 571
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_STRAWBURST_STRAWBURST_93X209
+  rotate: false
+  xy: 92, 408
+  size: 60, 134
+  orig: 60, 134
+  offset: 0, 0
+  index: -1

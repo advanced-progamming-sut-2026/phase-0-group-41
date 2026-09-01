@@ -1,0 +1,89 @@
+UI_QUESTSTOAST_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_QUEST_TOAST_QUEST_COMPLETE_TWINKLE_QUEST_COMPLETE_TWINKLE_18X18
+  rotate: false
+  xy: 979, 1
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_COMPLETE_TWINKLE_QUEST_COMPLETE_TWINKLE_517X305
+  rotate: false
+  xy: 579, 247
+  size: 259, 153
+  orig: 259, 153
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_COMPLETE_TWINKLE_QUEST_COMPLETE_TWINKLE_537X453
+  rotate: false
+  xy: 308, 247
+  size: 269, 227
+  orig: 269, 227
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_COMPLETE_TWINKLE_QUEST_COMPLETE_TWINKLE_609X575
+  rotate: false
+  xy: 1, 247
+  size: 305, 288
+  orig: 305, 288
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_BACKGROUND
+  rotate: false
+  xy: 897, 1
+  size: 80, 244
+  orig: 80, 244
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_BACKGROUND_EPIC
+  rotate: false
+  xy: 308, 476
+  size: 80, 244
+  orig: 80, 244
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_BACKGROUND_EVENT
+  rotate: false
+  xy: 390, 476
+  size: 80, 244
+  orig: 80, 244
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_DEFAULT
+  rotate: false
+  xy: 1, 1
+  size: 446, 244
+  orig: 446, 244
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_EPIC
+  rotate: false
+  xy: 449, 1
+  size: 446, 244
+  orig: 446, 244
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_TROUGH
+  rotate: false
+  xy: 840, 247
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_TROUGH_BLUE
+  rotate: false
+  xy: 906, 247
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+IMAGE_UI_QUEST_TOAST_QUEST_TOAST_YELLOW_BANNER
+  rotate: false
+  xy: 579, 402
+  size: 423, 83
+  orig: 423, 83
+  offset: 0, 0
+  index: -1

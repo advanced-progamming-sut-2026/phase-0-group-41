@@ -1,0 +1,89 @@
+DIRT_SPAWN_FUTURE_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_179X50
+  rotate: false
+  xy: 1, 1
+  size: 115, 32
+  orig: 115, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_20X22
+  rotate: false
+  xy: 102, 71
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_22X22
+  rotate: false
+  xy: 102, 55
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_34X28
+  rotate: false
+  xy: 102, 35
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_54X61
+  rotate: false
+  xy: 84, 156
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_60X79
+  rotate: false
+  xy: 1, 144
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_62X72
+  rotate: false
+  xy: 42, 156
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_63X89
+  rotate: false
+  xy: 51, 97
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_68X94
+  rotate: false
+  xy: 56, 35
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_73X47
+  rotate: false
+  xy: 1, 204
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_74X78
+  rotate: false
+  xy: 1, 92
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_DIRT_SPAWN_FUTURE_DIRT_SPAWN_FUTURE_83X86
+  rotate: false
+  xy: 1, 35
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,47 @@
+UI_PENNYPURSUITS_HOWTOPLAY_768_00.PNG
+size: 1024, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_HOW_TO_PLAY_PANEL01
+  rotate: false
+  xy: 1, 1
+  size: 635, 212
+  orig: 635, 212
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_HOW_TO_PLAY_PANEL02
+  rotate: false
+  xy: 1, 215
+  size: 635, 212
+  orig: 635, 212
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_HOW_TO_PLAY_PANEL03
+  rotate: false
+  xy: 1, 429
+  size: 635, 212
+  orig: 635, 212
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_HOW_TO_PLAY_PANEL04
+  rotate: false
+  xy: 1, 643
+  size: 635, 212
+  orig: 635, 212
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_HOW_TO_PLAY_PANEL05
+  rotate: false
+  xy: 1, 857
+  size: 635, 212
+  orig: 635, 212
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_HOW_TO_PLAY_PANEL06
+  rotate: false
+  xy: 1, 1071
+  size: 635, 212
+  orig: 635, 212
+  offset: 0, 0
+  index: -1

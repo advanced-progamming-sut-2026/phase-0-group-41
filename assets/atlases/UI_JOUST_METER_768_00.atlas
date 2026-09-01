@@ -1,0 +1,152 @@
+UI_JOUST_METER_768_00.PNG
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_BRAIN_DOT
+  rotate: false
+  xy: 756, 92
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_GLOVE_BLUE_JOUST_GLOVE_BLUE_211X138
+  rotate: false
+  xy: 562, 1
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_GLOVE_RED_JOUST_GLOVE_RED_211X138
+  rotate: false
+  xy: 699, 1
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_CLOCK_ICON_JOUST_METER_CLOCK_ICON_13X30
+  rotate: false
+  xy: 745, 92
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_CLOCK_ICON_JOUST_METER_CLOCK_ICON_15X30
+  rotate: false
+  xy: 733, 92
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_CLOCK_ICON_JOUST_METER_CLOCK_ICON_21X21
+  rotate: false
+  xy: 717, 92
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_CLOCK_ICON_JOUST_METER_CLOCK_ICON_77X78
+  rotate: false
+  xy: 836, 87
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_JOUST_METER_BACKGROUND_BLUE
+  rotate: false
+  xy: 562, 92
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_JOUST_METER_BACKGROUND_ENDCAP_B
+  rotate: false
+  xy: 1005, 54
+  size: 11, 53
+  orig: 11, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_JOUST_METER_BACKGROUND_ENDCAP_R
+  rotate: false
+  xy: 694, 92
+  size: 11, 53
+  orig: 11, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_JOUST_METER_BACKGROUND_RED
+  rotate: false
+  xy: 611, 92
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_JOUST_METER_LANCE_BLUE
+  rotate: false
+  xy: 1, 1
+  size: 559, 50
+  orig: 559, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_JOUST_METER_LANCE_RED
+  rotate: false
+  xy: 1, 53
+  size: 559, 50
+  orig: 559, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_JOUST_METER_SHIELD
+  rotate: false
+  xy: 836, 1
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_LAYER_1
+  rotate: false
+  xy: 918, 1
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_METER_MIDPOINT_TRIANGLES
+  rotate: false
+  xy: 707, 92
+  size: 8, 49
+  orig: 8, 49
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_SPARKING_BACK_JOUST_SPARKING_BACK_28X79
+  rotate: false
+  xy: 1005, 1
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_SPARKING_JOUST_SPARKING_31X88
+  rotate: false
+  xy: 983, 1
+  size: 20, 57
+  orig: 20, 57
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_SPARKING_JOUST_SPARKING_37X62
+  rotate: false
+  xy: 888, 87
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_JOUST_TIMER_BG
+  rotate: false
+  xy: 918, 65
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+IMAGE_UI_JOUST_JOUST_METER_ASSETS_SCREEN_EDGE_GLOW
+  rotate: false
+  xy: 660, 92
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

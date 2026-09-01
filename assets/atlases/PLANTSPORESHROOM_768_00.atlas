@@ -1,0 +1,292 @@
+PLANTSPORESHROOM_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_110X60
+  rotate: false
+  xy: 1, 195
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_117X106
+  rotate: false
+  xy: 406, 1
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_13X27
+  rotate: false
+  xy: 259, 234
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_18X13
+  rotate: false
+  xy: 496, 58
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_18X76
+  rotate: false
+  xy: 500, 195
+  size: 12, 49
+  orig: 12, 49
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_1X1
+  rotate: false
+  xy: 510, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_293X263
+  rotate: false
+  xy: 216, 1
+  size: 188, 169
+  orig: 188, 169
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_333X300
+  rotate: false
+  xy: 1, 1
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_33X26
+  rotate: false
+  xy: 1, 267
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_38X30
+  rotate: false
+  xy: 101, 249
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_40X37
+  rotate: false
+  xy: 412, 252
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_42X58
+  rotate: false
+  xy: 40, 236
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_44X85
+  rotate: false
+  xy: 483, 1
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_47X52
+  rotate: false
+  xy: 479, 124
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_48X43
+  rotate: false
+  xy: 479, 160
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_57X45
+  rotate: false
+  xy: 1, 236
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_58X53
+  rotate: false
+  xy: 220, 234
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_58X56
+  rotate: false
+  xy: 181, 234
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_59X77
+  rotate: false
+  xy: 460, 193
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_69X56
+  rotate: false
+  xy: 338, 233
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_77X57
+  rotate: false
+  xy: 129, 233
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_82X81
+  rotate: false
+  xy: 74, 195
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_85X58
+  rotate: false
+  xy: 281, 232
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_92X91
+  rotate: false
+  xy: 281, 172
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_T_SPORESHROOM_PROJECTILE_T_SPORESHROOM_PROJECTILE_98X98
+  rotate: false
+  xy: 406, 71
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_110X85
+  rotate: false
+  xy: 406, 136
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_13X18
+  rotate: false
+  xy: 498, 246
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_13X18_2
+  rotate: false
+  xy: 440, 252
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_14X19
+  rotate: false
+  xy: 259, 254
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_15X18
+  rotate: false
+  xy: 384, 233
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_17X17
+  rotate: false
+  xy: 483, 58
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_17X7
+  rotate: false
+  xy: 191, 222
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_31X38
+  rotate: false
+  xy: 191, 195
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_40X40
+  rotate: false
+  xy: 384, 252
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_46X44
+  rotate: false
+  xy: 69, 249
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_56X37
+  rotate: false
+  xy: 460, 245
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_61X80
+  rotate: false
+  xy: 471, 71
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_89X88
+  rotate: false
+  xy: 401, 193
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_89X92
+  rotate: false
+  xy: 342, 172
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_93X56
+  rotate: false
+  xy: 129, 195
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_SPORESHROOM_SPORESHROOM_98X94
+  rotate: false
+  xy: 216, 172
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1

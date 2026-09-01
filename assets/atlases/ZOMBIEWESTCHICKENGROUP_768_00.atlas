@@ -1,0 +1,208 @@
+ZOMBIEWESTCHICKENGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_CHICKEN_SHOCK_ZOMBIE_CHICKEN_SHOCK_BONE
+  rotate: false
+  xy: 54, 62
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_CHICKEN_SHOCK_ZOMBIE_CHICKEN_SHOCK_GLOW
+  rotate: false
+  xy: 1, 1
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_10X17
+  rotate: false
+  xy: 13, 192
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_14X23
+  rotate: false
+  xy: 23, 168
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_14X36
+  rotate: false
+  xy: 114, 1
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_15X11
+  rotate: false
+  xy: 63, 196
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_15X30
+  rotate: false
+  xy: 114, 26
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_16X14
+  rotate: false
+  xy: 51, 196
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_16X16
+  rotate: false
+  xy: 1, 192
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_16X17
+  rotate: false
+  xy: 39, 191
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_16X25
+  rotate: false
+  xy: 58, 164
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_18X19
+  rotate: false
+  xy: 114, 47
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_21X17
+  rotate: false
+  xy: 112, 184
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_21X17_2
+  rotate: false
+  xy: 23, 191
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_23X19
+  rotate: false
+  xy: 78, 182
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_23X19_2
+  rotate: false
+  xy: 95, 184
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_24X40
+  rotate: false
+  xy: 110, 120
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_28X18
+  rotate: false
+  xy: 58, 182
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_28X42
+  rotate: false
+  xy: 109, 155
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_29X39
+  rotate: false
+  xy: 37, 164
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_31X34
+  rotate: false
+  xy: 1, 168
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_40X40
+  rotate: false
+  xy: 100, 92
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_41X43
+  rotate: false
+  xy: 100, 62
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_52X39
+  rotate: false
+  xy: 73, 155
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_53X55
+  rotate: false
+  xy: 37, 127
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_53X60
+  rotate: false
+  xy: 1, 127
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_54X41
+  rotate: false
+  xy: 73, 127
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_75X78
+  rotate: false
+  xy: 1, 75
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_CHICKEN_CHICKEN_91X92
+  rotate: false
+  xy: 54, 1
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1

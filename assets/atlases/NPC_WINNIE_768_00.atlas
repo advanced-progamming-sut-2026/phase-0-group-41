@@ -1,0 +1,572 @@
+NPC_WINNIE_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_WINNIE_WINNIE_WINNIE_101X115
+  rotate: false
+  xy: 531, 880
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_102X149
+  rotate: false
+  xy: 1, 838
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_102X87
+  rotate: false
+  xy: 336, 902
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_103X114
+  rotate: false
+  xy: 268, 862
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_112X122
+  rotate: false
+  xy: 255, 262
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_113X56
+  rotate: false
+  xy: 869, 907
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_122X110
+  rotate: false
+  xy: 451, 842
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_130X175
+  rotate: false
+  xy: 787, 723
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_131X164
+  rotate: false
+  xy: 539, 773
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_137X154
+  rotate: false
+  xy: 872, 806
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_141X131
+  rotate: false
+  xy: 625, 821
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_141X99
+  rotate: false
+  xy: 176, 862
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_155X199
+  rotate: false
+  xy: 765, 593
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_158X452
+  rotate: false
+  xy: 534, 409
+  size: 101, 290
+  orig: 101, 290
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_163X91
+  rotate: false
+  xy: 344, 842
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_164X86
+  rotate: false
+  xy: 69, 862
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_177X102
+  rotate: false
+  xy: 717, 837
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_17X27
+  rotate: false
+  xy: 1001, 351
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_18X32
+  rotate: false
+  xy: 1004, 312
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_196X228
+  rotate: false
+  xy: 637, 593
+  size: 126, 146
+  orig: 126, 146
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_19X18
+  rotate: false
+  xy: 1001, 371
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_203X100
+  rotate: false
+  xy: 393, 624
+  size: 130, 64
+  orig: 130, 64
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_211X142
+  rotate: false
+  xy: 637, 409
+  size: 135, 91
+  orig: 135, 91
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_21X68
+  rotate: false
+  xy: 1004, 173
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_229X97
+  rotate: false
+  xy: 1, 774
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_237X121
+  rotate: false
+  xy: 633, 741
+  size: 152, 78
+  orig: 152, 78
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_23X19
+  rotate: false
+  xy: 534, 367
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_23X20
+  rotate: false
+  xy: 534, 352
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_244X172
+  rotate: false
+  xy: 235, 624
+  size: 156, 110
+  orig: 156, 110
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_245X119
+  rotate: false
+  xy: 206, 736
+  size: 157, 76
+  orig: 157, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_25X47
+  rotate: false
+  xy: 1004, 280
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_269X105
+  rotate: false
+  xy: 365, 773
+  size: 172, 67
+  orig: 172, 67
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_274X263
+  rotate: false
+  xy: 797, 337
+  size: 176, 169
+  orig: 176, 169
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_284X185
+  rotate: false
+  xy: 331, 425
+  size: 182, 119
+  orig: 182, 119
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_28X22
+  rotate: false
+  xy: 1004, 335
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_28X46
+  rotate: false
+  xy: 1004, 219
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_299X72
+  rotate: false
+  xy: 150, 814
+  size: 192, 46
+  orig: 192, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_30X42
+  rotate: false
+  xy: 1004, 251
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_314X251
+  rotate: false
+  xy: 331, 262
+  size: 201, 161
+  orig: 201, 161
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_317X111
+  rotate: false
+  xy: 1, 701
+  size: 203, 71
+  orig: 203, 71
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_31X58
+  rotate: false
+  xy: 534, 262
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_320X252
+  rotate: false
+  xy: 797, 173
+  size: 205, 162
+  orig: 205, 162
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_32X43
+  rotate: false
+  xy: 534, 301
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_332X156
+  rotate: false
+  xy: 1, 519
+  size: 213, 100
+  orig: 213, 100
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_35X29
+  rotate: false
+  xy: 534, 331
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_362X117
+  rotate: false
+  xy: 1, 624
+  size: 232, 75
+  orig: 232, 75
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_366X366
+  rotate: false
+  xy: 561, 173
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_372X109
+  rotate: false
+  xy: 393, 701
+  size: 238, 70
+  orig: 238, 70
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_37X371
+  rotate: false
+  xy: 975, 337
+  size: 24, 238
+  orig: 24, 238
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_394X545
+  rotate: false
+  xy: 1, 1
+  size: 252, 349
+  orig: 252, 349
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_409X129
+  rotate: false
+  xy: 637, 508
+  size: 262, 83
+  orig: 262, 83
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_41X34
+  rotate: false
+  xy: 866, 664
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_41X53
+  rotate: false
+  xy: 866, 628
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_428X119
+  rotate: false
+  xy: 216, 546
+  size: 274, 76
+  orig: 274, 76
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_42X40
+  rotate: false
+  xy: 993, 145
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_42X51
+  rotate: false
+  xy: 866, 593
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_44X31
+  rotate: false
+  xy: 866, 688
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_45X80
+  rotate: false
+  xy: 993, 92
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_474X405
+  rotate: false
+  xy: 255, 1
+  size: 304, 259
+  orig: 304, 259
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_47X138
+  rotate: false
+  xy: 993, 1
+  size: 30, 89
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_47X25
+  rotate: false
+  xy: 69, 838
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_512X257
+  rotate: false
+  xy: 1, 352
+  size: 328, 165
+  orig: 328, 165
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_52X29
+  rotate: false
+  xy: 492, 597
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_52X66
+  rotate: false
+  xy: 404, 902
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_52X72
+  rotate: false
+  xy: 833, 837
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_53X35
+  rotate: false
+  xy: 269, 519
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_53X76
+  rotate: false
+  xy: 492, 546
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_58X182
+  rotate: false
+  xy: 962, 898
+  size: 37, 117
+  orig: 37, 117
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_607X265
+  rotate: false
+  xy: 561, 1
+  size: 389, 170
+  orig: 389, 170
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_60X257
+  rotate: false
+  xy: 952, 1
+  size: 39, 165
+  orig: 39, 165
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_64X52
+  rotate: false
+  xy: 150, 774
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_71X57
+  rotate: false
+  xy: 966, 751
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_71X90
+  rotate: false
+  xy: 598, 907
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_73X96
+  rotate: false
+  xy: 820, 905
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_74X102
+  rotate: false
+  xy: 770, 905
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_79X30
+  rotate: false
+  xy: 216, 519
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_80X110
+  rotate: false
+  xy: 717, 905
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_83X130
+  rotate: false
+  xy: 966, 666
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_87X136
+  rotate: false
+  xy: 966, 577
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_96X140
+  rotate: false
+  xy: 962, 806
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
+IMAGE_WINNIE_WINNIE_WINNIE_98X462
+  rotate: false
+  xy: 901, 508
+  size: 63, 296
+  orig: 63, 296
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,425 @@
+PLANTGLOOMVINE_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_GLOOMVINE_ATTACK_EFFECT_GLOOMVINE_ATTACK_EFFECT_184X50
+  rotate: false
+  xy: 104, 39
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GLOOMVINE_ATTACK_EFFECT_GLOOMVINE_ATTACK_EFFECT_41X39
+  rotate: false
+  xy: 229, 70
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GLOOMVINE_ATTACK_EFFECT_GLOOMVINE_ATTACK_EFFECT_52X52
+  rotate: false
+  xy: 193, 73
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GLOOMVINE_PF_EFFECT_GLOOMVINE_PF_EFFECT_208X56
+  rotate: false
+  xy: 104, 1
+  size: 133, 36
+  orig: 133, 36
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_GLOOMVINE_PF_EFFECT_GLOOMVINE_PF_EFFECT_52X52
+  rotate: false
+  xy: 193, 109
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_100X21
+  rotate: false
+  xy: 61, 143
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_126X40
+  rotate: false
+  xy: 1, 103
+  size: 81, 26
+  orig: 81, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_135X63
+  rotate: false
+  xy: 1, 60
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_136X38
+  rotate: false
+  xy: 90, 73
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_146X27
+  rotate: false
+  xy: 84, 123
+  size: 94, 18
+  orig: 94, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_158X33
+  rotate: false
+  xy: 90, 100
+  size: 101, 21
+  orig: 101, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_158X89
+  rotate: false
+  xy: 1, 1
+  size: 101, 57
+  orig: 101, 57
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_15X16
+  rotate: false
+  xy: 179, 73
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_17X15
+  rotate: false
+  xy: 90, 60
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_18X18
+  rotate: false
+  xy: 49, 222
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_18X22
+  rotate: false
+  xy: 35, 222
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_1X1
+  rotate: false
+  xy: 224, 70
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_21X23
+  rotate: false
+  xy: 175, 211
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_21X24
+  rotate: false
+  xy: 239, 19
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_23X18
+  rotate: false
+  xy: 209, 214
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_23X18_2
+  rotate: false
+  xy: 1, 216
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_23X18_3
+  rotate: false
+  xy: 18, 217
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_23X18_4
+  rotate: false
+  xy: 86, 220
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_24X25
+  rotate: false
+  xy: 239, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_25X20
+  rotate: false
+  xy: 237, 213
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_25X20_2
+  rotate: false
+  xy: 191, 214
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_26X21
+  rotate: false
+  xy: 86, 204
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_27X27
+  rotate: false
+  xy: 237, 193
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_27X27_2
+  rotate: false
+  xy: 24, 197
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_28X20
+  rotate: false
+  xy: 155, 211
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_28X20_2
+  rotate: false
+  xy: 105, 213
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_30X24
+  rotate: false
+  xy: 44, 204
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_30X25
+  rotate: false
+  xy: 65, 204
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_31X30
+  rotate: false
+  xy: 193, 193
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_31X30_2
+  rotate: false
+  xy: 215, 193
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_32X22
+  rotate: false
+  xy: 132, 211
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_33X26
+  rotate: false
+  xy: 1, 197
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_34X27
+  rotate: false
+  xy: 83, 184
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_35X25
+  rotate: false
+  xy: 107, 195
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_36X27
+  rotate: false
+  xy: 33, 177
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_36X27_2
+  rotate: false
+  xy: 58, 184
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_38X25
+  rotate: false
+  xy: 139, 193
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_38X25_2
+  rotate: false
+  xy: 166, 193
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_40X24
+  rotate: false
+  xy: 229, 124
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_40X32
+  rotate: false
+  xy: 169, 170
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_40X32_2
+  rotate: false
+  xy: 197, 170
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_40X32_3
+  rotate: false
+  xy: 225, 170
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_40X38
+  rotate: false
+  xy: 229, 97
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_43X32
+  rotate: false
+  xy: 139, 170
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_44X35
+  rotate: false
+  xy: 79, 159
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_44X35_2
+  rotate: false
+  xy: 109, 170
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_45X35
+  rotate: false
+  xy: 226, 145
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_47X27
+  rotate: false
+  xy: 1, 177
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_47X39
+  rotate: false
+  xy: 127, 143
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_48X35
+  rotate: false
+  xy: 193, 145
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_48X35_2
+  rotate: false
+  xy: 1, 152
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_48X45
+  rotate: false
+  xy: 224, 39
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_49X36
+  rotate: false
+  xy: 159, 145
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_67X25
+  rotate: false
+  xy: 34, 159
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_GLOOMVINE_GLOOMVINE_91X30
+  rotate: false
+  xy: 1, 131
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1

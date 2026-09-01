@@ -1,0 +1,159 @@
+UI_RIFT_ZOMBOSS_768_00.PNG
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_BACKGROUND_CARD
+  rotate: false
+  xy: 913, 1
+  size: 83, 319
+  orig: 83, 319
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_CLOCK_ICON_CLOCK_ICON_13X30
+  rotate: false
+  xy: 1014, 1
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_CLOCK_ICON_CLOCK_ICON_15X30
+  rotate: false
+  xy: 998, 17
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_CLOCK_ICON_CLOCK_ICON_21X21
+  rotate: false
+  xy: 998, 1
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_CLOCK_ICON_CLOCK_ICON_77X78
+  rotate: false
+  xy: 973, 322
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_COMPLETION_TRACKER_LEFT
+  rotate: false
+  xy: 309, 426
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_COMPLETION_TRACKER_LINE
+  rotate: false
+  xy: 842, 354
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_COMPLETION_TRACKER_MID
+  rotate: false
+  xy: 968, 384
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_COMPLETION_TRACKER_RIGHT
+  rotate: false
+  xy: 362, 427
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_ENDSCREEN_CHECK_MARK_ANIM_ENDSCREEN_CHECK_MARK_ANIM_100X95
+  rotate: false
+  xy: 377, 364
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_ENDSCREEN_CHECK_MARK_ANIM_ENDSCREEN_CHECK_MARK_ANIM_103X93
+  rotate: false
+  xy: 905, 322
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_ENDSCREEN_CHECK_MARK_ANIM_ENDSCREEN_CHECK_MARK_ANIM_91X91
+  rotate: false
+  xy: 908, 384
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_ENDSCREEN_X_MARK_ANIM_ENDSCREEN_X_MARK_ANIM_100X95
+  rotate: false
+  xy: 842, 384
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_ENDSCREEN_X_MARK_ANIM_ENDSCREEN_X_MARK_ANIM_103X93
+  rotate: false
+  xy: 309, 364
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_ENDSCREEN_X_MARK_ANIM_ENDSCREEN_X_MARK_ANIM_55X55
+  rotate: false
+  xy: 443, 364
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_PENNY
+  rotate: false
+  xy: 1, 1
+  size: 492, 361
+  orig: 492, 361
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_PENNY_2FANFARE
+  rotate: false
+  xy: 309, 522
+  size: 252, 245
+  orig: 252, 245
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_PENNY_4FANFARE
+  rotate: false
+  xy: 495, 1
+  size: 416, 261
+  orig: 416, 261
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_PENNY_SMOKE
+  rotate: false
+  xy: 1, 364
+  size: 306, 209
+  orig: 306, 209
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_PENNY_SMOKEBLAST
+  rotate: false
+  xy: 495, 264
+  size: 345, 256
+  orig: 345, 256
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_TIMER_BKGD
+  rotate: false
+  xy: 563, 522
+  size: 225, 61
+  orig: 225, 61
+  offset: 0, 0
+  index: -1
+IMAGE_UI_PENNY_PURSUITS_ZOMBOSS_ZOMBOSS_END_CARD
+  rotate: false
+  xy: 842, 264
+  size: 61, 88
+  orig: 61, 88
+  offset: 0, 0
+  index: -1

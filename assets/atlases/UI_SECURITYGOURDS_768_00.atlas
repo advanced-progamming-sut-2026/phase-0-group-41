@@ -1,0 +1,12 @@
+UI_SECURITYGOURDS_768_00.PNG
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_SECURITY_GOURDS_SECURITY_GOURD1
+  rotate: false
+  xy: 1, 1
+  size: 303, 242
+  orig: 303, 242
+  offset: 0, 0
+  index: -1

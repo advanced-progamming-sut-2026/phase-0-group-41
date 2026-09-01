@@ -1,0 +1,12 @@
+DELAYLOAD_BACKGROUND_JOUST_SCORINGZONE_768_00.PNG
+size: 1024, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_BACKGROUNDS_JOUST_SCORINGZONE_OVERLAY
+  rotate: false
+  xy: 1, 1
+  size: 768, 93
+  orig: 768, 93
+  offset: 0, 0
+  index: -1

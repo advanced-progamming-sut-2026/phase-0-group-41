@@ -1,0 +1,33 @@
+UI_NEWSBUTTON_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_UI_HUD_NEWSBUTTON_BUTTONS_HUD_NEWS_NORMAL
+  rotate: false
+  xy: 1, 1
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_NEWSBUTTON_BUTTONS_HUD_NEWS_SELECTED
+  rotate: false
+  xy: 78, 1
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_NEWSBUTTON_BUTTONS_HUD_NEWS_SELECTED_COPY
+  rotate: false
+  xy: 155, 1
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+IMAGE_UI_HUD_NEWSBUTTON_BUTTONS_HUD_NEWS_SELECTED_COPY_2
+  rotate: false
+  xy: 1, 75
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1

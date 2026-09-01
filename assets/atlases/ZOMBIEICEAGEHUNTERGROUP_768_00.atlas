@@ -1,0 +1,271 @@
+ZOMBIEICEAGEHUNTERGROUP_768_00.PNG
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_ZOMBIE_HUNTER_SNOWBALL_PROJECTILE
+  rotate: false
+  xy: 220, 143
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_HUNTER_SNOWBALL_SPLAT_ZOMBIE_HUNTER_SNOWBALL_SPLAT_104X39
+  rotate: false
+  xy: 151, 132
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_ZOMBIE_HUNTER_SNOWBALL_SPLAT_ZOMBIE_HUNTER_SNOWBALL_SPLAT_40X11
+  rotate: false
+  xy: 224, 70
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_117X128
+  rotate: false
+  xy: 1, 1
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_123X64
+  rotate: false
+  xy: 78, 55
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_135X8
+  rotate: false
+  xy: 1, 171
+  size: 87, 5
+  orig: 87, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_136X81
+  rotate: false
+  xy: 78, 1
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_16X38
+  rotate: false
+  xy: 105, 181
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_19X19
+  rotate: false
+  xy: 224, 186
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_20X38
+  rotate: false
+  xy: 66, 178
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_21X48
+  rotate: false
+  xy: 208, 168
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_22X38
+  rotate: false
+  xy: 50, 178
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_22X49
+  rotate: false
+  xy: 162, 159
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_24X58
+  rotate: false
+  xy: 101, 142
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_26X35
+  rotate: false
+  xy: 119, 172
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_28X33
+  rotate: false
+  xy: 178, 177
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_30X21
+  rotate: false
+  xy: 138, 185
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_30X37
+  rotate: false
+  xy: 141, 159
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_31X43
+  rotate: false
+  xy: 119, 142
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_34X21
+  rotate: false
+  xy: 81, 181
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_34X24
+  rotate: false
+  xy: 26, 178
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_35X36
+  rotate: false
+  xy: 42, 146
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_36X24
+  rotate: false
+  xy: 1, 178
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_38X31
+  rotate: false
+  xy: 67, 146
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_39X24
+  rotate: false
+  xy: 224, 168
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_43X25
+  rotate: false
+  xy: 178, 159
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_45X48
+  rotate: false
+  xy: 224, 37
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_46X52
+  rotate: false
+  xy: 224, 1
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_56X30
+  rotate: false
+  xy: 220, 122
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_59X56
+  rotate: false
+  xy: 216, 84
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_60X52
+  rotate: false
+  xy: 1, 131
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_6X6
+  rotate: false
+  xy: 159, 62
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_70X71
+  rotate: false
+  xy: 54, 98
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_74X65
+  rotate: false
+  xy: 101, 98
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_79X69
+  rotate: false
+  xy: 1, 85
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_7X7
+  rotate: false
+  xy: 159, 55
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_85X126
+  rotate: false
+  xy: 167, 1
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_ICEAGE_HUNTER_ZOMBIE_ICEAGE_HUNTER_85X71
+  rotate: false
+  xy: 159, 84
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1

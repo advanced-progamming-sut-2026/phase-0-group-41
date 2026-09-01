@@ -1,0 +1,194 @@
+ZOMBIEVALENTINESIMPGROUP_768_00.PNG
+size: 128, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_13X22
+  rotate: false
+  xy: 71, 140
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_13X23
+  rotate: false
+  xy: 60, 140
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_13X26
+  rotate: false
+  xy: 16, 140
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_13X29
+  rotate: false
+  xy: 118, 37
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_14X11
+  rotate: false
+  xy: 31, 76
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_14X24
+  rotate: false
+  xy: 38, 140
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_14X24_2
+  rotate: false
+  xy: 49, 140
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_14X26
+  rotate: false
+  xy: 27, 140
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_15X26
+  rotate: false
+  xy: 113, 58
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_167X8
+  rotate: false
+  xy: 1, 133
+  size: 107, 5
+  orig: 107, 5
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_16X26
+  rotate: false
+  xy: 110, 131
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_19X14
+  rotate: false
+  xy: 17, 76
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_20X20
+  rotate: false
+  xy: 1, 140
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_21X14
+  rotate: false
+  xy: 1, 76
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_21X25
+  rotate: false
+  xy: 97, 58
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_30X30
+  rotate: false
+  xy: 97, 37
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_46X52
+  rotate: false
+  xy: 96, 1
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_52X29
+  rotate: false
+  xy: 91, 90
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_53X28
+  rotate: false
+  xy: 91, 111
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_60X63
+  rotate: false
+  xy: 50, 90
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_66X33
+  rotate: false
+  xy: 1, 53
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_6X6
+  rotate: false
+  xy: 42, 76
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_70X71
+  rotate: false
+  xy: 49, 1
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_71X60
+  rotate: false
+  xy: 49, 49
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_71X77
+  rotate: false
+  xy: 1, 1
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_73X54
+  rotate: false
+  xy: 1, 90
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+IMAGE_ZOMBIE_ZOMBIE_VALENTINES_IMP_ZOMBIE_VALENTINES_IMP_7X7
+  rotate: false
+  xy: 97, 76
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

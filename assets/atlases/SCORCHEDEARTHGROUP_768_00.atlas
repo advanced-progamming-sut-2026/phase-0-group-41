@@ -1,0 +1,68 @@
+SCORCHEDEARTHGROUP_768_00.PNG
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_EFFECTS_SCORCHED_EARTH_EDGE_SCORCHED_EARTH_EDGE_128X149
+  rotate: false
+  xy: 85, 201
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_EDGE_SCORCHED_EARTH_EDGE_128X152
+  rotate: false
+  xy: 91, 101
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_EDGE_SCORCHED_EARTH_EDGE_21X26
+  rotate: false
+  xy: 191, 85
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_SCORCHED_EARTH_128X149
+  rotate: false
+  xy: 1, 106
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_SCORCHED_EARTH_128X152
+  rotate: false
+  xy: 91, 1
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_SCORCHED_EARTH_21X26
+  rotate: false
+  xy: 175, 85
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_TILE_SCORCHED_EARTH_TILE_115X127
+  rotate: false
+  xy: 175, 1
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_TILE_SCORCHED_EARTH_TILE_137X160
+  rotate: false
+  xy: 1, 1
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+IMAGE_EFFECTS_SCORCHED_EARTH_TILE_SCORCHED_EARTH_TILE_21X26
+  rotate: false
+  xy: 207, 85
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

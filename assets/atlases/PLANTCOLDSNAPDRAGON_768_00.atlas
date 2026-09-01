@@ -1,0 +1,334 @@
+PLANTCOLDSNAPDRAGON_768_00.PNG
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_102X126
+  rotate: false
+  xy: 394, 1
+  size: 66, 81
+  orig: 66, 81
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_115X59
+  rotate: false
+  xy: 1, 175
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_122X83
+  rotate: false
+  xy: 307, 110
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_122X83_2
+  rotate: false
+  xy: 307, 165
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_132X167
+  rotate: false
+  xy: 307, 1
+  size: 85, 107
+  orig: 85, 107
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_13X17
+  rotate: false
+  xy: 65, 215
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_14X14
+  rotate: false
+  xy: 462, 72
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_18X21
+  rotate: false
+  xy: 392, 244
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_19X18
+  rotate: false
+  xy: 406, 244
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_19X33
+  rotate: false
+  xy: 293, 243
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_1X1
+  rotate: false
+  xy: 506, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_1X1_2
+  rotate: false
+  xy: 509, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_1X1_3
+  rotate: false
+  xy: 506, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_235X269
+  rotate: false
+  xy: 1, 1
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_235X269_2
+  rotate: false
+  xy: 154, 1
+  size: 151, 172
+  orig: 151, 172
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_23X19
+  rotate: false
+  xy: 375, 244
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_23X24
+  rotate: false
+  xy: 307, 243
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_23X41
+  rotate: false
+  xy: 90, 228
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_24X25
+  rotate: false
+  xy: 357, 241
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_24X39
+  rotate: false
+  xy: 492, 211
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_25X28
+  rotate: false
+  xy: 152, 239
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_26X24
+  rotate: false
+  xy: 338, 241
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_26X26
+  rotate: false
+  xy: 492, 238
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_26X90
+  rotate: false
+  xy: 282, 175
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_31X29
+  rotate: false
+  xy: 107, 228
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_32X23
+  rotate: false
+  xy: 129, 239
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_33X20
+  rotate: false
+  xy: 1, 240
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_35X33
+  rotate: false
+  xy: 65, 228
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_37X24
+  rotate: false
+  xy: 267, 235
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_37X32
+  rotate: false
+  xy: 241, 224
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_40X46
+  rotate: false
+  xy: 37, 215
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_45X31
+  rotate: false
+  xy: 210, 224
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_49X32
+  rotate: false
+  xy: 176, 223
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_53X35
+  rotate: false
+  xy: 1, 215
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_54X32
+  rotate: false
+  xy: 301, 220
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_56X30
+  rotate: false
+  xy: 338, 220
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_63X60
+  rotate: false
+  xy: 449, 211
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_64X97
+  rotate: false
+  xy: 133, 175
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_65X108
+  rotate: false
+  xy: 462, 1
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_73X73
+  rotate: false
+  xy: 233, 175
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_79X140
+  rotate: false
+  xy: 394, 84
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_84X40
+  rotate: false
+  xy: 387, 176
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_84X79
+  rotate: false
+  xy: 77, 175
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_86X72
+  rotate: false
+  xy: 176, 175
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_92X92
+  rotate: false
+  xy: 447, 150
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_94X48
+  rotate: false
+  xy: 387, 211
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+IMAGE_PLANT_COLD_SNAPDRAGON_COLD_SNAPDRAGON_99X99
+  rotate: false
+  xy: 447, 84
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
