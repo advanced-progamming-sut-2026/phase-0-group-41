@@ -75,6 +75,29 @@ public class MiniGamesScreen extends BaseMenuScreen {
                     levelButton.getColor().a = 0.5f;
                 }
                 row.add(levelButton).size(120f, 56f).padRight(8f);
+
+                if (id.equals("izombie") && unlocked) {
+                    TextButton onlineButton = new TextButton("Online", skin);
+                    onlineButton.addListener(new ClickListener() {
+                        @Override
+                        public void clicked(InputEvent event, float x, float y) {
+                            SoundManager.playSound(AssetPaths.SFX_CLICK);
+                            game.setScreen(new IZombieOpponentSelectScreen(game, lvl));
+                        }
+                    });
+                    row.add(onlineButton).size(90f, 56f).padRight(8f);
+
+                    // بخش امتیازی: بازی دونفره‌ی Couch Play روی یک دستگاه، بدون شبکه
+                    TextButton couchButton = new TextButton("Couch", skin);
+                    couchButton.addListener(new ClickListener() {
+                        @Override
+                        public void clicked(InputEvent event, float x, float y) {
+                            SoundManager.playSound(AssetPaths.SFX_CLICK);
+                            game.setScreen(new IZombieCouchScreen(game, lvl));
+                        }
+                    });
+                    row.add(couchButton).size(90f, 56f).padRight(8f);
+                }
             }
 
             listTable.add(row).padBottom(14f).row();
@@ -85,6 +108,34 @@ public class MiniGamesScreen extends BaseMenuScreen {
         rootTable.add(scrollPane).width(950f).height(380f).padBottom(20f).row();
 
         addButton(rootTable, "Back to Main Menu", game::goToMainMenu);
+    }
+
+    private static final float CHALLENGE_POLL_INTERVAL = 2.0f;
+    private float challengePollAccumulator = 0f;
+    private boolean navigatedAway = false;
+
+    @Override
+    public void render(float delta) {
+        super.render(delta);
+        if (navigatedAway) {
+            return;
+        }
+        User user = game.getLoggedInUser();
+        if (user == null) {
+            return;
+        }
+        challengePollAccumulator += delta;
+        if (challengePollAccumulator < CHALLENGE_POLL_INTERVAL) {
+            return;
+        }
+        challengePollAccumulator = 0f;
+
+        network.izombie.IZombieNetworkClient.IncomingChallenge challenge =
+                network.izombie.IZombieNetworkClient.pollIncomingChallenge(user.getUsername());
+        if (challenge != null) {
+            navigatedAway = true;
+            game.setScreen(new IZombieIncomingChallengeScreen(game, challenge.fromUsername, challenge.level));
+        }
     }
 
     @Override

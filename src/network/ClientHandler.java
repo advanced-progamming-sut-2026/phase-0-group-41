@@ -1,11 +1,17 @@
 package network;
 
+import model.minigame.IZombieSession;
 import model.user.User;
 import model.user.UserManager;
+import network.izombie.MatchmakingManager;
+import network.izombie.MultiplayerMatch;
+import network.izombie.ReactionMessage;
+
 import java.io.EOFException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
+import java.util.List;
 import java.util.regex.Pattern;
 
 public class ClientHandler implements Runnable {
@@ -208,7 +214,228 @@ public class ClientHandler implements Runnable {
                         String username = request.data.get("username");
                         if (username != null) {
                             OnlineUsers.setOffline(username);
+                            MatchmakingManager.leaveMatch(username);
+                            MatchmakingManager.leaveRandomQueue(username);
                         }
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        break;
+                    }
+
+                    // ==================== بازی چندنفره: «من، زامبی» ====================
+                    // پیاده‌سازی «سیستم انتخاب رقیب» طبق سند فاز ۳. چون معماری این پروژه
+                    // بر پایه‌ی درخواست/پاسخ همزمان است (نه یک کانال push واقعی)، «نمایش
+                    // پاپ‌آپ» با یک صف انتظار روی سرور (MatchmakingManager) و Poll دوره‌ای
+                    // از سمت کلاینت شبیه‌سازی می‌شود؛ به همین دلیل هیچ‌کدام از فرمان‌های
+                    // زیر نیاز به authenticatedUsername محلی این ClientHandler ندارند
+                    // (کاربر می‌تواند نام کاربری خودش را در هر درخواست بفرستد) چون ممکن
+                    // است چند اتصال TCP مختلف (چند تب/تماس هم‌زمان) برای یک کاربر باز باشد.
+
+                    case "IZOMBIE_CHALLENGE_USER": {
+                        String from = request.data.get("username");
+                        String target = request.data.get("targetUsername");
+                        int level = parseIntOr(request.data.get("level"), 1);
+                        if (target == null || userManager.findByUsername(target) == null) {
+                            response.responseBody = "ERR_USER_NOT_FOUND";
+                            break;
+                        }
+                        MatchmakingManager.ChallengeRequestResult result =
+                                MatchmakingManager.challenge(from, target, level);
+                        response.success = (result == MatchmakingManager.ChallengeRequestResult.SENT);
+                        response.responseBody = result.name();
+                        break;
+                    }
+
+                    // کلاینت مقصد یک چالش، این را دوره‌ای صدا می‌زند تا پاپ‌آپ تایید/رد را نشان دهد
+                    case "IZOMBIE_POLL_INCOMING_CHALLENGE": {
+                        String username = request.data.get("username");
+                        MatchmakingManager.PendingChallenge challenge =
+                                MatchmakingManager.pollIncomingChallenge(username);
+                        if (challenge != null) {
+                            response.success = true;
+                            response.responseBody = "SUCCESS";
+                            response.data.put("fromUsername", challenge.fromUsername);
+                            response.data.put("level", String.valueOf(challenge.level));
+                        } else {
+                            response.responseBody = "NONE";
+                        }
+                        break;
+                    }
+
+                    case "IZOMBIE_RESPOND_CHALLENGE": {
+                        String username = request.data.get("username");
+                        boolean accept = "true".equals(request.data.get("accept"));
+                        MatchmakingManager.respondChallenge(userManager, username, accept);
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        break;
+                    }
+
+                    // کلاینتِ چالش‌دهنده، این را دوره‌ای صدا می‌زند تا بفهمد رقیب چه پاسخی داده
+                    case "IZOMBIE_POLL_CHALLENGE_RESULT": {
+                        String username = request.data.get("username");
+                        String matchId = MatchmakingManager.pollChallengeMatchFound(username);
+                        if (matchId != null) {
+                            response.success = true;
+                            response.responseBody = "MATCHED";
+                            response.data.put("matchId", matchId);
+                        } else if (MatchmakingManager.pollChallengeRejected(username)) {
+                            response.success = true;
+                            response.responseBody = "REJECTED";
+                        } else {
+                            response.responseBody = "PENDING";
+                        }
+                        break;
+                    }
+
+                    case "IZOMBIE_JOIN_RANDOM_QUEUE": {
+                        String username = request.data.get("username");
+                        int level = parseIntOr(request.data.get("level"), 1);
+                        String matchId = MatchmakingManager.joinRandomQueue(userManager, username, level);
+                        if (matchId != null) {
+                            response.success = true;
+                            response.responseBody = "MATCHED";
+                            response.data.put("matchId", matchId);
+                        } else {
+                            response.success = true;
+                            response.responseBody = "WAITING";
+                        }
+                        break;
+                    }
+
+                    case "IZOMBIE_LEAVE_RANDOM_QUEUE": {
+                        MatchmakingManager.leaveRandomQueue(request.data.get("username"));
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        break;
+                    }
+
+                    case "IZOMBIE_POLL_RANDOM_MATCH": {
+                        String username = request.data.get("username");
+                        String matchId = MatchmakingManager.pollRandomMatchFound(username);
+                        if (matchId != null) {
+                            response.success = true;
+                            response.responseBody = "MATCHED";
+                            response.data.put("matchId", matchId);
+                        } else {
+                            response.responseBody = "WAITING";
+                        }
+                        break;
+                    }
+
+                    // اطلاعات اولیه‌ی مسابقه (نقش هر بازیکن و نام کاربری حریف) پس از پیدا شدن matchId
+                    case "IZOMBIE_MATCH_INFO": {
+                        String username = request.data.get("username");
+                        String matchId = request.data.get("matchId");
+                        MultiplayerMatch match = MatchmakingManager.getMatch(matchId);
+                        if (match == null || !match.involves(username)) {
+                            response.responseBody = "ERR_MATCH_NOT_FOUND";
+                            break;
+                        }
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        response.data.put("role", match.roleOf(username).name());
+                        response.data.put("opponentUsername", match.opponentOf(username));
+                        break;
+                    }
+
+                    case "IZOMBIE_STATE": {
+                        String username = request.data.get("username");
+                        String matchId = request.data.get("matchId");
+                        MultiplayerMatch match = MatchmakingManager.getMatch(matchId);
+                        if (match == null || !match.involves(username)) {
+                            response.responseBody = "ERR_MATCH_NOT_FOUND";
+                            break;
+                        }
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        response.payload = match.snapshotFor();
+                        break;
+                    }
+
+                    case "IZOMBIE_PLACE_ZOMBIE": {
+                        String username = request.data.get("username");
+                        String matchId = request.data.get("matchId");
+                        String type = request.data.get("zombieType");
+                        MultiplayerMatch match = MatchmakingManager.getMatch(matchId);
+                        if (match == null || !match.involves(username)) {
+                            response.responseBody = "ERR_MATCH_NOT_FOUND";
+                            break;
+                        }
+                        int row = parseIntOr(request.data.get("row"), -1);
+                        int col = parseIntOr(request.data.get("col"), -1);
+                        IZombieSession.PlaceZombieResult result = match.placeZombie(username, type, row, col);
+                        response.success = (result == IZombieSession.PlaceZombieResult.SUCCESS);
+                        response.responseBody = result.name();
+                        break;
+                    }
+
+                    case "IZOMBIE_PLANT": {
+                        String username = request.data.get("username");
+                        String matchId = request.data.get("matchId");
+                        String plantType = request.data.get("plantType");
+                        MultiplayerMatch match = MatchmakingManager.getMatch(matchId);
+                        if (match == null || !match.involves(username)) {
+                            response.responseBody = "ERR_MATCH_NOT_FOUND";
+                            break;
+                        }
+                        int row = parseIntOr(request.data.get("row"), -1);
+                        int col = parseIntOr(request.data.get("col"), -1);
+                        String error = match.plantAt(username, plantType, row, col);
+                        response.success = (error == null);
+                        response.responseBody = (error == null) ? "SUCCESS" : error;
+                        break;
+                    }
+
+                    case "IZOMBIE_SEND_REACTION": {
+                        String username = request.data.get("username");
+                        String matchId = request.data.get("matchId");
+                        String kind = request.data.get("kind");
+                        String content = request.data.get("content");
+                        MultiplayerMatch match = MatchmakingManager.getMatch(matchId);
+                        if (match == null || !match.involves(username)) {
+                            response.responseBody = "ERR_MATCH_NOT_FOUND";
+                            break;
+                        }
+                        match.sendReaction(username, kind, content);
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        break;
+                    }
+
+                    case "IZOMBIE_POLL_REACTIONS": {
+                        String username = request.data.get("username");
+                        String matchId = request.data.get("matchId");
+                        MultiplayerMatch match = MatchmakingManager.getMatch(matchId);
+                        if (match == null || !match.involves(username)) {
+                            response.responseBody = "ERR_MATCH_NOT_FOUND";
+                            break;
+                        }
+                        List<ReactionMessage> reactions = match.pollReactionsFor(username);
+                        response.success = true;
+                        response.responseBody = "SUCCESS";
+                        response.payload = new java.util.ArrayList<>(reactions);
+                        break;
+                    }
+
+                    // برای کاربری که چالش را همین الان پذیرفته: matchId مسابقه‌ای که سرور
+                    // بلافاصله بعد از RESPOND_CHALLENGE ساخته را برمی‌گرداند
+                    case "IZOMBIE_MY_MATCH": {
+                        String username = request.data.get("username");
+                        network.izombie.MultiplayerMatch match = MatchmakingManager.getMatchForUser(username);
+                        if (match != null) {
+                            response.success = true;
+                            response.responseBody = "SUCCESS";
+                            response.data.put("matchId", match.getMatchId());
+                        } else {
+                            response.responseBody = "NONE";
+                        }
+                        break;
+                    }
+
+                    case "IZOMBIE_LEAVE_MATCH": {
+                        String username = request.data.get("username");
+                        MatchmakingManager.leaveMatch(username);
                         response.success = true;
                         response.responseBody = "SUCCESS";
                         break;
@@ -231,11 +458,24 @@ public class ClientHandler implements Runnable {
         } finally {
             if (authenticatedUsername != null) {
                 OnlineUsers.setOffline(authenticatedUsername);
+                // اگر کلاینت به‌طور ناگهانی (کرش/قطع اینترنت) قطع شود، نباید در
+                // صف تصادفی گیر بماند یا مسابقه‌ی نیمه‌کاره‌اش برای همیشه فعال بماند
+                MatchmakingManager.leaveRandomQueue(authenticatedUsername);
+                MatchmakingManager.leaveMatch(authenticatedUsername);
             }
             try {
                 socket.close();
             } catch (Exception ignored) {
             }
+        }
+    }
+
+    private static int parseIntOr(String value, int fallback) {
+        if (value == null) return fallback;
+        try {
+            return Integer.parseInt(value);
+        } catch (NumberFormatException e) {
+            return fallback;
         }
     }
 }
