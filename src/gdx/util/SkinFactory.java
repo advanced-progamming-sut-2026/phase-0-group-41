@@ -33,6 +33,13 @@ import gdx.assets.AssetPaths;
  * پوشش می‌دهد: Label, TextButton, TextField, Window, ProgressBar, ScrollPane,
  * List, SelectBox, CheckBox, Slider — همه با نام "default" (یا
  * "default-horizontal" برای ProgressBar/Slider) ثبت شده‌اند.
+ *
+ * فونت‌ها: قبلاً همه‌جا از یک new BitmapFont() (فونت پیش‌فرض بسیار کوچک
+ * libGDX) استفاده می‌شد. حالا شش فونت واقعی بازی (assets/fonts، از
+ * AssetPaths.FONT_* خوانده می‌شوند) هرکدام برای نقش مناسب خودشان با
+ * FontManager (gdx-freetype) تولید و به‌عنوان یک LabelStyle/TextButtonStyle
+ * جداگانه ثبت می‌شوند تا صفحات بتوانند با new Label(text, skin, "styleName")
+ * فونت مناسب را انتخاب کنند. نگاشت کامل نقش← فونت در AssetPaths مستند شده.
  */
 public final class SkinFactory {
 
@@ -52,9 +59,52 @@ public final class SkinFactory {
     private static Skin buildDefaultSkin() {
         Skin skin = new Skin();
 
-        BitmapFont font = new BitmapFont();
-        font.getData().setScale(1.2f);
+        // --- فونت اصلی رابط کاربری: Avenir Next LT Pro Demi Condensed ---
+        // همان فونت متن عمومی PvZ2 اصلی؛ روی تمام Label/Button/TextField/...
+        // با نام "default" اعمال می‌شود.
+        BitmapFont font = FontManager.generate(AssetPaths.FONT_BODY, 24, Color.WHITE);
         skin.add("default-font", font, BitmapFont.class);
+
+        // --- فونت تیتر: fbUsv8C5eI Black (فونت درشت/توپر) ---
+        // برای عنوان هر صفحه (title() در BaseMenuScreen) و زیرتیترهای داخلی
+        // مثل "Cheat Codes" و "Daily Offer".
+        BitmapFont titleFont = FontManager.generate(AssetPaths.FONT_TITLE, 40,
+                new Color(1f, 0.85f, 0.2f, 1f), 2, new Color(0.25f, 0.12f, 0f, 1f));
+        skin.add("title-font", titleFont, BitmapFont.class);
+
+        // --- همان فونت تیتر ولی در اندازه‌ی کوچک‌تر، مخصوص نوار وضعیت جمع‌وجور
+        // بالای صفحه‌ی بازی (فصل/مرحله/موج در GameScreen.chapterLevelWaveLabel).
+        // قبلاً این لیبل هم از استایل "title" (۴۰px) استفاده می‌کرد که در نوار
+        // باریک بالای صفحه جا نمی‌شد و از بالای صفحه بیرون می‌زد/کلیپ می‌شد —
+        // به همین خاطر متن فصل/مرحله/موج دیده نمی‌شد؛ با این فونت کوچک‌تر (۲۲px،
+        // بدون حاشیه‌ی ضخیم) کاملاً داخل یک خط جا می‌شود.
+        BitmapFont hudTitleFont = FontManager.generate(AssetPaths.FONT_TITLE, 22,
+                new Color(1f, 0.85f, 0.2f, 1f));
+        skin.add("hud-title-font", hudTitleFont, BitmapFont.class);
+
+        // --- فونت پیکسلی HUD: Pico12 ---
+        // برای شمارنده‌های عددی (سکه، الماس، خورشید، غذای گیاه، موج) که باید
+        // در اندازه‌ی کوچک هم کاملاً خوانا بمانند.
+        BitmapFont hudFont = FontManager.generate(AssetPaths.FONT_PIXEL_HUD, 20, Color.WHITE);
+        skin.add("hud-font", hudFont, BitmapFont.class);
+
+        // --- فونت وحشت: MonsterFonts - House of Terror ---
+        // برای اعلان قرمز وسط صفحه (شروع موج/موج نهایی) و بنر "You Lose!".
+        BitmapFont horrorFont = FontManager.generate(AssetPaths.FONT_HORROR, 44,
+                Color.RED, 2, Color.BLACK);
+        skin.add("horror-font", horrorFont, BitmapFont.class);
+
+        // --- فونت دست‌نویس: Ashley Script MT Std ---
+        // برای متن دیالوگ داستانی (DialogueScreen).
+        BitmapFont scriptFont = FontManager.generate(AssetPaths.FONT_SCRIPT, 30,
+                new Color(0.95f, 0.95f, 0.85f, 1f));
+        skin.add("script-font", scriptFont, BitmapFont.class);
+
+        // --- فونت بازیگوش: BrianneTod ---
+        // برای پیام‌های کوتاه/toast حین بازی و نام گوینده در دیالوگ.
+        BitmapFont playfulFont = FontManager.generate(AssetPaths.FONT_PLAYFUL, 22,
+                new Color(1f, 0.95f, 0.6f, 1f));
+        skin.add("playful-font", playfulFont, BitmapFont.class);
 
         skin.add("white", solidTexture(Color.WHITE), Texture.class);
         skin.add("panel-bg", solidTexture(new Color(0.12f, 0.12f, 0.16f, 0.92f)), Texture.class);
@@ -78,11 +128,38 @@ public final class SkinFactory {
         Label.LabelStyle labelStyle = new Label.LabelStyle(font, Color.WHITE);
         skin.add("default", labelStyle);
 
-        Label.LabelStyle titleStyle = new Label.LabelStyle(font, new Color(1f, 0.85f, 0.2f, 1f));
+        // عنوان هر صفحه/بخش: title(...) در BaseMenuScreen و همه‌ی
+        // new Label(text, skin, "title") پراکنده در صفحات از این استفاده می‌کنند.
+        Label.LabelStyle titleStyle = new Label.LabelStyle(titleFont, new Color(1f, 0.85f, 0.2f, 1f));
         skin.add("title", titleStyle);
+
+        // نسخه‌ی کوچک تیتر، مخصوص نوار وضعیت «فصل - مرحله | Wave x/y» بالای
+        // صفحه‌ی بازی (GameScreen)؛ به‌جای استایل "title" که برای این نوار
+        // باریک خیلی بزرگ بود و متن را از دید خارج می‌کرد.
+        Label.LabelStyle hudTitleStyle = new Label.LabelStyle(hudTitleFont, new Color(1f, 0.85f, 0.2f, 1f));
+        skin.add("hud-title", hudTitleStyle);
 
         Label.LabelStyle errorStyle = new Label.LabelStyle(font, new Color(1f, 0.3f, 0.3f, 1f));
         skin.add("error", errorStyle);
+
+        // شمارنده‌های عددی HUD (سکه/الماس/خورشید/غذای گیاه/موج).
+        Label.LabelStyle hudNumberStyle = new Label.LabelStyle(hudFont, Color.WHITE);
+        skin.add("hud-number", hudNumberStyle);
+
+        // اعلان قرمز وسط صفحه‌ی بازی (شروع موج، موج نهایی) و بنر "You Lose!".
+        Label.LabelStyle horrorStyle = new Label.LabelStyle(horrorFont, Color.RED);
+        skin.add("horror", horrorStyle);
+
+        // متن دیالوگ داستانی.
+        Label.LabelStyle dialogueTextStyle = new Label.LabelStyle(scriptFont, new Color(0.95f, 0.95f, 0.85f, 1f));
+        skin.add("dialogue-text", dialogueTextStyle);
+
+        // نام گوینده در دیالوگ + پیام‌های toast کوتاه حین بازی (جمع‌آوری سکه/
+        // غذای گیاه/گلدان و ...).
+        Label.LabelStyle playfulStyle = new Label.LabelStyle(playfulFont, new Color(1f, 0.95f, 0.6f, 1f));
+        skin.add("playful", playfulStyle);
+        skin.add("toast", playfulStyle);
+        skin.add("dialogue-speaker", playfulStyle);
 
         TextButton.TextButtonStyle buttonStyle = new TextButton.TextButtonStyle();
         buttonStyle.up = new TextureRegionDrawable(new TextureRegion(skin.get("btn-up", Texture.class)));

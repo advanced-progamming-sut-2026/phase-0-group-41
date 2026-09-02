@@ -52,11 +52,17 @@ public class GameScreen implements Screen {
     public static final float WORLD_WIDTH = 1280f;
     public static final float WORLD_HEIGHT = 720f;
 
-    // ابعاد و مبدأ شبکه‌ی بازی روی صفحه
-    private static final float BOARD_LEFT = 260f;
-    private static final float BOARD_TOP = 640f;
-    private static final float TILE_W = 100f;
-    private static final float TILE_H = 96f;
+    // ابعاد و مبدأ شبکه‌ی بازی روی صفحه — این اعداد قبلاً به‌صورت گرد و حدسی
+    // انتخاب شده بودند و با موقعیت واقعی زمین خاکی/کاشی در تصویر پس‌زمینه
+    // (IMAGE_BACKGROUNDS_FRONTLAWN_TEXTURE، ابعاد اصلی ۱۰۲۴×۷۶۸) مطابقت نداشتند؛
+    // به همین دلیل گیاهان/زامبی‌ها یک سطر بالاتر و کمی جابه‌جا نمایش داده
+    // می‌شدند. این اعداد با اندازه‌گیری پیکسلی مستقیمِ ناحیه‌ی واقعی کاشت در
+    // پس‌زمینه (که از x=260 تا x=970 و y=215 تا y=684 در تصویر اصلی است) و
+    // تبدیل به مقیاس بوم ۱۲۸۰×۷۲۰ محاسبه شده‌اند.
+    private static final float BOARD_LEFT = 325f;
+    private static final float BOARD_TOP = 518f;
+    private static final float TILE_W = 98.75f;
+    private static final float TILE_H = 87.9f;
 
     private final PvZGame game;
     private final Stage stage;
@@ -71,6 +77,10 @@ public class GameScreen implements Screen {
     private final Label sunLabel;
     private final Label plantFoodLabel;
     private final Label modeStatusLabel; // نوار وضعیت مُد ویژه (نبرد زمان‌دار، محافظ دانه‌ها و ...)؛ هر فریم آپدیت می‌شود
+    // عنوان بالای صفحه که فصل، مرحله و شماره‌ی موج فعلی را نشان می‌دهد (طبق
+    // درخواست کاربر: «جزئیات مرحله و شماره موج فعلی مشخص نیست»)؛ هر فریم
+    // به‌روزرسانی می‌شود چون شماره‌ی موج در حین بازی تغییر می‌کند.
+    private final Label chapterLevelWaveLabel;
     private TextButton startWavesButton = null; // فقط برای مُد «هرچه رسد بکار»؛ بعد از شروع موج‌ها مخفی می‌شود
     private final Table zombieProgressBar = new Table();
 
@@ -92,6 +102,13 @@ public class GameScreen implements Screen {
     private int lastKnownDiamonds;
     private int lastKnownPots;
 
+    // === اطلاع‌رسانی «خورشید آماده‌ی برداشت» روی گیاهان تولیدکننده (مثل
+    // آفتابگردان): طبق گزارش، چون تنها نشانگرِ این وضعیت یک بج کوچک ۳۲×۳۲
+    // روی گوشه‌ی کاشی بود، کاربر متوجه نمی‌شد که گیاه اصلاً کار می‌کند یا نه.
+    // اینجا با ردیابی این‌که کدام گیاه‌ها همین الان به‌تازگی «آماده» شده‌اند
+    // (نسبت به فریم قبل)، یک toast واضح + یک صدای زنگ نمایش داده می‌شود. ===
+    private final java.util.Set<Plant> announcedReadyProducers = new java.util.HashSet<>();
+
     // === اعلان قرمز وسط صفحه (طبق سند: قبل از شروع بازی/موج بعدی/نکرومنسی/
     // ظهور زامبی از ساحل پست). صرفاً یک نوشته‌ی ساده وسط صفحه، بدون جلوه‌ی خاص. ===
     private final Label announcementLabel;
@@ -108,15 +125,19 @@ public class GameScreen implements Screen {
         Viewport viewport = new FitViewport(WORLD_WIDTH, WORLD_HEIGHT);
         this.stage = new Stage(viewport);
 
-        toastLabel = new Label("", skin);
+        // پیام‌های کوتاه رویدادی (جمع‌آوری سکه/غذای گیاه/گلدان و ...) با فونت
+        // بازیگوش BrianneTod ("toast") نمایش داده می‌شوند.
+        toastLabel = new Label("", skin, "toast");
         toastLabel.setFontScale(1.1f);
         lastKnownPlantFood = session.getPlantFoodCount();
         lastKnownCoins = session.getUser().getCoins();
         lastKnownDiamonds = session.getUser().getDiamonds();
         lastKnownPots = session.getUser().getPendingGreenhousePots();
 
-        announcementLabel = new Label("", skin);
-        announcementLabel.setFontScale(1.6f);
+        // اعلان قرمز وسط صفحه (شروع موج/موج نهایی و ...) با فونت وحشت
+        // "House of Terror" ("horror") نمایش داده می‌شود.
+        announcementLabel = new Label("", skin, "horror");
+        announcementLabel.setFontScale(1.1f);
         announcementLabel.setColor(Color.RED);
         Table announcementWrapper = new Table();
         announcementWrapper.setFillParent(true);
@@ -126,9 +147,13 @@ public class GameScreen implements Screen {
         // اعلان ابتدای بازی («قبل از شروع موج زامبی‌ها در ابتدای هر بازی»)
         showAnnouncement("Get Ready!", 2.5f);
 
-        sunLabel = new Label("0", skin);
-        plantFoodLabel = new Label("0", skin);
+        // خورشید و غذای گیاه هم شمارنده‌ی عددی HUD هستند → فونت "hud-number".
+        sunLabel = new Label("0", skin, "hud-number");
+        plantFoodLabel = new Label("0", skin, "hud-number");
         modeStatusLabel = new Label("", skin);
+        // نوار وضعیت «فصل - مرحله | Wave» با استایل "hud-title" (نه "title" —
+        // که خیلی بزرگ بود و باعث می‌شد این متن از بالای صفحه بیرون بزند).
+        chapterLevelWaveLabel = new Label("", skin, "hud-title");
 
         buildHud();
         buildSidebar();
@@ -163,17 +188,24 @@ public class GameScreen implements Screen {
         foodBox.add(plantFoodLabel).padRight(16f);
 
         // --- سکه و الماس (طبق سند: در تمامی منوها حتی حین بازی قابل مشاهده باشد) ---
+        // همه‌ی شمارنده‌های عددی HUD (خورشید/غذای گیاه بالا + سکه/الماس اینجا)
+        // با فونت پیکسلی "hud-number" نمایش داده می‌شوند.
         User user = session.getUser();
         Table coinBox = new Table();
         coinBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_COIN))).size(28f).padRight(4f);
-        coinBox.add(new Label(String.valueOf(user.getCoins()), skin)).padRight(16f);
+        coinBox.add(new Label(String.valueOf(user.getCoins()), skin, "hud-number")).padRight(16f);
 
         Table diamondBox = new Table();
         diamondBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_DIAMOND))).size(28f).padRight(4f);
-        diamondBox.add(new Label(String.valueOf(user.getDiamonds()), skin)).padRight(16f);
+        diamondBox.add(new Label(String.valueOf(user.getDiamonds()), skin, "hud-number")).padRight(16f);
 
         hudTable.setFillParent(true);
         hudTable.top();
+
+        // --- عنوان بالای صفحه: فصل، مرحله و شماره‌ی موج فعلی ---
+        chapterLevelWaveLabel.setText(chapterLevelWaveText());
+        hudTable.add(chapterLevelWaveLabel).padTop(6f).row();
+
         Table topRow = new Table();
         topRow.add(pauseButton).size(48f).padRight(16f);
         topRow.add(sunBox);
@@ -181,70 +213,9 @@ public class GameScreen implements Screen {
         topRow.add(coinBox);
         topRow.add(diamondBox);
 
-        // --- خانه‌های دیباگ: نمایش فقط وقتی حالت دیباگ کاربر فعال باشد ---
-        if (user.isDebugMode()) {
-            TextButton addSunCheat = new TextButton("+ Sun", skin);
-            addSunCheat.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    session.getSunManager().addSun(50);
-                }
-            });
-            TextButton addFoodCheat = new TextButton("+ Plant Food", skin);
-            addFoodCheat.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    session.addPlantFood();
-                }
-            });
-            TextButton removeCooldownCheat = new TextButton("No Cooldown", skin);
-            removeCooldownCheat.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    session.clearAllCooldowns();
-                }
-            });
-            TextButton addCoinCheat = new TextButton("+ Coin", skin);
-            addCoinCheat.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    user.setCoins(user.getCoins() + 500);
-                }
-            });
-            TextButton addDiamondCheat = new TextButton("+ Diamond", skin);
-            addDiamondCheat.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    user.setDiamonds(user.getDiamonds() + 5);
-                }
-            });
-            TextButton spawnZombieCheat = new TextButton("Spawn Zombie", skin);
-            spawnZombieCheat.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    int dl = session.getUser().getDifficultyLevel();
-                    Zombie z = model.zombie.ZombieFactory.create("normal", dl);
-                    int row = new java.util.Random().nextInt(Board.ROWS);
-                    z.spawn(row, Board.COLS - 1);
-                    z.setSpawnTick((int) session.getTickCount());
-                    session.getAliveZombies().add(z);
-                }
-            });
-            TextButton nukeCheat = new TextButton("Nuke", skin);
-            nukeCheat.addListener(new ClickListener() {
-                @Override
-                public void clicked(InputEvent event, float x, float y) {
-                    session.getAliveZombies().clear();
-                }
-            });
-            topRow.add(addSunCheat).padLeft(8f);
-            topRow.add(addFoodCheat).padLeft(8f);
-            topRow.add(removeCooldownCheat).padLeft(8f);
-            topRow.add(addCoinCheat).padLeft(8f);
-            topRow.add(addDiamondCheat).padLeft(8f);
-            topRow.add(spawnZombieCheat).padLeft(8f);
-            topRow.add(nukeCheat).padLeft(8f);
-        }
+        // نکته: دکمه‌های تقلب دیگر اینجا (همیشه روی صفحه) نمایش داده نمی‌شوند؛
+        // طبق درخواست، همه در بخش «Cheats» داخل منوی توقف (Pause) جمع شده‌اند
+        // تا هم دسترسی وسط بازی داشته باشیم و هم صفحه‌ی اصلی شلوغ نباشد.
 
         hudTable.add(topRow).padTop(8f).row();
 
@@ -346,11 +317,41 @@ public class GameScreen implements Screen {
         lastKnownDiamonds = diamonds;
         lastKnownPots = pots;
 
+        checkSunProducerReadyNotifications();
+
         if (toastTimeLeft > 0f) {
             toastTimeLeft -= delta;
             if (toastTimeLeft <= 0f) {
                 toastTimeLeft = 0f;
                 toastLabel.setText("");
+            }
+        }
+    }
+
+    /**
+     * روی همه‌ی خانه‌های تخته می‌گردد و برای هر گیاهِ تولیدکننده‌ی خورشید که
+     * تازه «آماده‌ی برداشت» شده (قبلاً آماده نبوده)، یک toast + صدای زنگ نشان
+     * می‌دهد؛ وقتی گیاه برداشت می‌شود (یا هنوز در حال تولید است)، دوباره از
+     * لیست اعلان‌شده‌ها خارج می‌شود تا دفعه‌ی بعد هم اطلاع‌رسانی شود.
+     */
+    private void checkSunProducerReadyNotifications() {
+        Board board = session.getBoard();
+        for (int r = 0; r < Board.ROWS; r++) {
+            for (int c = 0; c < Board.COLS; c++) {
+                Plant plant = board.getTile(r, c).getPlant();
+                if (!(plant instanceof model.plant.interfaces.ISunProducer)) {
+                    continue;
+                }
+                model.plant.interfaces.ISunProducer producer = (model.plant.interfaces.ISunProducer) plant;
+                boolean ready = producer.isSunReady();
+                boolean alreadyAnnounced = announcedReadyProducers.contains(plant);
+                if (ready && !alreadyAnnounced) {
+                    announcedReadyProducers.add(plant);
+                    showToast(plant.getName() + ": Sun ready! Tap it to collect.");
+                    SoundManager.playSound(AssetPaths.SFX_CHIME);
+                } else if (!ready && alreadyAnnounced) {
+                    announcedReadyProducers.remove(plant);
+                }
             }
         }
     }
@@ -484,7 +485,7 @@ public class GameScreen implements Screen {
     // ==================== منوی توقف ====================
 
     private void openPauseMenu() {
-        game.setScreen(new PauseScreen(game, this, this::restartLevel));
+        game.setScreen(new PauseScreen(game, this, this::restartLevel, session));
     }
 
     private void restartLevel() {
@@ -543,6 +544,7 @@ public class GameScreen implements Screen {
         sunLabel.setText(String.valueOf(session.getSunManager().getCurrentSun()));
         plantFoodLabel.setText(String.valueOf(session.getPlantFoodCount()));
         modeStatusLabel.setText(session.getLevelRules().getHudStatusText(session));
+        chapterLevelWaveLabel.setText(chapterLevelWaveText());
         if (session.getLevelRules() instanceof model.levelrules.ConveyorBeltRules) {
             refreshPlantCards(); // لیست نوار نقاله مدام تغییر می‌کند
         }
@@ -563,6 +565,14 @@ public class GameScreen implements Screen {
         stage.getBatch().end();
 
         handleBoardClick();
+    }
+
+    /** متن عنوان بالای صفحه: نام فصل، شماره‌ی مرحله و شماره‌ی موج فعلی از کل موج‌ها. */
+    private String chapterLevelWaveText() {
+        int currentWave = session.getWaveManager().getCurrentWave();
+        int totalWaves = session.getWaveManager().getTotalWaves();
+        String waveText = currentWave <= 0 ? "" : (" | Wave " + currentWave + "/" + totalWaves);
+        return model.game.ChapterPlan.displayName(chapter) + " - Level " + level + waveText;
     }
 
     private String seasonBackground() {
@@ -594,6 +604,28 @@ public class GameScreen implements Screen {
 
     private float tileY(int row) {
         return BOARD_TOP - (row + 1) * TILE_H;
+    }
+
+    /**
+     * رسم یک TextureRegion داخل جعبه‌ی (x, y, w, h) با حفظ نسبت ابعاد اصلی
+     * تصویر و «چسباندن» آن به کف جعبه (وسط-پایین)، به‌جای کش‌دادن/فشرده کردن
+     * تصویر به‌زور داخل کل مستطیل تایل (که باعث می‌شد گیاه/زامبی نامتناسب و
+     * انگار «جابه‌جا/بالاتر از سطر خودش» به نظر برسد — به بخش توضیحات نگاه کنید).
+     */
+    private void drawFitted(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
+                             float x, float y, float w, float h) {
+        float texW = tex.getRegionWidth();
+        float texH = tex.getRegionHeight();
+        if (texW <= 0 || texH <= 0) {
+            batch.draw(tex, x, y, w, h);
+            return;
+        }
+        float scale = Math.min(w / texW, h / texH);
+        float drawW = texW * scale;
+        float drawH = texH * scale;
+        float drawX = x + (w - drawW) / 2f; // وسط‌چین افقی
+        float drawY = y; // چسبیده به کف تایل (نه وسط‌چین عمودی) تا روی زمین بایستد
+        batch.draw(tex, drawX, drawY, drawW, drawH);
     }
 
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
@@ -797,9 +829,41 @@ public class GameScreen implements Screen {
                 if (plant == null) {
                     continue;
                 }
-                String path = AssetPaths.plantIcon(plant.getName());
+                // --- گرافیک گیاه ---
+                // نکته‌ی مهم: منابع رسمی این پروژه (atlases/PLANT*.atlas) یک
+                // تصویر کامل و یک‌تکه از هر گیاه ندارند؛ هرکدام ده‌ها ریجن
+                // بسیار کوچک هستند (پرزهای گلبرگ، ساقه، برگ و ...) که در بازی
+                // اصلی توسط یک اسکلت Spine (که فایل‌های .json آن اینجا موجود
+                // نیست) سرهم و انیمیت می‌شوند. رسم مستقیم یکی از آن ریجن‌های
+                // خرد (که AssetPaths.plantIcon قبلاً برمی‌گرداند) یعنی فقط یک
+                // تکه‌ی بریده از گیاه با کش‌دادن روی کل کاشی نمایش داده شود —
+                // دقیقاً همان چیزی که باعث می‌شد گیاه‌ها «نصفه» و «یک سطر
+                // بالاتر از جای خودشان» به‌نظر برسند.
+                // در عوض، از تصویرِ کاملِ بسته‌بذر (AssetPaths.plantSeedPacket)
+                // استفاده می‌کنیم که یک ریجن کامل و بدون بُرش (untrimmed) برای
+                // هر گیاه است؛ به‌علاوه با drawFitted نسبت ابعاد آن حفظ و به
+                // کف کاشی چسبانده می‌شود (نه کش‌دادن کج‌وکوله به کل کاشی).
+                String path = AssetPaths.plantSeedPacket(plant.getName());
                 TextureRegion tex = ImageUtils.loadRegion(path);
-                batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
+                drawFitted(batch, tex, tileX(c) + 8f, tileY(r) + 6f, TILE_W - 16f, TILE_H - 12f);
+
+                // نشانگر خورشیدِ آماده‌ی برداشت روی گیاهان تولیدکننده‌ی خورشید (مثل
+                // آفتابگردان): قبلاً یک بج ۳۲×۳۲ در گوشه بود که به‌سختی دیده
+                // می‌شد؛ الان بزرگ‌تر و وسط-بالای کاشی با کمی «تپش» (pulse)
+                // نمایش داده می‌شود تا کاملاً مشخص باشد که باید رویش کلیک شود
+                // (علاوه بر toast و صدای زنگی که در checkSunProducerReadyNotifications
+                // یک‌بار وقتی آماده می‌شود پخش می‌شود).
+                if (plant instanceof model.plant.interfaces.ISunProducer) {
+                    model.plant.interfaces.ISunProducer producer = (model.plant.interfaces.ISunProducer) plant;
+                    if (producer.isSunReady()) {
+                        TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
+                        float pulse = 1f + 0.12f * (float) Math.sin(session.getTickCount() * 0.35);
+                        float badgeSize = 40f * pulse;
+                        float badgeX = tileX(c) + TILE_W / 2f - badgeSize / 2f;
+                        float badgeY = tileY(r) + TILE_H - badgeSize + 6f;
+                        batch.draw(sunTex, badgeX, badgeY, badgeSize, badgeSize);
+                    }
+                }
 
                 // گیاه یخ‌زده: طبق سند، خود گیاه باید داخل بلوک یخ دیده شود (نه محو
                 // یا فقط رنگ‌عوض‌شده)؛ پس روی همان اسپرایت گیاه، پوسته‌ی نیمه‌شفاف
@@ -846,7 +910,13 @@ public class GameScreen implements Screen {
             if (z.getChilledTicks() > 0) {
                 batch.setColor(0.75f, 0.9f, 1f, 1f);
             }
-            batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
+            // توجه: برخلاف گیاهان، برای زامبی‌ها فعلاً معادلِ کاملِ «بسته‌بذر»
+            // (یک تصویر کامل و بدون بُرش) در AssetPaths موجود نیست؛ ریجن‌های
+            // zombieIcon هم مثل گیاهان تکه‌های خرد اسکلت Spine هستند، پس گرافیک
+            // زامبی‌ها همچنان ممکن است ناقص به‌نظر برسد. با این حال حداقل با
+            // drawFitted از کش‌دادن نامتناسب و جابه‌جایی ظاهریِ اسپرایت نسبت به
+            // کاشی خودش جلوگیری می‌کنیم (نسبت ابعاد حفظ و به کف کاشی چسبانده می‌شود).
+            drawFitted(batch, tex, x + 5f, y, TILE_W - 10f, TILE_H - 10f);
             batch.setColor(Color.WHITE);
 
             // جلوه‌ی گردباد (مصر باستان): برای مدت کوتاهی بعد از ورود زامبیِ گردباد-زده
@@ -862,7 +932,7 @@ public class GameScreen implements Screen {
             // جلوه‌ی هشدار برای زامبی‌های نزدیک به خط پایان (طبق بخش «جلوه زامبی‌های نزدیک خط پایان»)
             if (z.getXPosition() < 1.0) {
                 batch.setColor(1f, 0.4f, 0.4f, 1f);
-                batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
+                drawFitted(batch, tex, x + 5f, y, TILE_W - 10f, TILE_H - 10f);
                 batch.setColor(Color.WHITE);
             }
         }
@@ -961,12 +1031,10 @@ public class GameScreen implements Screen {
             }
         }
 
-        // پیدا کردن خانه‌ای که کاربر روی آن کلیک کرده است
         int[] hovered = hoveredTile();
         if (hovered == null) {
             return; // کلیک خارج از تخته بوده (مثلاً روی نوار کناری)
         }
-
         int row = hovered[0];
         int col = hovered[1];
 

@@ -36,9 +36,12 @@ public class DialogueScreen extends BaseMenuScreen {
 
         rootTable.add(title("Story")).padBottom(20f).row();
 
-        speakerLabel = new Label("", skin);
+        // نام گوینده: فونت بازیگوش BrianneTod ("dialogue-speaker").
+        speakerLabel = new Label("", skin, "dialogue-speaker");
         speakerLabel.setFontScale(1.2f);
-        textLabel = new Label("", skin);
+        // متن دیالوگ: فونت دست‌نویس Ashley Script ("dialogue-text")، دقیقاً
+        // مثل یادداشت‌های داستانی/آلماناک در بازی اصلی.
+        textLabel = new Label("", skin, "dialogue-text");
         textLabel.setWrap(true);
 
         Table box = new Table();

@@ -67,7 +67,11 @@ public class QuestScreen extends BaseMenuScreen {
             listTable.add(statusLabel).width(140f).padBottom(10f);
 
             TextButton claimButton = new TextButton("Claim Reward", skin);
-            claimButton.setDisabled(!quest.isCompleted() || quest.isClaimed());
+            boolean canClaim = quest.isCompleted() && !quest.isClaimed();
+            claimButton.setDisabled(!canClaim);
+            claimButton.setTouchable(canClaim
+                    ? com.badlogic.gdx.scenes.scene2d.Touchable.enabled
+                    : com.badlogic.gdx.scenes.scene2d.Touchable.disabled);
             claimButton.addListener(new com.badlogic.gdx.scenes.scene2d.utils.ClickListener() {
                 @Override
                 public void clicked(com.badlogic.gdx.scenes.scene2d.InputEvent event, float x, float y) {

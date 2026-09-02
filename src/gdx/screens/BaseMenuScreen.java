@@ -84,6 +84,16 @@ public abstract class BaseMenuScreen implements Screen {
         return label;
     }
 
+    /**
+     * تیتر با فونت وحشت "House of Terror" (استایل "horror")؛ برای موارد
+     * زامبی‌محور مثل بنر "You Lose!" (WinLossScreen / MiniGameResultScreen).
+     */
+    protected Label horrorTitle(String text) {
+        Label label = new Label(text, skin, "horror");
+        label.setFontScale(1f);
+        return label;
+    }
+
     @Override
     public void show() {
         Gdx.input.setInputProcessor(stage);
