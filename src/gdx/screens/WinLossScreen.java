@@ -40,10 +40,24 @@ public class WinLossScreen extends BaseMenuScreen {
             if (chapter == model.game.ChapterPlan.BEGINNER_CHAPTER) {
                 if (level > user.getBeginnerLastCompletedLevel()) {
                     user.setBeginnerLastCompletedLevel(level);
+                    // اولین باری که این مرحله برده می‌شود یک گیاه جدید آنلاک می‌شود
+                    // و به لیست گیاهان در دسترس (منوی انتخاب گیاه) اضافه می‌گردد.
+                    // این بخش دقیقاً معادل نسخه‌ی کنسولی (AppController) است که اینجا
+                    // فراموش شده بود.
+                    String newlyUnlocked = user.unlockNextPlant();
+                    if (newlyUnlocked != null) {
+                        user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                    }
                 }
             } else if (chapter > user.getLastCompletedChapter()
                     || (chapter == user.getLastCompletedChapter() && level > user.getLastCompletedLevel())) {
                 user.setLastCompletedLevel(level);
+                // اولین باری که این مرحله برده می‌شود یک گیاه جدید آنلاک می‌شود
+                // و به لیست گیاهان در دسترس (منوی انتخاب گیاه) اضافه می‌گردد.
+                String newlyUnlocked = user.unlockNextPlant();
+                if (newlyUnlocked != null) {
+                    user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                }
                 if (level >= model.game.ChapterPlan.LEVELS_PER_CHAPTER) {
                     user.setLastCompletedChapter(chapter);
                     user.setLastCompletedLevel(0); // ریست برای شروع فصل جدید
