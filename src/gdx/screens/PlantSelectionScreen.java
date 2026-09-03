@@ -62,7 +62,7 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         unlockedTable.top().left();
         ScrollPane unlockedScroll = new ScrollPane(unlockedTable, skin);
         unlockedScroll.setFadeScrollBars(false);
-        rootTable.add(unlockedScroll).width(780f).height(180f).padBottom(14f).row();
+        rootTable.add(unlockedScroll).width(780f).height(220f).padBottom(14f).row();
 
         rootTable.add(new Label("Selected plants (max 8, click to remove):", skin)).left().padBottom(6f).row();
         selectedTable.top().left();
@@ -100,9 +100,9 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         Set<String> unlocked = user.getUnlockedPlants();
         int col = 0;
         for (String plantName : unlocked) {
-            unlockedTable.add(buildPlantCell(plantName, true)).size(80f).pad(4f);
+            unlockedTable.add(buildAvailablePlantCell(user, plantName)).size(100f, 128f).pad(4f);
             col++;
-            if (col % 8 == 0) {
+            if (col % 7 == 0) {
                 unlockedTable.row();
             }
         }
@@ -121,16 +121,97 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         }
     }
 
+    /**
+     * کارت گیاهانِ در دسترس: طبق سند «قابلیت‌هایی مشابه فهرست کلکسیون» باید
+     * داشته باشد و علاوه بر آن هزینه‌ی کاشت را هم نشان دهد، و گزینه‌های بوست
+     * و ارتقا موجود باشند و وضعیت بوست‌بودن مشخص باشد.
+     */
+    private Table buildAvailablePlantCell(User user, String plantName) {
+        model.plant.Plant probe = model.plant.PlantFactory.create(plantName);
+        int level = user.getPlantLevel(plantName);
+        probe.applyUpgradeLevel(level);
+        boolean boosted = user.hasGreenhouseBoost(plantName);
+
+        Stack iconStack = new Stack();
+        if (!AssetPaths.CARD_BACKGROUND.isEmpty()) {
+            iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
+        }
+        iconStack.add(new Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(plantName))));
+        if (boosted) {
+            // پس‌زمینه‌ی طلایی برای گیاهان بوست‌شده (طبق سند: «گیاهانی که پس‌زمینه‌شان طلایی شده بوست شده‌اند»)
+            iconStack.setColor(1f, 0.85f, 0.3f, 1f);
+        }
+        iconStack.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                clearError();
+                String result = controller.addPlant(user, plantName);
+                if (!"SUCCESS".equals(result)) {
+                    showError(translateAdd(result));
+                }
+                refreshSelected();
+            }
+        });
+
+        Table cell = new Table();
+        cell.add(iconStack).size(64f).row();
+        Label nameLabel = new Label(plantName + " Lv" + level, skin);
+        nameLabel.setFontScale(0.55f);
+        cell.add(nameLabel).row();
+        Label costLabel = new Label("Cost: " + probe.getSunCost(), skin);
+        costLabel.setFontScale(0.5f);
+        cell.add(costLabel).row();
+
+        Table actionRow = new Table();
+        actionRow.add(smallActionButton("Upg", () -> {
+            if (user.upgradePlant(plantName, 1000, 1)) {
+                showError(plantName + " upgraded!");
+            } else {
+                showError("Not enough coins/seed packets to upgrade.");
+            }
+            refreshUnlocked();
+        })).padRight(4f);
+        actionRow.add(smallActionButton("Boost", () -> {
+            if (boosted) {
+                showError(plantName + " is already boosted.");
+            } else if (user.spendDiamonds(2)) {
+                user.addGreenhouseBoost(plantName);
+                refreshUnlocked();
+            } else {
+                showError("Not enough diamonds to boost (needs 2).");
+            }
+        }));
+        cell.add(actionRow);
+        return cell;
+    }
+
+    private com.badlogic.gdx.scenes.scene2d.ui.TextButton smallActionButton(String text, Runnable onClick) {
+        com.badlogic.gdx.scenes.scene2d.ui.TextButton button = new com.badlogic.gdx.scenes.scene2d.ui.TextButton(text, skin);
+        button.getLabel().setFontScale(0.5f);
+        button.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                onClick.run();
+            }
+        });
+        return button;
+    }
+
     private Stack buildPlantCell(String plantName, boolean isFromUnlockedList) {
+        User user = game.getLoggedInUser();
+        model.plant.Plant probe = model.plant.PlantFactory.create(plantName);
         Image icon = new Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(plantName)));
-        Label label = new Label(plantName, skin);
-        label.setFontScale(0.6f);
+        Label label = new Label(plantName + " (" + probe.getSunCost() + ")", skin);
+        label.setFontScale(0.5f);
 
         Stack stack = new Stack();
         if (!AssetPaths.CARD_BACKGROUND.isEmpty()) {
             stack.add(new Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         }
         stack.add(icon);
+        if (user != null && user.hasGreenhouseBoost(plantName)) {
+            stack.setColor(1f, 0.85f, 0.3f, 1f); // پس‌زمینه‌ی طلایی برای گیاه بوست‌شده
+        }
         Table overlay = new Table();
         overlay.bottom();
         overlay.add(label).width(76f);

@@ -71,7 +71,7 @@ public class PvZGame extends Game {
         skin = SkinFactory.create();
 
         registerController = new RegisterController(userManager);
-        loginController = new LoginController();
+        loginController = new LoginController(userManager);
         mainController = new MainController(userManager);
         settingsController = new SettingsController(userManager);
         profileController = new ProfileController(userManager);
@@ -82,7 +82,17 @@ public class PvZGame extends Game {
         collectionController = new CollectionController(userManager);
         plantSelectionController = new PlantSelectionController();
 
-        setScreen(new RegisterScreen(this));
+        // طبق سند: اگر کاربر قبلاً «Stay logged in» را زده باشد، با باز کردن
+        // دوباره‌ی برنامه باید خودکار وارد حساب کاربری‌اش شود.
+        String rememberedUsername = userManager.getRememberedUsername();
+        if (rememberedUsername != null) {
+            loggedInUser = userManager.findByUsername(rememberedUsername);
+        }
+        if (loggedInUser != null) {
+            setScreen(new MainMenuScreen(this));
+        } else {
+            setScreen(new RegisterScreen(this));
+        }
     }
 
     // ==================== ناوبری بین صفحات ====================
@@ -243,6 +253,7 @@ public class PvZGame extends Game {
     public void logout() {
         mainController.logout(loggedInUser);
         loggedInUser = null;
+        userManager.forgetRememberedUser();
         goToRegister();
     }
 

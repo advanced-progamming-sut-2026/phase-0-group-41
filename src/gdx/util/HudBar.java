@@ -22,11 +22,13 @@ public class HudBar extends Table {
         setBackground(skin.getDrawable("default"));
         pad(8f);
 
+        // شمارنده‌های عددی (سکه/الماس) با فونت پیکسلی Pico12 ("hud-number")
+        // نمایش داده می‌شوند تا حتی در اندازه‌ی کوچک نوار بالای صفحه خوانا باشند.
         Image coinIcon = new Image(ImageUtils.loadRegion(AssetPaths.ICON_COIN));
-        coinsLabel = new Label(user != null ? String.valueOf(user.getCoins()) : "0", skin);
+        coinsLabel = new Label(user != null ? String.valueOf(user.getCoins()) : "0", skin, "hud-number");
 
         Image diamondIcon = new Image(ImageUtils.loadRegion(AssetPaths.ICON_DIAMOND));
-        diamondsLabel = new Label(user != null ? String.valueOf(user.getDiamonds()) : "0", skin);
+        diamondsLabel = new Label(user != null ? String.valueOf(user.getDiamonds()) : "0", skin, "hud-number");
 
         add(coinIcon).size(32f).padRight(6f);
         add(coinsLabel).padRight(24f);

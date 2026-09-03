@@ -1,15 +1,22 @@
 package gdx.screens;
 
 import com.badlogic.gdx.Screen;
+import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.ui.CheckBox;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.Slider;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
+import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
+import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
 import gdx.util.SoundManager;
+import model.game.Board;
+import model.game.GameSession;
+import model.user.User;
+import model.zombie.Zombie;
 
 /**
  * منوی توقف بازی. طبق سند: کاربر باید بتواند با کلیک یا فشردن یک دکمه/کلید
@@ -20,16 +27,26 @@ import gdx.util.SoundManager;
  * (که هنوز ساخته نشده) با یک {@link Screen} دلخواه که باید هنگام Resume به آن
  * برگردیم و یک Runnable برای Restart کار می‌کند؛ وقتی GameScreen واقعی ساخته
  * شد، همان‌جا این کلاس با previousScreen/onRestart واقعی صدا زده می‌شود.
+ * <p>
+ * تمام «تقلب»های حین بازی (فاز یک) طبق درخواست کاربر، همه در یک بخش «Cheats»
+ * اینجا جمع شده‌اند تا به‌جای شلوغ کردن صفحه‌ی اصلی بازی، فقط از داخل منوی
+ * توقف و در صورت فعال بودن حالت دیباگ در دسترس باشند.
  */
 public class PauseScreen extends BaseMenuScreen {
 
     private final Screen previousScreen;
     private final Runnable onRestart;
+    private final GameSession session;
 
     public PauseScreen(PvZGame game, Screen previousScreen, Runnable onRestart) {
+        this(game, previousScreen, onRestart, null);
+    }
+
+    public PauseScreen(PvZGame game, Screen previousScreen, Runnable onRestart, GameSession session) {
         super(game);
         this.previousScreen = previousScreen;
         this.onRestart = onRestart;
+        this.session = session;
 
         rootTable.add(title("Game Paused")).padBottom(20f).row();
 
@@ -63,11 +80,56 @@ public class PauseScreen extends BaseMenuScreen {
 
         rootTable.add(form).padBottom(20f).row();
 
+        User user = game.getLoggedInUser();
+        if (session != null && user != null && user.isDebugMode()) {
+            rootTable.add(buildCheatSection(user)).padBottom(20f).row();
+        }
+
         Table buttons = new Table();
         addButton(buttons, "Resume", this::doResume);
         addButton(buttons, "Restart", this::doRestart);
         addButton(buttons, "Save and Exit", this::doSaveAndExit);
         rootTable.add(buttons).row();
+    }
+
+    /**
+     * همه‌ی «تقلب»های حین بازی که در فاز یک داشتیم (افزودن خورشید، غذای گیاه،
+     * حذف زمان انتظار کاشت، افزودن سکه/الماس، اسپاون زامبی، کشتن همه‌ی
+     * زامبی‌ها) یک‌جا اینجا جمع شده‌اند.
+     */
+    private Table buildCheatSection(User user) {
+        Table section = new Table();
+        section.add(new Label("Cheat Codes", skin, "title")).colspan(4).padBottom(10f).row();
+
+        section.add(cheatButton("+ Sun", () -> session.getSunManager().addSun(50))).pad(4f);
+        section.add(cheatButton("+ Plant Food", session::addPlantFood)).pad(4f);
+        section.add(cheatButton("Remove Cooldown", session::clearAllCooldowns)).pad(4f);
+        section.add(cheatButton("Nuke (kill all zombies)", () -> session.getAliveZombies().clear())).pad(4f);
+        section.row();
+        section.add(cheatButton("+ Coin", () -> user.setCoins(user.getCoins() + 500))).pad(4f);
+        section.add(cheatButton("+ Diamond", () -> user.setDiamonds(user.getDiamonds() + 5))).pad(4f);
+        section.add(cheatButton("Spawn Zombie", () -> {
+            int dl = session.getUser().getDifficultyLevel();
+            Zombie z = model.zombie.ZombieFactory.create("normal", dl);
+            int row = new java.util.Random().nextInt(Board.ROWS);
+            z.spawn(row, Board.COLS - 1);
+            z.setSpawnTick((int) session.getTickCount());
+            session.getAliveZombies().add(z);
+        })).pad(4f);
+        section.row();
+
+        return section;
+    }
+
+    private TextButton cheatButton(String text, Runnable action) {
+        TextButton button = new TextButton(text, skin);
+        button.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                action.run();
+            }
+        });
+        return button;
     }
 
     private void doResume() {

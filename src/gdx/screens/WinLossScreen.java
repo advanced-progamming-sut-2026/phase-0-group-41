@@ -22,8 +22,10 @@ public class WinLossScreen extends BaseMenuScreen {
 
         SoundManager.playMusic(won ? AssetPaths.MUSIC_WIN : AssetPaths.MUSIC_LOSE);
 
+        // برد: تیتر معمولی (fbUsv8C5eI). باخت: فونت وحشت "House of Terror"
+        // برای تأکید بصری زامبی‌محور روی بنر "You Lose!".
         String headline = won ? "You Win!" : "You Lose!";
-        rootTable.add(title(headline)).padBottom(16f).row();
+        rootTable.add(won ? title(headline) : horrorTitle(headline)).padBottom(16f).row();
         rootTable.add(new Label("Chapter " + chapter + " - Level " + level, skin)).padBottom(10f).row();
         rootTable.add(new Label("Score earned: " + scoreEarned, skin)).padBottom(30f).row();
 

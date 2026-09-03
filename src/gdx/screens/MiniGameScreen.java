@@ -21,6 +21,7 @@ import gdx.util.ImageUtils;
 import gdx.util.SoundManager;
 
 import model.game.Board;
+import model.game.Tile;
 import model.minigame.BeghouledSession;
 import model.minigame.IZombieSession;
 import model.minigame.MiniGameSession;
@@ -40,10 +41,12 @@ public class MiniGameScreen implements Screen {
     private static final float WORLD_WIDTH = 1280f;
     private static final float WORLD_HEIGHT = 720f;
 
-    private static final float BOARD_LEFT = 260f;
-    private static final float BOARD_TOP = 640f;
-    private static final float TILE_W = 100f;
-    private static final float TILE_H = 96f;
+    // مطابق GameScreen: با اندازه‌گیری پیکسلی مستقیم ناحیه‌ی واقعی کاشت در
+    // پس‌زمینه‌ی چمن محاسبه شده (نه اعداد گرد حدسی قبلی).
+    private static final float BOARD_LEFT = 325f;
+    private static final float BOARD_TOP = 518f;
+    private static final float TILE_W = 98.75f;
+    private static final float TILE_H = 87.9f;
     private static final float SECONDS_PER_TICK = 0.1f;
 
     private final PvZGame game;
@@ -130,7 +133,7 @@ public class MiniGameScreen implements Screen {
         sunBox.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(32f).padRight(4f);
         sunBox.add(sunLabel).padRight(20f);
 
-        Label title = new Label(displayNameFor(gameName) + " - Level " + level, skin, "title");
+        Label title = new Label(gameName + " - Level " + level, skin, "title");
 
         Table row = new Table();
         row.add(pauseButton).size(56f, 44f).padRight(8f);
@@ -312,10 +315,14 @@ public class MiniGameScreen implements Screen {
         // کلیک‌لیستنر «منجمد» می‌ماند؛ چون الان همین Actor بین فریم‌ها زنده
         // می‌ماند، باید هر بار وضعیت واقعی فعلی selectedDroppedSeed را بخوانیم
         // نه مقدار قدیمی زمان ساخت را.
+        boolean isSelected = selectedDroppedSeed == seed;
+        if (isSelected) {
+            stack.setColor(1f, 1f, 0.6f, 1f); // هایلایت زرد برای بذر انتخاب‌شده
+        }
         stack.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
-                selectedDroppedSeed = (selectedDroppedSeed == seed) ? null : seed; // کلیک دوباره یعنی لغو انتخاب
+                selectedDroppedSeed = isSelected ? null : seed; // کلیک دوباره یعنی لغو انتخاب
                 SoundManager.playSound(AssetPaths.SFX_CLICK);
             }
         });
@@ -346,9 +353,13 @@ public class MiniGameScreen implements Screen {
         stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         stack.add(new com.badlogic.gdx.scenes.scene2d.ui.Image(ImageUtils.loadRegion(AssetPaths.zombieIcon(zombieType))));
 
+        boolean onCooldown = iz.isZombieOnCooldown(zombieType);
         Table overlay = new Table();
         overlay.bottom();
-        Label label = new Label("", skin);
+        String caption = onCooldown
+                ? (iz.getZombieCooldownRemaining(zombieType) / 10) + "s"
+                : String.valueOf(iz.getZombieCost(zombieType));
+        Label label = new Label(caption, skin);
         label.setFontScale(0.6f);
         overlay.add(label);
         stack.add(overlay);
@@ -369,6 +380,19 @@ public class MiniGameScreen implements Screen {
                 SoundManager.playSound(AssetPaths.SFX_CLICK);
             }
         });
+
+        if (onCooldown) {
+            stack.getColor().a = 0.5f; // کم‌رنگ کردن کارت در حال شارژ (مطابق رفتار کارت گیاه در حال cooldown)
+        } else {
+            stack.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    selectedZombieType = zombieType;
+                    selectedNutType = null;
+                    SoundManager.playSound(AssetPaths.SFX_CLICK);
+                }
+            });
+        }
         return stack;
     }
 
@@ -521,6 +545,13 @@ public class MiniGameScreen implements Screen {
                 }
                 TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(plant.getName()));
                 batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
+
+                // نشانگر خورشیدِ آماده‌ی برداشت (مثلاً روی آفتابگردان‌های دفاعی «من زامبی»)
+                if (plant instanceof model.plant.interfaces.ISunProducer
+                        && ((model.plant.interfaces.ISunProducer) plant).isSunReady()) {
+                    TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
+                    batch.draw(sunTex, tileX(c) + TILE_W - 30f, tileY(r) + TILE_H - 30f, 32f, 32f);
+                }
             }
         }
     }
@@ -634,10 +665,25 @@ public class MiniGameScreen implements Screen {
     }
 
     private void handleIZombieClick(int row, int col) {
+        IZombieSession iz = (IZombieSession) session;
+
+        // اول بررسی می‌کنیم آیا خانه‌ی کلیک‌شده گیاه تولیدکننده‌ی خورشیدِ آماده‌ی
+        // برداشت دارد (مثل آفتابگردان‌های دفاعی این مینی‌گیم)؛ این کار مستقل از
+        // انتخاب زامبی است، دقیقاً مثل مراحل عادی.
+        Tile clickedTile = session.getBoard().getTile(row, col);
+        if (clickedTile != null && clickedTile.getPlant() instanceof model.plant.interfaces.ISunProducer) {
+            model.plant.interfaces.ISunProducer producer = (model.plant.interfaces.ISunProducer) clickedTile.getPlant();
+            if (producer.isSunReady()) {
+                session.getSunManager().addSun(producer.getReadySunAmount());
+                producer.collectSun();
+                SoundManager.playSound(AssetPaths.SFX_SUN);
+                return;
+            }
+        }
+
         if (selectedZombieType == null) {
             return;
         }
-        IZombieSession iz = (IZombieSession) session;
         IZombieSession.PlaceZombieResult result = iz.placeZombie(selectedZombieType, row, col);
         switch (result) {
             case SUCCESS:

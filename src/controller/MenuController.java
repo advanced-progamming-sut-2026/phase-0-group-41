@@ -40,7 +40,7 @@ public class MenuController {
         this.consoleView = consoleView;
         this.leaderboardView = new LeaderboardView(new LeaderboardController(userManager), consoleView);
         this.registerView = new RegisterView(new RegisterController(userManager), consoleView, this);
-        this.loginView = new LoginView(new LoginController(), consoleView, this);
+        this.loginView = new LoginView(new LoginController(userManager), consoleView, this);
         this.mainView = new MainView(new MainController(userManager), consoleView, this);
         this.playView = new PlayView(new PlayController(userManager), consoleView, this);
         this.settingsView = new SettingsView(new SettingsController(userManager), consoleView, this);
