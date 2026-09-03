@@ -167,6 +167,34 @@ public class MultiplayerMatch {
         return null;
     }
 
+    /**
+     * برداشت خورشیدِ آماده از یک آفتابگردان (یا هر گیاه خورشیدزای دیگر) روی
+     * زمین. فقط بازیکن نقش PLANT اجازه‌ی این کار را دارد؛ سرور دوباره (مستقل
+     * از کلاینت) بررسی می‌کند که واقعاً خورشیدی برای برداشت آماده باشد.
+     * null یعنی موفق، در غیر این صورت پیام خطا برای کلاینت است.
+     */
+    public synchronized String collectSun(String username, int row, int col) {
+        if (!plantUsername.equals(username) || finished) {
+            return "ERR_INVALID";
+        }
+        model.game.Board board = session.getBoard();
+        if (row < 0 || row >= model.game.Board.ROWS || col < 0 || col >= model.game.Board.COLS) {
+            return "ERR_INVALID_LOCATION";
+        }
+        model.game.Tile tile = board.getTile(row, col);
+        model.plant.Plant plant = (tile == null) ? null : tile.getPlant();
+        if (!(plant instanceof model.plant.interfaces.ISunProducer)) {
+            return "ERR_INVALID_LOCATION";
+        }
+        model.plant.interfaces.ISunProducer producer = (model.plant.interfaces.ISunProducer) plant;
+        if (!producer.isSunReady()) {
+            return "ERR_NOT_READY";
+        }
+        session.getSunManager().addSun(producer.getReadySunAmount());
+        producer.collectSun();
+        return null;
+    }
+
     public void sendReaction(String fromUsername, String kind, String content) {
         String targetUsername = fromUsername.equals(plantUsername) ? zombieUsername : plantUsername;
         List<ReactionMessage> queue = pendingReactions.get(targetUsername);

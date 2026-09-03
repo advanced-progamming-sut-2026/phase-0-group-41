@@ -273,17 +273,51 @@ public class IZombieCouchScreen implements Screen {
     }
 
     private void handlePlantMouseInput() {
-        if (!Gdx.input.justTouched() || selectedPlantType == null) {
+        // === رفع باگ: امکان برداشت خورشید حتی بدون انتخاب گیاه ===
+        // قبلاً این متد اگر هیچ گیاهی انتخاب نشده بود کلاً زودتر برمی‌گشت، پس
+        // کلیک روی آفتابگردانِ آماده‌ی برداشت (بدون اینکه کارت گیاه دیگری هم
+        // انتخاب شده باشد) بی‌اثر بود. حالا فقط کلیک‌نشدن باعث خروج زودهنگام
+        // می‌شود؛ خالی بودن selectedPlantType داخل خودِ منطق کاشتن چک می‌شود.
+        if (!Gdx.input.justTouched()) {
             return;
         }
         Vector2 touch = stage.screenToStageCoordinates(new Vector2(Gdx.input.getX(), Gdx.input.getY()));
         int col = (int) ((touch.x - BOARD_LEFT) / TILE_W);
-        int row = (int) ((BOARD_TOP - touch.y) / TILE_H) - 1;
+        // === رفع باگ: کم کردن اضافی ۱ از سطر ===
+        // قبلاً اینجا «- 1» اضافه بود که باعث می‌شد فرمول با tileY() (که خودش
+        // «(row + 1) * TILE_H» را از BOARD_TOP کم می‌کند) هم‌خوان نباشد؛
+        // در نتیجه ردیف بالایی همیشه row=-1 (خارج از بازه) حساب می‌شد و بقیه‌ی
+        // ردیف‌ها هم یکی جابه‌جا محاسبه می‌شدند، پس عملاً کاشتن گیاه ممکن
+        // نبود یا در خانه‌ی اشتباه انجام می‌شد. همین فرمول در MiniGameScreen
+        // (بدون "- 1") درست کار می‌کند.
+        int row = (int) ((BOARD_TOP - touch.y) / TILE_H);
         if (col < 0 || col >= Board.COLS || row < 0 || row >= Board.ROWS) {
             return;
         }
 
         Tile tile = session.getBoard().getTile(row, col);
+
+        // === رفع باگ: برداشت خورشید از آفتابگردان‌ها ===
+        // قبلاً کلیک روی یک آفتابگردانِ آماده‌ی برداشت هیچ اثری نداشت (چون این
+        // متد فقط منطق کاشتن را داشت)، پس تنها منبع خورشید طرف گیاه همان
+        // خورشید اولیه‌ی شروع بازی بود و هیچ‌وقت افزایش پیدا نمی‌کرد. حالا
+        // دقیقاً مطابق الگوی MiniGameScreen.handleIZombieClick، اول بررسی
+        // می‌کنیم آیا خانه‌ی کلیک‌شده گیاهِ خورشیدزای آماده دارد.
+        if (tile != null && tile.getPlant() instanceof model.plant.interfaces.ISunProducer) {
+            model.plant.interfaces.ISunProducer producer =
+                    (model.plant.interfaces.ISunProducer) tile.getPlant();
+            if (producer.isSunReady()) {
+                session.getSunManager().addSun(producer.getReadySunAmount());
+                producer.collectSun();
+                statusLabel.setText("+" + producer.getReadySunAmount() + " sun collected!");
+                SoundManager.playSound(AssetPaths.SFX_SUN);
+                return;
+            }
+        }
+
+        if (selectedPlantType == null) {
+            return;
+        }
         if (session.isPlantOnCooldown(selectedPlantType)) {
             statusLabel.setText(selectedPlantType + " is on cooldown.");
             return;
@@ -327,6 +361,16 @@ public class IZombieCouchScreen implements Screen {
                 if (plant == null) continue;
                 TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(plant.getName()));
                 batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
+
+                // === اضافه‌شده: نشانگر خورشیدِ آماده‌ی برداشت روی آفتابگردان‌ها ===
+                // بدون این نشانگر بازیکن سمت گیاه اصلاً نمی‌دانست کدام
+                // آفتابگردان خورشید آماده دارد که باید کلیک کند (مطابق همان
+                // الگوی MiniGameScreen).
+                if (plant instanceof model.plant.interfaces.ISunProducer
+                        && ((model.plant.interfaces.ISunProducer) plant).isSunReady()) {
+                    TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
+                    batch.draw(sunTex, tileX(c) + TILE_W - 30f, tileY(r) + TILE_H - 30f, 32f, 32f);
+                }
             }
         }
     }

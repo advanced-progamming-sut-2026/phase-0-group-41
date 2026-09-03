@@ -364,6 +364,11 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         for (BoardSnapshot.PlantDto p : snapshot.plants) {
             TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(p.name));
             batch.draw(tex, tileX(p.col) + 8f, tileY(p.row) + 8f, TILE_W - 16f, TILE_H - 16f);
+            // === اضافه‌شده: نشانگر خورشیدِ آماده‌ی برداشت (طرف PLANT) ===
+            if (p.sunReady) {
+                TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
+                batch.draw(sunTex, tileX(p.col) + TILE_W - 30f, tileY(p.row) + TILE_H - 30f, 32f, 32f);
+            }
         }
     }
 
@@ -385,7 +390,11 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         Vector2 touch = stage.screenToStageCoordinates(new Vector2(Gdx.input.getX(), Gdx.input.getY()));
 
         int col = (int) ((touch.x - BOARD_LEFT) / TILE_W);
-        int row = (int) ((BOARD_TOP - touch.y) / TILE_H) - 1;
+        // === رفع باگ: همان مشکل off-by-one که در IZombieCouchScreen بود ===
+        // «- 1» اضافی باعث می‌شد ردیف بالایی همیشه نامعتبر (row=-1) و بقیه‌ی
+        // ردیف‌ها یکی جابه‌جا محاسبه شوند؛ هم برای کاشتن گیاه و هم برای
+        // گذاشتن زامبی با کلیک، چون هر دو از همین متد استفاده می‌کنند.
+        int row = (int) ((BOARD_TOP - touch.y) / TILE_H);
         if (col < 0 || col >= Board.COLS || row < 0 || row >= Board.ROWS) {
             return;
         }
@@ -393,6 +402,13 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         if (myRole == MultiplayerMatch.Role.ZOMBIE) {
             placeZombieAt(row, col);
         } else if (myRole == MultiplayerMatch.Role.PLANT) {
+            // === اضافه‌شده: اول بررسی برداشت خورشید، سپس کاشت ===
+            // اگر خانه‌ی کلیک‌شده گیاهِ خورشیدزای آماده‌ی برداشت دارد، اول آن
+            // را جمع می‌کنیم (دقیقاً مثل حالت couch)؛ در غیر این صورت طبق روال
+            // قبلی کاشت انجام می‌شود.
+            if (snapshot != null && tryCollectSunAt(row, col)) {
+                return;
+            }
             plantAt(row, col);
         }
     }
@@ -404,6 +420,23 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         String result = IZombieNetworkClient.placeZombie(myUsername, matchId, selectedZombieType, row, col);
         statusLabel.setText(describeZombieResult(result));
         SoundManager.playSound(AssetPaths.SFX_CLICK);
+    }
+
+    /** اگر خانه‌ی داده‌شده گیاهِ خورشیدزای آماده‌ی برداشت داشته باشد، درخواست
+     *  برداشت به سرور می‌فرستد و true برمی‌گرداند؛ وگرنه false (تا فراخوان
+     *  به‌جای آن کاشت را امتحان کند). */
+    private boolean tryCollectSunAt(int row, int col) {
+        for (BoardSnapshot.PlantDto p : snapshot.plants) {
+            if (p.row == row && p.col == col && p.sunReady) {
+                String result = IZombieNetworkClient.collectSun(myUsername, matchId, row, col);
+                if ("SUCCESS".equals(result)) {
+                    statusLabel.setText("+" + p.readySunAmount + " sun collected!");
+                    SoundManager.playSound(AssetPaths.SFX_SUN);
+                }
+                return true;
+            }
+        }
+        return false;
     }
 
     private void plantAt(int row, int col) {

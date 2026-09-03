@@ -179,6 +179,17 @@ public final class IZombieNetworkClient {
         return res.responseBody;
     }
 
+    /** برداشت خورشیدِ آماده از یک آفتابگردان روی زمین (فقط نقش PLANT). */
+    public static String collectSun(String username, String matchId, int row, int col) {
+        NetworkMessage req = new NetworkMessage("IZOMBIE_COLLECT_SUN");
+        req.data.put("username", username);
+        req.data.put("matchId", matchId);
+        req.data.put("row", String.valueOf(row));
+        req.data.put("col", String.valueOf(col));
+        NetworkMessage res = NetworkManager.sendRequest(req);
+        return res.responseBody;
+    }
+
     public static void sendReaction(String username, String matchId, String kind, String content) {
         NetworkMessage req = new NetworkMessage("IZOMBIE_SEND_REACTION");
         req.data.put("username", username);

@@ -411,6 +411,22 @@ public class ClientHandler implements Runnable {
                         break;
                     }
 
+                    case "IZOMBIE_COLLECT_SUN": {
+                        String username = request.data.get("username");
+                        String matchId = request.data.get("matchId");
+                        MultiplayerMatch match = MatchmakingManager.getMatch(matchId);
+                        if (match == null || !match.involves(username)) {
+                            response.responseBody = "ERR_MATCH_NOT_FOUND";
+                            break;
+                        }
+                        int row = parseIntOr(request.data.get("row"), -1);
+                        int col = parseIntOr(request.data.get("col"), -1);
+                        String error = match.collectSun(username, row, col);
+                        response.success = (error == null);
+                        response.responseBody = (error == null) ? "SUCCESS" : error;
+                        break;
+                    }
+
                     case "IZOMBIE_SEND_REACTION": {
                         String username = request.data.get("username");
                         String matchId = request.data.get("matchId");

@@ -90,7 +90,18 @@ public class IZombieSession extends MiniGameSession {
 
     private void setupCardboardPlants(int densityPercent) {
         Random rand = new Random();
-        // چیدن تصادفی گیاهان در نیمه چپ زمین
+        // === رفع باگ بالانس: تولید خورشید طرف گیاه در برابر طرف زامبی ===
+        // طرف زامبی از ۵ زامبیِ خورشیدزای ثابت (یکی در هر ردیف) بهره می‌برد که
+        // خودکار و بدون نیاز به کلیک خورشید تولید می‌کنند و با گذشت زمان
+        // سریع‌تر هم می‌شوند (هر ۳۰ ثانیه، تا سقف هر ۴ ثانیه). طرف گیاه قبلاً
+        // فقط با احتمال ۳۰٪ از میان گیاهانِ به‌طور تصادفی کاشته‌شده صاحب
+        // آفتابگردان می‌شد که در سطح ۱ (تراکم ۵۰٪) به‌طور میانگین فقط ۲ تا ۳
+        // آفتابگردان در کل زمین می‌شد؛ یعنی نرخ تولید خورشید طرف گیاه (حدود
+        // ۶ خورشید در ثانیه در بهترین حالت) در برابر طرف زامبی (حدود ۳۱ خورشید
+        // در ثانیه در حالت پایدار) شدیداً کم بود. اینجا سهم آفتابگردان از ۳۰٪
+        // به ۵۰٪ افزایش می‌یابد تا میانگین تعداد آفتابگردان‌ها تقریباً دو برابر
+        // شود و فاصله‌ی این دو نرخ منطقی‌تر شود؛ عناصر دفاعی (peashooter/squash)
+        // هم برای حفظ آرایش تقریبی قبلی کمی کم می‌شوند.
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 1; c < RED_LINE_COL; c++) {
                 int chance = rand.nextInt(100);
@@ -98,12 +109,12 @@ public class IZombieSession extends MiniGameSession {
                     continue; // این خانه خالی می‌ماند
                 }
                 int subChance = rand.nextInt(100);
-                if (subChance < 30) {
-                    // آفتابگردان‌ها منبع اصلی درآمد شما هستند (با خورده شدنشان خورشید می‌گیرید)
+                if (subChance < 50) {
+                    // آفتابگردان‌ها منبع اصلی درآمد شما هستند (با کلیک روی آن‌ها خورشید جمع می‌کنید)
                     getBoard().getTile(r, c).setPlant(PlantFactory.create("sunflower"));
-                } else if (subChance < 60) {
+                } else if (subChance < 75) {
                     getBoard().getTile(r, c).setPlant(PlantFactory.create("peashooter"));
-                } else if (subChance < 80) {
+                } else if (subChance < 90) {
                     getBoard().getTile(r, c).setPlant(PlantFactory.create("squash"));
                 }
             }

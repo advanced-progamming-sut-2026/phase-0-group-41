@@ -48,6 +48,13 @@ public class BoardSnapshot implements Serializable {
         public int col;
         public int health;
         public int maxHealth;
+        // === اضافه‌شده: وضعیت خورشیدِ آماده‌ی برداشت ===
+        // قبلاً این DTO اصلاً نمی‌گفت کدام گیاه خورشید آماده دارد، پس کلاینت
+        // (طرف PLANT) هیچ‌وقت نمی‌فهمید کِی باید روی یک آفتابگردان کلیک کند تا
+        // خورشیدش را جمع کند؛ در نتیجه هیچ خورشیدی از آفتابگردان‌ها جمع
+        // نمی‌شد و طرف گیاه فقط با همان خورشید اولیه بازی می‌کرد.
+        public boolean sunReady;
+        public int readySunAmount;
     }
 
     public static class ZombieDto implements Serializable {
@@ -85,6 +92,11 @@ public class BoardSnapshot implements Serializable {
                     dto.col = c;
                     dto.health = p.getHealth();
                     dto.maxHealth = p.getMaxHealth();
+                    if (p instanceof model.plant.interfaces.ISunProducer) {
+                        model.plant.interfaces.ISunProducer producer = (model.plant.interfaces.ISunProducer) p;
+                        dto.sunReady = producer.isSunReady();
+                        dto.readySunAmount = producer.getReadySunAmount();
+                    }
                     snap.plants.add(dto);
                 }
             }
