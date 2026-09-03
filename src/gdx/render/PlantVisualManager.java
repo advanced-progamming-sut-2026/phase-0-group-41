@@ -1,7 +1,8 @@
 package gdx.render;
 
 import com.badlogic.gdx.graphics.Color;
-import com.badlogic.gdx.graphics.g2d.Batch;
+
+import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import model.game.Board;
 import model.plant.Plant;
 
@@ -48,7 +49,7 @@ public class PlantVisualManager {
         for (AnimatedEntity e : entities.values()) e.update(delta);
     }
 
-    public void draw(Batch batch) {
+    public void draw(SpriteBatch batch) {
         for (AnimatedEntity e : entities.values()) e.draw(batch);
     }
 }

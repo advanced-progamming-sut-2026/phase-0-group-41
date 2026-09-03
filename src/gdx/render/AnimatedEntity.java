@@ -1,8 +1,9 @@
 package gdx.render;
 
 import com.badlogic.gdx.graphics.Color;
-import com.badlogic.gdx.graphics.g2d.Batch;
-
+import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import gdx.render.PamAssets;
+import gdx.render.ZombieVisualManager;
 public class AnimatedEntity {
 
     private final String pamPath;
@@ -21,7 +22,7 @@ public class AnimatedEntity {
 
     public void update(float delta) { stateTime += delta; }
 
-    public void draw(Batch batch) {
+    public void draw(SpriteBatch batch) {
         batch.setColor(tint);
         PamAssets.get().getPamPlayer().draw(batch, pamPath, clipName, stateTime, x, y, flipped);
         batch.setColor(Color.WHITE);
