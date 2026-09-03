@@ -351,6 +351,52 @@ public class IZombieCouchScreen implements Screen {
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
         TextureRegion bg = ImageUtils.loadRegion(AssetPaths.BG_MINIGAME_IZOMBIE);
         batch.draw(bg, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
+        drawRedLine(batch);
+    }
+
+    /**
+     * === اضافه‌شده: رسم خط قرمز (مرز کاشتن زامبی) ===
+     * قبلاً هیچ نشانه‌ی بصری‌ای برای خط قرمز روی زمین وجود نداشت؛ فقط وقتی
+     * بازیکن زامبی سعی می‌کرد سمت چپِ خط قرمز زامبی بگذارد، یک پیام متنی
+     * («Zombies can only go right of the red line») نشانش داده می‌شد. حالا
+     * یک خط قرمزِ ضخیم دقیقاً روی مرز ستونِ RED_LINE_COL رسم می‌شود تا هر دو
+     * بازیکن از قبل بدانند کجا مجاز/غیرمجاز است.
+     */
+    private void drawRedLine(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        int redLineCol = session.getRedLineCol();
+        float x = tileX(redLineCol) - 3f;
+        float y = tileY(Board.ROWS - 1);
+        Color prev = batch.getColor().cpy();
+        batch.setColor(Color.RED);
+        batch.draw(skin.getRegion("white"), x, y, 6f, TILE_H * Board.ROWS);
+        batch.setColor(prev);
+    }
+
+    /**
+     * === اضافه‌شده: رسم با حفظ نسبت ابعاد (aspect ratio) ===
+     * قبلاً هر اسپرایت گیاه/زامبی به‌زور داخل کل مستطیل تایل کش/فشرده
+     * می‌شد (batch.draw(tex, x, y, TILE_W-16, TILE_H-16))، بدون توجه به
+     * ابعاد واقعی تصویر (که برای هر گیاه فرق می‌کند، مثلاً ۱۶۹×۱۸۷ یا
+     * ۱۰۷×۹۰). چون ابعاد این باکس با نسبت واقعی تصویر یکی نبود، گیاه/زامبی
+     * کشیده یا فشرده و انگار در خانه‌ی خودش «جابه‌جا» به نظر می‌رسید (دقیقاً
+     * همان چیزی که در عکس بازی اجراشده مشخص است، در مقابل بازی اصلی که هر
+     * گیاه با نسبت درست و چسبیده به کف خانه‌اش رسم می‌شود). این متد همان
+     * راه‌حلی است که در GameScreen.drawFitted استفاده شده: تصویر با حفظ
+     * نسبت ابعاد داخل جعبه جا می‌شود، وسط‌چین افقی و چسبیده به کف تایل.
+     */
+    private void drawFitted(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
+                             float x, float y, float w, float h) {
+        float texW = tex.getRegionWidth();
+        float texH = tex.getRegionHeight();
+        if (texW <= 0 || texH <= 0) {
+            batch.draw(tex, x, y, w, h);
+            return;
+        }
+        float scale = Math.min(w / texW, h / texH);
+        float drawW = texW * scale;
+        float drawH = texH * scale;
+        float drawX = x + (w - drawW) / 2f;
+        batch.draw(tex, drawX, y, drawW, drawH);
     }
 
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
@@ -360,7 +406,7 @@ public class IZombieCouchScreen implements Screen {
                 Plant plant = board.getTile(r, c).getPlant();
                 if (plant == null) continue;
                 TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(plant.getName()));
-                batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
+                drawFitted(batch, tex, tileX(c) + 8f, tileY(r) + 4f, TILE_W - 16f, TILE_H - 8f);
 
                 // === اضافه‌شده: نشانگر خورشیدِ آماده‌ی برداشت روی آفتابگردان‌ها ===
                 // بدون این نشانگر بازیکن سمت گیاه اصلاً نمی‌دانست کدام
@@ -380,7 +426,7 @@ public class IZombieCouchScreen implements Screen {
             TextureRegion tex = ImageUtils.loadRegion(AssetPaths.zombieIcon(z.getTypeName()));
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
-            batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
+            drawFitted(batch, tex, x + 5f, y + 2f, TILE_W - 10f, TILE_H - 4f);
         }
     }
 

@@ -358,12 +358,46 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
         TextureRegion bg = ImageUtils.loadRegion(AssetPaths.BG_MINIGAME_IZOMBIE);
         batch.draw(bg, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
+        drawRedLine(batch);
+    }
+
+    /** === اضافه‌شده: رسم خط قرمز (مرز کاشتن زامبی)، مطابق IZombieCouchScreen === */
+    private void drawRedLine(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        if (snapshot == null || snapshot.redLineCol <= 0) {
+            return;
+        }
+        float x = tileX(snapshot.redLineCol) - 3f;
+        float y = tileY(Board.ROWS - 1);
+        Color prev = batch.getColor().cpy();
+        batch.setColor(Color.RED);
+        batch.draw(skin.getRegion("white"), x, y, 6f, TILE_H * Board.ROWS);
+        batch.setColor(prev);
+    }
+
+    /**
+     * === اضافه‌شده: رسم با حفظ نسبت ابعاد، مطابق GameScreen.drawFitted و
+     * IZombieCouchScreen.drawFitted === رفع همان مشکل کش‌شدن/نامتناسب‌شدن
+     * گیاه‌ها و زامبی‌ها که قبلاً با کشیدن به‌زور داخل TILE_W×TILE_H رخ می‌داد.
+     */
+    private void drawFitted(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
+                             float x, float y, float w, float h) {
+        float texW = tex.getRegionWidth();
+        float texH = tex.getRegionHeight();
+        if (texW <= 0 || texH <= 0) {
+            batch.draw(tex, x, y, w, h);
+            return;
+        }
+        float scale = Math.min(w / texW, h / texH);
+        float drawW = texW * scale;
+        float drawH = texH * scale;
+        float drawX = x + (w - drawW) / 2f;
+        batch.draw(tex, drawX, y, drawW, drawH);
     }
 
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
         for (BoardSnapshot.PlantDto p : snapshot.plants) {
             TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(p.name));
-            batch.draw(tex, tileX(p.col) + 8f, tileY(p.row) + 8f, TILE_W - 16f, TILE_H - 16f);
+            drawFitted(batch, tex, tileX(p.col) + 8f, tileY(p.row) + 4f, TILE_W - 16f, TILE_H - 8f);
             // === اضافه‌شده: نشانگر خورشیدِ آماده‌ی برداشت (طرف PLANT) ===
             if (p.sunReady) {
                 TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
@@ -377,7 +411,7 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
             TextureRegion tex = ImageUtils.loadRegion(AssetPaths.zombieIcon(z.typeName));
             float x = tileX(0) + (float) z.xPosition * TILE_W;
             float y = tileY(z.row);
-            batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
+            drawFitted(batch, tex, x + 5f, y + 2f, TILE_W - 10f, TILE_H - 4f);
         }
     }
 

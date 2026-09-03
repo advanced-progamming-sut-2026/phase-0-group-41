@@ -8,6 +8,8 @@ import com.badlogic.gdx.scenes.scene2d.ui.SelectBox;
 import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
+import com.badlogic.gdx.utils.Align;
+import com.badlogic.gdx.utils.Scaling;
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
@@ -144,7 +146,14 @@ public class CollectionScreen extends BaseMenuScreen {
         Stack stack = new Stack();
         stack.add(new Image(ImageUtils.loadRegion(AssetPaths.CARD_BACKGROUND)));
         if (unlocked) {
-            stack.add(new Image(ImageUtils.loadRegion(AssetPaths.plantIcon(plantName))));
+            // === رفع باگ: کش‌شدن گرافیک گیاه در گالری/کالکشن ===
+            // قبلاً Image پیش‌فرض (Scaling.stretch) بود، پس هر گیاه بدون
+            // توجه به نسبت ابعاد واقعی‌اش داخل کارت ۹۰×۱۱۰ کش می‌شد. با
+            // Scaling.fit تصویر با حفظ نسبت ابعاد و وسط‌چین نمایش داده می‌شود.
+            Image plantImage = new Image(ImageUtils.loadRegion(AssetPaths.plantIcon(plantName)));
+            plantImage.setScaling(Scaling.fit);
+            plantImage.setAlign(Align.center);
+            stack.add(plantImage);
         } else if (!AssetPaths.ICON_LOCK.isEmpty()) {
             stack.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_LOCK)));
         }

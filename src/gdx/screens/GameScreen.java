@@ -681,7 +681,21 @@ public class GameScreen implements Screen {
         com.badlogic.gdx.math.Vector2 p = currentPointerStageCoords();
         float size = 56f;
         TextureRegion tex = ImageUtils.loadRegion(iconPath);
-        batch.draw(tex, p.x - size / 2f, p.y - size / 2f, size, size);
+        // === رفع باگ: کش‌شدن آیکون دنبال‌کننده‌ی موس ===
+        // قبلاً این آیکون هم بدون حفظ نسبت ابعاد داخل مربع ۵۶×۵۶ کش می‌شد.
+        // چون این یک آیکونِ شناور کنار موس است (نه گیاهی ایستاده روی خانه)،
+        // باید کاملاً وسط‌چین (افقی و عمودی) شود، نه چسبیده به کف مثل
+        // drawFitted؛ به همین دلیل این‌جا محاسبه مستقیماً انجام می‌شود.
+        float texW = tex.getRegionWidth();
+        float texH = tex.getRegionHeight();
+        if (texW > 0 && texH > 0) {
+            float scale = Math.min(size / texW, size / texH);
+            float drawW = texW * scale;
+            float drawH = texH * scale;
+            batch.draw(tex, p.x - drawW / 2f, p.y - drawH / 2f, drawW, drawH);
+        } else {
+            batch.draw(tex, p.x - size / 2f, p.y - size / 2f, size, size);
+        }
     }
 
     /**

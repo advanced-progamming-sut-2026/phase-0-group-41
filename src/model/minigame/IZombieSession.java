@@ -22,6 +22,13 @@ public class IZombieSession extends MiniGameSession {
     private static final int RED_LINE_COL = 5; // زامبی‌ها فقط در ستون ۵ به بعد (سمت راست) کاشته می‌شوند
     private static final int COOLDOWN_TICKS = 100; // ۱۰ ثانیه‌ی آماده‌سازی مجدد برای هر نوع زامبی
 
+    /** شماره‌ی ستونی که خط قرمز از سمت چپ آن شروع می‌شود (برای رسم خط قرمز
+     *  در صفحه‌های couch/آنلاین I, Zombie؛ قبلاً این مقدار private بود و هیچ
+     *  صفحه‌ای نمی‌توانست آن را برای رسم خط بخواند). */
+    public int getRedLineCol() {
+        return RED_LINE_COL;
+    }
+
     private final boolean[] brainsEaten = new boolean[Board.ROWS];
     private boolean isGameWon = false;
     private boolean isGameLost = false;

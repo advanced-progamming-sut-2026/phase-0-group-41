@@ -36,6 +36,13 @@ public class BoardSnapshot implements Serializable {
     public boolean plantSideWon;
     public long tickCount;
     public int timeRemainingTicks; // شمارش معکوس تایمر ۲ دقیقه‌ای طرف گیاه
+    // === اضافه‌شده: شماره‌ی ستون خط قرمز ===
+    // قبلاً کلاینت هیچ راهی برای دانستن مرز خط قرمز نداشت (چون این مقدار
+    // فقط داخل IZombieSession روی سرور بود)، پس صفحه‌ی آنلاین اصلاً خط
+    // قرمزی رسم نمی‌کرد. اکنون همراه هر عکس‌فوری ارسال می‌شود تا کلاینت
+    // همیشه دقیقاً با مقدار واقعیِ سرور هماهنگ بماند (به‌جای هاردکد کردن
+    // یک عدد جدا که ممکن است در آینده با تغییر سرور ناهماهنگ شود).
+    public int redLineCol;
     public List<String> events = new ArrayList<>();
 
     public List<PlantDto> plants = new ArrayList<>();
@@ -76,6 +83,7 @@ public class BoardSnapshot implements Serializable {
         snap.plantSideWon = session.isGameOver() && session.isWon();
         snap.tickCount = session.getTickCount();
         snap.timeRemainingTicks = timeRemainingTicks;
+        snap.redLineCol = session.getRedLineCol();
         if (newEvents != null) {
             snap.events.addAll(newEvents);
         }

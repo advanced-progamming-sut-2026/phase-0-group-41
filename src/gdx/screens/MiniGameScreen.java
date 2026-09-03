@@ -543,6 +543,29 @@ public class MiniGameScreen implements Screen {
         }
     }
 
+    /**
+     * === اضافه‌شده: رسم با حفظ نسبت ابعاد ===
+     * قبلاً گیاه/زامبی به‌زور داخل مستطیل تایل کش می‌شد (بدون توجه به ابعاد
+     * واقعی تصویر که برای هر گیاه/زامبی فرق دارد)؛ همان الگوی
+     * GameScreen.drawFitted و IZombieCouchScreen.drawFitted اینجا هم اعمال
+     * می‌شود تا گرافیک گیاهان/زامبی‌ها در همه‌ی مینی‌گیم‌ها هم مثل بازی اصلی
+     * درست و متناسب نمایش داده شود.
+     */
+    private void drawFitted(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
+                             float x, float y, float w, float h) {
+        float texW = tex.getRegionWidth();
+        float texH = tex.getRegionHeight();
+        if (texW <= 0 || texH <= 0) {
+            batch.draw(tex, x, y, w, h);
+            return;
+        }
+        float scale = Math.min(w / texW, h / texH);
+        float drawW = texW * scale;
+        float drawH = texH * scale;
+        float drawX = x + (w - drawW) / 2f;
+        batch.draw(tex, drawX, y, drawW, drawH);
+    }
+
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
         Board board = session.getBoard();
         for (int r = Board.ROWS - 1; r >= 0; r--) {
@@ -552,7 +575,7 @@ public class MiniGameScreen implements Screen {
                     continue;
                 }
                 TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(plant.getName()));
-                batch.draw(tex, tileX(c) + 8f, tileY(r) + 8f, TILE_W - 16f, TILE_H - 16f);
+                drawFitted(batch, tex, tileX(c) + 8f, tileY(r) + 4f, TILE_W - 16f, TILE_H - 8f);
 
                 // نشانگر خورشیدِ آماده‌ی برداشت (مثلاً روی آفتابگردان‌های دفاعی «من زامبی»)
                 if (plant instanceof model.plant.interfaces.ISunProducer
@@ -574,7 +597,7 @@ public class MiniGameScreen implements Screen {
             TextureRegion tex = ImageUtils.loadRegion(path);
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
-            batch.draw(tex, x, y, TILE_W - 10f, TILE_H - 10f);
+            drawFitted(batch, tex, x + 5f, y + 2f, TILE_W - 10f, TILE_H - 4f);
         }
     }
 
