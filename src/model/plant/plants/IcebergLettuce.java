@@ -37,6 +37,12 @@ public class IcebergLettuce extends Plant implements IExplosive {
 
     @Override
     public void explode(GameSession session) {
+        for (model.zombie.Zombie z : session.getAliveZombies()) {
+            if (!z.isDead() && z.getRow() == getRow() && Math.abs(z.getXPosition() - getCol()) < 0.5) {
+                z.applyChill(freezeTimeTicks);
+                break;
+            }
+        }
         System.out.println(getName() + " منفجر شد و زامبی را فریز کرد! (مدت: " + (freezeTimeTicks/10) + " ثانیه)");
         this.takeDamage(9999);
     }

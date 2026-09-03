@@ -1,5 +1,6 @@
 package gdx.screens;
-
+import gdx.render.PamAssets;
+import gdx.render.ZombieVisualManager;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.Color;
@@ -72,6 +73,7 @@ public class GameScreen implements Screen {
     private final int level;
 
     private final Table sidebarTable = new Table();
+    private final ZombieVisualManager zombieVisuals = new ZombieVisualManager();
     private final Table cardsTable = new Table(); // کارت‌های گیاه انتخابی (یا گیاهان روی نوار نقاله)
     private final Table hudTable = new Table();
     private final Label sunLabel;
@@ -904,38 +906,24 @@ public class GameScreen implements Screen {
     }
 
     private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        zombieVisuals.sync(session.getAliveZombies(), new ZombieVisualManager.TileMapper() {
+            public float x(double col) { return tileX(0) + (float) col * TILE_W; }
+            public float y(int row) { return tileY(row); }
+        });
+        zombieVisuals.update(Gdx.graphics.getDeltaTime());
+        PamAssets.get().update();
+        zombieVisuals.draw((com.badlogic.gdx.graphics.g2d.SpriteBatch) batch);
+
         for (Zombie z : session.getAliveZombies()) {
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
 
-            // زامبی کاملاً یخ‌زده: طبق سند فقط نمایش یک بلوک یخ کافی است و نیازی به
-            // نمایش خود زامبی زیر آن نیست؛ پس اینجا کلاً به‌جای اسپرایت زامبی، بلوک
-            // یخ رسم می‌شود و بقیه‌ی جلوه‌های زیر (نوار سلامتی و هشدار خط پایان) رد می‌شود.
             if (z.getFrozenTicks() > 0) {
                 TextureRegion iceBlock = ImageUtils.loadRegion(AssetPaths.FROZEN_ZOMBIE_ICE_BLOCK);
                 batch.draw(iceBlock, x, y, TILE_W - 10f, TILE_H - 10f);
                 continue;
             }
 
-            String path = AssetPaths.zombieIcon(z.getTypeName());
-            TextureRegion tex = ImageUtils.loadRegion(path);
-
-            // تغییر رنگ زامبی هنگام چیل شدن (سرعت کم شده ولی هنوز کاملاً یخ نزده)
-            if (z.getChilledTicks() > 0) {
-                batch.setColor(0.75f, 0.9f, 1f, 1f);
-            }
-            // توجه: برخلاف گیاهان، برای زامبی‌ها فعلاً معادلِ کاملِ «بسته‌بذر»
-            // (یک تصویر کامل و بدون بُرش) در AssetPaths موجود نیست؛ ریجن‌های
-            // zombieIcon هم مثل گیاهان تکه‌های خرد اسکلت Spine هستند، پس گرافیک
-            // زامبی‌ها همچنان ممکن است ناقص به‌نظر برسد. با این حال حداقل با
-            // drawFitted از کش‌دادن نامتناسب و جابه‌جایی ظاهریِ اسپرایت نسبت به
-            // کاشی خودش جلوگیری می‌کنیم (نسبت ابعاد حفظ و به کف کاشی چسبانده می‌شود).
-            drawFitted(batch, tex, x + 5f, y, TILE_W - 10f, TILE_H - 10f);
-            batch.setColor(Color.WHITE);
-
-            // جلوه‌ی گردباد (مصر باستان): برای مدت کوتاهی بعد از ورود زامبیِ گردباد-زده
-            // به زمین، یک ابر گردوغبار روی آن نمایش داده می‌شود تا کاربر متوجه شود
-            // چرا این زامبی چند خانه جلوتر ظاهر شده است.
             if (z.isSpawnedByTornado() && session.getTickCount() - z.getSpawnTick() < 15) {
                 TextureRegion tornado = ImageUtils.loadRegion(AssetPaths.TORNADO_EFFECT);
                 batch.draw(tornado, x - 10f, y - 10f, TILE_W + 10f, TILE_H + 10f);
@@ -943,10 +931,9 @@ public class GameScreen implements Screen {
 
             drawHealthBar(batch, x, y + TILE_H - 16f, TILE_W - 10f, z.getHealth() / (float) z.getMaxHealth());
 
-            // جلوه‌ی هشدار برای زامبی‌های نزدیک به خط پایان (طبق بخش «جلوه زامبی‌های نزدیک خط پایان»)
             if (z.getXPosition() < 1.0) {
                 batch.setColor(1f, 0.4f, 0.4f, 1f);
-                drawFitted(batch, tex, x + 5f, y, TILE_W - 10f, TILE_H - 10f);
+                batch.draw(ImageUtils.loadRegion(AssetPaths.zombieIcon(z.getTypeName())), x + 5f, y, TILE_W - 10f, TILE_H - 10f);
                 batch.setColor(Color.WHITE);
             }
         }
