@@ -344,6 +344,38 @@ public class GameSession {
                 }
             }
             
+            // === اتصال گیاهان تله‌ای/مینی به رویداد «زامبی روی همان خانه» ===
+            // این گیاهان (Squash، Tangle Kelp، Iceberg Lettuce، Primal Potato Mine،
+            // Hypno-shroom) متد ویژه‌ی خودشان را دارند (explode/triggerExplosion/onEaten)
+            // اما تا امروز هیچ‌جای کد این متدها را صدا نمی‌زد؛ در نتیجه این گیاهان
+            // کاشته می‌شدند ولی هیچ‌وقت اثر واقعی‌شان اجرا نمی‌شد. این‌جا، دقیقاً به همان
+            // شیوه‌ای که هر Zombie برای «خوردن» گیاه چک می‌کند (فاصله‌ی X کمتر از ۰.۵ از
+            // ستون گیاه، همان ردیف)، تماس با این گیاهان خاص را هم بررسی و متدشان را صدا می‌زنیم.
+            if (!zombie.isDead()) {
+                int zCol = (int) Math.floor(zombie.getXPosition());
+                Tile contactTile = board.getTile(zombie.getRow(), Math.max(0, zCol));
+                Plant contactPlant = (contactTile != null) ? contactTile.getPlant() : null;
+                if (contactPlant != null && !contactPlant.isDead()
+                        && Math.abs(zombie.getXPosition() - contactPlant.getCol()) < 0.5) {
+
+                    if (contactPlant instanceof model.plant.plants.Squash) {
+                        ((model.plant.plants.Squash) contactPlant).explode(this);
+                    } else if (contactPlant instanceof model.plant.plants.TangleKelp) {
+                        ((model.plant.plants.TangleKelp) contactPlant).explode(this);
+                    } else if (contactPlant instanceof model.plant.plants.IcebergLettuce) {
+                        ((model.plant.plants.IcebergLettuce) contactPlant).explode(this);
+                    } else if (contactPlant instanceof model.plant.plants.PrimalPotatoMine) {
+                        ((model.plant.plants.PrimalPotatoMine) contactPlant).triggerExplosion(this);
+                    } else if (contactPlant instanceof model.plant.plants.HypnoShroom) {
+                        ((model.plant.plants.HypnoShroom) contactPlant).onEaten(this);
+                    }
+
+                    if (contactPlant.isDead()) {
+                        contactTile.setPlant(null);
+                    }
+                }
+            }
+
             if (zombie.isDead()) {
                 deadZombies.add(zombie);
             }

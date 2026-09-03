@@ -15,7 +15,7 @@ public final class PamAssets {
 
     private PamAssets() {
         // TODO: این مسیر رو با مسیر واقعی پوشه‌ی assets روی سیستم خودت عوض کن
-        FileHandle assetsFolder = Gdx.files.absolute("D:/APterm2/projectAP/project/assets");
+        FileHandle assetsFolder = Gdx.files.absolute("D:/JAVA/Project/assets");
         this.textureBank = new TextureBank("768", assetsFolder);
         this.pamPlayer = new PamPlayer(textureBank, assetsFolder);
     }

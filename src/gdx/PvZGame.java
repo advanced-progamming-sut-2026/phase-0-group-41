@@ -16,7 +16,7 @@ import controller.SettingsController;
 import controller.ShopController;
 import model.user.User;
 import model.user.UserManager;
-
+import gdx.render.PamAssets;
 import gdx.screens.ChapterLevelSelectScreen;
 import gdx.screens.CollectionScreen;
 import gdx.screens.DialogueScreen;
@@ -69,6 +69,8 @@ public class PvZGame extends Game {
     @Override
     public void create() {
         skin = SkinFactory.create();
+
+        PamAssets.get();
 
         registerController = new RegisterController(userManager);
         loginController = new LoginController(userManager);
