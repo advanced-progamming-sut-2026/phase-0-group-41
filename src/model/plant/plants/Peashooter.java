@@ -32,9 +32,16 @@ public class Peashooter extends Plant implements IShooter {
             return;
         }
 
+        // باگ قبلی: شرط «z.getXPosition() >= getCol()» باعث می‌شد به‌محض اینکه
+        // زامبی از فاصله‌ی نزدیک عبور می‌کرد (یا دقیقاً به همان ستونِ گیاه
+        // می‌رسید/آن را می‌خورد)، xPosition او کمی از getCol() کمتر می‌شد و
+        // دیگر هیچ‌وقت این شرط برقرار نمی‌شد؛ یعنی Peashooter دقیقاً همان
+        // لحظه‌ای که زامبی خیلی نزدیک می‌شد برای همیشه شلیک را متوقف می‌کرد.
+        // طبق منطق بازی اصلی، تا وقتی زامبیِ زنده‌ای در همان سطر (در هر
+        // فاصله‌ای، حتی وقتی به گیاه چسبیده) وجود دارد، باید شلیک ادامه یابد.
         boolean zombieInLane = false;
         for (model.zombie.Zombie z : session.getAliveZombies()) {
-            if (!z.isDead() && z.getRow() == getRow() && z.getXPosition() >= getCol()) {
+            if (!z.isDead() && z.getRow() == getRow()) {
                 zombieInLane = true;
                 break;
             }

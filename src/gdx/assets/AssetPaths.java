@@ -23,8 +23,38 @@ public final class AssetPaths {
     }
 
     // ==================== فونت‌ها ====================
-    public static final String FONT_DEFAULT = "";
-    public static final String FONT_TITLE = "";
+    // شش فونت واقعی بازی (از fonts.zip) که هرکدام به یک نقش مشخص در رابط
+    // کاربری اختصاص داده شده‌اند (به FontManager و SkinFactory نگاه کنید):
+    //
+    //   فونت                              | نقش
+    //   ----------------------------------|----------------------------------
+    //   Avenir Next LT Pro Demi Condensed | متن عمومی: لیبل‌ها، دکمه‌ها، فیلدها
+    //                                      | (دقیقاً همان فونتی که PvZ2 اصلی برای
+    //                                      | بدنه‌ی رابط کاربری استفاده می‌کند)
+    //   fbUsv8C5eI Black                  | تیترها: عنوان هر صفحه (title())،
+    //                                      | بنر "You Win!"
+    //   Pico12                            | اعداد HUD: سکه، الماس، خورشید،
+    //                                      | غذای گیاه (فونت پیکسلی برای شمارنده‌ها)
+    //   MonsterFonts - House of Terror    | اعلان قرمز وسط صفحه (شروع موج، موج
+    //                                      | نهایی) و بنر "You Lose!"
+    //   Ashley Script MT Std              | متن دیالوگ داستانی (DialogueScreen)
+    //   BrianneTod                        | پیام‌های کوتاه/بازیگوش: toast های
+    //                                      | حین بازی، نام گوینده در دیالوگ
+    //
+    // هیچ‌کدام از این ۶ فونت حرف فارسی ندارند (فقط لاتین/عدد)؛ چون تمام متن
+    // نمایشی این پروژه (برخلاف کامنت‌های کد) انگلیسی است، مشکلی ایجاد نمی‌شود.
+    // اگر بعداً متن فارسی به رابط کاربری اضافه شود، باید یک فونت جدا که
+    // گلیف فارسی دارد (مثلاً Vazirmatn) برای همان بخش‌ها اضافه شود.
+    public static final String FONT_BODY = "fonts/AVENIRNEXTLTPRO-DEMICN.TTF";
+    public static final String FONT_TITLE = "fonts/FBUSV8C5EI.TTF";
+    public static final String FONT_PIXEL_HUD = "fonts/PICO12__.TTF";
+    public static final String FONT_HORROR = "fonts/HOUSE OF TERROR.TTF";
+    public static final String FONT_SCRIPT = "fonts/ASHLEYSCRIPTMTSTD.TTF";
+    public static final String FONT_PLAYFUL = "fonts/BRIANNETOD.TTF";
+
+    // نام قدیمی برای سازگاری با کدهای احتمالی دیگر که به آن ارجاع می‌دهند.
+    public static final String FONT_DEFAULT = FONT_BODY;
+
     public static final String UI_SKIN_JSON = "";
     public static final String UI_SKIN_ATLAS = "";
 
@@ -55,6 +85,10 @@ public final class AssetPaths {
     public static final String ICON_DIAMOND = atlas("UI_ALWAYSLOADED", "IMAGE_UI_GEMS_STACK_3");
     public static final String ICON_STAR = "";
     public static final String ICON_LOCK = atlas("UI_SEEDPACKETS", "IMAGE_UI_PACKETS_LOCK_SMALL");
+    // نشانگر «خبر جدید» روی دکمه‌ی News در منوی اصلی: قبلاً از یک کاراکتر
+    // یونیکد (❗) استفاده می‌شد که در فونت بازی موجود نیست و به‌صورت یک مربع
+    // خالی نمایش داده می‌شد؛ الان یک بج واقعی (اسپرایت گرد) استفاده می‌شود.
+    public static final String ICON_NOTIFICATION_BADGE = atlas("UI_ALWAYSLOADED", "IMAGE_UI_LEVELING_UPGRADE_BADGE_UPGRADE_BADGE_30X29");
     // بسته بذر عمومی/رازآلود، برای کالاهای فروشگاهی که خودشان یک گیاه مشخص
     // نیستند (مثل «بسته بذر تصادفی» یا «بسته بذر انتخابی»)
     public static final String SEED_PACKET_GENERIC = atlas("UI_SEEDPACKETS", "IMAGE_UI_PACKETS_LOCKED");

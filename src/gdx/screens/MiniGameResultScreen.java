@@ -22,15 +22,16 @@ public class MiniGameResultScreen extends BaseMenuScreen {
         User user = game.getLoggedInUser();
         SoundManager.playMusic(won ? AssetPaths.MUSIC_WIN : AssetPaths.MUSIC_LOSE);
 
+        // برد: تیتر معمولی. باخت: فونت وحشت "House of Terror" (مثل WinLossScreen).
         String headline = won ? "You Win!" : "You Lose!";
-        rootTable.add(title(headline)).padBottom(16f).row();
-        rootTable.add(new Label(displayName(gameName) + " - Level " + level, skin)).padBottom(30f).row();
+        rootTable.add(won ? title(headline) : horrorTitle(headline)).padBottom(16f).row();
+        rootTable.add(new Label(gameName + " - Level " + level, skin)).padBottom(30f).row();
 
         if (won && user != null) {
             user.setMiniGamesCompleted(user.getMiniGamesCompleted() + 1);
             user.recordMiniGameLevelWon(gameNameToId(gameName), level);
             if (level < 3) {
-                user.addNews("سطح جدید مینی‌گیم باز شد: " + displayName(gameName) + " - سطح " + (level + 1));
+                user.addNews("سطح جدید مینی‌گیم باز شد: " + gameName + " - سطح " + (level + 1));
             }
             game.getUserManager().save();
         }

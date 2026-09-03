@@ -2,7 +2,9 @@ package gdx.screens;
 
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
+import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
+import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 
 import gdx.PvZGame;
 import gdx.assets.AssetPaths;
@@ -42,9 +44,7 @@ public class MainMenuScreen extends BaseMenuScreen {
         grid.row();
         addButton(grid, "Profile", game::goToProfile);
         grid.row();
-        String newsLabel = "News" + (user != null && user.hasUnreadNews() ? "  \u2757" : "");
-        addButton(grid, newsLabel, game::goToNews);
-        grid.row();
+        grid.add(buildNewsButton(user)).width(280f).height(56f).pad(6f).row();
         addButton(grid, "Settings", game::goToSettings);
         grid.row();
         addButton(grid, "Greenhouse", game::goToGreenhouse);
@@ -61,6 +61,32 @@ public class MainMenuScreen extends BaseMenuScreen {
         grid.row();
 
         rootTable.add(grid).row();
+    }
+
+    /**
+     * دکمه‌ی News با یک نشانگر واقعی (بج تصویری، نه کاراکتر یونیکد) در گوشه‌ی
+     * بالا-راست، وقتی کاربر خبر خوانده‌نشده داشته باشد.
+     */
+    private Stack buildNewsButton(User user) {
+        Stack stack = new Stack();
+        TextButton button = new TextButton("News", skin);
+        button.addListener(new com.badlogic.gdx.scenes.scene2d.utils.ClickListener() {
+            @Override
+            public void clicked(com.badlogic.gdx.scenes.scene2d.InputEvent event, float x, float y) {
+                SoundManager.playSound(AssetPaths.SFX_CLICK);
+                game.goToNews();
+            }
+        });
+        stack.add(button);
+
+        if (user != null && user.hasUnreadNews()) {
+            Table badgeWrapper = new Table();
+            badgeWrapper.top().right();
+            Image badge = new Image(ImageUtils.loadRegion(AssetPaths.ICON_NOTIFICATION_BADGE));
+            badgeWrapper.add(badge).size(22f).padTop(-6f).padRight(-6f);
+            stack.add(badgeWrapper);
+        }
+        return stack;
     }
 
     @Override

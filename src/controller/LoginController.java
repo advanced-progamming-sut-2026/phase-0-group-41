@@ -20,9 +20,13 @@ public class LoginController {
             return "ERR_INVALID_CREDENTIALS";
         }
 
-        // قابلیت Stay Logged In (در صورت نیاز بعداً تکمیل می‌شود)
+        // قابلیت Stay Logged In: نام کاربری را برای ورود خودکار در اجرای بعدی
+        // برنامه ذخیره می‌کند (یا در صورت غیرفعال بودن چک‌باکس، هر ورود
+        // خودکار قبلی را پاک می‌کند).
         if (stayLoggedIn) {
-            // e.g., userManager.setStayLoggedIn(user);
+            userManager.rememberUser(username);
+        } else {
+            userManager.forgetRememberedUser();
         }
 
         // ==================================================

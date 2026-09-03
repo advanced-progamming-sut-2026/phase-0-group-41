@@ -14,11 +14,48 @@ import java.util.List;
 public class UserManager {
 
     private static final String SAVE_FILE = "pvz_users.dat";
+    private static final String REMEMBER_FILE = "pvz_remember.dat";
 
     private final Map<String, User> usersByUsername = new HashMap<>();
 
     public UserManager() {
         load();
+    }
+
+    /** طبق سند: گزینه‌ی «Stay logged in» در منوی ورود — نام کاربری را در یک
+     *  فایل جدا ذخیره می‌کند تا با باز کردن دوباره‌ی برنامه، کاربر خودکار وارد
+     *  حساب کاربری‌اش شود. */
+    public void rememberUser(String username) {
+        try (java.io.PrintWriter out = new java.io.PrintWriter(new FileWriter(REMEMBER_FILE))) {
+            out.print(username);
+        } catch (IOException e) {
+            System.err.println("خطا در ذخیره‌سازی Remember Me: " + e.getMessage());
+        }
+    }
+
+    public void forgetRememberedUser() {
+        File file = new File(REMEMBER_FILE);
+        if (file.exists()) {
+            file.delete();
+        }
+    }
+
+    /** نام کاربری‌ای که با گزینه‌ی «Stay logged in» ذخیره شده؛ اگر چیزی ذخیره
+     *  نشده یا آن کاربر دیگر وجود نداشته باشد، null برمی‌گرداند. */
+    public String getRememberedUsername() {
+        File file = new File(REMEMBER_FILE);
+        if (!file.exists()) {
+            return null;
+        }
+        try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+            String username = reader.readLine();
+            if (username != null && usersByUsername.containsKey(username)) {
+                return username;
+            }
+        } catch (IOException e) {
+            System.err.println("خطا در خواندن Remember Me: " + e.getMessage());
+        }
+        return null;
     }
 
     public List<User> getAllUsers() {
