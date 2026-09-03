@@ -445,7 +445,15 @@ public class MiniGameScreen implements Screen {
         drawZombies(stage.getBatch());
         stage.getBatch().end();
 
-        sunLabel.setText(String.valueOf(session.getSunManager().getCurrentSun()));
+        // === رفع باگ بودجه‌ی مشترک ===
+        // در «من، زامبی» کاربر فقط نقش زامبی‌ها را بازی می‌کند (گیاهان مقوایی
+        // ثابت و بدون بازیکن هستند)، پس عددی که اینجا نشان داده می‌شود باید
+        // بودجه‌ی خودِ زامبی‌ها باشد نه SunManager مشترک/طرف گیاه.
+        if (session instanceof IZombieSession) {
+            sunLabel.setText(String.valueOf(((IZombieSession) session).getZombieSunManager().getCurrentSun()));
+        } else {
+            sunLabel.setText(String.valueOf(session.getSunManager().getCurrentSun()));
+        }
         refreshSidebar();
 
         stage.act(delta);

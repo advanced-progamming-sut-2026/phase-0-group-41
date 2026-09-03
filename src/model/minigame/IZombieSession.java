@@ -2,6 +2,7 @@ package model.minigame;
 
 import model.game.Board;
 import model.plant.PlantFactory;
+import model.sun.SunManager;
 import model.user.User;
 import model.zombie.Zombie;
 import model.zombie.ZombieFactory;
@@ -28,6 +29,17 @@ public class IZombieSession extends MiniGameSession {
     // نام نوع زامبی -> تیک باقی‌مانده تا آماده‌سازی مجدد (مطابق الگوی plantCooldowns در GameSession)
     private final Map<String, Integer> zombieCooldowns = new HashMap<>();
 
+    // === رفع باگ: بودجه‌ی مشترک ===
+    // قبلاً هم آفتابگردان‌های طرف گیاه و هم زامبی‌های خورشیدزای طرف زامبی هر دو
+    // مستقیماً به همان SunManager مشترک (ارث‌بری‌شده از GameSession) اضافه
+    // می‌شدند و طرف زامبی هم دقیقاً از همان استخر خورشید برای خرید زامبی خرج
+    // می‌کرد. یعنی هیچ بودجه‌ی جداگانه‌ای بین دو طرف وجود نداشت و تشخیص
+    // اینکه هرکدام واقعاً چقدر «بودجه»ی خودشان را دارند ممکن نبود. اینجا یک
+    // استخر خورشید کاملاً جدا و مستقل فقط برای طرف زامبی ساخته می‌شود؛
+    // SunManager قدیمی (ارث‌بری‌شده) از این پس فقط برای طرف گیاه استفاده
+    // می‌شود (خورشید حاصل از آفتابگردان‌ها و هزینه‌ی کاشت گیاهان).
+    private final SunManager zombieSunManager;
+
     // لیستی برای گزارش رخدادها به کنترلر هنگام رد شدن زمان
     private final List<String> recentEvents = new ArrayList<>();
 
@@ -39,27 +51,41 @@ public class IZombieSession extends MiniGameSession {
         super(user, 1, level);
 
         int startingSun;
+        int startingZombieSun;
         int plantDensityPercent; // چقدر از خانه‌های سمت چپ گیاه دارند (سختی بیشتر = گیاهان مدافع بیشتر)
         switch (getLevel()) {
             case 2:
                 startingSun = 130;
+                startingZombieSun = 100;
                 plantDensityPercent = 70;
                 cheapestZombieCost = 50;
                 break;
             case 3:
                 startingSun = 110;
+                startingZombieSun = 100;
                 plantDensityPercent = 90;
                 cheapestZombieCost = 50;
                 break;
             default:
                 startingSun = 150;
+                startingZombieSun = 150;
                 plantDensityPercent = 50;
                 cheapestZombieCost = 50;
                 break;
         }
+        // خورشید طرف گیاه (برای کاشت گیاهان جدید و رشد از آفتابگردان‌ها)
         getSunManager().addSun(startingSun);
+        // بودجه‌ی جداگانه‌ی طرف زامبی؛ همان درجه سختی کاربر روی سرعت تولید
+        // زامبی‌های خورشیدزا تاثیر ندارد، فقط روی مقدار جان/دمیج زامبی‌ها.
+        this.zombieSunManager = new SunManager(Math.max(1, getUser() == null ? 1 : getUser().getDifficultyLevel()));
+        this.zombieSunManager.setCurrentSun(startingZombieSun);
         setupCardboardPlants(plantDensityPercent);
         setupSunProducerZombies();
+    }
+
+    /** استخر خورشید مستقل طرف زامبی (تفکیک‌شده از خورشید طرف گیاه). */
+    public SunManager getZombieSunManager() {
+        return zombieSunManager;
     }
 
     private void setupCardboardPlants(int densityPercent) {
@@ -98,7 +124,7 @@ public class IZombieSession extends MiniGameSession {
         try {
             int dl = getUser().getDifficultyLevel();
             Zombie zombie = ZombieFactory.create(type, dl);
-            if (getSunManager().spendSun(zombie.getWaveCost())) {
+            if (zombieSunManager.spendSun(zombie.getWaveCost())) {
                 zombie.spawn(row, col);
                 getAliveZombies().add(zombie);
                 zombieCooldowns.put(type.toLowerCase(), COOLDOWN_TICKS);
@@ -172,8 +198,8 @@ public class IZombieSession extends MiniGameSession {
             return;
         }
 
-        // ۳. بررسی شرط باخت (زامبی زنده‌ای نمانده و خورشید هم کافی نیست)
-        if (getAliveZombies().isEmpty() && getSunManager().getCurrentSun() < cheapestZombieCost) {
+        // ۳. بررسی شرط باخت (زامبی زنده‌ای نمانده و خورشید طرف زامبی هم کافی نیست)
+        if (getAliveZombies().isEmpty() && zombieSunManager.getCurrentSun() < cheapestZombieCost) {
             isGameLost = true;
             recentEvents.add("شما خورشید کافی برای تولید زامبی جدید ندارید و تمام زامبی‌هایتان از بین رفتند. باختید!");
             endGame(false);

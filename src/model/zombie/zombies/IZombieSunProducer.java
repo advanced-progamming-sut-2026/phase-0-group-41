@@ -1,6 +1,7 @@
 package model.zombie.zombies;
 
 import model.game.GameSession;
+import model.minigame.IZombieSession;
 import model.zombie.Zombie;
 
 public class IZombieSunProducer extends Zombie {
@@ -31,7 +32,15 @@ public class IZombieSunProducer extends Zombie {
         }
 
         if (tickCounter >= productionInterval) {
-            session.getSunManager().addSun(sunAmount);
+            // === رفع باگ بودجه‌ی مشترک ===
+            // این زامبی باید فقط به استخر خورشید مخصوص طرف زامبی اضافه کند،
+            // نه به SunManager مشترکی که طرف گیاه هم از آن خرج می‌کند؛ در غیر
+            // این صورت هیچ تفکیک بودجه‌ای بین دو طرف وجود نخواهد داشت.
+            if (session instanceof IZombieSession) {
+                ((IZombieSession) session).getZombieSunManager().addSun(sunAmount);
+            } else {
+                session.getSunManager().addSun(sunAmount);
+            }
             System.out.println("زامبی خورشیدزا در سطر " + getRow() + " مقدار " + sunAmount + " خورشید تولید کرد!");
             tickCounter = 0;
         }

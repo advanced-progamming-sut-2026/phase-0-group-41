@@ -86,6 +86,7 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
     private boolean navigatedToResult = false;
 
     private final Label sunLabel;
+    private final Label sunRoleLabel;
     private final Label statusLabel;
     private final Label timerLabel;
     private final Label opponentReactionLabel;
@@ -108,6 +109,7 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         this.stage = new Stage(viewport);
 
         sunLabel = new Label("0", skin);
+        sunRoleLabel = new Label("Sun:", skin);
         statusLabel = new Label("", skin);
         timerLabel = new Label("", skin);
         opponentReactionLabel = new Label("", skin, "title");
@@ -133,6 +135,14 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         top.setFillParent(true);
         top.top();
 
+        TextButton pauseButton = new TextButton("II", skin);
+        pauseButton.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                openPauseMenu();
+            }
+        });
+
         TextButton exitButton = new TextButton("Exit", skin);
         exitButton.addListener(new ClickListener() {
             @Override
@@ -143,12 +153,14 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
 
         Table sunBox = new Table();
         sunBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(32f).padRight(4f);
+        sunBox.add(sunRoleLabel).padRight(4f);
         sunBox.add(sunLabel).padRight(20f);
 
         String roleText = myRole == null ? "" : (myRole == MultiplayerMatch.Role.PLANT ? "You: Plants" : "You: Zombies");
         Label title = new Label("I, Zombie Online - " + roleText + " vs " + opponentUsername, skin, "title");
 
         Table row = new Table();
+        row.add(pauseButton).size(56f, 44f).padRight(8f);
         row.add(exitButton).size(70f, 44f).padRight(16f);
         row.add(sunBox);
         row.add(title).padLeft(20f);
@@ -273,7 +285,9 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         stage.getBatch().end();
 
         if (snapshot != null) {
-            sunLabel.setText(String.valueOf(snapshot.currentSun));
+            int mySun = (myRole == MultiplayerMatch.Role.ZOMBIE) ? snapshot.zombieSun : snapshot.plantSun;
+            sunRoleLabel.setText(myRole == MultiplayerMatch.Role.ZOMBIE ? "Zombie sun:" : "Plant sun:");
+            sunLabel.setText(String.valueOf(mySun));
             timerLabel.setText("Time left: " + (snapshot.timeRemainingTicks / 10) + "s");
         }
         if (opponentReactionTimeLeft > 0f) {
@@ -429,6 +443,20 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
     private void leaveAndGoTo(Runnable next) {
         IZombieNetworkClient.leaveMatch(myUsername);
         next.run();
+    }
+
+    /** === رفع باگ: نبود دکمه‌ی توقف در حالت آنلاین ===
+     *  چون سرور «مرجع» است و مسابقه‌ی زنده‌ی حریف مستقل از کلاینت شما ادامه
+     *  پیدا می‌کند، توقف واقعی/فریز کردن کل بازی برای هر دو طرف اینجا معنا
+     *  ندارد (این کار بازی حریف را هم متوقف می‌کرد که غیرمنصفانه است). به
+     *  همین دلیل دکمه‌ی توقف یک منوی محلی (تنظیمات صدا / ادامه / خروج با
+     *  اطلاع‌رسانی) باز می‌کند؛ خود ارتباط با سرور و ساعت مسابقه متوقف
+     *  نمی‌شود، اما حداقل کاربر - درست مثل مرحله‌ی عادی - راهی برای توقف و
+     *  دیدن منو دارد و می‌تواند با اطمینان از آن خارج شود. */
+    private void openPauseMenu() {
+        SoundManager.playSound(AssetPaths.SFX_CLICK);
+        game.setScreen(new PauseScreen(game, this, () -> game.setScreen(this),
+                () -> leaveAndGoTo(() -> game.goToMiniGames())));
     }
 
     // ==================== متدهای استاندارد Screen ====================

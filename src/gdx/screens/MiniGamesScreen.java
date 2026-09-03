@@ -54,11 +54,20 @@ public class MiniGamesScreen extends BaseMenuScreen {
             nameLabel.setFontScale(1.05f);
             row.add(nameLabel).width(240f).left().padRight(20f);
 
+            // === رفع باگ گرافیکی: خرابی صفحه هنگام آنلاک شدن سطح بعدی ===
+            // قبلاً این ردیف، به‌ازای هر سطح یک دکمه‌ی سطح و (فقط برای
+            // izombie) دو دکمه‌ی اضافه‌ی «Online»/«Couch» کنار هم اضافه
+            // می‌کرد. با آنلاک شدن سطح بعدی تعداد ستون‌های این ردیف بیشتر
+            // می‌شد و کل ردیف از عرض ثابت ScrollPane/صفحه بیرون می‌زد. حالا هر
+            // ردیف همیشه دقیقاً همان سه دکمه‌ی ثابت «Level 1/2/3» را دارد (نه
+            // بیشتر، نه کمتر) و انتخاب حالت بازی (آفلاین/کوچ/آنلاین) به یک
+            // صفحه‌ی جداگانه‌ی بعد از کلیک منتقل شده؛ عرض ردیف دیگر هیچ‌وقت
+            // بسته به وضعیت آنلاک تغییر نمی‌کند.
             for (int level = 1; level <= 3; level++) {
                 final int lvl = level;
                 boolean unlocked = (user == null) || user.isMiniGameLevelUnlocked(id, level);
 
-                TextButton levelButton = new TextButton(unlocked ? "Level " + level : "Level " + level + " 🔒", skin);
+                TextButton levelButton = new TextButton(unlocked ? "Level " + level : "Level " + level + " \uD83D\uDD12", skin);
                 levelButton.setDisabled(!unlocked);
                 levelButton.setTouchable(unlocked
                         ? com.badlogic.gdx.scenes.scene2d.Touchable.enabled
@@ -68,36 +77,19 @@ public class MiniGamesScreen extends BaseMenuScreen {
                         @Override
                         public void clicked(InputEvent event, float x, float y) {
                             SoundManager.playSound(AssetPaths.SFX_CLICK);
-                            game.startMiniGame(id, lvl);
+                            if (id.equals("izombie")) {
+                                // «من، زامبی» سه حالت دارد: آفلاین تک‌نفره،
+                                // کوچ (دونفره روی یک دستگاه) و آنلاین.
+                                game.setScreen(new MiniGameModeSelectScreen(game, displayName, lvl));
+                            } else {
+                                game.startMiniGame(id, lvl);
+                            }
                         }
                     });
                 } else {
                     levelButton.getColor().a = 0.5f;
                 }
-                row.add(levelButton).size(120f, 56f).padRight(8f);
-
-                if (id.equals("izombie") && unlocked) {
-                    TextButton onlineButton = new TextButton("Online", skin);
-                    onlineButton.addListener(new ClickListener() {
-                        @Override
-                        public void clicked(InputEvent event, float x, float y) {
-                            SoundManager.playSound(AssetPaths.SFX_CLICK);
-                            game.setScreen(new IZombieOpponentSelectScreen(game, lvl));
-                        }
-                    });
-                    row.add(onlineButton).size(90f, 56f).padRight(8f);
-
-                    // بخش امتیازی: بازی دونفره‌ی Couch Play روی یک دستگاه، بدون شبکه
-                    TextButton couchButton = new TextButton("Couch", skin);
-                    couchButton.addListener(new ClickListener() {
-                        @Override
-                        public void clicked(InputEvent event, float x, float y) {
-                            SoundManager.playSound(AssetPaths.SFX_CLICK);
-                            game.setScreen(new IZombieCouchScreen(game, lvl));
-                        }
-                    });
-                    row.add(couchButton).size(90f, 56f).padRight(8f);
-                }
+                row.add(levelButton).size(150f, 56f).padRight(8f);
             }
 
             listTable.add(row).padBottom(14f).row();

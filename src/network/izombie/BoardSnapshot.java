@@ -26,6 +26,12 @@ public class BoardSnapshot implements Serializable {
     private static final long serialVersionUID = 1L;
 
     public int currentSun;
+    // === رفع باگ بودجه‌ی مشترک ===
+    // قبلاً فقط یک عدد خورشید مشترک ارسال می‌شد (که واقعاً مال طرف گیاه بود)
+    // و طرف زامبی هیچ‌وقت بودجه‌ی واقعی خودش را نمی‌دید. حالا هر دو مقدار
+    // جداگانه ارسال می‌شود تا هر کلاینت طبق نقش خودش عدد درست را نشان دهد.
+    public int plantSun;
+    public int zombieSun;
     public boolean gameOver;
     public boolean plantSideWon;
     public long tickCount;
@@ -57,6 +63,8 @@ public class BoardSnapshot implements Serializable {
     public static BoardSnapshot capture(IZombieSession session, int timeRemainingTicks, List<String> newEvents) {
         BoardSnapshot snap = new BoardSnapshot();
         snap.currentSun = session.getSunManager().getCurrentSun();
+        snap.plantSun = session.getSunManager().getCurrentSun();
+        snap.zombieSun = session.getZombieSunManager().getCurrentSun();
         snap.gameOver = session.isGameOver();
         snap.plantSideWon = session.isGameOver() && session.isWon();
         snap.tickCount = session.getTickCount();

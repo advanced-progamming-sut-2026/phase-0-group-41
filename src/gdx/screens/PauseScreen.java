@@ -37,16 +37,36 @@ public class PauseScreen extends BaseMenuScreen {
     private final Screen previousScreen;
     private final Runnable onRestart;
     private final GameSession session;
+    // === رفع باگ: خروج از مسابقه‌ی آنلاین از داخل منوی توقف ===
+    // قبلاً «Save and Exit» همیشه مستقیم game.goToMainMenu() را صدا می‌زد؛
+    // برای مسابقه‌ی «من، زامبی» آنلاین این یعنی کلاینت بدون اطلاع سرور
+    // ناپدید می‌شد (مسابقه‌ی نیمه‌کاره روی سرور می‌ماند). onLeave اختیاری
+    // است: اگر صفحه‌ی فراخواننده منطق خروج تمیز (مثل ترک مسابقه) دارد،
+    // آن را همینجا پاس می‌دهد؛ در غیر این صورت (null) رفتار قبلی حفظ می‌شود.
+    // این پارامتر کاملاً مستقل از session (که برای بخش Cheats تیم است) است؛
+    // هر صفحه‌ای هرکدام از این دو یا هر دو یا هیچ‌کدام را می‌تواند پاس بدهد.
+    private final Runnable onLeave;
 
     public PauseScreen(PvZGame game, Screen previousScreen, Runnable onRestart) {
-        this(game, previousScreen, onRestart, null);
+        this(game, previousScreen, onRestart, (GameSession) null, null);
     }
 
+    /** برای صفحات گیم‌پلی معمولی که بخش Cheats (وابسته به GameSession) لازم دارند. */
     public PauseScreen(PvZGame game, Screen previousScreen, Runnable onRestart, GameSession session) {
+        this(game, previousScreen, onRestart, session, null);
+    }
+
+    /** برای صفحاتی مثل مسابقه‌ی آنلاین «من، زامبی» که به‌جای Cheats نیاز به یک اکشن خروج تمیز (ترک مسابقه) دارند. */
+    public PauseScreen(PvZGame game, Screen previousScreen, Runnable onRestart, Runnable onLeave) {
+        this(game, previousScreen, onRestart, (GameSession) null, onLeave);
+    }
+
+    public PauseScreen(PvZGame game, Screen previousScreen, Runnable onRestart, GameSession session, Runnable onLeave) {
         super(game);
         this.previousScreen = previousScreen;
         this.onRestart = onRestart;
         this.session = session;
+        this.onLeave = onLeave;
 
         rootTable.add(title("Game Paused")).padBottom(20f).row();
 
@@ -150,7 +170,11 @@ public class PauseScreen extends BaseMenuScreen {
 
     private void doSaveAndExit() {
         game.getUserManager().save();
-        game.goToMainMenu();
+        if (onLeave != null) {
+            onLeave.run();
+        } else {
+            game.goToMainMenu();
+        }
     }
 
     @Override

@@ -59,7 +59,8 @@ public class IZombieCouchScreen implements Screen {
     private final IZombieSession session;
     private final int level;
 
-    private final Label sunLabel;
+    private final Label plantSunLabel;
+    private final Label zombieSunLabel;
     private final Label statusLabel;
     private final Image cursorImage;
 
@@ -80,7 +81,8 @@ public class IZombieCouchScreen implements Screen {
         Viewport viewport = new FitViewport(WORLD_WIDTH, WORLD_HEIGHT);
         this.stage = new Stage(viewport);
 
-        sunLabel = new Label("0", skin);
+        plantSunLabel = new Label("0", skin);
+        zombieSunLabel = new Label("0", skin);
         statusLabel = new Label("", skin);
         cursorImage = new Image(skin.newDrawable("white", new Color(1f, 1f, 0f, 0.35f)));
         cursorImage.setSize(TILE_W - 6f, TILE_H - 6f);
@@ -98,6 +100,14 @@ public class IZombieCouchScreen implements Screen {
         top.setFillParent(true);
         top.top();
 
+        TextButton pauseButton = new TextButton("II", skin);
+        pauseButton.addListener(new ClickListener() {
+            @Override
+            public void clicked(InputEvent event, float x, float y) {
+                openPauseMenu();
+            }
+        });
+
         TextButton exitButton = new TextButton("Exit", skin);
         exitButton.addListener(new ClickListener() {
             @Override
@@ -106,22 +116,51 @@ public class IZombieCouchScreen implements Screen {
             }
         });
 
-        Table sunBox = new Table();
-        sunBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(32f).padRight(4f);
-        sunBox.add(sunLabel).padRight(20f);
+        // === رفع باگ بودجه‌ی مشترک: نمایش جداگانه‌ی خورشید هر طرف ===
+        // قبلاً فقط یک عدد خورشید (که در واقع مال SunManager مشترک بود) نشان
+        // داده می‌شد و هیچ‌کدام از دو بازیکن نمی‌دانستند دقیقاً بودجه‌ی خودشان
+        // (که جداگانه از تعداد آفتابگردان‌ها/زامبی‌های خورشیدزا تولید می‌شود)
+        // چقدر است.
+        Table plantSunBox = new Table();
+        plantSunBox.add(new Label("Plants:", skin)).padRight(4f);
+        plantSunBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(28f).padRight(4f);
+        plantSunBox.add(plantSunLabel).padRight(20f);
+
+        Table zombieSunBox = new Table();
+        zombieSunBox.add(new Label("Zombies:", skin)).padRight(4f);
+        zombieSunBox.add(new Image(ImageUtils.loadRegion(AssetPaths.ICON_SUN))).size(28f).padRight(4f);
+        zombieSunBox.add(zombieSunLabel).padRight(20f);
 
         Label title = new Label("I, Zombie - Couch Play (Level " + level + ")", skin, "title");
 
         Table row = new Table();
+        row.add(pauseButton).size(56f, 44f).padRight(8f);
         row.add(exitButton).size(70f, 44f).padRight(16f);
-        row.add(sunBox);
+        row.add(plantSunBox);
+        row.add(zombieSunBox);
         row.add(title).padLeft(20f);
 
         top.add(row).padTop(8f).row();
-        top.add(new Label("Plants: mouse click   |   Zombies: arrows to move, 1-4 to pick, Space to place", skin))
+        // === رفع باگ: راهنمای نامشخص برای بازیکن سمت زامبی ===
+        // قبلاً فقط «arrows to move, 1-4 to pick, Space to place» نوشته شده
+        // بود بدون توضیح اینکه اصلاً هدف بازی چیست (خوردن مغزها، فقط سمت راست
+        // خط قرمز، بودجه‌ی جداگانه). این خط راهنما را کامل‌تر می‌کنیم.
+        top.add(new Label("Goal: reach the house on the left and eat all 5 brains before you run out of zombie sun!", skin))
+                .padTop(2f).row();
+        top.add(new Label("Plants (left player): click a card, then click a tile to plant.", skin))
+                .padTop(2f).row();
+        top.add(new Label("Zombies (right player): arrows to move cursor, 1-4 to pick a zombie type, Space/Enter to place (only right of the red line).", skin))
                 .padTop(2f).row();
         top.add(statusLabel).padTop(4f).row();
         stage.addActor(top);
+    }
+
+    /** منوی توقف بازی؛ دقیقاً هم‌ارز با openPauseMenu در MiniGameScreen. چون
+     *  تعویض Screen باعث می‌شود render این کلاس دیگر صدا زده نشود، تیک بازی
+     *  کاملاً متوقف می‌ماند تا کاربر Resume بزند. */
+    private void openPauseMenu() {
+        SoundManager.playSound(AssetPaths.SFX_CLICK);
+        game.setScreen(new PauseScreen(game, this, () -> game.setScreen(new IZombieCouchScreen(game, level))));
     }
 
     private void buildSidebars() {
@@ -193,7 +232,8 @@ public class IZombieCouchScreen implements Screen {
         drawZombies(stage.getBatch());
         stage.getBatch().end();
 
-        sunLabel.setText(String.valueOf(session.getSunManager().getCurrentSun()));
+        plantSunLabel.setText(String.valueOf(session.getSunManager().getCurrentSun()));
+        zombieSunLabel.setText(String.valueOf(session.getZombieSunManager().getCurrentSun()));
         cursorImage.setPosition(tileX(cursorCol) + 3f, tileY(cursorRow) + 3f);
 
         stage.act(delta);
