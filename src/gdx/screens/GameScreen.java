@@ -1,7 +1,6 @@
 package gdx.screens;
+
 import gdx.render.LawnMowerVisualManager;
-import gdx.render.PamAssets;
-import gdx.render.ZombieVisualManager;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.Color;
@@ -74,7 +73,6 @@ public class GameScreen implements Screen {
     private final int level;
 
     private final Table sidebarTable = new Table();
-    private final ZombieVisualManager zombieVisuals = new ZombieVisualManager();
     private final LawnMowerVisualManager lawnMowers = new LawnMowerVisualManager();
     private final Table cardsTable = new Table(); // کارت‌های گیاه انتخابی (یا گیاهان روی نوار نقاله)
     // نگاشت نام گیاه به المان‌های گرافیکیِ کارتش (برای به‌روزرسانی سریعِ
@@ -924,8 +922,7 @@ public class GameScreen implements Screen {
         if (grave.hasPlantFood()) return AssetPaths.GRAVE_TYPE_PLANT_FOOD;
         return AssetPaths.GRAVE_TYPE_PLAIN;
     }
-
-
+    
     private void drawLawnMowers(com.badlogic.gdx.graphics.g2d.Batch batch) {
         Board board = session.getBoard();
         lawnMowers.sync(board, new LawnMowerVisualManager.TileMapper() {
@@ -935,6 +932,7 @@ public class GameScreen implements Screen {
         lawnMowers.update(Gdx.graphics.getDeltaTime());
         lawnMowers.draw((com.badlogic.gdx.graphics.g2d.SpriteBatch) batch);
     }
+
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
         Board board = session.getBoard();
         // ترتیب رسم: سطرهای پایین‌تر روی سطرهای بالاتر نمایش داده شوند (طبق بخش «ترتیب درست نمایش موجودیت‌ها»)
@@ -1005,15 +1003,42 @@ public class GameScreen implements Screen {
         }
     }
 
-    private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        zombieVisuals.sync(session.getAliveZombies(), new ZombieVisualManager.TileMapper() {
-            public float x(double col) { return tileX(0) + (float) col * TILE_W; }
-            public float y(int row) { return tileY(row); }
-        });
-        zombieVisuals.update(Gdx.graphics.getDeltaTime());
-        PamAssets.get().update();
-        zombieVisuals.draw((com.badlogic.gdx.graphics.g2d.SpriteBatch) batch);
+    // حداکثر تعداد کاشی (به‌صورت ارتفاع) که یک زامبی اجازه دارد رویش «قد بکشد».
+    // زامبی‌های عادی باید تقریباً هم‌قدِ یک کاشی باشند؛ فقط زامبی‌های واقعاً
+    // غول‌پیکر (مثل Gargantuar/King/Jester که در اسپرایت رسمی‌شان قدی حدود
+    // ۵۰۰ پیکسل دارند) اجازه دارند کمی بلندتر از یک کاشی دیده شوند — دقیقاً
+    // مثل بازی اصلی که این زامبی‌ها واقعاً از باقی درشت‌تر و بلندترند، اما
+    // هیچ‌وقت آن‌قدر بزرگ نمی‌شوند که مشخص نباشد داخل کدام خانه ایستاده‌اند.
+    private static final float ZOMBIE_MAX_HEIGHT_TILES = 1.6f;
 
+    /**
+     * جعبه‌ی هدفِ رسمِ گرافیک هر زامبی را حساب می‌کند: عرض همیشه به عرضِ یک
+     * کاشی محدود می‌شود (تا مشخص باشد زامبی دقیقاً در کدام ستون ایستاده)،
+     * و ارتفاع طبق نسبت ابعاد واقعیِ اسپرایت محاسبه و به ZOMBIE_MAX_HEIGHT_TILES
+     * کاشی محدود می‌شود؛ این دقیقاً همان راه‌حلی است که پیش‌تر برای رفع مشکل
+     * مشابه در گیاهان (drawFitted) استفاده شد.
+     */
+    private void drawZombieSprite(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
+                                   float tileFloorX, float tileFloorY) {
+        float texW = tex.getRegionWidth();
+        float texH = tex.getRegionHeight();
+        if (texW <= 0 || texH <= 0) {
+            batch.draw(tex, tileFloorX, tileFloorY, TILE_W, TILE_H);
+            return;
+        }
+        float maxW = TILE_W;
+        float maxH = TILE_H * ZOMBIE_MAX_HEIGHT_TILES;
+        float scale = Math.min(maxW / texW, maxH / texH);
+        float drawW = texW * scale;
+        float drawH = texH * scale;
+        // وسط‌چین افقی نسبت به کاشی، و چسبیده به کفِ کاشی (نه وسط‌چین عمودی)
+        // تا زامبی درست روی زمینِ همان خانه بایستد و مشخص باشد کدام خانه است.
+        float drawX = tileFloorX + (TILE_W - drawW) / 2f;
+        float drawY = tileFloorY;
+        batch.draw(tex, drawX, drawY, drawW, drawH);
+    }
+
+    private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
         for (Zombie z : session.getAliveZombies()) {
             float x = tileX(0) + (float) z.getXPosition() * TILE_W;
             float y = tileY(z.getRow());
@@ -1024,18 +1049,39 @@ public class GameScreen implements Screen {
                 continue;
             }
 
+            // گرافیک اصلی بدنِ زامبی: به‌جای انیمیشن اسکلتی PAM (که فقط برای چند
+            // نوع زامبی نگاشت واقعی دارد و بقیه را به‌اشتباه با شکل «زامبی
+            // معمولی» نمایش می‌داد)، از تصویر واقعیِ اختصاصیِ همان نوع زامبی
+            // (AssetPaths.zombieIcon که برای تمام انواع، نگاشت درست به اطلس
+            // رسمی خودشان را دارد) با اندازه‌ی متناسب استفاده می‌شود — دقیقاً
+            // با همان روشی که برای گیاهان (drawFitted) درست کار می‌کند.
+            String iconPath = AssetPaths.zombieIcon(z.getTypeName());
+            boolean isChilled = z.getFrozenTicks() > 0 || z.getChilledTicks() > 0;
+            boolean nearHouse = z.getXPosition() < 1.0; // نزدیک به خانه: هشدار قرمزرنگ (طبق رفتار قبلی)
+            if (!iconPath.isEmpty()) {
+                TextureRegion body = ImageUtils.loadRegion(iconPath);
+                if (nearHouse) {
+                    batch.setColor(1f, 0.4f, 0.4f, 1f);
+                } else {
+                    batch.setColor(isChilled ? new Color(0.6f, 0.8f, 1f, 1f) : Color.WHITE);
+                }
+                drawZombieSprite(batch, body, x, y);
+                batch.setColor(Color.WHITE);
+            } else {
+                // نوعی که هنوز اسپرایت رسمی برایش موجود نیست (مثلاً turquoise)؛
+                // به‌جای نمایش اشتباهیِ شکل زامبی معمولی، یک جایگزین رنگی
+                // مشخص (که AssetPaths.zombieIcon/ImageUtils تولید می‌کند) با
+                // همان اندازه‌ی متناسبِ یک کاشی رسم می‌شود تا حداقل گمراه‌کننده
+                // نباشد و باز هم مشخص باشد دقیقاً کدام خانه است.
+                drawZombieSprite(batch, ImageUtils.loadRegion(""), x, y);
+            }
+
             if (z.isSpawnedByTornado() && session.getTickCount() - z.getSpawnTick() < 15) {
                 TextureRegion tornado = ImageUtils.loadRegion(AssetPaths.TORNADO_EFFECT);
                 batch.draw(tornado, x - 10f, y - 10f, TILE_W + 10f, TILE_H + 10f);
             }
 
             drawHealthBar(batch, x, y + TILE_H - 16f, TILE_W - 10f, z.getHealth() / (float) z.getMaxHealth());
-
-            if (z.getXPosition() < 1.0) {
-                batch.setColor(1f, 0.4f, 0.4f, 1f);
-                batch.draw(ImageUtils.loadRegion(AssetPaths.zombieIcon(z.getTypeName())), x + 5f, y, TILE_W - 10f, TILE_H - 10f);
-                batch.setColor(Color.WHITE);
-            }
         }
     }
 
