@@ -7,6 +7,7 @@ import model.plant.interfaces.IExplosive;
 
 public class PierceMint extends Plant implements IExplosive {
 
+    private int currentSunCost = 0;
     private int currentCooldown = 850;
     private int durationBonusTicks = 0;
     private boolean hasTriggered = false;
@@ -39,6 +40,7 @@ public class PierceMint extends Plant implements IExplosive {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Strike-through) اعمال کرد!");
         this.takeDamage(9999);
         session.triggerFamilyPlantFood(model.plant.PlantType.STRIKE_THROUGH, durationBonusTicks);
+        this.takeDamage(9999);
     }
     @Override
     public void feed(GameSession session) {
@@ -56,6 +58,9 @@ public class PierceMint extends Plant implements IExplosive {
             System.out.println("قابلیت ویژه Lvl 4: ریست کردن کول‌دان تمام گیاهان خانواده Pierce-mint در سطح نقشه!");
         }
     }
+
+    @Override
+    public int getSunCost() { return currentSunCost; }
 
     @Override
     public int getCooldownTicks() { return currentCooldown; }

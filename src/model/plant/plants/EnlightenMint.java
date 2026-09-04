@@ -7,6 +7,7 @@ import model.plant.interfaces.IExplosive;
 
 public class EnlightenMint extends Plant implements IExplosive {
 
+    private int currentSunCost = 0;
     private int currentCooldown = 850;
     private int durationBonusTicks = 0; // برای لول 2
     private boolean hasTriggered = false;
@@ -39,6 +40,7 @@ public class EnlightenMint extends Plant implements IExplosive {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Sun Producer) اعمال کرد!");
         this.takeDamage(9999);
         session.triggerFamilyPlantFood(model.plant.PlantType.SUN_PRODUCER, durationBonusTicks);
+        this.takeDamage(9999);
     }
 
     @Override
@@ -57,6 +59,9 @@ public class EnlightenMint extends Plant implements IExplosive {
             System.out.println("ریست کردن کول‌دان تمام گیاهان خانواده در سطح نقشه (Reset family cooldowns)");
         }
     }
+
+    @Override
+    public int getSunCost() { return currentSunCost; }
 
     @Override
     public int getCooldownTicks() { return currentCooldown; }

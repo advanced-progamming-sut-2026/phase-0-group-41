@@ -154,7 +154,7 @@ public class GameSession {
     private void registerZombieSeen(Zombie z) {
         String typeName = z.getTypeName();
         if (user.getSeenZombies().add(typeName)) {
-            user.addNews("New zombie discovered: " + typeName);
+            user.addNews("زامبی جدید کشف شد: " + typeName);
         }
     }
 
@@ -306,7 +306,7 @@ public class GameSession {
                         tile.setPlant(null); // کاشی دوباره خالی و قابل کشت می‌شود
 
                         if(this instanceof model.minigame.BeghouledSession) {
-                            tile.setTerrainType(model.game.TerrainType.CRATER); // در Beghouled، کاشی به گودال تبدیل می‌شود                    
+                            tile.setTerrainType(model.game.TerrainType.CRATER); // در Beghouled، کاشی به گودال تبدیل می‌شود
                         }
                     }
                 }
@@ -336,14 +336,14 @@ public class GameSession {
                 Tile.SliderDirection dir = tileUnderZombie.getSliderDirection();
                 // لیز خوردن به بالا
                 if (dir == Tile.SliderDirection.UP && zombie.getRow() > 0) {
-                    zombie.spawn(zombie.getRow() - 1, zombie.getXPosition()); 
-                } 
+                    zombie.spawn(zombie.getRow() - 1, zombie.getXPosition());
+                }
                 // لیز خوردن به پایین
                 else if (dir == Tile.SliderDirection.DOWN && zombie.getRow() < Board.ROWS - 1) {
-                    zombie.spawn(zombie.getRow() + 1, zombie.getXPosition()); 
+                    zombie.spawn(zombie.getRow() + 1, zombie.getXPosition());
                 }
             }
-            
+
             // === اتصال گیاهان تله‌ای/مینی به رویداد «زامبی روی همان خانه» ===
             // این گیاهان (Squash، Tangle Kelp، Iceberg Lettuce، Primal Potato Mine،
             // Hypno-shroom) متد ویژه‌ی خودشان را دارند (explode/triggerExplosion/onEaten)
@@ -501,22 +501,22 @@ public class GameSession {
             for (int r = 0; r < Board.ROWS; r++) {
                 for (int c = 0; c < Board.COLS; c++) {
                     Tile tile = board.getTile(r, c);
-                    
+
                     // اگر تایل خاصیت نکرومنسی دارد و روی آن قبر وجود دارد
                     if (tile.isNecromancyTile() && tile.hasGrave()) {
-                        
+
                         // تولید یک زامبی پایه (Basic) بر اساس درجه سختی کاربر
                         Zombie necromancyZombie = ZombieFactory.randomBasicZombie(user.getDifficultyLevel());
-                        
+
                         // قرار دادن زامبی دقیقاً در همان مختصات قبر
                         necromancyZombie.spawn(r, c);
                         necromancyZombie.setSpawnTick((int) this.tickCount);
-                        
+
                         // اضافه کردن زامبی به لیست زامبی‌های زنده در صفحه
                         aliveZombies.add(necromancyZombie);
                         registerZombieSeen(necromancyZombie);
                         necromancyTriggeredFlag = true; // برای اعلان گرافیکی «قبل از نکرومنسی»
-                        
+
                         System.out.println("نکرومنسی! یک زامبی از زیر قبر در مختصات (" + c + ", " + r + ") بیرون آمد!");
                     }
                 }
@@ -537,7 +537,7 @@ public class GameSession {
         boolean isTornadoWave = (currentSeason == Season.ANCIENT_EGYPT && waveManager.isFinalWave());
 
         while (remainingCost > 0) {
-            Zombie z = ZombieFactory.randomBasicZombie(user.getDifficultyLevel());
+            Zombie z = randomZombieForCurrentWave();
             int lane = random.nextInt(Board.ROWS);
 
             int spawnCol = Board.COLS - 1;
@@ -595,11 +595,11 @@ public class GameSession {
             }
         }
         for (Zombie z : reachedEnd) {
-            //اگر داخل یه تیک همزمان دوتا زامبی رد شدن، فقط یکی از اونها ماشین چمن‌زنی رو فعال می‌کنه و اون یکی باعث باخت نمیشه  
+            //اگر داخل یه تیک همزمان دوتا زامبی رد شدن، فقط یکی از اونها ماشین چمن‌زنی رو فعال می‌کنه و اون یکی باعث باخت نمیشه
             if (!aliveZombies.contains(z)) {
                 continue;
             }
-            
+
             int row = z.getRow();
             if (board.triggerLawnMower(row)) {
                 // ماشین چمن‌زنی همه زامبی‌های همان ردیف را می‌کشد
@@ -629,7 +629,7 @@ public class GameSession {
                     // اگر گیاه زنده بود و نوع (خانواده) آن با نعناع یکی بود
                     if (!plant.isDead() && plant.getType() == targetFamily) {
                         plant.feed(this); // فعال‌سازی افکت پلنت فود
-                        
+
                     }
                 }
             }

@@ -7,6 +7,7 @@ import model.plant.interfaces.IExplosive;
 
 public class EnchantMint extends Plant implements IExplosive {
 
+    private int currentSunCost = 0;
     private int currentCooldown = 850;
     private int durationBonusTicks = 0; // برای لول 2 (افزایش زمان تأثیر)
     private boolean hasTriggered = false;

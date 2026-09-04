@@ -7,6 +7,7 @@ import model.plant.interfaces.IExplosive;
 
 public class CatTailMint extends Plant implements IExplosive {
 
+    private int currentSunCost = 0;
     private int currentCooldown = 850;
     private int durationBonusTicks = 0;
     private boolean hasTriggered = false;
@@ -39,6 +40,7 @@ public class CatTailMint extends Plant implements IExplosive {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Homing) اعمال کرد!");
         this.takeDamage(9999);
         session.triggerFamilyPlantFood(model.plant.PlantType.HOMING, durationBonusTicks);
+        this.takeDamage(9999);
     }
 
     @Override
@@ -57,6 +59,9 @@ public class CatTailMint extends Plant implements IExplosive {
             System.out.println("قابلیت ویژه Lvl 4: ریست کردن کول‌دان تمام گیاهان خانواده catTail-mint در سطح نقشه!");
         }
     }
+
+    @Override
+    public int getSunCost() { return currentSunCost; }
 
     @Override
     public int getCooldownTicks() { return currentCooldown; }
