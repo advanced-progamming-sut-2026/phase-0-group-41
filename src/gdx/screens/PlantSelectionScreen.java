@@ -59,6 +59,22 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         rootTable.add(new Label(model.game.ChapterPlan.displayName(chapter) + " - Level " + level, skin))
                 .padBottom(10f).row();
 
+        // --- توضیح برای مُدهایی که این انتخاب در آن‌ها بی‌اثر است (طبق سند) ---
+        model.levelrules.LevelMode modeForNotice = model.game.ChapterPlan.levelModeFor(chapter, level);
+        if (modeForNotice == model.levelrules.LevelMode.CONVEYOR_BELT) {
+            Label notice = new Label("Conveyor Belt level: plants arrive randomly during play. "
+                    + "This selection won't be used — just press Start Game.", skin);
+            notice.setWrap(true);
+            notice.setColor(Color.YELLOW);
+            rootTable.add(notice).width(700f).padBottom(10f).row();
+        } else if (modeForNotice == model.levelrules.LevelMode.LOCKED_PLANTS) {
+            Label notice = new Label("Locked Plants level: only a fixed set of plants is allowed. "
+                    + "This selection won't be used — just press Start Game.", skin);
+            notice.setWrap(true);
+            notice.setColor(Color.YELLOW);
+            rootTable.add(notice).width(700f).padBottom(10f).row();
+        }
+
         rootTable.add(new Label("Available plants (click to add):", skin)).left().padBottom(6f).row();
         unlockedTable.top().left();
         ScrollPane unlockedScroll = new ScrollPane(unlockedTable, skin);
@@ -175,6 +191,9 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         Label nameLabel = new Label(plantName + " Lv" + level, skin);
         nameLabel.setFontScale(0.55f);
         cell.add(nameLabel).row();
+        Label costLabel = new Label("Cost: " + probe.getSunCost(), skin);
+        costLabel.setFontScale(0.5f);
+        cell.add(costLabel).row();
 
         Table actionRow = new Table();
         actionRow.add(smallActionButton("Upg", () -> {
@@ -274,7 +293,18 @@ public class PlantSelectionScreen extends BaseMenuScreen {
 
     private void doStartGame() {
         clearError();
-        if (controller.getSelectedPlants().isEmpty()) {
+        // === رفع باگ: در مُدهای «نوار نقاله» و «گیاهان زندانی»، لیست گیاهانِ
+        // انتخاب‌شده در همین صفحه اصلاً توسط GameScreen استفاده نمی‌شود (نوار
+        // نقاله گیاهان را تصادفی می‌دهد؛ گیاهان زندانی فقط لیست ثابت خودش را
+        // نشان می‌دهد) اما این صفحه همچنان بازیکن را مجبور می‌کرد حتماً حداقل
+        // یک گیاه انتخاب کند، وگرنه دکمه‌ی «Start Game» کار نمی‌کرد — یک بن‌بست
+        // گیج‌کننده که ربطی به گیم‌پلی واقعی مرحله نداشت. برای این دو مُد، این
+        // بررسی را رد می‌کنیم و مستقیم به مرحله می‌رویم.
+        model.levelrules.LevelMode mode = model.game.ChapterPlan.levelModeFor(chapter, level);
+        boolean selectionIrrelevant = mode == model.levelrules.LevelMode.CONVEYOR_BELT
+                || mode == model.levelrules.LevelMode.LOCKED_PLANTS;
+
+        if (!selectionIrrelevant && controller.getSelectedPlants().isEmpty()) {
             showError("Select at least one plant.");
             return;
         }

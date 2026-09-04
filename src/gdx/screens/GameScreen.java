@@ -93,6 +93,7 @@ public class GameScreen implements Screen {
     private TextButton startWavesButton = null; // فقط برای مُد «هرچه رسد بکار»؛ بعد از شروع موج‌ها مخفی می‌شود
     private final Table zombieProgressBar = new Table();
 
+    private List<String> lastKnownBeltContents = new java.util.ArrayList<>(); // برای جلوگیری از رفرش/چشمک‌زدن غیرضروری کارت‌های نوار نقاله
     private String selectedPlantToPlant = null; // نام گیاهی که کاربر برای کاشت انتخاب کرده (از نوار کناری)
     private boolean shovelSelected = false;      // حالت انتخاب بیلچه برای برداشت گیاه
     private boolean plantFoodSelected = false;   // حالت انتخاب غذای گیاه برای اعمال روی یک گیاه
@@ -232,7 +233,14 @@ public class GameScreen implements Screen {
         //     باید حین بازی به‌طریقی نمایش داده شود). متن این برچسب هر فریم در
         //     render() به‌روزرسانی می‌شود (چون مثلاً شمارش معکوس نبرد زمان‌دار زنده است). ---
         modeStatusLabel.setText(session.getLevelRules().getHudStatusText(session));
-        hudTable.add(modeStatusLabel).padTop(4f).row();
+        // === رفع باگ گرافیکی: متن نوار وضعیت مُد ویژه (مثلاً «نبرد زمان‌دار: ۴۵
+        // ثانیه | زامبی کشته‌شده: ۰/۱۰») بدون wrap تنظیم شده بود و در متن‌های
+        // طولانی‌تر (مثل «از دست نده») از عرض صفحه بیرون می‌زد و پشت آیکون‌های
+        // دیگر HUD پنهان می‌شد. الان با wrap و عرض ثابت، همیشه داخل صفحه و
+        // خوانا می‌ماند. ===
+        modeStatusLabel.setWrap(true);
+        modeStatusLabel.setAlignment(com.badlogic.gdx.utils.Align.center);
+        hudTable.add(modeStatusLabel).width(900f).padTop(4f).row();
 
         // --- مُد «هرچه رسد بکار»: دکمه‌ی شروع دستیِ موج‌ها بعد از اتمام کاشت ---
         if (session.getLevelRules() instanceof model.levelrules.PlantWhatYouGetRules) {
@@ -594,15 +602,16 @@ public class GameScreen implements Screen {
             tickAccumulator += delta * session.getUser().getGameSpeed();
             while (tickAccumulator >= SECONDS_PER_TICK) {
                 tickAccumulator -= SECONDS_PER_TICK;
+                // نکته‌ی مهم: GameSession.advanceOneTick() خودش هم سقوط خورشید آسمانی
+                // (با احترام به allowsSkySun()/فصل) و هم حرکت خورشیدهای در حال سقوط را
+                // انجام می‌دهد. قبلاً همین کار اینجا هم دوباره تکرار می‌شد که باعث
+                // می‌شد: (۱) خورشید تقریباً دو برابر سرعت واقعی بریزد، (۲) خورشیدهای
+                // در حال سقوط با سرعت دو برابر افت کنند، و مهم‌تر از همه (۳) در
+                // مُدهای «شب عملیات» و «هرچه رسد بکار» که باید هیچ خورشیدی از آسمان
+                // نبارد، همچنان خورشید می‌بارید چون این تیک تکراری هیچ‌وقت
+                // levelRules.allowsSkySun() را چک نمی‌کرد. برای همین این بخش تکراری
+                // کاملاً حذف شد؛ session.advanceOneTick() به‌تنهایی کافی است.
                 session.advanceOneTick();
-
-                FallingSun newSun = session.getSunManager().tick(session.getBoard());
-                if (newSun != null) {
-                    session.getFallingSuns().add(newSun);
-                }
-                for (FallingSun fs : session.getFallingSuns()) {
-                    fs.tick();
-                }
             }
         } else if (!announcedGameOver) {
             announcedGameOver = true;
@@ -635,10 +644,24 @@ public class GameScreen implements Screen {
         plantFoodLabel.setText(String.valueOf(session.getPlantFoodCount()));
         modeStatusLabel.setText(session.getLevelRules().getHudStatusText(session));
         chapterLevelWaveLabel.setText(chapterLevelWaveText());
+
         if (session.getLevelRules() instanceof model.levelrules.ConveyorBeltRules) {
-            refreshPlantCards(); // لیست نوار نقاله مدام تغییر می‌کند
+            // === رفع باگ گرافیکی: قبلاً هر فریم (حدود ۶۰ بار در ثانیه) کل
+            // جدول کارت‌های نوار نقاله از صفر پاک و بازساخته می‌شد، حتی وقتی
+            // محتوای نوار اصلاً عوض نشده بود. این کار باعث چشمک‌زدن (flicker)
+            // مداوم کارت‌ها و از دست رفتن کلیک‌های بازیکن روی آن‌ها می‌شد (چون
+            // Actor قدیمی وسط کلیک از صحنه حذف و با یک Actor تازه جایگزین
+            // می‌شد). الان فقط وقتی محتوای واقعی نوار (لیست نام گیاهان به
+            // همان ترتیب) از آخرین بار فرق کند، جدول را دوباره می‌سازیم. ===
+            List<String> currentBelt = ((model.levelrules.ConveyorBeltRules) session.getLevelRules()).getBeltPlants();
+            if (!currentBelt.equals(lastKnownBeltContents)) {
+                lastKnownBeltContents = new java.util.ArrayList<>(currentBelt);
+                refreshPlantCards();
+            }
         }
+        
         updatePlantCardCooldownOverlays(); // تیره‌کردن کارت‌های در حال Cooldown + نمایش زمان باقی‌مانده
+        
         if (startWavesButton != null) {
             boolean wavesStarted = ((model.levelrules.PlantWhatYouGetRules) session.getLevelRules()).isWavesStarted();
             startWavesButton.setVisible(!wavesStarted);
@@ -673,17 +696,6 @@ public class GameScreen implements Screen {
             case BIG_WAVE_BEACH: return AssetPaths.BG_LAWN_BIG_WAVE_BEACH;
             case DARK_AGES: return AssetPaths.BG_LAWN_DARK_AGES;
             default: return AssetPaths.BG_LAWN_NORMAL;
-        }
-    }
-
-    /** چمن‌زن مخصوص فصل فعلی مرحله (طبق بخش «پس‌زمینه‌ی هر فصل باید همان چمن‌زن مخصوص را داشته باشد»). */
-    private String seasonMowerPath(boolean used) {
-        switch (session.getSeason()) {
-            case ANCIENT_EGYPT: return used ? AssetPaths.LAWN_MOWER_USED_EGYPT : AssetPaths.LAWN_MOWER_IDLE_EGYPT;
-            case FROSTBITE_CAVES: return used ? AssetPaths.LAWN_MOWER_USED_ICEAGE : AssetPaths.LAWN_MOWER_IDLE_ICEAGE;
-            case BIG_WAVE_BEACH: return used ? AssetPaths.LAWN_MOWER_USED_BEACH : AssetPaths.LAWN_MOWER_IDLE_BEACH;
-            case DARK_AGES: return used ? AssetPaths.LAWN_MOWER_USED_DARK : AssetPaths.LAWN_MOWER_IDLE_DARK;
-            default: return used ? AssetPaths.LAWN_MOWER_USED_NORMAL : AssetPaths.LAWN_MOWER_IDLE_NORMAL;
         }
     }
 
@@ -1108,6 +1120,20 @@ public class GameScreen implements Screen {
             return;
         }
         com.badlogic.gdx.math.Vector2 touch = currentPointerStageCoords();
+
+        // === رفع باگ: این متد صرفاً با خواندن مستقیم Gdx.input بدون توجه به
+        // این‌که Stage خودش همین کلیک را قبلاً برای یک المان UI (دکمه‌ی توقف،
+        // بیلچه، غذای گیاه، یا یکی از کارت‌های گیاه) مصرف کرده یا نه، عمل
+        // می‌کرد. نتیجه: کلیک روی این دکمه‌ها همزمان هم اکشن خودشان را انجام
+        // می‌داد هم به‌عنوان یک کلیک روی خانه‌ی زیرشان تفسیر می‌شد (مثلاً کلیک
+        // روی دکمه‌ی Pause که بالای گوشه‌ی تخته قرار دارد، هم منوی توقف را باز
+        // می‌کرد و هم می‌توانست یک گیاه در همان خانه بکارد/بردارد). با بررسی
+        // این‌که آیا زیر نشانگر موس همین الان یک Actor از Stage قرار دارد
+        // (hit-test)، از این تداخل جلوگیری می‌کنیم.
+        com.badlogic.gdx.scenes.scene2d.Actor hitActor = stage.hit(touch.x, touch.y, true);
+        if (hitActor != null) {
+            return; // کلیک روی یک المان UI بوده؛ خودِ Stage قبلاً آن را مدیریت کرده است
+        }
 
         // اول بررسی می‌کنیم که کلیک روی یک خورشید سقوط‌کرده باشد (برداشت خورشید آسمانی)
         for (int i = 0; i < session.getFallingSuns().size(); i++) {
