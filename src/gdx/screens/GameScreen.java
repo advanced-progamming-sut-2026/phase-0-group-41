@@ -697,6 +697,16 @@ public class GameScreen implements Screen {
         }
     }
 
+    private String seasonMowerPath(boolean used) {
+        switch (session.getSeason()) {
+            case ANCIENT_EGYPT: return used ? AssetPaths.LAWN_MOWER_USED_EGYPT : AssetPaths.LAWN_MOWER_IDLE_EGYPT;
+            case FROSTBITE_CAVES: return used ? AssetPaths.LAWN_MOWER_USED_ICEAGE : AssetPaths.LAWN_MOWER_IDLE_ICEAGE;
+            case BIG_WAVE_BEACH: return used ? AssetPaths.LAWN_MOWER_USED_BEACH : AssetPaths.LAWN_MOWER_IDLE_BEACH;
+            case DARK_AGES: return used ? AssetPaths.LAWN_MOWER_USED_DARK : AssetPaths.LAWN_MOWER_IDLE_DARK;
+            default: return used ? AssetPaths.LAWN_MOWER_USED_NORMAL : AssetPaths.LAWN_MOWER_IDLE_NORMAL;
+        }
+    }
+
     // ==================== رسم تخته و موجودیت‌ها ====================
 
     private float tileX(int col) {
