@@ -1,4 +1,5 @@
 package gdx.screens;
+import gdx.render.LawnMowerVisualManager;
 import gdx.render.PamAssets;
 import gdx.render.ZombieVisualManager;
 import com.badlogic.gdx.Gdx;
@@ -74,6 +75,7 @@ public class GameScreen implements Screen {
 
     private final Table sidebarTable = new Table();
     private final ZombieVisualManager zombieVisuals = new ZombieVisualManager();
+    private final LawnMowerVisualManager lawnMowers = new LawnMowerVisualManager();
     private final Table cardsTable = new Table(); // کارت‌های گیاه انتخابی (یا گیاهان روی نوار نقاله)
     // نگاشت نام گیاه به المان‌های گرافیکیِ کارتش (برای به‌روزرسانی سریعِ
     // نمایش cooldown هر فریم، بدون نیاز به ساختن دوباره‌ی کل جدول کارت‌ها)
@@ -911,17 +913,16 @@ public class GameScreen implements Screen {
         return AssetPaths.GRAVE_TYPE_PLAIN;
     }
 
+
     private void drawLawnMowers(com.badlogic.gdx.graphics.g2d.Batch batch) {
         Board board = session.getBoard();
-        for (int r = 0; r < Board.ROWS; r++) {
-            if (!board.isLawnMowerAvailable(r)) {
-                continue; // برای مراحلی که ماشین چمن‌زنی ندارند
-            }
-            String path = seasonMowerPath(board.isLawnMowerUsed(r));
-            batch.draw(ImageUtils.loadRegion(path), BOARD_LEFT - 50f, tileY(r), 44f, TILE_H);
-        }
+        lawnMowers.sync(board, new LawnMowerVisualManager.TileMapper() {
+            public float x(int col) { return tileX(col); }
+            public float y(int row) { return tileY(row); }
+        });
+        lawnMowers.update(Gdx.graphics.getDeltaTime());
+        lawnMowers.draw((com.badlogic.gdx.graphics.g2d.SpriteBatch) batch);
     }
-
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
         Board board = session.getBoard();
         // ترتیب رسم: سطرهای پایین‌تر روی سطرهای بالاتر نمایش داده شوند (طبق بخش «ترتیب درست نمایش موجودیت‌ها»)
