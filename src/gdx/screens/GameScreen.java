@@ -75,6 +75,11 @@ public class GameScreen implements Screen {
     private final Table sidebarTable = new Table();
     private final ZombieVisualManager zombieVisuals = new ZombieVisualManager();
     private final Table cardsTable = new Table(); // کارت‌های گیاه انتخابی (یا گیاهان روی نوار نقاله)
+    // نگاشت نام گیاه به المان‌های گرافیکیِ کارتش (برای به‌روزرسانی سریعِ
+    // نمایش cooldown هر فریم، بدون نیاز به ساختن دوباره‌ی کل جدول کارت‌ها)
+    private final java.util.Map<String, Stack> plantCardsByName = new java.util.LinkedHashMap<>();
+    private final java.util.Map<String, com.badlogic.gdx.scenes.scene2d.ui.Image> dimOverlaysByName = new java.util.LinkedHashMap<>();
+    private final java.util.Map<String, Label> cooldownLabelsByName = new java.util.LinkedHashMap<>();
     private final Table hudTable = new Table();
     private final Label sunLabel;
     private final Label plantFoodLabel;
@@ -394,6 +399,17 @@ public class GameScreen implements Screen {
         }
     }
 
+    // === رفع باگ: وقتی همه‌ی ۸ اسلات گیاه پر می‌شد، نوار کناری (که قبلاً همه‌ی
+    // کارت‌ها را در یک ستون عمودی می‌چید) از ارتفاع صفحه (۷۲۰) بیرون می‌زد و
+    // دکمه‌های Shovel/Plant Food که بعد از کارت‌ها اضافه می‌شدند دیگر داخل
+    // صفحه جا نمی‌شدند و کلاً دیده نمی‌شدند. راه‌حل: کارت‌ها را در یک شبکه‌ی
+    // دو ستونه (به‌جای یک ستون تک با ۸ ردیف) بچینیم تا حداکثر ارتفاع کارت‌ها
+    // با هر تعداد گیاه (۱ تا ۸) کوچک‌تر از فضای باقی‌مانده برای این دو دکمه
+    // بماند؛ ارتفاع هر کارت هم کمی کوچک شده تا این شبکه در سایدبار جا شود.
+    private static final int CARD_COLUMNS = 2;
+    private static final float CARD_W = 62f;
+    private static final float CARD_H = 78f;
+
     private void buildSidebar() {
         sidebarTable.setFillParent(true);
         sidebarTable.top().left();
@@ -413,6 +429,9 @@ public class GameScreen implements Screen {
                 plantFoodSelected = false;
             }
         });
+        // این دو دکمه دیگر به تعداد کارت‌های بالا وابسته نیستند (چون کارت‌ها
+        // حالا در شبکه‌ی دو ستونه چیده می‌شوند، نه یک ستون بلند)، پس همیشه
+        // بلافاصله زیر کارت‌ها و داخل صفحه باقی می‌مانند.
         sidebarTable.add(shovelButton).padTop(10f).width(70f).row();
 
         // --- دکمه‌ی استفاده از غذای گیاه ---
@@ -441,6 +460,9 @@ public class GameScreen implements Screen {
      */
     private void refreshPlantCards() {
         cardsTable.clear();
+        plantCardsByName.clear();
+        dimOverlaysByName.clear();
+        cooldownLabelsByName.clear();
         model.levelrules.ILevelRules rules = session.getLevelRules();
         List<String> plantsToShow;
         if (rules instanceof model.levelrules.ConveyorBeltRules) {
@@ -451,8 +473,46 @@ public class GameScreen implements Screen {
         } else {
             plantsToShow = game.getPlantSelectionController().getSelectedPlants();
         }
+        int col = 0;
         for (String plantName : plantsToShow) {
-            cardsTable.add(buildPlantCard(plantName)).size(70f, 90f).pad(2f).row();
+            cardsTable.add(buildPlantCard(plantName)).size(CARD_W, CARD_H).pad(2f);
+            col++;
+            if (col % CARD_COLUMNS == 0) {
+                cardsTable.row();
+            }
+        }
+    }
+
+    /**
+     * فقط ظاهر کارت‌های گیاه را (بدون بازساخت کل جدول/لیسنرها) هر فریم
+     * به‌روزرسانی می‌کند: تیره‌شدن کارت + نمایش زمان باقی‌مانده روی گیاهانی
+     * که در حال شارژ (Cooldown) هستند. طبق درخواست: کاربر باید بتواند از
+     * روی خودِ عکس گیاه بفهمد که فعلاً نمی‌تواند دوباره آن را بکارد، بدون
+     * نیاز به کلیک‌کردن و دیدن پیام خطا.
+     */
+    private void updatePlantCardCooldownOverlays() {
+        for (java.util.Map.Entry<String, Stack> entry : plantCardsByName.entrySet()) {
+            String plantName = entry.getKey();
+            Stack cardStack = entry.getValue();
+            boolean onCooldown = session.isPlantOnCooldown(plantName);
+            Label cooldownLabel = cooldownLabelsByName.get(plantName);
+            com.badlogic.gdx.scenes.scene2d.ui.Image dimOverlay = dimOverlaysByName.get(plantName);
+            if (dimOverlay != null) {
+                dimOverlay.setVisible(onCooldown);
+            }
+            if (cooldownLabel != null) {
+                if (onCooldown) {
+                    int ticksLeft = session.getPlantCooldownRemaining(plantName);
+                    float secondsLeft = ticksLeft * SECONDS_PER_TICK;
+                    cooldownLabel.setVisible(true);
+                    cooldownLabel.setText(String.format("%.0fs", Math.ceil(secondsLeft)));
+                } else {
+                    cooldownLabel.setVisible(false);
+                }
+            }
+            cardStack.setTouchable(onCooldown
+                    ? com.badlogic.gdx.scenes.scene2d.Touchable.disabled
+                    : com.badlogic.gdx.scenes.scene2d.Touchable.enabled);
         }
     }
 
@@ -465,6 +525,28 @@ public class GameScreen implements Screen {
 
         stack.add(bg);
         stack.add(icon);
+
+        // === رفع مشکل «تیره‌شدن گیاه در حین Cooldown»: یک تصویر تک‌رنگ مشکی
+        // نیمه‌شفاف روی کل کارت کشیده می‌شود تا خودِ عکس گیاه واضحاً تیره‌تر
+        // دیده شود (دقیقاً مثل بازی اصلی)، و رویش زمان باقی‌مانده (به ثانیه)
+        // نوشته می‌شود تا کاربر بدون کلیک‌کردن و دیدن پیغام خطا بفهمد چرا فعلاً
+        // نمی‌تواند این گیاه را بکارد. مقدار visible/متن هر فریم توسط
+        // updatePlantCardCooldownOverlays() به‌روز می‌شود. ===
+        com.badlogic.gdx.scenes.scene2d.ui.Image dimOverlay =
+                new com.badlogic.gdx.scenes.scene2d.ui.Image(skin.newDrawable("white", new Color(0f, 0f, 0f, 0.65f)));
+        dimOverlay.setVisible(false);
+        stack.add(dimOverlay);
+
+        Label cooldownLabel = new Label("", skin, "hud-number");
+        cooldownLabel.setFontScale(0.8f);
+        cooldownLabel.setColor(Color.WHITE);
+        cooldownLabel.setAlignment(com.badlogic.gdx.utils.Align.center);
+        cooldownLabel.setVisible(false);
+        Table cooldownWrapper = new Table();
+        cooldownWrapper.center();
+        cooldownWrapper.add(cooldownLabel);
+        stack.add(cooldownWrapper);
+
         Table overlay = new Table();
         overlay.bottom();
         overlay.add(nameLabel);
@@ -481,6 +563,10 @@ public class GameScreen implements Screen {
                 plantFoodSelected = false;
             }
         });
+
+        plantCardsByName.put(plantName, stack);
+        dimOverlaysByName.put(plantName, dimOverlay);
+        cooldownLabelsByName.put(plantName, cooldownLabel);
         return stack;
     }
 
@@ -550,6 +636,7 @@ public class GameScreen implements Screen {
         if (session.getLevelRules() instanceof model.levelrules.ConveyorBeltRules) {
             refreshPlantCards(); // لیست نوار نقاله مدام تغییر می‌کند
         }
+        updatePlantCardCooldownOverlays(); // تیره‌کردن کارت‌های در حال Cooldown + نمایش زمان باقی‌مانده
         if (startWavesButton != null) {
             boolean wavesStarted = ((model.levelrules.PlantWhatYouGetRules) session.getLevelRules()).isWavesStarted();
             startWavesButton.setVisible(!wavesStarted);

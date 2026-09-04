@@ -42,9 +42,9 @@ sourceSets {
         java {
             srcDirs = ['src']
         }
-        resources {
-            srcDirs = ['assets']
-        }
+        //resources {
+        //    srcDirs = ['assets']
+        //}
     }
 }
 

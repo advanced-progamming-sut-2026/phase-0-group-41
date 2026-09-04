@@ -1,5 +1,6 @@
 package gdx.screens;
 
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
@@ -141,6 +142,22 @@ public class PlantSelectionScreen extends BaseMenuScreen {
             // پس‌زمینه‌ی طلایی برای گیاهان بوست‌شده (طبق سند: «گیاهانی که پس‌زمینه‌شان طلایی شده بوست شده‌اند»)
             iconStack.setColor(1f, 0.85f, 0.3f, 1f);
         }
+
+        // === رفع مشکل «هزینه‌ی کاشت خیلی ریز و نامشخص است»: به‌جای یک Label
+        // ریز جدا زیر آیکون، هزینه به‌صورت یک بج زردرنگ با پس‌زمینه‌ی تیره
+        // روی گوشه‌ی پایین-چپِ خودِ آیکون گیاه چسبانده می‌شود، دقیقاً مثل بازی
+        // اصلی، تا همیشه واضح و در یک نگاه قابل‌دیدن باشد. ===
+        Label costBadgeLabel = new Label(String.valueOf(probe.getSunCost()), skin, "hud-number");
+        costBadgeLabel.setFontScale(0.6f);
+        costBadgeLabel.setColor(Color.YELLOW);
+        Table costBadge = new Table();
+        costBadge.setBackground(skin.newDrawable("white", new Color(0f, 0f, 0f, 0.7f)));
+        costBadge.add(costBadgeLabel).pad(2f, 5f, 2f, 5f);
+        Table costBadgeWrapper = new Table();
+        costBadgeWrapper.bottom().left();
+        costBadgeWrapper.add(costBadge).pad(2f);
+        iconStack.add(costBadgeWrapper);
+
         iconStack.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
@@ -158,9 +175,6 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         Label nameLabel = new Label(plantName + " Lv" + level, skin);
         nameLabel.setFontScale(0.55f);
         cell.add(nameLabel).row();
-        Label costLabel = new Label("Cost: " + probe.getSunCost(), skin);
-        costLabel.setFontScale(0.5f);
-        cell.add(costLabel).row();
 
         Table actionRow = new Table();
         actionRow.add(smallActionButton("Upg", () -> {
@@ -201,7 +215,7 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         User user = game.getLoggedInUser();
         model.plant.Plant probe = model.plant.PlantFactory.create(plantName);
         Image icon = new Image(ImageUtils.loadRegion(AssetPaths.plantSeedPacket(plantName)));
-        Label label = new Label(plantName + " (" + probe.getSunCost() + ")", skin);
+        Label label = new Label(plantName, skin);
         label.setFontScale(0.5f);
 
         Stack stack = new Stack();
@@ -212,6 +226,19 @@ public class PlantSelectionScreen extends BaseMenuScreen {
         if (user != null && user.hasGreenhouseBoost(plantName)) {
             stack.setColor(1f, 0.85f, 0.3f, 1f); // پس‌زمینه‌ی طلایی برای گیاه بوست‌شده
         }
+
+        // بج هزینه‌ی کاشت، هم‌شکل با کارت‌های بالا، برای وضوح بیشتر
+        Label costBadgeLabel = new Label(String.valueOf(probe.getSunCost()), skin, "hud-number");
+        costBadgeLabel.setFontScale(0.55f);
+        costBadgeLabel.setColor(Color.YELLOW);
+        Table costBadge = new Table();
+        costBadge.setBackground(skin.newDrawable("white", new Color(0f, 0f, 0f, 0.7f)));
+        costBadge.add(costBadgeLabel).pad(1f, 4f, 1f, 4f);
+        Table costBadgeWrapper = new Table();
+        costBadgeWrapper.top().left();
+        costBadgeWrapper.add(costBadge).pad(1f);
+        stack.add(costBadgeWrapper);
+
         Table overlay = new Table();
         overlay.bottom();
         overlay.add(label).width(76f);
