@@ -292,20 +292,6 @@ public class GameSession {
             }
         }
 
-        // تیک پرتابه‌ها — عمداً قبل از تیک گیاهان اجرا می‌شود: اگر پرتابه‌ای همین
-        // تیک آخرین زامبیِ یک ردیف را بکشد، takeDamage بلافاصله isDead() آن زامبی
-        // را true می‌کند؛ در نتیجه وقتی بلافاصله بعد از این حلقه نوبت به تیک
-        // گیاهان می‌رسد، isZombieInRow آن زامبی را «مرده» می‌بیند و گیاه پرتاب‌گر
-        // یک شلیک اضافه‌ی «شبح» به سمت ردیفِ خالی انجام نمی‌دهد.
-        List<model.projectile.Projectile> deadProjectiles = new ArrayList<>();
-        for (model.projectile.Projectile p : activeProjectiles) {
-            p.onTick(this);
-            if (p.isDead()) {
-                deadProjectiles.add(p);
-            }
-        }
-        activeProjectiles.removeAll(deadProjectiles);
-
         // تیک گیاهان
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 0; c < Board.COLS; c++) {
@@ -326,6 +312,16 @@ public class GameSession {
                 }
             }
         }
+
+        // تیک پرتابه‌ها
+        List<model.projectile.Projectile> deadProjectiles = new ArrayList<>();
+        for (model.projectile.Projectile p : activeProjectiles) {
+            p.onTick(this);
+            if (p.isDead()) {
+                deadProjectiles.add(p);
+            }
+        }
+        activeProjectiles.removeAll(deadProjectiles);
 
         // حرکت / حمله زامبی‌ها
         List<Zombie> deadZombies = new ArrayList<>();
@@ -669,6 +665,26 @@ public class GameSession {
             Plant p2 = board.getTile(row2, c).getPlant();
             // if (p2 != null) p2.applyFreezeWind();
         }
+    }
+
+    // === بخش فصلی: زامبی‌های اختصاصیِ هر فصل که باید در کنار زامبی‌های پایه
+    // (normal/conehead/buckethead) در موج‌های ماجراجویی ظاهر شوند. قبلاً این
+    // متد اصلاً بررسی نمی‌شد و spawnNextWave همیشه فقط از randomBasicZombie
+    // استفاده می‌کرد؛ در نتیجه در کل بازی هیچ زامبی اختصاصی (مثل کاوشگر/را/
+    // قبرکَن در مصر باستان) هرگز در حین گیم‌پلی ظاهر نمی‌شد — even though their
+    // logic (سرقت خورشید، بلند کردن قبر، مشعل) کامل نوشته شده بود.
+    private static final List<String> EGYPT_SPECIAL_ZOMBIE_TYPES =
+            Arrays.asList("explorer", "ra", "tombraiser");
+
+    /** یک زامبی تصادفی مناسب فصل فعلی می‌سازد: در مصر باستان، علاوه بر
+     *  زامبی‌های پایه، زامبی‌های اختصاصی این فصل (کاوشگر/را/قبرکَن) هم با
+     *  احتمال ثابت در استخر انتخاب قرار می‌گیرند. */
+    private Zombie randomZombieForCurrentWave() {
+        if (currentSeason == Season.ANCIENT_EGYPT && random.nextDouble() < 0.35) {
+            String type = EGYPT_SPECIAL_ZOMBIE_TYPES.get(random.nextInt(EGYPT_SPECIAL_ZOMBIE_TYPES.size()));
+            return ZombieFactory.create(type, user.getDifficultyLevel());
+        }
+        return ZombieFactory.randomBasicZombie(user.getDifficultyLevel());
     }
 
     private void spawnRandomGraves(int count) {

@@ -2,6 +2,7 @@ package model.zombie.zombies;
 
 import model.game.Board;
 import model.game.GameSession;
+import model.game.Grave;
 import model.game.TerrainType;
 import model.game.Tile;
 import model.zombie.Zombie;
@@ -49,9 +50,16 @@ public class TombraiserZombie extends Zombie {
         }
 
         // اگر خانه خالی بود، یک قبر رندوم بساز
+        // === رفع باگ: قبلاً فقط terrainType به GRAVE تغییر می‌کرد ولی خودِ
+        // آبجکت Grave ساخته/نشسته نمی‌شد؛ چون hasGrave() و رسم گرافیکی (drawGraves)
+        // و کاشتن/برداشتن با قبرکَن (GraveBuster) همه بر اساس همین آبجکت کار
+        // می‌کنند، این خانه‌ی «نیمه‌قبر» نه دیده می‌شد، نه واقعاً مثل قبر رفتار
+        // می‌کرد. اکنون یک قبرِ واقعی (بدون خورشید/غذا، طبق طرح مصر باستان) ساخته
+        // و روی خانه نشانده می‌شود.
         if (!emptyTiles.isEmpty()) {
             Tile targetTile = emptyTiles.get(random.nextInt(emptyTiles.size()));
             targetTile.setTerrainType(TerrainType.GRAVE);
+            targetTile.setGrave(new Grave(false, false));
         }
     }
 
