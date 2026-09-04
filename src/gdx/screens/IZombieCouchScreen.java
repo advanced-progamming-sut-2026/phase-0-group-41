@@ -29,6 +29,7 @@ import model.game.Tile;
 import model.minigame.IZombieSession;
 import model.plant.Plant;
 import model.plant.PlantFactory;
+import model.projectile.Projectile;
 import model.zombie.Zombie;
 
 /**
@@ -44,10 +45,20 @@ public class IZombieCouchScreen implements Screen {
     private static final float WORLD_WIDTH = 1280f;
     private static final float WORLD_HEIGHT = 720f;
 
-    private static final float BOARD_LEFT = 260f;
-    private static final float BOARD_TOP = 640f;
-    private static final float TILE_W = 100f;
-    private static final float TILE_H = 96f;
+    // === رفع باگ: بک‌گراند و مختصات زمین با هم منطبق نبودند ===
+    // قبلاً این صفحه از BG_MINIGAME_IZOMBIE استفاده می‌کرد که یک تصویر کاملاً
+    // متفاوت (برندِ «Big Brainz») است، در حالی که مقادیر BOARD_LEFT/BOARD_TOP/
+    // TILE_W/TILE_H به‌صورت دستی و جدا از آن تصویر تنظیم شده بودند. نتیجه این
+    // بود که شبکه‌ی خانه‌ها روی چمن واقعیِ تصویر نمی‌نشست و گیاه/زامبی نسبت به
+    // بک‌گراند جابه‌جا به نظر می‌رسید (دقیقاً همان چیزی که در عکس مشخص بود).
+    // راه‌حل: دقیقاً همان بک‌گراند و همان مختصاتِ کالیبره‌شده‌ی GameScreen
+    // (بازی اصلی) استفاده می‌شود؛ چون WORLD_WIDTH/HEIGHT و Board.ROWS/COLS در
+    // هر دو صفحه یکسان است، این مقادیر بدون هیچ تغییری روی این زمین هم درست
+    // می‌نشینند.
+    private static final float BOARD_LEFT = 325f;
+    private static final float BOARD_TOP = 518f;
+    private static final float TILE_W = 98.75f;
+    private static final float TILE_H = 87.9f;
     private static final float SECONDS_PER_TICK = 0.1f;
 
     private static final String[] ZOMBIE_TYPES = {"normal", "conehead", "buckethead", "imp"};
@@ -229,6 +240,12 @@ public class IZombieCouchScreen implements Screen {
         stage.getBatch().begin();
         drawBoard(stage.getBatch());
         drawPlants(stage.getBatch());
+        // === اضافه‌شده: رسم پرتابه‌ها (تیر نخودی و مشابه) ===
+        // منطق پرتابه‌ها همیشه سمت مدل کار می‌کرد (peashooter واقعاً شلیک
+        // می‌کرد)، اما این صفحه اصلاً هیچ کدی برای رسم پرتابه‌ها نداشت، پس
+        // بازیکن هیچ تیری روی صفحه نمی‌دید. اینجا دقیقاً مطابق
+        // GameScreen.drawProjectiles اضافه شد.
+        drawProjectiles(stage.getBatch());
         drawZombies(stage.getBatch());
         stage.getBatch().end();
 
@@ -349,7 +366,12 @@ public class IZombieCouchScreen implements Screen {
     }
 
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        TextureRegion bg = ImageUtils.loadRegion(AssetPaths.BG_MINIGAME_IZOMBIE);
+        // === رفع باگ: بک‌گراند اشتباه ===
+        // قبلاً BG_MINIGAME_IZOMBIE استفاده می‌شد که تصویر برندِ «Big Brainz»
+        // است، نه چمنِ معمولی بازی؛ به همین دلیل شبکه‌ی خانه‌ها روی آن تصویر
+        // جا نمی‌افتاد. حالا از همان BG_LAWN_NORMAL بازی اصلی استفاده می‌شود
+        // (دقیقاً هم‌راستا با BOARD_LEFT/TOP/TILE_W/H که از GameScreen گرفته شد).
+        TextureRegion bg = ImageUtils.loadRegion(AssetPaths.BG_LAWN_NORMAL);
         batch.draw(bg, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
         drawRedLine(batch);
     }
@@ -358,9 +380,8 @@ public class IZombieCouchScreen implements Screen {
      * === اضافه‌شده: رسم خط قرمز (مرز کاشتن زامبی) ===
      * قبلاً هیچ نشانه‌ی بصری‌ای برای خط قرمز روی زمین وجود نداشت؛ فقط وقتی
      * بازیکن زامبی سعی می‌کرد سمت چپِ خط قرمز زامبی بگذارد، یک پیام متنی
-     * («Zombies can only go right of the red line») نشانش داده می‌شد. حالا
-     * یک خط قرمزِ ضخیم دقیقاً روی مرز ستونِ RED_LINE_COL رسم می‌شود تا هر دو
-     * بازیکن از قبل بدانند کجا مجاز/غیرمجاز است.
+     * نشانش داده می‌شد. حالا یک خط قرمزِ ضخیم دقیقاً روی مرز ستونِ
+     * RED_LINE_COL رسم می‌شود تا هر دو بازیکن از قبل بدانند کجا مجاز است.
      */
     private void drawRedLine(com.badlogic.gdx.graphics.g2d.Batch batch) {
         int redLineCol = session.getRedLineCol();
@@ -376,13 +397,10 @@ public class IZombieCouchScreen implements Screen {
      * === اضافه‌شده: رسم با حفظ نسبت ابعاد (aspect ratio) ===
      * قبلاً هر اسپرایت گیاه/زامبی به‌زور داخل کل مستطیل تایل کش/فشرده
      * می‌شد (batch.draw(tex, x, y, TILE_W-16, TILE_H-16))، بدون توجه به
-     * ابعاد واقعی تصویر (که برای هر گیاه فرق می‌کند، مثلاً ۱۶۹×۱۸۷ یا
-     * ۱۰۷×۹۰). چون ابعاد این باکس با نسبت واقعی تصویر یکی نبود، گیاه/زامبی
-     * کشیده یا فشرده و انگار در خانه‌ی خودش «جابه‌جا» به نظر می‌رسید (دقیقاً
-     * همان چیزی که در عکس بازی اجراشده مشخص است، در مقابل بازی اصلی که هر
-     * گیاه با نسبت درست و چسبیده به کف خانه‌اش رسم می‌شود). این متد همان
-     * راه‌حلی است که در GameScreen.drawFitted استفاده شده: تصویر با حفظ
-     * نسبت ابعاد داخل جعبه جا می‌شود، وسط‌چین افقی و چسبیده به کف تایل.
+     * ابعاد واقعی تصویر (که برای هر گیاه فرق می‌کند). این متد دقیقاً همان
+     * راه‌حلی است که در GameScreen.drawFitted (بازی اصلی) استفاده شده:
+     * تصویر با حفظ نسبت ابعاد داخل جعبه جا می‌شود، وسط‌چین افقی و چسبیده
+     * به کف تایل — دقیقاً مثل عکسی که از بازی اصلی فرستادید.
      */
     private void drawFitted(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
                              float x, float y, float w, float h) {
@@ -406,7 +424,7 @@ public class IZombieCouchScreen implements Screen {
                 Plant plant = board.getTile(r, c).getPlant();
                 if (plant == null) continue;
                 TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(plant.getName()));
-                drawFitted(batch, tex, tileX(c) + 8f, tileY(r) + 4f, TILE_W - 16f, TILE_H - 8f);
+                drawFitted(batch, tex, tileX(c) + 8f, tileY(r) + 6f, TILE_W - 16f, TILE_H - 12f);
 
                 // === اضافه‌شده: نشانگر خورشیدِ آماده‌ی برداشت روی آفتابگردان‌ها ===
                 // بدون این نشانگر بازیکن سمت گیاه اصلاً نمی‌دانست کدام
@@ -419,6 +437,44 @@ public class IZombieCouchScreen implements Screen {
                 }
             }
         }
+    }
+
+    /**
+     * === اضافه‌شده: رسم پرتابه‌ها ===
+     * منطق مدل (Peashooter و مشابه) از قبل کاملاً کار می‌کرد و
+     * session.getActiveProjectiles() پر می‌شد، اما این صفحه هیچ کدی برای
+     * رسم آن‌ها نداشت، پس بازیکن هیچ تیری روی صفحه نمی‌دید. دقیقاً مطابق
+     * GameScreen.drawProjectiles/projectileTexturePath اضافه شد.
+     */
+    private void drawProjectiles(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        for (Projectile p : session.getActiveProjectiles()) {
+            if (p.isDead()) {
+                continue;
+            }
+            TextureRegion tex = ImageUtils.loadRegion(projectileTexturePath(p));
+            float x = tileX(0) + (float) p.getX() * TILE_W;
+            float y = tileY(p.getRow()) + TILE_H / 2f - 8f;
+            batch.draw(tex, x, y, 20f, 20f);
+        }
+    }
+
+    private String projectileTexturePath(Projectile p) {
+        if (p instanceof model.projectile.StrikeThroughProjectile) {
+            return AssetPaths.PROJECTILE_PIERCING;
+        }
+        if (p instanceof model.projectile.LobbedProjectile && ((model.projectile.LobbedProjectile) p).hasSplash()) {
+            if (p.isFire()) {
+                return AssetPaths.PROJECTILE_PEPPER;
+            }
+            return p.isIce() ? AssetPaths.PROJECTILE_FROZEN_WATERMELON : AssetPaths.PROJECTILE_WATERMELON;
+        }
+        if (p.isFire()) {
+            return AssetPaths.PROJECTILE_FIRE;
+        }
+        if (p.isIce()) {
+            return AssetPaths.PROJECTILE_ICE;
+        }
+        return AssetPaths.PROJECTILE_NORMAL;
     }
 
     private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {

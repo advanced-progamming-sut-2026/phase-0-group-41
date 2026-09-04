@@ -40,13 +40,16 @@ public class BoardSnapshot implements Serializable {
     // قبلاً کلاینت هیچ راهی برای دانستن مرز خط قرمز نداشت (چون این مقدار
     // فقط داخل IZombieSession روی سرور بود)، پس صفحه‌ی آنلاین اصلاً خط
     // قرمزی رسم نمی‌کرد. اکنون همراه هر عکس‌فوری ارسال می‌شود تا کلاینت
-    // همیشه دقیقاً با مقدار واقعیِ سرور هماهنگ بماند (به‌جای هاردکد کردن
-    // یک عدد جدا که ممکن است در آینده با تغییر سرور ناهماهنگ شود).
+    // همیشه دقیقاً با مقدار واقعیِ سرور هماهنگ بماند.
     public int redLineCol;
     public List<String> events = new ArrayList<>();
 
     public List<PlantDto> plants = new ArrayList<>();
     public List<ZombieDto> zombies = new ArrayList<>();
+    // === اضافه‌شده: پرتابه‌ها (تیر نخودی و مشابه) ===
+    // قبلاً هیچ داده‌ای از پرتابه‌ها به کلاینت آنلاین ارسال نمی‌شد، پس حتی
+    // اگر peashooter واقعاً شلیک می‌کرد، بازیکن هیچ تیری روی صفحه نمی‌دید.
+    public List<ProjectileDto> projectiles = new ArrayList<>();
 
     public static class PlantDto implements Serializable {
         private static final long serialVersionUID = 1L;
@@ -71,6 +74,17 @@ public class BoardSnapshot implements Serializable {
         public double xPosition;
         public int health;
         public int maxHealth;
+    }
+
+    /** === اضافه‌شده: DTO پرتابه، برای رسم صحیح مسیر تیر در کلاینت آنلاین. === */
+    public static class ProjectileDto implements Serializable {
+        private static final long serialVersionUID = 1L;
+        public int row;
+        public double xPosition;
+        public boolean fire;
+        public boolean ice;
+        public boolean piercing;
+        public boolean splash;
     }
 
     /** ساخت عکس فوری از یک IZombieSession زنده روی سرور. */
@@ -118,6 +132,21 @@ public class BoardSnapshot implements Serializable {
             dto.health = z.getHealth();
             dto.maxHealth = z.getMaxHealth();
             snap.zombies.add(dto);
+        }
+
+        for (model.projectile.Projectile p : session.getActiveProjectiles()) {
+            if (p.isDead()) {
+                continue;
+            }
+            ProjectileDto dto = new ProjectileDto();
+            dto.row = p.getRow();
+            dto.xPosition = p.getX();
+            dto.fire = p.isFire();
+            dto.ice = p.isIce();
+            dto.piercing = p instanceof model.projectile.StrikeThroughProjectile;
+            dto.splash = p instanceof model.projectile.LobbedProjectile
+                    && ((model.projectile.LobbedProjectile) p).hasSplash();
+            snap.projectiles.add(dto);
         }
 
         return snap;

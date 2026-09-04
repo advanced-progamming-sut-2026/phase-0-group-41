@@ -50,10 +50,13 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
     private static final float WORLD_WIDTH = 1280f;
     private static final float WORLD_HEIGHT = 720f;
 
-    private static final float BOARD_LEFT = 260f;
-    private static final float BOARD_TOP = 640f;
-    private static final float TILE_W = 100f;
-    private static final float TILE_H = 96f;
+    // === رفع باگ: بک‌گراند و مختصات زمین با هم منطبق نبودند (مطابق
+    // IZombieCouchScreen) === همان مقادیر کالیبره‌شده‌ی GameScreen استفاده
+    // می‌شود تا شبکه‌ی خانه‌ها روی چمن واقعی درست بنشیند.
+    private static final float BOARD_LEFT = 325f;
+    private static final float BOARD_TOP = 518f;
+    private static final float TILE_W = 98.75f;
+    private static final float TILE_H = 87.9f;
 
     private static final float STATE_POLL_INTERVAL = 0.15f;
     private static final float REACTION_POLL_INTERVAL = 1.0f;
@@ -280,6 +283,7 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
         drawBoard(stage.getBatch());
         if (snapshot != null) {
             drawPlants(stage.getBatch());
+            drawProjectiles(stage.getBatch());
             drawZombies(stage.getBatch());
         }
         stage.getBatch().end();
@@ -356,7 +360,8 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
     }
 
     private void drawBoard(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        TextureRegion bg = ImageUtils.loadRegion(AssetPaths.BG_MINIGAME_IZOMBIE);
+        // === رفع باگ: بک‌گراند اشتباه (مطابق IZombieCouchScreen) ===
+        TextureRegion bg = ImageUtils.loadRegion(AssetPaths.BG_LAWN_NORMAL);
         batch.draw(bg, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
         drawRedLine(batch);
     }
@@ -376,7 +381,7 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
 
     /**
      * === اضافه‌شده: رسم با حفظ نسبت ابعاد، مطابق GameScreen.drawFitted و
-     * IZombieCouchScreen.drawFitted === رفع همان مشکل کش‌شدن/نامتناسب‌شدن
+     * IZombieCouchScreen.drawFitted === رفع مشکل کش‌شدن/نامتناسب‌شدن
      * گیاه‌ها و زامبی‌ها که قبلاً با کشیدن به‌زور داخل TILE_W×TILE_H رخ می‌داد.
      */
     private void drawFitted(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
@@ -397,13 +402,46 @@ public class IZombieMultiplayerScreen implements com.badlogic.gdx.Screen {
     private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
         for (BoardSnapshot.PlantDto p : snapshot.plants) {
             TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(p.name));
-            drawFitted(batch, tex, tileX(p.col) + 8f, tileY(p.row) + 4f, TILE_W - 16f, TILE_H - 8f);
+            drawFitted(batch, tex, tileX(p.col) + 8f, tileY(p.row) + 6f, TILE_W - 16f, TILE_H - 12f);
             // === اضافه‌شده: نشانگر خورشیدِ آماده‌ی برداشت (طرف PLANT) ===
             if (p.sunReady) {
                 TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
                 batch.draw(sunTex, tileX(p.col) + TILE_W - 30f, tileY(p.row) + TILE_H - 30f, 32f, 32f);
             }
         }
+    }
+
+    /**
+     * === اضافه‌شده: رسم پرتابه‌ها (تیر نخودی و مشابه) در حالت آنلاین ===
+     * دقیقاً مطابق GameScreen.drawProjectiles/projectileTexturePath، اما
+     * روی داده‌ی BoardSnapshot.ProjectileDto که سرور می‌فرستد.
+     */
+    private void drawProjectiles(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        for (BoardSnapshot.ProjectileDto p : snapshot.projectiles) {
+            TextureRegion tex = ImageUtils.loadRegion(projectileTexturePath(p));
+            float x = tileX(0) + (float) p.xPosition * TILE_W;
+            float y = tileY(p.row) + TILE_H / 2f - 8f;
+            batch.draw(tex, x, y, 20f, 20f);
+        }
+    }
+
+    private String projectileTexturePath(BoardSnapshot.ProjectileDto p) {
+        if (p.piercing) {
+            return AssetPaths.PROJECTILE_PIERCING;
+        }
+        if (p.splash) {
+            if (p.fire) {
+                return AssetPaths.PROJECTILE_PEPPER;
+            }
+            return p.ice ? AssetPaths.PROJECTILE_FROZEN_WATERMELON : AssetPaths.PROJECTILE_WATERMELON;
+        }
+        if (p.fire) {
+            return AssetPaths.PROJECTILE_FIRE;
+        }
+        if (p.ice) {
+            return AssetPaths.PROJECTILE_ICE;
+        }
+        return AssetPaths.PROJECTILE_NORMAL;
     }
 
     private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {

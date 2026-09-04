@@ -28,6 +28,7 @@ import model.minigame.MiniGameSession;
 import model.minigame.VasebreakerSession;
 import model.minigame.WallnutBowlingSession;
 import model.plant.Plant;
+import model.projectile.Projectile;
 import model.zombie.Zombie;
 
 /**
@@ -441,6 +442,7 @@ public class MiniGameScreen implements Screen {
         drawCraters(stage.getBatch());
         drawVases(stage.getBatch());
         drawPlants(stage.getBatch());
+        drawProjectiles(stage.getBatch());
         drawRollingNuts(stage.getBatch());
         drawZombies(stage.getBatch());
         stage.getBatch().end();
@@ -475,13 +477,34 @@ public class MiniGameScreen implements Screen {
         // منوها استفاده شده) - بدون رنگ خاکستری یا مستطیل دستی.
         TextureRegion bg = ImageUtils.loadRegion(backgroundPath());
         batch.draw(bg, 0, 0, WORLD_WIDTH, WORLD_HEIGHT);
+        // === اضافه‌شده: خط قرمز برای مینی‌گیم «من، زامبی» ===
+        // قبلاً هیچ نشانه‌ی بصری‌ای برای مرز کاشتن زامبی در این صفحه (حالت
+        // تک‌نفره‌ی کلیکی) وجود نداشت.
+        if (session instanceof IZombieSession) {
+            drawRedLine(batch, (IZombieSession) session);
+        }
+    }
+
+    private void drawRedLine(com.badlogic.gdx.graphics.g2d.Batch batch, IZombieSession izSession) {
+        int redLineCol = izSession.getRedLineCol();
+        float x = tileX(redLineCol) - 3f;
+        float y = tileY(Board.ROWS - 1);
+        com.badlogic.gdx.graphics.Color prev = batch.getColor().cpy();
+        batch.setColor(com.badlogic.gdx.graphics.Color.RED);
+        batch.draw(skin.getRegion("white"), x, y, 6f, TILE_H * Board.ROWS);
+        batch.setColor(prev);
     }
 
     private String backgroundPath() {
-        if (session instanceof IZombieSession) {
-            return AssetPaths.BG_MINIGAME_IZOMBIE;
-        }
-        return AssetPaths.BG_MINIGAME_VASEBREAKER; // frontlawn معمولی؛ برای بولینگ و Beghouled هم یکسان است
+        // === رفع باگ: بک‌گراند اشتباه برای «من، زامبی» ===
+        // قبلاً برای IZombieSession از BG_MINIGAME_IZOMBIE (تصویر برندِ
+        // «Big Brainz») استفاده می‌شد که با مختصات BOARD_LEFT/TOP/TILE_W/H
+        // (که از همان GameScreen گرفته شده) هم‌خوان نبود؛ نتیجه این بود که
+        // شبکه‌ی خانه‌ها روی چمنِ آن تصویر جا نمی‌افتاد. حالا همان
+        // BG_LAWN_NORMAL بازی اصلی استفاده می‌شود، دقیقاً مثل بقیه‌ی
+        // مینی‌گیم‌ها (Vasebreaker/بولینگ/Beghouled) که همیشه از آن استفاده
+        // می‌کردند.
+        return AssetPaths.BG_LAWN_NORMAL;
     }
 
     private void drawVases(com.badlogic.gdx.graphics.g2d.Batch batch) {
@@ -543,13 +566,29 @@ public class MiniGameScreen implements Screen {
         }
     }
 
+    private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        Board board = session.getBoard();
+        for (int r = Board.ROWS - 1; r >= 0; r--) {
+            for (int c = 0; c < Board.COLS; c++) {
+                Plant plant = board.getTile(r, c).getPlant();
+                if (plant == null) {
+                    continue;
+                }
+                TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(plant.getName()));
+                drawFitted(batch, tex, tileX(c) + 8f, tileY(r) + 6f, TILE_W - 16f, TILE_H - 12f);
+
+                // نشانگر خورشیدِ آماده‌ی برداشت (مثلاً روی آفتابگردان‌های دفاعی «من زامبی»)
+                if (plant instanceof model.plant.interfaces.ISunProducer
+                        && ((model.plant.interfaces.ISunProducer) plant).isSunReady()) {
+                    TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
+                    batch.draw(sunTex, tileX(c) + TILE_W - 30f, tileY(r) + TILE_H - 30f, 32f, 32f);
+                }
+            }
+        }
+    }
+
     /**
-     * === اضافه‌شده: رسم با حفظ نسبت ابعاد ===
-     * قبلاً گیاه/زامبی به‌زور داخل مستطیل تایل کش می‌شد (بدون توجه به ابعاد
-     * واقعی تصویر که برای هر گیاه/زامبی فرق دارد)؛ همان الگوی
-     * GameScreen.drawFitted و IZombieCouchScreen.drawFitted اینجا هم اعمال
-     * می‌شود تا گرافیک گیاهان/زامبی‌ها در همه‌ی مینی‌گیم‌ها هم مثل بازی اصلی
-     * درست و متناسب نمایش داده شود.
+     * === اضافه‌شده: رسم با حفظ نسبت ابعاد، مطابق GameScreen.drawFitted ===
      */
     private void drawFitted(com.badlogic.gdx.graphics.g2d.Batch batch, TextureRegion tex,
                              float x, float y, float w, float h) {
@@ -566,25 +605,40 @@ public class MiniGameScreen implements Screen {
         batch.draw(tex, drawX, y, drawW, drawH);
     }
 
-    private void drawPlants(com.badlogic.gdx.graphics.g2d.Batch batch) {
-        Board board = session.getBoard();
-        for (int r = Board.ROWS - 1; r >= 0; r--) {
-            for (int c = 0; c < Board.COLS; c++) {
-                Plant plant = board.getTile(r, c).getPlant();
-                if (plant == null) {
-                    continue;
-                }
-                TextureRegion tex = ImageUtils.loadRegion(AssetPaths.plantIcon(plant.getName()));
-                drawFitted(batch, tex, tileX(c) + 8f, tileY(r) + 4f, TILE_W - 16f, TILE_H - 8f);
-
-                // نشانگر خورشیدِ آماده‌ی برداشت (مثلاً روی آفتابگردان‌های دفاعی «من زامبی»)
-                if (plant instanceof model.plant.interfaces.ISunProducer
-                        && ((model.plant.interfaces.ISunProducer) plant).isSunReady()) {
-                    TextureRegion sunTex = ImageUtils.loadRegion(AssetPaths.SUN_NORMAL);
-                    batch.draw(sunTex, tileX(c) + TILE_W - 30f, tileY(r) + TILE_H - 30f, 32f, 32f);
-                }
+    /**
+     * === اضافه‌شده: رسم پرتابه‌ها (تیر نخودی و مشابه) ===
+     * منطق مدل از قبل کار می‌کرد (session.getActiveProjectiles())، اما این
+     * صفحه هیچ کدی برای رسم آن‌ها نداشت.
+     */
+    private void drawProjectiles(com.badlogic.gdx.graphics.g2d.Batch batch) {
+        for (Projectile p : session.getActiveProjectiles()) {
+            if (p.isDead()) {
+                continue;
             }
+            TextureRegion tex = ImageUtils.loadRegion(projectileTexturePath(p));
+            float x = tileX(0) + (float) p.getX() * TILE_W;
+            float y = tileY(p.getRow()) + TILE_H / 2f - 8f;
+            batch.draw(tex, x, y, 20f, 20f);
         }
+    }
+
+    private String projectileTexturePath(Projectile p) {
+        if (p instanceof model.projectile.StrikeThroughProjectile) {
+            return AssetPaths.PROJECTILE_PIERCING;
+        }
+        if (p instanceof model.projectile.LobbedProjectile && ((model.projectile.LobbedProjectile) p).hasSplash()) {
+            if (p.isFire()) {
+                return AssetPaths.PROJECTILE_PEPPER;
+            }
+            return p.isIce() ? AssetPaths.PROJECTILE_FROZEN_WATERMELON : AssetPaths.PROJECTILE_WATERMELON;
+        }
+        if (p.isFire()) {
+            return AssetPaths.PROJECTILE_FIRE;
+        }
+        if (p.isIce()) {
+            return AssetPaths.PROJECTILE_ICE;
+        }
+        return AssetPaths.PROJECTILE_NORMAL;
     }
 
     private void drawZombies(com.badlogic.gdx.graphics.g2d.Batch batch) {
