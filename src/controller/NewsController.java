@@ -27,7 +27,7 @@ public class NewsController {
         if (currentUser == null) return all;
 
         for (NewsMessage msg : currentUser.getNewsList()) {
-            String prefix = msg.isRead() ? "[خوانده شده] " : "[جدید] ";
+            String prefix = msg.isRead() ? "[Read] " : "[New] ";
             all.add(prefix + msg.getContent());
         }
         return all;

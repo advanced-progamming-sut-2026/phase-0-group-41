@@ -31,7 +31,7 @@ public class MiniGameResultScreen extends BaseMenuScreen {
             user.setMiniGamesCompleted(user.getMiniGamesCompleted() + 1);
             user.recordMiniGameLevelWon(gameNameToId(gameName), level);
             if (level < 3) {
-                user.addNews("سطح جدید مینی‌گیم باز شد: " + gameName + " - سطح " + (level + 1));
+                user.addNews("New mini-game level unlocked: " + gameName + " - Level " + (level + 1));
             }
             game.getUserManager().save();
         }

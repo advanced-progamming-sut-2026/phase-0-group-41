@@ -27,7 +27,7 @@ public class QuestScreen extends BaseMenuScreen {
 
         ScrollPane scrollPane = new ScrollPane(listTable, skin);
         scrollPane.setFadeScrollBars(false);
-        rootTable.add(scrollPane).width(800f).height(420f).padBottom(16f).row();
+        rootTable.add(scrollPane).width(900f).height(440f).padBottom(16f).row();
 
         rootTable.add(errorLabel).width(600f).padBottom(10f).row();
 
@@ -50,24 +50,39 @@ public class QuestScreen extends BaseMenuScreen {
         for (Quest quest : quests) {
             Label nameLabel = new Label(quest.getTitle(), skin);
             nameLabel.setWrap(true);
+            nameLabel.setFontScale(1.05f);
+
             Label descLabel = new Label(quest.getDescription(), skin);
             descLabel.setWrap(true);
             descLabel.setFontScale(0.85f);
 
-            String status = quest.isClaimed() ? "Claimed"
-                    : quest.isCompleted() ? "Ready to claim"
+            Label rewardLabel = new Label("Reward: " + quest.getRewardsSummary(), skin);
+            rewardLabel.setWrap(true);
+            rewardLabel.setFontScale(0.8f);
+            rewardLabel.setColor(0.85f, 0.75f, 0.2f, 1f);
+
+            String status = quest.isRewardClaimed() ? "Claimed"
+                    : quest.isCompleted() ? "Ready to claim!"
                     : "In progress";
             Label statusLabel = new Label(status, skin);
+            if (quest.isRewardClaimed()) {
+                statusLabel.setColor(0.6f, 0.6f, 0.6f, 1f);
+            } else if (quest.isCompleted()) {
+                statusLabel.setColor(0.3f, 0.9f, 0.3f, 1f);
+            } else {
+                statusLabel.setColor(1f, 1f, 1f, 1f);
+            }
 
             Table row = new Table();
-            row.add(nameLabel).width(280f).left().row();
-            row.add(descLabel).width(280f).left().row();
+            row.add(nameLabel).width(340f).left().row();
+            row.add(descLabel).width(340f).left().padTop(2f).row();
+            row.add(rewardLabel).width(340f).left().padTop(2f).row();
 
-            listTable.add(row).width(300f).padRight(10f).padBottom(10f);
-            listTable.add(statusLabel).width(140f).padBottom(10f);
+            listTable.add(row).width(360f).padRight(12f).padBottom(14f).padTop(10f);
+            listTable.add(statusLabel).width(140f).padBottom(14f).padTop(10f);
 
             TextButton claimButton = new TextButton("Claim Reward", skin);
-            boolean canClaim = quest.isCompleted() && !quest.isClaimed();
+            boolean canClaim = quest.isCompleted() && !quest.isRewardClaimed();
             claimButton.setDisabled(!canClaim);
             claimButton.setTouchable(canClaim
                     ? com.badlogic.gdx.scenes.scene2d.Touchable.enabled
@@ -78,7 +93,7 @@ public class QuestScreen extends BaseMenuScreen {
                     doClaim(quest.getId());
                 }
             });
-            listTable.add(claimButton).width(160f).height(44f).padBottom(10f).row();
+            listTable.add(claimButton).width(160f).height(44f).padBottom(14f).padTop(10f).row();
         }
 
         if (quests.isEmpty()) {

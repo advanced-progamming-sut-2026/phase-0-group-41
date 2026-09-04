@@ -198,7 +198,7 @@ public class AppController {
                         // و به لیست گیاهان در دسترس (منوی انتخاب گیاه) اضافه می‌گردد.
                         String newlyUnlocked = user.unlockNextPlant();
                         if (newlyUnlocked != null) {
-                            user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                            user.addNews("New plant unlocked: " + newlyUnlocked);
                             view.printMessage("🌱 گیاه جدید آنلاک شد: " + newlyUnlocked);
                         }
                     }
@@ -213,7 +213,7 @@ public class AppController {
                     // و به لیست گیاهان در دسترس (منوی انتخاب گیاه) اضافه می‌گردد.
                     String newlyUnlocked = user.unlockNextPlant();
                     if (newlyUnlocked != null) {
-                        user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                        user.addNews("New plant unlocked: " + newlyUnlocked);
                         view.printMessage("🌱 گیاه جدید آنلاک شد: " + newlyUnlocked);
                     }
                     // اگر ۴ مرحله یک فصل تمام شد، فصل جدید باز می‌شود
@@ -222,11 +222,11 @@ public class AppController {
                         user.setLastCompletedLevel(0); // ریست برای شروع فصل جدید
                         view.printMessage("🏆 تبریک! شما فصل " + activeChapter + " را با موفقیت به پایان رساندید!");
                         if (activeChapter < model.game.ChapterPlan.LAST_CHAPTER) {
-                            user.addNews("فصل جدید باز شد: " + model.game.ChapterPlan.displayName(activeChapter + 1));
+                            user.addNews("New chapter unlocked: " + model.game.ChapterPlan.displayName(activeChapter + 1));
                         }
                     } else {
-                        user.addNews("مرحله‌ی جدید باز شد: فصل " + model.game.ChapterPlan.displayName(activeChapter)
-                                + " - مرحله " + (activeLevel + 1));
+                        user.addNews("New level unlocked: " + model.game.ChapterPlan.displayName(activeChapter)
+                                + " - Level " + (activeLevel + 1));
                     }
                 }
             }
@@ -255,7 +255,7 @@ public class AppController {
                 view.printMessage("🏆 مینی‌گیم " + activeMiniGameName + " (سطح " + activeMiniGameLevel + ") با موفقیت تمام شد!");
                 if (activeMiniGameLevel < 3) {
                     view.printMessage("سطح " + (activeMiniGameLevel + 1) + " اکنون باز شد.");
-                    user.addNews("سطح جدید مینی‌گیم باز شد: " + activeMiniGameName + " - سطح " + (activeMiniGameLevel + 1));
+                    user.addNews("New mini-game level unlocked: " + activeMiniGameName + " - Level " + (activeMiniGameLevel + 1));
                 }
             } else {
                 view.printMessage("مینی‌گیم " + activeMiniGameName + " را باختید.");

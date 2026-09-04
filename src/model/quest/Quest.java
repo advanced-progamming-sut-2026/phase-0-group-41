@@ -37,52 +37,15 @@ public class Quest implements Serializable{
         this.condition = condition;
         this.rewards = rewards;
     }
-    private boolean isClaimed = false;
-    private RewardType rewardType;
-    private int rewardAmount;
-    private String rewardItemId;
-    private String name;
 
+    /**
+     * نام نمایشی کوئست. همیشه همان title سازنده است؛
+     * قبلاً یک فیلد جدای همیشه-null بود که باعث می‌شد نام کوئست‌ها در UI خالی/نامفهوم دیده شود.
+     */
     public String getName() {
-        return this.name;
+        return this.title;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public boolean isClaimed() {
-        return isClaimed;
-    }
-
-    public void setClaimed(boolean claimed) {
-        this.isClaimed = claimed;
-    }
-
-    public RewardType getRewardType() {
-        return rewardType;
-    }
-
-    // برای تنظیم نوع پاداش (در کانستراکتور یا متدهای دیگر Quest استفاده کنید)
-    public void setRewardType(RewardType rewardType) {
-        this.rewardType = rewardType;
-    }
-
-    public int getRewardAmount() {
-        return rewardAmount;
-    }
-
-    public void setRewardAmount(int rewardAmount) {
-        this.rewardAmount = rewardAmount;
-    }
-
-    public String getRewardItemId() {
-        return rewardItemId;
-    }
-
-    public void setRewardItemId(String rewardItemId) {
-        this.rewardItemId = rewardItemId;
-    }
     public String getId() {
         return id;
     }
@@ -120,6 +83,27 @@ public class Quest implements Serializable{
     }
 
     /**
+     * Alias for isRewardClaimed(), kept for the UI/console layers that call
+     * isClaimed(). There is only one claimed-state field (rewardClaimed);
+     * this avoids having two independent flags that can drift out of sync.
+     */
+    public boolean isClaimed() {
+        return rewardClaimed;
+    }
+
+    /**
+     * توضیح خوانا از پاداش‌های این کوئست، برای نمایش در UI (مثلا "200 COIN, 1x seed_packet_random").
+     */
+    public String getRewardsSummary() {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < rewards.size(); i++) {
+            if (i > 0) sb.append(", ");
+            sb.append(rewards.get(i).toString());
+        }
+        return sb.toString();
+    }
+
+    /**
      * بررسی می‌کند آیا شرط این کوئست با وضعیت فعلی برآورده شده است یا نه.
      * در صورت برآورده شدن، وضعیت completed را true می‌کند.
      */
@@ -136,10 +120,10 @@ public class Quest implements Serializable{
      */
     public void claimReward(PlayerProfile profile) {
         if (!completed) {
-            throw new IllegalStateException("کوئست هنوز تکمیل نشده است: " + id);
+            throw new IllegalStateException("Quest is not completed yet: " + id);
         }
         if (rewardClaimed && !repeatable) {
-            throw new IllegalStateException("پاداش این کوئست قبلا دریافت شده است: " + id);
+            throw new IllegalStateException("Reward for this quest was already claimed: " + id);
         }
         for (QuestReward reward : rewards) {
             reward.apply(profile);
@@ -153,7 +137,7 @@ public class Quest implements Serializable{
      */
     public void resetForNextCycle() {
         if (!repeatable) {
-            throw new IllegalStateException("این کوئست تکرارپذیر نیست: " + id);
+            throw new IllegalStateException("This quest is not repeatable: " + id);
         }
         completed = false;
         rewardClaimed = false;

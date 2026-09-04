@@ -48,7 +48,7 @@ public class WinLossScreen extends BaseMenuScreen {
                     // فراموش شده بود.
                     String newlyUnlocked = user.unlockNextPlant();
                     if (newlyUnlocked != null) {
-                        user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                        user.addNews("New plant unlocked: " + newlyUnlocked);
                     }
                 }
             } else if (chapter > user.getLastCompletedChapter()
@@ -58,17 +58,17 @@ public class WinLossScreen extends BaseMenuScreen {
                 // و به لیست گیاهان در دسترس (منوی انتخاب گیاه) اضافه می‌گردد.
                 String newlyUnlocked = user.unlockNextPlant();
                 if (newlyUnlocked != null) {
-                    user.addNews("گیاه جدید آنلاک شد: " + newlyUnlocked);
+                    user.addNews("New plant unlocked: " + newlyUnlocked);
                 }
                 if (level >= model.game.ChapterPlan.LEVELS_PER_CHAPTER) {
                     user.setLastCompletedChapter(chapter);
                     user.setLastCompletedLevel(0); // ریست برای شروع فصل جدید
                     if (chapter < model.game.ChapterPlan.LAST_CHAPTER) {
-                        user.addNews("فصل جدید باز شد: " + model.game.ChapterPlan.displayName(chapter + 1));
+                        user.addNews("New chapter unlocked: " + model.game.ChapterPlan.displayName(chapter + 1));
                     }
                 } else {
-                    user.addNews("مرحله‌ی جدید باز شد: فصل " + model.game.ChapterPlan.displayName(chapter)
-                            + " - مرحله " + (level + 1));
+                    user.addNews("New level unlocked: " + model.game.ChapterPlan.displayName(chapter)
+                            + " - Level " + (level + 1));
                 }
             }
             if (scoreEarned > user.getHighScore()) {

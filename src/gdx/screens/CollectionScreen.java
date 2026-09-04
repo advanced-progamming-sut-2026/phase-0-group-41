@@ -211,7 +211,7 @@ public class CollectionScreen extends BaseMenuScreen {
                 }
                 user.getUnlockedPlants().add(plantName);
                 user.addSeedPackets(plantName, 1);
-                user.addNews("گیاه جدید باز شد: " + plantName);
+                user.addNews("New plant unlocked: " + plantName);
                 game.getUserManager().save();
                 hudBar.refresh(user);
                 refreshList();

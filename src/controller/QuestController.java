@@ -2,7 +2,6 @@ package controller;
 
 import model.quest.Quest;
 import model.quest.QuestManager;
-import model.quest.RewardType;
 import model.user.User;
 import model.user.UserManager;
 import java.util.List;
@@ -25,18 +24,12 @@ public class QuestController {
 
         if (quest == null) return ClaimResult.INVALID_ID;
         if (!quest.isCompleted()) return ClaimResult.NOT_COMPLETED;
-        if (quest.isClaimed()) return ClaimResult.ALREADY_CLAIMED;
+        if (quest.isRewardClaimed() && !quest.isRepeatable()) return ClaimResult.ALREADY_CLAIMED;
 
-        RewardType type = quest.getRewardType();
-        if (type == RewardType.CURRENCY) {
-            user.addCoins(quest.getRewardAmount());
-        } else if (type == RewardType.UNLOCKABLE) {
-            user.unlock(quest.getRewardItemId());
-        } else if (type == RewardType.INVENTORY) {
-            user.addItemToInventory(quest.getRewardItemId(), quest.getRewardAmount());
-        }
+        // این متد rewards واقعی کوئست (QuestReward) را روی پروفایل بازیکن اعمال می‌کند
+        // و در صورت تکرارپذیر بودن، کوئست را برای دور بعد ریست می‌کند.
+        qm.claimReward(questId, user);
 
-        quest.setClaimed(true);
         userManager.save();
         return ClaimResult.SUCCESS;
     }

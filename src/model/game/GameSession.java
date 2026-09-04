@@ -154,7 +154,7 @@ public class GameSession {
     private void registerZombieSeen(Zombie z) {
         String typeName = z.getTypeName();
         if (user.getSeenZombies().add(typeName)) {
-            user.addNews("زامبی جدید کشف شد: " + typeName);
+            user.addNews("New zombie discovered: " + typeName);
         }
     }
 

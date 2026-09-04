@@ -433,7 +433,10 @@ public class QuestFactory {
         List<Quest> quests = new ArrayList<>();
 
         // اصلی
-        quests.add(createUnlockPlantQuest());
+        // توجه: این کوئست قبلا دوبار اضافه می‌شد (دو Quest جدا با آیدی یکسان
+        // "critical_unlock_peashooter"). چون claim بر اساس آیدی انجام می‌شود،
+        // کلیک روی هرکدام از آن دو ردیف در UI باعث claim شدن همان یک کوئست
+        // می‌شد و کلیک دوم همیشه خطای "قبلا دریافت شده" می‌داد.
         quests.add(createUnlockPlantQuest());
         quests.addAll(createEconomicPlantEaterQuests());
         quests.add(createQuickActionQuest());
