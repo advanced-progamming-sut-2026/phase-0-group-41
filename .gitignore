@@ -51,3 +51,4 @@ pvz_users.dat
 # فایل‌های موقت ادیتور
 *~
 *.swp
+gradle.properties
