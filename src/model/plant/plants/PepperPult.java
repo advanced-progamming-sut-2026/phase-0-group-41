@@ -34,10 +34,14 @@ public class PepperPult extends Plant implements IShooter {
             decayFeedEffect();
             return;
         }
-        tickCounter += 1.0;
-        if (tickCounter >= actionInterval) {
-            shoot(session);
-            tickCounter -= actionInterval;
+        if (isZombieInRow(session, getRow())) {
+            tickCounter += 1;
+            if (tickCounter >= actionInterval) {
+                shoot(session);
+                tickCounter -= actionInterval;
+            }
+        } else {
+            tickCounter = 0; // زامبی‌ای در ردیف نیست، شمارنده ریست می‌شود و شلیک متوقف می‌ماند
         }
     }
 

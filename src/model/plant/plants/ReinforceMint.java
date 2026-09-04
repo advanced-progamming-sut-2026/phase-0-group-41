@@ -11,6 +11,7 @@ public class ReinforceMint extends Plant implements IExplosive {
     private int level = 1;
 
     public ReinforceMint() {
+        // طبق شیت اکسل رسمی: Cost=0, HP=0, Recharge=85s → گیاه مصرفی آنی است.
         super("reinforcemint", PlantType.WALL_NUT, 0, 850, 0);
     }
 
@@ -23,6 +24,7 @@ public class ReinforceMint extends Plant implements IExplosive {
         }
         if (isTransformedToCat() || isOctopused()) return;
 
+        // طبق داک: مصرفی آنی. بلافاصله بعد از کاشت اثر خانوادگی را اعمال می‌کند.
         if (!hasTriggered) {
             explode(session);
             hasTriggered = true;
@@ -34,11 +36,15 @@ public class ReinforceMint extends Plant implements IExplosive {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان Wall-nut اعمال کرد!");
         session.triggerFamilyPlantFood(model.plant.PlantType.WALL_NUT, 0);
         this.takeDamage(9999);
+        session.triggerFamilyPlantFood(model.plant.PlantType.WALL_NUT, 0);
     }
 
     @Override
     public void feed(GameSession session) {
-        System.out.println(getName() + " مصرفی آنی است و فود دریافت نمی‌کند.");
+        if (!hasTriggered) {
+            explode(session);
+            hasTriggered = true;
+        }
     }
 
     public void applyUpgradeLevel(int newLevel) {

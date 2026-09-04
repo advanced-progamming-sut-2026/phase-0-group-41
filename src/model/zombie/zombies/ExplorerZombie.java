@@ -23,6 +23,31 @@ public class ExplorerZombie extends Zombie { // 🌟 اضافه شدن ارث‌
         isTorchLit = true;
     }
 
+    public boolean isTorchLit() {
+        return isTorchLit;
+    }
+
+    // === رفع باگ: مشعل هرگز خاموش/روشن نمی‌شد ===
+    // extinguishTorch/igniteTorch از قبل نوشته شده بودند اما هیچ گیاه یخی یا
+    // آتشینی آن‌ها را صدا نمی‌زد (SnowPea/WinterMelon/IcebergLettuce فقط
+    // Zombie.applyChill عمومی را صدا می‌زدند، Jalapeno/PepperPult/FirePeashooter
+    // فقط Zombie.removeChill عمومی را). با override این دو متد پایه، هر منبع
+    // یخ/آتشِ موجود در بازی (بدون نیاز به تغییر در خودِ گیاهان) به‌صورت خودکار
+    // مشعل کاوشگر را هم خاموش/روشن می‌کند؛ در نتیجه وقتی مشعل خاموش است، این
+    // زامبی مثل یک زامبی عادی (کند و با گاز زدن) راه می‌رود، نه با سوزاندن آنی
+    // گیاهان و عبور از آن‌ها.
+    @Override
+    public void applyChill(int durationTicks) {
+        super.applyChill(durationTicks);
+        extinguishTorch();
+    }
+
+    @Override
+    public void removeChill() {
+        super.removeChill();
+        igniteTorch();
+    }
+
     @Override
     public void onTick(GameSession session) {
         if (isDead()) return; // 🌟 پرانتز اضافه شد

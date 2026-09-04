@@ -6,7 +6,6 @@ import model.plant.PlantType;
 import model.plant.interfaces.IExplosive;
 
 public class EnlightenMint extends Plant implements IExplosive {
-
     private int currentSunCost = 0;
     private int currentCooldown = 850;
     private int durationBonusTicks = 0; // برای لول 2
@@ -14,6 +13,7 @@ public class EnlightenMint extends Plant implements IExplosive {
     private int level = 1;
 
     public EnlightenMint() {
+        // طبق شیت اکسل رسمی: Cost=0, HP=0, Recharge=85s → گیاه مصرفی آنی است.
         super("enlightenmint", PlantType.SUN_PRODUCER, 0, 850, 0);
     }
 
@@ -27,8 +27,9 @@ public class EnlightenMint extends Plant implements IExplosive {
         if (isTransformedToCat() || isOctopused()) return;
         // =======================
 
+        // طبق داک: مصرفی آنی. بلافاصله بعد از کاشت اثر خانوادگی را اعمال می‌کند.
         if (!hasTriggered) {
-            explode(session); // در اینجا به عنوان انتشار پالس منت عمل می‌کند
+            explode(session);
             hasTriggered = true;
         }
     }
@@ -38,11 +39,15 @@ public class EnlightenMint extends Plant implements IExplosive {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Sun Producer) اعمال کرد!");
         session.triggerFamilyPlantFood(model.plant.PlantType.SUN_PRODUCER, durationBonusTicks);
         this.takeDamage(9999);
+        session.triggerFamilyPlantFood(model.plant.PlantType.SUN_PRODUCER, durationBonusTicks);
     }
 
     @Override
     public void feed(GameSession session) {
-        System.out.println(getName() + " مصرفی آنی است و Plant Food دریافت نمی‌کند.");
+        if (!hasTriggered) {
+            explode(session); // در اینجا به عنوان انتشار پالس منت عمل می‌کند
+            hasTriggered = true;
+        }
     }
 
     public void applyUpgradeLevel(int newLevel) {
@@ -53,10 +58,8 @@ public class EnlightenMint extends Plant implements IExplosive {
             System.out.println("ریست کردن کول‌دان تمام گیاهان خانواده در سطح نقشه (Reset family cooldowns)");
         }
     }
-
     @Override
     public int getSunCost() { return currentSunCost; }
-
     @Override
     public int getCooldownTicks() { return currentCooldown; }
 }
