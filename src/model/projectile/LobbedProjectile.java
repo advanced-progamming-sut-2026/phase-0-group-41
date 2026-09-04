@@ -11,13 +11,18 @@ public class LobbedProjectile extends Projectile {
     private final int splashDamage;
     private final boolean hasSplash;
     private boolean isButter = false; // مخصوص Kernel-pult
-    
+    private final double startX; // نقطه‌ی شروع پرتاب، برای محاسبه‌ی مسیر سهموی در نمایش گرافیکی
+
     public LobbedProjectile(int row, double startX, int damage, int splashDamage, double speed) {
         super(row, startX, damage, speed);
         this.splashDamage = splashDamage;
         this.hasSplash = (splashDamage > 0);
+        this.startX = startX;
     }
-    
+
+    /** نقطه‌ی شروع (X) پرتاب، لازم برای محاسبه‌ی ارتفاع منحنی/سهموی حرکت در رندر. */
+    public double getStartX() { return startX; }
+
     public void setButter(boolean butter) { this.isButter = butter; }
 
     /** آیا این پرتابه آسیب مساحتی (Splash) دارد؟ برای تشخیص بصری هندوانه/Pepper-pult از پرتابه‌ی ساده‌ی معمولی. */
@@ -27,7 +32,7 @@ public class LobbedProjectile extends Projectile {
     public void onTick(GameSession session) {
         if (isDead) return;
 
-        x += speed; // حرکت منحنی در فضای دوبعدی ما همان حرکت به جلو با منطق برخورد متفاوت است
+        x += speed; // منطق برخورد بر اساس پیشروی افقی است؛ ارتفاع سهموی صرفاً بخش نمایشی (رندر) است و روی این محاسبه اثر ندارد
 
         // ۱. نابودی در صورت خروج از صفحه
         if (x > Board.COLS) {

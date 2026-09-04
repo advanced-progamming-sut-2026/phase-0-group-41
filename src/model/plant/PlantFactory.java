@@ -10,21 +10,52 @@ import java.util.List;
  */
 public final class PlantFactory {
 
+    /**
+     * ترتیب آنلاک گیاهان.
+     *
+     * توجه: قبلاً این لیست به ترتیب الفبای انگلیسی مرتب شده بود که باعث می‌شد
+     * ترتیب آنلاک شدن گیاهان (در متد model.user.User#unlockNextPlant) هیچ
+     * ربطی به منطق واقعی بازی نداشته باشد (مثلاً گیاهان خانواده «Mint» که در
+     * بازی اصلی گیاهان قدرتمند و پیشرفته‌ی اواخر بازی هستند، به خاطر حرف اول
+     * اسمشان جزو اولین گیاهان آنلاک‌شده بودند). این لیست بازنویسی شده تا با
+     * منطق واقعی بازی (Plants vs. Zombies 2) هم‌خوانی داشته باشد:
+     * ابتدا گیاهان دفاعی/تهاجمی پایه و ساده، سپس گیاهان تخصصی هر دنیا،
+     * و در پایان گیاهان پیشرفته/پریمال و گیاهان خانواده Mint (که برای فعال
+     * شدن نیاز به ترکیب با گیاهان خانوادگی‌ای دارند که باید از قبل باز شده
+     * باشند) قرار می‌گیرند.
+     */
     private static final List<String> KNOWN_PLANTS = Arrays.asList(
-            "appeasemint", "armamint", "bombardmint", "bonkchoy", "bowlingbulb",
-            "cabbagepult", "cactus", "cattail", "cattailmint", "caulipower",
-            "cherrybomb", "chomper", "citron", "doomshroom", "electricblueberry",
-            "enchantmint", "endurian", "enforcemint", "enlightenmint", "explodeonut",
-            "firepeashooter", "fumeshroom", "garlic", "goldbloom", "goopeashooter",
-            "grapeshot", "gravebuster", "hotpotato", "hypnoshroom", "iceberglettuce",
-            "iceshroom", "imitater", "jalapeno", "kernelpult", "kiwibeast",
-            "lilypad", "magnetshroom", "megagatlingpea", "melonpult", "peapod",
-            "peashooter", "pepperpult", "phatbeet", "piercemint", "potatomine",
-            "primalpotatomine", "primalsunflower", "puffshroom", "pumpkin", "reinforcemint",
-            "repeater", "rotobaga", "seashroom", "snowpea", "splitpea",
-            "squash", "starfruit", "sunbean", "sunflower", "sunshroom",
-            "sweetpotato", "tallnut", "tanglekelp", "threepeater", "torchwood",
-            "twinsunflower", "wallnut", "wasabiwhip", "wintermelon"
+            // --- گیاهان پایه (peashooter/sunflower/wallnut از ابتدای بازی به‌صورت
+            //     پیش‌فرض داده می‌شوند؛ اینجا هم حضور دارند تا لیست کامل بماند، اما
+            //     چون از قبل آنلاک‌اند، unlockNextPlant از رویشان رد می‌شود) ---
+            "peashooter", "sunflower", "wallnut",
+            "repeater", "cherrybomb", "potatomine", "snowpea",
+
+            // --- گیاهان تهاجمی و دفاعی اولیه ---
+            "cabbagepult", "kernelpult", "melonpult", "pepperpult", "splitpea",
+            "tallnut", "torchwood", "threepeater", "garlic", "cactus",
+
+            // --- گیاهان تخصصی و مینی‌گیم‌محور اوایل تا میانه‌ی بازی ---
+            "puffshroom", "sunshroom", "fumeshroom", "hypnoshroom", "iceshroom",
+            "doomshroom", "magnetshroom", "seashroom", "chomper", "squash",
+            "lilypad", "tanglekelp", "cattail", "starfruit", "bonkchoy",
+
+            // --- گیاهان دنیای مصر/دریا/فضایی و موارد ویژه ---
+            "citron", "bowlingbulb", "rotobaga", "explodeonut", "phatbeet",
+            "goopeashooter", "firepeashooter", "iceberglettuce", "wasabiwhip", "pumpkin",
+
+            // --- گیاهان جدید/پاداشی و تقویت‌شده ---
+            "endurian", "sweetpotato", "hotpotato", "sunbean", "goldbloom",
+            "gravebuster", "electricblueberry", "twinsunflower", "wintermelon", "caulipower",
+
+            // --- گیاهان قدرتمند و پریمال (اواخر بازی) ---
+            "jalapeno", "grapeshot", "megagatlingpea", "kiwibeast", "primalsunflower",
+            "primalpotatomine", "imitater", "peapod",
+
+            // --- خانواده Mint: قوی‌ترین و آخرین گیاهان قابل‌آنلاک، چون منطقشان
+            //     مبتنی بر تقویت خانواده‌ای است که باید از قبل در دسترس باشد ---
+            "enlightenmint", "reinforcemint", "appeasemint", "enforcemint", "armamint",
+            "piercemint", "bombardmint", "cattailmint", "enchantmint"
     );
 
     private PlantFactory() {

@@ -42,11 +42,25 @@ sourceSets {
         java {
             srcDirs = ['src']
         }
-        //resources {
-        //    srcDirs = ['assets']
-        //}
+        resources {
+            srcDirs = ['assets']
+        }
     }
 }
+
+// tasks.named('run', JavaExec) {
+//     jvmArgs = ['-Dfile.encoding=UTF-8']
+//     workingDir = rootProject.projectDir
+// }
+
+// tasks.register('runGdx', JavaExec) {
+//     group = 'application'
+//     description = 'اجرای نسخه‌ی گرافیکی بازی (libGDX / Scene2D)'
+//     classpath = sourceSets.main.runtimeClasspath
+//     mainClass.set('gdx.DesktopLauncher')
+//     jvmArgs = ['-Dfile.encoding=UTF-8']
+//     workingDir = rootProject.projectDir
+// }
 
 repositories {
     maven { url 'https://jitpack.io' }

@@ -11,6 +11,7 @@ public class ArmaMint extends Plant implements IExplosive {
     private int level = 1;
 
     public ArmaMint() {
+        // طبق شیت اکسل رسمی: Cost=0, HP=0, Recharge=85s → گیاه مصرفی آنی است.
         super("armamint", PlantType.LOBBER, 0, 850, 0);
     }
 
@@ -24,6 +25,7 @@ public class ArmaMint extends Plant implements IExplosive {
         if (isTransformedToCat() || isOctopused()) return;
         // =======================
 
+        // طبق داک: مصرفی آنی. بلافاصله بعد از کاشت اثر خانوادگی را اعمال می‌کند.
         if (!hasTriggered) {
             explode(session);
             hasTriggered = true;
@@ -33,13 +35,18 @@ public class ArmaMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان Lobber اعمال کرد!");
-        session.triggerFamilyPlantFood(model.plant.PlantType.LOBBER, 0);
+        // ابتدا خودش را از بازی خارج می‌کنیم تا در حلقه‌ی triggerFamilyPlantFood
+        // (که هم‌خانواده‌ها را با feed() فعال می‌کند) دوباره خودش را فعال نکند.
         this.takeDamage(9999);
+        session.triggerFamilyPlantFood(model.plant.PlantType.LOBBER, 0);
     }
 
     @Override
     public void feed(GameSession session) {
-        System.out.println(getName() + " مصرفی آنی است و فود دریافت نمی‌کند.");
+        if (!hasTriggered) {
+            explode(session);
+            hasTriggered = true;
+        }
     }
 
     public void applyUpgradeLevel(int newLevel) {

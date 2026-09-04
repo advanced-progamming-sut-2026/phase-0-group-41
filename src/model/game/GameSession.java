@@ -292,6 +292,20 @@ public class GameSession {
             }
         }
 
+        // تیک پرتابه‌ها — عمداً قبل از تیک گیاهان اجرا می‌شود: اگر پرتابه‌ای همین
+        // تیک آخرین زامبیِ یک ردیف را بکشد، takeDamage بلافاصله isDead() آن زامبی
+        // را true می‌کند؛ در نتیجه وقتی بلافاصله بعد از این حلقه نوبت به تیک
+        // گیاهان می‌رسد، isZombieInRow آن زامبی را «مرده» می‌بیند و گیاه پرتاب‌گر
+        // یک شلیک اضافه‌ی «شبح» به سمت ردیفِ خالی انجام نمی‌دهد.
+        List<model.projectile.Projectile> deadProjectiles = new ArrayList<>();
+        for (model.projectile.Projectile p : activeProjectiles) {
+            p.onTick(this);
+            if (p.isDead()) {
+                deadProjectiles.add(p);
+            }
+        }
+        activeProjectiles.removeAll(deadProjectiles);
+
         // تیک گیاهان
         for (int r = 0; r < Board.ROWS; r++) {
             for (int c = 0; c < Board.COLS; c++) {
@@ -312,16 +326,6 @@ public class GameSession {
                 }
             }
         }
-
-        // تیک پرتابه‌ها
-        List<model.projectile.Projectile> deadProjectiles = new ArrayList<>();
-        for (model.projectile.Projectile p : activeProjectiles) {
-            p.onTick(this);
-            if (p.isDead()) {
-                deadProjectiles.add(p);
-            }
-        }
-        activeProjectiles.removeAll(deadProjectiles);
 
         // حرکت / حمله زامبی‌ها
         List<Zombie> deadZombies = new ArrayList<>();

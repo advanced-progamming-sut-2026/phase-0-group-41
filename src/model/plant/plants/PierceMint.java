@@ -7,13 +7,13 @@ import model.plant.interfaces.IExplosive;
 
 public class PierceMint extends Plant implements IExplosive {
 
-    private int currentSunCost = 0;
     private int currentCooldown = 850;
     private int durationBonusTicks = 0;
     private boolean hasTriggered = false;
     private int level = 1;
 
     public PierceMint() {
+        // طبق شیت اکسل رسمی: Cost=0, HP=0, Recharge=85s → گیاه مصرفی آنی است.
         super("piercemint", PlantType.STRIKE_THROUGH, 0, 850, 0);
     }
 
@@ -27,6 +27,7 @@ public class PierceMint extends Plant implements IExplosive {
         if (isTransformedToCat() || isOctopused()) return;
         // =======================
 
+        // طبق داک: مصرفی آنی. بلافاصله بعد از کاشت اثر خانوادگی را اعمال می‌کند.
         if (!hasTriggered) {
             explode(session);
             hasTriggered = true;
@@ -36,12 +37,15 @@ public class PierceMint extends Plant implements IExplosive {
     @Override
     public void explode(GameSession session) {
         System.out.println(getName() + " فعال شد و Plant Food موقت به تمام گیاهان خانواده خود (Strike-through) اعمال کرد!");
-        session.triggerFamilyPlantFood(model.plant.PlantType.STRIKE_THROUGH, durationBonusTicks);
         this.takeDamage(9999);
+        session.triggerFamilyPlantFood(model.plant.PlantType.STRIKE_THROUGH, durationBonusTicks);
     }
     @Override
     public void feed(GameSession session) {
-        System.out.println(getName() + " مصرفی آنی است و Plant Food دریافت نمی‌کند.");
+        if (!hasTriggered) {
+            explode(session);
+            hasTriggered = true;
+        }
     }
 
     public void applyUpgradeLevel(int newLevel) {
@@ -52,9 +56,6 @@ public class PierceMint extends Plant implements IExplosive {
             System.out.println("قابلیت ویژه Lvl 4: ریست کردن کول‌دان تمام گیاهان خانواده Pierce-mint در سطح نقشه!");
         }
     }
-
-    @Override
-    public int getSunCost() { return currentSunCost; }
 
     @Override
     public int getCooldownTicks() { return currentCooldown; }
